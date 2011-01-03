@@ -2,12 +2,6 @@
 # GTFS mirroring tool.  This allows us to keep the GTFS data from Adelaide
 # Metro into a revision control system (so we could look up historical data).
 #
-# It should be trivial to adapt this to monitor another public transit system.
-#
-# This is best used in a weekly crontab on Sunday mornings.  You shouldn't
-# need to run this script yourself though, I already provide a repository
-# at <https://github.com/micolous/adelaidemetro-gtfs>
-#
 # Copyright 2011 Michael Farrell <http://micolous.id.au>
 #
 # This program is free software. It comes without any warranty, to
