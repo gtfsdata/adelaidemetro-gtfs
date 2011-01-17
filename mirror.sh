@@ -20,7 +20,7 @@ mkdir -p "gtfs"
 wget -N "${DATA_ZIP}"
 
 # Extract the data into the data folder
-unzip -ujL "${DATA_ZIPFILENAME}" -d gtfs
+unzip -oujL "${DATA_ZIPFILENAME}" -d gtfs
 
 # Add files to commit
 git add gtfs/*.txt
