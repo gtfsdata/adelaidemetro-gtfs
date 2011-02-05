@@ -306,8 +306,8 @@ B10C,admet,B10C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 B10X,admet,B10X,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=B10&js=1,007F5A,ffffff
 B11,admet,B11,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=B11&js=1,106CB5,ffffff
 B12,admet,B12,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=B12&js=1,B71B8B,ffffff
-Belair,admet,,Belair,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Belair+train&js=1,00937f,ffffff
-Brighton,admet,,Brighton,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+Belair,admet,BEL,Belair,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Belair+train&js=1,00937f,ffffff
+Brighton,admet,BRTN,Brighton,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
 G1,admet,G1,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G1&js=1,efa686,000000
 G10,admet,G10,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G10&js=1,b57628,ffffff
 G10A,admet,G10A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G10A&js=1,b57628,ffffff
@@ -323,10 +323,10 @@ G30,admet,G30,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=sea
 G4,admet,G4,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G4&js=1,004d97,ffffff
 G40,admet,G40,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G40&js=1,6d2262,ffffff
 G40M,admet,G40M,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=G40M&js=1,6d2262,ffffff
-Gawler,admet,,Gawler,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
-Gawler Central,admet,,Gawler Central,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
-Glanville,admet,,Glanville,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
-Grange,admet,,Grange,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
+Gawler,admet,GAW,Gawler,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
+Gawler Central,admet,GAWC,Gawler Central,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
+Glanville,admet,GLAN,Glanville,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
+Grange,admet,GRNG,Grange,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
 H20,admet,H20,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H20&js=1,F68429,ffffff
 H20C,admet,H20C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H20&js=1,F68429,ffffff
 H20R,admet,H20R,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H20&js=1,F68429,ffffff
@@ -377,12 +377,12 @@ N541,admet,N541,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 N6,admet,N6,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,F47D30,ffffff
 N721,admet,N721,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N721&js=15,006c64,ffffff
 N864,admet,N864,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N864&js=2,c60845,ffffff
-Noarlunga,admet,,Noarlunga,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
-Oaklands,admet,,Oaklands,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
-Outer Harbor,admet,,Outer Harbor,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
+Noarlunga,admet,NOAR,Noarlunga,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+Oaklands,admet,OAKLN,Oaklands,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+Outer Harbor,admet,OUTHA,Outer Harbor,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff
 RZ3,admet,RZ3,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=RZ3&js=1,01AC7A,ffffff
 RZ5,admet,RZ5,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=RZ5&js=1,9396ca,ffffff
-Salisbury,admet,,Salisbury,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
+Salisbury,admet,SALIS,Salisbury,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
 T500,admet,T500,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T500&js=1,d3a67d,ffffff
 T501,admet,T501,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T501&js=1,0080b3,ffffff
 T721,admet,T721,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T721&js=1,ad650c,ffffff
@@ -392,8 +392,8 @@ T748,admet,T748,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 T840,admet,T840,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T840&js=1,fec220,000000
 T842,admet,T842,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T842&js=2,827c00,ffffff
 T863,admet,T863,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T863&js=1,1b5257,ffffff
-Tonsley,admet,,Tonsley,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
-Tram,admet,,Tram,,0,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Tram&js=1,e91839,ffffff
+Tonsley,admet,TONS,Tonsley,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+Tram,admet,TRAM,,,0,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Tram&js=1,e91839,ffffff
 W90,admet,W90,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=W90&js=1,862074,ffffff
 W90C,admet,W90C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=W90C&js=1,862074,ffffff
 W91,admet,W91,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=W91&js=1,0396d6,ffffff
