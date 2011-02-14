@@ -1934,14 +1934,14 @@ Gawler Central,1,60175,Gawler Central to City,0,,7590
 541,13,60759,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,74225,3256
 541,13,60760,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,94185,3256
 541,1,60761,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,90315,3256
-541,13,60762,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74025,3259
+541,11,60762,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74025,3259
 541,1,60763,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,71155,3259
 541G,1,60764,Tea Tree Plaza Interchange to Golden Grove Village via Smart Rd Hancock Rd and The Golden Grove Way ,1,71475,4155
 541X,1,60765,City to Fairview Park running express between the city and Tea Tree Plaza Interchange,1,91095,6996
-541,13,60766,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74095,3259
+541,11,60766,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74095,3259
 541X,1,60767,City to Fairview Park running express between the city and Tea Tree Plaza Interchange,1,71085,6996
 541X,1,60768,City to Fairview Park running express between the city and Tea Tree Plaza Interchange,1,91135,6996
-541,13,60769,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74135,3259
+541,11,60769,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74135,3259
 541X,1,60770,City to Fairview Park running express between the city and Tea Tree Plaza Interchange,1,71195,6996
 541X,1,60771,City to Fairview Park running express between the city and Tea Tree Plaza Interchange,1,71525,6996
 541,13,60772,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,74045,3259
@@ -2317,7 +2317,6 @@ N541,51,60853,City to Surrey Downs 59 via O-Bahn and Hancock Rd- after midnight 
 546,1,61142,Para Hills to City via Kelly Rd then express between Tea Tree Plaza Interchange and the City,0,71085,6432
 546,1,61143,Para Hills to City via Kelly Rd then express between Tea Tree Plaza Interchange and the City,0,71035,6432
 546,1,61144,Para Hills to City via Kelly Rd then express between Tea Tree Plaza Interchange and the City,0,70065,6432
-546,1,61145,Para Hills to City via Kelly Rd then express between Tea Tree Plaza Interchange and the City,0,70065,6432
 546,1,61146,Para Hills to City via Kelly Rd then express between Tea Tree Plaza Interchange and the City,0,80025,6432
 546,1,61147,City to Tea Tree Plaza via the O-Bahn,1,71495,6657
 546,1,61148,City to Tea Tree Plaza via the O-Bahn,1,71155,6657
@@ -5131,34 +5130,34 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 174,11,63972,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14025,6838
 174,1,63973,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,50125,6838
 174,1,63974,Glynde to City via Payneham Road,0,20315,7736
-174,1,63975,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61035,6838
+174,1,63975,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,61035,3584
 174,11,63976,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64135,6838
 174,1,63977,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21155,6838
-174,1,63978,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11405,6838
+174,1,63978,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,11405,3584
 174,11,63979,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14115,6838
 174,1,63980,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60105,6838
-174,1,63981,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60235,6838
+174,1,63981,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60235,3584
 174,11,63982,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24165,6838
 174,1,63983,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31335,6838
-174,1,63984,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60215,6838
+174,1,63984,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60215,3584
 174,11,63985,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14225,6838
 174,1,63986,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61285,6838
-174,1,63987,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
+174,1,63987,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60325,3584
 174,11,63988,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14245,6838
 174,1,63989,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10365,6838
-174,1,63990,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10105,6838
+174,1,63990,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,10105,3584
 174,11,63991,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14255,6838
 174,1,63992,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60165,6838
-174,1,63993,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30095,6838
+174,1,63993,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,30095,3584
 174,11,63994,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24065,6838
 174,1,63995,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60245,6838
-174,1,63996,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10175,6838
+174,1,63996,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,10175,3584
 174,11,63997,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
 174,1,63998,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20145,6838
-174,1,63999,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60375,6838
+174,1,63999,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60375,3584
 174,11,64000,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14305,6838
 174,1,64001,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20195,6838
-174,1,64002,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
+174,1,64002,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60325,3584
 174,11,64003,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14315,6838
 174,1,64004,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,78095,6838
 174,1,64005,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30055,6838
@@ -5427,11 +5426,11 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 178,1,64268,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,11035,7816
 178S,13,64269,City to Newton via Payneham Road and Montacute Rd,1,14325,7742
 178,13,64271,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,24205,7816
-178,1,64272,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,11175,7816
+178,1,64272,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,11175,8203
 178S,13,64273,City to Newton via Payneham Road and Montacute Rd,1,14265,7742
-178F,1,64274,City to Paradise Interchange via Payneham Road and Montacute Rd (No set down before Stop 17 Payneham Road),1,11365,7826
+178F,1,64274,City to Paradise Interchange via Payneham Rd and Montacute Rd no set down before stop 17 Payneham Rd,1,11365,8204
 178,13,64275,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,34195,7816
-178F,1,64276,City to Paradise Interchange via Payneham Road and Montacute Rd (No set down before Stop 17 Payneham Road),1,11095,7826
+178F,1,64276,City to Paradise Interchange via Payneham Rd and Montacute Rd no set down before stop 17 Payneham Rd,1,11095,8204
 178,13,64277,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,14395,7816
 178F,1,64278,City to Paradise Interchange via Payneham Road and Montacute Rd (No set down before Stop 17 Payneham Road),1,71525,7826
 178,13,64279,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,14375,7816
@@ -6822,6 +6821,7 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 271,13,65679,City to Tea Tree Plaza via Melbourne St and North East Rd,1,14315,6929
 271,1,65680,City to Tea Tree Plaza via Melbourne St and North East Rd,1,78105,6929
 271,13,65681,City to Tea Tree Plaza via Melbourne St and North East Rd,1,44265,6929
+300H,31,65682,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,,8053
 N206,51,65683,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
 N206,51,65684,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
 N206,51,65685,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
@@ -10308,7 +10308,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 168,1,69169,North Plympton to City via Streeters Rd and Richmond Rd,0,40155,8145
 168,1,69170,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,11075,6828
 168,13,69171,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,14045,5357
-168,1,69172,North Plympton to City via Streeters Rd and Richmond Rd,0,91165,8145
+168,1,69172,Galway Av Stop 8B to City via Richmond Rd,0,91165,7725
 168,1,69173,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,60405,6828
 168,1,69174,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,10225,5357
 168,13,69175,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,64065,5357
@@ -10477,6 +10477,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 171,1,69338,City to Mitcham via Hutt St and Fullarton Rd ,1,20275,4679
 171,1,69339,City to Mitcham via Hutt St and Fullarton Rd ,1,30135,4679
 171A,13,69340,City to Myrtle Bank via Hutt St and Fullarton Rd ,1,74625,6834
+171,31,69341,City to Mitcham via Hutt St and Fullarton Rd ,1,,4679
 171,1,69342,City to Mitcham via Hutt St and Fullarton Rd ,1,11395,4679
 171,1,69343,City to Mitcham via Hutt St and Fullarton Rd ,1,20365,4679
 171,13,69344,City to Mitcham via Hutt St and Fullarton Rd ,1,14355,4679
@@ -10652,9 +10653,9 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 172,13,69516,City to Kingswood via Botanic Rd Hutt St and Duthy St ,1,14425,7733
 172,1,69518,City to Kingswood via Botanic Rd Hutt St and Duthy St ,1,10555,7733
 172,13,69519,City to Kingswood via Botanic Rd Hutt St and Duthy St ,1,34215,7733
-173,1,69520,Blackwood to City via Main Rd Belair Rd Fullarton Rd and Hutt St,0,41235,7840
-173,1,69521,Blackwood to City via Main Rd Belair Rd and Fullarton Rd ,0,20155,7839
-173,1,69522,City to Blackwood via Hutt St Fullarton Rd Belair Rd and Main Rd ,1,10495,8170
+173,21,69520,Blackwood to City via Main Rd Belair Rd Fullarton Rd and Hutt St,0,41235,7840
+173,21,69521,Blackwood to City via Main Rd Belair Rd and Fullarton Rd ,0,20155,7839
+173,21,69522,City to Blackwood via Hutt St Fullarton Rd Belair Rd and Main Rd ,1,10495,8170
 177,1,69523,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,11195,7741
 177,1,69524,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,20015,7740
 177,1,69525,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,11365,7740
@@ -10662,10 +10663,10 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 177,1,69527,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,10295,7740
 177,1,69528,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,70155,7740
 177,1,69529,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,31285,7740
-177,1,69530,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,61375,6844
-177,1,69531,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,60595,6844
+177,1,69530,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,61375,7129
+177,1,69531,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,60595,7129
 177,1,69532,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,10285,6844
-177,1,69533,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,11075,6844
+177,1,69533,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,11075,7129
 177,1,69534,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,11105,7129
 177,1,69535,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,11195,7129
 177,1,69536,City to Newton via Payneham Rd Cresdee Rd and Newton Rd,1,31395,7129
@@ -10680,10 +10681,10 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 179F,1,69545,Athelstone to City via Quondong Ave Montacute Rd and Payneham Rd (No pick up between Stop 17 Payneham Rd and Stop I2 North Terrace to the City),0,11475,6859
 179F,1,69546,Athelstone to City via Quondong Ave Montacute Rd and Payneham Rd (No pick up between Stop 17 Payneham Rd and Stop I2 North Terrace to the City),0,60275,6859
 179,1,69547,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave,1,20345,6857
-179,1,69548,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave,1,30225,6857
-179,1,69549,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave,1,10505,6857
-179F,1,69550,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave (No set down between Stop I2 North Terrace and Stop 17 Payneham Rd from the City) ,1,11005,7744
-179F,1,69551,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave (No set down between Stop I2 North Terrace and Stop 17 Payneham Rd from the City) ,1,30205,7744
+179,1,69548,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave,1,30225,5389
+179,1,69549,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave,1,10505,5389
+179F,1,69550,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave no set down before stop 17 Payneham Rd,1,11005,8205
+179F,1,69551,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave no set down before stop 17 Payneham Rd,1,30205,8205
 179F,1,69552,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave (No set down between Stop I2 North Terrace and Stop 17 Payneham Rd from the City) ,1,11255,7744
 179F,1,69553,City to Athelstone via Payneham Rd Montacute Rd and Quondong Ave (No set down between Stop I2 North Terrace and Stop 17 Payneham Rd from the City) ,1,11435,7744
 287,1,69554,Henley Beach to City via Marlborough Tce and Ashley St,0,50015,3513
@@ -11782,98 +11783,98 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 190,13,70648,Mitcham to City via Unley Rd,0,54175,7843
 190,1,70649,Mitcham to City via Unley Rd,0,20665,7843
 190,13,70650,Mitcham to City via Unley Rd,0,24425,7843
-190B,1,70651,City to Mitcham via Unley Rd,1,20085,7847
-190B,11,70652,City to Mitcham via Unley Rd,1,24005,7847
+190B,1,70651,City to Mitcham via Unley Rd,1,20085,7845
+190B,11,70652,City to Mitcham via Unley Rd,1,24005,7845
 190,1,70653,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21025,6286
 190,11,70654,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,54015,6286
 190,1,70655,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21085,6286
-190B,1,70656,City to Mitcham via Unley Rd,1,20185,7847
-190B,11,70657,City to Mitcham via Unley Rd,1,24095,7847
-190B,1,70658,City to Mitcham via Unley Rd,1,20265,7847
+190B,1,70656,City to Mitcham via Unley Rd,1,20185,7845
+190B,11,70657,City to Mitcham via Unley Rd,1,24095,7845
+190B,1,70658,City to Mitcham via Unley Rd,1,20265,7845
 190,1,70659,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,20255,6286
-190B,1,70660,City to Mitcham via Unley Rd,1,21175,7847
-190B,1,70661,City to Mitcham via Unley Rd,1,20335,7847
+190B,1,70660,City to Mitcham via Unley Rd,1,21175,7845
+190B,1,70661,City to Mitcham via Unley Rd,1,20335,7845
 190,13,70662,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,54065,6286
-190B,1,70663,City to Mitcham via Unley Rd,1,21275,7847
+190B,1,70663,City to Mitcham via Unley Rd,1,21275,7845
 190,1,70664,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21285,6286
-190B,1,70665,City to Mitcham via Unley Rd,1,20385,7847
-190B,13,70666,City to Mitcham via Unley Rd,1,24165,7847
-190B,1,70667,City to Mitcham via Unley Rd,1,30095,7847
+190B,1,70665,City to Mitcham via Unley Rd,1,20385,7845
+190B,13,70666,City to Mitcham via Unley Rd,1,24165,7845
+190B,1,70667,City to Mitcham via Unley Rd,1,30095,7845
 190,1,70668,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,60085,6286
-190B,1,70669,City to Mitcham via Unley Rd,1,60165,7847
+190B,1,70669,City to Mitcham via Unley Rd,1,60165,7845
 190,13,70670,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,54085,6286
 190,1,70671,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,30135,6286
-190B,1,70672,City to Mitcham via Unley Rd,1,41175,7847
+190B,1,70672,City to Mitcham via Unley Rd,1,41175,7845
 190,1,70673,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,41275,6286
-190B,1,70674,City to Mitcham via Unley Rd,1,41265,7847
+190B,1,70674,City to Mitcham via Unley Rd,1,41265,7845
 190,13,70675,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,54105,6286
 190,1,70676,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,60255,6286
-190B,1,70677,City to Mitcham via Unley Rd,1,50045,7847
-190B,13,70678,City to Mitcham via Unley Rd,1,34075,7847
+190B,1,70677,City to Mitcham via Unley Rd,1,50045,7845
+190B,13,70678,City to Mitcham via Unley Rd,1,34075,7845
 190,1,70679,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,20005,6286
-190B,1,70680,City to Mitcham via Unley Rd,1,20455,7847
+190B,1,70680,City to Mitcham via Unley Rd,1,20455,7845
 190,13,70681,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,54125,6286
 190,1,70682,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,20095,6286
-190B,1,70683,City to Mitcham via Unley Rd,1,20415,7847
+190B,1,70683,City to Mitcham via Unley Rd,1,20415,7845
 190,1,70684,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,20495,6286
-190B,1,70685,City to Mitcham via Unley Rd,1,20505,7847
+190B,1,70685,City to Mitcham via Unley Rd,1,20505,7845
 190,13,70686,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,84005,6286
 190,1,70687,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,20535,6286
-190B,1,70688,City to Mitcham via Unley Rd,1,10185,7847
-190B,13,70689,City to Mitcham via Unley Rd,1,14015,7847
+190B,1,70688,City to Mitcham via Unley Rd,1,10185,7845
+190B,13,70689,City to Mitcham via Unley Rd,1,14015,7845
 190,1,70690,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,40035,6286
-190B,1,70691,City to Mitcham via Unley Rd,1,10065,7847
+190B,1,70691,City to Mitcham via Unley Rd,1,10065,7845
 190,13,70692,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,84015,6286
 190,1,70693,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,60365,6286
-190B,1,70694,City to Mitcham via Unley Rd,1,40195,7847
+190B,1,70694,City to Mitcham via Unley Rd,1,40195,7845
 190,1,70695,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,40025,6286
-190B,1,70696,City to Mitcham via Unley Rd,1,10205,7847
+190B,1,70696,City to Mitcham via Unley Rd,1,10205,7845
 190,13,70697,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,84025,6286
 190,1,70698,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,10365,6286
-190B,1,70699,City to Mitcham via Unley Rd,1,20475,7847
-190B,13,70700,City to Mitcham via Unley Rd,1,14105,7847
+190B,1,70699,City to Mitcham via Unley Rd,1,20475,7845
+190B,13,70700,City to Mitcham via Unley Rd,1,14105,7845
 190,1,70701,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,60535,6286
 190,13,70702,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,84035,6286
-190B,1,70703,City to Mitcham via Unley Rd,1,21145,7847
+190B,1,70703,City to Mitcham via Unley Rd,1,21145,7845
 190,1,70704,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21045,6286
-190B,1,70705,City to Mitcham via Unley Rd,1,20615,7847
+190B,1,70705,City to Mitcham via Unley Rd,1,20615,7845
 190,1,70706,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21175,6286
 190,13,70707,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,84045,6286
-190B,1,70708,City to Mitcham via Unley Rd,1,11095,7847
+190B,1,70708,City to Mitcham via Unley Rd,1,11095,7845
 190,1,70709,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,21235,6286
-190B,13,70710,City to Mitcham via Unley Rd,1,24345,7847
-190B,1,70711,City to Mitcham via Unley Rd,1,79025,7847
+190B,13,70710,City to Mitcham via Unley Rd,1,24345,7845
+190B,1,70711,City to Mitcham via Unley Rd,1,79025,7845
 190,1,70712,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,40285,6286
 190B,1,70713,City to Mitcham via Unley Rd,1,20515,7847
 190,13,70714,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,24265,6286
-190B,1,70715,City to Mitcham via Unley Rd,1,31395,7847
-190B,1,70717,City to Mitcham via Unley Rd,1,20525,7847
-190B,1,70718,City to Mitcham via Unley Rd,1,11465,7847
-190B,13,70719,City to Mitcham via Unley Rd,1,24405,7847
-190B,1,70720,City to Mitcham via Unley Rd,1,20565,7847
-190B,1,70721,City to Mitcham via Unley Rd,1,31265,7847
-190B,13,70722,City to Mitcham via Unley Rd,1,24255,7847
-190B,1,70723,City to Mitcham via Unley Rd,1,31385,7847
-190B,1,70724,City to Mitcham via Unley Rd,1,10545,7847
-190B,13,70725,City to Mitcham via Unley Rd,1,24305,7847
-190B,1,70726,City to Mitcham via Unley Rd,1,10525,7847
-190B,1,70727,City to Mitcham via Unley Rd,1,10425,7847
-190B,13,70728,City to Mitcham via Unley Rd,1,24295,7847
-190B,1,70729,City to Mitcham via Unley Rd,1,30195,7847
-190B,13,70730,City to Mitcham via Unley Rd,1,44235,7847
-190B,1,70731,City to Mitcham via Unley Rd,1,10485,7847
-190B,13,70732,City to Mitcham via Unley Rd,1,64365,7847
-190B,1,70733,City to Mitcham via Unley Rd,1,10505,7847
-190B,13,70734,City to Mitcham via Unley Rd,1,24425,7847
-190B,1,70735,City to Mitcham via Unley Rd,1,60675,7847
-190B,13,70736,City to Mitcham via Unley Rd,1,34255,7847
-190B,13,70738,City to Mitcham via Unley Rd,1,14395,7847
-190B,1,70739,City to Mitcham via Unley Rd,1,60775,7847
-190B,13,70740,City to Mitcham via Unley Rd,1,64365,7847
-190B,1,70741,City to Mitcham via Unley Rd,1,60675,7847
-190B,13,70742,City to Mitcham via Unley Rd,1,34255,7847
-190B,1,70743,City to Mitcham via Unley Rd,1,40295,7847
-190B,13,70744,City to Mitcham via Unley Rd,1,34235,7847
+190B,1,70715,City to Mitcham via Unley Rd,1,31395,7845
+190B,1,70717,City to Mitcham via Unley Rd,1,20525,7845
+190B,1,70718,City to Mitcham via Unley Rd,1,11465,7845
+190B,13,70719,City to Mitcham via Unley Rd,1,24405,7845
+190B,1,70720,City to Mitcham via Unley Rd,1,20565,7845
+190B,1,70721,City to Mitcham via Unley Rd,1,31265,7845
+190B,13,70722,City to Mitcham via Unley Rd,1,24255,7845
+190B,1,70723,City to Mitcham via Unley Rd,1,31385,7845
+190B,1,70724,City to Mitcham via Unley Rd,1,10545,7845
+190B,13,70725,City to Mitcham via Unley Rd,1,24305,7845
+190B,1,70726,City to Mitcham via Unley Rd,1,10525,7845
+190B,1,70727,City to Mitcham via Unley Rd,1,10425,7845
+190B,13,70728,City to Mitcham via Unley Rd,1,24295,7845
+190B,1,70729,City to Mitcham via Unley Rd,1,30195,7845
+190B,13,70730,City to Mitcham via Unley Rd,1,44235,7845
+190B,1,70731,City to Mitcham via Unley Rd,1,10485,7845
+190B,13,70732,City to Mitcham via Unley Rd,1,64365,7845
+190B,1,70733,City to Mitcham via Unley Rd,1,10505,7845
+190B,13,70734,City to Mitcham via Unley Rd,1,24425,7845
+190B,1,70735,City to Mitcham via Unley Rd,1,60675,7845
+190B,13,70736,City to Mitcham via Unley Rd,1,34255,7845
+190B,13,70738,City to Mitcham via Unley Rd,1,14395,7845
+190B,1,70739,City to Mitcham via Unley Rd,1,60775,7845
+190B,13,70740,City to Mitcham via Unley Rd,1,64365,7845
+190B,1,70741,City to Mitcham via Unley Rd,1,60675,7845
+190B,13,70742,City to Mitcham via Unley Rd,1,34255,7845
+190B,1,70743,City to Mitcham via Unley Rd,1,40295,7845
+190B,13,70744,City to Mitcham via Unley Rd,1,34235,7845
 195,1,70745,Torrens Park to City via Unley Rd,0,30045,7857
 195,1,70746,Torrens Park to City via Unley Rd,0,41035,7857
 195,1,70747,Blackwood Station to City via Unley Rd,0,60085,7856
@@ -11897,22 +11898,22 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 195F,1,70765,City to Blackwood Station via Unley Rd,1,69015,7858
 195F,1,70766,City to Blackwood Station via Unley Rd,1,69025,7858
 195,1,70767,City to Blackwood Station via Unley Rd,1,60515,7848
-196,1,70768,City to Blackwood Station via Unley Rd,1,20155,3973
-196,1,70769,City to Blackwood Station via Unley Rd,1,20235,3973
+196,1,70768,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,20155,7860
+196,1,70769,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,20235,7860
 196F,1,70770,City to Blackwood Station via Unley Rd,1,69005,8178
-196,13,70771,City to Blackwood Station via Unley Rd,1,24205,3973
+196,13,70771,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,24205,7860
 196F,1,70772,City to Blackwood Station via Unley Rd,1,69005,8178
 196F,1,70773,City to Blackwood Station via Unley Rd,1,,8178
-196,13,70774,City to Blackwood Station via Unley Rd,1,14165,3973
+196,13,70774,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,14165,7860
 196F,1,70775,City to Blackwood Station via Unley Rd,1,69015,8178
 196F,1,70776,City to Blackwood Station via Unley Rd,1,31275,8178
 196F,1,70777,City to Blackwood Station via Unley Rd,1,69005,8178
 196F,1,70778,City to Blackwood Station via Unley Rd,1,68005,8178
 196F,1,70779,City to Blackwood Station via Unley Rd,1,31175,8178
-196,13,70780,City to Blackwood Station via Unley Rd,1,24385,3973
+196,13,70780,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,24385,7860
 196F,1,70781,City to Blackwood Station via Unley Rd,1,40225,8178
 196F,1,70782,City to Blackwood Station via Unley Rd,1,68005,8178
-196,1,70783,City to Blackwood Station via Unley Rd,1,40265,3973
+196,1,70783,City to Blackwood Station via Unley Rd Kalyra Rd and Upper Sturt Rd,1,40265,7860
 196F,1,70784,Blackwood Station to City via Unley Rd,0,30085,6714
 196F,1,70785,Blackwood Station to City via Unley Rd,0,41055,6714
 196,11,70786,Blackwood Station to City via Unley Rd,0,64125,7862
@@ -12141,107 +12142,107 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 204,1,71009,City to Northgate via Galway Ave,1,31295,7874
 204,1,71010,City to Northgate via Galway Ave,1,31445,7874
 204,1,71011,City to Northgate via Galway Ave,1,60425,7874
-230,1,71012,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20015,5512
-230,1,71013,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20085,5512
-232,11,71014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,24005,5520
-230,1,71015,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21025,5512
-232,1,71016,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20155,5520
-230,11,71017,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54015,5512
-230,1,71018,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21085,5512
-232,1,71019,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20185,5520
-230,1,71020,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20235,5512
-232,11,71021,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,24095,5520
-232,1,71022,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20265,5520
-230,1,71023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20255,5513
-232,1,71024,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,21175,5520
-230,1,71025,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20335,5512
-230,13,71026,Rosewater to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54065,5512
-232,1,71027,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,21275,5520
-230,1,71028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21285,5513
-232,1,71029,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20385,5520
-230,1,71030,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30095,5513
-232,13,71031,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24165,5521
-230,1,71032,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60085,5513
-232,1,71033,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,60165,5521
-230,13,71034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54085,5513
-230,1,71035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30135,5513
-232,1,71036,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,41175,5521
-232,13,71037,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24205,5521
-230,1,71038,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,41275,5513
-232,1,71039,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,41265,5521
-230,13,71040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54105,5513
-230,1,71041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60255,5513
-232,1,71042,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,50045,5521
-232,13,71043,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,34075,5521
-230,1,71044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20005,5513
-232,1,71045,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,20455,5521
-230,13,71046,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54125,5513
-230,1,71047,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20095,5513
-232,1,71048,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,20415,5521
-232,13,71049,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,34005,5521
-230,1,71050,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20495,5513
-232,1,71051,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,20505,5521
-230,13,71052,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84005,5513
-230,1,71053,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20535,5513
-232,1,71054,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10185,5521
-232,13,71055,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,14015,5521
-230,1,71056,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40035,5513
-232,1,71057,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10065,5521
-230,13,71058,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84015,5513
-230,1,71059,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60365,5513
-232,1,71060,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,40195,5521
-232,13,71061,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,14165,5521
-230,1,71062,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40025,5513
-232,1,71063,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10205,5521
-230,13,71064,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84025,5513
-230,1,71065,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10365,5513
-232,1,71066,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,20475,5521
-232,13,71067,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,14105,5521
-230,1,71068,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60535,5513
-232,1,71069,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,21145,5521
-230,13,71070,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84035,5513
-230,1,71071,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21045,5513
-232,1,71072,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,20615,5521
-232,13,71073,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,64255,5521
-230,1,71074,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21175,5513
-232,1,71075,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,11095,5521
-230,13,71076,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84045,5513
-230,1,71077,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21235,5513
-232,1,71078,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,79025,5521
-232,13,71079,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24345,5521
-230,1,71080,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40285,5513
-232,1,71081,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,31395,5521
-230,13,71082,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24265,5513
-230,1,71083,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20525,5513
-232,13,71084,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24385,5521
-232,1,71085,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,11465,5521
-230,13,71086,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24405,5513
-230,1,71087,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20565,5513
-232,1,71088,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,31265,5521
-232,13,71089,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24255,5521
-230,1,71090,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,31385,5513
-232,1,71091,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10545,5521
-230,13,71092,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24305,5513
-230,1,71093,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10525,5513
-232,1,71094,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10425,5521
-232,13,71095,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,24295,5521
-230,1,71096,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60515,5513
-230,1,71097,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30195,5513
-230,13,71098,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,44235,5513
-232,1,71099,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,10485,5521
-232,13,71100,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,64365,5521
-230,1,71101,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10505,5513
-230,13,71102,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24425,5513
-232,1,71103,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,60675,5521
-232,13,71104,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,34255,5521
-230,1,71105,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40265,5513
-230,13,71106,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,14395,5513
-232,1,71107,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,60775,5521
-232,13,71108,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,64365,5521
-230,1,71109,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60675,5513
-230,13,71110,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,34255,5513
-232,1,71111,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,40295,5521
-232,13,71112,Port Adelaide to City via Newcastle St and Arndale Shopping Centre,0,34235,5521
+230,1,71012,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,20015,7949
+230,1,71013,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,20085,7949
+232,11,71014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,24005,7954
+230,1,71015,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,21025,7949
+232,1,71016,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20155,7954
+230,11,71017,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,54015,7949
+230,1,71018,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,21085,7949
+232,1,71019,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20185,7954
+230,1,71020,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,20235,7949
+232,11,71021,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,24095,7954
+232,1,71022,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20265,7954
+230,1,71023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20255,7948
+232,1,71024,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,21175,7954
+230,1,71025,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,20335,7949
+230,13,71026,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,54065,7949
+232,1,71027,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,21275,7954
+230,1,71028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21285,7948
+232,1,71029,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,20385,7954
+230,1,71030,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30095,7948
+232,13,71031,Port Adelaide to City via Newcastle St and Arndale,0,24165,7953
+230,1,71032,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60085,7948
+232,1,71033,Port Adelaide to City via Newcastle St and Arndale,0,60165,7953
+230,13,71034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54085,7948
+230,1,71035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30135,7948
+232,1,71036,Port Adelaide to City via Newcastle St and Arndale,0,41175,7953
+232,13,71037,Port Adelaide to City via Newcastle St and Arndale,0,24205,7953
+230,1,71038,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,41275,7948
+232,1,71039,Port Adelaide to City via Newcastle St and Arndale,0,41265,7953
+230,13,71040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54105,7948
+230,1,71041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60255,7948
+232,1,71042,Port Adelaide to City via Newcastle St and Arndale,0,50045,7953
+232,13,71043,Port Adelaide to City via Newcastle St and Arndale,0,34075,7953
+230,1,71044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20005,7948
+232,1,71045,Port Adelaide to City via Newcastle St and Arndale,0,20455,7953
+230,13,71046,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,54125,7948
+230,1,71047,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20095,7948
+232,1,71048,Port Adelaide to City via Newcastle St and Arndale,0,20415,7953
+232,13,71049,Port Adelaide to City via Newcastle St and Arndale,0,34005,7953
+230,1,71050,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20495,7948
+232,1,71051,Port Adelaide to City via Newcastle St and Arndale,0,20505,7953
+230,13,71052,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84005,7948
+230,1,71053,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20535,7948
+232,1,71054,Port Adelaide to City via Newcastle St and Arndale,0,10185,7953
+232,13,71055,Port Adelaide to City via Newcastle St and Arndale,0,14015,7953
+230,1,71056,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40035,7948
+232,1,71057,Port Adelaide to City via Newcastle St and Arndale,0,10065,7953
+230,13,71058,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84015,7948
+230,1,71059,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60365,7948
+232,1,71060,Port Adelaide to City via Newcastle St and Arndale,0,40195,7953
+232,13,71061,Port Adelaide to City via Newcastle St and Arndale,0,14165,7953
+230,1,71062,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40025,7948
+232,1,71063,Port Adelaide to City via Newcastle St and Arndale,0,10205,7953
+230,13,71064,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84025,7948
+230,1,71065,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10365,7948
+232,1,71066,Port Adelaide to City via Newcastle St and Arndale,0,20475,7953
+232,13,71067,Port Adelaide to City via Newcastle St and Arndale,0,14105,7953
+230,1,71068,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60535,7948
+232,1,71069,Port Adelaide to City via Newcastle St and Arndale,0,21145,7953
+230,13,71070,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84035,7948
+230,1,71071,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21045,7948
+232,1,71072,Port Adelaide to City via Newcastle St and Arndale,0,20615,7953
+232,13,71073,Port Adelaide to City via Newcastle St and Arndale,0,64255,7953
+230,1,71074,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21175,7948
+232,1,71075,Port Adelaide to City via Newcastle St and Arndale,0,11095,7953
+230,13,71076,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,84045,7948
+230,1,71077,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,21235,7948
+232,1,71078,Port Adelaide to City via Newcastle St and Arndale,0,79025,7953
+232,13,71079,Port Adelaide to City via Newcastle St and Arndale,0,24345,7953
+230,1,71080,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40285,7948
+232,1,71081,Port Adelaide to City via Newcastle St and Arndale,0,31395,7953
+230,13,71082,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24265,7948
+230,1,71083,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20525,7948
+232,13,71084,Port Adelaide to City via Newcastle St and Arndale,0,24385,7953
+232,1,71085,Port Adelaide to City via Newcastle St and Arndale,0,11465,7953
+230,13,71086,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24405,7948
+230,1,71087,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,20565,7948
+232,1,71088,Port Adelaide to City via Newcastle St and Arndale,0,31265,7953
+232,13,71089,Port Adelaide to City via Newcastle St and Arndale,0,24255,7953
+230,1,71090,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,31385,7948
+232,1,71091,Port Adelaide to City via Newcastle St and Arndale,0,10545,7953
+230,13,71092,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24305,7948
+230,1,71093,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10525,7948
+232,1,71094,Port Adelaide to City via Newcastle St and Arndale,0,10425,7953
+232,13,71095,Port Adelaide to City via Newcastle St and Arndale,0,24295,7953
+230,1,71096,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60515,7948
+230,1,71097,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,30195,7948
+230,13,71098,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,44235,7948
+232,1,71099,Port Adelaide to City via Newcastle St and Arndale,0,10485,7953
+232,13,71100,Port Adelaide to City via Newcastle St and Arndale,0,64365,7953
+230,1,71101,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,10505,7948
+230,13,71102,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,24425,7948
+232,1,71103,Port Adelaide to City via Newcastle St and Arndale,0,60675,7953
+232,13,71104,Port Adelaide to City via Newcastle St and Arndale,0,34255,7953
+230,1,71105,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,40265,7948
+230,13,71106,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,14395,7948
+232,1,71107,Port Adelaide to City via Newcastle St and Arndale,0,60775,7953
+232,13,71108,Port Adelaide to City via Newcastle St and Arndale,0,64365,7953
+230,1,71109,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,60675,7948
+230,13,71110,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,34255,7948
+232,1,71111,Port Adelaide to City via Newcastle St and Arndale,0,40295,7953
+232,13,71112,Port Adelaide to City via Newcastle St and Arndale,0,34235,7953
 230,1,71113,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,30045,7947
 230,1,71114,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,41035,7947
 232,1,71115,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,30095,7952
@@ -14319,7 +14320,7 @@ W90,1,73198,Marden 13A to Marion Shopping Centre via City,1,60725,7461
 W90,13,73199,Marden 13A to Marion Shopping Centre via City,1,44245,7461
 W90,1,73200,Marden 13A to Marion Shopping Centre via City,1,60715,7461
 190,1,73201,Mitcham to City via Unley Rd,0,30095,7843
-190B,1,73202,City to Mitcham via Unley Rd,1,20015,7847
+190B,1,73202,City to Mitcham via Unley Rd,1,20015,7845
 253,13,73203,Mansfield Park to City via Hanson Rd Arndale and Torrens Rd,0,64165,8180
 253,11,73204,City to Mansfield Park via Torrens Rd Arndale and Hanson Rd ,1,64165,5562
 N1,51,73205,Tea Tree Plaza to City via O-Bahn after midnight service,0,,8114
@@ -14401,87 +14402,87 @@ Oaklands,1,73280,City to Oaklands,1,,8192
 Oaklands,1,73281,City to Oaklands,1,,8192
 Oaklands,1,73282,City to Oaklands,1,,8192
 Oaklands,1,73283,City to Oaklands,1,,8192
-Tonsley,1,73284,Tonsley to City,1,,1303
+Tonsley,1,73284,City to Tonsley,1,,1304
 Oaklands,1,73285,City to Oaklands,1,,8196
 Oaklands,1,73286,City to Oaklands,1,,8192
-Tonsley,1,73287,Tonsley to City,1,,1303
+Tonsley,1,73287,City to Tonsley,1,,1304
 Oaklands,1,73288,City to Oaklands,1,,8196
 Oaklands,1,73289,City to Oaklands,1,,8192
-Tonsley,1,73290,Tonsley to City,1,,1303
+Tonsley,1,73290,City to Tonsley,1,,1304
 Oaklands,1,73291,City to Oaklands,1,,8196
 Oaklands,1,73292,City to Oaklands,1,,8192
-Tonsley,1,73293,Tonsley to City,1,,1303
+Tonsley,1,73293,City to Tonsley,1,,1304
 Oaklands,1,73294,City to Oaklands,1,,8196
 Oaklands,1,73295,City to Oaklands,1,,8192
-Tonsley,1,73296,Tonsley to City,1,,1303
+Tonsley,1,73296,City to Tonsley,1,,1304
 Oaklands,1,73297,City to Oaklands,1,,8196
 Oaklands,1,73298,City to Oaklands,1,,8192
-Tonsley,1,73299,Tonsley to City,1,,1303
+Tonsley,1,73299,City to Tonsley,1,,1304
 Oaklands,1,73300,City to Oaklands,1,,8192
-Tonsley,1,73301,Tonsley to City,1,,1303
+Tonsley,1,73301,City to Tonsley,1,,1304
 Oaklands,1,73302,City to Oaklands,1,,8196
 Oaklands,1,73303,City to Oaklands,1,,8192
-Tonsley,1,73304,Tonsley to City,1,,1303
+Tonsley,1,73304,City to Tonsley,1,,1304
 Oaklands,1,73305,City to Oaklands,1,,8196
 Oaklands,1,73306,City to Oaklands,1,,8192
 Oaklands,1,73307,City to Oaklands,1,,8192
 Oaklands,1,73308,City to Oaklands,1,,8192
-Tonsley,1,73309,Tonsley to City,1,,1303
+Tonsley,1,73309,City to Tonsley,1,,1304
 Oaklands,1,73310,City to Oaklands,1,,8196
 Oaklands,1,73311,City to Oaklands,1,,8192
 Oaklands,1,73312,City to Oaklands,1,,8192
 Oaklands,1,73313,City to Oaklands,1,,8192
-Tonsley,1,73314,Tonsley to City,1,,1303
+Tonsley,1,73314,City to Tonsley,1,,1304
 Oaklands,1,73315,City to Oaklands,1,,8196
 Oaklands,1,73316,City to Oaklands,1,,8192
 Oaklands,1,73317,City to Oaklands,1,,8192
 Oaklands,1,73318,City to Oaklands,1,,8192
-Tonsley,1,73319,Tonsley to City,1,,1303
+Tonsley,1,73319,City to Tonsley,1,,1304
 Oaklands,1,73320,City to Oaklands,1,,8196
 Oaklands,1,73321,City to Oaklands,1,,8192
 Oaklands,1,73322,City to Oaklands,1,,8192
 Oaklands,1,73323,City to Oaklands,1,,8192
-Tonsley,1,73324,Tonsley to City,1,,1303
+Tonsley,1,73324,City to Tonsley,1,,1304
 Oaklands,1,73325,City to Oaklands,1,,8196
 Oaklands,1,73326,City to Oaklands,1,,8192
 Oaklands,1,73327,City to Oaklands,1,,8192
 Oaklands,1,73328,City to Oaklands,1,,8192
-Tonsley,1,73329,Tonsley to City,1,,1303
+Tonsley,1,73329,City to Tonsley,1,,1304
 Oaklands,1,73330,City to Oaklands,1,,8196
 Oaklands,1,73331,City to Oaklands,1,,8192
 Oaklands,1,73332,City to Oaklands,1,,8192
 Oaklands,1,73333,City to Oaklands,1,,8192
-Tonsley,1,73334,Tonsley to City,1,,1303
+Tonsley,1,73334,City to Tonsley,1,,1304
 Oaklands,1,73335,City to Oaklands,1,,8196
 Oaklands,1,73336,City to Oaklands,1,,8192
 Oaklands,1,73337,City to Oaklands,1,,8192
 Oaklands,1,73338,City to Oaklands,1,,8192
-Tonsley,1,73339,Tonsley to City,1,,1303
+Tonsley,1,73339,City to Tonsley,1,,1304
 Oaklands,1,73340,City to Oaklands,1,,8196
 Oaklands,1,73341,City to Oaklands,1,,8192
 Oaklands,1,73342,City to Oaklands,1,,8192
-Tonsley,1,73343,Tonsley to City,1,,1303
+Tonsley,1,73343,City to Tonsley,1,,1304
 Oaklands,1,73344,City to Oaklands,1,,8196
 Oaklands,1,73345,City to Oaklands,1,,8192
-Tonsley,1,73346,Tonsley to City,1,,1303
+Tonsley,1,73346,City to Tonsley,1,,1304
 Oaklands,1,73347,City to Oaklands,1,,8196
 Oaklands,1,73348,City to Oaklands,1,,8192
-Tonsley,1,73349,Tonsley to City,1,,1303
+Tonsley,1,73349,City to Tonsley,1,,1304
 Oaklands,1,73350,City to Oaklands,1,,8196
 Oaklands,1,73351,City to Oaklands,1,,8192
-Tonsley,1,73352,Tonsley to City,1,,1303
+Tonsley,1,73352,City to Tonsley,1,,1304
 Oaklands,1,73353,City to Oaklands,1,,8196
 Oaklands,1,73354,City to Oaklands,1,,8192
-Tonsley,1,73355,Tonsley to City,1,,1303
+Tonsley,1,73355,City to Tonsley,1,,1304
 Oaklands,1,73356,City to Oaklands,1,,8196
 Oaklands,1,73357,City to Oaklands,1,,8192
-Tonsley,1,73358,Tonsley to City,1,,1303
+Tonsley,1,73358,City to Tonsley,1,,1304
 Oaklands,1,73359,City to Oaklands,1,,8196
 Oaklands,1,73360,City to Oaklands,1,,8192
-Tonsley,1,73361,Tonsley to City,1,,1303
+Tonsley,1,73361,City to Tonsley,1,,1304
 Oaklands,1,73362,City to Oaklands,1,,8196
 Oaklands,1,73363,City to Oaklands,1,,8192
-Tonsley,1,73364,Tonsley to City,1,,1303
+Tonsley,1,73364,City to Tonsley,1,,1304
 Oaklands,1,73365,City to Oaklands,1,,8196
 Oaklands,1,73366,City to Oaklands,1,,8192
 Oaklands,1,73367,City to Oaklands,1,,8198
@@ -14495,87 +14496,87 @@ Oaklands,1,73374,Oaklands to City,0,,8193
 Oaklands,1,73375,Oaklands to City,0,,8193
 Oaklands,1,73376,Oaklands to City,0,,8193
 Oaklands,1,73377,Oaklands to City,0,,8197
-Tonsley,1,73378,City to Tonsley,0,,1304
+Tonsley,1,73378,Tonsley to City,0,,1303
 Oaklands,1,73379,Oaklands to City,0,,8193
 Oaklands,1,73380,Oaklands to City,0,,8197
-Tonsley,1,73381,City to Tonsley,0,,1304
+Tonsley,1,73381,Tonsley to City,0,,1303
 Oaklands,1,73382,Oaklands to City,0,,8193
 Oaklands,1,73383,Oaklands to City,0,,8197
-Tonsley,1,73384,City to Tonsley,0,,1304
+Tonsley,1,73384,Tonsley to City,0,,1303
 Oaklands,1,73385,Oaklands to City,0,,8193
 Oaklands,1,73386,Oaklands to City,0,,8197
-Tonsley,1,73387,City to Tonsley,0,,1304
+Tonsley,1,73387,Tonsley to City,0,,1303
 Oaklands,1,73388,Oaklands to City,0,,8193
 Oaklands,1,73389,Oaklands to City,0,,8197
-Tonsley,1,73390,City to Tonsley,0,,1304
+Tonsley,1,73390,Tonsley to City,0,,1303
 Oaklands,1,73391,Oaklands to City,0,,8193
 Oaklands,1,73392,Oaklands to City,0,,8197
-Tonsley,1,73393,City to Tonsley,0,,1304
+Tonsley,1,73393,Tonsley to City,0,,1303
 Oaklands,1,73394,Oaklands to City,0,,8193
 Oaklands,1,73395,Oaklands to City,0,,8197
-Tonsley,1,73396,City to Tonsley,0,,1304
+Tonsley,1,73396,Tonsley to City,0,,1303
 Oaklands,1,73397,Oaklands to City,0,,8193
 Oaklands,1,73398,Oaklands to City,0,,8197
-Tonsley,1,73399,City to Tonsley,0,,1304
+Tonsley,1,73399,Tonsley to City,0,,1303
 Oaklands,1,73400,Oaklands to City,0,,8193
 Oaklands,1,73401,Oaklands to City,0,,8193
 Oaklands,1,73402,Oaklands to City,0,,8193
 Oaklands,1,73403,Oaklands to City,0,,8197
-Tonsley,1,73404,City to Tonsley,0,,1304
+Tonsley,1,73404,Tonsley to City,0,,1303
 Oaklands,1,73405,Oaklands to City,0,,8193
 Oaklands,1,73406,Oaklands to City,0,,8193
 Oaklands,1,73407,Oaklands to City,0,,8193
 Oaklands,1,73408,Oaklands to City,0,,8197
-Tonsley,1,73409,City to Tonsley,0,,1304
+Tonsley,1,73409,Tonsley to City,0,,1303
 Oaklands,1,73410,Oaklands to City,0,,8193
 Oaklands,1,73411,Oaklands to City,0,,8193
 Oaklands,1,73412,Oaklands to City,0,,8193
 Oaklands,1,73413,Oaklands to City,0,,8197
-Tonsley,1,73414,City to Tonsley,0,,1304
+Tonsley,1,73414,Tonsley to City,0,,1303
 Oaklands,1,73415,Oaklands to City,0,,8193
 Oaklands,1,73416,Oaklands to City,0,,8193
 Oaklands,1,73417,Oaklands to City,0,,8193
 Oaklands,1,73418,Oaklands to City,0,,8197
-Tonsley,1,73419,City to Tonsley,0,,1304
+Tonsley,1,73419,Tonsley to City,0,,1303
 Oaklands,1,73420,Oaklands to City,0,,8193
 Oaklands,1,73421,Oaklands to City,0,,8193
 Oaklands,1,73422,Oaklands to City,0,,8193
 Oaklands,1,73423,Oaklands to City,0,,8197
-Tonsley,1,73424,City to Tonsley,0,,1304
+Tonsley,1,73424,Tonsley to City,0,,1303
 Oaklands,1,73425,Oaklands to City,0,,8193
 Oaklands,1,73426,Oaklands to City,0,,8193
 Oaklands,1,73427,Oaklands to City,0,,8193
 Oaklands,1,73428,Oaklands to City,0,,8197
-Tonsley,1,73429,City to Tonsley,0,,1304
+Tonsley,1,73429,Tonsley to City,0,,1303
 Oaklands,1,73430,Oaklands to City,0,,8193
 Oaklands,1,73431,Oaklands to City,0,,8193
 Oaklands,1,73432,Oaklands to City,0,,8193
 Oaklands,1,73433,Oaklands to City,0,,8197
-Tonsley,1,73434,City to Tonsley,0,,1304
+Tonsley,1,73434,Tonsley to City,0,,1303
 Oaklands,1,73435,Oaklands to City,0,,8193
 Oaklands,1,73436,Oaklands to City,0,,8197
-Tonsley,1,73437,City to Tonsley,0,,1304
+Tonsley,1,73437,Tonsley to City,0,,1303
 Oaklands,1,73438,Oaklands to City,0,,8193
 Oaklands,1,73439,Oaklands to City,0,,8197
-Tonsley,1,73440,City to Tonsley,0,,1304
+Tonsley,1,73440,Tonsley to City,0,,1303
 Oaklands,1,73441,Oaklands to City,0,,8193
 Oaklands,1,73442,Oaklands to City,0,,8197
-Tonsley,1,73443,City to Tonsley,0,,1304
+Tonsley,1,73443,Tonsley to City,0,,1303
 Oaklands,1,73444,Oaklands to City,0,,8193
 Oaklands,1,73445,Oaklands to City,0,,8197
-Tonsley,1,73446,City to Tonsley,0,,1304
+Tonsley,1,73446,Tonsley to City,0,,1303
 Oaklands,1,73447,Oaklands to City,0,,8193
 Oaklands,1,73448,Oaklands to City,0,,8197
-Tonsley,1,73449,City to Tonsley,0,,1304
+Tonsley,1,73449,Tonsley to City,0,,1303
 Oaklands,1,73450,Oaklands to City,0,,8193
 Oaklands,1,73451,Oaklands to City,0,,8197
-Tonsley,1,73452,City to Tonsley,0,,1304
+Tonsley,1,73452,Tonsley to City,0,,1303
 Oaklands,1,73453,Oaklands to City,0,,8193
 Oaklands,1,73454,Oaklands to City,0,,8197
-Tonsley,1,73455,City to Tonsley,0,,1304
+Tonsley,1,73455,Tonsley to City,0,,1303
 Oaklands,1,73456,Oaklands to City,0,,8193
 Oaklands,1,73457,Oaklands to City,0,,8193
-Tonsley,1,73458,City to Tonsley,0,,1304
+Tonsley,1,73458,Tonsley to City,0,,1303
 Oaklands,1,73459,Oaklands to City,0,,8193
 Oaklands,1,73460,Oaklands to City,0,,8193
 Oaklands,1,73461,Oaklands to City,0,,8199
@@ -15002,4 +15003,8 @@ N3,13,73881,Noarlunga Centre to Oaklands Interchange,0,,8185
 J1A,13,73882,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94055,4426
 725,11,73883,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14224,964
 725,11,73884,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14384,964
-100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,99995,7679
+100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,31,73886,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7086
+178,1,73888,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,8203
+222,1,73889,Enfield to City via Main North Road and O'Connell Street,0,,7023
