@@ -1383,7 +1383,7 @@ Gawler Central,1,60175,Gawler Central to City,0,,7590
 506X,1,60208,Modbury North to City via Para Hills and Paradise Interchange running express between Stop 29B Sudholz Rd and City,0,71055,7335
 506,1,60209,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,71115,6661
 506X,1,60210,Modbury North to City via Para Hills and Paradise Interchange running express between Stop 29B Sudholz Rd and City,0,71195,7335
-506,11,60211,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,74075,4140
+506,11,60211,Para Hills to Paradise Interchange via Nelson Rd and Wandana Ave,0,74075,4142
 506,1,60212,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,90035,6661
 506X,1,60213,Tea Tree Plaza Interchange to City via Para Hills and Paradise Interchange running express between Stop 29B Sudholz Rd and City,0,71345,7136
 506,1,60214,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,71485,6661
@@ -2592,12 +2592,11 @@ N541,51,60853,City to Surrey Downs 59 via O-Bahn and Hancock Rd- after midnight 
 578,1,61418,City to Paradise Interchange via Klemzig Station ,1,70255,6964
 578,1,61419,City to Paradise Interchange via Klemzig Station ,1,70275,6964
 578X,1,61420,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,67015,7927
-578X,1,61421,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,71025,7927
+578X,1,61421,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,71025,4796
 578X,1,61422,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,67515,7927
 578X,1,61423,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,70015,7927
 578X,1,61424,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,70055,7927
 578X,1,61425,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,70035,7927
-578X,1,61426,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,71025,4796
 579,11,61427,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74025,8146
 579,11,61428,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74025,8146
 579,11,61429,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74165,8146
@@ -5111,7 +5110,7 @@ N224,51,63944,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 N224,51,63945,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after midnight service,1,,6642
 N224,51,63946,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after midnight service,1,,6642
 N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after midnight service,1,,6642
-174,1,63956,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10015,6838
+174,1,63956,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,10015,7737
 174,1,63957,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,70055,6838
 174,1,63958,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11115,6838
 174,1,63959,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10055,6838
@@ -5125,39 +5124,39 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 174,1,63967,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11415,6838
 174,11,63968,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54025,6838
 174,1,63969,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60225,6838
-174,1,63970,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21165,6838
+174,1,63970,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,21165,7737
 174,1,63971,Glynde to City via Payneham Road,0,11075,7736
 174,11,63972,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14025,6838
 174,1,63973,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,50125,6838
-174,1,63974,Glynde to City via Payneham Road,0,20315,7736
-174,1,63975,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,61035,3584
+174,1,63974,Glynde to City via Payneham Road,0,20315,7739
+174,1,63975,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61035,6838
 174,11,63976,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64135,6838
 174,1,63977,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21155,6838
-174,1,63978,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,11405,3584
+174,1,63978,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11405,6838
 174,11,63979,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14115,6838
 174,1,63980,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60105,6838
-174,1,63981,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60235,3584
+174,1,63981,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60235,6838
 174,11,63982,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24165,6838
 174,1,63983,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31335,6838
-174,1,63984,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60215,3584
+174,1,63984,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60215,6838
 174,11,63985,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14225,6838
 174,1,63986,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61285,6838
-174,1,63987,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60325,3584
+174,1,63987,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
 174,11,63988,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14245,6838
 174,1,63989,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10365,6838
-174,1,63990,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,10105,3584
+174,1,63990,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10105,6838
 174,11,63991,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14255,6838
 174,1,63992,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60165,6838
-174,1,63993,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,30095,3584
+174,1,63993,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30095,6838
 174,11,63994,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24065,6838
 174,1,63995,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60245,6838
-174,1,63996,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,10175,3584
+174,1,63996,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10175,6838
 174,11,63997,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
 174,1,63998,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20145,6838
-174,1,63999,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60375,3584
+174,1,63999,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60375,6838
 174,11,64000,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14305,6838
 174,1,64001,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20195,6838
-174,1,64002,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,60325,3584
+174,1,64002,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
 174,11,64003,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14315,6838
 174,1,64004,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,78095,6838
 174,1,64005,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30055,6838
@@ -7963,24 +7962,24 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 719,1,66821,Flinders University to City via South Rd and Anzac Hwy,0,21194,4232
 719,1,66822,Flinders University to City via South Rd and Anzac Hwy,0,21174,4232
 719,1,66823,Flinders University to City via South Rd and Anzac Hwy,0,11334,4232
-719,1,66824,City to Flinders University via Anzac Hwy and South Rd,1,22544,896
-719,1,66825,City to Flinders University via Anzac Hwy and South Rd,1,22644,896
-719,1,66826,City to Flinders University via Anzac Hwy and South Rd,1,11454,896
-719,1,66827,City to Flinders University via Anzac Hwy and South Rd,1,21144,896
-719,1,66828,City to Flinders University via Anzac Hwy and South Rd,1,21224,896
-719,1,66829,City to Flinders University via Anzac Hwy and South Rd,1,11404,896
-719,1,66830,City to Flinders University via Anzac Hwy and South Rd,1,21014,896
-719,1,66831,City to Flinders University via Anzac Hwy and South Rd,1,21694,896
-719,1,66832,City to Flinders University via Anzac Hwy and South Rd,1,21674,896
-719,1,66833,City to Flinders University via Anzac Hwy and South Rd,1,21624,896
-719,1,66834,City to Flinders University via Anzac Hwy and South Rd,1,21444,896
-719,1,66835,City to Flinders University via Anzac Hwy and South Rd,1,11244,896
-719,1,66836,City to Flinders University via Anzac Hwy and South Rd,1,21234,896
-719,1,66837,City to Flinders University via Anzac Hwy and South Rd,1,22784,896
-719,1,66838,City to Flinders University via Anzac Hwy and South Rd,1,21554,896
-719,1,66839,City to Flinders University via Anzac Hwy and South Rd,1,21194,896
-719,1,66840,City to Flinders University via Anzac Hwy and South Rd,1,21174,896
-719,1,66841,City to Flinders University via Anzac Hwy and South Rd,1,11544,896
+719,1,66824,City to Flinders University via Anzac Hwy and South Rd,1,22544,6107
+719,1,66825,City to Flinders University via Anzac Hwy and South Rd,1,22644,6107
+719,1,66826,City to Flinders University via Anzac Hwy and South Rd,1,11454,6107
+719,1,66827,City to Flinders University via Anzac Hwy and South Rd,1,21144,6107
+719,1,66828,City to Flinders University via Anzac Hwy and South Rd,1,21224,6107
+719,1,66829,City to Flinders University via Anzac Hwy and South Rd,1,11404,6107
+719,1,66830,City to Flinders University via Anzac Hwy and South Rd,1,21014,6107
+719,1,66831,City to Flinders University via Anzac Hwy and South Rd,1,21694,6107
+719,1,66832,City to Flinders University via Anzac Hwy and South Rd,1,21674,6107
+719,1,66833,City to Flinders University via Anzac Hwy and South Rd,1,21624,6107
+719,1,66834,City to Flinders University via Anzac Hwy and South Rd,1,21444,6107
+719,1,66835,City to Flinders University via Anzac Hwy and South Rd,1,11244,6107
+719,1,66836,City to Flinders University via Anzac Hwy and South Rd,1,21234,6107
+719,1,66837,City to Flinders University via Anzac Hwy and South Rd,1,22784,6107
+719,1,66838,City to Flinders University via Anzac Hwy and South Rd,1,21554,6107
+719,1,66839,City to Flinders University via Anzac Hwy and South Rd,1,21194,6107
+719,1,66840,City to Flinders University via Anzac Hwy and South Rd,1,21174,6107
+719,1,66841,City to Flinders University via Anzac Hwy and South Rd,1,11544,6107
 720,1,66842,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11004,7085
 720,1,66843,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11714,7085
 720,1,66844,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11024,7085
@@ -8022,11 +8021,11 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 720H,12,66880,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,15084,7092
 720H,11,66881,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,14144,7092
 720,1,66882,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11514,7085
-720,1,66883,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11494,7085
+720,1,66883,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11494,7562
 720H,12,66884,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,15264,7092
 720H,11,66885,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,14014,7092
-720,1,66886,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11124,7085
-720,1,66887,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11014,7085
+720,1,66886,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11124,7562
+720,1,66887,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11014,7562
 720H,12,66888,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,15154,7092
 720H,11,66889,Old Reynella Interchange to City via Hallett Cove Flinders Medical Centre Marion and South Rd,0,14264,7092
 720,1,66890,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,11614,7085
@@ -8049,60 +8048,60 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 720M,1,66907,Old Reynella Interchange to Marion Shopping Centre via Hallett Cove and Ocean Boulevard,0,11484,7094
 720,1,66908,Marion Shopping Centre to Old Reynella Interchange via Sturt Rd Ocean Boulevard and Hallett Cove,1,11204,7087
 720H,1,66909,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,11054,7093
-720,1,66910,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21054,7086
-720,1,66911,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21114,7086
+720,1,66910,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21054,7088
+720,1,66911,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21114,7088
 720H,11,66912,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14064,7093
-720,1,66913,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21164,7086
-720,1,66914,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,22624,7086
+720,1,66913,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21164,7088
+720,1,66914,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,22624,7088
 720H,11,66915,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14074,7093
-720,1,66916,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21724,7086
-720,1,66917,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11384,7086
+720,1,66916,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21724,7088
+720,1,66917,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11384,7088
 720H,12,66918,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15014,7093
 720H,11,66919,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14084,7093
-720,1,66920,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21494,7086
-720,1,66921,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21514,7086
+720,1,66920,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21494,7088
+720,1,66921,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21514,7088
 720H,12,66922,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15044,7093
 720H,11,66923,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14224,7093
-720,1,66924,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,14514,7086
-720,1,66925,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11034,7086
+720,1,66924,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,14514,7088
+720,1,66925,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11034,7088
 720H,12,66926,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15594,7093
 720H,11,66927,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14204,7093
-720,1,66928,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11144,7086
-720,1,66929,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11324,7086
+720,1,66928,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11144,7088
+720,1,66929,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11324,7088
 720H,12,66930,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15084,7093
 720H,11,66931,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14074,7093
-720,1,66932,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11094,7086
-720,1,66933,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11184,7086
+720,1,66932,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11094,7088
+720,1,66933,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11184,7088
 720H,12,66934,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15014,7093
 720H,11,66935,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14104,7093
-720,1,66936,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21394,7086
-720,1,66937,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11284,7086
+720,1,66936,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21394,7088
+720,1,66937,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11284,7088
 720H,12,66938,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15544,7093
 720H,11,66939,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14164,7093
-720,21,66940,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21504,7086
+720,21,66940,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21504,7088
 720H,12,66941,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15144,7093
-720,1,66942,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21534,7086
+720,1,66942,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21534,7088
 720H,11,66943,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14094,7093
-720,1,66944,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,22664,7086
-720,1,66945,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11634,7086
+720,1,66944,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,22664,7088
+720,1,66945,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11634,7088
 720H,12,66946,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15084,7093
-720,1,66947,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11194,7086
+720,1,66947,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11194,7088
 720H,11,66948,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14144,7093
-720,1,66949,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21034,7086
+720,1,66949,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21034,7088
 720,1,66950,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11644,7086
 720H,12,66951,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15264,7093
-720,1,66952,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21024,7086
+720,1,66952,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,21024,7088
 720H,11,66953,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14014,7093
 720,1,66954,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11314,7086
-720,1,66955,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11354,7086
-720,1,66956,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11274,7086
+720,1,66955,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11354,7088
+720,1,66956,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11274,7088
 720H,12,66957,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15154,7093
 720H,11,66958,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14264,7093
 720,1,66959,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,22754,7086
 720,1,66960,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,11484,7086
 720H,11,66961,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14174,7093
 720H,12,66962,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15054,7093
-720,1,66963,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,14714,7086
+720,1,66963,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,14714,7088
 720H,11,66964,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,14114,7093
 720H,12,66965,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,15134,7093
 720H,1,66966,City to Old Reynella Interchange via South Rd Marion Flinders Medical Centre and Hallett Cove,1,11214,7093
@@ -8226,27 +8225,27 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 721,1,67084,Old Reynella Interchange to Noarlunga Interchange via Main South Rd and Beach Rd,1,11084,905
 721F,1,67085,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11644,4938
 721,11,67086,Reynella South to Noarlunga Interchange via Beach Rd,1,14144,4928
-721F,1,67087,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21314,4938
-721F,1,67088,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21174,4938
+721F,1,67087,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21314,6114
+721F,1,67088,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21174,6114
 721,11,67089,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14014,7104
-721F,1,67090,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21304,4938
+721F,1,67090,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21304,6114
 721R,11,67091,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14574,4942
 721,12,67092,Reynella South to Noarlunga Interchange via Beach Rd,1,15284,4928
-721F,1,67093,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,22684,4938
+721F,1,67093,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,22684,6114
 721,11,67094,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14174,7104
-721F,1,67095,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,14604,4938
+721F,1,67095,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,14604,6114
 721,12,67096,Flinders Medical Centre to Noarlunga Interchange via Main South Rd and Beach Rd,1,15524,4931
 721R,11,67097,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14544,4942
-721F,1,67098,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,22594,4938
+721F,1,67098,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,22594,6114
 721,12,67099,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,15514,7104
 721,11,67100,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14054,7104
-721F,1,67101,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,14754,4938
+721F,1,67101,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,14754,6114
 721R,12,67102,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15584,4942
 721R,11,67103,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14024,4942
-721F,1,67104,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,14814,4938
+721F,1,67104,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,14814,6114
 721,12,67105,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,15634,7104
 721,11,67106,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14094,7104
-721F,1,67107,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11024,4938
+721F,1,67107,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,11024,6114
 721R,12,67108,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15074,4942
 721R,11,67109,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14224,4942
 721F,1,67110,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11014,4938
@@ -8267,15 +8266,15 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 721F,1,67125,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21184,4938
 721R,12,67126,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15124,4942
 721R,11,67127,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14114,4942
-721F,1,67128,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21634,4938
+721F,1,67128,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21634,6114
 721R,1,67129,City to Old Reynella Interchange via South Rd and Flinders Medical Centre,1,14854,7109
 721,12,67130,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,15134,7104
 721,11,67131,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14174,7104
-721F,1,67132,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21584,4938
+721F,1,67132,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21584,6114
 721R,12,67133,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15014,4942
 721R,1,67134,City to Old Reynella Interchange via South Rd and Flinders Medical Centre,1,11204,7109
 721R,11,67135,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14114,4942
-721F,1,67136,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,21284,4938
+721F,1,67136,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,21284,6114
 721,12,67137,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,15284,7104
 721,11,67138,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14004,7104
 721F,1,67139,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,22464,4938
@@ -8288,12 +8287,12 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 721F,1,67146,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,14774,4938
 721R,12,67147,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15214,4942
 721R,11,67148,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,14524,4942
-721F,1,67149,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11054,4938
+721F,1,67149,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,11054,6114
 721R,1,67150,City to Old Reynella Interchange via South Rd and Flinders Medical Centre,1,11104,7109
-721F,1,67151,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11384,4938
+721F,1,67151,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,11384,6114
 721,12,67152,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,15294,7104
 721,11,67153,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14204,7104
-721F,1,67154,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,22724,4938
+721F,1,67154,City to Noarlunga Interchange via Main South Rd and Beach Rd no set down before stop 26 South Rd,1,22724,6114
 721R,12,67155,Flinders Medical Centre to Old Reynella Interchange via Main South Rd,1,15104,4942
 721F,1,67156,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,11064,4938
 721,11,67157,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,14344,7104
@@ -8325,38 +8324,38 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 722,1,67183,O'Halloran Hill to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,11294,5138
 722,1,67184,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,11184,4948
 722,1,67185,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,11544,4948
-722,1,67186,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,22474,4952
+722,1,67186,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,22474,7113
 722,11,67187,Flinders Medical Centre to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14554,4951
-722F,1,67188,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,22584,4956
-722F,1,67189,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,22634,4956
+722F,1,67188,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,22584,6124
+722F,1,67189,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,22634,6124
 722,11,67190,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14024,4952
-722F,1,67191,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21084,4956
-722F,1,67192,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11194,4956
+722F,1,67191,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21084,6124
+722F,1,67192,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11194,6124
 722,11,67193,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14104,4952
-722F,1,67194,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21204,4956
-722F,1,67195,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21574,4956
+722F,1,67194,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21204,6124
+722F,1,67195,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21574,6124
 722,11,67196,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14114,4952
-722F,1,67197,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21714,4956
-722F,1,67198,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21614,4956
+722F,1,67197,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21714,6124
+722F,1,67198,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21614,6124
 722,11,67199,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14234,4952
-722F,1,67200,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21044,4956
-722F,1,67201,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,14544,4956
+722F,1,67200,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21044,6124
+722F,1,67201,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,14544,6124
 722,11,67202,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14004,4952
-722F,1,67203,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21134,4956
-722F,1,67204,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11514,4956
+722F,1,67203,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21134,6124
+722F,1,67204,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11514,6124
 722,11,67205,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14264,4952
-722F,1,67206,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,14614,4956
-722F,1,67207,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11684,4956
+722F,1,67206,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,14614,6124
+722F,1,67207,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11684,6124
 722,11,67208,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14554,4952
-722F,1,67209,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11454,4956
-722F,1,67210,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11614,4956
+722F,1,67209,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11454,6124
+722F,1,67210,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11614,6124
 722,11,67211,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14274,4952
-722F,1,67212,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,22774,4956
-722F,1,67213,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11004,4956
+722F,1,67212,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,22774,6124
+722F,1,67213,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11004,6124
 722,11,67214,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14224,4952
 722F,1,67215,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,22584,4956
-722F,1,67216,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,21314,4956
-722F,1,67217,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,11524,4956
+722F,1,67216,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,21314,6124
+722F,1,67217,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd no set down before stop 26 Main South Rd,1,11524,6124
 722,11,67218,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,14064,4952
 722X,1,67219,City to Noarlunga Interchange Express to Stop 40 Panalatinga Rd then via Main South Rd,1,11074,4960
 722F,1,67220,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd (No set down before Stop 26 Main South Rd),1,14544,4956
@@ -11694,10 +11693,10 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 190,11,70559,Mitcham to City via Unley Rd,0,14005,7843
 190,1,70560,Mitcham to City via Unley Rd,0,30135,7843
 190,1,70561,Glenelg to City via Raglan Ave Grange Rd and Unley Rd,0,41175,6285
-190,1,70562,Mitcham to City via Unley Rd,0,11115,7844
+190,1,70562,Mitcham to City via Unley Rd,0,11115,7842
 190,11,70563,Mitcham to City via Unley Rd,0,34135,7843
 190,1,70564,Mitcham to City via Unley Rd,0,30155,7843
-190,1,70565,Mitcham to City via Unley Rd,0,20185,7844
+190,1,70565,Mitcham to City via Unley Rd,0,20185,7842
 190,1,70566,Glenelg to City via Raglan Ave Grange Rd and Unley Rd,0,41265,6285
 190,1,70567,Mitcham to City via Unley Rd,0,10055,7844
 190,13,70568,Mitcham to City via Unley Rd,0,14135,7843
@@ -11710,7 +11709,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 190,1,70575,Mitcham to City via Unley Rd,0,20385,7844
 190,1,70576,Glenelg to City via Raglan Ave Grange Rd and Unley Rd,0,21175,6285
 190,13,70577,Mitcham to City via Unley Rd,0,54025,7843
-190,1,70578,Mitcham to City via Unley Rd,0,60225,7844
+190,1,70578,Mitcham to City via Unley Rd,0,60225,7843
 190,1,70579,Glenelg to City via Raglan Ave Grange Rd and Unley Rd,0,21285,6285
 190,13,70580,Glenelg to City via Raglan Ave Grange Rd and Unley Rd,0,84015,6285
 190,1,70581,Mitcham to City via Unley Rd,0,50125,7843
@@ -11926,108 +11925,108 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 196F,1,70793,Blackwood Station to City via Unley Rd,0,69005,6714
 196F,1,70794,Blackwood Station to City via Unley Rd,0,68005,6714
 196F,1,70795,Blackwood Station to City via Unley Rd,0,69025,6714
-200,1,70796,Clapham to City via King William Rd,0,30005,5427
+200,1,70796,Panorama to City,0,30005,7866
 200,1,70797,Marion Shopping Centre to City via King William Rd,0,60055,7865
-200,1,70798,Colonel Light Gardens to City via King William Rd,0,31085,5428
+200,1,70798,Colonel Light Gardens to City,0,31085,7867
 200,1,70799,Marion Shopping Centre to City via King William Rd,0,60135,7865
-200,11,70800,Colonel Light Gardens to City via King William Rd,0,64045,7870
-200,1,70801,Clapham to City via King William Rd,0,60225,5427
-200,1,70802,Colonel Light Gardens to City via King William Rd,0,31265,5428
+200,11,70800,Clapham to City via King William Rd,0,64045,7869
+200,1,70801,Panorama to City,0,60225,7866
+200,1,70802,Colonel Light Gardens to City,0,31265,7867
 200,1,70803,Marion Shopping Centre to City via King William Rd,0,60245,7864
-200,1,70804,Colonel Light Gardens to City via King William Rd,0,61145,5428
+200,1,70804,Colonel Light Gardens to City,0,61145,7867
 200,1,70805,Clapham to City via King William Rd,0,30125,5427
 200,11,70806,Marion Shopping Centre to City via King William Rd,0,44035,7865
-200,1,70807,Colonel Light Gardens to City via King William Rd,0,61205,5428
+200,1,70807,Colonel Light Gardens to City,0,61205,7867
 200,1,70808,Marion Shopping Centre to City via King William Rd,0,61135,7864
-200,1,70809,Colonel Light Gardens to City via King William Rd,0,11045,5428
+200,1,70809,Colonel Light Gardens to City,0,11045,7867
 200,1,70810,Colonel Light Gardens to City via King William Rd,0,11125,7870
-200,13,70811,Colonel Light Gardens to City via King William Rd,0,74605,7870
-200,1,70812,Colonel Light Gardens to City via King William Rd,0,20215,5428
+200,13,70811,Clapham to City via King William Rd,0,74605,7869
+200,1,70812,Colonel Light Gardens to City,0,20215,7867
 200,1,70813,Marion Shopping Centre to City via King William Rd,0,51045,7864
-200,1,70814,Colonel Light Gardens to City via King William Rd,0,11155,7870
+200,1,70814,Clapham to City via King William Rd,0,11155,7869
 200,1,70815,Colonel Light Gardens to City via King William Rd,0,40035,5428
 200,13,70816,Marion Shopping Centre to City via King William Rd,0,24025,7865
-200,1,70817,Colonel Light Gardens to City via King William Rd,0,79005,7870
+200,1,70817,Clapham to City via King William Rd,0,79005,7869
 200,1,70818,Marion Shopping Centre to City via King William Rd,0,91075,7864
-200,1,70819,Colonel Light Gardens to City via King William Rd,0,11345,7870
-200,13,70820,Colonel Light Gardens to City via King William Rd,0,74625,7870
+200,1,70819,Clapham to City via King William Rd,0,11345,7869
+200,13,70820,Clapham to City via King William Rd,0,74625,7869
 200,1,70821,Marion Shopping Centre to City via King William Rd,0,20235,7865
-200,1,70822,Colonel Light Gardens to City via King William Rd,0,61285,7870
+200,1,70822,Clapham to City via King William Rd,0,61285,7869
 200,13,70823,Marion Shopping Centre to City via King William Rd,0,34025,7865
 200,1,70824,Marion Shopping Centre to City via King William Rd,0,79035,7865
-200,1,70825,Colonel Light Gardens to City via King William Rd,0,40135,7870
-200,13,70826,Colonel Light Gardens to City via King William Rd,0,64005,7870
+200,1,70825,Clapham to City via King William Rd,0,40135,7869
+200,13,70826,Clapham to City via King William Rd,0,64005,7869
 200,1,70827,Marion Shopping Centre to City via King William Rd,0,78065,7865
-200,1,70828,Colonel Light Gardens to City via King William Rd,0,60375,7870
+200,1,70828,Clapham to City via King William Rd,0,60375,7869
 200,13,70829,Marion Shopping Centre to City via King William Rd,0,64275,7865
 200,1,70830,Marion Shopping Centre to City via King William Rd,0,20365,7865
-200,1,70831,Colonel Light Gardens to City via King William Rd,0,40045,7870
-200,13,70832,Colonel Light Gardens to City via King William Rd,0,64055,7870
+200,1,70831,Clapham to City via King William Rd,0,40045,7869
+200,13,70832,Clapham to City via King William Rd,0,64055,7869
 200,1,70833,Marion Shopping Centre to City via King William Rd,0,60435,7865
-200,1,70834,Colonel Light Gardens to City via King William Rd,0,20145,7870
+200,1,70834,Clapham to City via King William Rd,0,20145,7869
 200,13,70835,Marion Shopping Centre to City via King William Rd,0,44155,7865
 200,1,70836,Marion Shopping Centre to City via King William Rd,0,78035,7865
-200,1,70837,Colonel Light Gardens to City via King William Rd,0,10215,7870
-200,13,70838,Colonel Light Gardens to City via King William Rd,0,64085,7870
+200,1,70837,Clapham to City via King William Rd,0,10215,7869
+200,13,70838,Clapham to City via King William Rd,0,64085,7869
 200,1,70839,Marion Shopping Centre to City via King William Rd,0,78045,7865
-200,1,70840,Colonel Light Gardens to City via King William Rd,0,60545,7870
+200,1,70840,Clapham to City via King William Rd,0,60545,7869
 200,13,70841,Marion Shopping Centre to City via King William Rd,0,74605,7865
 200,1,70842,Marion Shopping Centre to City via King William Rd,0,20275,7865
-200,1,70843,Colonel Light Gardens to City via King William Rd,0,60225,7870
-200,13,70844,Colonel Light Gardens to City via King William Rd,0,64155,7870
+200,1,70843,Clapham to City via King William Rd,0,60225,7869
+200,13,70844,Clapham to City via King William Rd,0,64155,7869
 200,1,70845,Marion Shopping Centre to City via King William Rd,0,50185,7865
-200,1,70846,Colonel Light Gardens to City via King William Rd,0,10235,7870
+200,1,70846,Clapham to City via King William Rd,0,10235,7869
 200,13,70847,Marion Shopping Centre to City via King William Rd,0,64285,7865
 200,1,70848,Marion Shopping Centre to City via King William Rd,0,40205,7865
-200,1,70849,Colonel Light Gardens to City via King William Rd,0,60505,7870
-200,13,70850,Colonel Light Gardens to City via King William Rd,0,14185,7870
+200,1,70849,Clapham to City via King William Rd,0,60505,7869
+200,13,70850,Clapham to City via King William Rd,0,14185,7869
 200,1,70851,Marion Shopping Centre to City via King William Rd,0,60475,7865
-200,1,70852,Colonel Light Gardens to City via King William Rd,0,10195,7870
+200,1,70852,Clapham to City via King William Rd,0,10195,7869
 200,13,70853,Marion Shopping Centre to City via King William Rd,0,44185,7865
 200,1,70854,Marion Shopping Centre to City via King William Rd,0,60525,7865
-200,1,70855,Colonel Light Gardens to City via King William Rd,0,10205,7870
-200,13,70856,Colonel Light Gardens to City via King William Rd,0,34215,7870
+200,1,70855,Clapham to City via King William Rd,0,10205,7869
+200,13,70856,Clapham to City via King William Rd,0,34215,7869
 200,1,70857,Marion Shopping Centre to City via King William Rd,0,61225,7865
-200,1,70858,Colonel Light Gardens to City via King William Rd,0,10455,7870
+200,1,70858,Clapham to City via King William Rd,0,10455,7869
 200,13,70859,Marion Shopping Centre to City via King William Rd,0,14145,7865
 200,1,70860,Marion Shopping Centre to City via King William Rd,0,21095,7865
-200,1,70861,Colonel Light Gardens to City via King William Rd,0,31315,7870
-200,13,70862,Colonel Light Gardens to City via King William Rd,0,64405,7870
+200,1,70861,Clapham to City via King William Rd,0,31315,7869
+200,13,70862,Clapham to City via King William Rd,0,64405,7869
 200,1,70863,Marion Shopping Centre to City via King William Rd,0,31295,7865
-200,1,70864,Colonel Light Gardens to City via King William Rd,0,41275,7870
+200,1,70864,Clapham to City via King William Rd,0,41275,7869
 200,13,70865,Marion Shopping Centre to City via King William Rd,0,14215,7865
 200,1,70866,Marion Shopping Centre to City via King William Rd,0,31445,7865
-200,13,70867,Colonel Light Gardens to City via King William Rd,0,14185,7870
-200,1,70868,Colonel Light Gardens to City via King William Rd,0,79035,7870
+200,13,70867,Clapham to City via King William Rd,0,14185,7869
+200,1,70868,Clapham to City via King William Rd,0,79035,7869
 200,1,70869,Marion Shopping Centre to City via King William Rd,0,60425,7865
 200,13,70870,Marion Shopping Centre to City via King William Rd,0,64445,7865
-200,1,70871,Colonel Light Gardens to City via King William Rd,0,11345,7870
+200,1,70871,Clapham to City via King William Rd,0,11345,7869
 200,1,70872,Marion Shopping Centre to City via King William Rd,0,10365,7865
 200,13,70873,Marion Shopping Centre to City via King William Rd,0,64475,7865
-200,1,70874,Colonel Light Gardens to City via King William Rd,0,11415,7870
+200,1,70874,Clapham to City via King William Rd,0,11415,7869
 200,1,70875,Marion Shopping Centre to City via King William Rd,0,78085,7865
-200,1,70876,Colonel Light Gardens to City via King William Rd,0,30185,7870
-200,13,70877,Colonel Light Gardens to City via King William Rd,0,24405,7870
+200,1,70876,Clapham to City via King William Rd,0,30185,7869
+200,13,70877,Clapham to City via King William Rd,0,24405,7869
 200,1,70878,Marion Shopping Centre to City via King William Rd,0,40305,7865
 200,13,70879,Marion Shopping Centre to City via King William Rd,0,24385,7865
-200,1,70880,Colonel Light Gardens to City via King William Rd,0,20685,7870
-200,13,70881,Colonel Light Gardens to City via King William Rd,0,24345,7870
+200,1,70880,Clapham to City via King William Rd,0,20685,7869
+200,13,70881,Clapham to City via King William Rd,0,24345,7869
 200,1,70882,Marion Shopping Centre to City via King William Rd,0,78095,7865
 200,13,70883,Marion Shopping Centre to City via King William Rd,0,74635,7865
-200,1,70884,Colonel Light Gardens to City via King William Rd,0,10365,7870
-200,13,70885,Colonel Light Gardens to City via King William Rd,0,24405,7870
+200,1,70884,Clapham to City via King William Rd,0,10365,7869
+200,13,70885,Clapham to City via King William Rd,0,24405,7869
 200,1,70886,Marion Shopping Centre to City via King William Rd,0,10525,7865
 200,13,70887,Marion Shopping Centre to City via King William Rd,0,34225,7865
-200,1,70888,Colonel Light Gardens to City via King William Rd,0,30325,7870
-200,13,70889,Colonel Light Gardens to City via King William Rd,0,14435,7870
+200,1,70888,Clapham to City via King William Rd,0,30325,7869
+200,13,70889,Clapham to City via King William Rd,0,14435,7869
 200,1,70890,Marion Shopping Centre to City via King William Rd,0,78115,7865
 200,13,70891,Marion Shopping Centre to City via King William Rd,0,74645,7865
-200,1,70892,Colonel Light Gardens to City via King William Rd,0,30315,7870
-200,13,70893,Colonel Light Gardens to City via King William Rd,0,64395,7870
+200,1,70892,Clapham to City via King William Rd,0,30315,7869
+200,13,70893,Clapham to City via King William Rd,0,64395,7869
 200,1,70894,Marion Shopping Centre to City via King William Rd,0,10515,7865
 200,13,70895,Marion Shopping Centre to City via King William Rd,0,74655,7865
-200,1,70896,Colonel Light Gardens to City via King William Rd,0,30325,7870
-200,13,70897,Colonel Light Gardens to City via King William Rd,0,14435,7870
+200,1,70896,Clapham to City via King William Rd,0,30325,7869
+200,13,70897,Clapham to City via King William Rd,0,14435,7869
 200,1,70898,City to Marion Shopping Centre via King William Rd,1,78005,7863
 200,1,70899,City to Marion Shopping Centre via King William Rd,1,11045,7863
 200,1,70900,City to Marion Shopping Centre via King William Rd,1,78015,7863
@@ -12556,8 +12555,8 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 241,1,71423,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,30015,6909
 241,1,71424,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,31375,6909
 241,13,71425,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,64255,6910
-241,1,71426,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,31235,6910
-241,1,71427,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,31165,6910
+241,1,71426,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,31235,7976
+241,1,71427,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,31165,7976
 241,13,71428,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,44085,6910
 241,1,71429,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,60205,6910
 241,1,71430,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,50065,6910
@@ -12848,13 +12847,13 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 251,1,71715,Arndale to Mansfield Park via Liberty Grove,1,21185,5550
 251,1,71716,Arndale to Mansfield Park via Liberty Grove,1,31235,5550
 251,1,71717,Arndale to Mansfield Park via Liberty Grove,1,40145,5550
-252,1,71718,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,60345,6364
+252,1,71718,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,60345,8013
 251,11,71719,Arndale to Mansfield Park via Liberty Grove,1,44115,5550
 251,1,71720,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,61105,5551
 251,1,71721,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60365,5551
 252,11,71722,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,44115,4080
 251,1,71723,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,41285,5551
-252,1,71724,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,78015,6364
+252,1,71724,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,78015,8013
 251,13,71725,Arndale to Mansfield Park via Liberty Grove,1,24005,5550
 251,1,71726,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,50095,5551
 251,1,71727,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,10175,5551
@@ -12918,7 +12917,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 251,1,71785,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,21115,5551
 252,11,71786,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,14355,4080
 251,12,71787,Arndale to Mansfield Park via Liberty Grove,1,15185,5550
-252,1,71788,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,21125,6364
+252,1,71788,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,21125,8013
 251,1,71789,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,30345,5551
 251,1,71790,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31275,5551
 251,13,71791,Arndale to Mansfield Park via Liberty Grove,1,74645,5550
@@ -13252,7 +13251,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 265,1,72120,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,60285,5583
 265,11,72122,Brighton Station to City via Glenelg,0,64165,4109
 265,1,72123,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,31405,5583
-265,1,72124,Brighton Station to City via Glenelg,0,61415,4109
+265,1,72124,Brighton Station to City via Glenelg,0,31115,4109
 265,1,72125,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,61415,5583
 265,1,72126,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,21065,5583
 265,13,72127,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,24085,5583
@@ -15000,11 +14999,11 @@ N4,13,73878,Noarlunga Centre to Oaklands Interchange,0,,8187
 N3,13,73879,Noarlunga Centre to Oaklands Interchange,0,,8185
 N4,13,73880,Noarlunga Centre to Oaklands Interchange,0,,8187
 N3,13,73881,Noarlunga Centre to Oaklands Interchange,0,,8185
-J1A,13,73882,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94055,4426
+J1A,13,73882,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74065,4426
 725,11,73883,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14224,964
 725,11,73884,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14384,964
 100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,31,73886,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7086
+720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
 178,1,73888,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,8203
 222,1,73889,Enfield to City via Main North Road and O'Connell Street,0,,7023

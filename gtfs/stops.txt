@@ -3837,7 +3837,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4191,,Stop 17B Patawalonga Fr - Western side,,-34.963615595, 138.511828443,,,,
 4192,,Stop 17 St Andrews Cr - Western side,,-34.963994236, 138.532923095,,,,
 4193,,Stop 163 Cross Rd - Northern side,,-34.96406, 138.63479,,,,
-4194,,Stop 14 Mount Barker Rd - Southern side,,-34.96732, 138.64885,,,,
 4195,,Stop 9 Unley Rd - Eastern side,,-34.964116, 138.608624,,,,
 4196,,Stop 12 Fullarton Rd - Eastern side,,-34.9640321908477, 138.6265055122,,,,
 4197,,Stop 163 Cross Rd - Southern side,,-34.9642165981551, 138.635161219956,,,,
