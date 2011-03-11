@@ -2834,7 +2834,7 @@ J1,13,61660,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn
 J1,1,61661,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81015,8208
 J1A,13,61662,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74065,4426
 J1,1,61663,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81055,8208
-J1A,13,61664,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94045,4426
+J1A,13,61664,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94095,4426
 J1,13,61665,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,54085,8208
 J1,1,61666,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81025,8208
 J1A,13,61667,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74165,4426
@@ -2858,14 +2858,14 @@ J1A,1,61684,Tea Tree Plaza Interchange  to Adelaide Airport via Paradise Interch
 J1,1,61685,Paradise Interchange to City via O-Bahn,0,70305,8004
 J1,1,61686,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,80155,8208
 J1,1,61687,Paradise Interchange to City via O-Bahn,0,70395,8004
-J1,13,61688,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,84065,8207
+J1,13,61688,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport,0,84065,8207
 J1,1,61689,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,90255,8208
-J1,13,61690,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,94225,8210
-J1,1,61691,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,67075,8209
-J1,13,61692,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,74285,8210
-J1,1,61693,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,70305,8209
-J1,13,61694,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,74265,8210
-J1,1,61695,Golden Grove Interchange to Glenelg Interchange via Golden Grove Village the O-Bahn Sir Donald Bradman and the Airport,0,70365,8209
+J1,13,61690,Golden Grove Village to Glenelg via  the O-Bahn the Airport,0,94225,8210
+J1,1,61691,Golden Grove Village to Glenelg via  the O-Bahn the Airport and Harbour Town,0,67075,8209
+J1,13,61692,Golden Grove Village to Glenelg via  the O-Bahn the Airport,0,74285,8210
+J1,1,61693,Golden Grove Village to Glenelg via  the O-Bahn the Airport and Harbour Town,0,70305,8209
+J1,13,61694,Golden Grove Village to Glenelg via  the O-Bahn the Airport,0,74265,8210
+J1,1,61695,Golden Grove Village to Glenelg via  the O-Bahn the Airport and Harbour Town,0,70365,8209
 J1,1,61696,Tea Tree Plaza Interchange to City via O-Bahn,0,70345,8003
 J1,13,61697,Tea Tree Plaza Interchange to City via O-Bahn,0,84055,8003
 J1A,1,61698,Tea Tree Plaza Interchange  to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr.,0,70385,6703
@@ -2877,102 +2877,102 @@ J1T,13,61703,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradm
 J1,1,61704,Adelaide Airport to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80005,4833
 J1T,13,61705,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74025,7298
 J1G,11,61706,Tea Tree Plaza Interchange to Golden Grove Village via Golden Grove Road and The Golden Way,1,74085,8005
-J1,1,61707,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,67025,8211
+J1,1,61707,Glenelg to Elizabeth Interchange via the Airport the O-Bahn and Golden Grove Village,1,67025,8211
 J1G,1,61708,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,80035,7295
 J1,13,61709,Adelaide Airport to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,94005,4833
 J1G,1,61710,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,90085,7312
-J1,1,61711,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,67535,8212
+J1,1,61711,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,67535,8212
 J1T,13,61712,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94035,7298
 J1G,1,61713,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,71205,7295
 J1,1,61714,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,70065,7958
-J1,1,61715,Glenelg Interchange to City via Harbour Town the Airport and Sir Donald Bradman,1,90025,8213
+J1,1,61715,Glenelg Interchange to City via Harbour Town Adelaide Airport and Sir Donald Bradman,1,90025,8213
 J1G,13,61716,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,74015,7312
 J1T,13,61717,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74065,7298
 J1G,1,61718,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,71095,7295
 J1,1,61719,Adelaide Airport to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81015,4833
-J1,13,61720,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,54015,8212
-J1G,1,61721,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,80045,8214
+J1,13,61720,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54015,8212
+J1G,1,61721,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,80045,8214
 J1T,13,61722,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74005,7298
-J1,1,61723,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81005,8212
-J1,13,61724,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,54065,8212
+J1,1,61723,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81005,8212
+J1,13,61724,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54065,8212
 J1T,13,61725,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94115,7298
-J1,1,61726,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81035,8212
+J1,1,61726,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81035,8212
 J1T,13,61727,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94095,7298
-J1,1,61728,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81085,8212
-J1,13,61729,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,54085,8212
+J1,1,61728,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81085,8212
+J1,13,61729,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54085,8212
 J1T,13,61730,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74045,7298
-J1,1,61731,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,90135,8212
+J1,1,61731,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,90135,8212
 J1T,13,61732,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74115,7298
-J1,1,61733,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,90105,8212
-J1,13,61734,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,54105,8212
+J1,1,61733,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,90105,8212
+J1,13,61734,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54105,8212
 J1T,13,61735,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94115,7298
-J1,1,61736,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,90085,8212
+J1,1,61736,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,90085,8212
 J1T,13,61737,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74145,7298
-J1,1,61738,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80115,8212
-J1,13,61739,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,54125,8212
+J1,1,61738,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80115,8212
+J1,13,61739,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54125,8212
 J1T,13,61740,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94025,7298
-J1,1,61741,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80055,8212
+J1,1,61741,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80055,8212
 J1T,13,61742,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74175,7298
-J1,1,61743,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80135,8212
-J1,13,61744,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,84005,8212
+J1,1,61743,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80135,8212
+J1,13,61744,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84005,8212
 J1T,13,61745,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74095,7298
-J1,1,61746,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80045,8212
+J1,1,61746,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80045,8212
 J1T,13,61747,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74065,7298
-J1,1,61748,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80155,8212
+J1,1,61748,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80155,8212
 J1T,1,61749,Adelaide Airport to Tea Tree Plaza Interchange,1,71295,7297
-J1,13,61750,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,84015,8212
+J1,13,61750,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84015,8212
 J1T,13,61751,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94095,7298
 J1,1,61752,Golden Grove Village to Elizabeth Station via The Golden Grove Rd and Main North Rd,1,80075,3334
-J1,1,61753,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,67065,8212
+J1,1,61753,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,67065,8212
 J1T,13,61754,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94135,7298
-J1,1,61755,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81015,8212
-J1,13,61756,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,84025,8212
+J1,1,61755,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81015,8212
+J1,13,61756,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84025,8212
 J1,1,61757,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,80095,7957
 J1T,13,61758,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94065,7298
-J1,1,61759,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81055,8212
+J1,1,61759,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81055,8212
 J1,1,61760,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,70225,7957
 J1T,13,61761,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74135,7298
-J1,1,61762,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81025,8212
+J1,1,61762,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81025,8212
 J1T,11,61763,City to Tea Tree Plaza Interchange via O-Bahn,1,74165,7296
 J1X,1,61764,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,70385,8007
-J1,13,61765,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,84035,8212
+J1,13,61765,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84035,8212
 J1,1,61766,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,71285,7957
 J1T,1,61767,Adelaide Airport to Tea Tree Plaza Interchange,1,70305,7297
 J1X,1,61768,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71425,8007
-J1,1,61769,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81095,8212
+J1,1,61769,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81095,8212
 J1G,13,61770,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,94105,7312
 J1T,1,61771,Adelaide Airport to Tea Tree Plaza Interchange,1,90245,7297
 J1T,11,61772,City to Tea Tree Plaza Interchange via O-Bahn,1,74125,7296
 J1X,1,61773,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71375,8007
 J1,1,61774,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,81045,7957
-J1,1,61775,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81065,8212
+J1,1,61775,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81065,8212
 J1T,13,61776,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,64735,7298
 J1,1,61777,Adelaide Airport to City via Sir Donald Bradman Dr,1,90315,3335
-J1,13,61778,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,84045,8212
-J1,1,61779,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80115,8212
+J1,13,61778,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84045,8212
+J1,1,61779,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80115,8212
 J1T,13,61780,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74145,7298
 J1,1,61781,Adelaide Airport to City via Sir Donald Bradman Dr,1,91295,3335
-J1,1,61782,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80165,8212
+J1,1,61782,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80165,8212
 J1T,13,61783,Harbour Town to Tea Tree Plaza Interchange via Adelaide Airport sir Donald Bradman and O-Bahn,1,74155,7443
-J1G,13,61784,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,94145,8214
-J1,1,61785,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80135,8212
+J1G,13,61784,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,94145,8214
+J1,1,61785,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80135,8212
 J1T,1,61786,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,70385,7298
 J1T,1,61787,City to Tea Tree Plaza Interchange via O-Bahn,1,70205,7296
-J1,1,61788,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80155,8212
+J1,1,61788,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80155,8212
 J1G,13,61789,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,84055,8215
 J1T,1,61790,City to Tea Tree Plaza Interchange via O-Bahn,1,70395,7296
-J1,1,61791,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,80195,8212
+J1,1,61791,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,80195,8212
 J1G,13,61792,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,84065,8215
-J1G,1,61793,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,90255,8214
+J1G,1,61793,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,90255,8214
 J1G,13,61794,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,94225,8215
 J1T,1,61795,City to Tea Tree Plaza Interchange via O-Bahn,1,70345,7296
 J1,13,61796,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84055,7958
-J1G,1,61797,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,70305,8214
+J1G,1,61797,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,70305,8214
 J1G,13,61798,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,74285,8215
-J1G,1,61799,Adelaide Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,70385,7293
+J1G,1,61799,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,70385,7293
 J1,13,61800,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84065,7958
 J1T,13,61801,Harbour Town to Tea Tree Plaza Interchange via Adelaide Airport sir Donald Bradman and O-Bahn,1,74215,7443
-J2,1,61802,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,90045,8216
+J2,1,61802,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,90045,8216
 J2A,1,61803,Golden Grove 80 to Adelaide Airport 10 via O-Bahn and City,0,90085,7258
 J2A,1,61804,Golden Grove 80 to Adelaide Airport 10 via O-Bahn and City,0,91035,7258
 J2X,1,61805,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,91085,8131
@@ -2980,41 +2980,41 @@ J2X,1,61806,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express f
 J2X,1,61807,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,71235,8131
 J2X,1,61808,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,91275,8131
 J2X,1,61809,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,91305,8131
-J2,13,61810,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94105,8217
+J2,13,61810,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94105,8217
 J2X,1,61811,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,81055,8131
 J2X,1,61812,Golden Grove 80 to City via Golden Grove Rd O-Bahn running express from Tea Tree Plaza Interchange to City,0,90095,8131
-J2,1,61813,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,80075,8216
-J2,13,61814,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94135,8217
-J2,1,61815,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,71045,8216
-J2,1,61816,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,70105,8216
-J2,13,61817,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,74015,8217
-J2,1,61818,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,67005,8216
-J2,1,61819,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,70155,8216
-J2,13,61820,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94105,8217
-J2,1,61821,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,71015,8216
-J2,1,61822,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,40185,8216
-J2,13,61823,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94135,8217
-J2,1,61824,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,70215,8216
-J2,1,61825,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,91065,8216
-J2,13,61826,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,74185,8217
-J2,1,61827,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,80095,8216
-J2,1,61828,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,90165,8216
-J2,13,61829,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94065,8217
-J2,1,61830,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,71285,8216
-J2,1,61831,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,70285,8216
-J2,13,61832,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94105,8217
+J2,1,61813,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,80075,8216
+J2,13,61814,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94135,8217
+J2,1,61815,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71045,8216
+J2,1,61816,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70105,8216
+J2,13,61817,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74015,8217
+J2,1,61818,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,67005,8216
+J2,1,61819,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70155,8216
+J2,13,61820,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94105,8217
+J2,1,61821,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71015,8216
+J2,1,61822,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71015,8216
+J2,13,61823,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94135,8217
+J2,1,61824,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70215,8216
+J2,1,61825,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,91065,8216
+J2,13,61826,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74185,8217
+J2,1,61827,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,80095,8216
+J2,1,61828,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,90165,8216
+J2,13,61829,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94065,8217
+J2,1,61830,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71285,8216
+J2,1,61831,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70285,8216
+J2,13,61832,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94105,8217
 J2,1,61833,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,91235,8218
-J2,13,61834,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94205,8217
+J2,13,61834,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94205,8217
 J2,13,61835,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74155,8218
-J2,13,61836,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,74165,8217
-J2,1,61837,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,90185,8217
-J2,13,61838,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,74195,8217
-J2,1,61839,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,70335,8217
-J2,13,61840,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,94245,8217
-J2,1,61841,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,90295,8217
-J2,13,61842,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,64755,8217
-J2,1,61843,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,67095,8217
-J2,13,61844,Golden Grove Rd 80 to Harbour Town via Golden Grove Interchange O-Bahn and Adelaide Airport,0,74255,8217
+J2,13,61836,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74165,8217
+J2,1,61837,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,90185,8217
+J2,13,61838,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74195,8217
+J2,1,61839,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70335,8217
+J2,13,61840,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94245,8217
+J2,1,61841,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,90295,8217
+J2,13,61842,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,64755,8217
+J2,1,61843,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,67095,8217
+J2,13,61844,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,74255,8217
 J2,13,61845,Tea Tree Plaza Interchange to Harbour Town via Tea Tree Plaza Interchange O-Bahn and Adelaide Airport,0,74225,8219
 J2C,11,61846,West Beach 14 to City via Adelaide Airport and Sir Donald Bradman Dr,1,44015,7444
 J2C,11,61847,West Beach 14 to City via Adelaide Airport and Sir Donald Bradman Dr,1,44095,7444
@@ -5371,12 +5371,12 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 178,1,64214,Athelstone to Paradise Interchange via Gorge Rd and George Street,1,10085,7817
 178,1,64215,Athelstone to Paradise Interchange via Gorge Rd and George Street,1,11105,7817
 178,1,64216,Athelstone to Paradise Interchange via Gorge Rd and George Street,1,11185,7817
-178,1,64217,City to Athelstone,1,67015,7822
+178,1,64217,City to Athelstone via Payneham Rd and Montacute Rd,1,67015,7822
 178,11,64218,Athelstone to Paradise Interchange via Gorge Rd and George Street,1,14145,7817
-178,1,64219,City to Athelstone,1,67515,7822
-178,1,64220,City to Athelstone,1,70015,7822
-178,1,64221,City to Athelstone,1,70055,7822
-178,1,64222,City to Athelstone,1,70035,7822
+178,1,64219,City to Athelstone via Payneham Rd and Montacute Rd,1,67515,7822
+178,1,64220,City to Athelstone via Payneham Rd and Montacute Rd,1,70015,7822
+178,1,64221,City to Athelstone via Payneham Rd and Montacute Rd,1,70055,7822
+178,1,64222,City to Athelstone via Payneham Rd and Montacute Rd,1,70035,7822
 178,11,64223,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,14025,7816
 178,1,64224,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,31385,7816
 178,1,64225,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,11195,7816
@@ -5556,7 +5556,6 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 208,1,64400,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,30325,7882
 208,13,64401,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,14435,7882
 208,1,64402,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,30315,7882
-208,13,64403,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,64395,7882
 208,1,64404,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,30325,7882
 208,13,64405,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,14435,7882
 209,1,64406,Ingle Farm to Sir Edwin Smith Av North Adelaide via Hampstead Rd and Galway Avenue,0,78005,7885
@@ -5658,7 +5657,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 209F,1,64502,City to Tea Tree Plaza via O'Connell St Main North Rd Regency Rd Hampstead Rd and Milne Rd (No set down before Stop 17A Regency Road),1,79025,7946
 209F,1,64503,City to Tea Tree Plaza via O'Connell St Main North Rd Regency Rd Hampstead Rd and Milne Rd (No set down before Stop 17A Regency Road),1,40325,7946
 209F,1,64504,City to Tea Tree Plaza via O'Connell St Main North Rd Regency Rd Hampstead Rd and Milne Rd (No set down before Stop 17A Regency Road),1,30325,7946
-300,1,64505,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,21045,8060
+300,1,64505,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,31045,8060
 300,1,64506,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,31105,8060
 300,1,64507,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,30105,8060
 300,1,64508,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,30115,8060
@@ -5668,7 +5667,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300,1,64512,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,10135,8060
 300,1,64513,Marion Shopping Centre to Arndale Interchange via Sturt Rd Ayliffes Rd Belair Rd Cross Rd Portrush Rd O.G Rd Regency Rd,1,50055,8059
 300,11,64514,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,64195,8060
-300,1,64515,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,21045,8056
+300,1,64515,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,21015,8056
 300U,11,64516,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,44085,8067
 300U,1,64517,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,61295,8067
 300,1,64518,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,21115,8056
@@ -5682,7 +5681,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300,1,64527,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,51255,8056
 300H,12,64528,Glenelg Interchange to Glen Osmond 19 via Diagonal Rd Marion Shopping Centre Sturt Rd Flinders University Ayliffes Rd Belair Rd Cross Rd Portrush Rd 19,1,15025,8063
 300,11,64529,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,14125,8056
-300U,1,64530,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,20235,8067
+300U,1,64530,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,20305,8067
 300,1,64531,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,21245,8056
 300M,13,64533,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,35015,8066
 300U,1,64534,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,41225,8067
@@ -5733,7 +5732,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300U,1,64585,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,51205,8067
 300,1,64586,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,60175,8056
 300H,12,64587,Arndale Interchange to Glen Osmond via Woodville Rd Seaview Rd Grange Rd  West Beach Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Flinders University Cross Rd Portrush Rd 19,1,25115,8062
-300,11,64588,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,24235,8056
+300,11,64588,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,44045,8056
 300U,1,64589,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,20435,8067
 300,1,64590,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,51195,8056
 300M,13,64592,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,15145,8066
@@ -6511,7 +6510,7 @@ M44,1,65366,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City a
 M44,13,65367,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94045,7992
 M44,1,65368,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90125,8157
 M44,11,65369,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74155,7993
-M44C,12,65370,Tea Tree Plaza Interchange to City via O-Bahn  ,0,75035,7997
+M44C,12,65370,Tea Tree Plaza Interchange to City via O-Bahn  ,0,95055,7997
 M44,1,65371,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,91005,8157
 M44,13,65372,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74035,7992
 M44,1,65373,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90095,8157
@@ -6586,7 +6585,7 @@ M44,1,65441,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City a
 M44,13,65442,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74275,7992
 M44,1,65443,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,67065,7992
 M44,13,65444,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94185,7992
-M44,1,65445,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90265,7992
+M44,1,65445,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90285,7992
 M44,13,65446,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94195,7992
 M44,1,65447,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,67085,7992
 M44,13,65448,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,64745,7992
@@ -6648,7 +6647,7 @@ M44,1,65505,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Cit
 M44T,11,65506,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,94125,8000
 M44T,12,65507,City to Tea Tree Plaza Interchange via O-Bahn ,1,95055,8001
 M44,1,65508,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,67025,8159
-M44,13,65509,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94105,7966
+M44,13,65509,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94015,7966
 M44,1,65510,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,90055,8159
 M44T,11,65511,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,94005,8000
 M44T,12,65512,City to Tea Tree Plaza Interchange via O-Bahn ,1,75115,8001
@@ -9254,7 +9253,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 100,1,68116,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,31245,7681
 100P,1,68117,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,41205,7685
 100P,11,68118,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,34155,7685
-100P,1,68119,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,41215,7685
+100P,1,68119,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,20645,7685
 100,1,68120,Plympton 184 to Glen Osmond 19 via Cross Rd,1,40055,7679
 100,1,68121,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,31015,7677
 100,1,68122,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,51055,7678
@@ -10759,16 +10758,16 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 287,1,69624,City to Henley Beach via Ashley St and Marlborough Tce,1,60105,5603
 287,1,69625,City to Henley Beach via Ashley St and Marlborough Tce,1,40075,5603
 287,1,69626,City to Henley Beach via Ashley St and Marlborough Tce,1,60215,5603
-287,1,69627,City to Henley Beach via Ashley St and Marlborough Tce,1,41075,5603
+287,1,69627,City to Henley Beach via Ashley St and Marlborough Tce,1,41075,7754
 287,11,69628,City to Henley Beach via Ashley St and Marlborough Tce,1,64055,5603
 287A,1,69630,City to Underdale (Ashley St Stop 12),1,60295,5605
-287,1,69631,City to Henley Beach via Ashley St and Marlborough Tce,1,61095,5603
+287,1,69631,City to Henley Beach via Ashley St and Marlborough Tce,1,61095,7754
 287,11,69632,City to Henley Beach via Ashley St and Marlborough Tce,1,64115,5603
 287A,1,69633,City to Underdale (Ashley St Stop 12),1,61215,5605
 287A,1,69634,City to Underdale (Ashley St Stop 12),1,61175,5605
-287,1,69635,City to Henley Beach via Ashley St and Marlborough Tce,1,20125,5603
+287,1,69635,City to Henley Beach via Ashley St and Marlborough Tce,1,20125,7754
 287,13,69636,City to Henley Beach via Ashley St and Marlborough Tce,1,64175,5603
-287,1,69637,City to Henley Beach via Ashley St and Marlborough Tce,1,61425,5603
+287,1,69637,City to Henley Beach via Ashley St and Marlborough Tce,1,61425,7754
 287,13,69638,City to Henley Beach via Ashley St and Marlborough Tce,1,44105,5603
 287,1,69639,City to Henley Beach via Ashley St and Marlborough Tce,1,11315,5603
 287,13,69640,City to Henley Beach via Ashley St and Marlborough Tce,1,14055,5603
@@ -10815,15 +10814,15 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 287,1,69681,City to Henley Beach via Ashley St and Marlborough Tce,1,60485,5603
 287,13,69682,City to Henley Beach via Ashley St and Marlborough Tce,1,34165,5603
 287,1,69683,City to Henley Beach via Ashley St and Marlborough Tce,1,78115,5603
-287,13,69684,City to Henley Beach via Ashley St and Marlborough Tce,1,74645,5603
+287,13,69684,City to Henley Beach via Ashley St and Marlborough Tce,1,74645,7755
 287,1,69685,City to Henley Beach via Ashley St and Marlborough Tce,1,60545,5603
 287,13,69686,City to Henley Beach via Ashley St and Marlborough Tce,1,34175,5603
 287,1,69687,City to Henley Beach via Ashley St and Marlborough Tce,1,30295,5603
-287,13,69688,City to Henley Beach via Ashley St and Marlborough Tce,1,44205,5603
+287,13,69688,City to Henley Beach via Ashley St and Marlborough Tce,1,44205,7755
 287,1,69689,City to Henley Beach via Ashley St and Marlborough Tce,1,50235,5603
 287,13,69690,City to Henley Beach via Ashley St and Marlborough Tce,1,64475,5603
 287,1,69691,City to Henley Beach via Ashley St and Marlborough Tce,1,20655,5603
-287,13,69692,City to Henley Beach via Ashley St and Marlborough Tce,1,64465,5603
+287,13,69692,City to Henley Beach via Ashley St and Marlborough Tce,1,64465,7755
 287,1,69693,City to Henley Beach via Ashley St and Marlborough Tce,1,40325,5603
 287,13,69694,City to Henley Beach via Ashley St and Marlborough Tce,1,64485,5603
 287,1,69695,City to Henley Beach via Ashley St and Marlborough Tce,1,40305,5603
@@ -10854,9 +10853,9 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 288,1,69720,West Lakes Interchange to City via Valetta Rd and Ashley St,0,61365,5609
 288,1,69721,West Lakes Interchange to City via Valetta Rd and Ashley St,0,61405,5609
 288,1,69722,West Lakes Interchange to City via Valetta Rd and Ashley St,0,60565,5609
-288,1,69723,City to West Lakes Interchange via Ashley St and Valetta Rd,1,60265,5610
-288,1,69724,City to West Lakes Interchange via Ashley St and Valetta Rd,1,61225,5610
-288,1,69725,City to West Lakes Interchange via Ashley St and Valetta Rd,1,51095,5610
+288,1,69723,City to West Lakes Interchange via Ashley St and Valetta Rd,1,60265,7783
+288,1,69724,City to West Lakes Interchange via Ashley St and Valetta Rd,1,61225,7783
+288,1,69725,City to West Lakes Interchange via Ashley St and Valetta Rd,1,51095,7783
 288,1,69726,City to West Lakes Interchange via Ashley St and Valetta Rd,1,31315,5610
 288,1,69727,City to West Lakes Interchange via Ashley St and Valetta Rd,1,51105,5610
 288,1,69728,City to West Lakes Interchange via Ashley St and Valetta Rd,1,60005,5610
@@ -11876,7 +11875,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 190B,13,70744,City to Mitcham via Unley Rd,1,34235,7845
 195,1,70745,Torrens Park to City via Unley Rd,0,30045,7857
 195,1,70746,Torrens Park to City via Unley Rd,0,41035,7857
-195,1,70747,Blackwood Station to City via Unley Rd,0,60085,7856
+195,1,70747,Blackwood Station to City via Unley Rd,0,60085,7855
 195,1,70748,Torrens Park to City via Unley Rd,0,31225,7857
 195F,1,70749,Blackwood Station to City via Unley Rd,0,69005,7859
 195F,1,70750,Blackwood Station to City via Unley Rd,0,41245,7859
@@ -11886,7 +11885,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 195F,1,70754,Blackwood Station to City via Unley Rd,0,,7859
 195,13,70755,Blackwood Station to City via Unley Rd,0,34005,7856
 195F,1,70756,Blackwood Station to City via Unley Rd,0,,7859
-195,13,70757,Blackwood Station to City via Unley Rd,0,64385,7856
+195,13,70757,Blackwood Station to City via Unley Rd,0,64385,7855
 195F,1,70758,City to Blackwood Station via Unley Rd,1,,7858
 195,13,70759,City to Blackwood Station via Unley Rd,1,34005,7848
 195F,1,70760,City to Blackwood Station via Unley Rd,1,68005,7858
@@ -11921,7 +11920,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 196F,1,70789,Blackwood Station to City via Unley Rd,0,68005,6714
 196,13,70790,Blackwood Station to City via Unley Rd,0,24205,7862
 196F,1,70791,Blackwood Station to City via Unley Rd,0,68005,6714
-196,13,70792,Blackwood Station to City via Unley Rd,0,34005,7862
+196,13,70792,Blackwood Station to City via Unley Rd,0,14165,7862
 196F,1,70793,Blackwood Station to City via Unley Rd,0,69005,6714
 196F,1,70794,Blackwood Station to City via Unley Rd,0,68005,6714
 196F,1,70795,Blackwood Station to City via Unley Rd,0,69025,6714
@@ -12542,11 +12541,11 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 235,13,71410,City to Kilburn via Churchill Rd,1,14345,4052
 235,1,71411,City to Kilburn via Churchill Rd,1,78105,4052
 235,13,71412,City to Kilburn via Churchill Rd,1,44265,4052
-241,1,71413,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,60105,6909
-241,1,71414,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,60215,6909
+241,1,71413,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,60105,7979
+241,1,71414,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,60215,7979
 241,1,71415,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,61075,6909
 241,1,71416,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,61115,6909
-241,1,71417,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,61215,6909
+241,1,71417,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,61215,7979
 241,11,71418,Marion Shopping Centre to City via Oaklands Rd Towers Tce and Beckman St,0,64115,6910
 241,1,71419,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,69025,6909
 241,1,71420,Oaklands Park to City via Oaklands Rd Towers Tce and Beckman St,0,61395,6909
@@ -12650,12 +12649,12 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 248,1,71518,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,40075,7987
 248F,1,71519,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,41075,7990
 248,11,71520,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy,0,64055,8179
-248F,1,71521,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,60265,7990
+248F,1,71521,Warradale to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,60265,7994
 248F,1,71522,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,61095,7990
-248F,1,71523,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,61225,7990
+248F,1,71523,Warradale to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,61225,7994
 248F,1,71524,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,20125,7990
 248,13,71525,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy,0,64175,8179
-248F,1,71526,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,51095,7990
+248F,1,71526,Warradale to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,51095,7994
 248F,1,71527,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy (No pick up after Stop 11A Marion Rd),0,61425,7990
 248,1,71528,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy,0,11315,7986
 248,13,71529,Marion Shopping Centre to City via Bells Rd Hendrie St and Anzac Hwy,0,14055,8179
@@ -13111,11 +13110,11 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 254X,1,71979,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,31215,8029
 254X,1,71980,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,60345,8029
 254X,1,71981,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,31405,8029
-254X,1,71982,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,60435,8028
-254X,1,71983,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,61165,8028
-254X,1,71984,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,61245,8028
-254X,1,71985,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,61305,8028
-254X,1,71986,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,41175,8028
+254X,1,71982,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,60435,8028
+254X,1,71983,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,61165,8028
+254X,1,71984,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,61245,8028
+254X,1,71985,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,61305,8028
+254X,1,71986,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,41175,8028
 254X,1,71987,City to Port Adelaide (Express from Stop 2 King William Rd to Arndale),1,50015,5574
 254X,1,71988,City to Port Adelaide (Express from Stop 2 King William Rd to Arndale),1,60285,5574
 254X,1,71989,City to Port Adelaide (Express from Stop 2 King William Rd to Arndale),1,20095,5574
@@ -13915,7 +13914,7 @@ G10,13,72788,Prospect Rd 24 to Marion Shopping Centre,1,64235,8081
 G10B,1,72789,Prospect Rd 24 to Bedford Park via City,1,41075,8086
 G10A,1,72790,Prospect Rd 24 to Colonel Light Gardens,1,10315,8085
 G10,1,72791,Prospect Rd 24 to Flinders University,1,60445,8083
-G10,13,72792,Prospect Rd 24 to Marion Shopping Centre,1,74635,8081
+G10,13,72792,Prospect Rd 24 to Marion Shopping Centre,1,44165,8081
 G10B,1,72793,Prospect Rd 24 to Bedford Park via City,1,31425,8086
 G10C,1,72794,Prospect Rd 24 to King William St City,1,60605,7213
 G10B,13,72795,Prospect Rd 24 to City,1,34225,8087
@@ -13997,10 +13996,10 @@ G21,1,72870,Old Reynella Interchange to Bedford Park,0,21245,8103
 G21,13,72871,Aberfoyle Hub to Bedford Park,0,34265,8104
 G21H,1,72872,Old Reynella Interchange to Stop 54 Sandpiper Crescent Aberfoyle Hub,0,61135,7231
 G21H,1,72873,Old Reynella Interchange to Stop 54 Sandpiper Crescent Aberfoyle Hub,0,31405,7231
-G21,1,72874,City to Aberfoyle Hub and Old Reynella Interchange,1,61015,7227
-G21,1,72875,City to Aberfoyle Hub and Old Reynella Interchange,1,78005,7227
-G21,1,72876,City to Aberfoyle Hub and Old Reynella Interchange,1,61275,7227
-G21,1,72877,City to Aberfoyle Hub and Old Reynella Interchange,1,31125,7227
+G21,1,72874,Aberfoyle Hub to Old Reynella Interchange,1,61015,7227
+G21,1,72875,Aberfoyle Hub to Old Reynella Interchange,1,78005,7227
+G21,1,72876,Aberfoyle Hub to Old Reynella Interchange,1,61275,7227
+G21,1,72877,Aberfoyle Hub to Old Reynella Interchange,1,31125,7227
 G21,1,72878,City to Aberfoyle Hub and Old Reynella Interchange,1,31255,8055
 G21,1,72879,City to Aberfoyle Hub and Old Reynella Interchange,1,31465,8055
 G21,1,72880,City to Aberfoyle Hub and Old Reynella Interchange,1,61185,8055
@@ -15007,3 +15006,14 @@ J1A,13,73882,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interch
 720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
 178,1,73888,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,8203
 222,1,73889,Enfield to City via Main North Road and O'Connell Street,0,,7023
+N5,1,73890,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73891,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73892,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73893,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73894,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73895,Noarlunga Centre to Oaklands Interchange,0,,8189
+N5,1,73896,Oaklands Interchange to Noarlunga Centre,1,,8188
+N5,1,73897,Oaklands Interchange to Noarlunga Centre,1,,8188
+N6,1,73898,Hallett Cove Beach to Oaklands Interchange,0,,8191
+N6,1,73899,Oaklands Interchange to Hallett Cove Beach,1,,8190
+208,13,73900,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,,7882
