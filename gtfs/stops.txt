@@ -7194,6 +7194,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100946,,Stop 17A Blythewood Rd - Northern side,,-34.983402, 138.615266,,,,
 100947,,Stop 33L Hawthorndene Dr - Northern side,,-35.016674, 138.625617,,,,
 100957,,Stop 13 Tutt Ave - Southern side,,-34.971124, 138.618069,,,,
+100986,,School Bus Stop A - Blackwood High,,-35.02617, 138.60487,,,,
 101005,,Lonsdale - Train Sub Temp Stop,,-35.11063, 138.494054,,,,
 101006,,Stop 39P Hemming St - Western side,,-34.774152, 138.608771,,,,
 101008,,Marino Rocks - Train Sub Stop,,-35.046154, 138.51214,,,,
@@ -7298,3 +7299,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101113,,Warradale - Train Sub Temp Stop,,-35.012937, 138.53499,,,,
 101114,,Hove - Train Sub Temp Stop,,-35.013502, 138.524574,,,,
 101115,,Temp Stop 13T Military Rd - Eastern side,,-34.943881, 138.504035,,,,
+101116,,Stop 43C Black Rd - Southern side,,-35.058961, 138.604229,,,,

@@ -2603,7 +2603,6 @@ N541,51,60853,City to Surrey Downs 59 via O-Bahn and Hancock Rd- after midnight 
 579,11,61430,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74125,8146
 579,1,61431,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,10265,8146
 579,11,61432,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74125,8146
-579,11,61433,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74125,8146
 579,1,61434,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,60415,8146
 579,11,61435,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,74095,8146
 579,1,61436,Paradise Interchange to Athelstone via Gorge Road and Addison Rd ,0,10205,8146
@@ -2725,23 +2724,6 @@ G1,1,61551,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,90325,720
 G1,13,61552,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,94205,7201
 G1,13,61553,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61554,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G4,11,61555,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94025,7244
-G4,11,61556,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94075,7244
-G4,13,61557,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94075,7244
-G4,13,61558,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94075,7244
-G4,1,61559,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,91235,7244
-G4,13,61560,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94075,7244
-G4,1,61561,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,91235,7244
-G4,13,61562,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94055,7244
-G4,1,61563,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,91045,7244
-G4,13,61564,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94055,7244
-G4,1,61565,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,91045,7244
-G4,13,61566,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94055,7244
-G4,1,61567,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,91045,7244
-G4,13,61568,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94175,7244
-G4,13,61569,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94175,7244
-G4,13,61570,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94175,7244
-G4,13,61571,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,94175,7244
 G40M,1,61572,Golden Grove Village to Tea Tree Plaza Interchange via Bicentennial Dr and Golden Grove Rd,0,80025,7251
 G40,1,61573,Golden Grove Village to Flinders University via Bicentennial Dr and the City,0,90135,7246
 G40,1,61574,Golden Grove Village to Flinders University via Bicentennial Dr and the City,0,71075,7246
@@ -2992,7 +2974,7 @@ J2,1,61818,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  th
 J2,1,61819,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70155,8216
 J2,13,61820,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94105,8217
 J2,1,61821,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71015,8216
-J2,1,61822,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,71015,8216
+J2,1,61822,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70185,8216
 J2,13,61823,Golden Grove Village to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,94135,8217
 J2,1,61824,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,70215,8216
 J2,1,61825,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,91065,8216
@@ -5122,80 +5104,80 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 174,1,63965,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11435,6838
 174,1,63966,Glynde to City via Payneham Road,0,61035,7736
 174,1,63967,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11415,6838
-174,11,63968,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54025,6838
+174,13,63968,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54025,6838
 174,1,63969,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60225,6838
 174,1,63970,Paradise Interchange to City via Lower North East Rd Payneham Rd,0,21165,7737
 174,1,63971,Glynde to City via Payneham Road,0,11075,7736
-174,11,63972,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14025,6838
+174,13,63972,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14025,6838
 174,1,63973,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,50125,6838
 174,1,63974,Glynde to City via Payneham Road,0,20315,7739
 174,1,63975,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61035,6838
-174,11,63976,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64135,6838
+174,13,63976,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64135,6838
 174,1,63977,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21155,6838
 174,1,63978,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11405,6838
-174,11,63979,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14115,6838
+174,13,63979,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14115,6838
 174,1,63980,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60105,6838
 174,1,63981,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60235,6838
-174,11,63982,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24165,6838
+174,13,63982,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24165,6838
 174,1,63983,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31335,6838
 174,1,63984,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60215,6838
-174,11,63985,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14225,6838
+174,13,63985,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14225,6838
 174,1,63986,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,61285,6838
 174,1,63987,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
-174,11,63988,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14245,6838
+174,13,63988,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14245,6838
 174,1,63989,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10365,6838
 174,1,63990,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10105,6838
-174,11,63991,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14255,6838
+174,13,63991,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14255,6838
 174,1,63992,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60165,6838
 174,1,63993,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30095,6838
-174,11,63994,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24065,6838
+174,13,63994,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24065,6838
 174,1,63995,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60245,6838
 174,1,63996,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10175,6838
-174,11,63997,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
+174,13,63997,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
 174,1,63998,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20145,6838
 174,1,63999,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60375,6838
-174,11,64000,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14305,6838
+174,13,64000,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14305,6838
 174,1,64001,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20195,6838
 174,1,64002,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60325,6838
-174,11,64003,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14315,6838
+174,13,64003,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14315,6838
 174,1,64004,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,78095,6838
 174,1,64005,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30055,6838
-174,11,64006,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,44155,6838
+174,13,64006,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,44155,6838
 174,1,64007,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20275,6838
 174,1,64008,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30135,6838
-174,1,64009,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10495,6838
-174,11,64010,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,74625,6838
+174,21,64009,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,10495,6838
+174,13,64010,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,74625,6838
 174,1,64011,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11395,6838
 174,1,64012,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20365,6838
-174,11,64013,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14355,6838
+174,13,64013,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14355,6838
 174,1,64014,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,51045,6838
 174,1,64015,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21075,6838
-174,11,64016,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
+174,13,64016,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
 174,1,64017,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,11435,6838
 174,1,64018,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21205,6838
-174,11,64019,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64285,6838
+174,13,64019,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,64285,6838
 174,1,64020,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,21195,6838
 174,1,64021,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31075,6838
-174,11,64022,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14415,6838
+174,13,64022,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14415,6838
 174,1,64023,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60475,6838
 174,1,64024,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,30255,6838
-174,11,64025,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,34255,6838
+174,13,64025,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,34255,6838
 174,1,64026,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31315,6838
 174,1,64027,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31365,6838
-174,11,64028,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
+174,13,64028,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14285,6838
 174,1,64029,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,31445,6838
 174,1,64030,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60745,6838
-174,11,64031,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14395,6838
+174,13,64031,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,14395,6838
 174,1,64032,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20515,6838
 174,1,64033,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,40265,6838
-174,11,64034,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24285,6838
+174,13,64034,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24285,6838
 174,1,64035,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20565,6838
 174,1,64036,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60705,6838
-174,11,64037,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24305,6838
+174,13,64037,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24305,6838
 174,1,64038,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,60755,6838
-174,11,64039,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54175,6838
+174,13,64039,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54175,6838
 174,1,64040,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,20665,6838
-174,11,64041,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24425,6838
+174,13,64041,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,24425,6838
 174,1,64042,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,30015,6840
 174,1,64043,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20015,6840
 174,1,64044,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20085,6840
@@ -5206,80 +5188,80 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 174,11,64049,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34125,6840
 174,1,64050,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,31455,6840
 174,1,64051,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20195,6840
-174,11,64052,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24095,6840
+174,13,64052,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24095,6840
 174,1,64053,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20205,6840
 174,1,64054,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20155,6840
-174,11,64055,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14175,6840
+174,13,64055,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14175,6840
 174,1,64056,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11275,6840
 174,1,64057,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20335,6840
-174,11,64058,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24165,6840
+174,13,64058,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24165,6840
 174,1,64059,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11005,6840
 174,1,64060,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,61195,6840
-174,11,64061,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14025,6840
+174,13,64061,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14025,6840
 174,1,64062,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60165,6840
 174,1,64063,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11215,6840
-174,11,64064,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14075,6840
+174,13,64064,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14075,6840
 174,1,64065,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20315,6840
 174,1,64066,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20265,3586
-174,11,64067,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14115,6840
+174,13,64067,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14115,6840
 174,1,64068,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,78005,6840
 174,1,64069,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11405,3586
-174,11,64070,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34075,6840
+174,13,64070,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34075,6840
 174,1,64071,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,50045,6840
 174,1,64072,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60235,3586
-174,11,64073,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14225,6840
+174,13,64073,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14225,6840
 174,1,64074,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20455,6840
 174,1,64075,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60215,3586
-174,11,64076,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34175,6840
+174,13,64076,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34175,6840
 174,1,64077,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10335,6840
 174,1,64078,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60325,3586
-174,11,64079,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14255,6840
+174,13,64079,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14255,6840
 174,1,64080,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,78055,6840
 174,1,64081,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10105,3586
-174,11,64082,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14015,6840
+174,13,64082,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14015,6840
 174,1,64083,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10185,6840
 174,1,64084,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,30095,3586
-174,11,64085,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14285,6840
+174,13,64085,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14285,6840
 174,1,64086,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10065,6840
 174,1,64087,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10175,3586
-174,11,64088,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34195,6840
+174,13,64088,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34195,6840
 174,1,64089,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,40195,6840
 174,1,64090,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60375,3586
-174,11,64091,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14315,6840
+174,13,64091,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14315,6840
 174,1,64092,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,31155,6840
 174,1,64093,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,61075,7130
-174,11,64094,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14105,6840
+174,13,64094,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14105,6840
 174,1,64095,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,41195,6840
 174,1,64096,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60545,6840
-174,11,64097,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,74625,6840
+174,13,64097,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,74625,6840
 174,1,64098,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,51075,6840
 174,1,64099,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,30255,6840
-174,11,64100,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34255,6840
+174,13,64100,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34255,6840
 174,1,64101,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10295,6840
 174,1,64102,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11035,7130
 174,1,64103,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,21285,7130
-174,11,64104,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14285,6840
+174,13,64104,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14285,6840
 174,1,64105,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11125,7130
 174,1,64106,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,31485,7130
-174,11,64107,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24345,6840
+174,13,64107,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24345,6840
 174,1,64108,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11135,6840
 174,1,64109,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11275,7130
-174,11,64110,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14415,6840
+174,13,64110,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,14415,6840
 174,1,64111,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20515,6840
 174,1,64112,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,11405,7130
-174,11,64113,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34215,6840
+174,13,64113,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,34215,6840
 174,1,64114,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20525,6840
 174,1,64115,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,20565,6840
 174,1,64116,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10545,6840
-174,11,64117,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24305,6840
+174,13,64117,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24305,6840
 174,1,64118,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10425,6840
 174,1,64119,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,30195,6840
-174,11,64120,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,44235,6840
+174,13,64120,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,44235,6840
 174,1,64121,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10485,6840
 174,1,64122,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,10505,6840
-174,11,64123,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24425,6840
+174,13,64123,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,24425,6840
 174,1,64124,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,60695,6840
-174,11,64125,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,54205,6840
+174,13,64125,City to Paradise Interchange via Payneham Rd and Lower North East Rd,1,54205,6840
 178,11,64126,Newton to City via Montacute Rd and Payneham Rd,0,14025,6848
 178,11,64127,Newton to City via Montacute Rd and Payneham Rd,0,14085,6848
 178F,1,64128,Paradise Interchange to City via Montacute Rd and Payneham Rd (No pick up after Stop 17 Payneham Road),0,11165,7825
@@ -5762,7 +5744,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300,11,64618,Glen Osmond 19 to Arndale Interchange via Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd and Woodville Rd,0,24005,8045
 300,1,64619,Arndale Interchange to Arndale Interchange via Regency Rd O.G Road Portrush Rd Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd Woodville Rd,0,50075,8044
 300G,1,64620,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,41115,8049
-300G,11,64621,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,14165,8050
+300G,11,64621,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,14065,8050
 300,1,64622,Arndale Interchange to Arndale Interchange via Regency Rd O.G Road Portrush Rd Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd Woodville Rd,0,51085,8044
 300G,1,64623,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,61305,8049
 300,1,64624,Arndale Interchange to Arndale Interchange via Regency Rd O.G Road Portrush Rd Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd Woodville Rd,0,51135,8044
@@ -9253,7 +9235,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 100,1,68116,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,31245,7681
 100P,1,68117,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,41205,7685
 100P,11,68118,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,34155,7685
-100P,1,68119,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,20645,7685
+100P,1,68119,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,41295,7685
 100,1,68120,Plympton 184 to Glen Osmond 19 via Cross Rd,1,40055,7679
 100,1,68121,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,31015,7677
 100,1,68122,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,51055,7678
@@ -10299,7 +10281,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 167,13,69162,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,64455,5353
 167,1,69163,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,30225,5353
 167,13,69164,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,44225,5353
-168,1,69165,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,41065,6828
+168,1,69165,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,41065,5357
 168,11,69166,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,64085,5357
 168,1,69167,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,10075,6828
 168,1,69168,North Plympton to City via Streeters Rd and Richmond Rd,0,41255,6829
@@ -10475,7 +10457,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 171,1,69338,City to Mitcham via Hutt St and Fullarton Rd ,1,20275,4679
 171,1,69339,City to Mitcham via Hutt St and Fullarton Rd ,1,30135,4679
 171A,13,69340,City to Myrtle Bank via Hutt St and Fullarton Rd ,1,74625,6834
-171,31,69341,City to Mitcham via Hutt St and Fullarton Rd ,1,,4679
+171,31,69341,City to Mitcham via Hutt St and Fullarton Rd ,1,12385,4679
 171,1,69342,City to Mitcham via Hutt St and Fullarton Rd ,1,11395,4679
 171,1,69343,City to Mitcham via Hutt St and Fullarton Rd ,1,20365,4679
 171,13,69344,City to Mitcham via Hutt St and Fullarton Rd ,1,14355,4679
@@ -11215,13 +11197,13 @@ B10,1,70081,Magill to West Lakes Shopping Centre via Magill Rd City and Grange R
 B10,13,70082,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54115,7548
 B10,1,70083,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,20315,7548
 B10,1,70084,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,10305,7548
-B10,13,70085,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,14205,7548
+B10,13,70085,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54145,7548
 B10,1,70086,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,50225,7548
 B10,1,70087,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,31435,7548
-B10,13,70088,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54155,7548
+B10,13,70088,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,14205,7548
 B10,1,70089,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,11185,7548
 B10,1,70090,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,50255,7548
-B10,13,70091,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54095,7548
+B10,13,70091,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54155,7548
 B10,1,70092,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,31495,7548
 B10,1,70093,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,11445,7548
 B10,13,70094,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54095,7548
@@ -11236,7 +11218,7 @@ B10,13,70102,Magill to West Lakes Shopping Centre via Magill Rd City and Grange 
 B10,1,70103,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,50205,7548
 B10,1,70104,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,10485,7548
 B10,13,70105,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,14305,7548
-B10C,1,70106,Magill to City via Church St and Magill Rd,1,78105,7549
+B10C,1,70106,Magill to City - North Tce R1 via Church St and Magill Rd,1,78105,7552
 B10,13,70107,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,54145,7548
 B10,1,70108,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,30285,7548
 B10,1,70109,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,1,50225,7548
@@ -12627,8 +12609,8 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 245,1,71496,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,60255,7982
 245,1,71497,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,60295,7983
 245,1,71498,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,61175,7983
-245,1,71499,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,61315,7983
-245,1,71500,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,61375,7983
+245,1,71499,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,61315,7982
+245,1,71500,Hove to City via Dunrobin Rd Morphett St Bray St and Anzac Hwy,0,61375,7982
 245,1,71501,Warradale to City via Morphett St Bray St and Anzac Hwy,0,31315,7984
 245,1,71502,Warradale to City via Morphett St Bray St and Anzac Hwy,0,51105,7984
 245,1,71503,Warradale to City via Morphett St Bray St and Anzac Hwy,0,60005,7984
@@ -12848,14 +12830,14 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 251,1,71717,Arndale to Mansfield Park via Liberty Grove,1,40145,5550
 252,1,71718,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,60345,8013
 251,11,71719,Arndale to Mansfield Park via Liberty Grove,1,44115,5550
-251,1,71720,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,61105,5551
-251,1,71721,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60365,5551
+251,1,71720,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,61105,8009
+251,1,71721,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60365,8009
 252,11,71722,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,44115,4080
-251,1,71723,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,41285,5551
+251,1,71723,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,41285,8009
 252,1,71724,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,78015,8013
 251,13,71725,Arndale to Mansfield Park via Liberty Grove,1,24005,5550
-251,1,71726,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,50095,5551
-251,1,71727,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,10175,5551
+251,1,71726,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,50095,8009
+251,1,71727,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,10175,8009
 252,11,71728,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,24005,4080
 251,12,71729,Arndale to Mansfield Park via Liberty Grove,1,15035,5550
 251,1,71730,Arndale to Mansfield Park via Liberty Grove,1,31345,5550
@@ -12889,7 +12871,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 251,1,71758,Arndale to Mansfield Park via Liberty Grove,1,20455,5550
 252,1,71759,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,60435,4080
 251,13,71760,Arndale to Mansfield Park via Liberty Grove,1,24025,5550
-251,1,71761,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31305,7336
+251,1,71761,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31305,5551
 250,1,71762,Arndale to Wingfield via Liberty Grove,1,31205,6915
 252,11,71763,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,14245,4080
 251,12,71764,Arndale to Mansfield Park via Liberty Grove,1,75645,5550
@@ -12905,28 +12887,28 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 252,1,71774,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,31175,6364
 251,1,71775,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,50265,5551
 251,13,71776,Arndale to Mansfield Park via Liberty Grove,1,64275,5550
-251,1,71777,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,61145,5551
-251,1,71778,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,41205,5551
+251,1,71777,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,61145,8009
+251,1,71778,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,41205,8009
 252,11,71779,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,64275,4080
 251,12,71780,Arndale to Mansfield Park via Liberty Grove,1,65205,5550
 252,1,71781,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,21085,6364
 251,1,71782,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31305,5551
 251,11,71783,Arndale to Mansfield Park via Liberty Grove,1,74645,5550
-251,1,71784,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60675,5551
+251,1,71784,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60675,8009
 251,1,71785,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,21115,5551
 252,11,71786,Arndale to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,14355,4080
 251,12,71787,Arndale to Mansfield Park via Liberty Grove,1,15185,5550
 252,1,71788,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,21125,8013
 251,1,71789,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,30345,5551
-251,1,71790,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31275,5551
+251,1,71790,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31275,8009
 251,13,71791,Arndale to Mansfield Park via Liberty Grove,1,74645,5550
 251,1,71792,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,31155,5551
-251,1,71793,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,20645,5551
+251,1,71793,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,20645,8009
 251,1,71794,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60535,5551
 251,13,71795,Arndale to Mansfield Park via Liberty Grove,1,74665,5550
 252,1,71796,City to Port Adelaide via Torrens Rd Arndale and Eastern Pde,1,21325,6364
 251,1,71797,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,30175,5551
-251,1,71798,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60685,5551
+251,1,71798,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,60685,8009
 251,13,71799,Arndale to Mansfield Park via Liberty Grove,1,64295,5550
 251,1,71800,Arndale to Mansfield Park via Liberty Grove,1,50185,5550
 251,13,71801,Arndale to Mansfield Park via Liberty Grove,1,14385,5550
@@ -12939,10 +12921,10 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 251,13,71808,Arndale to Mansfield Park via Liberty Grove,1,64425,5550
 251,1,71809,Arndale to Mansfield Park via Liberty Grove,1,40315,5550
 251,13,71810,Arndale to Mansfield Park via Liberty Grove,1,24365,5550
-251,1,71811,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,20615,5551
-251,13,71812,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,34275,5551
-251,1,71813,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,30295,5551
-251,13,71814,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,24385,5551
+251,1,71811,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,20615,8009
+251,13,71812,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,34275,8009
+251,1,71813,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,30295,8009
+251,13,71814,City to Mansfield Park via Torrens Rd Arndale Shopping Centre and Liberty Grove,1,24385,8009
 250,1,71815,Arndale to Wingfield via Liberty Grove,0,21295,8006
 250,1,71816,Arndale to Wingfield via Liberty Grove,0,20075,8006
 250A,1,71817,Wingfield to Arndale Shopping Centre,0,40035,8176
@@ -13360,9 +13342,9 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72231,Blackwood Station to Marion Shopping Centre,0,64095,8072
 601,1,72232,Aberfoyle Hub to Flinders University,0,41115,8076
 600B,1,72233,Aberfoyle Hub to Blackwood Station,0,69015,7173
-601B,1,72234,Aberfoyle Hub to Blackwood Station,0,61235,7188
+601B,31,72234,Aberfoyle Hub to Blackwood Station,0,61235,7188
 600,1,72235,Aberfoyle Hub to Flinders University,0,61305,8074
-605,1,72236,Blackwood Station to Darlington,0,20105,7190
+605,21,72236,Darlington to Blackwood High School,0,20105,8224
 600,11,72237,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,34025,8071
 600B,1,72238,Aberfoyle Hub to Blackwood Station,0,41135,7173
 600,1,72239,Blackwood Station to Flinders University,0,41135,8073
@@ -13387,7 +13369,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72258,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,14145,8071
 600,12,72259,Blackwood Station to Marion Shopping Centre,0,25285,8072
 600,1,72260,Blackwood Station to Flinders University,0,20395,8073
-600,1,72261,Blackwood Station to Marion Shopping Centre,0,69015,8072
+600,31,72261,Blackwood Station to Marion Shopping Centre,0,69015,8072
 601B,1,72262,Aberfoyle Hub to Blackwood Station,0,20415,7188
 601B,11,72263,Aberfoyle Hub to Blackwood Station,0,14165,7188
 600,1,72264,Aberfoyle Hub to Flinders University,0,61385,8074
@@ -13436,10 +13418,10 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 601,1,72307,Glenelg to Blackwood Station via Sargent Pde Marion Flinders,1,41255,8182
 600,11,72308,Flinders University to Blackwood Station,1,64355,8181
 600B,12,72309,Marion to Blackwood Station,1,65195,7177
-601,1,72310,Glenelg to Blackwood Station via Sargent Pde Marion Flinders,1,20415,7184
+601,21,72310,Blackwood High School to Aberfoyle Hub,1,20415,8222
 600,1,72311,Flinders University to Blackwood Station,1,60355,8181
-605,1,72312,Darlington to Blackwood Station,1,31275,7191
-600,1,72313,Flinders University to Blackwood Station,1,20595,7172
+605,21,72312,Blackwood High School to Darlington,1,31275,8223
+600,21,72313,Blackwood High School to Aberfoyle Hub,1,20595,7172
 601,1,72314,Glenelg to Blackwood Station via Sargent Pde Marion Flinders,1,10495,7184
 600,1,72315,Flinders University to Blackwood Station,1,60655,8181
 605,11,72316,Darlington to Blackwood Station,1,64185,7191
@@ -13822,44 +13804,44 @@ G10,1,72696,Marion Shopping Centre to Prospect Rd 24 via City,0,20655,8077
 G10,11,72697,Bedford Park to Prospect Rd 24 via City,0,74665,8079
 G10,1,72698,Prospect Rd 24 to Marion Shopping Centre,1,20025,8081
 G10,1,72699,Prospect Rd 24 to Marion Shopping Centre,1,20095,8081
-G10C,1,72700,Prospect Rd 24 to King William St City,1,40005,7213
+G10C,1,72700,Prospect Rd 24 to City,1,40005,7213
 G10,1,72701,Prospect Rd 24 to Marion Shopping Centre,1,20125,8081
 G10,11,72702,Prospect Rd 24 to Marion Shopping Centre,1,34025,8081
 G10,1,72703,Prospect Rd 24 to Marion Shopping Centre,1,,8081
-G10C,1,72704,Prospect Rd 24 to King William St City,1,31125,7213
+G10C,1,72704,Prospect Rd 24 to City,1,31125,7213
 G10,1,72705,Prospect Rd 24 to Marion Shopping Centre,1,21105,8081
 G10,11,72706,Prospect Rd 24 to Marion Shopping Centre,1,54035,8081
 G10,1,72707,Prospect Rd 24 to Marion Shopping Centre,1,31195,8081
-G10C,1,72708,Prospect Rd 24 to King William St City,1,31255,7213
+G10C,1,72708,Prospect Rd 24 to City,1,31255,7213
 G10,1,72709,Prospect Rd 24 to Marion Shopping Centre,1,60125,8081
-G10C,1,72710,Prospect Rd 24 to King William St City,1,38025,7213
-G10C,1,72711,Prospect Rd 24 to King William St City,1,31045,7213
+G10C,1,72710,Prospect Rd 24 to City,1,38025,8092
+G10C,1,72711,Prospect Rd 24 to City,1,31045,8092
 G10,11,72712,Prospect Rd 24 to Marion Shopping Centre,1,14055,8081
 G10,1,72713,Prospect Rd 24 to Marion Shopping Centre,1,60205,8081
-G10C,1,72714,Prospect Rd 24 to King William St City,1,21245,7213
-G10C,1,72715,Prospect Rd 24 to King William St City,1,31465,7213
+G10C,1,72714,Prospect Rd 24 to City,1,21245,8092
+G10C,1,72715,Prospect Rd 24 to City,1,31465,7213
 G10,1,72716,Prospect Rd 24 to Marion Shopping Centre,1,31175,8081
-G10C,1,72717,Prospect Rd 24 to King William St City,1,21315,7213
-G10C,1,72718,Prospect Rd 24 to King William St City,1,61025,7213
+G10C,1,72717,Prospect Rd 24 to City,1,21315,8092
+G10C,1,72718,Prospect Rd 24 to City,1,61025,8092
 G10,13,72719,Prospect Rd 24 to Marion Shopping Centre,1,34045,8081
 G10,1,72720,Prospect Rd 24 to Marion Shopping Centre,1,60065,8081
-G10C,1,72721,Prospect Rd 16 to King William St City,1,41255,7214
-G10C,1,72722,Prospect Rd 24 to King William St City,1,41155,7213
+G10C,1,72721,Prospect Rd 16 to City,1,41255,7214
+G10C,1,72722,Prospect Rd 24 to City,1,41155,7213
 G10,1,72723,Prospect Rd 24 to Marion Shopping Centre,1,60305,8081
-G10C,1,72724,Prospect Rd 24 to King William St City,1,61195,7213
+G10C,1,72724,Prospect Rd 24 to City,1,61195,8092
 G10,13,72725,Prospect Rd 24 to Marion Shopping Centre,1,64035,8081
 G10,1,72726,Prospect Rd 24 to Marion Shopping Centre,1,51235,8081
-G10C,1,72727,Prospect Rd 24 to King William St City,1,61185,7213
+G10C,1,72727,Prospect Rd 24 to City,1,61185,7213
 G10,1,72728,Prospect Rd 24 to Marion Shopping Centre,1,20365,8081
-G10C,1,72729,Prospect Rd 24 to King William St City,1,31345,7213
+G10C,1,72729,Prospect Rd 24 to City,1,31345,8092
 G10,13,72730,Prospect Rd 24 to Marion Shopping Centre,1,44085,8081
 G10,1,72731,Prospect Rd 24 to Flinders University,1,60395,8083
-G10C,1,72732,Prospect Rd 24 to King William St City,1,50145,7213
+G10C,1,72732,Prospect Rd 24 to City,1,50145,7213
 G10,1,72733,Prospect Rd 24 to Marion Shopping Centre,1,61295,8081
-G10C,1,72734,Prospect Rd 24 to King William St City,1,28285,7213
+G10C,1,72734,Prospect Rd 24 to City,1,28285,8092
 G10,13,72735,Prospect Rd 24 to Marion Shopping Centre,1,54035,8081
 G10,1,72736,Prospect Rd 24 to Marion Shopping Centre,1,10195,8081
-G10C,1,72737,Prospect Rd 24 to King William St City,1,61405,7213
+G10C,1,72737,Prospect Rd 24 to City,1,61405,7213
 G10A,1,72738,Prospect Rd 24 to Colonel Light Gardens,1,40045,8085
 G10,13,72739,Prospect Rd 24 to Marion Shopping Centre,1,64225,8081
 G10,1,72740,Prospect Rd 24 to Flinders University,1,60365,8083
@@ -13894,11 +13876,11 @@ G10,1,72768,Prospect Rd 24 to Flinders University,1,60595,8083
 G10B,1,72769,Prospect Rd 24 to Bedford Park via City,1,51175,8086
 G10,13,72770,Prospect Rd 24 to Marion Shopping Centre,1,64325,8081
 G10,1,72771,Prospect Rd 24 to Flinders University,1,21295,8083
-G10C,1,72772,Prospect Rd 24 to King William St City,1,20625,7213
+G10C,1,72772,Prospect Rd 24 to City,1,20625,7213
 G10B,1,72773,Prospect Rd 24 to Bedford Park via City,1,61215,8086
 G10,13,72774,Prospect Rd 24 to Marion Shopping Centre,1,24185,8081
 G10,1,72775,Prospect Rd 24 to Flinders University,1,61065,8083
-G10C,1,72776,Prospect Rd 24 to King William St City,1,11245,7213
+G10C,1,72776,Prospect Rd 24 to City,1,11245,7213
 G10B,1,72777,Prospect Rd 24 to Bedford Park via City,1,60405,8086
 G10,13,72778,Prospect Rd 24 to Marion Shopping Centre,1,64365,8081
 G10,1,72779,Prospect Rd 24 to Flinders University,1,61095,8083
@@ -13916,7 +13898,7 @@ G10A,1,72790,Prospect Rd 24 to Colonel Light Gardens,1,10315,8085
 G10,1,72791,Prospect Rd 24 to Flinders University,1,60445,8083
 G10,13,72792,Prospect Rd 24 to Marion Shopping Centre,1,44165,8081
 G10B,1,72793,Prospect Rd 24 to Bedford Park via City,1,31425,8086
-G10C,1,72794,Prospect Rd 24 to King William St City,1,60605,7213
+G10C,1,72794,Prospect Rd 24 to City,1,60605,7213
 G10B,13,72795,Prospect Rd 24 to City,1,34225,8087
 G10B,1,72796,Prospect Rd 24 to Bedford Park via City,1,41225,8086
 G10,1,72797,Prospect Rd 24 to Flinders University,1,40255,8083
@@ -15017,3 +14999,6 @@ N5,1,73897,Oaklands Interchange to Noarlunga Centre,1,,8188
 N6,1,73898,Hallett Cove Beach to Oaklands Interchange,0,,8191
 N6,1,73899,Oaklands Interchange to Hallett Cove Beach,1,,8190
 208,13,73900,City to Folland Avenue Northgate via Melbourne St Galway Avenue and Fosters Rd,1,,7882
+601B,21,73901,Aberfoyle Hub to Blackwood High School,0,,8225
+600,21,73902,Blackwood Station to Marion Shopping Centre,0,,8226
+174,31,73903,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,12385,6838
