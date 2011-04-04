@@ -9536,7 +9536,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 142,1,68417,Burnside to City via Kensington Rd ,0,20575,7675
 141,1,68418,Stonyfell to City via Hallett  Rd and Kensington Rd ,0,20425,7671
 141,13,68419,Stonyfell to City via Hallett  Rd and Kensington Rd ,0,24225,7671
-141,1,68420,Kensington To City via Kensington Rd ,0,40255,7672
+141,21,68420,Kensington To City via Kensington Rd ,0,40255,7672
 142,1,68421,Burnside to City via Kensington Rd ,0,11465,7675
 141,1,68422,Stonyfell to City via Hallett  Rd and Kensington Rd ,0,31115,7671
 142,13,68423,Burnside to City via Kensington Rd ,0,24305,7675
@@ -9739,15 +9739,15 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 144,13,68620,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,54195,7623
 144,1,68621,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,30265,7623
 144,13,68622,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,14395,7623
-140,1,68623,City to Glen Osmond via The Parade and Portrush Rd,1,20065,8122
-140,1,68624,City to Glen Osmond via The Parade and Portrush Rd,1,20075,8122
-140,1,68625,City to Glen Osmond via The Parade and Portrush Rd,1,21035,8122
+140,1,68623,City to Glen Osmond via The Parade West and Portrush Rd,1,20065,7622
+140,1,68624,City to Glen Osmond via The Parade West and Portrush Rd,1,20075,7622
+140,1,68625,City to Glen Osmond via The Parade West and Portrush Rd,1,21035,7622
 144,11,68626,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,24055,8123
-140,1,68627,City to Glen Osmond via The Parade and Portrush Rd,1,20225,8122
-140,1,68628,City to Glen Osmond via The Parade and Portrush Rd,1,21255,8122
-144G,1,68629,City to Toorak Gardens via Dequetteville Tce and Grand Av,1,20165,8124
+140,1,68627,City to Glen Osmond via The Parade West and Portrush Rd,1,20225,7622
+140,1,68628,City to Glen Osmond via The Parade West and Portrush Rd,1,21255,7622
+144G,1,68629,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,20165,7625
 144,13,68630,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,34015,8123
-140,1,68631,City to Glen Osmond via The Parade and Portrush Rd,1,31415,8122
+140,1,68631,City to Glen Osmond via The Parade West and Portrush Rd,1,31415,7622
 144,1,68632,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,21215,8123
 144,13,68633,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,24195,8123
 144,1,68634,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,60355,8123
@@ -9777,19 +9777,19 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 140,1,68658,City to Glen Osmond via The Parade West and Portrush Rd,1,21025,7622
 144G,1,68659,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,60685,7625
 140,1,68660,City to Glen Osmond via The Parade West and Portrush Rd,1,20615,7622
-144G,1,68661,City to Toorak Gardens via Dequetteville Tce and Grand Av,1,21115,8124
+144G,1,68661,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,21115,7625
 144,13,68662,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,24325,8123
-140,1,68663,City to Glen Osmond via The Parade and Portrush Rd,1,11275,8122
+140,1,68663,City to Glen Osmond via The Parade West and Portrush Rd,1,11275,7622
 144G,1,68664,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,41105,7625
-140,1,68665,City to Glen Osmond via The Parade and Portrush Rd,1,31005,8122
+140,1,68665,City to Glen Osmond via The Parade West and Portrush Rd,1,31005,7622
 144G,1,68666,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,60535,7625
-140,1,68667,City to Glen Osmond via The Parade and Portrush Rd,1,41125,8122
+140,1,68667,City to Glen Osmond via The Parade West and Portrush Rd,1,41125,7622
 140,1,68668,City to Glen Osmond via The Parade West and Portrush Rd,1,60575,7622
-144G,1,68669,City to Toorak Gardens via Dequetteville Tce and Grand Av,1,41155,8124
+144G,1,68669,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,41155,7625
 144,13,68670,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,44155,8123
-140,1,68671,City to Glen Osmond via The Parade and Portrush Rd,1,60415,8122
+140,1,68671,City to Glen Osmond via The Parade West and Portrush Rd,1,60415,7622
 144G,1,68672,City to Toorak Gardens via Grand Av and Dequetteville Tce,1,31205,7625
-140,1,68673,City to Glen Osmond via The Parade and Portrush Rd,1,41295,8122
+140,1,68673,City to Glen Osmond via The Parade West and Portrush Rd,1,41295,7622
 144,1,68674,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,10555,8123
 144,13,68675,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,24395,8123
 144,1,68676,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,30225,8123
@@ -10051,22 +10051,22 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 155,1,68932,West Lakes Interchange to City via Port Rd,0,51125,8173
 157X,1,68933,Largs North to City - Adelaide Railway Station via Military Rd and West Lakes Interchange (Express to City),0,21035,7712
 157,11,68934,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,24055,7710
-155,1,68935,West Lakes Interchange to City via Port Rd,0,51165,7708
+155,1,68935,West Lakes Interchange to City via Port Rd,0,51165,8173
 157X,1,68936,Largs North to City - Adelaide Railway Station via Military Rd and West Lakes Interchange (Express to City),0,20225,7712
-155,1,68937,West Lakes Interchange to City via Port Rd,0,51205,7708
+155,1,68937,West Lakes Interchange to City via Port Rd,0,51205,8173
 157X,1,68938,Largs North to City via Military Rd and West Lakes Interchange (Express to City),0,20295,6254
-155,1,68939,West Lakes Interchange to City via Port Rd,0,21255,7708
+155,1,68939,West Lakes Interchange to City via Port Rd,0,21255,8173
 157X,1,68940,Largs North to City via Military Rd and West Lakes Interchange (Express to City),0,20325,6254
-155,1,68941,West Lakes Interchange to City via Port Rd,0,21235,7708
+155,1,68941,West Lakes Interchange to City via Port Rd,0,21235,8173
 157X,1,68942,Largs North to City - Adelaide Railway Station via Military Rd and West Lakes Interchange (Express to City),0,20165,7712
 157,13,68943,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,34015,7710
-155,1,68944,West Lakes Interchange to City via Port Rd,0,31415,7708
+155,1,68944,West Lakes Interchange to City via Port Rd,0,31415,8173
 157X,1,68945,Largs North to City via Military Rd and West Lakes Interchange (Express to City),0,41045,6254
 155,1,68946,West Lakes Interchange to City via Port Rd,0,31395,3458
-155,1,68947,West Lakes Interchange to City via Port Rd,0,21215,7708
+155,1,68947,West Lakes Interchange to City via Port Rd,0,21215,8173
 157,1,68948,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,31005,6250
 157,13,68949,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,24195,7710
-155,1,68950,West Lakes Interchange to City via Port Rd,0,60355,7708
+155,1,68950,West Lakes Interchange to City via Port Rd,0,60355,8173
 157,1,68951,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,20145,6250
 157,1,68952,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,10275,7710
 157,13,68953,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,34035,7710
@@ -10087,16 +10087,16 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 157,13,68968,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,34155,7710
 157,1,68969,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,21035,7710
 157,1,68970,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,20465,7710
-155,1,68971,West Lakes Interchange to City via Port Rd,0,40175,7708
+155,1,68971,West Lakes Interchange to City via Port Rd,0,40175,8173
 157,13,68972,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,24325,7710
 157,1,68973,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,51225,7710
-155,1,68974,West Lakes Interchange to City via Port Rd,0,31055,7708
+155,1,68974,West Lakes Interchange to City via Port Rd,0,31055,8173
 157,1,68975,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,31185,7710
-155,1,68976,West Lakes Interchange to City via Port Rd,0,60695,7708
+155,1,68976,West Lakes Interchange to City via Port Rd,0,60695,8173
 157,13,68977,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,44155,7710
 157,1,68978,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,31285,7710
-155,1,68979,West Lakes Interchange to City via Port Rd,0,20505,7708
-155,1,68980,West Lakes Interchange to City via Port Rd,0,50215,7708
+155,1,68979,West Lakes Interchange to City via Port Rd,0,20505,8173
+155,1,68980,West Lakes Interchange to City via Port Rd,0,50215,8173
 157,13,68981,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,24395,7710
 157,1,68982,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,30225,7710
 157,1,68983,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,40175,7710
@@ -10107,8 +10107,8 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 157,13,68988,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,24415,7710
 157,1,68989,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,10535,7710
 157,13,68990,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,34205,7710
-155,1,68991,West Lakes Interchange to City via Port Rd,0,30265,7708
-155,13,68992,West Lakes Interchange to City via Port Rd,0,44255,7708
+155,1,68991,West Lakes Interchange to City via Port Rd,0,30265,8173
+155,13,68992,West Lakes Interchange to City via Port Rd,0,44255,8173
 155,1,68993,City to West Lakes Interchange via Port Rd,1,30035,2109
 155,1,68994,City to West Lakes Interchange via Port Rd,1,31035,2109
 157,1,68995,City to Largs North via Port Rd West Lakes Interchange and Military Rd,1,20035,5348
