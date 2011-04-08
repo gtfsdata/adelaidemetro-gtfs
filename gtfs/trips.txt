@@ -1377,7 +1377,7 @@ Gawler Central,1,60175,Gawler Central to City,0,,7590
 506,1,60202,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,70095,4140
 506,11,60203,Para Hills to Paradise Interchange via Nelson Rd and Wandana Ave,0,74005,4142
 506,1,60204,Modbury North to City via Kelly Rd Wandana Ave and the O-Bahn,0,70125,6655
-506,1,60205,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,80025,7348
+506,1,60205,Tea Tree Plaza to City via Kelly Rd Wandana Ave and the O-Bahn,0,80025,4141
 506,1,60206,Modbury North to City via Kelly Rd Wandana Ave and the O-Bahn,0,71045,4772
 506,11,60207,Para Hills to Paradise Interchange via Nelson Rd and Wandana Ave,0,74055,4142
 506X,1,60208,Modbury North to City via Para Hills and Paradise Interchange running express between Stop 29B Sudholz Rd and City,0,71055,7335
@@ -1436,13 +1436,13 @@ Gawler Central,1,60175,Gawler Central to City,0,,7590
 506,1,60261,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,91205,3633
 506,1,60262,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,91165,3633
 506,13,60263,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,94095,3240
-506,1,60264,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,71325,3633
-506,1,60265,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,70375,3633
+506,1,60264,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,71325,7348
+506,1,60265,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,70375,7348
 506,13,60266,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,94135,3240
-506,1,60267,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,90335,3633
-506,1,60268,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,70255,3633
+506,1,60267,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,90335,7348
+506,1,60268,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,70255,7348
 506,13,60269,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,74205,3240
-506,1,60270,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,67075,3633
+506,1,60270,Tea Tree Plaza Interchange to City via Kelly Rd Wandana Ave and the O-Bahn,0,67075,7348
 506,13,60271,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,74255,3240
 506,1,60272,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,71495,3240
 506,1,60273,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,71155,3240
@@ -1536,15 +1536,15 @@ Gawler Central,1,60175,Gawler Central to City,0,,7590
 506,1,60361,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71105,3698
 506,13,60362,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,94095,3246
 506,1,60363,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,70315,3698
-506,1,60364,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71005,3698
+506,1,60364,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71005,6656
 506,13,60365,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,94135,3246
-506,1,60366,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71385,3698
-506,1,60367,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71445,3698
+506,1,60366,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71385,6656
+506,1,60367,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71445,6656
 506,13,60368,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,74205,3246
-506,1,60369,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71325,3698
+506,1,60369,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71325,6656
 506,13,60370,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,74255,3246
-506,1,60371,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,70345,3698
-506,1,60372,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71245,3698
+506,1,60371,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,70345,6656
+506,1,60372,City to Tea Tree Plaza via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71245,6656
 506,13,60373,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,94135,3246
 506,1,60374,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71275,3698
 506,1,60375,City to Tea Tree Plaza Interchange via the O-Bahn to Paradise Interchange then Wandana Ave and Kelly Rd,1,71495,3698
@@ -2584,12 +2584,12 @@ N541,51,60853,City to Surrey Downs 59 via O-Bahn and Hancock Rd- after midnight 
 578,1,61410,City to Paradise Interchange via Klemzig Station ,1,71525,6964
 578,1,61411,City to Paradise Interchange via Klemzig Station ,1,70175,6964
 578,1,61412,City to Paradise Interchange via Klemzig Station ,1,70355,6964
-578,1,61413,City to Paradise Interchange via Klemzig Station ,1,70235,6964
-578,1,61414,City to Paradise Interchange via Klemzig Station ,1,90235,6964
-578,1,61415,City to Paradise Interchange via Klemzig Station ,1,90195,6964
-578,1,61416,City to Paradise Interchange via Klemzig Station ,1,70375,6964
-578,1,61417,City to Paradise Interchange via Klemzig Station ,1,90335,6964
-578,1,61418,City to Paradise Interchange via Klemzig Station ,1,70255,6964
+578,1,61413,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,70235,3719
+578,1,61414,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,90235,3719
+578,1,61415,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,90195,3719
+578,1,61416,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,70375,3719
+578,1,61417,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,90335,3719
+578,1,61418,City to Athelstone via the O-Bahn and Lower Athelstone Rd,1,70255,3719
 578,1,61419,City to Paradise Interchange via Klemzig Station ,1,70275,6964
 578X,1,61420,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,67015,7927
 578X,1,61421,Athelstone to City via Lower Athelstone Rd and the O-Bahn then express to City,0,71025,4796
@@ -2758,11 +2758,11 @@ G40,1,61602,Flinders University to Golden Grove Village via the City and Golden 
 G40,1,61603,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,70265,7249
 G40,1,61604,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,71375,7249
 G40,1,61605,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,71055,7249
-G40,1,61606,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,71455,7249
+G40,1,61606,Flinders University to Golden Grove Village via the City,1,71455,7425
 G40,1,61607,City Grote St D2 to Golden Grove Village via Golden Grove Rd and Bicentennial Dr,1,71165,7250
-G40,1,61608,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,67555,7249
+G40,1,61608,Flinders University to Golden Grove Village via the City,1,67555,7425
 G40,1,61609,City Grote St D2 to Golden Grove Village via Golden Grove Rd and Bicentennial Dr,1,90185,7250
-G40,1,61610,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,67105,7249
+G40,1,61610,Flinders University to Golden Grove Village via the City,1,67105,7425
 G40,1,61611,Flinders University to Golden Grove Village via the City and Golden Grove Rd and Bicentennial Dr,1,67115,7249
 J1A,1,61612,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,90005,4426
 J1A,13,61613,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74005,4426
@@ -2778,21 +2778,21 @@ J1,13,61622,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn
 J1,1,61623,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81005,8208
 J1A,13,61624,Golden Grove Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman,0,74015,4427
 J1A,1,61625,Elizabeth Interchange to Adelaide Airport via Golden Grove Village Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,81015,4428
-J1X,1,61626,Golden Grove Village running express from Stop 50 Golden Grove Road then to City-Currie St,0,91205,8008
+J1X,1,61626,Golden Grove Village running express from Stop 50 Golden Grove Road then to City,0,91205,8008
 J1,1,61627,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81035,8208
 J1A,13,61628,Golden Grove Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman,0,94055,4427
-J1X,1,61629,Golden Grove Village running express from Stop 50 Golden Grove Road then to City-Currie St,0,67505,8008
-J1A,1,61630,Elizabeth Interchange to Adelaide Airport via Golden Grove Village Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,81065,4428
+J1X,1,61629,Golden Grove Village running express from Stop 50 Golden Grove Road then to City,0,67505,8008
+J1A,1,61630,Elizabeth Interchange to Adelaide Airport via Golden Grove Village and the O-Bahn,0,81065,7309
 J1,13,61631,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,84015,8208
-J1X,1,61632,Golden Grove Village running express from Stop 50 Golden Grove Road then to City-Currie St,0,80035,8008
+J1X,1,61632,Golden Grove Village running express from Stop 50 Golden Grove Road then to City,0,80035,8008
 J1,1,61633,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,81085,8208
 J1A,13,61634,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74005,4426
-J1X,1,61635,Golden Grove Village running express from Stop 50 Golden Grove Road then to City-Currie St,0,71455,8008
-J1A,1,61636,Elizabeth Interchange to Adelaide Airport via Golden Grove Village Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,70145,4428
+J1X,1,61635,Golden Grove Village running express from Stop 50 Golden Grove Road then to City,0,71455,8227
+J1A,1,61636,Elizabeth Interchange to Adelaide Airport via Golden Grove Village and the O-Bahn,0,70145,7309
 J1,1,61637,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,67025,8208
 J1A,13,61638,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94115,4426
 J1,13,61639,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,84025,8208
-J1A,1,61640,Elizabeth Interchange to Adelaide Airport via Golden Grove Village Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,70125,4428
+J1A,1,61640,Elizabeth Interchange to Adelaide Airport via Golden Grove Village and the O-Bahn,0,70125,7309
 J1,1,61641,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,67525,8208
 J1A,13,61642,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,94095,4426
 J1,1,61643,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,67535,8208
@@ -2830,14 +2830,14 @@ J1A,13,61674,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interch
 J1,13,61675,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,54125,8208
 J1,1,61676,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,80165,8208
 J1A,13,61677,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,64735,4426
-J1A,1,61678,Golden Grove Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman,0,90315,4427
+J1A,1,61678,Golden Grove Village to Adelaide Airport via the O-Bahn,0,90315,7308
 J1,1,61679,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,80135,8208
 J1A,13,61680,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74145,4426
 J1A,1,61681,Tea Tree Plaza Interchange  to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr.,0,91295,6703
 J1,13,61682,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,84055,8208
 J1,1,61683,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,80195,8208
 J1A,1,61684,Tea Tree Plaza Interchange  to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr.,0,70365,6703
-J1,1,61685,Paradise Interchange to City via O-Bahn,0,70305,8004
+J1,1,61685,Paradise Interchange to City via O-Bahn,0,70305,3737
 J1,1,61686,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport and Harbour Town,0,80155,8208
 J1,1,61687,Paradise Interchange to City via O-Bahn,0,70395,8004
 J1,13,61688,Elizabeth Interchange to Glenelg via Golden Grove Village the O-Bahn the Airport,0,84065,8207
@@ -2863,14 +2863,14 @@ J1,1,61707,Glenelg to Elizabeth Interchange via the Airport the O-Bahn and Golde
 J1G,1,61708,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,80035,7295
 J1,13,61709,Adelaide Airport to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,94005,4833
 J1G,1,61710,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,90085,7312
-J1,1,61711,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,67535,8212
+J1,1,61711,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,67535,7311
 J1T,13,61712,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94035,7298
-J1G,1,61713,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,71205,7295
-J1,1,61714,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,70065,7958
+J1G,1,61713,City to Golden Grove Village via the O-Bahn,1,71205,7434
+J1,1,61714,City to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,70065,4399
 J1,1,61715,Glenelg Interchange to City via Harbour Town Adelaide Airport and Sir Donald Bradman,1,90025,8213
 J1G,13,61716,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,74015,7312
 J1T,13,61717,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74065,7298
-J1G,1,61718,City to Golden Grove Village via the O-Bahn and Golden Grove Rd,1,71095,7295
+J1G,1,61718,City to Golden Grove Village via the O-Bahn,1,71095,7434
 J1,1,61719,Adelaide Airport to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81015,4833
 J1,13,61720,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,54015,8212
 J1G,1,61721,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,80045,8214
@@ -2912,22 +2912,22 @@ J1,13,61756,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-
 J1,1,61757,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,80095,7957
 J1T,13,61758,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,94065,7298
 J1,1,61759,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81055,8212
-J1,1,61760,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,70225,7957
+J1,1,61760,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,70225,7291
 J1T,13,61761,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,74135,7298
-J1,1,61762,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81025,8212
+J1,1,61762,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81025,7311
 J1T,11,61763,City to Tea Tree Plaza Interchange via O-Bahn,1,74165,7296
-J1X,1,61764,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,70385,8007
+J1X,1,61764,City to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,70385,8007
 J1,13,61765,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84035,8212
-J1,1,61766,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,71285,7957
+J1,1,61766,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,71285,7291
 J1T,1,61767,Adelaide Airport to Tea Tree Plaza Interchange,1,70305,7297
-J1X,1,61768,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71425,8007
-J1,1,61769,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81095,8212
+J1X,1,61768,City to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71425,8007
+J1,1,61769,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81095,7311
 J1G,13,61770,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,94105,7312
 J1T,1,61771,Adelaide Airport to Tea Tree Plaza Interchange,1,90245,7297
 J1T,11,61772,City to Tea Tree Plaza Interchange via O-Bahn,1,74125,7296
-J1X,1,61773,Pulteney-Adelaide to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71375,8007
-J1,1,61774,Harbour Town to Elizabeth Interchange via Sir Donald Bradman Dr O-Bahn and Golden Grove Village,1,81045,7957
-J1,1,61775,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81065,8212
+J1X,1,61773,City to Golden Grove Interchange running express from Stop 50 Golden Grove Road,1,71375,8007
+J1,1,61774,Glenelg Interchange to Elizabeth Interchange via Sir Donald Bradman Dr the O-Bahn and Golden Grove Village,1,81045,7291
+J1,1,61775,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,81065,7311
 J1T,13,61776,Adelaide Airport to Tea Tree Plaza Interchange via Sir Donald Bradman and O-Bahn,1,64735,7298
 J1,1,61777,Adelaide Airport to City via Sir Donald Bradman Dr,1,90315,3335
 J1,13,61778,Glenelg to Elizabeth Interchange via Harbour Town the Airport the O-Bahn and Golden Grove Village,1,84045,8212
@@ -2948,11 +2948,11 @@ J1G,13,61792,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bra
 J1G,1,61793,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,90255,8214
 J1G,13,61794,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,94225,8215
 J1T,1,61795,City to Tea Tree Plaza Interchange via O-Bahn,1,70345,7296
-J1,13,61796,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84055,7958
+J1,13,61796,City to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84055,7958
 J1G,1,61797,Glenelg Interchange to Golden Grove Village via Harbour Town Adelaide Airport and Sir Donald Bradman Dr and the O-Bahn,1,70305,8214
 J1G,13,61798,Glenelg to Golden Grove Village via Adelaide Airport Sir Donald Bradman Dr and the O-Bahn,1,74285,8215
 J1G,1,61799,Adelaide Airport to Golden Grove Village via Sir Donald Bradman Dr and the O-Bahn,1,70385,7293
-J1,13,61800,City- Currie St to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84065,7958
+J1,13,61800,City to Elizabeth Interchange via O-Bahn and Golden Grove Interchange,1,84065,7958
 J1T,13,61801,Harbour Town to Tea Tree Plaza Interchange via Adelaide Airport sir Donald Bradman and O-Bahn,1,74215,7443
 J2,1,61802,Golden Grove Rd 80 to Harbour Town via Tea Tree Plaza Interchange  the O-Bahn and Adelaide Airport,0,90045,8216
 J2A,1,61803,Golden Grove 80 to Adelaide Airport 10 via O-Bahn and City,0,90085,7258
@@ -3048,9 +3048,9 @@ T500,1,61892,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm 
 500X,1,61893,Elizabeth Station to City via Salisbury Interchange and Bridge Rd running express between Stop 28 Sudholz Rd and the City,0,90005,7437
 T500,1,61894,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn ,0,80085,5958
 500X,1,61895,Elizabeth Station to City via Salisbury Interchange and Bridge Rd running express between Stop 28 Sudholz Rd and the City,0,70005,7437
-T500,1,61896,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn ,0,70105,5958
+T500,1,61896,Elizabeth to City,0,70105,6732
 500X,1,61897,Elizabeth Station to City via Salisbury Interchange and Bridge Rd running express between Stop 28 Sudholz Rd and the City,0,81045,7437
-T500,1,61898,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn ,0,70115,5958
+T500,1,61898,Elizabeth to City,0,70115,6732
 500X,1,61899,Elizabeth Station to City via Salisbury Interchange and Bridge Rd running express between Stop 28 Sudholz Rd and the City,0,80005,7437
 T500,1,61900,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn ,0,81095,8167
 T500,1,61901,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,80105,3346
@@ -3067,9 +3067,9 @@ T500,1,61911,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm 
 T500,1,61912,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,70165,3346
 T500,1,61913,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,80175,3346
 T500,1,61914,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,81045,3346
-T500,1,61915,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,81035,3346
-T500,1,61916,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,91155,3346
-T500,1,61917,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,71275,3346
+T500,1,61915,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,81035,7263
+T500,1,61916,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,91155,7263
+T500,1,61917,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,71275,7263
 T500,1,61918,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,91265,3346
 T500,1,61919,Elizabeth Interchange to City via Salisbury Interchange Ingle Farm and the O-Bahn,0,70225,3346
 T500,1,61920,Paradise Interchange to Elizabeth Interchange via Ingle Farm Salisbury Interchange,1,70105,3347
@@ -3077,8 +3077,8 @@ T500,1,61921,Paradise Interchange to Elizabeth Interchange via Ingle Farm Salisb
 T500,1,61922,Paradise Interchange to Elizabeth Interchange via Ingle Farm Salisbury Interchange,1,70145,3347
 T500,1,61923,Paradise Interchange to Elizabeth Interchange via Ingle Farm Salisbury Interchange,1,70125,3347
 T500,1,61924,Paradise Interchange to Elizabeth Interchange via Ingle Farm Salisbury Interchange,1,80055,3347
-T500,1,61925,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,81025,8140
-T500,1,61926,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,70165,8140
+T500,1,61925,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,81025,7453
+T500,1,61926,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,70165,7453
 T500,1,61927,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,81095,8140
 T500,1,61928,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,80105,8140
 T500,1,61929,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,81045,8140
@@ -3093,12 +3093,12 @@ T500,1,61937,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury I
 T500,1,61938,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,91155,8141
 T500,1,61939,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,71275,8141
 T500,1,61940,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,91265,8141
-T500,1,61941,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,90255,8141
-T500,1,61942,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,81005,8141
-T500,1,61943,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,81035,8141
+T500,1,61941,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,90255,7509
+T500,1,61942,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,81005,7509
+T500,1,61943,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,81035,7509
 500X,1,61944,City to Elizabeth Station running express between the City and Stop 28 Sudholz Rd then via Bridge Rd and Salisbury Interchange ,1,81085,8150
-T500,1,61945,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,80105,8141
-T500,1,61946,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,67055,8141
+T500,1,61945,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,80105,7509
+T500,1,61946,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury and Lyell McEwin,1,67055,7509
 T500,1,61947,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,80125,8141
 T500,1,61948,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,90265,8140
 T500,1,61949,City to Elizabeth Interchange via the O-Bahn Ingle Farm Salisbury Interchange ,1,80145,8140
@@ -3108,10 +3108,10 @@ T501,1,61952,Ingle Farm West Station to City via Walkleys Rd and the O-Bahn,0,70
 T501,1,61953,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,90095,8143
 T501,1,61954,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,90105,8144
 T501,1,61955,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,70085,8144
-T501,1,61956,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,80015,8144
-T501,1,61957,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,90115,8144
-T501,1,61958,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91055,8143
-T501,1,61959,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,70095,8143
+T501,1,61956,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,80015,5943
+T501,1,61957,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,90115,5943
+T501,1,61958,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,91055,6696
+T501,1,61959,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,70095,6696
 T501,1,61960,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,80085,8143
 T501,1,61961,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91245,8143
 T501,1,61962,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91325,8143
@@ -3128,10 +3128,10 @@ T501,1,61972,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,9108
 T501,1,61973,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91055,8143
 T501,1,61974,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,71065,8143
 T501,1,61975,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91185,8143
-T501,1,61976,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,71315,8143
-T501,1,61977,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,91315,8143
-T501,1,61978,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,71195,8143
-T501,1,61979,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,80125,8143
+T501,1,61976,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,71315,6696
+T501,1,61977,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,91315,6696
+T501,1,61978,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,71195,6696
+T501,1,61979,Mawson Interchange to City via Montague Rd Ingle Farm and the O-Bahn,0,80125,6696
 T501,1,61980,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,90265,8143
 T501,1,61981,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,80145,8143
 T501,1,61982,Mawson Lakes Interchange to City via Montague and the O-Bahn,0,70205,8143
@@ -3142,9 +3142,9 @@ T501,1,61986,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,8
 T501,1,61987,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,90115,8165
 T501,1,61988,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,91055,8165
 T501,1,61989,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,70095,8165
-T501,1,61990,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,67015,8165
-T501,1,61991,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,80085,8165
-T501,1,61992,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,91245,8165
+T501,1,61990,City to Mawson Interchange via the O-Bahn Ingle Farm and Montague Rd,1,67015,5873
+T501,1,61991,City to Mawson Interchange via the O-Bahn Ingle Farm and Montague Rd,1,80085,5873
+T501,1,61992,City to Mawson Interchange via the O-Bahn Ingle Farm and Montague Rd,1,91245,5873
 T501,1,61993,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,91325,8165
 T501,1,61994,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,90145,8165
 T501,1,61995,City to Mawson Lakes Interchange via the O-Bahn and Montague Rd,1,70055,8165
@@ -6211,22 +6211,22 @@ H20,13,65085,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Pa
 H21,1,65086,Paradise Interchange to City via Glynburn Rd and The Parade,0,10245,7570
 H21,1,65087,Tranmere to City via Glynburn Rd and The Parade,0,30005,7572
 H21,1,65088,Paradise Interchange to City via Glynburn Rd and The Parade,0,31055,7570
-H21,1,65089,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,20205,8154
-H21,1,65090,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,10035,8154
-H21,1,65091,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,10085,8154
-H21,1,65092,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,40065,8154
-H21,1,65093,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,40005,8154
-H21,1,65094,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,10135,8154
-H21,1,65095,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,40185,8154
-H21,1,65096,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,30145,8154
-H21,1,65097,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,40155,8154
-H21,1,65098,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,31035,8154
-H21,1,65099,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,30095,8154
-H21,1,65100,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,11085,8154
-H21,1,65101,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,41015,8154
-H21,1,65102,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,11375,8154
-H21,1,65103,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,41035,8154
-H21,1,65104,Paradise Interchange to City via Glynburn Rd and Tha Parade,0,41145,8154
+H21,1,65089,Paradise Interchange to City via Glynburn Rd and The Parade,0,20205,8154
+H21,1,65090,Paradise Interchange to City via Glynburn Rd and The Parade,0,10035,8154
+H21,1,65091,Paradise Interchange to City via Glynburn Rd and The Parade,0,10085,8154
+H21,1,65092,Paradise Interchange to City via Glynburn Rd and The Parade,0,40065,8154
+H21,1,65093,Paradise Interchange to City via Glynburn Rd and The Parade,0,40005,8154
+H21,1,65094,Paradise Interchange to City via Glynburn Rd and The Parade,0,10135,8154
+H21,1,65095,Paradise Interchange to City via Glynburn Rd and The Parade,0,40185,8154
+H21,1,65096,Paradise Interchange to City via Glynburn Rd and The Parade,0,30145,8154
+H21,1,65097,Paradise Interchange to City via Glynburn Rd and The Parade,0,40155,8154
+H21,1,65098,Paradise Interchange to City via Glynburn Rd and The Parade,0,31035,8154
+H21,1,65099,Paradise Interchange to City via Glynburn Rd and The Parade,0,30095,8154
+H21,1,65100,Paradise Interchange to City via Glynburn Rd and The Parade,0,11085,8154
+H21,1,65101,Paradise Interchange to City via Glynburn Rd and The Parade,0,41015,8154
+H21,1,65102,Paradise Interchange to City via Glynburn Rd and The Parade,0,11375,8154
+H21,1,65103,Paradise Interchange to City via Glynburn Rd and The Parade,0,41035,8154
+H21,1,65104,Paradise Interchange to City via Glynburn Rd and The Parade,0,41145,8154
 H21,1,65105,City to Paradise Interchange via The Parade and Glynburn Rd,1,41065,7573
 H21,1,65106,City to Paradise Interchange via The Parade and Glynburn Rd,1,40155,7573
 H21,1,65107,City to Paradise Interchange via The Parade and Glynburn Rd,1,,7573
@@ -6452,18 +6452,18 @@ M44,11,65326,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City 
 M44X,1,65327,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,67005,8002
 M44,1,65328,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,71365,8158
 M44X,1,65329,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,90145,8002
-M44,1,65330,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,71515,8158
+M44,1,65330,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,71515,7494
 M44,13,65331,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74085,7992
 M44X,1,65332,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,71155,8002
-M44,1,65333,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,91115,8158
+M44,1,65333,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,91115,7494
 M44X,1,65334,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,71445,8002
-M44,1,65335,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90105,8158
+M44,1,65335,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,90105,7494
 M44,13,65336,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94085,7992
 M44X,1,65337,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,71395,8002
-M44,1,65338,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,91185,8158
+M44,1,65338,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,91185,7494
 M44,11,65339,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94035,7993
 M44X,1,65340,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,67035,8002
-M44,1,65341,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,91225,8158
+M44,1,65341,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,91225,7494
 M44,13,65342,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,64715,7992
 M44X,1,65343,Golden Grove Interchange to City via Ladywood Rd running express from Tea Tree Plaza Interchange to City,0,70025,8002
 M44,1,65344,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,91285,8158
@@ -6539,22 +6539,22 @@ M44,13,65413,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City 
 M44,1,65414,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,71535,8157
 M44,11,65415,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,64725,7993
 M44C,12,65416,Tea Tree Plaza Interchange to City via O-Bahn  ,0,75125,7997
-M44,1,65417,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90295,8157
+M44,1,65417,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,90295,7995
 M44,13,65418,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94195,7992
 M44,1,65419,City to Marion Shopping Centre via Marion Rd,0,61235,5839
-M44,1,65420,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90325,8157
+M44,1,65420,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,90325,7995
 M44,11,65421,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,64745,7993
 M44C,12,65422,Tea Tree Plaza Interchange to City via O-Bahn  ,0,75105,7997
 M44,1,65423,City to Marion Shopping Centre via Marion Rd,0,60635,5839
-M44,1,65424,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,67535,8157
+M44,1,65424,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,67535,7995
 M44,13,65425,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94215,7992
 M44,1,65426,City to Marion Shopping Centre via Marion Rd,0,61325,5839
-M44,1,65427,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,67545,8157
+M44,1,65427,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,67545,7995
 M44,13,65428,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,94235,7992
 M44,1,65429,City to Marion Shopping Centre via Marion Rd,0,61395,5839
-M44,1,65430,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90205,8157
+M44,1,65430,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,90205,7995
 M44,13,65431,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74215,7992
-M44,1,65432,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90275,8157
+M44,1,65432,Golden Grove Village to Marion Interchange via Ladywood Rd The O-Bahn and Marion Rd,0,90275,7995
 M44,1,65433,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90305,8157
 M44,13,65434,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,74185,7992
 M44,1,65435,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,90225,8157
@@ -6587,17 +6587,17 @@ M44,1,65463,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Cit
 M44,1,65464,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,70025,8159
 M44C,1,65465,Marion Shopping Centre to City via Marion Rd,1,61035,7000
 M44,11,65466,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,64715,7966
-M44,1,65467,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,67045,8159
+M44,1,65467,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,67045,7493
 M44C,1,65468,Marion Shopping Centre to City via Marion Rd,1,60275,7000
-M44,1,65469,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,90055,8159
+M44,1,65469,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,90055,7493
 M44C,1,65470,Marion Shopping Centre to City via Marion Rd,1,40125,7000
 M44,11,65471,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94015,7966
-M44,1,65472,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91015,8159
+M44,1,65472,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91015,7493
 M44C,1,65473,Marion Shopping Centre to City via Marion Rd,1,60015,7000
-M44,1,65474,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91025,8159
+M44,1,65474,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91025,7493
 M44C,1,65475,Marion Shopping Centre to City via Marion Rd,1,61285,7000
 M44,13,65476,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,64725,7966
-M44,1,65477,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,67545,8159
+M44,1,65477,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,67545,7493
 M44,1,65478,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,90125,8159
 M44,13,65479,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94065,7966
 M44,1,65480,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,71185,8159
@@ -6669,19 +6669,19 @@ M44,13,65545,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Ci
 M44,1,65546,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,71095,8159
 M44T,11,65547,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,74075,8000
 M44T,12,65548,City to Tea Tree Plaza Interchange via O-Bahn ,1,95055,8001
-M44,1,65549,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91075,8159
+M44,1,65549,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91075,7493
 M44,13,65550,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94085,7966
-M44,1,65551,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91135,8159
+M44,1,65551,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91135,7493
 M44T,11,65552,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,74115,8000
 M44T,12,65553,City to Tea Tree Plaza Interchange via O-Bahn ,1,75125,8001
-M44,1,65554,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,71435,8159
+M44,1,65554,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,71435,7493
 M44,13,65555,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,74225,7966
-M44,1,65556,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91095,8159
+M44,1,65556,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91095,7493
 M44,11,65557,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,64765,7966
 M44,12,65558,Marion Shopping Centre to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,95115,7991
-M44,1,65559,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91145,8159
+M44,1,65559,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91145,7493
 M44,13,65560,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94125,7966
-M44,1,65561,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91195,8159
+M44,1,65561,Marion Interchange to Golden Grove Village via Marion Rd the O-Bahn and Ladywood Rd,1,91195,7493
 M44,13,65562,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,94185,7966
 M44,1,65563,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,91275,8159
 M44,1,65564,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,71535,8159
