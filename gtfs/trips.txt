@@ -3176,74 +3176,74 @@ RZ5,1,62020,Holden Hill Roam Zone Service,1,90335,
 RZ5,1,62021,Holden Hill Roam Zone Service,1,90335,
 RZ5,1,62022,Holden Hill Roam Zone Service,1,90335,
 RZ5,1,62023,Holden Hill Roam Zone Service,1,90335,
-205,11,62024,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24355,6880
-205F,1,62025,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21495,6883
-205,11,62026,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24375,6880
-205F,1,62027,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21515,6883
-205F,1,62028,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,14515,6883
-205,11,62029,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24365,6880
-205F,1,62030,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11035,6883
-205F,1,62031,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11145,6883
-205,11,62032,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24025,6880
-205F,1,62033,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11325,6883
-205F,1,62034,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11095,6883
-205,11,62035,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24045,6880
-205F,1,62036,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11185,6883
-205F,1,62037,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21395,6883
-205,11,62038,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24185,6880
-205F,1,62039,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11285,6883
-205F,1,62040,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21505,6883
-205,11,62041,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24255,6880
-205F,1,62042,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21535,6883
-205F,1,62043,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21145,6884
-205,11,62044,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24025,6880
-205F,1,62045,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,14595,6883
-205F,1,62046,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11545,6883
-205,11,62047,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24045,6880
-205F,1,62048,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21645,6884
-205F,1,62049,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21675,6884
-205,11,62050,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24185,6880
+205,11,62024,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24354,6880
+205F,1,62025,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21494,6883
+205,11,62026,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24374,6880
+205F,1,62027,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21514,6883
+205F,1,62028,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,14514,6883
+205,11,62029,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24364,6880
+205F,1,62030,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11034,6883
+205F,1,62031,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11144,6883
+205,11,62032,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24024,6880
+205F,1,62033,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11324,6883
+205F,1,62034,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11094,6883
+205,11,62035,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24044,6880
+205F,1,62036,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11184,6883
+205F,1,62037,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21394,6883
+205,11,62038,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24184,6880
+205F,1,62039,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11284,6883
+205F,1,62040,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21504,6883
+205,11,62041,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24254,6880
+205F,1,62042,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21534,6883
+205F,1,62043,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21144,6884
+205,11,62044,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24024,6880
+205F,1,62045,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,14594,6883
+205F,1,62046,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,11544,6883
+205,11,62047,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24044,6880
+205F,1,62048,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21644,6884
+205F,1,62049,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21674,6884
+205,11,62050,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24184,6880
 206F,1,62051,Salisbury Interchange to City via Park Tce Bridge Rd and Hampstead Rd (No pick up after Stop 16 Hampstead Rd),0,21764,7012
-205F,1,62052,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21385,6884
-205F,1,62053,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,22545,6884
-205,11,62054,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24385,6880
-205,1,62055,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,22425,6880
-205,1,62056,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,22805,6880
-205F,1,62057,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11715,6885
-205,11,62058,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24415,6882
-205F,1,62059,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11025,6885
-205F,1,62060,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11325,6885
-205,11,62061,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24035,6882
-205F,1,62062,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11095,6885
-205F,1,62063,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11515,6885
-205,11,62064,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24045,6882
-205F,1,62065,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,14615,6885
-205F,1,62066,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11285,6885
-205,11,62067,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24185,6882
-205F,1,62068,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11455,6885
-205F,1,62069,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21605,6885
-205,11,62070,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24015,6882
-205F,1,62071,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11675,6885
-205F,1,62072,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11005,6885
-205,11,62073,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24145,6882
-205F,1,62074,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21015,6885
-205F,1,62075,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,22595,6885
-205,11,62076,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24155,6882
-205F,1,62077,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21675,6885
-205F,1,62078,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11085,6885
-205,11,62079,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24265,6882
-205F,1,62080,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21625,6885
-205F,1,62081,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11305,6885
-205,11,62082,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24305,6882
-205F,1,62083,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21235,6885
-205F,1,62084,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21135,6885
-205,11,62085,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24035,6882
-205F,1,62086,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21555,6885
-205F,1,62087,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21195,6885
-205,11,62088,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24325,6882
-205F,1,62089,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21175,6885
-205F,1,62090,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11615,6885
-205,1,62091,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,21505,7759
+205F,1,62052,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,21384,6884
+205F,1,62053,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd (No pick up after Stop 16 Hampstead Rd),0,22544,6884
+205,11,62054,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,24384,6880
+205,1,62055,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,22424,6880
+205,1,62056,Elizabeth Interchange to City via Lyell McEwin Hospital Salisbury Interchange and Bridge Rd,0,22804,6880
+205F,1,62057,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11714,6885
+205,11,62058,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24414,6882
+205F,1,62059,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11024,6885
+205F,1,62060,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11324,6885
+205,11,62061,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24034,6882
+205F,1,62062,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11094,6885
+205F,1,62063,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11514,6885
+205,11,62064,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24044,6882
+205F,1,62065,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,14614,6885
+205F,1,62066,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11284,6885
+205,11,62067,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24184,6882
+205F,1,62068,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11454,6885
+205F,1,62069,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21604,6885
+205,11,62070,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24014,6882
+205F,1,62071,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11674,6885
+205F,1,62072,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11004,6885
+205,11,62073,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24144,6882
+205F,1,62074,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21014,6885
+205F,1,62075,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,22594,6885
+205,11,62076,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24154,6882
+205F,1,62077,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21674,6885
+205F,1,62078,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11084,6885
+205,11,62079,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24264,6882
+205F,1,62080,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21624,6885
+205F,1,62081,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11304,6885
+205,11,62082,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24304,6882
+205F,1,62083,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21234,6885
+205F,1,62084,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21134,6885
+205,11,62085,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24034,6882
+205F,1,62086,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21554,6885
+205F,1,62087,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21194,6885
+205,11,62088,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,24324,6882
+205F,1,62089,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,21174,6885
+205F,1,62090,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital (No set down before Stop 16 Hampstead Rd),1,11614,6885
+205,1,62091,City to Elizabeth via Bridge Rd Salisbury Interchange and Lyell McEwin Hospital,1,21504,7759
 206F,1,62092,Salisbury Interchange to City via Park Tce Bridge Rd and Hampstead Rd (No pick up after Stop 16 Hampstead Rd),0,22434,7012
 206F,1,62093,Salisbury Interchange to City via Park Tce Bridge Rd and Hampstead Rd (No pick up after Stop 16 Hampstead Rd),0,21114,7013
 206,11,62094,Salisbury Interchange to City via Park Tce Bridge Rd and Hampstead Rd,0,24024,7010
@@ -4955,131 +4955,131 @@ RZ5,1,62023,Holden Hill Roam Zone Service,1,90335,
 461,1,63800,Munno Para Shopping Centre Brandis Av Munno Para Shopping Centre Loop via Smithfield Interchange,0,21624,7808
 461,1,63801,Munno Para Shopping Centre to Smithfield 81 via Smithfield Interchange Curtis Rd and Brandis Av,0,,7810
 461,1,63802,Munno Para Shopping Centre to Smithfield 81 via Smithfield Interchange Curtis Rd and Brandis Av,0,,7810
-560,1,63803,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22595,6094
-560A,1,63804,Salisbury Interchange to Ingle Farm West via Park Tce and Bridge Rd,0,22755,6097
-560,11,63805,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24455,6094
-560,1,63806,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22765,6094
-560,1,63807,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22725,6094
-560,11,63808,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24465,6094
-560,1,63809,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22655,6094
-560,1,63810,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22755,6094
-560,11,63811,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24475,6094
-560,1,63812,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22495,6094
-560,1,63813,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22425,6094
-560,11,63814,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24415,6094
-560,1,63815,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22745,6094
-560,1,63816,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22565,6094
-560,11,63817,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24515,6094
-560,1,63818,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22655,6094
-560,1,63819,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22455,6094
-560,11,63820,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24505,6094
-560,1,63821,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22475,6094
-560,1,63822,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22735,6094
-560,11,63823,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24525,6094
-560,1,63824,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22585,6094
-560,1,63825,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22725,6094
-560,11,63826,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24565,6094
-560,1,63827,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22565,6094
-560,1,63828,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22765,6094
-560,11,63829,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24475,6094
-560,1,63830,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22525,6094
-560,1,63831,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22645,6094
-560,11,63832,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24535,6094
-560,1,63833,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22525,6094
-560A,1,63834,Salisbury Interchange to Ingle Farm West via Park Tce and Bridge Rd,0,22765,6097
-560,1,63835,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22595,6093
-560,1,63836,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22615,6093
-560,1,63837,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22745,6093
-560,1,63838,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22705,6093
-560,11,63839,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24455,6093
-560,1,63840,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22765,6093
-560,1,63841,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22725,6093
-560,11,63842,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24465,6093
-560,1,63843,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22655,6093
-560,1,63844,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22755,6093
-560,11,63845,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24475,6093
-560,1,63846,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,21735,6093
-560,1,63847,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22425,6093
-560,11,63848,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24415,6093
-560,1,63849,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22725,6093
-560,1,63850,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22565,6093
-560,11,63851,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24515,6093
-560,1,63852,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22655,6093
-560,1,63853,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22455,6093
-560,11,63854,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24505,6093
-560,1,63855,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22475,6093
-560,1,63856,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22735,6093
-560,11,63857,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24525,6093
-560,1,63858,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22615,6093
-560,1,63859,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22725,6093
-560,11,63860,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24565,6093
-560,1,63861,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22565,6093
-560,1,63862,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22765,6093
-560,11,63863,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24475,6093
-560,1,63864,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22525,6093
-560,1,63865,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22645,6093
-560,11,63866,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24535,6093
-560,1,63867,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22765,6093
-565,11,63868,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24485,6962
-565,1,63869,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22795,6962
-565,1,63870,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22675,6962
-565,11,63871,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24425,6962
-565,1,63872,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22795,6962
-565,1,63873,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22675,6962
-565,11,63874,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24485,6962
-565,1,63875,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22795,6962
-565,1,63876,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22715,6962
-565,11,63877,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24435,6962
-565,1,63878,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22795,6962
-565,1,63879,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22465,6962
-565,11,63880,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24495,6962
-565,1,63881,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22465,6962
-565,1,63882,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21735,6962
-565,11,63883,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24445,6962
-565,1,63884,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22755,6962
-565,1,63885,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22645,6962
-565,11,63886,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24425,6962
-565,1,63887,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22755,6962
-565,1,63888,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21795,6962
-565,11,63889,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24555,6962
-565,1,63890,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22755,6962
-565,1,63891,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21795,6962
-565,11,63892,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24485,6962
-565,1,63893,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22755,6962
-565,1,63894,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21805,6962
-565,11,63895,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24445,6962
-565,1,63896,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22485,6962
-565,1,63897,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22795,6963
-565,1,63898,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22795,6963
-565,11,63899,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24485,6963
-565,1,63900,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22675,6963
-565,1,63901,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22795,6963
-565,11,63902,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24425,6963
-565,1,63903,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22675,6963
-565,1,63904,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22795,6963
-565,11,63905,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24485,6963
-565,1,63906,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22715,6963
-565,1,63907,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22795,6963
-565,11,63908,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24435,6963
-565,1,63909,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22665,6963
-565,1,63910,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22465,6963
-565,11,63911,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24495,6963
-565,1,63912,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21735,6963
-565,1,63913,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22755,6963
-565,11,63914,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24445,6963
-565,1,63915,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22645,6963
-565,1,63916,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22755,6963
-565,11,63917,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24425,6963
-565,1,63918,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21795,6963
-565,1,63919,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22755,6963
-565,11,63920,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24555,6963
-565,1,63921,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21795,6963
-565,1,63922,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22755,6963
-565,11,63923,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24485,6963
-565,1,63924,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21805,6963
-565,1,63925,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22455,6963
-565,11,63926,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24445,6963
-565,1,63927,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22485,6963
+560,1,63803,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22594,6094
+560A,1,63804,Salisbury Interchange to Ingle Farm West via Park Tce and Bridge Rd,0,22754,6097
+560,11,63805,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24454,6094
+560,1,63806,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22764,6094
+560,1,63807,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22724,6094
+560,11,63808,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24464,6094
+560,1,63809,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22654,6094
+560,1,63810,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22754,6094
+560,11,63811,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24474,6094
+560,1,63812,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22494,6094
+560,1,63813,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22424,6094
+560,11,63814,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24414,6094
+560,1,63815,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22744,6094
+560,1,63816,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22564,6094
+560,11,63817,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24514,6094
+560,1,63818,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22654,6094
+560,1,63819,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22454,6094
+560,11,63820,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24504,6094
+560,1,63821,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22474,6094
+560,1,63822,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22734,6094
+560,11,63823,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24524,6094
+560,1,63824,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22584,6094
+560,1,63825,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22724,6094
+560,11,63826,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24564,6094
+560,1,63827,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22564,6094
+560,1,63828,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22764,6094
+560,11,63829,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24474,6094
+560,1,63830,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22524,6094
+560,1,63831,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22644,6094
+560,11,63832,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,24534,6094
+560,1,63833,Salisbury Interchange to Tea Tree Plaza via Bridge Rd and Montague Rd,0,22524,6094
+560A,1,63834,Salisbury Interchange to Ingle Farm West via Park Tce and Bridge Rd,0,22764,6097
+560,1,63835,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22594,6093
+560,1,63836,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22614,6093
+560,1,63837,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22744,6093
+560,1,63838,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22704,6093
+560,11,63839,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24454,6093
+560,1,63840,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22764,6093
+560,1,63841,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22724,6093
+560,11,63842,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24464,6093
+560,1,63843,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22654,6093
+560,1,63844,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22754,6093
+560,11,63845,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24474,6093
+560,1,63846,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,21734,6093
+560,1,63847,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22424,6093
+560,11,63848,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24414,6093
+560,1,63849,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22724,6093
+560,1,63850,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22564,6093
+560,11,63851,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24514,6093
+560,1,63852,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22654,6093
+560,1,63853,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22454,6093
+560,11,63854,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24504,6093
+560,1,63855,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22474,6093
+560,1,63856,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22734,6093
+560,11,63857,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24524,6093
+560,1,63858,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22614,6093
+560,1,63859,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22724,6093
+560,11,63860,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24564,6093
+560,1,63861,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22564,6093
+560,1,63862,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22764,6093
+560,11,63863,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24474,6093
+560,1,63864,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22524,6093
+560,1,63865,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22644,6093
+560,11,63866,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,24534,6093
+560,1,63867,Tea Tree Plaza to Salisbury Interchange via Montague Rd and Bridge Rd,1,22764,6093
+565,11,63868,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24484,6962
+565,1,63869,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22794,6962
+565,1,63870,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22674,6962
+565,11,63871,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24424,6962
+565,1,63872,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22794,6962
+565,1,63873,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22674,6962
+565,11,63874,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24484,6962
+565,1,63875,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22794,6962
+565,1,63876,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22714,6962
+565,11,63877,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24434,6962
+565,1,63878,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22794,6962
+565,1,63879,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22464,6962
+565,11,63880,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24494,6962
+565,1,63881,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22464,6962
+565,1,63882,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21734,6962
+565,11,63883,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24444,6962
+565,1,63884,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22754,6962
+565,1,63885,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22644,6962
+565,11,63886,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24424,6962
+565,1,63887,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22754,6962
+565,1,63888,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21794,6962
+565,11,63889,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24554,6962
+565,1,63890,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22754,6962
+565,1,63891,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21794,6962
+565,11,63892,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24484,6962
+565,1,63893,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22754,6962
+565,1,63894,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,21804,6962
+565,11,63895,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,24444,6962
+565,1,63896,Mawson Interchange to Ingle Farm 42 via Mawson Lakes Blvd Henderson Ave and Montague Rd,0,22484,6962
+565,1,63897,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22794,6963
+565,1,63898,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22794,6963
+565,11,63899,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24484,6963
+565,1,63900,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22674,6963
+565,1,63901,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22794,6963
+565,11,63902,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24424,6963
+565,1,63903,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22674,6963
+565,1,63904,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22794,6963
+565,11,63905,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24484,6963
+565,1,63906,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22714,6963
+565,1,63907,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22794,6963
+565,11,63908,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24434,6963
+565,1,63909,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22664,6963
+565,1,63910,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22464,6963
+565,11,63911,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24494,6963
+565,1,63912,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21734,6963
+565,1,63913,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22754,6963
+565,11,63914,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24444,6963
+565,1,63915,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22644,6963
+565,1,63916,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22754,6963
+565,11,63917,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24424,6963
+565,1,63918,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21794,6963
+565,1,63919,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22754,6963
+565,11,63920,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24554,6963
+565,1,63921,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21794,6963
+565,1,63922,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22754,6963
+565,11,63923,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24484,6963
+565,1,63924,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,21804,6963
+565,1,63925,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22454,6963
+565,11,63926,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,24444,6963
+565,1,63927,Ingle Fram 42 to Mawson Interchange via Montague Rd Henderson Ave and Mawson Lakes Blvd,1,22484,6963
 900,1,63928,Elizabeth Station to Salisbury Mall via Virginia Township Waterloo Corner Rd Salisbury Interchange,0,,6997
 900,1,63929,Elizabeth Station to Salisbury Mall via Virginia Township Waterloo Corner Rd Salisbury Interchange,0,,6997
 900,1,63930,Salisbury Mall to Elizabeth Station via Salisbury Interchange Waterloo Corner Rd Virginia Township,1,21544,6139
@@ -7695,19 +7695,19 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 685,12,66573,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,0,,7480
 685,1,66574,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,0,,7480
 685,1,66575,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,0,,7480
-701,1,66576,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11494,7635
-701,1,66577,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11484,7635
-701,1,66578,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11444,7635
+701A,1,66576,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11494,7635
+701A,1,66577,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11484,7635
+701A,1,66578,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,1,11444,7635
 701S,21,66579,Woodcroft Community Centre to Old Reynella Interchange via Investigator Dr and Panalatinga Rd,1,11014,7636
-701,1,66580,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11694,7637
-701,1,66581,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11144,7637
-701,1,66582,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11694,7637
-702,1,66583,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11694,5135
-702,1,66584,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11144,5135
-702,1,66585,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11694,5135
-702,1,66586,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11494,875
-702,1,66587,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11484,875
-702,1,66588,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11444,875
+701C,1,66580,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11694,7637
+701C,1,66581,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11144,7637
+701C,1,66582,Woodcroft Community Centre to Woodcroft Community Centre via Old Reynella Interchange ,0,11694,7637
+702A,1,66583,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11694,5135
+702A,1,66584,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11144,5135
+702A,1,66585,Southern Circuit (Anti Clockwise) via Noarlunga Interchange Flaxmill Rd and Woodcroft Community Centre,1,11694,5135
+702C,1,66586,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11494,875
+702C,1,66587,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11484,875
+702C,1,66588,Southern Circuit (Clockwise) via Woodcroft Community Centre Flaxmill Rd and Noarlunga Interchange,0,11444,875
 712,1,66589,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,14534,4903
 712,1,66590,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,11274,4903
 712,11,66591,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,14004,4903
@@ -11562,13 +11562,13 @@ H31,1,70446,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and C
 H31C,13,70447,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,1,54225,7613
 H31C,1,70448,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,1,30285,7613
 H31C,13,70449,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,1,54215,7613
-J7,1,70450,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,50085,7259
-J7,1,70451,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,40025,7259
-J7,1,70452,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,20395,7259
-J7,1,70453,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,30155,7259
-J7,1,70454,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,30045,7259
-J7,1,70455,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,60185,7259
-J7,1,70456,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,78075,7259
+J7,1,70450,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,50085,7259
+J7,1,70451,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,40025,7259
+J7,1,70452,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,20395,7259
+J7,1,70453,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,30155,7259
+J7,1,70454,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,30045,7259
+J7,1,70455,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,60185,7259
+J7,1,70456,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,78075,7259
 J7M,1,70457,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,41205,6001
 J7M,1,70458,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,60395,6001
 J7M,1,70459,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,61115,6001
@@ -11907,9 +11907,9 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 196F,1,70794,Blackwood Station to City via Unley Rd,0,68005,6714
 196F,1,70795,Blackwood Station to City via Unley Rd,0,69025,6714
 200,1,70796,Panorama to City,0,30005,7866
-200,1,70797,Marion Shopping Centre to City via King William Rd,0,60055,7865
+200,1,70797,Marion Shopping Centre to City via King William Rd,0,60055,6297
 200,1,70798,Colonel Light Gardens to City,0,31085,7867
-200,1,70799,Marion Shopping Centre to City via King William Rd,0,60135,7865
+200,1,70799,Marion Shopping Centre to City via King William Rd,0,60135,6297
 200,11,70800,Clapham to City via King William Rd,0,64045,7869
 200,1,70801,Panorama to City,0,60225,7866
 200,1,70802,Colonel Light Gardens to City,0,31265,7867
@@ -11992,19 +11992,19 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 200,13,70879,Marion Shopping Centre to City via King William Rd,0,24385,7865
 200,1,70880,Clapham to City via King William Rd,0,20685,7869
 200,13,70881,Clapham to City via King William Rd,0,24345,7869
-200,1,70882,Marion Shopping Centre to City via King William Rd,0,78095,7865
+200,1,70882,Marion Shopping Centre to City via King William Rd,0,78095,6297
 200,13,70883,Marion Shopping Centre to City via King William Rd,0,74635,7865
 200,1,70884,Clapham to City via King William Rd,0,10365,7869
 200,13,70885,Clapham to City via King William Rd,0,24405,7869
-200,1,70886,Marion Shopping Centre to City via King William Rd,0,10525,7865
+200,1,70886,Marion Shopping Centre to City via King William Rd,0,10525,6297
 200,13,70887,Marion Shopping Centre to City via King William Rd,0,34225,7865
 200,1,70888,Clapham to City via King William Rd,0,30325,7869
 200,13,70889,Clapham to City via King William Rd,0,14435,7869
-200,1,70890,Marion Shopping Centre to City via King William Rd,0,78115,7865
+200,1,70890,Marion Shopping Centre to City via King William Rd,0,78115,6297
 200,13,70891,Marion Shopping Centre to City via King William Rd,0,74645,7865
 200,1,70892,Clapham to City via King William Rd,0,30315,7869
 200,13,70893,Clapham to City via King William Rd,0,64395,7869
-200,1,70894,Marion Shopping Centre to City via King William Rd,0,10515,7865
+200,1,70894,Marion Shopping Centre to City via King William Rd,0,10515,6297
 200,13,70895,Marion Shopping Centre to City via King William Rd,0,74655,7865
 200,1,70896,Clapham to City via King William Rd,0,30325,7869
 200,13,70897,Clapham to City via King William Rd,0,14435,7869
@@ -14983,7 +14983,7 @@ N3,13,73881,Noarlunga Centre to Oaklands Interchange,0,,8185
 J1A,13,73882,Tea Tree Plaza Interchange to Adelaide Airport via Paradise Interchange the O-Bahn and Sir Donald Bradman Dr,0,74065,4426
 725,11,73883,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14224,964
 725,11,73884,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,14384,964
-100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,30055,7679
 100,31,73886,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
 178,1,73888,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,8203
@@ -15002,3 +15002,8 @@ N6,1,73899,Oaklands Interchange to Hallett Cove Beach,1,,8190
 601B,21,73901,Aberfoyle Hub to Blackwood High School,0,,8225
 600,21,73902,Blackwood Station to Marion Shopping Centre,0,,8226
 174,31,73903,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,12385,6838
+N6,1,73904,Hallett Cove Beach to Oaklands Interchange,0,,8191
+N6,1,73905,Hallett Cove Beach to Oaklands Interchange,0,,8191
+N6,1,73906,Oaklands Interchange to Hallett Cove Beach,1,,8190
+N6,1,73907,Oaklands Interchange to Hallett Cove Beach,1,,8190
+J7,1,73908,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,60405,7259
