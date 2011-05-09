@@ -15007,3 +15007,4 @@ N6,1,73905,Hallett Cove Beach to Oaklands Interchange,0,,8191
 N6,1,73906,Oaklands Interchange to Hallett Cove Beach,1,,8190
 N6,1,73907,Oaklands Interchange to Hallett Cove Beach,1,,8190
 J7,1,73908,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,60405,7259
+M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,99995,7997
