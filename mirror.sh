@@ -17,6 +17,8 @@ DATA_ZIPFILENAME="google_transit.zip"
 mkdir -p "gtfs"
 
 # Download data archive
+# Normally -O would be used here, but it doesn't work in combination with -N.
+# (see wget man page for details)
 wget -N "${DATA_ZIP}"
 
 # Extract the data into the data folder

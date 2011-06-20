@@ -1,5 +1,5 @@
 GTFS mirroring tool.  This allows us to keep the GTFS data from Adelaide
-Metro into a revision control system (so we could look up historical
+Metro in a revision control system (so we could look up historical
 data).
 
 It should be trivial to adapt this to monitor another public transit
@@ -24,3 +24,8 @@ http://sam.zoy.org/wtfpl/COPYING for more details.
 The data provided (in gtfs folder) is covered by a different license to
 this, and DTEI retain copyright on it.  Please see data_license.txt for
 details.
+
+A current version of the data held in this repository is available for free
+from Adelaide Metro's website, at
+<http://www.adelaidemetro.com.au/general/general-transit-feed-data>.
+
