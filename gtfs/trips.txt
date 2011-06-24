@@ -7771,7 +7771,7 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 712,1,66649,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,11684,4903
 712,1,66650,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11084,4904
 712,1,66651,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11154,4904
-712,1,66652,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11274,4904
+712,81,66652,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11274,4904
 712,1,66653,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11654,4904
 712,1,66654,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11664,4904
 712,11,66655,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,14204,4904
@@ -7816,7 +7816,7 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 712,12,66694,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,15074,4904
 712,1,66695,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11404,4904
 712,11,66696,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,14244,4904
-712,1,66697,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11694,4904
+712,81,66697,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11694,4904
 712,12,66698,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,15164,4904
 712,11,66699,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,14194,4904
 712,1,66700,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,11684,4904
@@ -7833,7 +7833,7 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 712,11,66711,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,14384,4904
 712,12,66712,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,15044,4904
 712,11,66713,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,14384,4904
-712F,1,66714,Old Reynella Interchange to City no pick up after Stop 26 South Road to the City,0,11524,6630
+712F,81,66714,Old Reynella Interchange to City no pick up after Stop 26 South Road to the City,0,11524,6630
 715,12,66715,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd and Grant Rd,0,15044,3798
 715,12,66716,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd and Grant Rd,0,15584,3798
 715,12,66717,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd and Grant Rd,0,15564,3798
@@ -15008,3 +15008,6 @@ N6,1,73906,Oaklands Interchange to Hallett Cove Beach,1,,8190
 N6,1,73907,Oaklands Interchange to Hallett Cove Beach,1,,8190
 J7,1,73908,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,1,60405,7259
 M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,99995,7997
+712,101,74082,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,99994,4904
+712,101,74083,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,99994,4904
+712F,101,74084,Old Reynella Interchange to City no pick up after Stop 26 South Road to the City,0,99994,6630
