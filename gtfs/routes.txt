@@ -402,6 +402,7 @@ N224,admet,N224,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 N254,admet,N254,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N254&js=15,006c64,ffffff
 N262,admet,N262,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N721&js=15,006c64,ffffff
 N30,admet,N30,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N30&js=1,255AAA,ffffff
+N502,admet,N502,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N502&js=15,00aeef,ffffff
 N541,admet,N541,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N541&js=1,f57b20,ffffff
 N721,admet,N721,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N721&js=15,006c64,ffffff
 N864,admet,N864,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=N864&js=2,c60845,ffffff

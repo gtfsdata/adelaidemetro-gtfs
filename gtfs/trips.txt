@@ -12147,14 +12147,6 @@ N21,51,72988,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion
 N21,51,72989,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,,7261
 N21,51,72990,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,,7261
 N21,51,72991,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,,7261
-N254,51,72992,Semaphore to City - after midnight service,0,,8120
-N254,51,72993,Semaphore to City - after midnight service,0,,8120
-N254,51,72994,Semaphore to City - after midnight service,0,,8120
-N254,51,72995,Semaphore to City - after midnight service,0,,8120
-N254,51,72996,City to Semaphore - after midnight service,1,,5854
-N254,51,72997,City to Semaphore - after midnight service,1,,5854
-N254,51,72998,City to Semaphore - after midnight service,1,,5854
-N254,51,72999,City to Semaphore - after midnight service,1,,5854
 N262,51,73000,Marion Shopping Centre to City via Glenelg - after midnight service,0,,5855
 N262,51,73001,Marion Shopping Centre to City via Glenelg - after midnight service,0,,5855
 N262,51,73002,Marion Shopping Centre to City via Glenelg - after midnight service,0,,5855
@@ -12987,14 +12979,14 @@ T722,1,74668,Seaford Shopping Centre to City limited Stop service via Grand Boul
 747A,13,74694,Noarlunga Interchange - Seaford Circuit Anti-Clockwise to Noarlunga Interchange,0,,5042
 747A,13,74695,Noarlunga Interchange - Seaford Circuit Anti-Clockwise to Noarlunga Interchange,0,,5042
 733,11,74696,Colonnades via Pimpala Rd and Flaxmill Rd,1,,7125
-N202,12,74697,City via Hampstead Rd,0,56446,8323
-N202,12,74698,City via Hampstead Rd,0,57466,8323
-N202,12,74699,City via Hampstead Rd,0,56448,8323
-N202,12,74700,City via Hampstead Rd,0,56450,8323
-N202,12,74701,Ingle Farm via Hampstead Rd,1,57465,8322
-N202,12,74702,Ingle Farm via Hampstead Rd,1,56448,8322
-N202,12,74703,Ingle Farm via Hampstead Rd,1,56450,8322
-N202,12,74704,Ingle Farm via Hampstead Rd,1,57466,8322
+N202,51,74697,City via Hampstead Rd,0,56446,8323
+N202,51,74698,City via Hampstead Rd,0,57466,8323
+N202,51,74699,City via Hampstead Rd,0,56448,8323
+N202,51,74700,City via Hampstead Rd,0,56450,8323
+N202,51,74701,Ingle Farm via Hampstead Rd,1,57465,8322
+N202,51,74702,Ingle Farm via Hampstead Rd,1,56448,8322
+N202,51,74703,Ingle Farm via Hampstead Rd,1,56450,8322
+N202,51,74704,Ingle Farm via Hampstead Rd,1,57466,8322
 203,1,74705,City via Hampstead Rd,0,51000,8311
 203,1,74706,City via Hampstead Rd,0,51006,8311
 203,1,74707,City via Hampstead Rd,0,52007,8311
@@ -13215,7 +13207,7 @@ G20,1,74918,Aberfoyle Hub to City,0,54003,7219
 640,1,74926,Marion via Brighton Rd and Seacombe Rd,1,41121,8280
 640,1,74927,Marion via Brighton Rd and Seacombe Rd,1,41115,8280
 640,1,74928,Marion via Brighton Rd and Seacombe Rd,1,41120,8280
-N262,12,74929,City to Marion Shopping Centre via Glenelg - after midnight service,1,,5857
+N262,51,74929,City to Marion Shopping Centre via Glenelg - after midnight service,1,,5857
 G10B,13,74930,Prospect Rd 24 to City,1,56404,8087
 G10B,13,74931,Prospect Rd 24 to City,1,56422,8087
 G10B,13,74932,Prospect Rd 24 to City,1,56421,8087
@@ -13428,7 +13420,7 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,52413,8079
 224F,1,75139,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange (No pick up after Stop 17 Main North Road),0,42120,6740
 224F,1,75140,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange (No pick up after Stop 17 Main North Road),0,41177,6740
 226F,1,75141,Mawson Lakes UniSA to City via Main North Rd no pick up after stop 10 Main North Rd,0,41471,7052
-224,1,75142,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange (No pick up after Stop 17 Main North Road),0,41102,6740
+224,1,75142,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,41102,7029
 226F,1,75143,Mawson Lakes UniSA to City via Main North Rd no pick up after stop 10 Main North Rd,0,41451,7052
 224,1,75144,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42253,6022
 224,1,75145,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42261,6022
@@ -14432,7 +14424,7 @@ J1T,11,76175,City to Tea Tree Plaza Interchange via O-Bahn,1,,7296
 J1T,11,76176,City to Tea Tree Plaza Interchange via O-Bahn,1,,7296
 J1T,1,76177,City to Tea Tree Plaza Interchange via O-Bahn,1,,7296
 J1T,1,76178,City to Tea Tree Plaza Interchange via O-Bahn,1,,7296
-N1,12,76179,Tea Tree Plaza to City via O-Bahn after midnight service,0,,8114
+N1,51,76179,Tea Tree Plaza to City via O-Bahn after midnight service,0,,8114
 T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interchange limited Stop service,1,41131,8172
 721,1,76181,Noarlunga Interchange to Flinders Medical Centre via Beach Rd and Main South Rd,0,41152,4923
 721F,1,76182,City to Noarlunga Interchange via Main South Rd and Beach Rd (No set down before Stop 26 South Rd),1,,4938
@@ -14858,21 +14850,21 @@ T722,1,76232,City to Seaford Shopping Centre limited Stop service via South Rd a
 254,13,76609,Port Adelaide via Hawker St Hanson Rd and Grand Junction Rd,1,53430,8022
 254,13,76610,Port Adelaide via Hawker St Hanson Rd and Grand Junction Rd,1,52434,8022
 254,11,76611,Port Adelaide to City via Grand Junction Rd Hanson Rd and Hawker St ,0,56447,8024
-N254,12,76612,Semaphore to City - after midnight service,0,56442,8120
-N254,12,76613,Semaphore to City - after midnight service,0,52443,8120
-N254,12,76614,Semaphore to City - after midnight service,0,56447,8120
-N254,12,76615,Semaphore to City - after midnight service,0,56449,8120
-N254,12,76616,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52441,8119
-N254,12,76617,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,56447,8119
-N254,12,76618,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,56449,8119
-N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
+N254,51,76612,Semaphore to City - after midnight service,0,56442,8120
+N254,51,76613,Semaphore to City - after midnight service,0,52443,8120
+N254,51,76614,Semaphore to City - after midnight service,0,56447,8120
+N254,51,76615,Semaphore to City - after midnight service,0,56449,8120
+N254,51,76616,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52441,8119
+N254,51,76617,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,56447,8119
+N254,51,76618,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,56449,8119
+N254,51,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 502,1,76620,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57001,8338
 500,1,76621,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58001,8258
 501,1,76622,City via Montague Road and O-Bahn,0,57018,8357
 502,1,76623,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57007,8273
 500,1,76624,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58004,8258
 501,1,76625,City via Montague Road and O-Bahn,0,58005,8267
-502,1,76626,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57020,8340
+502,1,76626,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57020,8340
 500,1,76627,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58007,8260
 501,1,76628,City via Montague Road and O-Bahn,0,57041,8356
 500,1,76629,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57000,8260
@@ -14889,10 +14881,10 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 500,1,76640,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58104,8362
 502X,1,76641,Express via Bridge Rd and O-Bahn and Salisbury Interchange,0,58105,8277
 501,1,76642,City via Montague Road and O-Bahn,0,57018,8354
-502,1,76643,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57007,8341
+502,1,76643,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57007,8341
 501,1,76644,City via Montague Road and O-Bahn,0,58004,8355
 500,1,76645,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58107,8364
-502,1,76646,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57034,8342
+502,1,76646,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57034,8342
 501,1,76647,City via Montague Road and O-Bahn,0,57116,8267
 500,1,76648,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58108,8258
 502,1,76649,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57107,8273
@@ -14939,14 +14931,14 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 501,1,76690,City via Montague Road and O-Bahn,0,57110,8267
 500,1,76691,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58106,8258
 501,1,76692,City via Montague Road and O-Bahn,0,57146,8267
-502,1,76693,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57144,8342
+502,1,76693,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57144,8342
 501,1,76694,City via Montague Road and O-Bahn,0,57158,8353
 500,1,76695,City via Salisbury Interchange Bridge Rd and O-Bahn,0,58109,8365
 501,1,76696,City via Montague Road and O-Bahn,0,57133,8353
-502,1,76697,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57100,8342
+502,1,76697,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57100,8342
 501,1,76698,City via Montague Road and O-Bahn,0,57139,8353
 500,1,76699,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57111,8365
-502,1,76700,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57149,8342
+502,1,76700,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57149,8342
 501,1,76701,City via Montague Road and O-Bahn,0,57081,8353
 500,1,76702,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57067,8365
 502,1,76703,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57082,8273
@@ -14955,7 +14947,7 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 502,1,76706,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57089,8273
 501,1,76707,City via Montague Road and O-Bahn,0,57094,8269
 500,1,76708,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57051,8258
-502,1,76709,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,57060,8343
+502,1,76709,City via Salisbury Interchange Bridge Rd and O-Bahn,0,57060,8343
 501,1,76710,City via Montague Road and O-Bahn,0,57069,8269
 502,1,76711,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,58018,8275
 501,1,76712,City via Montague Road and O-Bahn,0,57083,8269
@@ -15006,22 +14998,22 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 500,1,76757,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57019,8262
 500,1,76758,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58001,8262
 501,1,76759,Mawson Interchange via Montague Rd and O-Bahn ,1,57015,8270
-502,1,76760,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57007,8344
+502,1,76760,Salisbury Interchange via O-Bahn and Bridge Rd,1,57007,8344
 501,1,76761,Mawson Interchange via Montague Rd and O-Bahn ,1,57018,8270
 500,1,76762,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57045,8262
 501,1,76763,Mawson Interchange via Montague Rd and O-Bahn ,1,58004,8270
-502,1,76764,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57034,8344
+502,1,76764,Salisbury Interchange via O-Bahn and Bridge Rd,1,57034,8344
 501,1,76765,Mawson Interchange via Montague Rd and O-Bahn ,1,57020,8270
 500,1,76766,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57026,8262
 501,1,76767,Mawson Interchange via Montague Rd and O-Bahn ,1,57116,8270
-502,1,76768,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57107,8344
+502,1,76768,Salisbury Interchange via O-Bahn and Bridge Rd,1,57107,8344
 501,1,76769,Mawson Interchange via Montague Rd and O-Bahn ,1,57108,8358
 500,1,76770,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58100,8366
 501,1,76771,Mawson Interchange via Montague Rd and O-Bahn ,1,57035,8358
-502,1,76772,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57127,8345
+502,1,76772,Salisbury Interchange via O-Bahn and Bridge Rd,1,57127,8345
 500,1,76773,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57163,8366
 501,1,76774,Mawson Interchange via Montague Rd and O-Bahn ,1,58010,8358
-502,1,76775,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57172,8345
+502,1,76775,Salisbury Interchange via O-Bahn and Bridge Rd,1,57172,8345
 500,1,76776,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58105,8366
 501,1,76777,Mawson Interchange via Montague Rd and O-Bahn ,1,57175,8270
 502,1,76778,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57173,8274
@@ -15057,19 +15049,19 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 502,1,76808,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57069,8274
 500,1,76809,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57067,8368
 501,1,76810,Mawson Interchange via Montague Rd and O-Bahn ,1,57110,8271
-502,1,76811,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57144,8346
+502,1,76811,Salisbury Interchange via O-Bahn and Bridge Rd,1,57144,8346
 500,1,76812,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57111,8367
 501,1,76813,Mawson Interchange via Montague Rd and O-Bahn ,1,57158,8359
-502,1,76814,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57100,8347
+502,1,76814,Salisbury Interchange via O-Bahn and Bridge Rd,1,57100,8347
 500,1,76815,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,57073,8368
 501,1,76816,Mawson Interchange via Montague Rd and O-Bahn ,1,57139,8271
-502,1,76817,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57149,8347
+502,1,76817,Salisbury Interchange via O-Bahn and Bridge Rd,1,57149,8347
 500,1,76818,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58102,8368
 501,1,76819,Mawson Interchange via Montague Rd and O-Bahn ,1,57081,8271
-502,1,76820,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57082,8347
+502,1,76820,Salisbury Interchange via O-Bahn and Bridge Rd,1,57082,8347
 500,1,76821,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58103,8263
 501,1,76822,Mawson Interchange via Montague Rd and O-Bahn ,1,57058,8360
-502,1,76823,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57131,8348
+502,1,76823,Salisbury Interchange via O-Bahn and Bridge Rd,1,57131,8348
 502X,1,76824,Salisbury Interchange via Bridge Rd and O-Bahn - express ,1,57089,8278
 500,1,76825,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58106,8263
 501,1,76826,Mawson Interchange via Montague Rd and O-Bahn ,1,57109,8360
@@ -15083,51 +15075,51 @@ N254,12,76619,Semaphore via Torrens Rd Hanson Rd and Commercial Rd,1,52443,8119
 500,1,76834,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58013,8263
 501,1,76835,Mawson Interchange via Montague Rd and O-Bahn ,1,57069,8360
 500,1,76836,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58011,8368
-502,1,76837,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57055,8347
+502,1,76837,Salisbury Interchange via O-Bahn and Bridge Rd,1,57055,8347
 501,1,76838,Mawson Interchange via Montague Rd and O-Bahn ,1,57083,8271
 500,1,76839,Elizabeth Interchange via O-Bahn Bridge Rd and Salisbury Interchange,1,58015,8368
 502,1,76840,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57058,8274
 501,1,76841,Mawson Interchange via Montague Rd and O-Bahn ,1,57071,8272
-502,1,76842,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57072,8349
-502,1,76843,Salisbury Interchange via Bridge Rd and O-Bahn ,1,58018,8349
-502,1,76844,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57095,8349
-502,1,76845,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57075,8349
-502,1,76846,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57093,8349
-502,1,76847,Salisbury Interchange via Bridge Rd and O-Bahn ,1,58019,8349
-502,1,76848,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57095,8349
-502,1,76849,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57093,8349
-502,11,76850,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57411,8350
-502,11,76851,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57413,8350
-502,11,76852,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57426,8350
-502,13,76853,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57422,8350
-502,13,76854,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57423,8349
-502,13,76855,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57410,8349
-502,13,76856,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57432,8349
-502,13,76857,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57420,8349
-502,13,76858,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57403,8349
-502,13,76859,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57438,8349
-502,13,76860,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57411,8349
-502,13,76861,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57413,8349
-502,13,76862,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57426,8349
-502,13,76863,Salisbury Interchange via Bridge Rd and O-Bahn ,1,58402,8349
-502,13,76864,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57423,8349
-502,13,76865,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57445,8349
-502,13,76866,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57446,8349
-502,13,76867,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57432,8349
-502,13,76868,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57434,8349
-502,13,76869,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57438,8349
-502,13,76870,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57453,8349
-502,13,76871,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57442,8349
-502,13,76872,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57460,8349
-502,13,76873,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57446,8349
-502,13,76874,Salisbury Interchange via Bridge Rd and O-Bahn ,1,58408,8349
-502,13,76875,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57442,8349
-502,13,76876,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57453,8349
-502,13,76877,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57446,8349
-502,13,76878,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57460,8349
-502,13,76879,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57453,8349
-502,13,76880,Salisbury Interchange via Bridge Rd and O-Bahn ,1,56477,8349
-502,11,76881,Salisbury Interchange via Bridge Rd and O-Bahn ,1,57461,8349
+502,1,76842,Salisbury Interchange via O-Bahn and Bridge Rd,1,57072,8349
+502,1,76843,Salisbury Interchange via O-Bahn and Bridge Rd,1,58018,8349
+502,1,76844,Salisbury Interchange via O-Bahn and Bridge Rd,1,57095,8349
+502,1,76845,Salisbury Interchange via O-Bahn and Bridge Rd,1,57075,8349
+502,1,76846,Salisbury Interchange via O-Bahn and Bridge Rd,1,57093,8349
+502,1,76847,Salisbury Interchange via O-Bahn and Bridge Rd,1,58019,8349
+502,1,76848,Salisbury Interchange via O-Bahn and Bridge Rd,1,57095,8349
+502,1,76849,Salisbury Interchange via O-Bahn and Bridge Rd,1,57093,8349
+502,11,76850,Salisbury Interchange via O-Bahn and Bridge Rd,1,57411,8350
+502,11,76851,Salisbury Interchange via O-Bahn and Bridge Rd,1,57413,8350
+502,11,76852,Salisbury Interchange via O-Bahn and Bridge Rd,1,57426,8350
+502,13,76853,Salisbury Interchange via O-Bahn and Bridge Rd,1,57422,8350
+502,13,76854,Salisbury Interchange via O-Bahn and Bridge Rd,1,57423,8349
+502,13,76855,Salisbury Interchange via O-Bahn and Bridge Rd,1,57410,8349
+502,13,76856,Salisbury Interchange via O-Bahn and Bridge Rd,1,57432,8349
+502,13,76857,Salisbury Interchange via O-Bahn and Bridge Rd,1,57420,8349
+502,13,76858,Salisbury Interchange via O-Bahn and Bridge Rd,1,57403,8349
+502,13,76859,Salisbury Interchange via O-Bahn and Bridge Rd,1,57438,8349
+502,13,76860,Salisbury Interchange via O-Bahn and Bridge Rd,1,57411,8349
+502,13,76861,Salisbury Interchange via O-Bahn and Bridge Rd,1,57413,8349
+502,13,76862,Salisbury Interchange via O-Bahn and Bridge Rd,1,57426,8349
+502,13,76863,Salisbury Interchange via O-Bahn and Bridge Rd,1,58402,8349
+502,13,76864,Salisbury Interchange via O-Bahn and Bridge Rd,1,57423,8349
+502,13,76865,Salisbury Interchange via O-Bahn and Bridge Rd,1,57445,8349
+502,13,76866,Salisbury Interchange via O-Bahn and Bridge Rd,1,57446,8349
+502,13,76867,Salisbury Interchange via O-Bahn and Bridge Rd,1,57432,8349
+502,13,76868,Salisbury Interchange via O-Bahn and Bridge Rd,1,57434,8349
+502,13,76869,Salisbury Interchange via O-Bahn and Bridge Rd,1,57438,8349
+502,13,76870,Salisbury Interchange via O-Bahn and Bridge Rd,1,57453,8349
+502,13,76871,Salisbury Interchange via O-Bahn and Bridge Rd,1,57442,8349
+502,13,76872,Salisbury Interchange via O-Bahn and Bridge Rd,1,57460,8349
+502,13,76873,Salisbury Interchange via O-Bahn and Bridge Rd,1,57446,8349
+502,13,76874,Salisbury Interchange via O-Bahn and Bridge Rd,1,58408,8349
+502,13,76875,Salisbury Interchange via O-Bahn and Bridge Rd,1,57442,8349
+502,13,76876,Salisbury Interchange via O-Bahn and Bridge Rd,1,57453,8349
+502,13,76877,Salisbury Interchange via O-Bahn and Bridge Rd,1,57446,8349
+502,13,76878,Salisbury Interchange via O-Bahn and Bridge Rd,1,57460,8349
+502,13,76879,Salisbury Interchange via O-Bahn and Bridge Rd,1,57453,8349
+502,13,76880,Salisbury Interchange via O-Bahn and Bridge Rd,1,56477,8349
+502,11,76881,Salisbury Interchange via O-Bahn and Bridge Rd,1,57461,8349
 712,12,76882,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,41512,4903
 712,12,76883,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,41523,4903
 712,12,76884,Old Reynella Interchange to O'Halloran Hill TAFE via Bluehills Rd and Main South Rd,0,41502,4903
@@ -15290,3 +15282,11 @@ Noarlunga,13,77016,Noarlunga to City,0,2,1203
 494,1,77058,Gawler South Circuit - Anti - Clockwise loop,1,,8393
 494,1,77059,Gawler South Circuit - Anti - Clockwise loop,1,,8393
 494,1,77060,Gawler South Circuit - anti - clockwise loop,1,,8394
+N502,51,77064,Salisbury Interchange via O-Bahn and Bridge Rd,1,59999,8351
+N502,51,77065,Salisbury Interchange via O-Bahn and Bridge Rd,1,59999,8351
+N502,51,77066,Salisbury Interchange via O-Bahn and Bridge Rd,1,59999,8351
+N502,51,77067,Salisbury Interchange via O-Bahn and Bridge Rd,1,59999,8351
+N502,51,77068,City via Bridge Rd and O-Bahn,0,59999,8352
+N502,51,77069,City via Bridge Rd and O-Bahn,0,59999,8352
+N502,51,77070,City via Bridge Rd and O-Bahn,0,59999,8352
+N502,51,77071,City via Bridge Rd and O-Bahn,0,59999,8352
