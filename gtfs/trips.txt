@@ -15290,3 +15290,9 @@ N502,51,77068,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77069,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77070,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77071,City via Bridge Rd and O-Bahn,0,59999,8352
+886Z,21,77072,School service - Annesley College to Mt Barker Park N Ride,1,69999,8396
+888S,21,77073,School service - Aldgate to Concordia College,0,69999,8397
+882Z,44,77074,School service - Concordia College to Mt Barker Park N Ride,1,69999,8398
+882Z,43,77075,School service - Concordia College to Mt Barker Park N Ride,1,69999,8398
+882S,21,77076,School service - Mt Barker Park N Ride to Concordia College,0,69999,8399
+883S,21,77077,School service - Aldgate to Mitcham Girls High,0,69999,8400
