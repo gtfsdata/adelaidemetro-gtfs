@@ -3210,24 +3210,6 @@ RZ5,1,62020,Holden Hill Roam Zone Service,1,57086,
 RZ5,1,62021,Holden Hill Roam Zone Service,1,57086,
 RZ5,1,62022,Holden Hill Roam Zone Service,1,57086,
 RZ5,1,62023,Holden Hill Roam Zone Service,1,57086,
-221,1,62152,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41485,7017
-221,1,62153,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42117,7017
-221,1,62154,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41162,7017
-221,1,62155,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42268,7017
-221,1,62156,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41105,7017
-221,1,62157,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42264,7017
-221,1,62158,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41472,7017
-221,1,62159,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41468,7017
-221,1,62160,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42155,7017
-221,1,62161,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42242,7017
-221,1,62162,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41163,7017
-221,1,62163,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41131,7017
-221,1,62164,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41152,7017
-221,1,62165,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41138,7017
-221,1,62166,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41464,7017
-221,1,62167,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41478,7017
-221,1,62168,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,41150,7017
-221,1,62169,City to Main North Rd 25 via O'Connell St and Main North Road Stop 25,1,42273,7763
 222,1,62171,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42259,7020
 222,1,62172,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42264,7020
 222,1,62174,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42243,7021
@@ -3312,103 +3294,44 @@ RZ5,1,62023,Holden Hill Roam Zone Service,1,57086,
 224,1,62396,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,42160,7766
 224,1,62398,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,42107,7766
 224,1,62400,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,42145,7766
-225,1,62401,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42102,7039
-225,1,62402,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42110,7039
 225F,1,62403,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42245,7045
-225F,1,62404,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42255,7045
-225X,1,62405,Salisbury Interchange to City (Running express between Mawson Interchange and Stop 29 Main North Road and Stop 4 O'Connell Street North Adelaide),0,42102,8135
 225X,1,62406,Salisbury Interchange to City (Running express between Mawson Interchange and Stop 29 Main North Road and Stop 4 O'Connell Street North Adelaide),0,42254,8135
 225F,1,62407,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42260,7045
-225,11,62408,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42417,7039
 225F,1,62409,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42271,7045
 225F,1,62410,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42268,7045
-225,13,62411,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42510,7039
 225F,1,62412,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42250,7045
-225M,1,62413,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42173,7048
-225,1,62414,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42270,7039
-225,13,62415,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42546,7039
-225M,1,62416,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42276,7048
-225,1,62417,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42272,7039
-225,13,62418,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42508,7039
-225M,1,62419,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42243,7048
-225,1,62420,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42118,7039
-225,13,62421,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42548,7039
-225M,1,62422,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42173,7048
-225,1,62423,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42242,7039
-225,13,62424,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42519,7039
-225M,1,62425,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42272,7048
-225,1,62426,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42256,7039
-225,13,62427,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42543,7039
-225M,1,62428,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42265,7048
-225,1,62429,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42176,7039
-225,13,62430,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42552,7039
-225M,1,62431,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42270,7048
-225M,1,62432,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42251,7048
-225,13,62433,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42548,7039
-225,1,62434,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42106,7039
 225M,1,62435,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42272,7048
-225,13,62436,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42547,7039
-225,1,62437,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42245,7039
-225M,1,62438,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42248,7048
-225,13,62439,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42558,7039
-225M,1,62440,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42170,7048
-225,1,62441,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42241,7039
-225M,13,62442,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42559,7048
-225M,1,62443,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42264,7048
 225M,1,62444,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42256,7048
-225M,13,62445,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42546,7048
 225M,1,62446,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42182,7048
-225M,13,62447,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42553,7048
 225M,1,62448,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42116,7048
-225M,13,62449,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42524,7048
 225M,1,62450,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42269,7048
 225,1,62451,Brahma Lodge to Salisbury Interchange via Frost Rd and Cross Keys Rd,1,42243,3101
 225,1,62452,Brahma Lodge to Salisbury Interchange via Frost Rd and Cross Keys Rd,1,42242,3101
 225,1,62453,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42180,7042
 225,1,62454,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42268,7042
-225,1,62455,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42272,7042
-225,11,62456,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42446,7043
 225,1,62457,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42133,7043
 225,1,62458,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42248,7042
 225,1,62459,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42148,7042
-225,13,62460,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42545,7042
 225,1,62461,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42167,7042
-225,13,62462,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42504,7042
 225,1,62463,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,41459,7043
 225,1,62464,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42241,7042
-225,13,62465,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42510,7042
 225,1,62466,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,41170,7043
 225,1,62467,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42138,7042
-225,13,62468,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42551,7042
 225,1,62469,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42256,7043
 225,1,62470,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42277,7042
-225,13,62471,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42546,7042
 225,1,62472,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,41477,7043
 225,1,62473,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,41177,7042
-225,13,62474,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42550,7042
 225,1,62475,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42105,7043
-225,1,62476,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,41102,7042
-225F,1,62477,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42169,3105
-225,13,62478,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42508,7042
-225F,1,62479,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42260,3105
 225F,1,62480,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42271,3105
-225,13,62481,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42555,7042
 225F,1,62482,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42112,3105
 225F,1,62483,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42274,3105
-225,13,62484,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42545,7042
 225F,1,62485,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42278,3105
-225X,1,62486,City to Salisbury Interchange (Running express between Stop 4 O'Connell Street North Adelaide and Stop 29 Main North Road and Mawson Interchange),1,42139,8136
 225F,1,62487,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42251,3105
-225,13,62488,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42548,7042
 225F,1,62489,City to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange (No set down before Stop 17 Main North Rd),1,42272,3105
 225,1,62490,Blair Athol to Salisbury Interchange via Main North Rd Salisbury Hwy and Mawson Interchange,1,42265,7042
-225,13,62491,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42546,7043
 225,1,62492,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42182,7043
-225,13,62493,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42553,7043
 225,1,62494,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42116,7043
-225,13,62495,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42524,7043
 225,1,62496,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42126,7043
-225,13,62497,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42546,7043
 225,1,62498,Mawson Interchange to Salisbury Interchange via Main North Rd Kesters Rd and Frost Rd,1,42177,7043
 226F,1,62499,Mawson Lakes UniSA to City via Main North Rd (No pick up after Stop 17 Main North Rd),0,41471,7051
 226F,1,62500,Mawson Lakes UniSA to City via Main North Rd (No pick up after Stop 17 Main North Rd),0,42262,7051
@@ -6230,14 +6153,6 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 271,1,65680,City to Tea Tree Plaza via Melbourne St and North East Rd,1,57810,6929
 271,13,65681,City to Tea Tree Plaza via Melbourne St and North East Rd,1,54426,6929
 300H,31,65682,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,,8053
-N206,51,65683,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
-N206,51,65684,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
-N206,51,65685,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
-N206,51,65686,City to Salisbury Centre via Hampstead Rd and Bridge Rd - after midnight service,1,,6639
-N206,51,65687,Salisbury Centre to City via Bridge and Hampstead Rd - after midnight service,0,,6638
-N206,51,65688,Salisbury Centre to City via Bridge and Hampstead Rd - after midnight service,0,,6638
-N206,51,65689,Salisbury Centre to City via Bridge and Hampstead Rd - after midnight service,0,,6638
-N206,51,65690,Salisbury Centre to City via Bridge and Hampstead Rd - after midnight service,0,,6638
 820,1,65691,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,,7815
 820,1,65692,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,,7815
 820,1,65693,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,,7815
@@ -15290,9 +15205,3 @@ N502,51,77068,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77069,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77070,City via Bridge Rd and O-Bahn,0,59999,8352
 N502,51,77071,City via Bridge Rd and O-Bahn,0,59999,8352
-886Z,21,77072,School service - Annesley College to Mt Barker Park N Ride,1,69999,8396
-888S,21,77073,School service - Aldgate to Concordia College,0,69999,8397
-882Z,44,77074,School service - Concordia College to Mt Barker Park N Ride,1,69999,8398
-882Z,43,77075,School service - Concordia College to Mt Barker Park N Ride,1,69999,8398
-882S,21,77076,School service - Mt Barker Park N Ride to Concordia College,0,69999,8399
-883S,21,77077,School service - Aldgate to Mitcham Girls High,0,69999,8400
