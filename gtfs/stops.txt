@@ -1087,6 +1087,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1241,,Stop 46A Arthur St - Western side,,-34.823605, 138.704023,,,,
 1242,,Stop 48 Nelson Rd - Eastern side,,-34.8236625679891, 138.661472336354,,,,
 1243,,Stop 46A Arthur St - Eastern side,,-34.82366, 138.70415,,,,
+1244,,School Bus Stop - Eastern side,,-34.82527, 138.63498,,,,
 1245,,Stop 38C Denning Av - Eastern side,,-34.82388, 138.64715,,,,
 1246,,Stop 48 North East Rd - South East side,,-34.8237998935891, 138.710212126313,,,,
 1247,,Stop 38C Denning Av - Western side,,-34.82384, 138.64684,,,,
