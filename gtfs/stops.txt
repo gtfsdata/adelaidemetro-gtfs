@@ -4921,7 +4921,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5356,,Stop 71 Main Rd - Southern side,,-35.0345528140181, 138.909529277124,,,,
 5357,,Stop 31 Flagstaff Rd - Eastern side,,-35.03551, 138.56363,,,,
 5358,,Stop 40 Davenport Tce - Western side,,-35.0342342937934, 138.533130759619,,,,
-5360,,Stop 70 South Tce - Southern side,,-35.0366659886607, 138.903579377144,,,,
+5360,,Stop 70 South Tce - Southern side,,-35.03755, 138.90176,,,,
 5361,,Stop 39 Morphett Rd - Eastern side,,-35.03542, 138.54235,,,,
 5362,,Stop 40 Davenport Tce - Eastern side,,-35.03401, 138.53332,,,,
 5363,,Stop 42 Brighton Rd - Western side,,-35.036448, 138.524337,,,,

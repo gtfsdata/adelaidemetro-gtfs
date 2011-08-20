@@ -35,5 +35,3 @@ service_id,date,exception_type
 27,20111012,2
 27,20111013,2
 27,20111014,2
-
-
