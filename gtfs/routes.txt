@@ -53,6 +53,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 208B,admet,208B,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=208B&js=1,ffef00,000000
 208N,admet,208N,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=208N&js=1,ffef00,000000
 209F,admet,209F,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=209F&js=1,00aca3,ffffff
+21W,admet,21W,,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=21W&js=1,4b711c,ffffff
 222,admet,222,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=222&js=1,00a261,ffffff
 222R,admet,222R,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=222&js=15,7bc142,ffffff
 224,admet,224,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=224&js=1,f7b2bf,000000
@@ -409,6 +410,7 @@ Outer Harbor,admet,OUTHA,Outer Harbor,,2,http://timetables.adelaidemetro.com.au/
 RZ3,admet,RZ3,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=RZ3&js=1,01AC7A,ffffff
 RZ5,admet,RZ5,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=RZ5&js=1,9396ca,ffffff
 Salisbury,admet,SALIS,Salisbury,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff
+Show Shuttle,admet,,Show Shuttle,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=show+shuttle&js=1,4b711c,ffffff
 T721,admet,T721,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T721&js=1,ad650c,ffffff
 T721X,admet,T721X,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T721X&js=1,ad650c,ffffff
 T722,admet,T722,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T722&js=1,530072,ffffff
@@ -416,6 +418,7 @@ T748,admet,T748,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 T840,admet,T840,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T840&js=1,fec220,000000
 T842,admet,T842,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T842&js=2,827c00,ffffff
 T863,admet,T863,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T863&js=1,1b5257,ffffff
+Tea Tree Plaza Show Service,admet,,Tea Tree Plaza Show Service,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Show+Shuttle&js=1,4b711c,ffffff
 Tonsley,admet,TONS,Tonsley,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
 Tram,admet,Tram,,,0,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Tram&js=1,e91839,ffffff
 W90,admet,W90,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=W90&js=1,862074,ffffff

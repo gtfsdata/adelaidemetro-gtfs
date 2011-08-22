@@ -7192,6 +7192,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100957,,Stop 13 Tutt Ave - Southern side,,-34.971124, 138.618069,,,,
 100986,,School Bus Stop A - Blackwood High,,-35.02617, 138.60487,,,,
 101006,,Stop 39P Hemming St - Western side,,-34.774152, 138.608771,,,,
+101012,,Showground Central Railway Station,,-34.945446, 138.583592,,,,
 101013,,Stop 4 South Road - Eastern side,,-34.945875, 138.571478,,,,
 101014,,Stop 80 South Pacific Bvd - North Eastern side,,-35.172107, 138.480542,,,,
 101015,,Stop 80 South Pacific Bvd - South Western side,,-35.172133, 138.480445,,,,

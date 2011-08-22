@@ -1338,6 +1338,12 @@ Tram,1,59006,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59007,Entertainment Centre to Glenelg via City,1,,7364
 Outer Harbor,1,59366,City to Outer Harbor,1,,7332
 Outer Harbor,1,59367,City to Outer Harbor,1,,7332
+Show Shuttle,203,59686,Show Central to City,0,,7540
+21W,201,59687,City to Showgrounds,1,,7541
+21W,201,59688,Showgrounds to City,0,,7542
+Tea Tree Plaza Show Service,201,59694,Showgrounds to Tea Tree Plaza,1,,7545
+Tea Tree Plaza Show Service,201,59695,Tea Tree Plaza to Showgrounds,0,,7546
+Show Shuttle,203,59696,City to Show Central,1,,7539
 Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 Gawler Central,12,59925,Gawler Central to City,0,,3884
 Gawler Central,12,59926,Gawler Central to City,0,,1158
@@ -8577,60 +8583,60 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 148,1,68803,City to Glen Osmond via Unley Rd and Cross Rd,1,,7632
 148,1,68804,City to Glen Osmond via Unley Rd and Cross Rd,1,51035,7632
 148,1,68805,City to Glen Osmond via Unley Rd and Cross Rd,1,53152,7632
-150,1,68806,Osborne to City via Victoria Rd and Port Rd,0,,8127
-150,1,68807,Osborne to City via Victoria Rd and Port Rd,0,52103,8127
+150,1,68806,Osborne to City via Victoria Rd and Port Rd,0,52003,8128
+150,1,68807,Osborne to City via Victoria Rd and Port Rd,0,52103,8128
 150,11,68808,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,52403,7700
-150,1,68809,Osborne to City via Victoria Rd and Port Rd,0,52109,8127
+150,1,68809,Osborne to City via Victoria Rd and Port Rd,0,52109,8128
 150,1,68810,Largs Bay to City via Port Adelaide,0,52120,6814
 150,1,68811,Osborne to City via Victoria Rd and Port Rd,0,53000,8128
 150,1,68812,Largs Bay to City via Commercial Rd and Port Road,0,52132,7698
-150,13,68813,Osborne to City via Victoria Rd and Port Rd,0,52408,8127
+150,13,68813,Osborne to City via Victoria Rd and Port Rd,0,52408,8128
 150,1,68814,Osborne to City via Victoria Rd and Port Rd,0,52133,8128
 150,1,68815,Largs Bay to City via Commercial Rd and Port Road,0,53005,7698
 150,1,68816,Osborne to City via Victoria Rd and Port Rd,0,51001,8128
 150,1,68817,Largs Bay to City via Commercial Rd and Port Road,0,52003,7698
-150,13,68818,Osborne to City via Victoria Rd and Port Rd,0,53405,8127
+150,13,68818,Osborne to City via Victoria Rd and Port Rd,0,53405,8128
 150,1,68819,Osborne to City via Victoria Rd and Port Rd,0,54008,8128
 150,1,68820,Largs Bay to City via Commercial Rd and Port Road,0,56034,7698
 150,1,68821,Osborne to City via Victoria Rd and Port Rd,0,52144,8128
 150,1,68822,Largs Bay to City via Commercial Rd and Port Road,0,53149,7698
-150,13,68823,Osborne to City via Victoria Rd and Port Rd,0,52422,8127
+150,13,68823,Osborne to City via Victoria Rd and Port Rd,0,52422,8128
 150,1,68824,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,52109,7706
-150,1,68825,Osborne to City via Victoria Rd and Port Rd,0,53131,8127
-150,1,68826,Osborne to City via Victoria Rd and Port Rd,0,55004,8127
-150,13,68827,Osborne to City via Victoria Rd and Port Rd,0,52426,8127
+150,1,68825,Osborne to City via Victoria Rd and Port Rd,0,53131,8128
+150,1,68826,Osborne to City via Victoria Rd and Port Rd,0,55004,8128
+150,13,68827,Osborne to City via Victoria Rd and Port Rd,0,52426,8128
 150,1,68828,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,54006,7706
-150,1,68829,Osborne to City via Victoria Rd and Port Rd,0,52029,8127
-150,1,68830,Osborne to City via Victoria Rd and Port Rd,0,52033,8127
-150,13,68831,Osborne to City via Victoria Rd and Port Rd,0,54413,8127
+150,1,68829,Osborne to City via Victoria Rd and Port Rd,0,52029,8128
+150,1,68830,Osborne to City via Victoria Rd and Port Rd,0,52033,8128
+150,13,68831,Osborne to City via Victoria Rd and Port Rd,0,54413,8128
 150,1,68832,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,52143,7706
-150,1,68833,Osborne to City via Victoria Rd and Port Rd,0,52102,8127
-150,1,68834,Osborne to City via Victoria Rd and Port Rd,0,52042,8127
-150,13,68835,Osborne to City via Victoria Rd and Port Rd,0,52409,8127
+150,1,68833,Osborne to City via Victoria Rd and Port Rd,0,52102,8128
+150,1,68834,Osborne to City via Victoria Rd and Port Rd,0,52042,8128
+150,13,68835,Osborne to City via Victoria Rd and Port Rd,0,52409,8128
 150,1,68836,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,54015,7706
-150,1,68837,Osborne to City via Victoria Rd and Port Rd,0,52045,8127
-150,1,68838,Osborne to City via Victoria Rd and Port Rd,0,55011,8127
-150,13,68839,Osborne to City via Victoria Rd and Port Rd,0,52431,8127
+150,1,68837,Osborne to City via Victoria Rd and Port Rd,0,52045,8128
+150,1,68838,Osborne to City via Victoria Rd and Port Rd,0,55011,8128
+150,13,68839,Osborne to City via Victoria Rd and Port Rd,0,52431,8128
 150,1,68840,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,52029,7706
-150,1,68841,Osborne to City via Victoria Rd and Port Rd,0,56047,8127
-150,1,68842,Osborne to City via Victoria Rd and Port Rd,0,52037,8127
-150,13,68843,Osborne to City via Victoria Rd and Port Rd,0,52416,8127
+150,1,68841,Osborne to City via Victoria Rd and Port Rd,0,56047,8128
+150,1,68842,Osborne to City via Victoria Rd and Port Rd,0,52037,8128
+150,13,68843,Osborne to City via Victoria Rd and Port Rd,0,52416,8128
 150,1,68844,Largs Bay to Port Adelaide Interchange via Fletcher Rd,0,52102,7706
-150,1,68845,Osborne to City via Victoria Rd and Port Rd,0,52106,8127
-150,1,68846,Osborne to City via Victoria Rd and Port Rd,0,52113,8127
-150,13,68847,Osborne to City via Victoria Rd and Port Rd,0,52423,8127
+150,1,68845,Osborne to City via Victoria Rd and Port Rd,0,52106,8128
+150,1,68846,Osborne to City via Victoria Rd and Port Rd,0,52113,8128
+150,13,68847,Osborne to City via Victoria Rd and Port Rd,0,52423,8128
 150,1,68848,Osborne to City via Victoria Rd and Port Rd,0,54022,7702
 150,1,68849,Osborne to City via Victoria Rd and Port Rd,0,51115,7702
 150,1,68850,Osborne to City via Victoria Rd and Port Rd,0,53122,7702
-150,13,68851,Osborne to City via Victoria Rd and Port Rd,0,52438,8127
+150,13,68851,Osborne to City via Victoria Rd and Port Rd,0,52438,8128
 150,1,68852,Osborne to City via Victoria Rd and Port Rd,0,51127,7702
 150,1,68853,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,52030,7700
-150,1,68854,Osborne to City via Victoria Rd and Port Rd,0,53121,8127
+150,1,68854,Osborne to City via Victoria Rd and Port Rd,0,53121,8128
 150,1,68855,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,53144,7700
-150,13,68856,Osborne to City via Victoria Rd and Port Rd,0,52440,8127
-150,1,68857,Osborne to City via Victoria Rd and Port Rd,0,53151,8127
-150,1,68858,Osborne to City via Victoria Rd and Port Rd,0,52039,8127
-150,13,68859,Osborne to City via Victoria Rd and Port Rd,0,52428,8127
+150,13,68856,Osborne to City via Victoria Rd and Port Rd,0,52440,8128
+150,1,68857,Osborne to City via Victoria Rd and Port Rd,0,53151,8128
+150,1,68858,Osborne to City via Victoria Rd and Port Rd,0,52039,8128
+150,13,68859,Osborne to City via Victoria Rd and Port Rd,0,52428,8128
 150,1,68860,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,56077,7700
 150,13,68861,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,52436,7700
 150,1,68862,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,53022,7700
@@ -15205,3 +15211,7 @@ N502,51,77068,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77069,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77070,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77071,City via Bridge Rd and O-Bahn,0,,8352
+Tea Tree Plaza Show Service,202,77090,Tea Tree Plaza to Showgrounds,0,59999,7546
+Tea Tree Plaza Show Service,202,77091,Showgrounds to Tea Tree Plaza,1,59999,7545
+21W,202,77092,Showgrounds to City,0,59999,7542
+21W,202,77093,City to Showgrounds,1,59999,7541
