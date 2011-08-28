@@ -732,8 +732,8 @@ Outer Harbor,13,41052,Outer Harbor to City,0,,1232
 Outer Harbor,13,41053,Outer Harbor to City,0,,1232
 Outer Harbor,13,41054,Outer Harbor to City,0,,1232
 Outer Harbor,13,41055,Outer Harbor to City,0,,1232
-Gawler Central,11,41056,Gawler Central to City,0,,3884
-Gawler Central,12,41057,Gawler Central to City,0,,3884
+Gawler Central,611,41056,Gawler Central to City,0,,3884
+Gawler Central,613,41057,Gawler Central to City,0,,3884
 Outer Harbor,13,41058,Outer Harbor to City,0,,1232
 Outer Harbor,13,41059,Outer Harbor to City,0,,1232
 Outer Harbor,13,41060,Outer Harbor to City,0,,1232
@@ -1338,258 +1338,258 @@ Tram,1,59006,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59007,Entertainment Centre to Glenelg via City,1,,7364
 Outer Harbor,1,59366,City to Outer Harbor,1,,7332
 Outer Harbor,1,59367,City to Outer Harbor,1,,7332
-Show Shuttle,203,59686,Show Central to City,0,,7540
+Show Shuttle,203,59686,Show Central to City,1,,7540
 21W,201,59687,City to Showgrounds,1,,7541
 21W,201,59688,Showgrounds to City,0,,7542
 Tea Tree Plaza Show Service,201,59694,Showgrounds to Tea Tree Plaza,1,,7545
 Tea Tree Plaza Show Service,201,59695,Tea Tree Plaza to Showgrounds,0,,7546
 Show Shuttle,203,59696,City to Show Central,1,,7539
 Outer Harbor,13,59924,Outer Harbor to City,0,,1801
-Gawler Central,12,59925,Gawler Central to City,0,,3884
-Gawler Central,12,59926,Gawler Central to City,0,,1158
-Gawler Central,12,59927,Gawler Central to City,0,,3884
-Gawler Central,12,59928,Gawler Central to City,0,,1158
-Gawler Central,12,59929,Gawler Central to City,0,,3884
-Gawler Central,12,59930,Gawler Central to City,0,,1158
-Gawler Central,12,59931,Gawler Central to City,0,,3884
-Gawler Central,12,59932,Gawler Central to City,0,,1158
-Gawler Central,12,59933,Gawler Central to City,0,,3884
-Gawler Central,12,59934,Gawler Central to City,0,,1158
-Gawler Central,12,59935,Gawler Central to City,0,,3884
-Gawler Central,12,59936,Gawler Central to City,0,,1158
-Gawler Central,12,59937,Gawler Central to City,0,,3884
-Gawler Central,12,59938,Gawler Central to City,0,,1158
-Gawler Central,12,59939,Gawler Central to City,0,,3884
-Gawler Central,12,59940,Gawler Central to City,0,,1158
-Gawler Central,12,59941,Gawler Central to City,0,,3884
-Gawler Central,12,59942,Gawler Central to City,0,,1158
-Gawler Central,12,59943,Gawler Central to City,0,,3884
-Gawler Central,12,59944,Gawler Central to City,0,,1158
-Gawler Central,12,59945,Gawler Central to City,0,,3884
-Gawler Central,12,59946,Gawler Central to City,0,,1158
-Gawler Central,12,59947,Gawler Central to City,0,,3884
-Gawler Central,12,59948,Gawler Central to City,0,,1158
-Gawler Central,12,59949,Gawler Central to City,0,,3884
-Gawler Central,12,59950,Gawler Central to City,0,,3884
-Gawler Central,12,59951,Gawler Central to City,0,,3884
-Gawler Central,12,59952,Gawler Central to City,0,,3884
-Gawler Central,11,59953,Gawler Central to City,0,,3884
-Gawler Central,11,59954,Gawler Central to City,0,,3884
-Gawler Central,11,59955,Gawler Central to City,0,,1158
-Gawler Central,11,59956,Gawler Central to City,0,,3884
-Gawler Central,11,59957,Gawler Central to City,0,,1158
-Gawler Central,11,59958,Gawler Central to City,0,,3884
-Gawler Central,11,59959,Gawler Central to City,0,,1158
-Gawler Central,11,59960,Gawler Central to City,0,,3884
-Gawler Central,11,59961,Gawler Central to City,0,,1158
-Gawler Central,11,59962,Gawler Central to City,0,,3884
-Gawler Central,11,59963,Gawler Central to City,0,,1158
-Gawler Central,11,59964,Gawler Central to City,0,,3884
-Gawler Central,11,59965,Gawler Central to City,0,,1158
-Gawler Central,11,59966,Gawler Central to City,0,,3884
-Gawler Central,11,59967,Gawler Central to City,0,,1158
-Gawler Central,11,59968,Gawler Central to City,0,,3884
-Gawler Central,11,59969,Gawler Central to City,0,,1158
-Gawler Central,11,59970,Gawler Central to City,0,,3884
-Gawler Central,11,59971,Gawler Central to City,0,,1158
-Gawler Central,11,59972,Gawler Central to City,0,,3884
-Gawler Central,11,59973,Gawler Central to City,0,,1158
-Gawler Central,11,59974,Gawler Central to City,0,,3884
-Gawler Central,11,59975,Gawler Central to City,0,,1158
-Gawler Central,11,59976,Gawler Central to City,0,,3884
-Gawler Central,11,59977,Gawler Central to City,0,,1158
-Gawler Central,11,59978,Gawler Central to City,0,,3884
-Gawler Central,11,59979,Gawler Central to City,0,,3884
-Gawler Central,11,59980,Gawler Central to City,0,,3884
-Gawler Central,11,59981,Gawler Central to City,0,,3884
-Gawler Central,1,59982,Gawler Central to City,0,,3883
-Gawler Central,1,59983,Gawler Central to City,0,,3883
-Gawler Central,1,59984,Gawler Central to City,0,,3883
-Gawler Central,1,59985,Gawler Central to City,0,,3883
-Gawler Central,1,59986,Gawler Central to City,0,,6493
-Gawler,1,59987,Gawler to City,0,,6483
-Gawler Central,1,59988,Gawler Central to City,0,,6494
-Gawler,1,59989,Gawler to City,0,,6484
-Gawler Central,1,59990,Gawler Central to City,0,,6494
-Gawler,1,59991,Gawler to City,0,,6483
-Gawler Central,1,59992,Gawler Central to City,0,,6494
-Gawler,1,59993,Gawler to City,0,,6484
-Gawler,1,59994,Gawler to City,0,,6485
-Gawler Central,1,59995,Gawler Central to City,0,,6493
-Gawler,1,59996,Gawler to City,0,,6486
-Gawler Central,1,59997,Gawler Central to City,0,,6493
-Gawler,1,59998,Gawler to City,0,,6485
-Gawler Central,1,59999,Gawler Central to City,0,,6493
-Gawler,1,60000,Gawler to City,0,,6485
-Gawler Central,1,60001,Gawler Central to City,0,,6493
-Gawler,1,60002,Gawler to City,0,,6485
-Gawler Central,1,60003,Gawler Central to City,0,,6493
-Gawler,1,60004,Gawler to City,0,,6485
-Gawler Central,1,60005,Gawler Central to City,0,,6493
-Gawler,1,60006,Gawler to City,0,,6485
-Gawler Central,1,60007,Gawler Central to City,0,,6493
-Gawler,1,60008,Gawler to City,0,,6485
-Gawler Central,1,60009,Gawler Central to City,0,,6493
-Gawler,1,60010,Gawler to City,0,,6485
-Gawler Central,1,60011,Gawler Central to City,0,,6493
-Gawler,1,60012,Gawler to City,0,,6485
-Gawler Central,1,60013,Gawler Central to City,0,,6493
-Gawler,1,60014,Gawler to City,0,,6485
-Gawler Central,1,60015,Gawler Central to City,0,,6493
-Gawler,1,60016,Gawler to City,0,,6483
-Gawler Central,1,60017,Gawler Central to City,0,,6493
-Gawler,1,60018,Gawler to City,0,,6485
-Gawler Central,1,60019,Gawler Central to City,0,,6493
-Gawler,1,60020,Gawler to City,0,,6483
-Gawler Central,1,60021,Gawler Central to City,0,,6493
-Gawler,1,60022,Gawler to City,0,,6483
-Gawler,1,60024,Gawler to City,0,,6486
-Gawler Central,1,60025,Gawler Central to City,0,,6493
-Gawler,1,60026,Gawler to City,0,,6483
-Gawler Central,1,60027,Gawler Central to City,0,,1160
-Gawler,1,60028,Gawler to City,0,,6483
-Gawler Central,1,60029,Gawler Central to City,0,,1160
-Gawler,1,60030,Gawler to City,0,,6483
-Gawler Central,1,60031,Gawler Central to City,0,,6493
-Gawler,1,60032,Gawler to City,0,,6483
-Gawler Central,1,60033,Gawler Central to City,0,,6493
-Gawler Central,1,60034,Gawler Central to City,0,,6495
-Gawler,1,60035,Gawler to City,0,,6483
-Gawler Central,1,60037,Gawler Central to City,0,,3884
-Gawler Central,1,60038,Gawler Central to City,0,,3884
-Gawler Central,1,60039,Gawler Central to City,0,,3884
-Gawler Central,1,60040,Gawler Central to City,0,,3884
-Gawler Central,12,60041,City to Gawler Central,1,,3886
-Gawler Central,12,60042,City to Gawler Central,1,,3886
-Gawler Central,12,60043,City to Gawler Central,1,,1165
-Gawler Central,12,60044,City to Gawler Central,1,,3886
-Gawler Central,12,60045,City to Gawler Central,1,,1165
-Gawler Central,12,60046,City to Gawler Central,1,,3886
-Gawler Central,12,60047,City to Gawler Central,1,,1165
-Gawler Central,12,60048,City to Gawler Central,1,,3886
-Gawler Central,12,60049,City to Gawler Central,1,,1165
-Gawler Central,12,60050,City to Gawler Central,1,,3886
-Gawler Central,12,60051,City to Gawler Central,1,,1165
-Gawler Central,12,60052,City to Gawler Central,1,,3886
-Gawler Central,12,60053,City to Gawler Central,1,,1165
-Gawler Central,12,60054,City to Gawler Central,1,,3886
-Gawler Central,12,60055,City to Gawler Central,1,,1165
-Gawler Central,12,60056,City to Gawler Central,1,,3886
-Gawler Central,12,60057,City to Gawler Central,1,,1165
-Gawler Central,12,60058,City to Gawler Central,1,,3886
-Gawler Central,12,60059,City to Gawler Central,1,,1165
-Gawler Central,12,60060,City to Gawler Central,1,,3886
-Gawler Central,12,60061,City to Gawler Central,1,,1165
-Gawler Central,12,60062,City to Gawler Central,1,,3886
-Gawler Central,12,60063,City to Gawler Central,1,,1165
-Gawler Central,12,60064,City to Gawler Central,1,,3886
-Gawler Central,12,60065,City to Gawler Central,1,,3886
-Gawler Central,12,60066,City to Gawler Central,1,,3886
-Gawler Central,12,60067,City to Gawler Central,1,,3886
-Gawler Central,12,60068,City to Gawler Central,1,,3886
-Gawler Central,12,60069,City to Gawler Central,1,,3886
-Gawler Central,11,60070,City to Gawler Central,1,,3886
-Gawler Central,11,60071,City to Gawler Central,1,,1165
-Gawler Central,11,60072,City to Gawler Central,1,,3886
-Gawler Central,11,60073,City to Gawler Central,1,,1165
-Gawler Central,11,60074,City to Gawler Central,1,,3886
-Gawler Central,11,60075,City to Gawler Central,1,,1165
-Gawler Central,11,60076,City to Gawler Central,1,,3886
-Gawler Central,11,60077,City to Gawler Central,1,,1165
-Gawler Central,11,60078,City to Gawler Central,1,,3886
-Gawler Central,11,60079,City to Gawler Central,1,,1165
-Gawler Central,11,60080,City to Gawler Central,1,,3886
-Gawler Central,11,60081,City to Gawler Central,1,,1165
-Gawler Central,11,60082,City to Gawler Central,1,,3886
-Gawler Central,11,60083,City to Gawler Central,1,,1165
-Gawler Central,11,60084,City to Gawler Central,1,,3886
-Gawler Central,11,60085,City to Gawler Central,1,,1165
-Gawler Central,11,60086,City to Gawler Central,1,,3886
-Gawler Central,11,60087,City to Gawler Central,1,,1165
-Gawler Central,11,60088,City to Gawler Central,1,,3886
-Gawler Central,11,60089,City to Gawler Central,1,,1165
-Gawler Central,11,60090,City to Gawler Central,1,,3886
-Gawler Central,11,60091,City to Gawler Central,1,,1165
-Gawler Central,11,60092,City to Gawler Central,1,,3886
-Gawler Central,11,60093,City to Gawler Central,1,,1165
-Gawler Central,11,60094,City to Gawler Central,1,,3886
-Gawler Central,11,60095,City to Gawler Central,1,,3886
-Gawler Central,11,60096,City to Gawler Central,1,,3886
-Gawler Central,11,60097,City to Gawler Central,1,,3886
-Gawler Central,11,60098,City to Gawler Central,1,,3886
-Gawler Central,11,60099,City to Gawler Central,1,,3886
-Gawler,1,60100,City to Gawler,1,,3882
-Gawler Central,1,60101,City to Gawler Central,1,,6496
-Gawler,1,60102,City to Gawler,1,,3882
-Gawler Central,1,60103,City to Gawler Central,1,,6496
-Gawler,1,60104,City to Gawler,1,,6488
-Gawler Central,1,60105,City to Gawler Central,1,,6497
-Gawler,1,60106,City to Gawler,1,,6488
-Gawler Central,1,60107,City to Gawler Central,1,,6497
-Gawler,1,60108,City to Gawler,1,,6489
-Gawler Central,1,60109,City to Gawler Central,1,,6497
-Gawler,1,60110,City to Gawler,1,,6488
-Gawler Central,1,60111,City to Gawler Central,1,,6497
-Gawler,1,60112,City to Gawler,1,,6488
-Gawler Central,1,60113,City to Gawler Central,1,,6498
-Gawler,1,60114,City to Gawler,1,,6490
-Gawler Central,1,60115,City to Gawler Central,1,,6498
-Gawler,1,60116,City to Gawler,1,,6490
-Gawler Central,1,60117,City to Gawler Central,1,,6498
-Gawler,1,60118,City to Gawler,1,,6490
-Gawler Central,1,60119,City to Gawler Central,1,,6498
-Gawler,1,60120,City to Gawler,1,,6490
-Gawler Central,1,60121,City to Gawler Central,1,,6498
-Gawler,1,60122,City to Gawler,1,,6490
-Gawler Central,1,60123,City to Gawler Central,1,,6498
-Gawler,1,60124,City to Gawler,1,,6490
-Gawler Central,1,60125,City to Gawler Central,1,,6498
-Gawler,1,60126,City to Gawler,1,,6490
-Gawler Central,1,60127,City to Gawler Central,1,,6498
-Gawler,1,60128,City to Gawler,1,,6490
-Gawler Central,1,60129,City to Gawler Central,1,,6498
-Gawler,1,60130,City to Gawler,1,,6490
-Gawler Central,1,60131,City to Gawler Central,1,,6499
-Gawler,1,60132,City to Gawler,1,,6490
-Gawler Central,1,60133,City to Gawler Central,1,,6498
-Gawler,1,60134,City to Gawler,1,,6490
-Gawler Central,1,60135,City to Gawler Central,1,,6498
-Gawler,1,60136,City to Gawler,1,,6491
-Gawler Central,1,60137,City to Gawler Central,1,,6498
-Gawler,1,60138,City to Gawler,1,,6488
-Gawler Central,1,60139,City to Gawler Central,1,,6498
-Gawler,1,60140,City to Gawler,1,,6488
-Gawler Central,1,60141,City to Gawler Central,1,,6498
-Gawler,1,60142,City to Gawler,1,,6488
-Gawler Central,1,60143,City to Gawler Central,1,,6498
-Gawler,1,60144,City to Gawler,1,,6488
-Gawler Central,1,60145,City to Gawler Central,1,,6500
-Gawler,1,60146,City to Gawler,1,,6492
-Gawler Central,1,60147,City to Gawler Central,1,,6500
-Gawler,1,60148,City to Gawler,1,,6488
-Gawler Central,1,60149,City to Gawler Central,1,,6500
-Gawler,1,60150,City to Gawler,1,,6492
-Gawler Central,1,60151,City to Gawler Central,1,,6501
-Gawler Central,1,60152,City to Gawler Central,1,,6498
-Gawler,1,60153,City to Gawler,1,,6488
-Gawler Central,1,60154,City to Gawler Central,1,,6498
-Gawler Central,1,60155,City to Gawler Central,1,,3886
-Gawler Central,1,60156,City to Gawler Central,1,,3886
-Gawler Central,1,60157,City to Gawler Central,1,,3886
-Gawler Central,1,60158,City to Gawler Central,1,,3886
-Salisbury,1,60160,Adelaide to Salisbury Express,1,,1244
-Salisbury,1,60161,Salisbury to Adelaide,0,,3817
-Gawler Central,11,60162,Gawler Central to City,0,,3884
-Gawler Central,12,60163,Gawler Central to City,0,,3884
-Gawler Central,1,60164,Gawler Central to City,0,,3884
-Gawler Central,1,60165,Gawler Central to City,0,,3884
-Gawler Central,1,60166,Gawler Central to City,0,,3884
-Gawler Central,1,60167,City to Gawler Central,1,,3886
-Gawler Central,1,60168,City to Gawler Central,1,,3886
-Gawler Central,1,60169,City to Gawler Central,1,,3886
-Gawler Central,5,60173,City to Gawler Central,1,,3886
-Gawler Central,5,60174,Gawler Central to City,0,,3884
-Gawler Central,1,60175,Gawler Central to City,0,,7590
+Gawler Central,613,59925,Gawler Central to City,0,,3884
+Gawler Central,613,59926,Gawler Central to City,0,,1158
+Gawler Central,613,59927,Gawler Central to City,0,,3884
+Gawler Central,613,59928,Gawler Central to City,0,,1158
+Gawler Central,613,59929,Gawler Central to City,0,,3884
+Gawler Central,613,59930,Gawler Central to City,0,,1158
+Gawler Central,613,59931,Gawler Central to City,0,,3884
+Gawler Central,613,59932,Gawler Central to City,0,,1158
+Gawler Central,613,59933,Gawler Central to City,0,,3884
+Gawler Central,613,59934,Gawler Central to City,0,,1158
+Gawler Central,613,59935,Gawler Central to City,0,,3884
+Gawler Central,613,59936,Gawler Central to City,0,,1158
+Gawler Central,613,59937,Gawler Central to City,0,,3884
+Gawler Central,613,59938,Gawler Central to City,0,,1158
+Gawler Central,613,59939,Gawler Central to City,0,,3884
+Gawler Central,613,59940,Gawler Central to City,0,,1158
+Gawler Central,613,59941,Gawler Central to City,0,,3884
+Gawler Central,613,59942,Gawler Central to City,0,,1158
+Gawler Central,613,59943,Gawler Central to City,0,,3884
+Gawler Central,613,59944,Gawler Central to City,0,,1158
+Gawler Central,613,59945,Gawler Central to City,0,,3884
+Gawler Central,613,59946,Gawler Central to City,0,,1158
+Gawler Central,613,59947,Gawler Central to City,0,,3884
+Gawler Central,613,59948,Gawler Central to City,0,,1158
+Gawler Central,613,59949,Gawler Central to City,0,,3884
+Gawler Central,613,59950,Gawler Central to City,0,,3884
+Gawler Central,613,59951,Gawler Central to City,0,,3884
+Gawler Central,613,59952,Gawler Central to City,0,,3884
+Gawler Central,611,59953,Gawler Central to City,0,,3884
+Gawler Central,611,59954,Gawler Central to City,0,,3884
+Gawler Central,611,59955,Gawler Central to City,0,,1158
+Gawler Central,611,59956,Gawler Central to City,0,,3884
+Gawler Central,611,59957,Gawler Central to City,0,,1158
+Gawler Central,611,59958,Gawler Central to City,0,,3884
+Gawler Central,611,59959,Gawler Central to City,0,,1158
+Gawler Central,611,59960,Gawler Central to City,0,,3884
+Gawler Central,611,59961,Gawler Central to City,0,,1158
+Gawler Central,611,59962,Gawler Central to City,0,,3884
+Gawler Central,611,59963,Gawler Central to City,0,,1158
+Gawler Central,611,59964,Gawler Central to City,0,,3884
+Gawler Central,611,59965,Gawler Central to City,0,,1158
+Gawler Central,611,59966,Gawler Central to City,0,,3884
+Gawler Central,611,59967,Gawler Central to City,0,,1158
+Gawler Central,611,59968,Gawler Central to City,0,,3884
+Gawler Central,611,59969,Gawler Central to City,0,,1158
+Gawler Central,611,59970,Gawler Central to City,0,,3884
+Gawler Central,611,59971,Gawler Central to City,0,,1158
+Gawler Central,611,59972,Gawler Central to City,0,,3884
+Gawler Central,611,59973,Gawler Central to City,0,,1158
+Gawler Central,611,59974,Gawler Central to City,0,,3884
+Gawler Central,611,59975,Gawler Central to City,0,,1158
+Gawler Central,611,59976,Gawler Central to City,0,,3884
+Gawler Central,611,59977,Gawler Central to City,0,,1158
+Gawler Central,611,59978,Gawler Central to City,0,,3884
+Gawler Central,611,59979,Gawler Central to City,0,,3884
+Gawler Central,611,59980,Gawler Central to City,0,,3884
+Gawler Central,611,59981,Gawler Central to City,0,,3884
+Gawler Central,601,59982,Gawler Central to City,0,,3883
+Gawler Central,601,59983,Gawler Central to City,0,,3883
+Gawler Central,601,59984,Gawler Central to City,0,,3883
+Gawler Central,601,59985,Gawler Central to City,0,,3883
+Gawler Central,601,59986,Gawler Central to City,0,,6493
+Gawler,601,59987,Gawler to City,0,,6483
+Gawler Central,601,59988,Gawler Central to City,0,,6494
+Gawler,601,59989,Gawler to City,0,,6484
+Gawler Central,601,59990,Gawler Central to City,0,,6494
+Gawler,601,59991,Gawler to City,0,,6483
+Gawler Central,601,59992,Gawler Central to City,0,,6494
+Gawler,601,59993,Gawler to City,0,,6484
+Gawler,601,59994,Gawler to City,0,,6485
+Gawler Central,601,59995,Gawler Central to City,0,,6493
+Gawler,601,59996,Gawler to City,0,,6486
+Gawler Central,601,59997,Gawler Central to City,0,,6493
+Gawler,601,59998,Gawler to City,0,,6485
+Gawler Central,601,59999,Gawler Central to City,0,,6493
+Gawler,601,60000,Gawler to City,0,,6485
+Gawler Central,601,60001,Gawler Central to City,0,,6493
+Gawler,601,60002,Gawler to City,0,,6485
+Gawler Central,601,60003,Gawler Central to City,0,,6493
+Gawler,601,60004,Gawler to City,0,,6485
+Gawler Central,601,60005,Gawler Central to City,0,,6493
+Gawler,601,60006,Gawler to City,0,,6485
+Gawler Central,601,60007,Gawler Central to City,0,,6493
+Gawler,601,60008,Gawler to City,0,,6485
+Gawler Central,601,60009,Gawler Central to City,0,,6493
+Gawler,601,60010,Gawler to City,0,,6485
+Gawler Central,601,60011,Gawler Central to City,0,,6493
+Gawler,601,60012,Gawler to City,0,,6485
+Gawler Central,601,60013,Gawler Central to City,0,,6493
+Gawler,601,60014,Gawler to City,0,,6485
+Gawler Central,601,60015,Gawler Central to City,0,,6493
+Gawler,601,60016,Gawler to City,0,,6483
+Gawler Central,601,60017,Gawler Central to City,0,,6493
+Gawler,601,60018,Gawler to City,0,,6485
+Gawler Central,601,60019,Gawler Central to City,0,,6493
+Gawler,601,60020,Gawler to City,0,,6483
+Gawler Central,601,60021,Gawler Central to City,0,,6493
+Gawler,601,60022,Gawler to City,0,,6483
+Gawler,601,60024,Gawler to City,0,,6486
+Gawler Central,601,60025,Gawler Central to City,0,,6493
+Gawler,601,60026,Gawler to City,0,,6483
+Gawler Central,601,60027,Gawler Central to City,0,,1160
+Gawler,601,60028,Gawler to City,0,,6483
+Gawler Central,601,60029,Gawler Central to City,0,,1160
+Gawler,601,60030,Gawler to City,0,,6483
+Gawler Central,601,60031,Gawler Central to City,0,,6493
+Gawler,601,60032,Gawler to City,0,,6483
+Gawler Central,601,60033,Gawler Central to City,0,,6493
+Gawler Central,601,60034,Gawler Central to City,0,,6495
+Gawler,601,60035,Gawler to City,0,,6483
+Gawler Central,601,60037,Gawler Central to City,0,,3884
+Gawler Central,601,60038,Gawler Central to City,0,,3884
+Gawler Central,601,60039,Gawler Central to City,0,,3884
+Gawler Central,601,60040,Gawler Central to City,0,,3884
+Gawler Central,613,60041,City to Gawler Central,1,,3886
+Gawler Central,613,60042,City to Gawler Central,1,,3886
+Gawler Central,613,60043,City to Gawler Central,1,,1165
+Gawler Central,613,60044,City to Gawler Central,1,,3886
+Gawler Central,613,60045,City to Gawler Central,1,,1165
+Gawler Central,613,60046,City to Gawler Central,1,,3886
+Gawler Central,613,60047,City to Gawler Central,1,,1165
+Gawler Central,613,60048,City to Gawler Central,1,,3886
+Gawler Central,613,60049,City to Gawler Central,1,,1165
+Gawler Central,613,60050,City to Gawler Central,1,,3886
+Gawler Central,613,60051,City to Gawler Central,1,,1165
+Gawler Central,613,60052,City to Gawler Central,1,,3886
+Gawler Central,613,60053,City to Gawler Central,1,,1165
+Gawler Central,613,60054,City to Gawler Central,1,,3886
+Gawler Central,613,60055,City to Gawler Central,1,,1165
+Gawler Central,613,60056,City to Gawler Central,1,,3886
+Gawler Central,613,60057,City to Gawler Central,1,,1165
+Gawler Central,613,60058,City to Gawler Central,1,,3886
+Gawler Central,613,60059,City to Gawler Central,1,,1165
+Gawler Central,613,60060,City to Gawler Central,1,,3886
+Gawler Central,613,60061,City to Gawler Central,1,,1165
+Gawler Central,613,60062,City to Gawler Central,1,,3886
+Gawler Central,613,60063,City to Gawler Central,1,,1165
+Gawler Central,613,60064,City to Gawler Central,1,,3886
+Gawler Central,613,60065,City to Gawler Central,1,,3886
+Gawler Central,613,60066,City to Gawler Central,1,,3886
+Gawler Central,613,60067,City to Gawler Central,1,,3886
+Gawler Central,613,60068,City to Gawler Central,1,,3886
+Gawler Central,613,60069,City to Gawler Central,1,,3886
+Gawler Central,611,60070,City to Gawler Central,1,,3886
+Gawler Central,611,60071,City to Gawler Central,1,,1165
+Gawler Central,611,60072,City to Gawler Central,1,,3886
+Gawler Central,611,60073,City to Gawler Central,1,,1165
+Gawler Central,611,60074,City to Gawler Central,1,,3886
+Gawler Central,611,60075,City to Gawler Central,1,,1165
+Gawler Central,611,60076,City to Gawler Central,1,,3886
+Gawler Central,611,60077,City to Gawler Central,1,,1165
+Gawler Central,611,60078,City to Gawler Central,1,,3886
+Gawler Central,611,60079,City to Gawler Central,1,,1165
+Gawler Central,611,60080,City to Gawler Central,1,,3886
+Gawler Central,611,60081,City to Gawler Central,1,,1165
+Gawler Central,611,60082,City to Gawler Central,1,,3886
+Gawler Central,611,60083,City to Gawler Central,1,,1165
+Gawler Central,611,60084,City to Gawler Central,1,,3886
+Gawler Central,611,60085,City to Gawler Central,1,,1165
+Gawler Central,611,60086,City to Gawler Central,1,,3886
+Gawler Central,611,60087,City to Gawler Central,1,,1165
+Gawler Central,611,60088,City to Gawler Central,1,,3886
+Gawler Central,611,60089,City to Gawler Central,1,,1165
+Gawler Central,611,60090,City to Gawler Central,1,,3886
+Gawler Central,611,60091,City to Gawler Central,1,,1165
+Gawler Central,611,60092,City to Gawler Central,1,,3886
+Gawler Central,611,60093,City to Gawler Central,1,,1165
+Gawler Central,611,60094,City to Gawler Central,1,,3886
+Gawler Central,611,60095,City to Gawler Central,1,,3886
+Gawler Central,611,60096,City to Gawler Central,1,,3886
+Gawler Central,611,60097,City to Gawler Central,1,,3886
+Gawler Central,611,60098,City to Gawler Central,1,,3886
+Gawler Central,611,60099,City to Gawler Central,1,,3886
+Gawler,601,60100,City to Gawler,1,,3882
+Gawler Central,601,60101,City to Gawler Central,1,,6496
+Gawler,601,60102,City to Gawler,1,,3882
+Gawler Central,601,60103,City to Gawler Central,1,,6496
+Gawler,601,60104,City to Gawler,1,,6488
+Gawler Central,601,60105,City to Gawler Central,1,,6497
+Gawler,601,60106,City to Gawler,1,,6488
+Gawler Central,601,60107,City to Gawler Central,1,,6497
+Gawler,601,60108,City to Gawler,1,,6489
+Gawler Central,601,60109,City to Gawler Central,1,,6497
+Gawler,601,60110,City to Gawler,1,,6488
+Gawler Central,601,60111,City to Gawler Central,1,,6497
+Gawler,601,60112,City to Gawler,1,,6488
+Gawler Central,601,60113,City to Gawler Central,1,,6498
+Gawler,601,60114,City to Gawler,1,,6490
+Gawler Central,601,60115,City to Gawler Central,1,,6498
+Gawler,601,60116,City to Gawler,1,,6490
+Gawler Central,601,60117,City to Gawler Central,1,,6498
+Gawler,601,60118,City to Gawler,1,,6490
+Gawler Central,601,60119,City to Gawler Central,1,,6498
+Gawler,601,60120,City to Gawler,1,,6490
+Gawler Central,601,60121,City to Gawler Central,1,,6498
+Gawler,601,60122,City to Gawler,1,,6490
+Gawler Central,601,60123,City to Gawler Central,1,,6498
+Gawler,601,60124,City to Gawler,1,,6490
+Gawler Central,601,60125,City to Gawler Central,1,,6498
+Gawler,601,60126,City to Gawler,1,,6490
+Gawler Central,601,60127,City to Gawler Central,1,,6498
+Gawler,601,60128,City to Gawler,1,,6490
+Gawler Central,601,60129,City to Gawler Central,1,,6498
+Gawler,601,60130,City to Gawler,1,,6490
+Gawler Central,601,60131,City to Gawler Central,1,,6499
+Gawler,601,60132,City to Gawler,1,,6490
+Gawler Central,601,60133,City to Gawler Central,1,,6498
+Gawler,601,60134,City to Gawler,1,,6490
+Gawler Central,601,60135,City to Gawler Central,1,,6498
+Gawler,601,60136,City to Gawler,1,,6491
+Gawler Central,601,60137,City to Gawler Central,1,,6498
+Gawler,601,60138,City to Gawler,1,,6488
+Gawler Central,601,60139,City to Gawler Central,1,,6498
+Gawler,601,60140,City to Gawler,1,,6488
+Gawler Central,601,60141,City to Gawler Central,1,,6498
+Gawler,601,60142,City to Gawler,1,,6488
+Gawler Central,601,60143,City to Gawler Central,1,,6498
+Gawler,601,60144,City to Gawler,1,,6488
+Gawler Central,601,60145,City to Gawler Central,1,,6500
+Gawler,601,60146,City to Gawler,1,,6492
+Gawler Central,601,60147,City to Gawler Central,1,,6500
+Gawler,601,60148,City to Gawler,1,,6488
+Gawler Central,601,60149,City to Gawler Central,1,,6500
+Gawler,601,60150,City to Gawler,1,,6492
+Gawler Central,601,60151,City to Gawler Central,1,,6501
+Gawler Central,601,60152,City to Gawler Central,1,,6498
+Gawler,601,60153,City to Gawler,1,,6488
+Gawler Central,601,60154,City to Gawler Central,1,,6498
+Gawler Central,601,60155,City to Gawler Central,1,,3886
+Gawler Central,601,60156,City to Gawler Central,1,,3886
+Gawler Central,601,60157,City to Gawler Central,1,,3886
+Gawler Central,601,60158,City to Gawler Central,1,,3886
+Salisbury,601,60160,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,60161,Salisbury to Adelaide,0,,3817
+Gawler Central,611,60162,Gawler Central to City,0,,3884
+Gawler Central,613,60163,Gawler Central to City,0,,3884
+Gawler Central,601,60164,Gawler Central to City,0,,3884
+Gawler Central,601,60165,Gawler Central to City,0,,3884
+Gawler Central,601,60166,Gawler Central to City,0,,3884
+Gawler Central,601,60167,City to Gawler Central,1,,3886
+Gawler Central,601,60168,City to Gawler Central,1,,3886
+Gawler Central,601,60169,City to Gawler Central,1,,3886
+Gawler Central,606,60173,City to Gawler Central,1,,3886
+Gawler Central,606,60174,Gawler Central to City,0,,3884
+Gawler Central,601,60175,Gawler Central to City,0,,7590
 506,1,60200,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,57003,4140
 506,1,60201,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,57008,4140
 506,1,60202,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,57024,4140
@@ -4941,7 +4941,6 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 208,1,64302,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,51015,7878
 208,1,64303,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,54000,7878
 208,11,64304,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,51407,7878
-208,1,64306,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,,7878
 208,1,64308,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,51145,7878
 208,13,64310,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,55403,7878
 208,1,64311,Paradise Interchange to Sir Edwin Smith Av via Sudholz Rd Fosters Rd and Galway Av,0,56039,7878
@@ -15215,3 +15214,589 @@ Tea Tree Plaza Show Service,202,77090,Tea Tree Plaza to Showgrounds,0,59999,7546
 Tea Tree Plaza Show Service,202,77091,Showgrounds to Tea Tree Plaza,1,59999,7545
 21W,202,77092,Showgrounds to City,0,59999,7542
 21W,202,77093,City to Showgrounds,1,59999,7541
+Mawson,501,77096,Mawson Interchange,1,,8410
+Mawson,501,77097,Mawson Interchange,1,,8410
+Mawson,501,77098,Mawson Interchange,1,,8410
+Mawson,501,77099,Mawson Interchange,1,,8410
+Mawson,501,77100,Mawson Interchange,1,,8410
+Mawson,501,77101,Mawson Interchange,1,,8410
+Mawson,501,77102,Mawson Interchange,1,,8410
+Mawson,501,77103,Mawson Interchange,1,,8416
+Mawson,501,77104,Mawson Interchange,1,,8417
+Mawson,501,77105,Mawson Interchange,1,,8416
+Mawson,501,77106,Mawson Interchange,1,,8417
+Mawson,501,77107,Mawson Interchange,1,,8416
+Mawson,501,77108,Mawson Interchange,1,,8417
+Mawson,501,77109,Mawson Interchange,1,,8416
+Mawson,501,77110,Mawson Interchange,1,,8417
+Mawson,501,77111,Mawson Interchange,1,,8416
+Mawson,501,77112,Mawson Interchange,1,,8417
+Mawson,501,77113,Mawson Interchange,1,,8416
+Mawson,501,77114,Mawson Interchange,1,,8417
+Mawson,501,77115,Mawson Interchange,1,,8416
+Mawson,501,77116,Mawson Interchange,1,,8417
+Mawson,501,77117,Mawson Interchange,1,,8416
+Mawson,501,77118,Mawson Interchange,1,,8417
+Mawson,501,77119,Mawson Interchange,1,,8416
+Mawson,501,77120,Mawson Interchange,1,,8417
+Mawson,501,77121,Mawson Interchange,1,,8416
+Mawson,501,77122,Mawson Interchange,1,,8417
+Mawson,501,77123,Mawson Interchange,1,,8416
+Mawson,501,77124,Mawson Interchange,1,,8417
+Mawson,501,77125,Mawson Interchange,1,,8416
+Mawson,501,77126,Mawson Interchange,1,,8417
+Mawson,501,77127,Mawson Interchange,1,,8416
+Mawson,501,77128,Mawson Interchange,1,,8417
+Mawson,501,77129,Mawson Interchange,1,,8416
+Mawson,501,77130,Mawson Interchange,1,,8417
+Mawson,501,77131,Mawson Interchange,1,,8416
+Mawson,501,77132,Mawson Interchange,1,,8417
+Mawson,501,77133,Mawson Interchange,1,,8416
+Mawson,501,77134,Mawson Interchange,1,,8417
+Mawson,501,77135,Mawson Interchange,1,,8416
+Mawson,501,77136,Mawson Interchange,1,,8417
+Mawson,501,77137,Mawson Interchange,1,,8416
+Mawson,501,77138,Mawson Interchange,1,,8417
+Mawson,501,77139,Mawson Interchange,1,,8412
+Mawson,501,77140,Mawson Interchange,1,,8410
+Mawson,501,77141,Mawson Interchange,1,,8412
+Mawson,501,77142,Mawson Interchange,1,,8410
+Mawson,501,77143,Mawson Interchange,1,,8412
+Mawson,501,77144,Mawson Interchange,1,,8410
+Mawson,501,77145,Mawson Interchange,1,,8416
+Mawson,501,77146,Mawson Interchange,1,,8417
+Mawson,501,77147,Mawson Interchange,1,,8416
+Mawson,501,77148,Mawson Interchange,1,,8410
+Mawson,501,77149,Mawson Interchange,1,,8410
+Mawson,501,77150,Mawson Interchange,1,,8410
+Mawson,501,77151,Mawson Interchange,1,,8410
+Mawson,506,77152,Mawson Interchange,1,,8410
+Mawson,501,77153,Mawson Interchange,1,,8410
+Mawson,501,77154,Mawson Interchange,1,,8410
+Mawson,501,77155,Mawson Interchange,1,,8410
+Mawson,501,77156,Adelaide,0,,8409
+Mawson,501,77157,Adelaide,0,,8409
+Mawson,501,77158,Adelaide,0,,8409
+Mawson,501,77159,Adelaide,0,,8409
+Mawson,501,77160,Adelaide,0,,8409
+Mawson,501,77161,Adelaide,0,,8411
+Mawson,501,77162,Adelaide,0,,8409
+Mawson,501,77163,Adelaide,0,,8411
+Mawson,501,77164,Adelaide,0,,8409
+Mawson,501,77165,Adelaide,0,,8411
+Mawson,501,77166,Adelaide,0,,8409
+Mawson,501,77167,Adelaide,0,,8411
+Mawson,501,77168,Adelaide,0,,8409
+Mawson,501,77169,Adelaide,0,,8413
+Mawson,501,77170,Adelaide,0,,8414
+Mawson,501,77171,Adelaide,0,,8413
+Mawson,501,77172,Adelaide,0,,8414
+Mawson,501,77173,Adelaide,0,,8413
+Mawson,501,77174,Adelaide,0,,8414
+Mawson,501,77175,Adelaide,0,,8413
+Mawson,501,77176,Adelaide,0,,8414
+Mawson,501,77177,Adelaide,0,,8413
+Mawson,501,77178,Adelaide,0,,8414
+Mawson,501,77179,Adelaide,0,,8413
+Mawson,501,77180,Adelaide,0,,8414
+Mawson,501,77181,Adelaide,0,,8413
+Mawson,501,77182,Adelaide,0,,8414
+Mawson,501,77183,Adelaide,0,,8413
+Mawson,501,77184,Adelaide,0,,8414
+Mawson,501,77185,Adelaide,0,,8413
+Mawson,501,77186,Adelaide,0,,8414
+Mawson,501,77187,Adelaide,0,,8413
+Mawson,501,77188,Adelaide,0,,8414
+Mawson,501,77189,Adelaide,0,,8413
+Mawson,501,77190,Adelaide,0,,8414
+Mawson,501,77191,Adelaide,0,,8413
+Mawson,501,77192,Adelaide,0,,8414
+Mawson,501,77193,Adelaide,0,,8413
+Mawson,501,77194,Adelaide,0,,8414
+Mawson,501,77195,Adelaide,0,,8413
+Mawson,501,77196,Adelaide,0,,8414
+Mawson,501,77197,Adelaide,0,,8413
+Mawson,501,77198,Adelaide,0,,8414
+Mawson,501,77199,Adelaide,0,,8413
+Mawson,501,77200,Adelaide,0,,8414
+Mawson,501,77201,Adelaide,0,,8413
+Mawson,501,77202,Adelaide,0,,8414
+Mawson,501,77203,Adelaide,0,,8413
+Mawson,501,77204,Adelaide,0,,8415
+Mawson,501,77205,Adelaide,0,,8415
+Mawson,501,77206,Adelaide,0,,8413
+Mawson,501,77207,Adelaide,0,,8414
+Mawson,501,77208,Adelaide,0,,8413
+Mawson,501,77209,Adelaide,0,,8414
+Mawson,501,77210,Adelaide,0,,8409
+Mawson,501,77211,Adelaide,0,,8409
+Mawson,501,77212,Adelaide,0,,8409
+Mawson,501,77213,Adelaide,0,,8409
+Mawson,501,77214,Adelaide,0,,8409
+Mawson,506,77215,Adelaide,0,,8409
+Mawson,501,77216,Adelaide,0,,8409
+Mawson,501,77217,Adelaide,0,,8409
+Mawson,501,77218,Adelaide,0,,8409
+Mawson,512,77219,Mawson Interchange,1,,8410
+Mawson,512,77220,Mawson Interchange,1,,8410
+Mawson,512,77221,Mawson Interchange,1,,8410
+Mawson,512,77222,Mawson Interchange,1,,8410
+Mawson,512,77223,Mawson Interchange,1,,8410
+Mawson,512,77224,Mawson Interchange,1,,8410
+Mawson,512,77225,Mawson Interchange,1,,8410
+Mawson,512,77226,Mawson Interchange,1,,8410
+Mawson,512,77227,Mawson Interchange,1,,8410
+Mawson,512,77228,Mawson Interchange,1,,8410
+Mawson,512,77229,Mawson Interchange,1,,8410
+Mawson,512,77230,Mawson Interchange,1,,8410
+Mawson,512,77231,Mawson Interchange,1,,8410
+Mawson,512,77232,Mawson Interchange,1,,8410
+Mawson,512,77233,Mawson Interchange,1,,8410
+Mawson,512,77234,Mawson Interchange,1,,8410
+Mawson,512,77235,Mawson Interchange,1,,8410
+Mawson,512,77236,Mawson Interchange,1,,8410
+Mawson,512,77237,Mawson Interchange,1,,8410
+Mawson,512,77238,Mawson Interchange,1,,8410
+Mawson,512,77239,Mawson Interchange,1,,8410
+Mawson,512,77240,Mawson Interchange,1,,8410
+Mawson,512,77241,Mawson Interchange,1,,8410
+Mawson,512,77242,Mawson Interchange,1,,8410
+Mawson,512,77243,Mawson Interchange,1,,8410
+Mawson,512,77244,Mawson Interchange,1,,8410
+Mawson,512,77245,Mawson Interchange,1,,8410
+Mawson,512,77246,Mawson Interchange,1,,8410
+Mawson,512,77247,Mawson Interchange,1,,8410
+Mawson,512,77248,Mawson Interchange,1,,8410
+Mawson,512,77249,Adelaide,0,,8409
+Mawson,512,77250,Adelaide,0,,8409
+Mawson,512,77251,Adelaide,0,,8409
+Mawson,512,77252,Adelaide,0,,8409
+Mawson,512,77253,Adelaide,0,,8409
+Mawson,512,77254,Adelaide,0,,8409
+Mawson,512,77255,Adelaide,0,,8409
+Mawson,512,77256,Adelaide,0,,8409
+Mawson,512,77257,Adelaide,0,,8409
+Mawson,512,77258,Adelaide,0,,8409
+Mawson,512,77259,Adelaide,0,,8409
+Mawson,512,77260,Adelaide,0,,8409
+Mawson,512,77261,Adelaide,0,,8409
+Mawson,512,77262,Adelaide,0,,8409
+Mawson,512,77263,Adelaide,0,,8409
+Mawson,512,77264,Adelaide,0,,8409
+Mawson,512,77265,Adelaide,0,,8409
+Mawson,512,77266,Adelaide,0,,8409
+Mawson,512,77267,Adelaide,0,,8409
+Mawson,512,77268,Adelaide,0,,8409
+Mawson,512,77269,Adelaide,0,,8409
+Mawson,512,77270,Adelaide,0,,8409
+Mawson,512,77271,Adelaide,0,,8409
+Mawson,512,77272,Adelaide,0,,8409
+Mawson,512,77273,Adelaide,0,,8409
+Mawson,512,77274,Adelaide,0,,8409
+Mawson,512,77275,Adelaide,0,,8409
+Mawson,512,77276,Adelaide,0,,8409
+Mawson,512,77277,Adelaide,0,,8409
+Mawson,512,77278,Adelaide,0,,8409
+Mawson,512,77279,Adelaide,0,,8409
+GA1,512,77280,Gawler Central Station,1,,8425
+GA2,512,77281,Gawler Central Station - limited stops,1,,8423
+GA1,512,77282,Gawler Central Station,1,,8425
+GA2,512,77283,Gawler Central Station - limited stops,1,,8423
+GA1,512,77284,Gawler Central Station,1,,8425
+GA2,512,77285,Gawler Central Station - limited stops,1,,8423
+GA1,512,77286,Gawler Central Station,1,,8425
+GA2,512,77287,Gawler Central Station - limited stops,1,,8423
+GA1,512,77288,Gawler Central Station,1,,8425
+GA2,512,77289,Gawler Central Station - limited stops,1,,8423
+GA1,512,77290,Gawler Central Station,1,,8425
+GA2,512,77291,Gawler Central Station - limited stops,1,,8423
+GA1,512,77292,Gawler Central Station,1,,8425
+GA2,512,77293,Gawler Central Station - limited stops,1,,8423
+GA1,512,77294,Gawler Central Station,1,,8425
+GA2,512,77295,Gawler Central Station - limited stops,1,,8423
+GA1,512,77296,Gawler Central Station,1,,8425
+GA2,512,77297,Gawler Central Station - limited stops,1,,8423
+GA1,512,77298,Gawler Central Station,1,,8425
+GA2,512,77299,Gawler Central Station - limited stops,1,,8423
+GA1,512,77300,Gawler Central Station,1,,8425
+GA2,512,77301,Gawler Central Station - limited stops,1,,8423
+GA1,512,77302,Gawler Central Station,1,,8425
+GA2,512,77303,Gawler Central Station - limited stops,1,,8423
+GA1,512,77304,Gawler Central Station,1,,8425
+GA2,512,77305,Gawler Central Station - limited stops,1,,8423
+GA1,512,77306,Gawler Central Station,1,,8425
+GA2,512,77307,Gawler Central Station - limited stops,1,,8423
+GA1,512,77308,Gawler Central Station,1,,8425
+GA2,512,77309,Gawler Central Station - limited stops,1,,8423
+GA1,512,77310,Gawler Central Station,1,,8425
+GA2,512,77311,Gawler Central Station - limited stops,1,,8423
+GA1,512,77312,Gawler Central Station,1,,8425
+GA2,512,77313,Gawler Central Station - limited stops,1,,8423
+GA1,512,77314,Gawler Central Station,1,,8425
+GA2,512,77315,Gawler Central Station - limited stops,1,,8423
+GA1,512,77316,Gawler Central Station,1,,8425
+GA2,512,77317,Gawler Central Station - limited stops,1,,8423
+GA1,512,77318,Gawler Central Station,1,,8425
+GA2,512,77319,Gawler Central Station - limited stops,1,,8423
+GA1,512,77320,Gawler Central Station,1,,8425
+GA2,512,77321,Gawler Central Station - limited stops,1,,8423
+GA1,512,77322,Gawler Central Station,1,,8425
+GA2,512,77323,Gawler Central Station - limited stops,1,,8423
+GA1,512,77324,Gawler Central Station,1,,8425
+GA2,512,77325,Gawler Central Station - limited stops,1,,8423
+GA1,512,77326,Gawler Central Station,1,,8425
+GA2,512,77327,Gawler Central Station - limited stops,1,,8423
+GA1,512,77328,Gawler Central Station,1,,8425
+GA2,512,77329,Gawler Central Station - limited stops,1,,8423
+GA1,512,77330,Gawler Central Station,1,,8425
+GA2,512,77331,Gawler Central Station - limited stops,1,,8423
+GA1,512,77332,Gawler Central Station,1,,8425
+GA2,512,77333,Gawler Central Station - limited stops,1,,8423
+GA1,512,77334,Gawler Central Station,1,,8425
+GA2,512,77335,Gawler Central Station - limited stops,1,,8423
+GA1,512,77336,Gawler Central Station,1,,8425
+GA2,512,77337,Gawler Central Station - limited stops,1,,8423
+GA1,512,77338,Gawler Central Station,1,,8425
+GA2,512,77339,Gawler Central Station - limited stops,1,,8423
+GA1,512,77340,Mawson Interchange,0,,8424
+GA2,512,77341,Mawson Interchange - limited stops,0,,8422
+GA1,512,77342,Mawson Interchange,0,,8424
+GA2,512,77343,Mawson Interchange - limited stops,0,,8422
+GA1,512,77344,Mawson Interchange,0,,8424
+GA2,512,77345,Mawson Interchange - limited stops,0,,8422
+GA1,512,77346,Mawson Interchange,0,,8424
+GA2,512,77347,Mawson Interchange - limited stops,0,,8422
+GA1,512,77348,Mawson Interchange,0,,8424
+GA2,512,77349,Mawson Interchange - limited stops,0,,8422
+GA1,512,77350,Mawson Interchange,0,,8424
+GA2,512,77351,Mawson Interchange - limited stops,0,,8422
+GA1,512,77352,Mawson Interchange,0,,8424
+GA2,512,77353,Mawson Interchange - limited stops,0,,8422
+GA1,512,77354,Mawson Interchange,0,,8424
+GA2,512,77355,Mawson Interchange - limited stops,0,,8422
+GA1,512,77356,Mawson Interchange,0,,8424
+GA2,512,77357,Mawson Interchange - limited stops,0,,8422
+GA1,512,77358,Mawson Interchange,0,,8424
+GA2,512,77359,Mawson Interchange - limited stops,0,,8422
+GA1,512,77360,Mawson Interchange,0,,8424
+GA2,512,77361,Mawson Interchange - limited stops,0,,8422
+GA1,512,77362,Mawson Interchange,0,,8424
+GA2,512,77363,Mawson Interchange - limited stops,0,,8422
+GA1,512,77364,Mawson Interchange,0,,8424
+GA2,512,77365,Mawson Interchange - limited stops,0,,8422
+GA1,512,77366,Mawson Interchange,0,,8424
+GA2,512,77367,Mawson Interchange - limited stops,0,,8422
+GA1,512,77368,Mawson Interchange,0,,8424
+GA2,512,77369,Mawson Interchange - limited stops,0,,8422
+GA1,512,77370,Mawson Interchange,0,,8424
+GA2,512,77371,Mawson Interchange - limited stops,0,,8422
+GA1,512,77372,Mawson Interchange,0,,8424
+GA2,512,77373,Mawson Interchange - limited stops,0,,8422
+GA1,512,77374,Mawson Interchange,0,,8424
+GA2,512,77375,Mawson Interchange - limited stops,0,,8422
+GA1,512,77376,Mawson Interchange,0,,8424
+GA2,512,77377,Mawson Interchange - limited stops,0,,8422
+GA1,512,77378,Mawson Interchange,0,,8424
+GA2,512,77379,Mawson Interchange - limited stops,0,,8422
+GA1,512,77380,Mawson Interchange,0,,8424
+GA2,512,77381,Mawson Interchange - limited stops,0,,8422
+GA1,512,77382,Mawson Interchange,0,,8424
+GA2,512,77383,Mawson Interchange - limited stops,0,,8422
+GA1,512,77384,Mawson Interchange,0,,8424
+GA2,512,77385,Mawson Interchange - limited stops,0,,8422
+GA1,512,77386,Mawson Interchange,0,,8424
+GA2,512,77387,Mawson Interchange - limited stops,0,,8422
+GA1,512,77388,Mawson Interchange,0,,8424
+GA2,512,77389,Mawson Interchange - limited stops,0,,8422
+GA1,512,77390,Mawson Interchange,0,,8424
+GA2,512,77391,Mawson Interchange - limited stops,0,,8422
+GA1,512,77392,Mawson Interchange,0,,8424
+GA2,512,77393,Mawson Interchange - limited stops,0,,8422
+GA1,512,77394,Mawson Interchange,0,,8424
+GA2,512,77395,Mawson Interchange - limited stops,0,,8422
+GA1,512,77396,Mawson Interchange,0,,8424
+GA2,512,77397,Mawson Interchange - limited stops,0,,8422
+GA1,512,77398,Mawson Interchange,0,,8424
+GA2,512,77399,Mawson Interchange - limited stops,0,,8422
+GA1,512,77400,Mawson Interchange,0,,8424
+GA2,512,77401,Mawson Interchange - limited stops,0,,8422
+GA1,501,77402,Mawson Interchange,0,,8424
+GA2,501,77403,Mawson Interchange - limited stops,0,,8422
+GA1,501,77404,Mawson Interchange,0,,8424
+GA2,501,77405,Mawson Interchange - limited stops,0,,8422
+GA1,501,77406,Mawson Interchange,0,,8424
+GA2,501,77407,Mawson Interchange - limited stops,0,,8422
+GA1,501,77408,Mawson Interchange,0,,8424
+GA2,501,77409,Mawson Interchange - limited stops,0,,8422
+GA3,501,77410,Mawson Interchange - Express,0,,8420
+GA4,501,77411,Mawson Interchange - Express,0,,8418
+GA1,501,77412,Mawson Interchange,0,,8424
+GA2,501,77413,Mawson Interchange - limited stops,0,,8422
+GA3,501,77414,Mawson Interchange - Express,0,,8420
+GA4,501,77415,Mawson Interchange - Express,0,,8418
+GA1,501,77416,Mawson Interchange,0,,8424
+GA2,501,77417,Mawson Interchange - limited stops,0,,8422
+GA3,501,77418,Mawson Interchange - Express,0,,8420
+GA4,501,77419,Mawson Interchange - Express,0,,8418
+GA1,501,77421,Mawson Interchange,0,,8424
+GA2,501,77422,Mawson Interchange - limited stops,0,,8422
+GA3,501,77423,Mawson Interchange - Express,0,,8420
+GA4,501,77424,Mawson Interchange - Express,0,,8418
+GA1,501,77427,Mawson Interchange,0,,8424
+GA2,501,77428,Mawson Interchange - limited stops,0,,8422
+GA3,501,77429,Mawson Interchange - Express,0,,8420
+GA4,501,77430,Mawson Interchange - Express,0,,8418
+GA1,501,77433,Mawson Interchange,0,,8424
+GA2,501,77434,Mawson Interchange - limited stops,0,,8422
+GA3,501,77435,Mawson Interchange - Express,0,,8420
+GA4,501,77436,Mawson Interchange - Express,0,,8418
+GA1,501,77437,Mawson Interchange,0,,8424
+GA2,501,77438,Mawson Interchange - limited stops,0,,8422
+GA1,501,77439,Mawson Interchange,0,,8424
+GA2,501,77440,Mawson Interchange - limited stops,0,,8422
+GA1,501,77441,Mawson Interchange,0,,8424
+GA2,501,77442,Mawson Interchange - limited stops,0,,8422
+GA1,501,77445,Mawson Interchange,0,,8424
+GA2,501,77446,Mawson Interchange - limited stops,0,,8422
+GA1,501,77447,Mawson Interchange,0,,8424
+GA2,501,77448,Mawson Interchange - limited stops,0,,8422
+GA1,501,77449,Mawson Interchange,0,,8424
+GA2,501,77450,Mawson Interchange - limited stops,0,,8422
+GA1,501,77451,Mawson Interchange,0,,8424
+GA2,501,77452,Mawson Interchange - limited stops,0,,8422
+GA1,501,77453,Mawson Interchange,0,,8424
+GA2,501,77454,Mawson Interchange - limited stops,0,,8422
+GA1,501,77455,Mawson Interchange,0,,8424
+GA2,501,77456,Mawson Interchange - limited stops,0,,8422
+GA1,501,77457,Mawson Interchange,0,,8424
+GA2,501,77458,Mawson Interchange - limited stops,0,,8422
+GA1,501,77461,Mawson Interchange,0,,8424
+GA2,501,77462,Mawson Interchange - limited stops,0,,8422
+GA1,501,77463,Mawson Interchange,0,,8424
+GA2,501,77464,Mawson Interchange - limited stops,0,,8422
+GA1,501,77465,Mawson Interchange,0,,8424
+GA2,501,77466,Mawson Interchange - limited stops,0,,8422
+GA1,501,77467,Mawson Interchange,0,,8424
+GA2,501,77468,Mawson Interchange - limited stops,0,,8422
+GA1,501,77469,Mawson Interchange,0,,8424
+GA2,501,77470,Mawson Interchange - limited stops,0,,8422
+GA1,501,77471,Mawson Interchange,0,,8424
+GA2,501,77472,Mawson Interchange - limited stops,0,,8422
+GA1,501,77473,Mawson Interchange,0,,8424
+GA2,501,77474,Mawson Interchange - limited stops,0,,8422
+GA1,501,77475,Mawson Interchange,0,,8424
+GA2,501,77476,Mawson Interchange - limited stops,0,,8422
+GA1,501,77477,Mawson Interchange,0,,8424
+GA2,501,77478,Mawson Interchange - limited stops,0,,8422
+GA1,501,77479,Mawson Interchange,0,,8424
+GA2,501,77480,Mawson Interchange - limited stops,0,,8422
+GA1,501,77481,Mawson Interchange,0,,8424
+GA2,501,77482,Mawson Interchange - limited stops,0,,8422
+GA1,501,77483,Mawson Interchange,0,,8424
+GA2,501,77484,Mawson Interchange - limited stops,0,,8422
+GA1,501,77485,Mawson Interchange,0,,8424
+GA2,501,77486,Mawson Interchange - limited stops,0,,8422
+GA1,501,77487,Mawson Interchange,0,,8424
+GA2,501,77488,Mawson Interchange - limited stops,0,,8422
+GA1,501,77489,Mawson Interchange,0,,8424
+GA2,501,77490,Mawson Interchange - limited stops,0,,8422
+GA1,501,77491,Mawson Interchange,0,,8424
+GA2,501,77492,Mawson Interchange - limited stops,0,,8422
+GA1,501,77493,Mawson Interchange,0,,8424
+GA2,501,77494,Mawson Interchange - limited stops,0,,8422
+GA1,501,77495,Mawson Interchange,0,,8424
+GA2,501,77496,Mawson Interchange - limited stops,0,,8422
+GA1,501,77497,Mawson Interchange,0,,8424
+GA2,501,77498,Mawson Interchange - limited stops,0,,8422
+GA1,501,77499,Mawson Interchange,0,,8424
+GA2,501,77500,Mawson Interchange - limited stops,0,,8422
+GA1,501,77501,Mawson Interchange,0,,8424
+GA2,501,77502,Mawson Interchange - limited stops,0,,8422
+GA1,501,77503,Mawson Interchange,0,,8424
+GA2,501,77504,Mawson Interchange - limited stops,0,,8422
+GA1,501,77505,Mawson Interchange,0,,8424
+GA2,501,77506,Mawson Interchange - limited stops,0,,8422
+GA1,501,77507,Mawson Interchange,0,,8424
+GA2,501,77508,Mawson Interchange - limited stops,0,,8422
+GA1,501,77509,Mawson Interchange,0,,8424
+GA2,501,77510,Mawson Interchange - limited stops,0,,8422
+GA1,501,77511,Mawson Interchange,0,,8424
+GA2,501,77512,Mawson Interchange - limited stops,0,,8422
+GA1,501,77513,Mawson Interchange,0,,8424
+GA2,501,77514,Mawson Interchange - limited stops,0,,8422
+GA1,501,77515,Mawson Interchange,0,,8424
+GA2,501,77516,Mawson Interchange - limited stops,0,,8422
+GA1,501,77517,Mawson Interchange,0,,8424
+GA2,501,77518,Mawson Interchange - limited stops,0,,8422
+GA1,501,77519,Mawson Interchange,0,,8424
+GA2,501,77520,Mawson Interchange - limited stops,0,,8422
+GA1,501,77521,Mawson Interchange,0,,8424
+GA2,501,77522,Mawson Interchange - limited stops,0,,8422
+GA1,501,77523,Mawson Interchange,0,,8424
+GA2,501,77524,Mawson Interchange - limited stops,0,,8422
+GA1,501,77525,Mawson Interchange,0,,8424
+GA2,501,77526,Mawson Interchange - limited stops,0,,8422
+GA1,501,77527,Mawson Interchange,0,,8424
+GA2,501,77528,Mawson Interchange - limited stops,0,,8422
+GA1,501,77529,Mawson Interchange,0,,8424
+GA2,501,77530,Mawson Interchange - limited stops,0,,8422
+GA1,501,77531,Mawson Interchange,0,,8424
+GA2,501,77532,Mawson Interchange - limited stops,0,,8422
+GA1,506,77533,Mawson Interchange,0,,8424
+GA2,506,77534,Mawson Interchange - limited stops,0,,8422
+GA1,501,77535,Mawson Interchange,0,,8424
+GA2,501,77536,Mawson Interchange - limited stops,0,,8422
+GA1,501,77537,Mawson Interchange,0,,8424
+GA2,501,77538,Mawson Interchange - limited stops,0,,8422
+GA1,501,77539,Mawson Interchange,0,,8424
+GA2,501,77540,Mawson Interchange - limited stops,0,,8422
+GA1,501,77541,Gawler Central Station,1,,8425
+GA2,501,77542,Gawler Central Station - limited stops,1,,8423
+GA1,501,77543,Gawler Central Station,1,,8425
+GA2,501,77544,Gawler Central Station - limited stops,1,,8423
+GA1,501,77545,Gawler Central Station,1,,8425
+GA2,501,77546,Gawler Central Station - limited stops,1,,8423
+GA1,501,77547,Gawler Central Station,1,,8425
+GA2,501,77548,Gawler Central Station - limited stops,1,,8423
+GA1,501,77549,Gawler Central Station,1,,8425
+GA2,501,77550,Gawler Central Station - limited stops,1,,8423
+GA1,501,77551,Gawler Central Station,1,,8425
+GA2,501,77552,Gawler Central Station - limited stops,1,,8423
+GA1,501,77553,Gawler Central Station,1,,8425
+GA2,501,77554,Gawler Central Station - limited stops,1,,8423
+GA1,501,77555,Gawler Central Station,1,,8425
+GA2,501,77556,Gawler Central Station - limited stops,1,,8423
+GA1,501,77557,Gawler Central Station,1,,8425
+GA2,501,77558,Gawler Central Station - limited stops,1,,8423
+GA1,501,77559,Gawler Central Station,1,,8425
+GA2,501,77560,Gawler Central Station - limited stops,1,,8423
+GA1,501,77561,Gawler Central Station,1,,8425
+GA2,501,77562,Gawler Central Station - limited stops,1,,8423
+GA1,501,77563,Gawler Central Station,1,,8425
+GA2,501,77564,Gawler Central Station - limited stops,1,,8423
+GA1,501,77565,Gawler Central Station,1,,8425
+GA2,501,77566,Gawler Central Station - limited stops,1,,8423
+GA1,501,77567,Gawler Central Station,1,,8425
+GA2,501,77568,Gawler Central Station - limited stops,1,,8423
+GA1,501,77569,Gawler Central Station,1,,8425
+GA2,501,77570,Gawler Central Station - limited stops,1,,8423
+GA1,501,77573,Gawler Central Station,1,,8425
+GA2,501,77574,Gawler Central Station - limited stops,1,,8423
+GA1,501,77575,Gawler Central Station,1,,8425
+GA2,501,77576,Gawler Central Station - limited stops,1,,8423
+GA1,501,77577,Gawler Central Station,1,,8425
+GA2,501,77578,Gawler Central Station - limited stops,1,,8423
+GA1,501,77579,Gawler Central Station,1,,8425
+GA2,501,77580,Gawler Central Station - limited stops,1,,8423
+GA1,501,77581,Gawler Central Station,1,,8425
+GA2,501,77582,Gawler Central Station - limited stops,1,,8423
+GA1,501,77583,Gawler Central Station,1,,8425
+GA2,501,77584,Gawler Central Station - limited stops,1,,8423
+GA1,501,77585,Gawler Central Station,1,,8425
+GA2,501,77586,Gawler Central Station - limited stops,1,,8423
+GA1,501,77587,Gawler Central Station,1,,8425
+GA2,501,77588,Gawler Central Station - limited stops,1,,8423
+GA1,501,77589,Gawler Central Station,1,,8425
+GA2,501,77590,Gawler Central Station - limited stops,1,,8423
+GA1,501,77591,Gawler Central Station,1,,8425
+GA2,501,77592,Gawler Central Station - limited stops,1,,8423
+GA1,501,77593,Gawler Central Station,1,,8425
+GA2,501,77594,Gawler Central Station - limited stops,1,,8423
+GA1,501,77595,Gawler Central Station,1,,8425
+GA2,501,77596,Gawler Central Station - limited stops,1,,8423
+GA1,501,77597,Gawler Central Station,1,,8425
+GA2,501,77598,Gawler Central Station - limited stops,1,,8423
+GA1,501,77599,Gawler Central Station,1,,8425
+GA2,501,77600,Gawler Central Station - limited stops,1,,8423
+GA1,501,77601,Gawler Central Station,1,,8425
+GA2,501,77602,Gawler Central Station - limited stops,1,,8423
+GA1,501,77603,Gawler Central Station,1,,8425
+GA2,501,77604,Gawler Central Station - limited stops,1,,8423
+GA1,501,77605,Gawler Central Station,1,,8425
+GA2,501,77606,Gawler Central Station - limited stops,1,,8423
+GA1,501,77607,Gawler Central Station,1,,8425
+GA2,501,77608,Gawler Central Station - limited stops,1,,8423
+GA3,501,77609,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77610,Gawler Station - Express,1,,8419
+GA1,501,77611,Gawler Central Station,1,,8425
+GA2,501,77612,Gawler Central Station - limited stops,1,,8423
+GA3,501,77613,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77614,Gawler Station - Express,1,,8419
+GA1,501,77615,Gawler Central Station,1,,8425
+GA2,501,77616,Gawler Central Station - limited stops,1,,8423
+GA3,501,77617,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77618,Gawler Station - Express,1,,8419
+GA1,501,77619,Gawler Central Station,1,,8425
+GA2,501,77620,Gawler Central Station - limited stops,1,,8423
+GA3,501,77621,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77622,Gawler Station - Express,1,,8419
+GA1,501,77623,Gawler Central Station,1,,8425
+GA2,501,77624,Gawler Central Station - limited stops,1,,8423
+GA3,501,77625,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77626,Gawler Station - Express,1,,8419
+GA1,501,77627,Gawler Central Station,1,,8425
+GA2,501,77628,Gawler Central Station - limited stops,1,,8423
+GA3,501,77629,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77630,Gawler Station - Express,1,,8419
+GA1,501,77631,Gawler Central Station,1,,8425
+GA2,501,77632,Gawler Central Station - limited stops,1,,8423
+GA3,501,77633,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77634,Gawler Station - Express,1,,8419
+GA1,501,77635,Gawler Central Station,1,,8425
+GA2,501,77636,Gawler Central Station - limited stops,1,,8423
+GA3,501,77637,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77638,Gawler Station - Express,1,,8419
+GA1,501,77639,Gawler Central Station,1,,8425
+GA2,501,77640,Gawler Central Station - limited stops,1,,8423
+GA3,501,77641,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77642,Gawler Station - Express,1,,8419
+GA1,501,77643,Gawler Central Station,1,,8425
+GA2,501,77644,Gawler Central Station - limited stops,1,,8423
+GA3,501,77645,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77646,Gawler Station - Express,1,,8419
+GA1,501,77647,Gawler Central Station,1,,8425
+GA2,501,77648,Gawler Central Station - limited stops,1,,8423
+GA3,501,77649,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77650,Gawler Station - Express,1,,8419
+GA1,501,77651,Gawler Central Station,1,,8425
+GA2,501,77652,Gawler Central Station - limited stops,1,,8423
+GA3,501,77653,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77654,Gawler Station - Express,1,,8419
+GA1,501,77655,Gawler Central Station,1,,8425
+GA2,501,77656,Gawler Central Station - limited stops,1,,8423
+GA3,501,77657,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77658,Gawler Station - Express,1,,8419
+GA1,501,77659,Gawler Central Station,1,,8425
+GA2,501,77660,Gawler Central Station - limited stops,1,,8423
+GA3,501,77661,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77662,Gawler Station - Express,1,,8419
+GA1,501,77663,Gawler Central Station,1,,8425
+GA2,501,77664,Gawler Central Station - limited stops,1,,8423
+GA3,501,77665,Elizabeth Shopping Centre - Express,1,,8421
+GA4,501,77666,Gawler Station - Express,1,,8419
+GA1,501,77667,Gawler Central Station,1,,8425
+GA2,501,77668,Gawler Central Station - limited stops,1,,8423
+GA1,501,77669,Gawler Central Station,1,,8425
+GA2,501,77670,Gawler Central Station - limited stops,1,,8423
+GA1,501,77671,Gawler Central Station,1,,8425
+GA2,501,77672,Gawler Central Station - limited stops,1,,8423
+GA1,501,77673,Gawler Central Station,1,,8425
+GA2,501,77674,Gawler Central Station - limited stops,1,,8423
+GA1,501,77675,Gawler Central Station,1,,8425
+GA2,501,77676,Gawler Central Station - limited stops,1,,8423
+GA1,501,77677,Gawler Central Station,1,,8425
+GA2,501,77678,Gawler Central Station - limited stops,1,,8423
+GA1,501,77679,Gawler Central Station,1,,8425
+GA2,501,77680,Gawler Central Station - limited stops,1,,8423
+GA1,501,77681,Gawler Central Station,1,,8425
+GA2,501,77682,Gawler Central Station - limited stops,1,,8423
+GA1,501,77683,Gawler Central Station,1,,8425
+GA2,501,77684,Gawler Central Station - limited stops,1,,8423
+GA1,506,77685,Gawler Central Station,1,,8425
+GA2,506,77686,Gawler Central Station - limited stops,1,,8423
+GA1,501,77687,Gawler Central Station,1,,8425
+GA2,501,77688,Gawler Central Station - limited stops,1,,8423
+GA1,501,77689,Gawler Central Station,1,,8425
+GA2,501,77690,Gawler Central Station - limited stops,1,,8423
+GA1,501,77691,Gawler Central Station,1,,8425
+GA2,501,77692,Gawler Central Station - limited stops,1,,8423
