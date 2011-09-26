@@ -21,6 +21,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 162,admet,162,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=162&js=1,00a775,ffffff
 167,admet,167,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=167&js=1,e76e7c,ffffff
 168,admet,168,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=168&js=1,a84c0d,ffffff
+169,admet,169,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=169&js=1,26a8e0,ffffff
 170,admet,170,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=170&js=1,ffdd00,000000
 171,admet,171,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=171&js=1,f6a9bc,000000
 171A,admet,171A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=171A&js=1,f6a9bc,000000
@@ -53,7 +54,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 208B,admet,208B,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=208B&js=1,ffef00,000000
 208N,admet,208N,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=208N&js=1,ffef00,000000
 209F,admet,209F,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=209F&js=1,00aca3,ffffff
-21W,admet,21W,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=21W&js=1,4b711c,ffffff
+21W,admet,21W,,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=21W&js=1,4b711c,ffffff
 222,admet,222,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=222&js=1,00a261,ffffff
 222R,admet,222R,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=222&js=15,7bc142,ffffff
 224,admet,224,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=224&js=1,f7b2bf,000000
@@ -98,7 +99,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 265W,admet,265W,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=265&js=1,ffce07,000000
 271,admet,271,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=271&js=1,f0cb01,000000
 273,admet,273,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=273&js=1,006494,ffffff
+280,admet,280,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=280&js=1,5c8727,ffffff
 281,admet,281,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=281&js=1,5c8727,ffffff
+281K,admet,281K,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=281&js=1,5c8727,ffffff
 281V,admet,281V,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=281&js=1,5c8727,ffffff
 287,admet,287,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=287&js=1,f5d29d,000000
 287A,admet,287A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=287A&js=1,f5d29d,000000
@@ -315,6 +318,14 @@ B11,admet,B11,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=sea
 B12,admet,B12,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=B12&js=1,B71B8B,ffffff
 Belair,admet,BEL,Belair,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Belair+train&js=1,00937f,ffffff
 Brighton,admet,BRTN,Brighton,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+C1G,admet,C1G,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
+C1K,admet,C1K,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
+C1P,admet,C1P,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
+C1T,admet,C1T,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
+C1X,admet,C1X,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1X&js=1,d5df3d,000000
+C2,admet,C2,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C2&js=1,c78d86,ffffff
+C2G,admet,C2G,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C2&js=1,c78d86,ffffff
+C2X,admet,C2X,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C2X&js=1,56a0d5,ffffff
 FX1,admet,FX1,,,3,http://www.adelaidemetro.com.au/routes/pdfs/OuterNorthEast2011.pdf,4b711c,ffffff
 FX10,admet,FX10,,,3,http://www.adelaidemetro.com.au/routes/pdfs/Eastern_Hills2011.pdf,4b711c,ffffff
 FX11,admet,FX11,,,3,http://www.adelaidemetro.com.au/routes/pdfs/Eastern_Hills2011.pdf,4b711c,ffffff
@@ -423,7 +434,7 @@ T748,admet,T748,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 T840,admet,T840,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T840&js=1,fec220,000000
 T842,admet,T842,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T842&js=2,827c00,ffffff
 T863,admet,T863,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=T863&js=1,1b5257,ffffff
-Tea Tree Plaza Show Service,admet,TTPSho,Tea Tree Plaza Show Service,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Show+Shuttle&js=1,4b711c,ffffff
+Tea Tree Plaza Show Service,admet,TTPSho,Tea Tree Plaza Show Service,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Show+Shuttle&js=1,4b711c,ffffff
 Tonsley,admet,TONS,Tonsley,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
 Tram,admet,Tram,,,0,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Tram&js=1,e91839,ffffff
 W90,admet,W90,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=W90&js=1,862074,ffffff
