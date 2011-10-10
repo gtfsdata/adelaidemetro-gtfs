@@ -298,6 +298,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 866,admet,866,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=866&js=1,db0662,ffffff
 867,admet,867,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=867&js=1,AEDED3,000000
 868,admet,868,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=868&js=2,a9c398,000000
+870Z,admet,870Z,,,3,http://www.adelaidemetro.com.au/routes/school-bus,79b34d,ffffff
+885S,admet,885S, ,,3,http://www.adelaidemetro.com.au/routes/school-bus,79b34d,ffffff
+885Z,admet,885Z, ,,3,http://www.adelaidemetro.com.au/routes/school-bus,79b34d,ffffff
 892,admet,892,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=892&js=1,0093d0,ffffff
 893,admet,893,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=893&js=1,0093d0,ffffff
 894,admet,894,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=894&js=1,f47320,ffffff
