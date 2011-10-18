@@ -7406,5 +7406,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101255,,Stop 101 Cowan St - Northern side,,-34.595871, 138.748175,,,,
 101256,,Stop 16 Glynburn Rd - Eastern side,,-34.918117, 138.658666,,,,
 101257,,Stop 16 Glynburn Rd - Western side,,-34.917891, 138.658508,,,,
-101258,,Roma Mitchell Secondary College Bus Stop,,-34.844375, 138.618842,,,,
+101258,,School Bus Stop A - Roma Mitchell Secondary College,,-34.844375, 138.618842,,,,
 101263,,Kudla - Train Sub Temp Stop,,-34.647399, 138.702746,,,,

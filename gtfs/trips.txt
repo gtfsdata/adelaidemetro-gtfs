@@ -14344,304 +14344,304 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 548,1,79303,Greenwith via O-Bahn Tea Tree Plaza Interchange and Golden Grove Rd,1,,8452
 548,1,79304,Greenwith via O-Bahn Tea Tree Plaza Interchange and Golden Grove Rd,1,,8452
 548,1,79305,Target Hill Rd via O-Bahn - Tea Tree Plaza and Golden Grove Rd,1,,8549
-C1X,1,79306,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79307,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79308,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,1,79306,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79307,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79308,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
 C2,1,79309,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
-C1X,1,79310,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,1,79310,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
 C2,1,79311,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79312,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79312,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79313,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
 C2X,1,79314,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79315,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79315,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79316,City via Paradise Interchange and O-Bahn,0,,8466
-C1X,1,79317,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79317,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2X,1,79318,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79319,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79319,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79320,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79321,City via Golden Grove Rd - Paradise Interchange and O-Bahn,0,,8465
 C1X,1,79322,City via Paradise Interchange and O-Bahn,0,,8466
 C2X,1,79323,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79324,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
-C1X,1,79325,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79324,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
+C1,1,79325,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79326,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79327,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79328,City via Golden Grove Rd - Paradise Interchange and O-Bahn,0,,8465
 C2X,1,79329,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79330,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79330,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79331,City via Paradise Interchange and O-Bahn,0,,8466
-C1X,1,79332,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
+C1,1,79332,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
 C1X,1,79333,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79334,City via Golden Grove Rd - Paradise Interchange and O-Bahn,0,,8465
 C2X,1,79335,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79336,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79336,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79337,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79338,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79339,City via Golden Grove Rd - Paradise Interchange and O-Bahn,0,,8465
 C2X,1,79340,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79341,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79341,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C1X,1,79342,City via Paradise Interchange and O-Bahn,0,,8466
 C1X,1,79343,City via Paradise Interchange and O-Bahn,0,,8466
 C2X,1,79344,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79345,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79345,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2X,1,79346,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8463
-C1X,1,79347,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79348,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79347,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79348,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79349,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79350,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79350,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79351,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79352,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79352,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79353,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79354,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79355,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79354,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79355,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79356,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79357,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79358,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79357,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79358,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79359,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79360,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79361,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79360,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79361,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79362,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79363,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79364,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79363,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79364,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79365,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79366,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79367,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79366,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79367,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79368,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79369,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79370,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
+C1,1,79369,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79370,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8537
 C2,1,79371,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79372,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79372,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79373,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79374,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79374,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79375,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79376,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79376,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79377,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79378,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79378,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79379,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8457
-C1X,1,79380,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79380,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79381,City via Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8535
-C1X,1,79382,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79383,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
-C1X,1,79384,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79385,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79386,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79387,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79388,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
-C1X,1,79389,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
-C1X,1,79390,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79382,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79383,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
+C1,1,79384,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79385,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79386,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79387,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79388,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
+C1,1,79389,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
+C1,1,79390,City via Main North Rd - Golden Grove Rd Tea - Tree Plaza Interchange and O-Bahn,0,,8454
 C2,1,79391,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,1,79392,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
-C1X,1,79393,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79392,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,1,79393,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,1,79394,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,1,79395,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,1,79395,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
 C2,1,79396,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,1,79397,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,1,79397,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
 C2,1,79398,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,1,79399,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79400,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,1,79401,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
-C1X,1,79402,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
-C1X,1,79403,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
-C1X,1,79404,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79399,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79400,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,1,79401,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79402,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79403,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79404,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1G,1,79405,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
-C1X,1,79406,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79406,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1G,1,79407,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
-C1X,1,79408,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79408,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1G,1,79409,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
-C1X,1,79410,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79410,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1G,1,79411,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
-C1X,1,79412,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79412,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C1G,1,79413,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8468
 C1G,1,79414,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8468
-C1X,1,79415,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79415,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79416,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79417,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79417,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79418,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79419,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79419,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79420,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79421,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79421,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79422,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79423,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79423,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79424,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79425,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79425,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79426,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79427,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79427,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79428,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79429,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79429,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79430,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79431,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79431,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79432,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,,8461
-C1X,1,79433,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79433,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79434,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8460
-C1X,1,79436,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79436,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79437,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8460
-C1X,1,79438,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79438,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C1P,1,79439,Paradise Interchange via O-Bahn,1,,8469
 C2,1,79440,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8460
-C1X,1,79441,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79441,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C1P,1,79442,Paradise Interchange via O-Bahn,1,,8469
-C1X,1,79443,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79443,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2X,1,79444,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
-C1X,1,79445,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79445,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C1P,1,79446,Paradise Interchange via O-Bahn,1,,8473
 C2X,1,79447,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79448,Paradise Interchange via O-Bahn,1,,8473
-C1X,1,79449,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79449,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79450,Paradise Interchange via O-Bahn,1,,8473
 C2X,1,79451,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79452,Paradise Interchange via O-Bahn,1,,8473
-C1X,1,79453,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79453,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79454,Paradise Interchange via O-Bahn,1,,8473
 C1T,1,79455,Tea Tree Plaza Interchange via O-Bahn,1,,8471
 C2X,1,79456,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79457,Paradise Interchange via O-Bahn,1,,8473
 C1X,1,79458,Golden Grove Village via O-Bahn and Paradise Interchange ,1,,8470
-C1X,1,79459,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79459,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79460,Paradise Interchange via O-Bahn,1,,8473
 C1T,1,79461,Tea Tree Plaza Interchange via O-Bahn,1,,8471
 C2X,1,79462,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79463,Paradise Interchange via O-Bahn,1,,8473
 C1K,1,79464,Klemzig Interchange via O-Bahn,1,,8474
 C1X,1,79465,Golden Grove Village via O-Bahn and Paradise Interchange ,1,,8470
-C1X,1,79466,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79466,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79467,Paradise Interchange via O-Bahn,1,,8473
 C1T,1,79468,Tea Tree Plaza Interchange via O-Bahn,1,,8471
 C2X,1,79469,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79470,Paradise Interchange via O-Bahn,1,,8473
 C1X,1,79471,Golden Grove Village via O-Bahn and Paradise Interchange ,1,,8470
-C1X,1,79472,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79472,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79473,Paradise Interchange via O-Bahn,1,,8473
 C2X,1,79474,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8464
 C1P,1,79475,Paradise Interchange via O-Bahn,1,,8473
-C1X,1,79476,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
+C1,1,79476,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8550
 C1P,1,79477,Paradise Interchange via O-Bahn,1,,8469
 C2,1,79478,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8460
 C1P,1,79479,Paradise Interchange via O-Bahn,1,,8469
-C1X,1,79480,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
+C1,1,79480,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8455
 C2,1,79481,Greenwith via O-Bahn - Tea Tree Plaza Interchange and Golden Grove Rd,1,,8460
-C1X,1,79482,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79482,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C2,1,79483,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
-C1X,1,79484,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79484,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,1,79485,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2,1,79486,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
 C1T,1,79487,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,1,79488,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79488,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,1,79489,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,1,79490,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,1,79491,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,1,79492,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,1,79492,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C2G,1,79493,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1G,1,79494,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C2G,1,79495,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,1,79496,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1G,1,79497,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C1G,1,79498,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
-C1X,13,79499,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79500,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79501,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79502,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79503,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
-C1X,13,79504,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79505,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
-C1X,13,79506,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79507,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
-C1X,13,79508,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79509,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79499,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79500,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79501,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79502,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79503,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79504,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79505,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79506,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79507,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79508,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79509,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79510,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79511,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79512,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79513,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79511,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79512,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79513,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79514,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79515,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79516,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79517,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79515,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79516,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79517,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79518,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79519,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79520,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79521,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79519,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79520,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79521,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79522,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79523,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79524,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79525,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79523,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79524,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79525,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79526,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79527,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79528,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79529,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79527,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79528,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79529,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79530,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79531,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79532,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79533,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79531,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79532,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79533,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79534,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79535,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79536,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79537,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79535,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79536,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79537,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79538,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79539,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79540,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
-C1X,13,79541,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79539,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79540,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79541,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79542,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79543,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79543,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79544,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79545,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79545,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
 C2,13,79546,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79547,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
+C1,13,79547,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8532
 C2,13,79548,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79549,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79549,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
 C2,13,79550,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79551,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79551,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
 C2,13,79552,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79553,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,13,79553,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
 C2,13,79554,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8458
-C1X,13,79555,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79555,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C2,13,79556,City via Tea Tree Plaza Interchange and O-Bahn,0,,8459
-C1X,11,79557,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
-C1X,13,79558,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,11,79557,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,13,79558,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
 C1T,13,79559,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1T,13,79560,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1T,13,79561,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1G,11,79562,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8531
-C1X,13,79563,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79563,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79564,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1G,13,79565,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C1T,13,79566,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79567,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79567,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C2G,13,79568,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79569,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79570,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79570,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79571,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79572,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79573,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79574,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79574,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79575,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79576,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79577,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79578,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79578,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79579,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79580,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79581,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79582,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79582,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79583,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79584,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79585,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79586,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79586,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79587,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79588,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79589,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79590,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79590,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79591,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79592,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79593,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79594,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79594,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79595,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79596,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79597,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1T,13,79598,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79599,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79599,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1G,13,79600,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C1T,13,79601,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79602,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79603,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79604,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79604,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79605,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C2G,13,79606,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1T,13,79607,Tea Tree Plaza Interchange via O-Bahn,1,,8472
@@ -14653,10 +14653,10 @@ C1G,13,79612,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C2G,13,79613,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
 C1G,13,79614,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C2G,13,79615,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8462
-C1X,13,79616,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79616,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1G,13,79617,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
 C1T,11,79618,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1X,13,79619,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
+C1,13,79619,Elizabeth Interchange via O-Bahn Tea Tree Plaza Interchange Golden Grove Road Main North Road ,1,,8530
 C1T,13,79620,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 C1T,11,79621,Tea Tree Plaza Interchange via O-Bahn,1,,8472
 G4,1,79622,Golden Grove Interchange Surrey Downs Golden Grove Interchange via The Golden Grove Way and Bicentennial Dr ,0,,7244
@@ -15817,7 +15817,40 @@ B10,1,80760,Magill to West Lakes Shopping Centre via Magill Rd City and Grange R
 312,13,80777,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,54413,7790
 200,1,80778,Clapham to City via King William Rd,0,,7869
 224,1,80779,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,42158,7770
-C1X,21,80780,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8545
+C1,21,80780,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8545
 885Z,21,80781,Pembroke School to Verdun Junction via Portrush Rd,1,,8553
 885S,21,80782,Aldgate to Pembroke via Portrush Rd,0,,8554
 870Z,21,80783,School service - Glenunga High to City,1,,8379
+B10,11,80802,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,11,80803,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80804,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80805,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80806,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80807,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80808,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80809,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80810,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80811,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80812,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80813,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80814,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80815,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80816,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80817,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80818,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80819,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80820,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80821,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80822,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80823,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80824,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80825,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80826,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80827,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80828,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80829,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80830,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80831,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80832,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,13,80833,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+B10,11,80834,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547

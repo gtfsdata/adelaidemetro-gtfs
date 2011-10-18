@@ -314,6 +314,7 @@ B11,admet,B11,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=sea
 B12,admet,B12,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=B12&js=1,B71B8B,ffffff
 Belair,admet,BEL,Belair,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Belair+train&js=1,00937f,ffffff
 Brighton,admet,BRTN,Brighton,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Noarlunga+train&js=1,0065a4,ffffff
+C1,admet,C1,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1X&js=1,d5df3d,000000
 C1G,admet,C1G,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
 C1K,admet,C1K,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
 C1P,admet,C1P,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=C1&js=1,c78d86,ffffff
