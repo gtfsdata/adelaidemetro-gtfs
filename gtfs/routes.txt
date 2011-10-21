@@ -296,6 +296,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 864H,admet,864H,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=864&js=1,808083,ffffff
 865,admet,865,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=865&js=2,f37735,ffffff
 866,admet,866,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=866&js=1,db0662,ffffff
+866A,admet,866A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=866&js=1,db0662,ffffff
+866R,admet,866R,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=866&js=1,db0662,ffffff
 867,admet,867,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=867&js=1,AEDED3,000000
 868,admet,868,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=868&js=2,a9c398,000000
 870Z,admet,870Z,,,3,http://www.adelaidemetro.com.au/routes/school-bus,79b34d,ffffff
@@ -387,7 +389,6 @@ J1,admet,J1,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=searc
 J1A,admet,J1A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J1A&js=1,c78d86,ffffff
 J2,admet,J2,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J2&js=1,f1df00,000000
 J7,admet,J7,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J7&js=1,008f61,ffffff
-J7M,admet,J7M,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J7M&js=1,008f61,ffffff
 M44,admet,M44,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=M44&js=1,4b711c,ffffff
 M44C,admet,M44C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=M44C&js=1,4b711c,ffffff
 M44G,admet,M44G,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=M44G&js=1,4b711c,ffffff

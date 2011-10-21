@@ -4653,7 +4653,6 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 271,13,65679,City to Tea Tree Plaza via Melbourne St and North East Rd,1,,6929
 271,1,65680,City to Tea Tree Plaza via Melbourne St and North East Rd,1,,6929
 271,13,65681,City to Tea Tree Plaza via Melbourne St and North East Rd,1,,6929
-300H,31,65682,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,,8053
 820,1,65691,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61016,7815
 820,1,65692,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61017,7815
 820,1,65693,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61018,7815
@@ -5168,20 +5167,20 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 866,1,66202,Stirling to Stirling via Piccadilly and South Eastern Freeway,0,61004,6575
 866,1,66203,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61016,6574
 866,1,66204,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61016,6574
-866,1,66205,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61011,7340
-866,1,66206,Crafers Station 24A  to Stirling 36 via Crafers ,1,61363,7940
+866A,1,66205,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61011,7340
+866A,1,66206,Crafers Station 24A  to Stirling 36 via Crafers ,1,61363,7940
 866,1,66207,Crafers Station 24A  to Stirling 36 via Crafers and Piccadilly,1,61016,7938
 866,1,66208,Crafers Station 24A  to Stirling 36 via Crafers and Piccadilly,1,61016,7938
 866,1,66209,Stirling to Stirling via Piccadilly and South Eastern Freeway,1,61004,7939
 866,1,66210,Crafers Station 24A  to Stirling 36 via Crafers and Piccadilly,1,61011,7938
 866,1,66211,Stirling to Stirling via Piccadilly and South Eastern Freeway,1,61004,7939
-866,11,66212,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
-866,12,66213,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
+866R,11,66212,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
+866R,12,66213,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
 866,1,66214,Crafers Station 24A  to Stirling 36 via Crafers and Piccadilly,1,61003,7938
 866,1,66215,Stirling to Stirling via Piccadilly and South Eastern Freeway,1,61025,7939
-866,1,66216,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
-866,1,66217,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61018,6751
-866,1,66218,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61004,6751
+866R,1,66216,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61010,6751
+866R,1,66217,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61018,6751
+866R,1,66218,Crafers Park n Ride to Stirling services travel via Piccadilly and Stirling East on request,1,61004,6751
 867,1,66219,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61004,7943
 867,1,66220,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61008,7942
 867,1,66221,Stirling to Stirling via Crafers and Piccadilly,1,61027,7941
@@ -7489,10 +7488,6 @@ B11,1,70141,City - Adelaide Station to UniSA Magill Campus Express via Magill Ro
 B11,1,70142,City - Adelaide Station to UniSA Magill Campus Express via Magill Road,1,52005,7559
 B11,1,70143,City - Adelaide Station to UniSA Magill Campus Express via Magill Road,1,51106,7559
 B11,1,70144,City - Adelaide Station to UniSA Magill Campus Express via Magill Road,1,53120,7559
-J7M,1,70457,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,,6001
-J7M,1,70458,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,,6001
-J7M,1,70459,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,,6001
-J7M,1,70460,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth Hospital Adelaide Airport ,0,,6001
 N178,51,70473,Rostrevor to City via Montacute Rd and Payneham Rd -After Midnight Service,0,,7813
 N178,51,70474,Rostrevor to City via Montacute Rd and Payneham Rd -After Midnight Service,0,,7813
 N178,51,70475,Rostrevor to City via Montacute Rd and Payneham Rd -After Midnight Service,0,,7813
@@ -8304,7 +8299,6 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72231,Blackwood Station to Marion Shopping Centre,0,,8072
 601,1,72232,Aberfoyle Hub to Flinders University,0,,8076
 600B,1,72233,Aberfoyle Hub to Blackwood Station,0,,7173
-601B,31,72234,Aberfoyle Hub to Blackwood Station,0,,7188
 600,1,72235,Aberfoyle Hub to Flinders University,0,,8074
 605,21,72236,Darlington to Blackwood High School,0,,8224
 600,11,72237,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,,8071
@@ -8331,7 +8325,6 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72258,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,,8071
 600,12,72259,Blackwood Station to Marion Shopping Centre,0,,8072
 600,1,72260,Blackwood Station to Flinders University,0,,8073
-600,31,72261,Blackwood Station to Marion Shopping Centre,0,,8072
 601B,1,72262,Aberfoyle Hub to Blackwood Station,0,,7188
 601B,11,72263,Aberfoyle Hub to Blackwood Station,0,,7188
 601,1,72265,Aberfoyle Hub to Marion Shopping Centre,0,,8075
@@ -9249,8 +9242,6 @@ N1,51,73214,City to Golden Grove Village via O-Bahn after midnight service,1,,81
 N1,51,73215,City to Golden Grove Village via O-Bahn after midnight service,1,,8113
 N1,51,73216,City to Golden Grove Village via O-Bahn after midnight service,1,,8113
 100,1,73885,Plympton 184 to Glen Osmond 19 via Cross Rd,1,53107,7679
-100,31,73886,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
 222,1,73889,Enfield to City via Main North Road and O'Connell Street,0,,7023
 601B,21,73901,Aberfoyle Hub to Blackwood High School,0,,8225
 600,21,73902,Blackwood Station to Marion Shopping Centre,0,,8226
@@ -9367,7 +9358,6 @@ M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 723,1,74195,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41126,4961
 723,1,74196,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41140,4961
 723,1,74197,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41149,4961
-723,31,74199,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41166,4963
 723,1,74200,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41136,4963
 723,1,74201,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41469,4963
 733,1,74202,Marion Shopping Centre to Colonnades Shopping Centre via Diagonal Rd Investigator Dr and Flaxmill Rd,1,41169,4997
@@ -10353,12 +10343,12 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,,8079
 222,1,75197,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41167,7020
 222,1,75198,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41139,7020
 222,1,75199,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41465,7020
-222,1,75200,Enfield to City via Main North Road and O'Connell Street,0,,7022
+222,43,75200,Roma Mitchell Secondary College to City via Main North Road and O'Connell Street,0,,7022
 222,1,75201,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41152,7020
 222,1,75202,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42269,7020
 222,1,75203,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41477,7020
 222,1,75204,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42275,7020
-222,1,75205,Enfield to City via Main North Road and O'Connell Street,0,,7022
+222,44,75205,Roma Mitchell Secondary College to City via Main North Road and O'Connell Street,0,,7022
 222,1,75206,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42264,7020
 222,1,75207,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41150,7020
 222,1,75208,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41126,7020
@@ -12046,8 +12036,6 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 733C,12,76950,Woodcroft via Flaxmill Road,0,41526,8305
 733,26,76951,Noarlunga Interchange to Marion Interchange via Flaxmill Rd and Pimpala Rd,0,,5143
 733,27,76952,Noarlunga Interchange to Marion Interchange via Flaxmill Rd and Pimpala Rd,0,,5143
-733,31,76953,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41466,4996
-733,31,76954,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41472,4996
 723X,1,76955,Woodcroft - Express to Happy Valley,1,41166,8282
 733,12,76956,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,41504,8303
 733,12,76957,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,41560,8303
@@ -12083,8 +12071,6 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 265,1,76987,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,,5585
 265,1,76988,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,,5585
 265,1,76989,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,,5584
-834A,31,76990,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6515
-834,31,76991,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6513
 865,1,76992,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61001,7893
 Noarlunga,13,76993,Noarlunga to City,0,2,1202
 Noarlunga,13,76994,Noarlunga to City,0,2,1202
@@ -13158,10 +13144,8 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 171,1,78117,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,51018,8490
 171,1,78118,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54117,8491
 173,21,78119,City via Main Rd Belair Rd - Blythewood Rd and Fullarton Rd ,0,53125,8496
-171,31,78120,City via Fullarton Rd and Glen Osmond Rd,0,,8492
 171,1,78121,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54120,8491
 173,21,78122,City via Main Rd Belair Rd - Blythewood Rd and Fullarton Rd ,0,52011,8496
-171,31,78123,City via Fullarton Rd and Glen Osmond Rd,0,,8492
 171,1,78124,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54106,8490
 171,1,78125,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,53135,8490
 171,1,78126,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,51023,8490
@@ -15594,15 +15578,6 @@ J7,1,80552,West Lakes Interchange to Marion Shopping Centre via Queen Elizabeth 
 749G,1,80554,Aldinga Beach via Commercial Road Nashwauk Crescent  Griffiths Drive,1,41459,8541
 749G,1,80555,Colonnades Centre Interchange via Griffiths Drive Nashwauk Crescent Commercial Road,0,41172,8540
 749G,1,80556,Colonnades Centre Interchange via Griffiths Drive Nashwauk Crescent Commercial Road,0,41480,8540
-312,1,80557,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,53008,7790
-312,1,80558,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,51137,7790
-312,1,80559,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,54005,7790
-312,1,80560,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,52029,7790
-312,1,80561,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,51019,7790
-312,1,80562,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,54104,7790
-312,1,80563,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,52125,7790
-312,1,80564,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,51117,7790
-312,1,80565,West Lakes Interchange Loop service via Military Rd and West Lakes ,0,52111,7790
 B10,11,80566,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
 B10,11,80567,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
 B10,11,80568,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
