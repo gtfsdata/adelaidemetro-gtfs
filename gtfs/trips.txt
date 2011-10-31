@@ -1580,11 +1580,11 @@ Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 503,13,60491,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
 507,1,60492,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
 507,1,60493,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
-507,13,60494,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
+507,11,60494,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
 507,1,60495,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
 507,1,60496,Tea Tree Plaza Interchange to City via North East Rd Paradise Interchange and the O-Bahn,0,,4775
 507,1,60497,Tea Tree Plaza Interchange to City via North East Rd Paradise Interchange and the O-Bahn,0,,4775
-507,13,60498,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
+507,11,60498,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
 507,1,60499,Tea Tree Plaza Interchange to City via North East Rd Paradise Interchange and the O-Bahn,0,,4775
 507,1,60500,Tea Tree Plaza Interchange to City via North East Rd Paradise Interchange and the O-Bahn,0,,4775
 507,1,60501,Tea Tree Plaza to Paradise Interchange via Nort East Rd and Sudholz Rd ,0,,683
@@ -2452,38 +2452,21 @@ G2,1,61519,Golden Grove Village to Green Valley Dr 78 via Atlantis Dr and Target
 G1,13,61520,Golden Grove Interchange Greenwith Golden Grove Interchange via Golden Grove Rd The Golden Grove Way and Atlantis Dr,1,,7199
 G1,1,61521,Golden Grove Interchange Greenwith Golden Grove Interchange via Golden Grove Rd The Golden Grove Way and Atlantis Dr,1,,7199
 G1,1,61522,Golden Grove Interchange Greenwith Golden Grove Interchange via Golden Grove Rd The Golden Grove Way and Atlantis Dr,1,,7199
-G1,13,61523,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,13,61524,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61525,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61526,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61527,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61528,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61529,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61530,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61531,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61532,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61533,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61534,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61535,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61536,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61537,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61538,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61539,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61540,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61541,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61542,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61543,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61544,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61545,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61546,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61547,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61548,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,1,61549,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,13,61550,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G1,1,61551,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
 G1,13,61552,The Golden Way 73 to Golden Grove Village via Atlantis Dr,1,,7201
-G1,13,61553,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
-G1,1,61554,Golden Grove Interchange Greenwith Golden Grove Interchange via Atlantis Dr and Target Hill,1,,8149
 G40M,1,61572,Golden Grove Village to Tea Tree Plaza Interchange via Bicentennial Dr and Golden Grove Rd,0,,7251
 G40,1,61573,Golden Grove Village to Flinders University via Bicentennial Dr and the City,0,,7246
 G40,1,61574,Golden Grove Village to Flinders University via Bicentennial Dr and the City,0,,7246
@@ -5723,7 +5706,7 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 721,12,67072,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,41505,8174
 721,1,67074,Noarlunga Interchange to City via Beach Rd and Main South Rd,0,42248,4922
 721L,1,67075,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,41133,5190
-721L,13,67076,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,,5190
+721L,12,67076,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,,5190
 721L,1,67077,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,41104,5190
 721L,13,67078,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,41417,5190
 721L,1,67079,Noarlunga Interchange to Lonsdale Depot via Beach Rd and Main South Rd,0,41109,5190
@@ -6285,7 +6268,6 @@ N721,51,67975,City to Colonnades Shopping Centre via Marion Shopping Centre and 
 N721,51,67976,City to Moana and Colonnades Shopping Centre via Marion Shopping Centre and Old Reynella Interchange - after midnight service,1,,5072
 N721,51,67977,City to Colonnades Shopping Centre via Marion Shopping Centre and Old Reynella Interchange - after midnight service,1,,5071
 N721,51,67978,City to Moana and Colonnades Shopping Centre via Marion Shopping Centre and Old Reynella Interchange - after midnight service,1,,5072
-T721X,1,67985,Noarlunga Interchange to City via Beach Rd to Stop 48 Main South Rd then express to the City,0,41140,1299
 T721,1,67993,Noarlunga Interchange to City via Beach Rd and Main South Rd limited Stop service,0,41107,7127
 T721,1,67994,Noarlunga Interchange to City via Beach Rd and Main South Rd limited Stop service,0,41158,7127
 T721,1,67995,City to Noarlunga Interchange via South Rd and Old Reynella Interchange limited Stop service,1,41140,8172
@@ -6339,7 +6321,6 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 722,1,68062,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,42158,4943
 722,11,68063,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
 722F,1,68064,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41167,7643
-722,11,68065,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
 722,1,68068,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,41150,4944
 100,1,68072,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,53104,7680
 100,1,68073,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,53106,7680
@@ -7077,7 +7058,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 148,1,68805,City to Glen Osmond via Unley Rd and Cross Rd,1,53135,7632
 150,1,68806,Osborne to City via Victoria Rd and Port Rd,0,52001,8128
 150,1,68807,Osborne to City via Victoria Rd and Port Rd,0,52006,8128
-150,11,68808,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,,7700
+150,11,68808,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,52404,7700
 150,1,68809,Osborne to City via Victoria Rd and Port Rd,0,52108,8128
 150,1,68810,Largs Bay to City via Port Adelaide,0,52014,6814
 150,1,68811,Osborne to City via Victoria Rd and Port Rd,0,51000,8128
@@ -7199,11 +7180,11 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 150,1,68927,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,52048,7705
 150,13,68928,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,52433,7705
 157,1,68929,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,52004,7710
-155,11,68930,West Lakes Interchange to City via Port Rd,0,,3458
+155,11,68930,West Lakes Interchange to City via Port Rd,0,52402,3458
 157,1,68931,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,52009,7710
 155,1,68932,West Lakes Interchange to City via Port Rd,0,52115,8173
 157X,1,68933,Largs North to City - Adelaide Railway Station via Military Rd and West Lakes Interchange (Express to City),0,52112,7712
-157,11,68934,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,,7710
+157,11,68934,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,52406,7710
 155,1,68935,West Lakes Interchange to City via Port Rd,0,52110,8173
 157X,1,68936,Largs North to City - Adelaide Railway Station via Military Rd and West Lakes Interchange (Express to City),0,52117,7712
 155,1,68937,West Lakes Interchange to City via Port Rd,0,52122,8173
@@ -8754,7 +8735,7 @@ G10,1,72696,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
 G10,11,72697,Bedford Park to Prospect Rd 24 via City,0,,8079
 G10,1,72698,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 G10,1,72699,Prospect Rd 24 to Marion Shopping Centre,1,,8081
-G10C,1,72700,Prospect Rd 24 to City,1,,7213
+G10B,1,72700,Prospect Rd 24 to City,1,,8087
 G10,1,72701,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 G10,11,72702,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 G10,1,72703,Prospect Rd 24 to Marion Shopping Centre,1,,8081
@@ -9783,9 +9764,6 @@ M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 722,1,74633,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,41133,4944
 722A,1,74634,Noarlunga Interchange to Old Reynella Interchange,0,41476,4953
 722A,1,74635,Noarlunga Interchange to Old Reynella Interchange,0,41480,4953
-722,11,74636,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
-722,11,74637,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
-722,11,74638,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
 722,11,74639,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
 722A,11,74640,Noarlunga Interchange to Old Reynella Interchange,0,,4953
 722,12,74641,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,41551,4944
@@ -10573,7 +10551,7 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,,8079
 263,1,75429,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,,5577
 263,13,75430,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,,5577
 263,13,75431,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,,5577
-265,13,75432,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,,5585
+265,11,75432,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,,5585
 265,13,75433,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,,5584
 263,13,75434,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,,5577
 265,13,75435,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,,5584
@@ -11287,7 +11265,6 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 722,1,76193,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
 722,1,76194,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
 722,1,76195,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,41480,4948
-722,11,76196,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
 722,11,76197,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
 722,11,76198,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
 722,11,76199,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
@@ -11310,13 +11287,8 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 722,12,76223,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,41501,4948
 722,12,76224,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,41514,4948
 722L,12,76225,Lonsdale via States Road,0,41505,8334
-722,11,76226,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
 722,11,76227,Noarlunga Interchange to Flinders Medical Centre via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4947
 722,11,76228,Noarlunga Interchange to Flinders Medical Centre via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4947
-T722,1,76229,City to Seaford Shopping Centre limited Stop service via South Rd and Grand Boulevard,1,41485,5074
-T722,1,76230,City to Seaford Shopping Centre limited Stop service via South Rd and Grand Boulevard,1,41469,5074
-T722,1,76231,City to Seaford Shopping Centre limited Stop service via South Rd and Grand Boulevard,1,41470,5074
-T722,1,76232,City to Seaford Shopping Centre limited Stop service via South Rd and Grand Boulevard,1,41474,5074
 251,1,76233,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,,8011
 252,1,76234,Port Adelaide to City via Arndale and Torrens Rd,0,,8015
 251,1,76235,Arndale to City via Torrens Rd and Hawker St,0,,7527
@@ -12012,12 +11984,7 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,,8081
 725,12,76926,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,41561,967
 725,12,76927,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,41501,967
 725,12,76928,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,41556,967
-749G,1,76929,Colonnades via Commercial Road,0,41172,8333
-749G,1,76930,Colonnades via Commercial Road,0,41480,8333
-749G,1,76931,Aldinga Beach via Commercial Road,1,41171,8332
-749G,1,76932,Aldinga Beach via Commercial Road,1,41459,8332
 751W,1,76933,Noarlunga Interchange to Willunga via Seaford Shopping Centre and Southern Expressway ,1,41112,5210
-749,1,76934,Noarlunga Interchange to Aldinga Beach via Noarlunga Interchange Seaford Shopping Centre and Aldinga Shopping Centre,1,41480,5051
 723X,1,76935,City - Express from Happy Valley,0,41154,8281
 733G,1,76936,O'Halloran Hill via Regency Road,0,41105,8307
 733G,1,76937,O'Halloran Hill via Regency Road,0,41172,8306
@@ -15793,9 +15760,6 @@ B10,1,80760,Magill to West Lakes Shopping Centre via Magill Rd City and Grange R
 200,1,80778,Clapham to City via King William Rd,0,,7869
 224,1,80779,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,42158,7770
 C1,21,80780,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,,8545
-885Z,21,80781,Pembroke School to Verdun Junction via Portrush Rd,1,,8553
-885S,21,80782,Aldgate to Pembroke via Portrush Rd,0,,8554
-870Z,21,80783,School service - Glenunga High to City,1,,8379
 B10,11,80802,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
 B10,11,80803,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
 B10,13,80804,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
@@ -15829,3 +15793,10 @@ B10,13,80831,West Lakes Shopping Centre to Magill via Grange Rd City and Magill 
 B10,13,80832,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
 B10,13,80833,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
 B10,11,80834,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,59999,7547
+M44,11,80871,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,59999,7993
+T722,1,80872,Seaford Shopping Centre to City limited Stop service via Grand Boulevard and South Rd,0,49999,6147
+W91,1,80873,St Marys to Marden 13A via City,0,59999,7273
+G10,1,80874,City to Prospect Rd 24,0,59999,7205
+G10B,1,80875,Prospect Rd 24 to City,1,59999,8087
+752,1,80876,McLaren Flat to Seaford Shopping Centre,0,49999,7472
+722,1,80877,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,49999,4948
