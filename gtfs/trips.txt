@@ -835,7 +835,6 @@ Noarlunga,13,57343,City to Noarlunga,1,,1218
 Noarlunga,13,57344,City to Noarlunga,1,,1218
 Noarlunga,13,57345,City to Noarlunga,1,,1218
 Noarlunga,13,57346,City to Noarlunga,1,,1218
-Noarlunga,13,57347,Noarlunga to City,0,,1202
 Tram,11,57770,Glenelg to Entertainment Centre via City,0,,7365
 Tram,11,57771,Glenelg to Entertainment Centre via City,0,,7365
 Tram,11,57772,Glenelg to Entertainment Centre via City,0,,7365
@@ -4459,7 +4458,7 @@ M44T,11,65506,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd
 M44T,12,65507,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5831,8001
 M44,1,65508,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1014,8159
 M44,13,65509,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5561,7966
-M44,1,65510,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1101,8159
+M44,1,65510,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1036,8159
 M44T,11,65511,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5555,8000
 M44T,12,65512,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5802,8001
 M44,1,65513,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1076,8159
@@ -4474,7 +4473,7 @@ M44T,11,65521,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd
 M44T,12,65522,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5868,8001
 M44,1,65523,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1026,8159
 M44,13,65524,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5532,7966
-M44,1,65525,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1110,8159
+M44,1,65525,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1101,8159
 M44T,11,65526,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5672,8000
 M44T,12,65527,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5824,8001
 M44,1,65528,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1034,8159
@@ -4520,7 +4519,7 @@ M44,1,65567,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Cit
 M44,13,65568,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5671,7966
 M44P,1,65569,Marion Shopping Centre to Marion Rd 20,1,5S2688,7003
 M44G,13,65570,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S5593,7999
-M44,1,65571,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S1105,7966
+M44,1,65571,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S1070,7966
 M44G,1,65572,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1501,7999
 M44G,13,65573,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S5566,7999
 M44G,1,65574,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1134,7999
@@ -4830,7 +4829,7 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 861,1,65887,Glen Osmond to City,0,61010,7888
 861,1,65888,Glen Osmond to City,0,61008,7888
 861,1,65889,Glen Osmond to City,0,61014,7888
-861,612,65890,Glen Osmond to City,0,61003,7888
+861,13,65890,Glen Osmond to City,0,61003,7888
 861,1,65891,Glen Osmond to City,0,61019,7888
 861,1,65892,Glen Osmond to City,0,61010,7888
 861,11,65893,Glen Osmond to City,0,61004,7888
@@ -4897,14 +4896,14 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 861,1,65954,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61008,7887
 861,12,65955,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61002,7887
 861,1,65956,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61014,7887
-861,611,65957,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61003,7887
+861,11,65957,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61003,7887
 861,1,65958,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61019,7887
 861,1,65959,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61010,7887
-861,611,65960,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61004,7887
+861,11,65960,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61004,7887
 861,1,65961,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61008,7887
 861,12,65962,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61002,7887
 861,1,65963,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61014,7887
-861,611,65964,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61003,7887
+861,11,65964,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61003,7887
 861,1,65965,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61019,7887
 861,1,65966,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61010,7887
 861,11,65967,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61004,7887
@@ -4951,29 +4950,29 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 861,1,66008,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61016,7887
 861,1,66009,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61016,7887
 861,13,66010,City to Glen Osmond 13 via Pulteney St and Glen Osmond Rd,1,61003,7887
-862,611,66011,Carey Gully 26B to City via Greenhill Rd and Crafers,0,61003,7915
+862,11,66011,Carey Gully 26B to City via Greenhill Rd and Crafers,0,61003,7915
 862,11,66012,City to Carey Gully 26B via Glen Osmond Crafers and Uraidla,1,61003,7914
 863,1,66013,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61001,5126
 863,1,66014,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61002,5126
-863,611,66015,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61001,5126
+863,11,66015,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61001,5126
 T863,1,66016,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61005,5131
 T863,1,66017,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61007,5131
 T863,1,66018,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61009,5131
 T863,1,66019,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61012,5131
-863,611,66020,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61002,5126
+863,11,66020,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61002,5126
 T863,1,66021,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61013,5131
 T863,1,66022,Aldgate 44 to City via Stirling and Pulteney St limited Stop service,0,61014,5131
 863F,1,66023,Aldgate to City via Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd unless passengers are alighting),0,61021,4544
 863,12,66024,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61002,5126
 863F,1,66025,Aldgate to City via Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd unless passengers are alighting),0,61344,4544
-863,611,66026,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61340,5126
+863,11,66026,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61340,5126
 863F,1,66027,Aldgate to City via Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd unless passengers are alighting),0,61347,4544
 863F,1,66028,Aldgate to City via Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd unless passengers are alighting),0,61019,4544
 863,11,66029,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61010,5126
 863,1,66030,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61016,5126
 863,11,66031,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61003,5126
 863,12,66032,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61340,5126
-863,611,66033,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61340,7890
+863,11,66033,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61340,7890
 863,1,66034,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61347,7890
 863F,1,66035,City to Aldgate via Glen Osmond and Crafers (No set down before Stop 14 Glen Osmond Rd from the City),1,,6553
 863F,1,66036,City to Aldgate via Glen Osmond and Crafers (No set down before Stop 14 Glen Osmond Rd from the City),1,61013,6553
@@ -4995,24 +4994,24 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 864,1,66052,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
 864,1,66053,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
 864F,1,66054,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61343,6561
-864,611,66055,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
+864,11,66055,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
 864F,1,66056,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61348,6561
 864,12,66057,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
-864,611,66058,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
+864,11,66058,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
 864H,1,66059,Mt Barker to Heathfield 37A via Hahndorf - Bridgewater - Aldgate and Stirling,0,61354,8168
 864F,1,66060,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,,6561
 864,12,66061,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
 864F,1,66062,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61342,6561
-864,611,66063,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61001,6554
+864,11,66063,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61001,6554
 864F,1,66064,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61341,6561
-864,612,66065,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61342,6554
+864,13,66065,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61342,6554
 864F,1,66066,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61349,6561
-864F,611,66067,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61002,6561
+864F,11,66067,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61002,6561
 864F,1,66068,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61351,6561
-864F,611,66069,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61341,6561
+864F,11,66069,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61341,6561
 864,12,66070,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
 864F,1,66071,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61009,6561
-864F,611,66072,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61343,6561
+864F,11,66072,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61343,6561
 864F,1,66073,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61023,6561
 864F,11,66074,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61001,6561
 864,12,66075,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
@@ -5063,26 +5062,26 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 864,12,66120,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61342,6554
 864,1,66121,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61001,7891
 864,1,66122,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61340,7891
-864,611,66123,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61001,7891
+864,11,66123,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61001,7891
 864,1,66124,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61341,7891
 864,1,66125,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61346,7891
 864F,1,66126,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61349,7892
-864,612,66127,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61002,7891
+864,13,66127,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61002,7891
 864F,1,66128,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61351,7892
-864,611,66129,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61341,7891
+864,11,66129,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61341,7891
 864F,1,66130,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61009,7892
-864,612,66131,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61340,7891
+864,13,66131,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61340,7891
 864F,1,66132,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61023,7892
-864,611,66133,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61001,7891
+864,11,66133,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61001,7891
 864F,1,66134,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61341,7892
-864,612,66135,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61342,7891
+864,13,66135,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61342,7891
 864F,1,66136,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61349,7892
-864F,611,66137,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61002,7892
+864F,11,66137,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61002,7892
 864F,1,66138,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61351,7892
-864F,611,66139,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61341,7892
+864F,11,66139,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61341,7892
 864,12,66140,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61340,7891
 864F,1,66141,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61009,7892
-864F,611,66142,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61343,7892
+864F,11,66142,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61343,7892
 864F,1,66143,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61023,7892
 864F,11,66144,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,61001,7892
 864,12,66145,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,61341,7891
@@ -5131,7 +5130,7 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 865,1,66188,Aldgate 44 to City via Pomona Rd Crafers Park n Ride and South Eastern Freeway,0,61010,6566
 865,11,66189,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61010,6571
 865,12,66190,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61010,6571
-865,611,66191,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61004,8134
+865,11,66191,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,61004,8134
 865,11,66192,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61010,6571
 865,12,66193,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61010,6571
 865,11,66194,Stirling 36 to Crafers Ramp 24 via Crafers ,0,61010,6571
@@ -6757,7 +6756,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 142,13,68509,City to Burnside via Kensington Rd,1,51410,6809
 141,1,68510,City to Stonyfell via Kensington Rd and Hallett Rd,1,52101,6808
 142,1,68511,City to Burnside via Kensington Rd,1,54031,6809
-141,1,68512,City to Stonyfell via Kensington Rd and Hallett Rd,1,52100,6808
+141,1,68512,City to Stonyfell via Kensington Rd and Hallett Rd,1,52031,6808
 141,13,68513,City to Stonyfell via Kensington Rd and Hallett Rd,1,52424,6808
 142,1,68514,City to Burnside via Kensington Rd,1,53017,6809
 141,1,68515,City to Stonyfell via Kensington Rd and Hallett Rd,1,51028,6808
@@ -6772,7 +6771,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 142,1,68524,City to Burnside via Kensington Rd,1,52131,6809
 141,1,68525,City to Stonyfell via Kensington Rd and Hallett Rd,1,52127,6808
 142,1,68526,City to Burnside via Kensington Rd,1,53110,6809
-141,1,68527,City to Stonyfell via Kensington Rd and Hallett Rd,1,52130,6808
+141,1,68527,City to Stonyfell via Kensington Rd and Hallett Rd,1,52048,6808
 142,1,68528,City to Burnside via Kensington Rd,1,51047,6809
 142,13,68529,City to Burnside via Kensington Rd,1,52422,6809
 141,1,68530,City to Stonyfell via Kensington Rd and Hallett Rd,1,53027,6808
@@ -6818,10 +6817,10 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 144,1,68570,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,52005,7623
 144,1,68571,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,53107,7623
 144,1,68572,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,53102,7626
-140,1,68573,Glen Osmond to City via Portrush Rd and The Parade,0,52103,7621
+140,1,68573,Glen Osmond to City via Portrush Rd and The Parade,0,52103,8587
 144,11,68574,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
 144,1,68575,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,53108,7627
-140,1,68576,Glen Osmond to City via Portrush Rd and The Parade,0,54109,7621
+140,1,68576,Glen Osmond to City via Portrush Rd and The Parade,0,54109,8587
 140,1,68577,Glen Osmond to City via Portrush Rd and The Parade,0,53109,7621
 144,1,68578,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,54000,7627
 140,1,68579,Glen Osmond to City via Portrush Rd and The Parade,0,52114,7621
@@ -8693,7 +8692,7 @@ G10,1,72657,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1645,8077
 G10,13,72658,Marion Shopping Centre to Prospect Rd 24 via City,0,5S5545,8077
 G10,1,72659,City to Prospect Rd 24,0,5S1120,7205
 G10,1,72660,Bedford Park to Prospect Rd 24 via City,0,5S2300,8079
-G10,1,72661,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1205,8077
+G10,1,72661,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1241,8077
 G10,13,72662,City to Prospect Rd 24,0,5S5675,7205
 G10,1,72663,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1183,8077
 G10,13,72664,Marion Shopping Centre to Prospect Rd 24 via City,0,5S5562,8077
@@ -8875,7 +8874,7 @@ G21,11,72847,Aberfoyle Hub to Bedford Park,0,5S5636,8104
 G21X,1,72848,Old Reynella Interchange and Aberfoyle Hub to City running express between Stop 26 Main South Rd and Stop D2 Grote St City,0,5S1641,7232
 G21,1,72849,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1645,7224
 G21,13,72850,Aberfoyle Hub to Bedford Park,0,5S5648,8104
-G21,1,72851,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1680,7225
+G21,1,72851,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1680,8588
 G21,13,72853,Aberfoyle Hub to Bedford Park,0,5S5649,8104
 G21,13,72856,Aberfoyle Hub to Bedford Park,0,5S5636,8104
 G21,1,72857,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1670,7225
@@ -9010,10 +9009,10 @@ N21,51,72988,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion
 N21,51,72989,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,5S5691,7261
 N21,51,72990,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,5S5693,7261
 N21,51,72991,King William St City to Aberfoyle Hub 54 via Goodwood Rd and Marion Shopping Centre - after midnight service,1,5S5695,7261
-N262,51,73000,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5595,5855
-N262,51,73001,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5692,5855
-N262,51,73002,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5694,5855
-N262,51,73003,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5605,5855
+N262,51,73000,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5595,8121
+N262,51,73001,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5692,8121
+N262,51,73002,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5694,8121
+N262,51,73003,Marion Shopping Centre to City via Glenelg - after midnight service,0,5S5605,8121
 N262,51,73005,City to Marion Shopping Centre via Glenelg - after midnight service,1,5S5694,5857
 N262,51,73006,City to Marion Shopping Centre via Glenelg - after midnight service,1,5S5605,5857
 N262,51,73007,City to Marion Shopping Centre via Glenelg - after midnight service,1,5S5692,5857
@@ -10049,7 +10048,7 @@ G20,1,74918,Aberfoyle Hub to City,0,5S1447,7219
 640,1,74926,Marion via Brighton Rd and Seacombe Rd,1,41121,8280
 640,1,74927,Marion via Brighton Rd and Seacombe Rd,1,41115,8280
 640,1,74928,Marion via Brighton Rd and Seacombe Rd,1,41120,8280
-N262,51,74929,City to Marion Shopping Centre via Glenelg - after midnight service,1,,5857
+N262,51,74929,City to Marion Shopping Centre via Glenelg - after midnight service,1,5S5692,5857
 G10B,13,74930,Prospect Rd 24 to City,1,5S5627,8087
 G10B,13,74931,Prospect Rd 24 to City,1,5S5636,8087
 G10B,13,74932,Prospect Rd 24 to City,1,5S5646,8087
@@ -10068,7 +10067,6 @@ G10B,13,74944,Prospect Rd 24 to City,1,5S5633,8087
 G10B,13,74945,Prospect Rd 24 to City,1,5S5647,8087
 G10B,13,74946,Prospect Rd 24 to City,1,5S5658,8087
 G10B,13,74947,Prospect Rd 24 to City,1,5S5660,8087
-G10B,13,74948,Prospect Rd 24 to City,1,5S5689,8087
 G10B,13,74949,Prospect Rd 24 to City,1,5S5659,8087
 G30,1,74950,Golden Grove Village to Blackwood Station,0,,8111
 G10,11,74951,Bedford Park to Prospect Rd 24 via City,0,5S5636,8079
@@ -10266,7 +10264,7 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,5S5658,8079
 226F,1,75143,Mawson Lakes UniSA to City via Main North Rd no pick up after stop 10 Main North Rd,0,41451,7052
 224,1,75144,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42253,6022
 224,1,75145,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42261,6022
-224,1,75146,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42107,7029
+224,1,75146,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42107,6022
 224,1,75147,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42131,7029
 224,1,75148,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,42248,7029
 224,11,75149,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
@@ -11149,7 +11147,7 @@ T721X,1,75794,City to Noarlunga Interchange Express to Stop 48 Main South Rd fro
 200,1,76065,Clapham to City via King William Rd,0,5S1491,7869
 200,1,76066,Marion Shopping Centre to City via King William Rd,0,5S1138,6297
 200,1,76067,Clapham to City via King William Rd,0,5S1141,7869
-200,13,76068,Marion Shopping Centre to City via King William Rd,0,5S5597,6297
+200,1,76068,Marion Shopping Centre to City via King William Rd,0,5S5597,6297
 200,13,76069,Clapham to City via King William Rd,0,5S5587,7869
 200,13,76070,Marion Shopping Centre to City via King William Rd,0,5S5574,7865
 200,13,76071,Clapham to City via King William Rd,0,5S5665,7869
@@ -12034,30 +12032,30 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,5S1604,8081
 834A,31,76990,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6515
 834,31,76991,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6513
 865,1,76992,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61001,7893
-Noarlunga,13,76993,Noarlunga to City,0,,1202
-Noarlunga,13,76994,Noarlunga to City,0,,1202
-Noarlunga,13,76995,Noarlunga to City,0,,1202
-Noarlunga,13,76996,Noarlunga to City,0,,1202
-Noarlunga,13,76997,Noarlunga to City,0,,1202
-Noarlunga,13,76998,Noarlunga to City,0,,1202
-Noarlunga,13,76999,Noarlunga to City,0,,1202
-Noarlunga,13,77000,Noarlunga to City,0,,1202
-Noarlunga,13,77001,Noarlunga to City,0,,1202
-Noarlunga,13,77002,Noarlunga to City,0,,1202
-Noarlunga,13,77003,Noarlunga to City,0,,1202
-Noarlunga,13,77004,Noarlunga to City,0,,1202
-Noarlunga,13,77005,Noarlunga to City,0,,1202
-Noarlunga,13,77006,Noarlunga to City,0,,1203
-Noarlunga,13,77007,Noarlunga to City,0,,1203
-Noarlunga,13,77008,Noarlunga to City,0,,1203
-Noarlunga,13,77009,Noarlunga to City,0,,1203
-Noarlunga,13,77010,Noarlunga to City,0,,1203
-Noarlunga,13,77011,Noarlunga to City,0,,1203
-Noarlunga,13,77012,Noarlunga to City,0,,1203
-Noarlunga,13,77013,Noarlunga to City,0,,1203
-Noarlunga,13,77014,Noarlunga to City,0,,1203
-Noarlunga,13,77015,Noarlunga to City,0,,1203
-Noarlunga,13,77016,Noarlunga to City,0,,1203
+Noarlunga,13,76993,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76994,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76995,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76996,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76997,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76998,Noarlunga to City,0,2 ,1202
+Noarlunga,13,76999,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77000,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77001,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77002,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77003,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77004,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77005,Noarlunga to City,0,2 ,1202
+Noarlunga,13,77006,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77007,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77008,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77009,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77010,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77011,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77012,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77013,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77014,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77015,Noarlunga to City,0,2 ,1203
+Noarlunga,13,77016,Noarlunga to City,0,2 ,1203
 493,1,77032,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
 493,1,77033,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
 493,1,77034,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
@@ -12778,7 +12776,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 167,1,77789,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,54002,5353
 167,1,77790,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,53101,5353
 168,1,77791,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53105,5359
-167,1,77792,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,51102,5353
+167,1,77792,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,53002,5353
 168,1,77793,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53009,5359
 167,1,77794,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,5353
 168,1,77795,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,54110,5359
@@ -13730,7 +13728,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 248,1,78741,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1606,7985
 241,1,78742,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1298,6911
 248,1,78743,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1623,7985
-241,1,78744,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1691,6911
+241,1,78744,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
 248,1,78745,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1459,7985
 241,1,78746,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1298,6911
 248,1,78747,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1682,7985
@@ -13738,7 +13736,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 248,1,78749,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1401,7985
 241,1,78750,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1011,6911
 248,1,78751,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1407,7985
-241,1,78752,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1691,6911
+241,1,78752,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
 248,1,78753,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1459,7985
 241,1,78754,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1067,6911
 248,1,78755,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1477,7985
@@ -14411,7 +14409,7 @@ C1,1,79421,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golde
 C2,1,79422,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,7S1043,8461
 C1,1,79423,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,5S1066,8455
 C2,1,79424,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,7S1048,8461
-C1,1,79425,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,5S1105,8455
+C1,1,79425,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,5S1057,8455
 C2,1,79426,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,7S1081,8461
 C1,1,79427,Elizabeth Interchange via O-Bahn - Tea Tree Plaza Interchange - Golden Grove Rd and Main North Rd,1,5S1008,8455
 C2,1,79428,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange ,1,7S1085,8461
@@ -14738,7 +14736,7 @@ H21,1,79749,City via Reserve Rd - Glynburn Rd and The Parade ,0,54011,8517
 H21,1,79750,City via Reserve Rd - Glynburn Rd and The Parade ,0,53012,8517
 H21,1,79751,City via Reserve Rd - Glynburn Rd and The Parade ,0,51041,8517
 H21,1,79752,City via Reserve Rd - Glynburn Rd and The Parade,0,51108,8518
-H21,1,79753,City via Reserve Rd Glynburn Rd and The Parade,0,51046,8515
+H21,1,79753,City via Reserve Rd - Glynburn Rd and The Parade ,0,51046,8517
 H21,1,79754,City via Reserve Rd Glynburn Rd and The Parade,0,51116,8515
 H21,1,79755,City via Reserve Rd - Glynburn Rd and The Parade,0,51052,8519
 H21,1,79756,City via Reserve Rd - Glynburn Rd and The Parade,0,54013,8519
@@ -15153,7 +15151,7 @@ H31,1,80164,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and C
 H31,1,80165,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,52029,7832
 H31,1,80166,City to Henley Beach via Henley Beach and Cheadle St,0,54030,7835
 H31,1,80167,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,53115,7832
-H31,1,80168,City to Henley Beach via Henley Beach and Cheadle St,0,52029,7835
+H31,1,80168,City to Henley Beach via Henley Beach and Cheadle St,0,54013,7835
 H31,1,80169,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,52025,7832
 H31,1,80170,City to Henley Beach via Henley Beach and Cheadle St,0,53115,7835
 H31,1,80171,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,54029,7832
@@ -15251,10 +15249,10 @@ H31C,13,80262,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,5
 H31C,13,80263,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51421,7613
 H31C,13,80264,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,53415,7613
 H31C,13,80265,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51423,7613
-H31C,13,80266,Rostrevor to City via Reid Av and Coorara Ave,0,54418,7612
+H31C,13,80266,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,54418,7613
 H31C,13,80267,Rostrevor to City via Reid Av and Coorara Ave,0,52420,7612
 H31C,13,80268,Rostrevor to City via Reid Av and Coorara Ave,0,54414,7612
-H31C,13,80269,Rostrevor to City via Reid Av and Coorara Ave,0,51441,7612
+H31C,13,80269,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51441,7613
 H31C,13,80270,Rostrevor to City via Reid Av and Coorara Ave,0,53417,7612
 H31C,13,80271,Rostrevor to City via Reid Av and Coorara Ave,0,51436,7612
 H31C,13,80272,Rostrevor to City via Reid Av and Coorara Ave,0,52432,7612
@@ -15638,12 +15636,12 @@ B10,1,80658,City to Magill via Magill Road and Church Street,1,52034,7554
 B10X,1,80659,City to Magill via Rundle Rd and Magill Rd - Express between Stop G3 Grenfell St and Stop 2 North Tce ,1,,7557
 B10X,1,80660,West Lakes Shopping Centre to Magill via Grange Rd City & Magill Rd - Express between Stop 2 North Tce and Stop G3 Grenfell St,1,53121,7556
 B10,1,80661,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,51113,7547
-B10,1,80662,City to Magill via Magill Road and Church Street,1,52032,7553
+B10,1,80662,City to Magill via Magill Road and Church Street,1,51034,7553
 B10,1,80663,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,51124,7547
 B10,1,80664,City to Magill via Magill Road and Church Street,1,52036,7553
-B10,1,80665,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,52038,7547
+B10,1,80665,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,52033,7547
 B10,1,80666,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,52032,7547
-B10,1,80667,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,52036,7547
+B10,1,80667,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,51029,7547
 B10,1,80668,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,54028,7547
 B10,1,80669,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,51034,7547
 B10,1,80670,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,53019,7547
@@ -15790,32 +15788,6 @@ B10,13,80831,West Lakes Shopping Centre to Magill via Grange Rd City and Magill 
 B10,13,80832,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
 B10,13,80833,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
 B10,11,80834,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
-861,511,80843,Glen Osmond to City,0,,8576
-861,511,80844,City to Glen Osmond,1,,8577
-861,511,80845,City to Glen Osmond,1,,8577
-861,511,80846,City to Glen Osmond,1,,8577
-862,511,80847,Carey Gully 26B to City via Greenhill Rd and Crafers,0,,8578
-863,511,80848,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,,8579
-863,511,80849,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,,8579
-863,511,80850,Aldgate 44 to City via Stirling Crafers and Glen Osmond,0,,8579
-863,511,80851,City to Aldgate via Crafers,1,,8580
-864,511,80852,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,,8581
-864,511,80853,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,,8581
-864,511,80855,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,,8581
-864,511,80856,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,,8581
-864,511,80857,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864,511,80858,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864,511,80859,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864,511,80860,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864,511,80861,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864,511,80862,City to Mt Barker via Stirling - Bridgewater and Hahndorf,1,,8582
-864F,511,80863,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,,8583
-864F,511,80864,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,,8583
-864F,511,80865,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,,8583
-864F,511,80866,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,,8584
-864F,511,80867,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,,8584
-864F,511,80868,City to Mt Barker via Stirling Bridgewater and Hahndorf - no set down before stop 14 Glen Osmond Rd,1,,8584
-865,511,80869,Mt Barker to Heathfield 37A via Hahndorf - Bridgewater - Aldgate and Stirling,0,,8585
 M44,11,80871,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7993
 T722,1,80872,Seaford Shopping Centre to City limited Stop service via Grand Boulevard and South Rd,0,,6147
 W91,1,80873,St Marys to Marden 13A via City,0,,7273
