@@ -739,9 +739,9 @@ Outer Harbor,13,41061,Outer Harbor to City,0,,1232
 Outer Harbor,11,41062,Outer Harbor to City,0,,1232
 Outer Harbor,13,41063,Outer Harbor to City,0,,1232
 Outer Harbor,13,41064,Outer Harbor to City,0,,1232
-Outer Harbor,1,41065,Outer Harbor to City,0,,1232
+Outer Harbor,13,41065,Outer Harbor to City,0,,1232
 Outer Harbor,13,41066,Outer Harbor to City,0,,1232
-Outer Harbor,1,41067,Outer Harbor to City,0,,1232
+Outer Harbor,13,41067,Outer Harbor to City,0,,1232
 Grange,11,41068,Grange to City,0,,1196
 Grange,13,41069,Grange to City,0,,1196
 Grange,13,41070,Grange to City,0,,1196
@@ -1561,7 +1561,7 @@ Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 503,1,60473,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S1085,4137
 503,13,60474,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S5535,4137
 503,1,60475,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S1223,4137
-503,1,60476,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S1192,4137
+503,1,60476,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S1128,4137
 503,13,60477,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,5S5546,4137
 503,1,60478,City to Tea Tree Plaza via Klemzig Station Paradise Interchange Valiant Rd and Smart Rd,1,5S1192,7916
 503,1,60479,City to Tea Tree Plaza via Klemzig Station Paradise Interchange Valiant Rd and Smart Rd,1,5S1058,7916
@@ -1728,7 +1728,7 @@ Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 541X,1,60725,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1287,6994
 541X,1,60726,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1104,6994
 541,13,60727,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,5S5514,3256
-541X,1,60728,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1198,6994
+541X,1,60728,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1204,7338
 541X,1,60729,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1243,6994
 541,13,60730,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,5S5558,3256
 541X,1,60731,Fairview Park to City running express between Tea Tree Plaza Interchange and the city,0,5S1281,6994
@@ -2546,7 +2546,7 @@ RZ5,1,62023,Holden Hill Roam Zone Service,1,5S1140,
 222,1,62275,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,41119,7764
 222,1,62276,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,42268,7764
 222,1,62277,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,42276,7764
-222,1,62280,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,42255,7362
+222,1,62280,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,41165,7362
 222,1,62281,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,42255,7764
 222,1,62286,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,42275,7362
 222,1,62289,Gepps Cross to Mawson Interchange via Main North Rd and Mawson Lakes Boulevard,1,41100,6017
@@ -3160,7 +3160,7 @@ RZ5,1,62023,Holden Hill Roam Zone Service,1,5S1140,
 405,1,63147,Salisbury Paralowie Salisbury Loop Clockwise via Spains Rd Kings Rd and Waterloo Cr Rd ,0,42150,6990
 405,11,63148,Salisbury Paralowie Salisbury Loop Clockwise via Spains Rd Kings Rd and Waterloo Cr Rd ,0,,6989
 405,1,63149,Salisbury Paralowie Salisbury Loop Clockwise via Spains Rd Kings Rd and Waterloo Cr Rd ,0,42103,6989
-415,1,63150,Salisbury Interchange to Greenwith via Target Hill Rd and Saints Rd,0,42256,6070
+415,1,63150,Salisbury Interchange to Greenwith via Target Hill Rd and Saints Rd,0,42121,6070
 415,11,63151,Salisbury Interchange to Greenwith via Target Hill Rd and Saints Rd,0,,6070
 415V,1,63152,Salisbury Interchange to Golden Grove Village via Target Hill Rd Golden Grove Rd and The Golden Wy,0,42256,6076
 415V,1,63153,Salisbury Interchange to Golden Grove Village via Target Hill Rd Golden Grove Rd and The Golden Wy,0,42115,6076
@@ -3947,7 +3947,7 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300,1,64510,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,5S1440,8060
 300,1,64511,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,5S1671,8060
 300,1,64512,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,5S1244,8060
-300,1,64513,Marion Shopping Centre to Arndale Interchange via Sturt Rd Ayliffes Rd Belair Rd Cross Rd Portrush Rd O.G Rd Regency Rd,1,5S1636,8059
+300,1,64513,Marion Shopping Centre to Arndale Interchange via Sturt Rd Ayliffes Rd Belair Rd Cross Rd Portrush Rd O.G Rd Regency Rd,1,5S1654,8059
 300,11,64514,Glen Osmond 19 to Arndale Interchange via Portrush Rd O.G Rd Muller Rd Regency Rd,1,5S5653,8060
 300,1,64515,Arndale Interchange to Arndale Interchange via Woodville Rd Grange Rd Seaview Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Belair Rd  Cross Rd Portrush Rd O.G. Rd Regency Rd,1,5S1045,8056
 300U,11,64516,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5644,8067
@@ -4026,20 +4026,20 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300M,13,64599,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5649,8066
 300U,1,64600,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S1616,8067
 300H,1,64601,Arndale Interchange to Glen Osmond via Woodville Rd Seaview Rd Grange Rd  West Beach Rd Glenelg Interchange Diagonal Rd Marion Shopping Centre Sturt Rd Flinders University Cross Rd Portrush Rd 19,1,5S1141,8062
-300G,13,64602,Arndale Interchange to Glenelg Interchange via  Woodville Rd Grange Rd Seaview Rd West Beach Rd Tapleys Hill Rd Moseley St,1,5S5686,8061
+300G,512,64602,Arndale Interchange to Glenelg Interchange via  Woodville Rd Grange Rd Seaview Rd West Beach Rd Tapleys Hill Rd Moseley St,1,5S5686,8061
 300U,1,64603,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S1478,8067
-300M,13,64605,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5686,8066
+300M,512,64605,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5686,8066
 300H,1,64606,Marion Shopping Centre to Glen Osmond 19 via Sturt Rd Flinders University Ayliffes Rd Belair Rd Cross Rd Portrush Rd 19,1,5S1142,8064
 300M,1,64607,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S1494,8066
-300M,13,64608,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5670,8066
+300M,512,64608,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5670,8066
 300H,1,64609,Marion Shopping Centre to Glen Osmond 19 via Sturt Rd Flinders University Ayliffes Rd Belair Rd Cross Rd Portrush Rd 19,1,5S1104,8064
 300M,1,64610,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S1472,8066
-300M,13,64611,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5670,8066
+300M,512,64611,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5670,8066
 300H,1,64612,Marion Shopping Centre to Glen Osmond 19 via Sturt Rd Flinders University Ayliffes Rd Belair Rd Cross Rd Portrush Rd 19,1,5S1496,8064
 300M,1,64613,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S1498,8066
-300M,13,64614,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5675,8066
+300M,512,64614,Glenelg Interchange to Marion Shopping Centre via Moseley St Diagonal Rd Sturt Rd,1,5S5675,8066
 300,1,64615,Marion Shopping Centre to Arndale Interchange via Morphett Rd Diagonal Rd Glenelg Interchange West Beach Rd Seaview Rd Grange Rd and Woodville Rd,0,5S1044,8151
-300,1,64616,Marion Shopping Centre to Arndale Interchange via Morphett Rd Diagonal Rd Glenelg Interchange West Beach Rd Seaview Rd Grange Rd and Woodville Rd,0,5S1618,8151
+300,1,64616,Marion Shopping Centre to Arndale Interchange via Morphett Rd Diagonal Rd Glenelg Interchange West Beach Rd Seaview Rd Grange Rd and Woodville Rd,0,5S1064,8151
 300G,1,64617,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,5S1431,8049
 300,11,64618,Glen Osmond 19 to Arndale Interchange via Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd and Woodville Rd,0,,8045
 300,1,64619,Arndale Interchange to Arndale Interchange via Regency Rd O.G Road Portrush Rd Cross Rd Belair Rd Sturt Rd Marion Shopping Centre Diagonal Rd Glenelg Interchange Seaview Rd Grange Rd Woodville Rd,0,5S1056,8044
@@ -4125,16 +4125,16 @@ N224,51,63947,City to Gawler via Mawson Lakes Salisbury and Elizabeth - after mi
 300H,1,64699,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,5S1654,8053
 300H,1,64700,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,5S1463,8053
 300G,1,64701,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,5S1465,8049
-300G,13,64702,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
+300G,512,64702,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
 300G,1,64703,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,5S1491,8049
 300G,1,64704,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S1474,8050
-300G,13,64705,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
+300G,512,64705,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
 300G,1,64706,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,5S1457,8049
 300G,1,64707,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S1478,8050
-300G,13,64708,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
+300G,512,64708,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5670,8050
 300G,1,64709,Flinders University to Glenelg Interchange via Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,0,5S1485,8049
 300G,1,64710,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S1500,8050
-300G,13,64711,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5675,8050
+300G,512,64711,Marion Shopping Centre to Glenelg Interchange via Morphett Rd Diagonal Rd,0,5S5675,8050
 361,1,64712,Tea Tree Plaza to Port Adelaide via Grand Junction Rd,1,5S1060,6950
 361,1,64713,Tea Tree Plaza to Port Adelaide via Grand Junction Rd,1,5S1197,6950
 361,1,64714,Tea Tree Plaza to Port Adelaide via Grand Junction Rd,1,5S1011,6950
@@ -4317,7 +4317,7 @@ M44,1,65363,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City a
 M44,11,65364,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5555,7993
 M44C,12,65365,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 M44,1,65366,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1417,8157
-M44,13,65367,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5503,7992
+M44,13,65367,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5564,7992
 M44,1,65368,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1006,8157
 M44,11,65369,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5551,7993
 M44C,12,65370,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
@@ -4337,7 +4337,7 @@ M44,1,65383,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City a
 M44,11,65384,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5569,7993
 M44C,12,65385,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 M44,1,65386,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1406,8157
-M44,13,65387,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5536,7992
+M44,13,65387,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5509,7992
 M44,1,65388,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1014,8157
 M44,11,65389,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5534,7993
 M44C,12,65390,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
@@ -4353,7 +4353,7 @@ M44,1,65399,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City a
 M44,11,65400,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5576,7993
 M44C,12,65401,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 M44,1,65402,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1111,8157
-M44,13,65403,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5575,7992
+M44,13,65403,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5564,7992
 M44,1,65404,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S1207,8157
 M44,11,65405,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,5S5582,7993
 M44C,12,65406,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
@@ -4431,11 +4431,11 @@ M44,13,65479,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Ci
 M44,1,65480,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1186,8159
 M44C,1,65481,Marion Shopping Centre to City via Marion Rd,1,5S1249,7000
 M44,13,65482,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5503,7966
-M44,1,65483,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1286,8159
+M44,1,65483,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1268,8159
 M44T,11,65484,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5549,8000
-M44,1,65485,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1281,8159
+M44,1,65485,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1288,8159
 M44,13,65486,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5524,7966
-M44,1,65487,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1287,8159
+M44,1,65487,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1417,8159
 M44T,11,65488,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5551,8000
 M44,1,65489,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1223,8159
 M44,13,65490,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5518,7966
@@ -4446,9 +4446,9 @@ M44,13,65494,Marion Shopping Centre to Golden Grove Interchange via Marion Rd Ci
 M44,1,65495,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1286,8159
 M44T,11,65496,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5535,8000
 M44T,12,65497,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5812,8001
-M44,1,65498,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1076,8159
+M44,1,65498,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1281,8159
 M44,13,65499,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City and O-Bahn,1,5S5559,7966
-M44,1,65500,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1068,8159
+M44,1,65500,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1287,8159
 M44T,11,65501,Marion Shopping Centre to Tea Tree Plaza Interchange via Marion Rd City and O-Bahn,1,5S5672,8000
 M44T,12,65502,City to Tea Tree Plaza Interchange via O-Bahn ,1,5S5844,8001
 M44,1,65503,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,5S1659,8159
@@ -6281,39 +6281,39 @@ T748,1,68023,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre limited Stop service,1,41482,7699
 722,1,68025,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,41102,4944
 722F,1,68026,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41106,7643
-722,11,68028,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68028,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722X,1,68030,Noarlunga Interchange to City Express - servicing Stop 40 Panalatinga Rd Old Reynella Interchange Burgoyne Dr and Elizabeth Rd,0,41142,7116
 722X,1,68032,Noarlunga Interchange to City Express - servicing Stop 40 Panalatinga Rd Old Reynella Interchange Burgoyne Dr and Elizabeth Rd,0,41108,7116
-722,11,68033,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68033,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68034,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41161,7643
 722F,1,68035,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,42112,7643
-722,11,68036,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68036,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68037,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,42252,7643
 722F,1,68038,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41170,7643
-722,11,68039,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68039,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68040,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41465,7643
 722F,1,68041,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,42125,7643
-722,11,68042,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68042,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68043,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41469,7643
 722F,1,68044,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41102,7643
-722,11,68045,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68045,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68046,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41150,7643
 722F,1,68047,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41136,7643
-722,11,68048,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68048,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68049,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41457,7643
 722F,1,68050,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41471,7643
-722,11,68051,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68051,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68052,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41163,7643
 722F,1,68053,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41101,7643
-722,11,68054,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68054,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68055,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41156,7643
 722F,1,68056,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41129,7643
-722,11,68057,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68057,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68058,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41474,7643
 722F,1,68059,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41165,7643
-722,11,68060,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68060,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722,1,68062,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,42158,4943
-722,11,68063,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4943
+722,11,68063,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
 722F,1,68064,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd (No pick up after Stop 26 Main South Rd),0,41167,7643
 722,1,68068,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,41150,4944
 100,1,68072,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,53104,7680
@@ -6327,7 +6327,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 100,1,68080,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,52012,7681
 100,1,68081,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,53008,7681
 100,11,68082,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,,7680
-100,1,68083,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,53117,7681
+100,1,68083,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,52117,7681
 100,1,68084,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,52129,7681
 100,11,68085,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
 100,1,68086,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,52135,7681
@@ -6360,8 +6360,8 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 101,1,68113,Flinders University to Arndale Shopping Centre via Marion Rd,0,54108,7620
 100P,1,68114,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,53108,7685
 100P,11,68115,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
-100,1,68116,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,53123,7681
-100P,1,68117,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,54119,7685
+100,1,68116,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,53021,7681
+100P,1,68117,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,53117,7685
 100P,11,68118,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
 100P,1,68119,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,53125,7685
 100,1,68120,Plympton 184 to Glen Osmond 19 via Cross Rd,1,54006,7679
@@ -6407,13 +6407,13 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 100,1,68160,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,54028,7678
 100P,1,68161,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,52044,7684
 100,11,68162,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,1,68163,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,53123,7678
+100,1,68163,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,53023,7678
 100P,1,68164,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,51118,7684
 100,1,68165,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,53022,7678
 100P,11,68166,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
 100,1,68167,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,53123,7678
 100P,1,68168,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,54119,7684
-100P,1,68169,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,53125,7684
+100P,1,68169,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,53021,7684
 100P,1,68170,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,51038,7684
 117,1,68171,Port Adelaide Interchange to City via West Lakes Interchange and Port Adelaide,0,52010,7669
 117,1,68172,Port Adelaide Interchange to City via West Lakes Interchange and Port Adelaide,0,52113,7669
@@ -6761,12 +6761,12 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 142,1,68514,City to Burnside via Kensington Rd,1,53017,6809
 141,1,68515,City to Stonyfell via Kensington Rd and Hallett Rd,1,51028,6808
 142,1,68516,City to Burnside via Kensington Rd,1,53019,6809
-141,1,68517,City to Stonyfell via Kensington Rd and Hallett Rd,1,54031,6808
+141,1,68517,City to Stonyfell via Kensington Rd and Hallett Rd,1,52134,6808
 142,13,68518,City to Burnside via Kensington Rd,1,54416,6809
 142,1,68519,City to Burnside via Kensington Rd,1,52114,6809
 141,1,68520,City to Stonyfell via Kensington Rd and Hallett Rd,1,52130,6808
 142,1,68521,City to Burnside via Kensington Rd,1,52104,6809
-141,1,68522,City to Stonyfell via Kensington Rd and Hallett Rd,1,51028,6808
+141,1,68522,City to Stonyfell via Kensington Rd and Hallett Rd,1,53013,6808
 141,13,68523,City to Stonyfell via Kensington Rd and Hallett Rd,1,52427,6808
 142,1,68524,City to Burnside via Kensington Rd,1,52131,6809
 141,1,68525,City to Stonyfell via Kensington Rd and Hallett Rd,1,52127,6808
@@ -6819,7 +6819,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 144,1,68572,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,53102,7626
 140,1,68573,Glen Osmond to City via Portrush Rd and The Parade,0,52103,8587
 144,11,68574,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
-144,1,68575,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,53108,7627
+144,1,68575,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,53108,7626
 140,1,68576,Glen Osmond to City via Portrush Rd and The Parade,0,54109,8587
 140,1,68577,Glen Osmond to City via Portrush Rd and The Parade,0,53109,7621
 144,1,68578,Toorak Gardens to City via Grand Av and Dequetteville Tce,0,54000,7627
@@ -6935,7 +6935,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 147,1,68688,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,51010,7629
 147,1,68689,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,52001,7629
 147,11,68690,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7629
-147,1,68691,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,53120,7628
+147,1,68691,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7628
 147,1,68692,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,53120,7629
 147,1,68693,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,52006,7629
 147,1,68694,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,52100,7629
@@ -7633,7 +7633,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 190,1,70698,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,5S1668,6286
 190B,1,70699,City to Mitcham via Unley Rd,1,5S1485,7845
 190B,13,70700,City to Mitcham via Unley Rd,1,5S5648,7845
-190,1,70701,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,5S1673,6286
+190,1,70701,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,5S1457,6286
 190,13,70702,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,5S5675,6286
 190B,1,70703,City to Mitcham via Unley Rd,1,5S1480,7845
 190,1,70704,City to Glenelg via Unley Rd Grange Rd and Raglan Ave ,1,5S1196,6286
@@ -7733,7 +7733,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 200,1,70810,Clapham to City via King William Rd,0,5S1216,7869
 200,13,70811,Clapham to City via King William Rd,0,5S5520,7869
 200,1,70812,Colonel Light Gardens to City,0,5S1640,7867
-200,1,70815,Colonel Light Gardens to City via King William Rd,0,5S1297,5428
+200,1,70815,Colonel Light Gardens to City,0,5S1297,7867
 200,13,70816,Marion Shopping Centre to City via King William Rd,0,5S5645,7865
 200,1,70819,Clapham to City via King William Rd,0,5S1424,7869
 200,13,70820,Clapham to City via King William Rd,0,5S5659,7869
@@ -8160,7 +8160,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 237,1,71325,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S1191,5979
 235,11,71326,City to Kilburn via Churchill Rd,1,5S5523,4052
 239,1,71327,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S1601,5981
-235,1,71328,City to Kilburn via Churchill Rd,1,5S1184,4052
+235,1,71328,City to Kilburn via Churchill Rd,1,5S1075,4052
 239,11,71329,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S5512,5981
 239,1,71330,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S1220,5981
 237,1,71331,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S1420,5979
@@ -8201,10 +8201,10 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 235,1,71366,City to Kilburn via Churchill Rd,1,5S1095,4052
 237,1,71367,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S1029,5979
 237,13,71368,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S5522,5979
-235,1,71369,City to Kilburn via Churchill Rd,1,5S1095,4052
+235,1,71369,City to Kilburn via Churchill Rd,1,5S1405,4052
 239,1,71370,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S1464,5981
 239,13,71371,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S5553,5981
-237,1,71372,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S1274,5979
+237,1,71372,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S1083,5979
 239,1,71373,City to Arndale via Torrens Rd Grand Junction Rd and Days Rd ,1,5S1216,5981
 237,13,71374,City to Valley View via Churchill Rd and Grand Junction Rd ,1,5S5526,5979
 235,1,71375,City to Kilburn via Churchill Rd,1,5S1229,4052
@@ -8301,7 +8301,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72258,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,5S5669,8071
 600,12,72259,Blackwood Station to Marion Shopping Centre,0,5S5817,8072
 600,1,72260,Blackwood Station to Flinders University,0,5S1630,8073
-600,31,72261,Blackwood Station to Marion Shopping Centre,0,5S1490,8072
+600,31,72261,Blackwood Station to Marion Shopping Centre,0,5S1079,8072
 601B,1,72262,Aberfoyle Hub to Blackwood Station,0,5S1079,7188
 601B,11,72263,Aberfoyle Hub to Blackwood Station,0,5S5627,7188
 601,1,72265,Aberfoyle Hub to Marion Shopping Centre,0,5S1440,8075
@@ -8583,18 +8583,18 @@ G30,1,72547,City to Blackwood Station,1,5S1500,8109
 G30,1,72548,City to Blackwood Station,1,5S1464,8109
 G30,1,72549,City to Blackwood Station,1,5S2468,8109
 G30,1,72550,City to Blackwood Station,1,5S1683,8109
-G10,1,72551,Bedford Park to Prospect Rd 24 via City,0,5S1403,8079
-G10,1,72552,Bedford Park to Prospect Rd 24 via City,0,5S1411,8079
+G10,1,72551,South Rd 26 to Prospect Rd 24 via Goodwood Rd and City,0,5S1403,7202
+G10,1,72552,South Rd 26 to Prospect Rd 24 via Goodwood Rd and City,0,5S1411,7202
 G10,1,72553,Bedford Park to Prospect Rd 24 via City,0,5S1405,8079
 G10,11,72554,Bedford Park to Prospect Rd 24 via City,0,5S5621,8079
-G10,1,72555,Bedford Park to Prospect Rd 24 via City,0,5S1064,8079
-G10,1,72556,Bedford Park to Prospect Rd 24 via City,0,5S1411,8079
+G10,1,72555,South Rd 26 to Prospect Rd 24 via Goodwood Rd and City,0,5S1428,7202
+G10,1,72556,South Rd 26 to Prospect Rd 24 via Goodwood Rd and City,0,5S1621,7202
 G10,1,72557,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1633,8080
 G10,11,72558,Bedford Park to Prospect Rd 24 via City,0,5S5630,8079
-G10,1,72559,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1621,8077
+G10,1,72559,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1408,8077
 G10,1,72560,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1658,8080
 G10,1,72561,Bedford Park to Prospect Rd 24 via City,0,5S1658,8079
-G10,1,72562,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1672,8080
+G10,1,72562,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1675,8080
 G10,11,72563,Bedford Park to Prospect Rd 24 via City,0,5S5627,8079
 G10,1,72564,Bedford Park to Prospect Rd 24 via City,0,5S1672,8079
 G10,1,72565,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1669,8080
@@ -8652,7 +8652,7 @@ G10,1,72616,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1121,8080
 G10,1,72617,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1465,8077
 G10C,13,72618,South Rd 26 to King William St City via Goodwood Rd,0,,7211
 G10,13,72619,Marion Shopping Centre to Prospect Rd 24 via City,0,5S5629,8077
-G10,1,72621,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1439,8080
+G10,1,72621,Colonel Light Gardens to Prospect Rd 24 via City,0,5S1444,8080
 G10,1,72622,Bedford Park to Prospect Rd 24 via City,0,5S1439,8079
 G10,1,72623,Marion Shopping Centre to Prospect Rd 24 via City,0,5S1086,8077
 G10C,13,72624,South Rd 26 to King William St City via Goodwood Rd,0,,7211
@@ -8879,9 +8879,9 @@ G21,13,72853,Aberfoyle Hub to Bedford Park,0,5S5649,8104
 G21,13,72856,Aberfoyle Hub to Bedford Park,0,5S5636,8104
 G21,1,72857,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1670,7225
 G21,13,72858,Aberfoyle Hub to Bedford Park,0,5S5648,8104
-G21,1,72859,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1449,7225
+G21,1,72859,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1449,8588
 G21,13,72860,Aberfoyle Hub to Bedford Park,0,5S5625,8104
-G21,1,72861,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1469,7225
+G21,1,72861,Old Reynella Interchange and Aberfoyle Hub to City,0,5S1469,8588
 G21,13,72862,Aberfoyle Hub to Bedford Park,0,5S5631,8104
 G21,1,72863,Old Reynella Interchange to Bedford Park,0,5S1416,8103
 G21,13,72864,Aberfoyle Hub to Bedford Park,0,5S5677,8104
@@ -8899,7 +8899,7 @@ G21,1,72875,Aberfoyle Hub to Old Reynella Interchange,1,5S1645,7227
 G21,1,72876,Aberfoyle Hub to Old Reynella Interchange,1,5S1680,7227
 G21,1,72877,Aberfoyle Hub to Old Reynella Interchange,1,5S1401,7227
 G21,1,72878,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1645,8055
-G21,1,72879,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1077,8055
+G21,1,72879,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1077,8589
 G21,1,72880,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1645,8055
 G21,13,72881,City to Aberfoyle Hub and Old Reynella Interchange,1,,8057
 G21,1,72882,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1449,8055
@@ -8915,7 +8915,7 @@ G21,1,72891,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1466,8055
 G21,1,72892,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1300,8055
 G21,13,72893,City to Aberfoyle Hub and Old Reynella Interchange,1,,8057
 G21,1,72894,City to Aberfoyle Hub and Old Reynella Interchange,1,5S2468,8055
-G21,1,72895,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1497,8055
+G21,1,72895,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1140,8055
 G21,13,72896,City to Aberfoyle Hub and Old Reynella Interchange,1,,8057
 G21,1,72897,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1631,8055
 G21,1,72898,City to Aberfoyle Hub and Old Reynella Interchange,1,5S1458,8055
@@ -8961,11 +8961,11 @@ G20,13,72939,Aberfoyle Hub to Bedford Park,0,5S5669,8099
 G20,13,72940,Aberfoyle Hub to Bedford Park,0,5S5688,8099
 G20,13,72941,Aberfoyle Hub to Bedford Park,0,5S5689,8099
 G20,11,72942,Aberfoyle Hub to Bedford Park,0,5S5690,8099
-G20,1,72943,City to Aberfoyle Hub,1,5S1611,8094
-G20,1,72944,City to Aberfoyle Hub,1,5S1401,8094
+G20,1,72943,City to Aberfoyle Hub,1,5S1403,8220
+G20,1,72944,City to Aberfoyle Hub,1,5S1401,8220
 G20,11,72945,City to Aberfoyle Hub,1,5S5628,8094
 G20,13,72946,City to Aberfoyle Hub,1,5S5627,8094
-G20,1,72947,City to Aberfoyle Hub,1,5S1426,8094
+G20,1,72947,City to Aberfoyle Hub,1,5S1426,8220
 G20,1,72948,City to Aberfoyle Hub,1,5S1633,8094
 G20,13,72949,City to Aberfoyle Hub,1,5S5646,8094
 G20,13,72950,City to Aberfoyle Hub,1,5S5622,8094
@@ -10183,7 +10183,6 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,5S5658,8079
 225,1,75062,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42115,7039
 225F,1,75063,Salisbury Interchange to City via Mawson Interchange Salisbury Hwy and Main North Rd (No pick up after Stop 17 Main North Rd),0,42242,7045
 225X,1,75064,Salisbury Interchange to City (Running express between Mawson Interchange and Stop 29 Main North Road and Stop 4 O'Connell Street North Adelaide),0,42248,8135
-225X,1,75065,Salisbury Interchange to City (Running express between Mawson Interchange and Stop 29 Main North Road and Stop 4 O'Connell Street North Adelaide),0,42254,8135
 225M,1,75066,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42262,7048
 225,1,75067,Salisbury Interchange to Blair Athol via Mawson Interchange Salisbury Hwy and Main North Rd,0,42248,7039
 225M,1,75068,Salisbury Interchange to Mawson Interchange via Salisbury Hwy and Kesters Rd,0,42273,7048
@@ -10561,15 +10560,15 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,5S5658,8079
 263,13,75450,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5643,5577
 265,13,75451,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,5S5648,5584
 263,13,75452,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5657,5577
-265,13,75453,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,5S5690,5584
+265,512,75453,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,5S5690,5584
 263,13,75454,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5661,5577
-265W,13,75455,City to Somerton Park,1,5S5672,5587
+265W,512,75455,City to Somerton Park,1,5S5672,5587
 263,13,75456,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5664,5577
-265W,13,75457,City to Somerton Park,1,5S5668,5587
+265W,512,75457,City to Somerton Park,1,5S5668,5587
 263,13,75458,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5581,5577
-265W,13,75459,City to Somerton Park,1,5S5674,5587
+265W,512,75459,City to Somerton Park,1,5S5674,5587
 263,13,75460,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5595,5577
-265W,13,75461,City to Somerton Park,1,5S5684,5587
+265W,512,75461,City to Somerton Park,1,5S5684,5587
 263,13,75462,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5694,5577
 263,13,75463,City to Marion Shopping Centre via Anzac Hwy Brighton Rd and Dunrobin Rd,1,5S5691,5577
 262,1,75464,City via Glenelg Interchange and Brighton Road and Marion Interchange,0,5S1401,8031
@@ -10670,16 +10669,16 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,5S5658,8079
 265,13,75559,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,5S5579,5583
 263,13,75560,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5662,4102
 263,13,75561,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5668,4102
-265,13,75562,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,5S5664,5583
+265,512,75562,Marion Shopping Centre to City via Dover Gardens Brighton Station and Glenelg,0,5S5664,5583
 263,13,75563,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5674,4102
 263,13,75564,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5595,4102
-265,13,75565,Brighton Station to City via Glenelg,0,5S5684,8036
+265,512,75565,Brighton Station to City via Glenelg,0,5S5684,8036
 263,13,75566,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5597,4102
-265,13,75567,Brighton Station to City via Glenelg,0,5S5676,8036
+265,512,75567,Brighton Station to City via Glenelg,0,5S5676,8036
 263,13,75568,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5605,4102
-265,13,75569,Brighton Station to City via Glenelg,0,5S5693,8036
+265,512,75569,Brighton Station to City via Glenelg,0,5S5693,8036
 263,13,75570,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5685,4102
-265,13,75571,Brighton Station to City via Glenelg,0,5S5605,8036
+265,512,75571,Brighton Station to City via Glenelg,0,5S5605,8036
 263,13,75572,Marion Shopping Centre to City via Dunrobin Rd Brighton Rd and Anzac Hwy,0,5S5591,4102
 208,1,75573,Northgate to Paradise Interchange via Fosters Rd Sir Ross Smith Boulevard and Sudholz Rd,1,5S1031,7880
 208,1,75574,Northgate to Paradise Interchange via Fosters Rd Sir Ross Smith Boulevard and Sudholz Rd,1,5S1601,7880
@@ -11109,14 +11108,14 @@ T721X,1,75794,City to Noarlunga Interchange Express to Stop 48 Main South Rd fro
 200,1,76027,Marion Shopping Centre to City via King William Rd,0,5S1412,6297
 200,1,76028,Colonel Light Gardens to City,0,5S1619,7867
 200,1,76029,Marion Shopping Centre to City via King William Rd,0,5S1610,6297
-200,1,76030,Clapham to City via King William Rd,0,5S1629,5427
-200,1,76031,Colonel Light Gardens to City via King William Rd,0,5S1438,5428
+200,1,76030,Panorama to City,0,5S1629,7866
+200,1,76031,Colonel Light Gardens to City,0,5S1438,7867
 200B,1,76032,City to Marion Shopping Centre via Clapham,0,5S1425,8336
 200,1,76033,Colonel Light Gardens to City,0,5S1038,7867
 200B,1,76034,City to Marion Shopping Centre via Clapham,0,5S1666,8337
 200B,1,76035,City to Marion Shopping Centre via Clapham,0,5S1661,8336
 200B,1,76036,City to Marion Shopping Centre via Clapham,0,5S1686,8336
-200,1,76037,Colonel Light Gardens to City via King William Rd,0,5S1421,5428
+200,1,76037,Colonel Light Gardens to City,0,5S1421,7867
 200B,1,76038,City to Marion Shopping Centre via Clapham,0,5S1405,8336
 200B,1,76039,City to Marion Shopping Centre via Clapham,0,5S1428,8336
 200B,1,76040,City to Marion Shopping Centre via Clapham,0,5S1299,8336
@@ -11221,7 +11220,7 @@ T721,1,76134,Noarlunga Interchange to City via Beach Rd and Main South Rd limite
 721X,1,76145,Noarlunga Interchange to City Express,0,41136,7110
 721X,1,76146,Noarlunga Interchange to City Express,0,41129,7110
 721X,1,76147,Noarlunga Interchange to City Express,0,41165,7110
-721X,1,76148,Old Reynella Interchange to City via Old South Rd to Stop 48 Main South Rd the express to the City ,0,41129,7111
+721X,1,76148,Old Reynella Interchange to City via Old South Rd to Stop 48 Main South Rd the express to the City ,0,41152,7111
 721X,1,76149,Old Reynella Interchange to City via Old South Rd to Stop 48 Main South Rd the express to the City ,0,41116,7111
 721X,1,76150,Old Reynella Interchange to City via Old South Rd to Stop 48 Main South Rd the express to the City ,0,41167,7111
 T721X,1,76151,Noarlunga Interchange to City via Beach Rd to Stop 48 Main South Rd then express to the City,0,41140,1299
@@ -11284,12 +11283,12 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 251,1,76236,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1626,8011
 251,1,76237,Arndale to City via Torrens Rd and Hawker St,0,5S1649,7527
 252,1,76238,Port Adelaide to City via Arndale and Torrens Rd,0,5S1197,8015
-251,1,76239,City via Liberty Grove Arndale Shopping Centre and Torrens Road,0,5S1077,8369
+251,1,76239,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1077,8011
 251,1,76240,City via Liberty Grove Arndale Shopping Centre and Torrens Road,0,5S1423,8369
 252,1,76241,Port Adelaide to City via Arndale and Torrens Rd,0,5S1603,8015
 251,1,76242,City via Liberty Grove Arndale Shopping Centre and Torrens Road,0,5S1620,8369
 251,1,76243,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1601,8011
-251,1,76244,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1404,8011
+251,1,76244,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1044,8011
 251,1,76245,Mansfield Park to City via Liberty Grove Arndale Shopping Centre and Torrens Rd,0,5S1637,8011
 252,1,76246,Ottoway to City via Arndale and Torrens Rd,0,5S1644,8016
 250,1,76247,Arndale to Wingfield via Liberty Grove,0,5S1677,8006
@@ -11482,7 +11481,7 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 254,1,76434,Port Adelaide to City via Grand Junction Rd Hanson Rd and Hawker St ,0,5S1402,8024
 254,1,76435,Port Adelaide to City via Grand Junction Rd Hanson Rd and Hawker St ,0,5S1016,8024
 254,1,76436,Port Adelaide to City via Grand Junction Rd Hanson Rd and Hawker St ,0,5S1416,8024
-254X,1,76437,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1401,8029
+254X,1,76437,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1401,8028
 254X,1,76438,Rosewater to City (Express between Arndale and Stop 2 King William Rd),0,5S1430,8030
 254X,1,76439,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1407,8029
 254X,1,76440,Rosewater to City (Express between Arndale and Stop 2 King William Rd),0,5S1241,8030
@@ -11490,7 +11489,7 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 254X,1,76442,Rosewater to City (Express between Arndale and Stop 2 King William Rd),0,5S1240,8030
 254X,1,76443,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1010,8028
 254X,1,76444,Rosewater to City (Express between Arndale and Stop 2 King William Rd),0,5S1011,8030
-254X,1,76445,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1426,8029
+254X,1,76445,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1426,8028
 254X,1,76446,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,,8029
 254X,1,76447,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1429,8029
 254X,1,76448,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1439,8029
@@ -11513,7 +11512,7 @@ T721,1,76180,City to Noarlunga Interchange via South Rd and Old Reynella Interch
 253X,1,76465,Mansfield Park to City (Express between Arndale and Stop 2 King William Rd),0,5S1453,8020
 254X,1,76466,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1108,8028
 253X,1,76467,Mansfield Park to City (Express between Arndale and Stop 2 King William Rd),0,5S1449,8020
-254X,1,76468,Port Adelaide to City (Express between Arndale and Stop 2 King William Rd),0,5S1466,8029
+254X,1,76468,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1466,8028
 253X,1,76469,City - Express from Arndale,0,5S1603,8021
 254X,1,76470,Port Adelaide to City - express between Arndale and stop 2 King William Rd,0,5S1467,8028
 253X,1,76471,City - Express from Arndale,0,5S1469,8021
@@ -12716,7 +12715,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 167,1,77729,City via Glenelg North - Marion Rd and Richmond Rd,0,53006,8497
 168,1,77730,City via Glenelg North - Streeters Rd and Richmond Rd,0,54002,8500
 167,1,77731,City via Glenelg North - Marion Rd and Richmond Rd,0,54012,8497
-168,1,77732,City via Streeters Rd and Richmond Rd,0,53101,8501
+168,1,77732,City via Streeters Rd and Richmond Rd,0,54113,8501
 167,1,77733,City via Glenelg North - Marion Rd and Richmond Rd,0,51102,8497
 168,1,77734,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53101,5357
 167,1,77735,City via Glenelg North - Marion Rd and Richmond Rd,0,54114,8497
@@ -12855,15 +12854,15 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 167,13,77868,City via Glenelg North - Marion Rd and Richmond Rd,0,53409,8497
 168,13,77869,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,54421,5357
 167,13,77870,City via Glenelg North - Marion Rd and Richmond Rd,0,54417,8497
-168,13,77871,City via Glenelg North - Streeters Rd and Richmond Rd,0,52426,8504
-167,13,77872,City via Glenelg North - Marion Rd and Richmond Rd,0,54422,8497
-167,13,77873,City via Glenelg North - Marion Rd and Richmond Rd,0,53424,8503
-168,13,77874,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53416,5357
-167,13,77875,City via Glenelg North - Marion Rd and Richmond Rd,0,54415,8503
-168,13,77876,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53424,5357
-167,13,77877,City via Glenelg North - Marion Rd and Richmond Rd,0,51439,8503
-168,13,77878,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53422,5357
-167,13,77879,City via Glenelg North - Marion Rd and Richmond Rd,0,54417,8497
+168,512,77871,City via Glenelg North - Streeters Rd and Richmond Rd,0,52426,8504
+167,512,77872,City via Glenelg North - Marion Rd and Richmond Rd,0,54422,8497
+167,512,77873,City via Glenelg North - Marion Rd and Richmond Rd,0,53424,8503
+168,512,77874,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53416,5357
+167,512,77875,City via Glenelg North - Marion Rd and Richmond Rd,0,54415,8503
+168,512,77876,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53424,5357
+167,512,77877,City via Glenelg North - Marion Rd and Richmond Rd,0,51439,8503
+168,512,77878,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,53422,5357
+167,512,77879,City via Glenelg North - Marion Rd and Richmond Rd,0,54417,8497
 167,11,77880,City to Glenelg via Richmond Rd and Tapleys Hill Rd ,1,,5354
 168,11,77881,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,,5359
 167,11,77882,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,5353
@@ -12888,14 +12887,14 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 168,13,77901,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,54422,5359
 167,13,77902,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,53424,5353
 168,13,77903,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,52426,5360
-167,13,77904,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,5353
-168,13,77905,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53424,5360
-167,13,77906,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,51439,5353
-168,13,77907,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,54415,5360
-167,13,77908,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,53419,5353
-168,13,77909,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,51439,5360
-167,13,77910,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,54420,5353
-168,13,77911,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53418,5359
+167,512,77904,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,5353
+168,512,77905,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53424,5360
+167,512,77906,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,51439,5353
+168,512,77907,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,54415,5360
+167,512,77908,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,53419,5353
+168,512,77909,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,51439,5360
+167,512,77910,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,54420,5353
+168,512,77911,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd ,1,53418,5359
 169,1,77912,City via Richmond Rd,0,54112,8445
 169,1,77913,City via Richmond Rd,0,51025,8445
 169,1,77914,City via Richmond Rd,0,53015,8445
@@ -13324,7 +13323,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 177,1,78337,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,51129,7741
 174,1,78338,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,51130,6838
 177,1,78339,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,51134,7741
-177,1,78340,City via Payneham Rd ,0,51141,8505
+177,1,78340,City via Payneham Rd ,0,54002,8505
 174,1,78341,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,54008,6838
 177,1,78342,Newton to City via Newton Rd Cresdee Rd and Payneham Rd ,0,51141,7741
 177,1,78343,City via Payneham Rd ,0,51104,8505
@@ -13730,19 +13729,19 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 248,1,78743,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1623,7985
 241,1,78744,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
 248,1,78745,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1459,7985
-241,1,78746,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1298,6911
+241,1,78746,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1011,6911
 248,1,78747,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1682,7985
-241,1,78748,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
+241,1,78748,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1691,6911
 248,1,78749,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1401,7985
-241,1,78750,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1011,6911
+241,1,78750,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1067,6911
 248,1,78751,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1407,7985
 241,1,78752,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
 248,1,78753,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1459,7985
-241,1,78754,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1067,6911
+241,1,78754,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1011,6911
 248,1,78755,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1477,7985
-241,1,78756,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1074,6911
+241,1,78756,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1478,6911
 248,1,78757,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1401,7985
-241,1,78758,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1011,6911
+241,1,78758,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1067,6911
 248,1,78759,City to Marion Shopping Centre via Anzac Hwy Hendrie St and Bells Rd,1,5S1407,7985
 245,1,78760,City to Warradale via Anzac Hwy Bray St and Morphett Rd,1,5S1245,7981
 241,1,78761,City to Marion Shopping Centre via Beckman St Towers Tce and Oaklands Rd,1,5S1687,6911
@@ -13857,7 +13856,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 280,1,78870,Klemzig via McLauchlan Rd and OG Rd,0,51123,8475
 281,1,78871,City via McLauchlan Rd and Walkerville Terrace,0,52109,8477
 280,1,78872,Klemzig via McLauchlan Rd and OG Rd,0,51138,8475
-281,1,78873,City via Walkerville Terrace,0,54005,8510
+281,1,78873,City via Walkerville Terrace,0,53119,8510
 281,1,78874,City via McLauchlan Rd and Walkerville Terrace,0,54005,8477
 281,1,78875,City via McLauchlan Rd and Walkerville Terrace,0,51138,8477
 281,1,78876,City via McLauchlan Rd and Walkerville Terrace,0,53010,8477
@@ -13888,7 +13887,7 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 281,1,78901,City via McLauchlan Rd and Walkerville Terrace,0,54028,8477
 281,1,78902,City via McLauchlan Rd and Walkerville Terrace,0,51050,8477
 281,1,78903,City via McLauchlan Rd and Walkerville Terrace,0,54028,8477
-281,1,78904,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,51015,8479
+281,1,78904,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,52008,8479
 281,1,78905,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,52109,8479
 281,1,78906,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,52118,8479
 281,1,78907,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,52021,8479
@@ -14489,7 +14488,7 @@ C1,13,79502,City via Main North Road Golden Grove Road Tea Tree Plaza Interchang
 C1,13,79503,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5514,8533
 C1,13,79504,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5506,8532
 C1,13,79505,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5528,8533
-C1,13,79506,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5530,8534
+C1,13,79506,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5537,8534
 C1,13,79507,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5530,8533
 C1,13,79508,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5531,8532
 C1,13,79509,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,5S5554,8534
@@ -14704,9 +14703,9 @@ H20,13,79717,Paradise Interchange to Glenelg via Newton Rd The Parade City Mario
 H20,13,79718,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,51424,7564
 H20,13,79719,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,54411,7564
 H20,13,79720,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,53419,7564
-H20,13,79721,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,51437,7564
-H20,13,79722,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,51430,7564
-H20,13,79723,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,52431,7564
+H20,512,79721,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,51437,7564
+H20,512,79722,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,51430,7564
+H20,512,79723,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,52431,7564
 H20,11,79724,Camden Park to Paradise Interchange via Marion Rd City and The Parade,1,,7567
 H20,13,79725,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51405,7565
 H20,13,79726,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51417,7565
@@ -14719,12 +14718,12 @@ H20,13,79732,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Pa
 H20,13,79733,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51417,7565
 H20,13,79734,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51424,7565
 H20,13,79735,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,54420,7565
-H20,13,79736,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,52432,7565
-H20,13,79737,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51444,7565
-H20,13,79738,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,52436,7565
-H20,13,79739,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,53419,7565
+H20,512,79736,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,52432,7565
+H20,512,79737,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,51444,7565
+H20,512,79738,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,52436,7565
+H20,512,79739,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,53419,7565
 H21,1,79740,City via Reserve Rd Glynburn Rd and The Parade,0,53004,8515
-H21,1,79741,City via Glynburn Rd and The Parade,0,53101,8516
+H21,1,79741,City via Glynburn Rd and The Parade,0,51024,8516
 H21,1,79742,City via Reserve Rd Glynburn Rd and The Parade,0,53101,8515
 H21,1,79743,City via Reserve Rd Glynburn Rd and The Parade,0,52127,8515
 H21,1,79744,City via Reserve Rd - Glynburn Rd and The Parade ,0,51006,8517
@@ -14798,7 +14797,7 @@ H22,1,79811,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St Cit
 H22,1,79812,Lockleys to Wattle Park via Henley Beach Rd City and The Parade,1,53132,7576
 H22,1,79813,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,54117,7575
 H22,1,79814,Lockleys to Wattle Park via Henley Beach Rd City and The Parade,1,54106,7576
-H22,1,79815,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,54106,7575
+H22,1,79815,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,51052,7575
 H22,1,79816,Lockleys to Wattle Park via Henley Beach Rd City and The Parade,1,51129,7576
 H22,1,79817,Lockleys to Wattle Park via Henley Beach Rd City and The Parade,1,51116,7576
 H22,1,79818,Lockleys to Wattle Park via Henley Beach Rd City and The Parade,1,51035,7576
@@ -15153,9 +15152,9 @@ H31,1,80166,City to Henley Beach via Henley Beach and Cheadle St,0,54030,7835
 H31,1,80167,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,53115,7832
 H31,1,80168,City to Henley Beach via Henley Beach and Cheadle St,0,54013,7835
 H31,1,80169,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,52025,7832
-H31,1,80170,City to Henley Beach via Henley Beach and Cheadle St,0,53115,7835
+H31,1,80170,City to Henley Beach via Henley Beach and Cheadle St,0,54032,7835
 H31,1,80171,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,54029,7832
-H31,1,80172,City to Henley Beach via Henley Beach Rd and Cheadle St,0,51121,7607
+H31,1,80172,City to Henley Beach via Henley Beach Rd and Cheadle St,0,51030,7607
 H31,1,80173,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,53116,7606
 H31,1,80174,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,54117,7606
 H31,1,80175,Rostrevor to Henley Beach via Coorara Ave City Henley Beach Rd and Cheadle St,0,51057,7606
@@ -15250,266 +15249,266 @@ H31C,13,80263,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,5
 H31C,13,80264,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,53415,7613
 H31C,13,80265,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51423,7613
 H31C,13,80266,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,54418,7613
-H31C,13,80267,Rostrevor to City via Reid Av and Coorara Ave,0,52420,7612
-H31C,13,80268,Rostrevor to City via Reid Av and Coorara Ave,0,54414,7612
+H31C,13,80267,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,52420,7613
+H31C,13,80268,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,54414,7613
 H31C,13,80269,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51441,7613
-H31C,13,80270,Rostrevor to City via Reid Av and Coorara Ave,0,53417,7612
-H31C,13,80271,Rostrevor to City via Reid Av and Coorara Ave,0,51436,7612
-H31C,13,80272,Rostrevor to City via Reid Av and Coorara Ave,0,52432,7612
-H31C,13,80273,Rostrevor to City via Reid Av and Coorara Ave,0,52434,7612
-J1,1,80274,City via Sir Donald Bradman Drive,0,53000,8443
-J1,1,80275,City via Sir Donald Bradman Drive,0,54000,8433
+H31C,13,80270,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,53417,7613
+H31C,13,80271,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,51436,7613
+H31C,13,80272,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,52432,7613
+H31C,13,80273,Rostrevor to City - North Tce R1 via Arthur St and Coorara Ave,0,52434,7613
+J1,1,80274,Adelaide Airport to City via Sir Donald Bradman Drive,0,53000,8443
+J1,1,80275,Adelaide Airport to City via Sir Donald Bradman Drive,0,54000,8433
 162,1,80276,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,53100,8440
-J1,1,80277,City via Sir Donald Bradman Drive,0,51002,8433
+J1,1,80277,Adelaide Airport to City via Sir Donald Bradman Drive,0,51002,8433
 162,1,80278,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,54102,8440
-J1,1,80279,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54008,8432
+J1,1,80279,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,54008,8432
 162,1,80280,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,53108,8440
-J1,1,80281,City via Sir Donald Bradman Drive,0,51011,8433
+J1,1,80281,Adelaide Airport to City via Sir Donald Bradman Drive,0,51011,8433
 162,1,80282,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,54011,8440
-J1,1,80283,City via Sir Donald Bradman Drive,0,53121,8433
+J1,1,80283,Adelaide Airport to City via Sir Donald Bradman Drive,0,53121,8433
 162,1,80284,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,53119,8440
-J1,1,80285,City via Sir Donald Bradman Drive,0,51013,8433
+J1,1,80285,Adelaide Airport to City via Sir Donald Bradman Drive,0,51013,8433
 162,1,80286,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,53124,8440
-J1,1,80287,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54107,8431
+J1,1,80287,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54107,8431
 162,1,80288,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,54115,8440
-J1,1,80289,City via Sir Donald Bradman Drive,0,51117,8433
+J1,1,80289,Adelaide Airport to City via Sir Donald Bradman Drive,0,51117,8433
 162,1,80290,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,53132,8440
-J1,1,80291,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54116,8431
+J1,1,80291,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54116,8431
 162,1,80292,City via Rio Vista Avenue and Sir Donald Bradman Drive,0,54016,8440
-J1,1,80293,City via Sir Donald Bradman Drive,0,51002,8433
-J1,1,80294,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51112,8431
+J1,1,80293,Adelaide Airport to City via Sir Donald Bradman Drive,0,51002,8433
+J1,1,80294,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51112,8431
 J2,1,80295,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51129,8442
-J1,1,80296,City via Sir Donald Bradman Drive,0,54008,8433
-J1,1,80297,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51113,8431
+J1,1,80296,Adelaide Airport to City via Sir Donald Bradman Drive,0,54008,8433
+J1,1,80297,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51113,8431
 J2,1,80298,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54120,8438
-J1,1,80299,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51130,8431
+J1,1,80299,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51130,8431
 J2,1,80300,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,53121,8438
-J1,1,80301,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,53012,8431
+J1,1,80301,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,53012,8431
 J2,1,80302,City via Sir Donald Bradman Drive and Adelaide Airport,0,51011,8437
-J1,1,80303,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54000,8431
+J1,1,80303,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54000,8431
 J2,1,80304,City via Sir Donald Bradman Drive and Adelaide Airport,0,51009,8437
-J1,1,80305,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54018,8431
+J1,1,80305,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54018,8431
 J2,1,80306,City via Sir Donald Bradman Drive and Adelaide Airport,0,54006,8437
-J1,1,80307,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,52027,8431
+J1,1,80307,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,52027,8431
 J2,1,80308,City via Sir Donald Bradman Drive and Adelaide Airport,0,54002,8437
-J1,1,80309,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51010,8431
+J1,1,80309,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51010,8431
 J2,1,80310,City via Sir Donald Bradman Drive and Adelaide Airport,0,51002,8437
-J1,1,80311,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,53103,8431
+J1,1,80311,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,53103,8431
 J2,1,80312,City via Sir Donald Bradman Drive and Adelaide Airport,0,51017,8437
-J1,1,80313,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54012,8431
+J1,1,80313,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54012,8431
 J2,1,80314,City via Sir Donald Bradman Drive and Adelaide Airport,0,51023,8437
-J1,1,80315,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51008,8431
+J1,1,80315,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51008,8431
 J2,1,80316,City via Sir Donald Bradman Drive and Adelaide Airport,0,51037,8437
-J1,1,80317,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51102,8431
+J1,1,80317,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51102,8431
 J2,1,80318,City via Sir Donald Bradman Drive and Adelaide Airport,0,51107,8437
-J1,1,80319,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54110,8431
+J1,1,80319,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54110,8431
 J2,1,80320,City via Sir Donald Bradman Drive and Adelaide Airport,0,54109,8437
-J1,1,80321,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54113,8431
+J1,1,80321,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54113,8431
 J2,1,80322,City via Sir Donald Bradman Drive and Adelaide Airport,0,54017,8437
-J1,1,80323,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51041,8431
+J1,1,80323,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51041,8431
 J2,1,80324,City via Sir Donald Bradman Drive and Adelaide Airport,0,54023,8437
-J1,1,80325,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51042,8431
+J1,1,80325,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51042,8431
 J2,1,80326,City via Sir Donald Bradman Drive and Adelaide Airport,0,51103,8437
-J1,1,80327,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51106,8431
+J1,1,80327,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51106,8431
 J2,1,80328,City via Sir Donald Bradman Drive and Adelaide Airport,0,51125,8437
-J1,1,80329,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51122,8431
+J1,1,80329,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51122,8431
 J2,1,80330,City via Sir Donald Bradman Drive and Adelaide Airport,0,51137,8437
-J1,1,80331,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51131,8431
+J1,1,80331,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51131,8431
 J2,1,80332,City via Sir Donald Bradman Drive and Adelaide Airport,0,51119,8437
-J1,1,80333,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54034,8431
-J1,1,80334,City via Sir Donald Bradman Drive,0,51054,8433
-J1,1,80335,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51037,8431
-J1,1,80336,City via Sir Donald Bradman Drive,0,51043,8443
+J1,1,80333,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54034,8431
+J1,1,80334,Adelaide Airport to City via Sir Donald Bradman Drive,0,51054,8433
+J1,1,80335,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51037,8431
+J1,1,80336,Adelaide Airport to City via Sir Donald Bradman Drive,0,51043,8443
 J2,1,80337,City via Sir Donald Bradman Drive and Adelaide Airport,0,54032,8437
-J1,1,80338,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51041,8431
+J1,1,80338,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51041,8431
 J2,1,80339,City via Sir Donald Bradman Drive and Adelaide Airport,0,51031,8437
-J1,1,80340,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51043,8431
+J1,1,80340,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51043,8431
 J2,1,80341,City via Sir Donald Bradman Drive and Adelaide Airport,0,51037,8437
-J1,1,80342,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54030,8431
+J1,1,80342,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54030,8431
 J2,1,80343,City via Sir Donald Bradman Drive and Adelaide Airport,0,51054,8437
-J1,1,80344,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51053,8431
+J1,1,80344,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51053,8431
 J2,1,80345,City via Sir Donald Bradman Drive and Adelaide Airport,0,51057,8437
 J1A,1,80346,Adelaide Airport via Sir Donald Bradman Drive,1,53000,8436
 J1A,1,80347,Adelaide Airport via Sir Donald Bradman Drive,1,54000,8436
 J1A,1,80348,Adelaide Airport via Sir Donald Bradman Drive,1,51002,8436
-J1,1,80349,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51102,8434
+J1,1,80349,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51102,8434
 J1A,1,80350,Adelaide Airport via Sir Donald Bradman Drive,1,51011,8436
 J1A,1,80351,Adelaide Airport via Sir Donald Bradman Drive,1,51013,8436
-J1,1,80352,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51112,8434
+J1,1,80352,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51112,8434
 J1A,1,80353,Adelaide Airport via Sir Donald Bradman Drive,1,51117,8436
-J1,1,80354,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51113,8434
+J1,1,80354,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51113,8434
 J1A,1,80355,Adelaide Airport via Sir Donald Bradman Drive,1,51002,8436
-J1,1,80356,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51130,8434
+J1,1,80356,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51130,8434
 J1A,1,80357,Adelaide Airport via Sir Donald Bradman Drive,1,54008,8436
-J1,1,80358,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53012,8434
+J1,1,80358,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,53012,8434
 J2,1,80359,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53121,8439
-J1,1,80360,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51013,8434
+J1,1,80360,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51013,8434
 J2,1,80361,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54107,8439
-J1,1,80362,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54115,8434
+J1,1,80362,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54115,8434
 J2,1,80363,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54116,8439
-J1,1,80364,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,52027,8434
+J1,1,80364,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,52027,8434
 J2,1,80365,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54108,8439
-J1,1,80366,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51010,8434
+J1,1,80366,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51010,8434
 J2,1,80367,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54002,8439
-J1,1,80368,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54120,8434
+J1,1,80368,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54120,8434
 J2,1,80369,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51002,8439
-J1,1,80370,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53009,8434
+J1,1,80370,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,53009,8434
 J2,1,80371,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54012,8439
-J1,1,80372,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51008,8434
+J1,1,80372,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51008,8434
 J2,1,80373,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54000,8439
-J1,1,80374,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51102,8434
+J1,1,80374,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51102,8434
 J2,1,80375,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51037,8439
-J1,1,80376,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54007,8434
+J1,1,80376,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54007,8434
 J2,1,80377,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51107,8439
-J1,1,80378,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54002,8434
+J1,1,80378,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54002,8434
 J2,1,80379,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54005,8439
-J1,1,80380,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54006,8434
+J1,1,80380,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54006,8434
 J2,1,80381,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54017,8439
-J1,1,80382,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51042,8434
+J1,1,80382,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51042,8434
 J2,1,80383,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54012,8439
-J1,1,80384,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51106,8434
+J1,1,80384,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51106,8434
 J2,1,80385,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51103,8439
-J1,1,80386,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51037,8434
+J1,1,80386,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51037,8434
 J2,1,80387,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51125,8439
-J1,1,80388,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51131,8434
+J1,1,80388,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51131,8434
 J2,1,80389,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51137,8439
-J1,1,80390,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54109,8434
+J1,1,80390,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54109,8434
 162,1,80391,West Beach via Sir Donald Bradman Drive,1,51121,8441
 J1A,1,80392,Adelaide Airport via Sir Donald Bradman Drive,1,54113,8436
 162,1,80393,West Beach via Sir Donald Bradman Drive,1,51119,8441
-J1,1,80394,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54017,8434
+J1,1,80394,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54017,8434
 162,1,80395,West Beach via Sir Donald Bradman Drive,1,51041,8441
 J1A,1,80396,Adelaide Airport via Sir Donald Bradman Drive,1,52036,8436
 162,1,80397,West Beach via Sir Donald Bradman Drive,1,52133,8441
-J1,1,80398,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54023,8434
+J1,1,80398,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54023,8434
 162,1,80399,West Beach via Sir Donald Bradman Drive,1,54110,8441
 J1A,1,80400,Adelaide Airport via Sir Donald Bradman Drive,1,51054,8436
-J1,1,80401,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53025,8434
+J1,1,80401,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,53025,8434
 162,1,80402,West Beach via Sir Donald Bradman Drive,1,53128,8441
 J1A,1,80403,Adelaide Airport via Sir Donald Bradman Drive,1,51043,8436
-J1,1,80404,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53015,8434
+J1,1,80404,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,53015,8434
 J1A,1,80405,Adelaide Airport via Sir Donald Bradman Drive,1,52046,8436
 J2,1,80406,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51031,8439
-J1,1,80407,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,52039,8434
+J1,1,80407,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,52039,8434
 J2,1,80408,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51037,8439
-J1,1,80409,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54027,8434
+J1,1,80409,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54027,8434
 J2,1,80410,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51054,8439
-J1,1,80411,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53028,8435
+J1,1,80411,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53028,8435
 J2,1,80412,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51057,8439
 J2,1,80413,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54033,8439
-J1,13,80414,City via Sir Donald Bradman Drive,0,52400,8443
-J1,13,80415,City via Sir Donald Bradman Drive,0,51400,8443
-J1,13,80416,City via Sir Donald Bradman Drive,0,52400,8443
+J1,13,80414,Adelaide Airport to City via Sir Donald Bradman Drive,0,52400,8443
+J1,13,80415,Adelaide Airport to City via Sir Donald Bradman Drive,0,51400,8443
+J1,13,80416,Adelaide Airport to City via Sir Donald Bradman Drive,0,52400,8443
 J2,11,80417,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,,8442
-J1,11,80418,City via Sir Donald Bradman Drive,0,,8433
-J1,11,80419,City via Sir Donald Bradman Drive,0,,8433
-J1,12,80420,City via Sir Donald Bradman Drive,0,53501,8443
-J1,12,80421,City via Sir Donald Bradman Drive,0,53502,8443
+J1,11,80418,Adelaide Airport to City via Sir Donald Bradman Drive,0,,8433
+J1,11,80419,Adelaide Airport to City via Sir Donald Bradman Drive,0,,8433
+J1,12,80420,Adelaide Airport to City via Sir Donald Bradman Drive,0,53501,8443
+J1,12,80421,Adelaide Airport to City via Sir Donald Bradman Drive,0,53502,8443
 J2,13,80422,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54406,8438
-J1,13,80423,City via Sir Donald Bradman Drive,0,54400,8443
-J1,13,80424,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54409,8431
-J1,13,80425,City via Sir Donald Bradman Drive,0,51412,8443
+J1,13,80423,Adelaide Airport to City via Sir Donald Bradman Drive,0,54400,8443
+J1,13,80424,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54409,8431
+J1,13,80425,Adelaide Airport to City via Sir Donald Bradman Drive,0,51412,8443
 J2,13,80426,City via Sir Donald Bradman Drive and Adelaide Airport,0,54411,8437
-J1,13,80427,City via Sir Donald Bradman Drive,0,54401,8433
-J1,13,80428,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51415,8431
-J1,13,80429,City via Sir Donald Bradman Drive,0,51418,8433
+J1,13,80427,Adelaide Airport to City via Sir Donald Bradman Drive,0,54401,8433
+J1,13,80428,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51415,8431
+J1,13,80429,Adelaide Airport to City via Sir Donald Bradman Drive,0,51418,8433
 J2,13,80430,City via Sir Donald Bradman Drive and Adelaide Airport,0,54404,8437
-J1,13,80431,City via Sir Donald Bradman Drive,0,54403,8433
-J1,13,80432,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51424,8431
-J1,13,80433,City via Sir Donald Bradman Drive,0,51402,8433
+J1,13,80431,Adelaide Airport to City via Sir Donald Bradman Drive,0,54403,8433
+J1,13,80432,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51424,8431
+J1,13,80433,Adelaide Airport to City via Sir Donald Bradman Drive,0,51402,8433
 J2,13,80434,City via Sir Donald Bradman Drive and Adelaide Airport,0,51421,8437
-J1,13,80435,City via Sir Donald Bradman Drive,0,51403,8433
-J1,13,80436,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54413,8431
-J1,13,80437,City via Sir Donald Bradman Drive,0,54411,8433
+J1,13,80435,Adelaide Airport to City via Sir Donald Bradman Drive,0,51403,8433
+J1,13,80436,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54413,8431
+J1,13,80437,Adelaide Airport to City via Sir Donald Bradman Drive,0,54411,8433
 J2,13,80438,City via Sir Donald Bradman Drive and Adelaide Airport,0,51405,8437
-J1,13,80439,City via Sir Donald Bradman Drive,0,52406,8433
-J1,13,80440,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54402,8431
-J1,13,80441,City via Sir Donald Bradman Drive,0,51402,8433
+J1,13,80439,Adelaide Airport to City via Sir Donald Bradman Drive,0,52406,8433
+J1,13,80440,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54402,8431
+J1,13,80441,Adelaide Airport to City via Sir Donald Bradman Drive,0,51402,8433
 J2,13,80442,City via Sir Donald Bradman Drive and Adelaide Airport,0,54407,8437
-J1,13,80443,City via Sir Donald Bradman Drive,0,54403,8433
-J1,13,80444,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,54412,8431
-J1,13,80445,City via Sir Donald Bradman Drive,0,52420,8433
+J1,13,80443,Adelaide Airport to City via Sir Donald Bradman Drive,0,54403,8433
+J1,13,80444,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,54412,8431
+J1,13,80445,Adelaide Airport to City via Sir Donald Bradman Drive,0,52420,8433
 J2,13,80446,City via Sir Donald Bradman Drive and Adelaide Airport,0,53409,8437
-J1,13,80447,City via Sir Donald Bradman Drive,0,51421,8433
-J1,13,80448,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51429,8431
-J1,13,80449,City via Sir Donald Bradman Drive,0,51408,8433
+J1,13,80447,Adelaide Airport to City via Sir Donald Bradman Drive,0,51421,8433
+J1,13,80448,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51429,8431
+J1,13,80449,Adelaide Airport to City via Sir Donald Bradman Drive,0,51408,8433
 J2,13,80450,City via Sir Donald Bradman Drive and Adelaide Airport,0,54417,8437
-J1,13,80451,City via Sir Donald Bradman Drive,0,54418,8433
-J1,13,80452,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51420,8431
-J1,13,80453,City via Sir Donald Bradman Drive,0,52420,8433
+J1,13,80451,Adelaide Airport to City via Sir Donald Bradman Drive,0,54418,8433
+J1,13,80452,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51420,8431
+J1,13,80453,Adelaide Airport to City via Sir Donald Bradman Drive,0,52420,8433
 J2,13,80454,City via Sir Donald Bradman Drive and Adelaide Airport,0,53418,8437
-J1,13,80455,City via Sir Donald Bradman Drive,0,51421,8433
-J1,13,80456,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51415,8431
-J1,13,80457,City via Sir Donald Bradman Drive,0,53415,8433
+J1,13,80455,Adelaide Airport to City via Sir Donald Bradman Drive,0,51421,8433
+J1,13,80456,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51415,8431
+J1,13,80457,Adelaide Airport to City via Sir Donald Bradman Drive,0,53415,8433
 J2,13,80458,City via Sir Donald Bradman Drive and Adelaide Airport,0,53416,8437
-J1,13,80459,City via Sir Donald Bradman Drive,0,51423,8433
-J1,13,80460,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51426,8431
-J1,13,80461,City via Sir Donald Bradman Drive,0,54414,8433
+J1,13,80459,Adelaide Airport to City via Sir Donald Bradman Drive,0,51423,8433
+J1,13,80460,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51426,8431
+J1,13,80461,Adelaide Airport to City via Sir Donald Bradman Drive,0,54414,8433
 J2,13,80462,City via Sir Donald Bradman Drive and Adelaide Airport,0,52433,8437
-J1,13,80463,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51429,8431
+J1,13,80463,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,51429,8431
 J2,13,80464,City via Sir Donald Bradman Drive and Adelaide Airport,0,51443,8437
-J1,13,80465,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51428,8432
+J1,512,80465,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,51428,8432
 J2,13,80466,City via Sir Donald Bradman Drive and Adelaide Airport,0,53418,8437
-J1,13,80467,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,52432,8432
+J1,512,80467,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,52432,8432
 J2,13,80468,City via Sir Donald Bradman Drive and Adelaide Airport,0,51429,8437
-J1,13,80469,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,51444,8432
+J1,512,80469,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,51444,8432
 J2,13,80470,City via Sir Donald Bradman Drive and Adelaide Airport,0,51432,8437
-J1,13,80471,City via Harbour Town Centre Interchange - Adelaide Airport and Sir Donald Bradman Drive,0,52436,8432
+J1,512,80471,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,52436,8432
 J2,13,80472,City via Sir Donald Bradman Drive and Adelaide Airport,0,53423,8437
 J1A,13,80473,Adelaide Airport via Sir Donald Bradman Drive,1,52400,8436
 J1A,13,80474,Adelaide Airport via Sir Donald Bradman Drive,1,51400,8436
 J1A,13,80475,Adelaide Airport via Sir Donald Bradman Drive,1,52400,8436
 J1A,13,80476,Adelaide Airport via Sir Donald Bradman Drive,1,51400,8436
 J1A,13,80477,Adelaide Airport via Sir Donald Bradman Drive,1,52400,8436
-J1,13,80478,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51409,8434
+J1,13,80478,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51409,8434
 J1A,13,80479,Adelaide Airport via Sir Donald Bradman Drive,1,54400,8436
 J2,13,80480,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51415,8439
 J1A,13,80481,Adelaide Airport via Sir Donald Bradman Drive,1,51412,8436
-J1,13,80482,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,52401,8434
+J1,13,80482,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,52401,8434
 J1A,13,80483,Adelaide Airport via Sir Donald Bradman Drive,1,54401,8436
 J2,13,80484,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54404,8439
 J1A,13,80485,Adelaide Airport via Sir Donald Bradman Drive,1,51418,8436
-J1,13,80486,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51421,8434
+J1,13,80486,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51421,8434
 J1A,13,80487,Adelaide Airport via Sir Donald Bradman Drive,1,54403,8436
 J2,13,80488,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54409,8439
 J1A,13,80489,Adelaide Airport via Sir Donald Bradman Drive,1,51402,8436
-J1,13,80490,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54411,8434
+J1,13,80490,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54411,8434
 J1A,13,80491,Adelaide Airport via Sir Donald Bradman Drive,1,51403,8436
 J2,13,80492,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51405,8439
 J1A,13,80493,Adelaide Airport via Sir Donald Bradman Drive,1,51418,8436
-J1,13,80494,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51428,8434
+J1,13,80494,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51428,8434
 J1A,13,80495,Adelaide Airport via Sir Donald Bradman Drive,1,54401,8436
 J2,13,80496,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51424,8439
 J1A,13,80497,Adelaide Airport via Sir Donald Bradman Drive,1,51402,8436
-J1,13,80498,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51426,8434
+J1,13,80498,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51426,8434
 J1A,13,80499,Adelaide Airport via Sir Donald Bradman Drive,1,54403,8436
 J2,13,80500,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51429,8439
 J1A,13,80501,Adelaide Airport via Sir Donald Bradman Drive,1,54405,8436
-J1,13,80502,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51420,8434
+J1,13,80502,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51420,8434
 J1A,13,80503,Adelaide Airport via Sir Donald Bradman Drive,1,51421,8436
 J2,13,80504,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54404,8439
 J1A,13,80505,Adelaide Airport via Sir Donald Bradman Drive,1,52406,8436
-J1,13,80506,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54407,8434
+J1,13,80506,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54407,8434
 J1A,13,80507,Adelaide Airport via Sir Donald Bradman Drive,1,54403,8436
 J2,13,80508,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53418,8439
 J1A,13,80509,Adelaide Airport via Sir Donald Bradman Drive,1,52420,8436
-J1,13,80510,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53409,8434
+J1,13,80510,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,53409,8434
 J1A,13,80511,Adelaide Airport via Sir Donald Bradman Drive,1,51421,8436
 J2,13,80512,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51429,8439
 J1A,13,80513,Adelaide Airport via Sir Donald Bradman Drive,1,53415,8436
-J1,13,80514,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54417,8434
+J1,13,80514,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,54417,8434
 J1A,13,80515,Adelaide Airport via Sir Donald Bradman Drive,1,51423,8436
 J2,13,80516,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,52429,8439
 J1A,13,80517,Adelaide Airport via Sir Donald Bradman Drive,1,53411,8436
-J1,13,80518,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,51430,8434
+J1,512,80518,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,51430,8434
 J2,13,80519,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51443,8439
-J1,13,80520,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53416,8435
+J1,512,80520,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53416,8435
 J2,13,80521,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54412,8439
-J1,13,80522,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54420,8435
+J1,512,80522,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54420,8435
 J2,13,80523,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51429,8439
-J1,13,80524,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,53422,8435
+J1,512,80524,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53422,8435
 J2,13,80525,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,51432,8439
-J1,13,80526,Glenelg Interchange via Sir Donald Bradman Drive - Adelaide Airport and Harbour Town Centre Interchange,1,54417,8435
+J1,512,80526,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,54417,8435
 J2,13,80527,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,53423,8439
 J2,13,80528,Harbour Town Centre Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,52429,8439
 J7,1,80529,Marion Shopping Centre to West Lakes Interchange via Adelaide Airport and Queen Elizabeth Hospital,0,54108,5998
@@ -15806,3 +15805,836 @@ G10B,1,80875,Prospect Rd 24 to City,1,,8087
 225X,1,80886,City to Salisbury Interchange (Running express between Stop 4 O'Connell Street North Adelaide and Stop 29 Main North Road and Mawson Interchange),1,,8136
 178,12,80887,City via Athelstone Montacute Road Payneham Road,0,,7823
 222,11,80888,Gepps Cross to Mawson Interchange via Main North Rd and Mawson Lakes Boulevard,1,,6017
+190,613,80890,Mitcham to City via Unley Rd,0,,7843
+190,613,80891,Mitcham to City via Unley Rd,0,,7843
+190,613,80892,Mitcham to City via Unley Rd,0,,7843
+200,613,80896,Colonel Light Gardens to City,0,,7867
+200,613,80897,Colonel Light Gardens to City,0,,7867
+200,613,80898,Colonel Light Gardens to City,0,,7867
+202,613,80899,Ingle Farm via Hampstead Rd,1,,8314
+202,613,80900,Ingle Farm via Hampstead Rd,1,,8314
+202,613,80901,Ingle Farm via Hampstead Rd,1,,8314
+202,613,80902,City via Hampstead Rd,0,,8309
+202,613,80903,City via Hampstead Rd,0,,8309
+200E,611,80904,City to Colonel Light Gardens,1,,8592
+200E,613,80905,City to Colonel Light Gardens,1,,8592
+190B,613,80906,City to Mitcham via Unley Rd,1,,7847
+190B,613,80907,City to Mitcham via Unley Rd,1,,7847
+208N,613,80908,City to Northgate via Melbourne Street and Galway Ave,1,,8590
+208,613,80909,Oakden to Sir Edwin Smith Av via Fosters Rd and Galway Av,0,,7879
+208,613,80910,Oakden to Sir Edwin Smith Av via Fosters Rd and Galway Av,0,,7879
+208,613,80911,Oakden to Sir Edwin Smith Av via Fosters Rd and Galway Av,0,,7879
+200E,613,80912,City to Colonel Light Gardens,1,,8591
+200E,613,80913,City to Colonel Light Gardens,1,,8591
+200E,613,80914,City to Colonel Light Gardens,1,,8591
+208N,613,80915,Northgate via Melbourne Street and Galway Ave,1,,8328
+208N,613,80916,Northgate via Melbourne Street and Galway Ave,1,,8328
+208N,613,80917,Northgate via Melbourne Street and Galway Ave,1,,8328
+190B,613,80918,City to Mitcham via Unley Rd,1,,7845
+190B,613,80919,City to Mitcham via Unley Rd,1,,7845
+190B,613,80920,City to Mitcham via Unley Rd,1,,7845
+232,613,80921,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,613,80922,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+230,613,80923,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,613,80924,City to Port Adelaide via Harrison Rd Arndale and Addison Rd,1,,8594
+232,613,80925,City to Rosewater via Arndale and Newcastle St,1,,7956
+232,613,80926,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,613,80927,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+230,613,80928,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+865,21,80929,Crafers Park n Ride to City via Pomona Rd and South Eastern Freeway,0,,6614
+T840,1,80930,City to Mount Barker via Pulteney St limited Stop service,1,,7904
+T840,1,80931,Mount Barker to City via Pulteney St limited Stop service,0,,7905
+864,613,80932,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+863,613,80933,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,,7890
+864,613,80934,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+863,613,80935,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,,7890
+864,613,80936,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80937,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80938,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80939,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80940,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80941,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+864,613,80942,City to Mount Barker via Stirling Bridgewater and Hahndorf,1,,7891
+222,611,80943,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,,7021
+222,611,80944,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,,7021
+222,611,80945,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,,7021
+222,611,80946,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,,7021
+222,611,80947,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,,7021
+222,613,80948,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,,7764
+222,613,80949,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,,7764
+222,613,80950,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,,7764
+222,613,80951,City to Mawson Interchange via O'Connell St Main North Road and Mawson Lakes Boulevard,1,,7764
+224,611,80952,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,611,80953,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,613,80954,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,613,80955,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,613,80956,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,613,80957,Elizabeth Interchange to City via Salisbury Interchange and Mawson Interchange,0,,6022
+224,613,80958,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80959,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80960,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80961,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80962,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80963,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+224,613,80964,City to Elizabeth Interchange via Mawson Interchange and Salisbury Interchange ,1,,7031
+228,611,80965,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+228,611,80966,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+228,611,80967,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+228,613,80968,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+228,613,80969,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+228,613,80970,Smithfield Interchange to City via Hamblynn Rd and Main North Rd,0,,7056
+235,611,80971,Kilburn to City via Churchill Rd,0,,7964
+235,613,80972,Kilburn to City via Churchill Rd,0,,7964
+235,613,80973,Kilburn to City via Churchill Rd,0,,7964
+235,613,80974,City to Kilburn via Churchill Rd,1,,8593
+248,611,80975,City via Morphett Rd and Plympton,0,,8514
+248,613,80976,City via Morphett Rd and Plympton,0,,8514
+248,613,80977,City via Morphett Rd and Plympton,0,,8514
+248,613,80978,Marion Centre Interchange via Plympton and Diagonal Rd,1,,8513
+248,613,80979,Marion Centre Interchange via Plympton and Diagonal Rd,1,,8513
+248,613,80980,Marion Centre Interchange via Plympton and Diagonal Rd,1,,8513
+245,613,80981,City to Warradale via Anzac Hwy Bray St and Morphett Rd,1,,7981
+253,613,80982,Mansfield Park to City via Hanson Rd Arndale and Torrens Rd,0,,8180
+253,613,80983,Mansfield Park to City via Hanson Rd Arndale and Torrens Rd,0,,8180
+253,613,80984,Mansfield Park to City via Hanson Rd Arndale and Torrens Rd,0,,8180
+253,613,80985,City to Mansfield Park via Torrens Rd Arndale and Hanson Rd ,1,,5562
+253,613,80986,City to Mansfield Park via Torrens Rd Arndale and Hanson Rd ,1,,5562
+228,613,80987,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+253,613,80988,City to Mansfield Park via Torrens Rd Arndale and Hanson Rd ,1,,5562
+253,613,80989,City to Mansfield Park via Torrens Rd Arndale and Hanson Rd ,1,,5562
+228,613,80990,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+228,613,80991,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+228,613,80992,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+228,613,80993,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+228,613,80994,City to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8160
+235,611,80995,City to Kilburn via Churchill Rd,1,,7963
+235,613,80996,City to Kilburn via Churchill Rd,1,,7963
+235,613,80997,City to Kilburn via Churchill Rd,1,,7963
+262,613,80998,Glenelg Interchange to Marion Interchange via Brighton Road,1,,8597
+262,613,80999,Glenelg Interchange to Marion Interchange via Brighton Road,1,,8597
+262,613,81000,Glenelg Interchange to Marion Interchange via Brighton Road,1,,8597
+262,613,81001,Glenelg Interchange to Marion Interchange via Brighton Road,1,,8597
+262,613,81002,Glenelg Interchange to Marion Interchange via Brighton Road,1,,8597
+262,613,81003,City to Marion Interchange via Glenelg Interchange and Brighton Road,1,,8595
+262,613,81004,City to Marion Interchange via Glenelg Interchange and Brighton Road,1,,8595
+262,613,81005,City to Marion Interchange via Glenelg Interchange and Brighton Road,1,,8595
+262,613,81006,City to Marion Interchange via Glenelg Interchange and Brighton Road,1,,8596
+262,611,81007,Marion Interchange to Glenelg Interchange via Brighton Rd,0,,8599
+262,613,81008,Marion Interchange to Glenelg Interchange via Brighton Rd,0,,8599
+262,613,81009,Marion Interchange to Glenelg Interchange via Brighton Rd,0,,8599
+262,613,81010,Marion Interchange to Glenelg Interchange via Brighton Rd,0,,8599
+262,613,81011,Marion Interchange to City via Glenelg Interchange Brighton Rd and Anzac Hwy,0,,8598
+262,613,81012,Marion Interchange to City via Glenelg Interchange Brighton Rd and Anzac Hwy,0,,8598
+262,613,81013,Marion Interchange to City via Glenelg Interchange Brighton Rd and Anzac Hwy,0,,8598
+262,613,81014,Marion Interchange to City via Glenelg Interchange Brighton Rd and Anzac Hwy,0,,8598
+273,611,81015,City to Paradise Interchange via Melbourne St North East Rd and Sudholz Rd,1,,8041
+273,613,81016,City to Paradise Interchange via Melbourne St North East Rd and Sudholz Rd,1,,8041
+273,613,81017,City to Paradise Interchange via Melbourne St North East Rd and Sudholz Rd,1,,8041
+273,613,81018,City to Paradise Interchange via North East Rd and Sudholz Rd,1,,3492
+273,613,81019,City to Paradise Interchange via North East Rd and Sudholz Rd,1,,3492
+273,611,81020,Paradise Interchange to City via Sudholz Rd North East Rd and Melbourne St,0,,8042
+273,613,81021,Paradise Interchange to City via Sudholz Rd North East Rd and Melbourne St,0,,8042
+273,613,81022,Paradise Interchange to City via Sudholz Rd North East Rd and Melbourne St,0,,8042
+G10,611,81023,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81024,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81025,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81026,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81027,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81028,Marion Shopping Centre to Prospect Rd 24 via City,0,,8077
+G10,613,81029,Bedford Park to Prospect Rd 24 via City,0,,8079
+G10,613,81030,Bedford Park to Prospect Rd 24 via City,0,,8079
+G10,613,81031,Bedford Park to Prospect Rd 24 via City,0,,8079
+G10,613,81032,Prospect Rd 24 to Marion Shopping Centre,1,,8081
+228,613,81033,Gepps Cross to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8602
+228,613,81034,Gepps Cross to Smithfield Interchange via Main North Road and Hamblynn Rd,1,,8602
+G10,613,81035,Prospect Rd 24 to Marion Shopping Centre,1,,8081
+229,613,81036,Stop 29 Main North Rd to Para Hills via Pooraka,1,,6044
+229,613,81037,Stop 29 Main North Rd to Para Hills via Pooraka,1,,6044
+229,613,81038,Stop 29 Main North Rd to Para Hills via Pooraka,1,,6044
+G10,613,81039,Prospect Rd 24 to Marion Shopping Centre,1,,8081
+G10,613,81040,Prospect Rd 24 to Marion Shopping Centre,1,,8081
+G10B,613,81041,Prospect Rd 24 to City,1,,8087
+G10B,613,81042,Prospect Rd 24 to City,1,,8087
+G10B,613,81043,Prospect Rd 24 to City,1,,8087
+G10,613,81044,Marion Centre Interchange via Prospect Road City Goodwood Road Flinders University,1,,8529
+G21,613,81045,Aberfoyle Hub to Bedford Park,0,,8104
+G21,613,81046,Aberfoyle Hub to Bedford Park,0,,8104
+G21,613,81047,Aberfoyle Hub to Bedford Park,0,,8104
+G21,613,81048,City to Aberfoyle Hub,1,,8221
+G21,613,81049,City to Aberfoyle Hub,1,,8221
+G21,613,81050,City to Aberfoyle Hub,1,,8221
+G21,613,81051,City to Aberfoyle Hub and Old Reynella Interchange,1,,8057
+W90,613,81052,Marion Shopping Centre to Marden 13A via Winston Avenue and City,0,,7463
+W90,613,81053,Marion Shopping Centre to Marden 13A via Winston Avenue and City,0,,7463
+W90,613,81054,Marion Shopping Centre to Marden 13A via Winston Avenue and City,0,,7463
+W90,613,81055,City to Marden 13B,0,,8600
+W90,613,81056,Marden 13A to Marion Shopping Centre via City,1,,7461
+W90,613,81057,Marden 13A to Marion Shopping Centre via City,1,,7461
+W90,613,81058,Marden 13A to Marion Shopping Centre via City,1,,7461
+W90,613,81059,City North Terrace to Marion Shopping Centre via Winston Avenue,1,,7462
+229,611,81060,Para Hills to City via Main North Rd,0,,8603
+229,611,81061,Para Hills to City via Main North Rd,0,,8603
+229,611,81062,Para Hills to City via Main North Rd,0,,8603
+229,611,81063,Para Hills to City via Main North Rd,0,,8603
+M44G,613,81064,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,,7999
+M44G,613,81065,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,,7999
+M44G,613,81066,Marion Shopping Centre to Golden Grove Interchange via Marion Rd City O-Bahn and Ladywood Rd,1,,7999
+M44G,613,81067,City to Golden Grove Interchange via O-Bahn and Ladywood Rd,1,,8601
+M44G,613,81068,City to Golden Grove Interchange via O-Bahn and Ladywood Rd,1,,8601
+M44,611,81069,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81070,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81071,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81072,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81073,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81074,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81075,Golden Grove Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7992
+M44,613,81076,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7993
+400,613,81077,Salisbury Interchange to Salisbury North,0,,8604
+M44,613,81078,Tea Tree Plaza Interchange to Marion Shopping Centre via O-Bahn City and Marion Rd,0,,7993
+400,613,81079,Salisbury Interchange to Salisbury North,0,,8604
+400,613,81080,Salisbury Interchange to Salisbury North,0,,8604
+400,613,81081,Salisbury Interchange to Salisbury North,0,,8604
+401,613,81082,Salisbury Interchange to Bolivar Rd,0,,8605
+401,613,81083,Salisbury Interchange to Bolivar Rd,0,,8605
+401,613,81084,Salisbury Interchange to Bolivar Rd,0,,8605
+401,613,81085,Salisbury Interchange to Bolivar Rd,0,,8605
+229,613,81086,City to Para Hills via Main North Rd,1,,8606
+229,613,81087,City to Para Hills via Main North Rd,1,,8606
+229,613,81088,City to Para Hills via Main North Rd,1,,8606
+C1,611,81089,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+411,613,81090,Salisbury to Mawson Interchange via Burton Rd Kings Rd and Oleander Dr,0,,7281
+C1,611,81091,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+411,613,81092,Salisbury to Mawson Interchange via Burton Rd Kings Rd and Oleander Dr,0,,7281
+411,613,81093,Salisbury to Mawson Interchange via Burton Rd Kings Rd and Oleander Dr,0,,7281
+411,613,81094,Salisbury to Mawson Interchange via Burton Rd Kings Rd and Oleander Dr,0,,7281
+C1,611,81095,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81096,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+411,613,81097,Mawson Interchange to Salisbury via Oleander Dr Kings Rd and Burton Rd,1,,7282
+C1,611,81098,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+411,613,81099,Mawson Interchange to Salisbury via Oleander Dr Kings Rd and Burton Rd,1,,7282
+411,613,81100,Mawson Interchange to Salisbury via Oleander Dr Kings Rd and Burton Rd,1,,7282
+C1,611,81101,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+411,613,81102,Mawson Interchange to Salisbury via Oleander Dr Kings Rd and Burton Rd,1,,7282
+C1,611,81103,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81104,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81105,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+443,613,81106,Elizabeth Station Munno Para Station Elizabeth Station Loop via Smithfield Interchange  ,0,,6993
+443,613,81107,Elizabeth Station Munno Para Station Elizabeth Station Loop via Smithfield Interchange  ,0,,6993
+C1,611,81108,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+443,613,81109,Elizabeth Station Munno Para Station Elizabeth Station Loop via Smithfield Interchange  ,0,,6993
+443,613,81110,Elizabeth Station Munno Para Station Elizabeth Station Loop via Smithfield Interchange  ,0,,6993
+C1,611,81111,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+443,613,81112,Elizabeth Station Munno Para Station Elizabeth Station Loop via Smithfield Interchange  ,0,,6993
+C1,611,81113,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81114,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81115,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81116,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81117,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81118,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81119,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+451,613,81120,Elizabeth Station to Munno Para Shopping Centre via President Av and Smithfield Interchange,1,,7794
+451,613,81121,Elizabeth Station to Munno Para Shopping Centre via President Av and Smithfield Interchange,1,,7794
+451,613,81122,Elizabeth Station to Munno Para Shopping Centre via President Av and Smithfield Interchange,1,,7794
+451,613,81123,Elizabeth Station to Munno Para Shopping Centre via President Av and Smithfield Interchange,1,,7794
+451,613,81124,Elizabeth Station to Munno Para Shopping Centre via President Av and Smithfield Interchange,1,,7794
+451,613,81125,Munno Para Shopping Centre to Elizabeth Station via Smithfield Interchange and President Av,0,,7799
+451,613,81126,Munno Para Shopping Centre to Elizabeth Station via Smithfield Interchange and President Av,0,,7799
+451,613,81127,Munno Para Shopping Centre to Elizabeth Station via Smithfield Interchange and President Av,0,,7799
+451,613,81128,Munno Para Shopping Centre to Elizabeth Station via Smithfield Interchange and President Av,0,,7799
+451,613,81129,Munno Para Shopping Centre to Elizabeth Station via Smithfield Interchange and President Av,0,,7799
+712,613,81130,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,,4904
+712,613,81131,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,,4904
+712,613,81132,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,,4904
+712,613,81133,O'Halloran Hill TAFE to Old Reynella Interchange via Main South Rd and Bluehills Rd,1,,4904
+721,613,81134,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81135,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81136,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81137,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81138,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81139,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81140,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81141,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81142,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81143,City to Noarlunga Interchange via Main South Rd and Beach Rd,1,,7104
+721,613,81144,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,613,81145,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,613,81146,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,613,81147,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,613,81148,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,611,81149,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,611,81150,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,611,81151,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,611,81152,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+721,613,81153,Noarlunga Interchange to City via Beach Rd and Main Main South Rd,0,,8174
+722,613,81154,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4952
+722,613,81155,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4952
+722,613,81156,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4952
+722,613,81157,City to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4952
+C1,611,81158,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81159,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81160,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81161,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81162,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81163,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81164,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81165,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81166,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81167,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81168,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81169,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81170,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81171,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81172,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81173,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81174,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81175,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81176,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81177,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81178,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81179,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81180,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81181,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81182,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,611,81183,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,613,81184,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C1,613,81185,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8534
+C2,611,81186,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C2,611,81187,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C2,611,81188,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C2,611,81189,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C2,611,81190,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C2,611,81191,City via Golden Grove Rd - Tea Tree Plaza Interchange and O-Bahn,0,,8547
+C1,611,81192,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,611,81193,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,611,81194,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,611,81195,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81196,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81197,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81198,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81199,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81201,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1,613,81202,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8533
+C1T,613,81203,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81204,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81205,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81206,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81207,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81208,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81209,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81210,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81211,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81212,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81213,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81214,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81215,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81216,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81217,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81218,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81219,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81220,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81221,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81222,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81223,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81224,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81225,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81226,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81227,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,613,81228,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1G,613,81229,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C1G,613,81230,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C1G,613,81231,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C1G,613,81232,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C1G,613,81233,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C1G,613,81234,Golden Grove Village via O-Bahn and Paradise Interchange,1,,8467
+C2,613,81235,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
+C2,613,81236,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
+C2,613,81237,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
+C2,613,81238,Golden Grove Village via O-Bahn and Tea Tree Plaza Interchange,1,,8546
+502,613,81239,Salisbury Interchange via O-Bahn and Bridge Rd,1,,8349
+502,613,81240,Salisbury Interchange via O-Bahn and Bridge Rd,1,,8349
+502,613,81241,Salisbury Interchange via O-Bahn and Bridge Rd,1,,8349
+502,613,81242,Salisbury Interchange via O-Bahn and Bridge Rd,1,,8349
+722,611,81243,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+502,613,81244,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,,8275
+502,613,81245,City via Bridge Rd and O-Bahn and Salisbury Interchange,0,,8275
+722,611,81246,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+722,613,81247,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81248,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81249,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81250,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81251,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81252,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81253,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+722,613,81254,Noarlunga Interchange to Old Reynella Interchange via Elizabeth Rd and Burgoyne Dr,0,,4944
+503,611,81255,Tea Tree Plaza to Paradise Interchange via Smart Rd Helen Tce and Valiant Rd,0,,4136
+503,613,81256,Tea Tree Plaza to Paradise Interchange via Smart Rd Helen Tce and Valiant Rd,0,,4136
+503,613,81257,Tea Tree Plaza to Paradise Interchange via Smart Rd Helen Tce and Valiant Rd,0,,4136
+503,613,81258,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
+503,613,81259,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
+503,613,81260,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
+503,613,81261,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
+503,613,81262,Paradise Interchange to Tea Tree Plaza via Valiant Rd Helen Tce and Smart Rd,1,,4137
+506,613,81263,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,,3240
+506,613,81264,Tea Tree Plaza to Paradise Interchange via Kelly Rd and Wandana Ave,0,,3240
+506,611,81265,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,611,81266,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,613,81267,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,613,81268,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,613,81269,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,613,81270,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+506,613,81271,Paradise Interchange to Tea Tree Plaza via Wandana Ave and Kelly Rd,1,,3246
+722,611,81272,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+722,611,81273,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+722,611,81274,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+722,611,81275,Noarlunga Interchange to City via Elizabeth Rd Burgoyne Dr and Main South Rd,0,,4945
+541,613,81276,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,,3259
+541,613,81277,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,,3259
+541,613,81278,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,,3259
+541,613,81279,Tea Tree Plaza Interchange to Fairview Park via Smart Rd and Hancock Rd,1,,3259
+541,613,81280,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,,3256
+541,613,81281,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,,3256
+541,613,81282,Fairview Park to Tea Tree Plaza Interchange via Hancock Rd Smart Rd,0,,3256
+542,613,81283,Tea Tree Plaza Interchange to Yatala Vale 68 via North East Rd and Yatala Vale Rd,1,,7139
+542,613,81284,Tea Tree Plaza Interchange to Yatala Vale 68 via North East Rd and Yatala Vale Rd,1,,7139
+542,613,81285,Yatala Vale 68 to Tea Tree Plaza Interchange via Yatala Vale Rd and  North East Rd,0,,7137
+542,613,81286,Yatala Vale 68 to Tea Tree Plaza Interchange via Yatala Vale Rd and  North East Rd,0,,7137
+542,613,81287,Yatala Vale 68 to Tea Tree Plaza Interchange via Yatala Vale Rd and  North East Rd,0,,7137
+542,613,81288,Yatala Vale 68 to Tea Tree Plaza Interchange via Yatala Vale Rd and  North East Rd,0,,7137
+545,611,81289,Golden Grove Village to Tea Tree Plaza via Keithcot Farm Dr and McIntyre Rd,0,,744
+545,613,81290,Golden Grove Village to Tea Tree Plaza via Keithcot Farm Dr and McIntyre Rd,0,,744
+545,613,81291,Golden Grove Village to Tea Tree Plaza via Keithcot Farm Dr and McIntyre Rd,0,,744
+545,613,81292,Tea Tree Plaza to Golden Grove Village via McIntyre Rd and Keithcot Farm Dr,1,,747
+545,613,81293,Tea Tree Plaza to Golden Grove Village via McIntyre Rd and Keithcot Farm Dr,1,,747
+545,613,81294,Tea Tree Plaza to Golden Grove Village via McIntyre Rd and Keithcot Farm Dr,1,,747
+545,613,81295,Tea Tree Plaza to Golden Grove Village via McIntyre Rd and Keithcot Farm Dr,1,,747
+545,613,81296,Tea Tree Plaza to Golden Grove Village via McIntyre Rd and Keithcot Farm Dr,1,,747
+864,21,81297,Mt Barker to Dutton Rd 66E,1,,8607
+557,613,81298,Tea Treet Plaza Interchange to Paradise Interchange via North East Rd Perseverance Rd and Lower North East Rd,0,,7158
+557,613,81299,Tea Treet Plaza Interchange to Paradise Interchange via North East Rd Perseverance Rd and Lower North East Rd,0,,7158
+557,613,81300,Paradise Interchange to Tea Tree Plaza via Lower North East Rd Perseverance Rd and North East Rd,1,,7159
+557,613,81301,Paradise Interchange to Tea Tree Plaza via Lower North East Rd Perseverance Rd and North East Rd,1,,7159
+557,613,81302,Paradise Interchange to Tea Tree Plaza via Lower North East Rd Perseverance Rd and North East Rd,1,,7159
+557,613,81303,Paradise Interchange to Tea Tree Plaza via Lower North East Rd Perseverance Rd and North East Rd,1,,7159
+557,613,81304,Paradise Interchange to Tea Tree Plaza via Lower North East Rd Perseverance Rd and North East Rd,1,,7159
+864F,21,81305,Verdun to City,0,,8608
+HL1,5,81306,Mt Barker Kmart to Windsor Ave,0,,8609
+HL2,5,81307,Windsor Ave to Mt Barker Kmart,1,,8610
+722,613,81308,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+722,613,81309,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+722,613,81310,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+722,613,81311,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+722,613,81312,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+722,613,81313,Old Reynella Interchange to Noarlunga Interchange via Main South Rd Burgoyne Dr and Elizabeth Rd,1,,4948
+725,613,81314,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81315,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81316,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81317,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81318,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81319,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81320,Old Reynella Interchange to Noarlunga Interchange via South Rd Grant Rd and Flaxmill Rd,1,,967
+725,613,81321,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81322,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81323,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81324,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81325,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81326,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81327,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81328,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81329,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+725,613,81330,Noarlunga Interchange to Old Reynella Interchange via Flaxmill Rd Grant Rd and South Rd,0,,964
+733G,613,81331,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81332,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81333,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81334,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81335,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81336,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81337,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81338,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81339,O'Halloran Hill via Regency Road,0,,8306
+733G,613,81340,O'Halloran Hill via Regency Road,0,,8306
+724,613,81341,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81342,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81343,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81344,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81345,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81346,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81347,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81348,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81349,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81350,Noarlunga Interchange to Old Reynella Interchange via Beach Rd Galloway Rd and  Panalatinga Rd ,0,,3027
+724,613,81351,Old Reynella Interchange to Noarlunga Centre via Panalatinga Rd Galloway Rd and Beach Rd,1,,3033
+724,613,81352,Old Reynella Interchange to Noarlunga Centre via Panalatinga Rd Galloway Rd and Beach Rd,1,,3033
+724,613,81353,Old Reynella Interchange to Noarlunga Centre via Panalatinga Rd Galloway Rd and Beach Rd,1,,3033
+733,613,81354,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,,8303
+733,613,81355,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,,8303
+733,613,81356,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,,8303
+740,613,81357,Noarlunga Interchange to The Parade 85 via Beach Rd and Grand Boulevard,1,,7658
+740,613,81358,Noarlunga Interchange to The Parade 85 via Beach Rd and Grand Boulevard,1,,7658
+740,613,81359,Noarlunga Interchange to The Parade 85 via Beach Rd and Grand Boulevard,1,,7658
+740,613,81360,Noarlunga Interchange to The Parade 85 via Beach Rd and Grand Boulevard,1,,7658
+740,613,81361,Noarlunga Interchange to The Parade 85 via Beach Rd and Grand Boulevard,1,,7658
+733,611,81362,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81363,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81364,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81365,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81366,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81367,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,611,81368,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,613,81369,Noarlunga Interchange to Glenelg Interchange via Flaxmill Rd Investigator Dr and Diagonal Rd,0,,8611
+733,613,81370,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81371,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81372,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81373,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81374,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81375,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81376,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+733,613,81377,Glenelg Interchange to Noarlunga Interchange via Diagonal Rd Investigator Dr and Flaxmill Rd,1,,8612
+734,611,81378,Noarlunga Interchange to Glenelg Interchange via Galloway Rd Old Reynella Interchange and Adams Rd,0,,8613
+734,611,81379,Noarlunga Interchange to Glenelg Interchange via Galloway Rd Old Reynella Interchange and Adams Rd,0,,8613
+734,611,81380,Noarlunga Interchange to Glenelg Interchange via Galloway Rd Old Reynella Interchange and Adams Rd,0,,8613
+734,611,81381,Noarlunga Interchange to Glenelg Interchange via Galloway Rd Old Reynella Interchange and Adams Rd,0,,8613
+734,611,81382,Noarlunga Interchange to Glenelg Interchange via Galloway Rd Old Reynella Interchange and Adams Rd,0,,8613
+734,613,81383,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81384,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81385,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81386,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81387,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81388,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81389,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+734,613,81390,Glenelg Interchange to Noarlunga Interchange Adams Rd Old Reynella Interchange and Galloway Rd,1,,8614
+685,613,81391,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,1,,7480
+685,613,81392,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,1,,7480
+685,613,81393,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,1,,7480
+685,613,81394,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,1,,7480
+685,613,81395,Hallett Cove Shopping Centre  to Hallett Cove Beach South via The Cove Rd and Perry Barr Rd,1,,7480
+682,613,81396,Hallett Cove Beach Station to Sheidow Park via Gledsdale Rd and Heysen Dr,0,,851
+682,613,81397,Hallett Cove Beach Station to Sheidow Park via Gledsdale Rd and Heysen Dr,0,,851
+682,613,81398,Hallett Cove Beach Station to Sheidow Park via Gledsdale Rd and Heysen Dr,0,,851
+682,613,81399,Hallett Cove Beach Station to Sheidow Park via Gledsdale Rd and Heysen Dr,0,,851
+743,613,81400,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81401,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81402,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81403,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81404,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81405,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+743,613,81406,Noarlunga Interchange - Hackham West Circuit - Anti-Clockwise via Honeypot Rd,1,,7126
+747,613,81407,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81408,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81409,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81410,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81411,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81412,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+747,613,81413,Noarlunga Interchange - Seaford Circuit Clockwise to Noarlunga Interchange,0,,8615
+749,613,81414,Noarlunga Interchange to Aldinga Beach via Noarlunga Interchange Seaford Shopping Centre and Aldinga Shopping Centre,1,,5051
+749,613,81415,Noarlunga Interchange to Aldinga Beach via Noarlunga Interchange Seaford Shopping Centre and Aldinga Shopping Centre,1,,5051
+749,613,81416,Noarlunga Interchange to Aldinga Beach via Noarlunga Interchange Seaford Shopping Centre and Aldinga Shopping Centre,1,,5051
+749,613,81417,Noarlunga Interchange to Aldinga Beach via Noarlunga Interchange Seaford Shopping Centre and Aldinga Shopping Centre,1,,5051
+753,613,81418,Noarlunga Interchange to Willunga via Seaford Shopping Centre and Main Rd,1,,7694
+753,613,81419,Noarlunga Interchange to Willunga via Seaford Shopping Centre and Main Rd,1,,7694
+720,613,81420,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,,8616
+720,613,81421,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,,8616
+720,613,81422,Old Reynella Interchange to City via Hallett Cove Marion and South Rd,0,,8616
+720,613,81423,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81424,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81425,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81426,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81427,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81428,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81429,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+720,613,81430,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
+117,611,81431,Port Adelaide Interchange to City via West Lakes Interchange and Port Adelaide,0,,7669
+117,613,81432,Port Adelaide Interchange to City via West Lakes Interchange and Port Adelaide,0,,7669
+118,613,81433,Port Adelaide Interchange to City via Tapleys Hill Rd and Grange Rd,0,,7664
+118,613,81434,Port Adelaide Interchange to City via Tapleys Hill Rd and Grange Rd,0,,7664
+141,613,81435,City to Stonyfell via Kensington Rd and Hallett Rd,1,,6808
+141,613,81436,City to Stonyfell via Kensington Rd and Hallett Rd,1,,6808
+142,613,81437,City to Burnside via Kensington Rd,1,,6809
+142,613,81438,City to Burnside via Kensington Rd,1,,6809
+141,613,81439,Stonyfell to City via Hallett  Rd and Kensington Rd ,0,,7671
+141,613,81440,Stonyfell to City via Hallett  Rd and Kensington Rd ,0,,7671
+142,613,81441,Burnside to City via Kensington Rd ,0,,7675
+142,613,81442,Burnside to City via Kensington Rd ,0,,7675
+117,613,81443,City to Port Adelaide Interchange via Port Rd and West Lakes Interchange,1,,7668
+117,613,81444,City to Port Adelaide Interchange via Port Rd and West Lakes Interchange,1,,7668
+118,613,81445,City to Port Adelaide Interchange via Port Rd and Tapleys Hill Rd ,1,,7663
+118,613,81446,City to Port Adelaide Interchange via Port Rd and Tapleys Hill Rd ,1,,7663
+157,611,81448,City to Largs North via Port Rd West Lakes Interchange and Military Rd,1,,5348
+157,613,81449,City to Largs North via Port Rd West Lakes Interchange and Military Rd,1,,5348
+157,613,81450,City to Largs North via Port Rd West Lakes Interchange and Military Rd,1,,5348
+157,613,81451,City to Largs North via Port Rd West Lakes Interchange and Military Rd,1,,5348
+147,611,81452,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7629
+147,613,81453,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7629
+147,613,81454,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7629
+147,613,81455,Beaumont to City via Stirling St Dulwich Ave and Hutt St,0,,7629
+144,611,81456,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
+144,613,81457,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
+144,613,81458,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
+144,613,81459,Glen Osmond to City via Portrush Rd and Dequetteville Tce,0,,7623
+150,613,81460,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,,7705
+150,613,81461,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,,7705
+150,613,81462,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,,7705
+150,613,81463,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,,7705
+150,613,81464,City to Port Adelaide Interchange via Adelaide Railway Station and Port Rd,1,,7705
+157,611,81465,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,,7710
+157,613,81466,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,,7710
+157,613,81467,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,,7710
+157,613,81468,Largs North to City via Military Rd West Lakes Interchange and Port Rd,0,,6250
+144,613,81469,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,,8123
+144,613,81470,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,,8123
+144,613,81471,City to Glen Osmond via Dequetteville Tce and Portrush Rd,1,,8123
+150,611,81472,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,,7700
+150,613,81473,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,,7700
+150,613,81474,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,,7700
+150,613,81475,Port Adelaide Interchange to City via Commercial Rd and Port Rd,0,,7700
+147,613,81476,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,,8125
+147,613,81477,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,,8125
+147,613,81478,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,,8125
+147,613,81479,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,,8125
+168,611,81480,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8620
+168,613,81481,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8620
+167,611,81482,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8617
+167,611,81483,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8617
+167,611,81484,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,611,81485,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,611,81486,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,611,81487,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,613,81488,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,613,81489,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+167,613,81490,Glenelg to City via Tapleys Hill Rd and Richmond Rd,0,,8621
+168,611,81491,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,611,81492,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,611,81493,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,611,81494,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,613,81495,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,613,81496,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+168,613,81497,Glenelg to City via Tapleys Hill Rd Streeters Rd and Richmond Rd,0,,8618
+171,611,81498,Mitchan Square via Glen Osmond Rd - Fullarton Rd and Princes Rd,1,,8494
+171,613,81499,Mitchan Square via Glen Osmond Rd - Fullarton Rd and Princes Rd,1,,8494
+171,613,81500,Mitchan Square via Glen Osmond Rd - Fullarton Rd and Princes Rd,1,,8494
+171,613,81501,Mitchan Square via Glen Osmond Rd - Fullarton Rd and Princes Rd,1,,8494
+171,611,81502,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,,8490
+171,613,81503,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,,8490
+171,613,81504,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,,8490
+167,611,81505,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8619
+167,611,81506,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8619
+167,611,81507,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8619
+167,611,81508,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8619
+168,611,81509,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8623
+168,611,81510,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8623
+168,611,81511,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8623
+168,611,81512,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8624
+168,613,81513,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8625
+168,613,81514,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8625
+168,613,81515,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8625
+168,613,81516,City to Glenelg via Richmond Rd Streeters Rd and Tapleys Hill Rd,1,,8625
+167,613,81517,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8622
+167,613,81518,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8622
+167,613,81519,City to Glenelg via Richmond Rd and Tapleys Hill Rd,1,,8622
+172,613,81520,Kingswood to City via Duthy St and Hutt St,0,,7734
+172,613,81521,Kingswood to City via Duthy St and Hutt St,0,,7734
+172,613,81522,Kingswood to City via Duthy St and Hutt St,0,,7734
+172,613,81523,Kingswood to City via Duthy St and Hutt St,0,,7734
+178,613,81524,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,7816
+178,613,81525,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,7816
+178,613,81526,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,7816
+178,613,81527,City to Paradise Interchange via Payneham Rd and Montacute Rd,1,,7816
+178S,613,81528,City to Newton via Payneham Road and Montacute Rd,1,,8626
+178,611,81529,City via Athlestone Montacute Rd and Payneham Rd ,0,,8522
+178,613,81530,City via Athlestone Montacute Rd and Payneham Rd ,0,,8522
+178,613,81531,City via Athlestone Montacute Rd and Payneham Rd ,0,,8522
+178,613,81532,City via Athlestone Montacute Rd and Payneham Rd ,0,,8522
+178,613,81533,Paradise Interchange to City via Montacute Rd and Payneham Rd,0,,7818
+172,613,81534,City to Kingswood via Hutt St and Duthy St ,1,,6836
+172,613,81535,City to Kingswood via Hutt St and Duthy St ,1,,6836
+172,613,81536,City to Kingswood via Hutt St and Duthy St ,1,,6836
+172,613,81537,City to Kingswood via Hutt St and Duthy St ,1,,6836
+174,611,81538,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,611,81539,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,611,81540,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81541,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81542,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81543,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81544,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81545,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81546,Paradise Interchange to City via Lower North East Rd and Payneham Rd,0,,6838
+174,613,81547,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81548,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81549,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81550,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81551,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81552,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81553,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+174,613,81554,Paradise Interchange via Payneham Rd and Lower North East Rd,1,,8429
+287,611,81555,Henley Beach to City via Marlborough Tce and Ashley St,0,,3513
+287,613,81556,Henley Beach to City via Marlborough Tce and Ashley St,0,,3513
+287,613,81557,Henley Beach to City via Marlborough Tce and Ashley St,0,,3513
+287,613,81558,Henley Beach to City via Marlborough Tce and Ashley St,0,,3513
+281,613,81559,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,,8479
+281,613,81560,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,,8479
+281,613,81561,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,,8479
+281,613,81562,Paradise Interchange via Walkerville Terrace and McLauchlan Rd,1,,8479
+J1,611,81563,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81564,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81565,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81566,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81567,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81568,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81569,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,613,81570,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81571,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81572,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81573,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81574,City to Glenelg Interchange via Sir Donald Bradman Drive and Adelaide Airport,1,,8632
+J1,611,81575,City to Glenelg Interchange via Sir Donald Bradman Drive Adelaide Airport and Harbour Town Centre Interchange,1,,8633
+J1,611,81576,Glenelg Interchange to City via Harbour Town Centre Interchange Adelaide Airport and Sir Donald Bradman Drive,0,,8634
+J1,611,81577,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,611,81578,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,611,81579,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,611,81580,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,611,81581,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,611,81582,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81583,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81584,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81585,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81586,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81587,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+J1,613,81588,Glenelg Interchange to City via Adelaide Airport and Sir Donald Bradman Drive,0,,8635
+281,611,81589,City via McLauchlan Rd and Walkerville Terrace,0,,8477
+281,613,81590,City via McLauchlan Rd and Walkerville Terrace,0,,8477
+281,613,81591,City via McLauchlan Rd and Walkerville Terrace,0,,8477
+281,613,81592,City via McLauchlan Rd and Walkerville Terrace,0,,8477
+287,613,81593,West Lakes Centre Interchange via Ashley Street - Valetta Rd and Marlborough Street,1,,8484
+287,613,81594,West Lakes Centre Interchange via Ashley Street - Valetta Rd and Marlborough Street,1,,8484
+287,613,81595,West Lakes Centre Interchange via Ashley Street - Valetta Rd and Marlborough Street,1,,8484
+287,613,81596,West Lakes Centre Interchange via Ashley Street - Valetta Rd and Marlborough Street,1,,8484
+B10,613,81597,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81598,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81599,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81600,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81601,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81602,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81603,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81604,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81605,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81606,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81607,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+Tram,611,81608,Entertainment Centre to Brighton Rd Stop 15 via City,0,29999,8638
+Tram,611,81609,Entertainment Centre to Brighton Rd Stop 15 via City,0,29999,8639
+Tram,611,81610,Entertainment Centre to Brighton Rd Stop 15 via City,0,29999,8638
+B10,613,81611,Magill to West Lakes Shopping Centre via Magill Rd City and Grange Rd,0,,7548
+B10,613,81612,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+B10,613,81613,West Lakes Shopping Centre to Magill via Grange Rd City and Magill Rd,1,,7547
+H20,611,81614,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,611,81615,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,613,81616,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,613,81617,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,613,81618,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+Tram,611,81619,Brighton Rd Stop 15 to Entertainment Centre via City,0,29999,8636
+H20,613,81620,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+Tram,611,81621,Brighton Rd Stop 15 to Entertainment Centre via City,0,29999,8636
+Tram,613,81622,Brighton Rd Stop 15 to Entertainment Centre via City,0,29999,8637
+H20,611,81623,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,611,81624,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+H20,611,81625,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+Tram,611,81626,Entertainment Centre to Brighton Rd Stop 15 via City,1,29999,8638
+H20,611,81627,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+Tram,611,81628,Entertainment Centre to Brighton Rd Stop 15 via City,1,29999,8638
+H20,611,81629,Paradise Interchange to Glenelg via Newton Rd The Parade City Marion Rd and Stonehouse Ave,0,,8629
+Tram,611,81630,Entertainment Centre to Brighton Rd Stop 15 via City,1,29999,8638
+Tram,611,81632,Entertainment Centre to Brighton Rd Stop 15 via City,1,29999,8638
+H20,611,81633,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,611,81634,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,611,81635,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,611,81636,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,611,81637,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,611,81638,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,613,81639,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,613,81640,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,613,81641,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H20,613,81642,Glenelg to Paradise Interchange via Stonehouse Ave Marion Rd The Parade and Newton Rd,1,,8630
+H22,611,81643,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,611,81644,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,613,81645,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,613,81646,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,613,81647,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,613,81648,Henley Beach South to Wattle Park via Henley Beach Rd Pierson St City and The Parade,1,,7575
+H22,611,81649,Wattle Park to Henley Beach South via The Parade City Pierson St and Henley Beach Rd,0,,7574
+H22,613,81650,Wattle Park to Henley Beach South via The Parade City Pierson St and Henley Beach Rd,0,,7574
+H22,613,81651,Wattle Park to Henley Beach South via The Parade City Pierson St and Henley Beach Rd,0,,7574
+H22,613,81652,Wattle Park to Henley Beach South via The Parade City Pierson St and Henley Beach Rd,0,,7574
+H22,613,81653,Wattle Park to Henley Beach South via The Parade City Pierson St and Henley Beach Rd,0,,7574
+H30,611,81654,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81655,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81656,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81657,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81658,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81659,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81660,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,613,81661,West Lakes Shopping Centre to Paradise Interchange via Henley Beach Rd City and Coorara Ave,1,,7586
+H30,611,81662,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81663,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81664,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81665,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81666,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81667,Paradise Interchange to West Lakes Shopping Centre via Coorara Ave City and Henley Beach Rd,0,,7585
+H30,613,81668,Paradise Interchange to City via Stradbroke Rd and Coorara Ave,0,,8627
+H31C,613,81669,Rostrevor to City via Reid Av Coorara Ave and Magill Rd,0,,8628
+H31C,613,81670,Rostrevor to City via Reid Av Coorara Ave and Magill Rd,0,,8628
+H31C,613,81671,Rostrevor to City via Reid Av Coorara Ave and Magill Rd,0,,8628
+H31,613,81672,City to Rostrevor via Magill Rd Coorara Ave and Reid Ave,1,,8631
+H31,613,81673,City to Rostrevor via Magill Rd Coorara Ave and Reid Ave,1,,8631
+H31,613,81674,City to Rostrevor via Magill Rd Coorara Ave and Reid Ave,1,,8631
+H31,613,81675,City to Rostrevor via Magill Rd Coorara Ave and Reid Ave,1,,8631
+265,611,81676,Glenelg Interchange to City via Brighton Rd and Anzac Hwy,0,,8640
+265,611,81677,Glenelg Interchange to City via Brighton Rd and Anzac Hwy,0,,8640
+265,611,81678,Glenelg Interchange to City via Brighton Rd and Anzac Hwy,0,,8640
+265,611,81679,Glenelg Interchange to City via Brighton Rd and Anzac Hwy,0,,8640
+265,611,81680,Marion Interchange to City via Dover Gardens Brighton Station and Glenelg,0,,8641
+265,611,81681,City to Marion Interchange via Glenelg Brighton Station and Dovar Gardens,1,,8642
+265W,611,81682,City to Somerton Park via Anzac Hwy,1,,8643
+265W,611,81683,City to Somerton Park via Anzac Hwy,1,,8643
+265W,611,81684,City to Somerton Park via Anzac Hwy,1,,8643
+265W,611,81685,City to Somerton Park via Anzac Hwy,1,,8643
+300G,611,81686,Arndale Interchange to Glenelg Interchange via Regency Rd Muller Rd O.G Rd Portrush Rd Cross Rd Belair Rd Flinders University Sturt Rd Marion Shopping Centre Diagonal Rd Moseley St,1,,8644
+300M,611,81687,Glenelg Interchange to Marion Interchange via Moseley St Diagonal Rd Sturt Rd,1,,8645
+300M,611,81688,Glenelg Interchange to Marion Interchange via Moseley St Diagonal Rd Sturt Rd,1,,8645
+300M,611,81689,Glenelg Interchange to Marion Interchange via Moseley St Diagonal Rd Sturt Rd,1,,8645
+300M,611,81690,Glenelg Interchange to Marion Interchange via Moseley St Diagonal Rd Sturt Rd,1,,8645
+300G,611,81691,Glen Osmond 19 to Glenelg Interchange via Cross Rd Belair Rd Ayliffes Rd Flinders University Sturt Rd Marion Shopping Centre Diagonal Rd,0,,8646
+300G,611,81692,Marion Interchange to Glenelg Interchange via Morphett Rd Diagonal Rd,0,,8647
+300G,611,81693,Marion Interchange to Glenelg Interchange via Morphett Rd Diagonal Rd,0,,8647
+300G,611,81694,Marion Interchange to Glenelg Interchange via Morphett Rd Diagonal Rd,0,,8647
+300G,611,81695,Marion Interchange to Glenelg Interchange via Morphett Rd Diagonal Rd,0,,8647
+Belair,611,81696,Belair to City,0,29999,1137
+Belair,611,81697,City to Belair,1,29999,1143
+Belair,611,81698,City to Belair,1,29999,1143
+Mawson,613,81699,Adelaide,0,29999,8409
+Mawson,613,81700,Adelaide,0,29999,8409
+GA1,611,81701,Mawson Interchange,0,,8424
+GA1,613,81702,Gawler Central Station to Mawson Interchange,0,,8648
+GA2,611,81703,Mawson Interchange - limited stops,0,,8422
+GA2,613,81704,Gawler Central Station - limited stops,1,,8423
+GA1,611,81705,Mawson Interchange to Gawler Central Station,1,,8649
+GA1,613,81706,Mawson Interchange to Gawler Central Station,1,,8649
+Belair,613,81707,City to Belair,1,29999,1143
+Outer Harbor,611,81708,Outer Harbor to City,0,29999,1232
+Outer Harbor,613,81709,Outer Harbor to City,0,29999,1232
+Outer Harbor,13,81710,Outer Harbor to City,0,29999,1232
+Outer Harbor,13,81711,Outer Harbor to City,0,29999,1232
+Grange,13,81712,Grange to City,0,29999,1196
+Grange,613,81713,Grange to City,0,29999,1196
+Outer Harbor,611,81714,City to Outer Harbor,1,29999,1236
+Outer Harbor,613,81715,City to Outer Harbor,1,29999,1236
+Grange,613,81716,City to Grange,1,29999,1198
+Noarlunga,611,81717,Noarlunga to City,0,29999,1202
+Noarlunga,613,81718,Noarlunga to City,0,29999,1202
+Belair,613,81719,Belair to City,0,29999,1137
+Noarlunga,611,81720,City to Noarlunga,1,29999,1218
+Noarlunga,613,81721,City to Noarlunga,1,29999,1218
+Mawson,611,81722,Adelaide,0,29999,8409
+Mawson,611,81723,Mawson Interchange,1,29999,8410
+Mawson,611,81724,Mawson Interchange,1,29999,8410
+Tram,613,81725,Entertainment Centre to Glenelg via City,1,29999,7364
+Tram,613,81726,Entertainment Centre to Glenelg via City,1,29999,7364
+Tram,613,81727,Entertainment Centre to Glenelg via City,1,29999,7364
+Tram,613,81728,Glenelg to Entertainment Centre via City,0,29999,7365

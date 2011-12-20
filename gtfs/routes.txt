@@ -44,6 +44,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 200,admet,200,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=200&js=1,a54399,ffffff,200
 200B,admet,200B,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=200&js=1,a54399,ffffff,200
 200C,admet,200C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=200&js=1,a54399,ffffff,200
+200E,admet,200E,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=200&js=1,a54399,ffffff,200
 202,admet,202,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=202&js=1,9e9dc4,ffffff,202-203-209F-N202
 202F,admet,202F,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=202&js=15,7bc142,ffffff,202-203-209F-N202
 203,admet,203,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=203&js=1,a54399,ffffff,202-203-209F-N202
@@ -358,6 +359,8 @@ H30S,admet,H30S,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=s
 H31,admet,H31,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H31&js=1,969485,ffffff,H31
 H31C,admet,H31C,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H31&js=1,969485,ffffff,H31
 H32,admet,H32,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=H32&js=1,008A5E,ffffff,H22-H23-H24-H32
+HL1,admet,HL1,,,3,http://www.dcmtbarker.sa.gov.au/webdata/resources/files/Hahndorf_Loop_timetable_.pdf,fec220,000000,838-839
+HL2,admet,HL2,,,3,http://www.dcmtbarker.sa.gov.au/webdata/resources/files/Hahndorf_Loop_timetable_.pdf,fec220,000000,838-839
 J1,admet,J1,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J1&js=1,c78d86,ffffff,J1-J2-162-N1
 J1A,admet,J1A,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J1A&js=1,c78d86,ffffff,J1-J2-162-N1
 J2,admet,J2,,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=J2&js=1,f1df00,000000,J1-J2-162-N1
