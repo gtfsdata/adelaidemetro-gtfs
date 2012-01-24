@@ -7021,6 +7021,7 @@ T748,1,68024,Noarlunga Interchange to Seaford Rise via Seaford Shopping Centre l
 147,1,68774,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,52132,8125
 147,1,68775,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,53102,8125
 147,1,68776,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,53122,8125
+147,13,68777,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,52428,8125
 147,1,68778,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,53105,8125
 147,1,68779,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,53018,8125
 147,1,68780,City to Beaumont via Hutt St Dulwich Ave and Stirling St ,1,53119,8125
@@ -12029,30 +12030,30 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,5S1604,8081
 834A,31,76990,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6515
 834,31,76991,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6513
 865,1,76992,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61001,7893
-Noarlunga,13,76993,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76994,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76995,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76996,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76997,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76998,Noarlunga to City,0,2 ,1202
-Noarlunga,13,76999,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77000,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77001,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77002,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77003,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77004,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77005,Noarlunga to City,0,2 ,1202
-Noarlunga,13,77006,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77007,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77008,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77009,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77010,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77011,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77012,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77013,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77014,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77015,Noarlunga to City,0,2 ,1203
-Noarlunga,13,77016,Noarlunga to City,0,2 ,1203
+Noarlunga,13,76993,Noarlunga to City,0,,1202
+Noarlunga,13,76994,Noarlunga to City,0,,1202
+Noarlunga,13,76995,Noarlunga to City,0,,1202
+Noarlunga,13,76996,Noarlunga to City,0,,1202
+Noarlunga,13,76997,Noarlunga to City,0,,1202
+Noarlunga,13,76998,Noarlunga to City,0,,1202
+Noarlunga,13,76999,Noarlunga to City,0,,1202
+Noarlunga,13,77000,Noarlunga to City,0,,1202
+Noarlunga,13,77001,Noarlunga to City,0,,1202
+Noarlunga,13,77002,Noarlunga to City,0,,1202
+Noarlunga,13,77003,Noarlunga to City,0,,1202
+Noarlunga,13,77004,Noarlunga to City,0,,1202
+Noarlunga,13,77005,Noarlunga to City,0,,1202
+Noarlunga,13,77006,Noarlunga to City,0,,1203
+Noarlunga,13,77007,Noarlunga to City,0,,1203
+Noarlunga,13,77008,Noarlunga to City,0,,1203
+Noarlunga,13,77009,Noarlunga to City,0,,1203
+Noarlunga,13,77010,Noarlunga to City,0,,1203
+Noarlunga,13,77011,Noarlunga to City,0,,1203
+Noarlunga,13,77012,Noarlunga to City,0,,1203
+Noarlunga,13,77013,Noarlunga to City,0,,1203
+Noarlunga,13,77014,Noarlunga to City,0,,1203
+Noarlunga,13,77015,Noarlunga to City,0,,1203
+Noarlunga,13,77016,Noarlunga to City,0,,1203
 493,1,77032,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
 493,1,77033,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
 493,1,77034,Gawler East circuit via Gawler Station STARplex Tambelin Station and Gawler Town Centre- Cloockwise loop,0,,8289
@@ -16030,7 +16031,6 @@ RZ5,701,81925,Holden Hill Roam Zone Service,1,,
 100,701,81955,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,701,81956,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,701,81957,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100,721,81958,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,703,81959,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,703,81960,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100P,701,81961,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
@@ -16071,138 +16071,138 @@ RZ5,701,81925,Holden Hill Roam Zone Service,1,,
 834,31,81998,Lobethal to Verdun Junction,0,,6512
 894,31,81999,Blackwood Station to Aldgate 44 via Upper Sturt Rd and Stirling ,1,,6585
 894,31,82000,Aldgate to Blackwood Station via Upper Sturt Rd,0,,6584
-230,701,82001,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1027,7949
-230,701,82002,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1010,7949
-230,701,82003,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1051,7949
-230,701,82004,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1195,7949
-230,701,82005,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1224,7949
-230,701,82006,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1183,7949
+230,701,82001,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1027,7949
+230,701,82002,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1010,7949
+230,701,82003,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1051,7949
+230,701,82004,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1195,7949
+230,701,82005,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1224,7949
+230,701,82006,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T1183,7949
 230,703,82007,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,,7949
-230,702,82008,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S5534,7949
-232,701,82009,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1189,7954
-232,701,82010,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1202,7954
-232,701,82011,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1246,7954
-232,701,82012,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1298,7954
-232,701,82013,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1031,7954
-232,703,82014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5505,7954
-232,703,82015,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5522,7954
-230,701,82016,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1627,7948
-230,701,82017,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1662,7948
-230,701,82018,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1027,7948
-230,701,82019,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1419,7948
-230,701,82020,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
-230,701,82021,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1202,7948
-230,701,82022,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1075,7948
-230,701,82023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1410,7948
-230,701,82024,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1686,7948
-230,701,82025,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1434,7948
-230,701,82026,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1086,7948
-230,701,82027,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1093,7948
-230,701,82028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1037,7948
-230,701,82029,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1452,7948
-230,701,82030,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1410,7947
-230,701,82031,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1435,7948
+230,702,82008,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5T5534,7949
+232,701,82009,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T1189,7954
+232,701,82010,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T1202,7954
+232,701,82011,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T1246,7954
+232,701,82012,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T1298,7954
+232,701,82013,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T1031,7954
+232,703,82014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T5505,7954
+232,703,82015,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5T5522,7954
+230,701,82016,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1627,7948
+230,701,82017,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1662,7948
+230,701,82018,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1027,7948
+230,701,82019,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1419,7948
+230,701,82020,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1615,7948
+230,701,82021,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1202,7948
+230,701,82022,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1075,7948
+230,701,82023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1410,7948
+230,701,82024,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1686,7948
+230,701,82025,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1434,7948
+230,701,82026,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1086,7948
+230,701,82027,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1093,7948
+230,701,82028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1037,7948
+230,701,82029,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1452,7948
+230,701,82030,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1410,7947
+230,701,82031,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1435,7948
 230,701,82032,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82033,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1457,7948
-230,701,82034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1118,7948
-230,701,82035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1138,7948
-230,701,82036,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
-230,701,82037,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1485,7948
-230,701,82038,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1419,7947
-230,701,82039,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1670,7948
-230,701,82040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1139,7948
-230,701,82041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1651,7948
-230,701,82042,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1490,7948
-230,701,82043,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
-230,701,82044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1454,7948
-230,701,82045,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
-230,701,82046,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1246,7947
-230,701,82047,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1031,7947
-230,701,82048,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
+230,701,82033,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1457,7948
+230,701,82034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1118,7948
+230,701,82035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1138,7948
+230,701,82036,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1615,7948
+230,701,82037,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1485,7948
+230,701,82038,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1419,7947
+230,701,82039,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1670,7948
+230,701,82040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1139,7948
+230,701,82041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1651,7948
+230,701,82042,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1490,7948
+230,701,82043,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1615,7947
+230,701,82044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1454,7948
+230,701,82045,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1202,7947
+230,701,82046,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1246,7947
+230,701,82047,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1031,7947
+230,701,82048,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1137,7948
 230,701,82049,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82050,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
-230,701,82051,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1086,7947
+230,701,82050,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1651,7947
+230,701,82051,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1086,7947
 230,701,82052,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82053,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1037,7947
-230,701,82054,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1452,7947
+230,701,82053,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1037,7947
+230,701,82054,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1452,7947
 230,701,82055,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82056,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1457,7947
-230,701,82057,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1118,7947
+230,701,82056,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1457,7947
+230,701,82057,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1118,7947
 230,701,82058,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82059,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
-230,701,82060,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1485,7947
+230,701,82059,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1615,7947
+230,701,82060,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1485,7947
 230,701,82061,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82062,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1139,7947
-230,701,82063,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
-230,701,82064,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
-230,701,82065,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
+230,701,82062,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1139,7947
+230,701,82063,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1651,7947
+230,701,82064,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1202,7947
+230,701,82065,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1651,7947
 230,701,82066,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82067,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1138,7947
-230,701,82068,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1681,7947
-230,701,82069,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1481,7947
-230,701,82070,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1102,7947
+230,701,82067,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1138,7947
+230,701,82068,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1681,7947
+230,701,82069,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1481,7947
+230,701,82070,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1102,7947
 230,701,82071,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82072,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1137,7947
-230,701,82073,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1484,7947
+230,701,82072,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1137,7947
+230,701,82073,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1484,7947
 230,701,82074,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82075,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1493,7947
-230,703,82076,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5626,7947
-230,703,82077,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5527,7947
+230,701,82075,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1493,7947
+230,703,82076,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5626,7947
+230,703,82077,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5527,7947
 230,702,82078,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82079,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5534,7947
-230,702,82080,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5668,7947
+230,702,82079,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5534,7947
+230,702,82080,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5668,7947
 230,702,82081,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82082,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5665,7947
-230,702,82083,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5639,7947
+230,702,82082,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5665,7947
+230,702,82083,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5639,7947
 230,702,82084,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82085,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5529,7947
-230,702,82086,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5651,7947
+230,702,82085,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5529,7947
+230,702,82086,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5651,7947
 230,702,82087,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82088,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5581,7947
+230,702,82088,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5581,7947
 230,702,82089,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82090,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5679,7947
-230,702,82091,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5694,7947
+230,702,82090,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5679,7947
+230,702,82091,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5694,7947
 230,702,82092,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82093,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5588,7947
-230,701,82094,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1196,7947
-232,701,82095,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1027,7952
+230,702,82093,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T5588,7947
+230,701,82094,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5T1196,7947
+232,701,82095,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1027,7952
 232,701,82096,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82097,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1651,7952
-232,701,82098,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1051,7952
-232,701,82099,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1195,7952
-232,701,82100,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1627,7952
-232,701,82101,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1662,7952
+232,701,82097,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1651,7952
+232,701,82098,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1051,7952
+232,701,82099,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1195,7952
+232,701,82100,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1627,7952
+232,701,82101,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1662,7952
 232,701,82102,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82103,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1455,7952
-232,701,82104,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1293,7952
+232,701,82103,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1455,7952
+232,701,82104,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1293,7952
 232,701,82105,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82106,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1410,7952
-232,701,82107,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1427,7952
+232,701,82106,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1410,7952
+232,701,82107,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1427,7952
 232,701,82108,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82109,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1483,7952
-232,701,82110,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1486,7952
+232,701,82109,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1483,7952
+232,701,82110,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1486,7952
 232,701,82111,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82112,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1673,7952
-232,701,82113,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1668,7952
-232,701,82114,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1667,7952
-232,701,82115,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
+232,701,82112,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1673,7952
+232,701,82113,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1668,7952
+232,701,82114,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1667,7952
+232,701,82115,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1502,7952
 232,701,82116,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82117,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
+232,701,82117,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T1502,7952
 232,703,82118,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82119,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5522,7952
-232,702,82120,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5538,7952
+232,702,82119,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5522,7952
+232,702,82120,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5538,7952
 232,702,82121,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82122,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5516,7952
-232,702,82123,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5633,7952
+232,702,82122,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5516,7952
+232,702,82123,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5633,7952
 232,702,82124,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82125,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5680,7952
-232,702,82126,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5648,7952
+232,702,82125,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5680,7952
+232,702,82126,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5648,7952
 232,702,82127,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82128,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5672,7952
-232,702,82129,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5692,7952
-232,702,82130,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
+232,702,82128,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5672,7952
+232,702,82129,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5692,7952
+232,702,82130,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5573,7952
 232,702,82131,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82132,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
+232,702,82132,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5T5573,7952
 232,701,82133,City to Rosewater via Arndale and Newcastle St,1,,7956
 232,701,82134,City to Rosewater via Arndale and Newcastle St,1,,7956
 232,701,82135,City to Rosewater via Arndale and Newcastle St,1,,7956
@@ -16210,65 +16210,65 @@ RZ5,701,81925,Holden Hill Roam Zone Service,1,,
 232,701,82137,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
 232,701,82138,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
 232,701,82139,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
-232,701,82140,Port Adelaide to City via Newcastle St and Arndale,0,5S1647,7953
-232,701,82141,Port Adelaide to City via Newcastle St and Arndale,0,5S1651,7953
-232,701,82142,Port Adelaide to City via Newcastle St and Arndale,0,5S1086,7953
-232,701,82143,Port Adelaide to City via Newcastle St and Arndale,0,5S1195,7953
-232,701,82144,Port Adelaide to City via Newcastle St and Arndale,0,5S1037,7953
-232,701,82145,Port Adelaide to City via Newcastle St and Arndale,0,5S1452,7953
-232,701,82146,Port Adelaide to City via Newcastle St and Arndale,0,5S1442,7953
-232,701,82147,Port Adelaide to City via Newcastle St and Arndale,0,5S1455,7953
-232,701,82148,Port Adelaide to City via Newcastle St and Arndale,0,5S1118,7953
-232,701,82149,Port Adelaide to City via Newcastle St and Arndale,0,5S1106,7953
-232,701,82150,Port Adelaide to City via Newcastle St and Arndale,0,5S1410,7953
-232,701,82151,Port Adelaide to City via Newcastle St and Arndale,0,5S1485,7953
-232,701,82152,Port Adelaide to City via Newcastle St and Arndale,0,5S1480,7953
-232,701,82153,Port Adelaide to City via Newcastle St and Arndale,0,5S1483,7953
-232,701,82154,Port Adelaide to City via Newcastle St and Arndale,0,5S1202,7953
-232,701,82155,Port Adelaide to City via Newcastle St and Arndale,0,5S1495,7953
-232,701,82156,Port Adelaide to City via Newcastle St and Arndale,0,5S1673,7953
-232,701,82157,Port Adelaide to City via Newcastle St and Arndale,0,5S1668,7953
-232,701,82158,Port Adelaide to City via Newcastle St and Arndale,0,5S1657,7953
-232,701,82159,Port Adelaide to City via Newcastle St and Arndale,0,5S1658,7953
-232,701,82160,Port Adelaide to City via Newcastle St and Arndale,0,5S1453,7953
-232,701,82161,Port Adelaide to City via Newcastle St and Arndale,0,5S1481,7953
-232,701,82162,Port Adelaide to City via Newcastle St and Arndale,0,5S1502,7953
+232,701,82140,Port Adelaide to City via Newcastle St and Arndale,0,5T1647,7953
+232,701,82141,Port Adelaide to City via Newcastle St and Arndale,0,5T1651,7953
+232,701,82142,Port Adelaide to City via Newcastle St and Arndale,0,5T1086,7953
+232,701,82143,Port Adelaide to City via Newcastle St and Arndale,0,5T1195,7953
+232,701,82144,Port Adelaide to City via Newcastle St and Arndale,0,5T1037,7953
+232,701,82145,Port Adelaide to City via Newcastle St and Arndale,0,5T1452,7953
+232,701,82146,Port Adelaide to City via Newcastle St and Arndale,0,5T1442,7953
+232,701,82147,Port Adelaide to City via Newcastle St and Arndale,0,5T1455,7953
+232,701,82148,Port Adelaide to City via Newcastle St and Arndale,0,5T1118,7953
+232,701,82149,Port Adelaide to City via Newcastle St and Arndale,0,5T1106,7953
+232,701,82150,Port Adelaide to City via Newcastle St and Arndale,0,5T1410,7953
+232,701,82151,Port Adelaide to City via Newcastle St and Arndale,0,5T1485,7953
+232,701,82152,Port Adelaide to City via Newcastle St and Arndale,0,5T1480,7953
+232,701,82153,Port Adelaide to City via Newcastle St and Arndale,0,5T1483,7953
+232,701,82154,Port Adelaide to City via Newcastle St and Arndale,0,5T1202,7953
+232,701,82155,Port Adelaide to City via Newcastle St and Arndale,0,5T1495,7953
+232,701,82156,Port Adelaide to City via Newcastle St and Arndale,0,5T1673,7953
+232,701,82157,Port Adelaide to City via Newcastle St and Arndale,0,5T1668,7953
+232,701,82158,Port Adelaide to City via Newcastle St and Arndale,0,5T1657,7953
+232,701,82159,Port Adelaide to City via Newcastle St and Arndale,0,5T1658,7953
+232,701,82160,Port Adelaide to City via Newcastle St and Arndale,0,5T1453,7953
+232,701,82161,Port Adelaide to City via Newcastle St and Arndale,0,5T1481,7953
+232,701,82162,Port Adelaide to City via Newcastle St and Arndale,0,5T1502,7953
 232,701,82163,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,701,82164,Port Adelaide to City via Newcastle St and Arndale,0,5S1500,7953
-232,702,82165,Port Adelaide to City via Newcastle St and Arndale,0,5S5538,7953
-232,702,82166,Port Adelaide to City via Newcastle St and Arndale,0,5S5527,7953
-232,702,82167,Port Adelaide to City via Newcastle St and Arndale,0,5S5654,7953
-232,702,82168,Port Adelaide to City via Newcastle St and Arndale,0,5S5502,7953
-232,702,82169,Port Adelaide to City via Newcastle St and Arndale,0,5S5668,7953
+232,701,82164,Port Adelaide to City via Newcastle St and Arndale,0,5T1500,7953
+232,702,82165,Port Adelaide to City via Newcastle St and Arndale,0,5T5538,7953
+232,702,82166,Port Adelaide to City via Newcastle St and Arndale,0,5T5527,7953
+232,702,82167,Port Adelaide to City via Newcastle St and Arndale,0,5T5654,7953
+232,702,82168,Port Adelaide to City via Newcastle St and Arndale,0,5T5502,7953
+232,702,82169,Port Adelaide to City via Newcastle St and Arndale,0,5T5668,7953
 232,702,82170,Port Adelaide to City via Newcastle St and Arndale,0,,7953
 232,702,82171,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82172,Port Adelaide to City via Newcastle St and Arndale,0,5S5639,7953
+232,702,82172,Port Adelaide to City via Newcastle St and Arndale,0,5T5639,7953
 232,702,82173,Port Adelaide to City via Newcastle St and Arndale,0,,7953
 232,702,82174,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82175,Port Adelaide to City via Newcastle St and Arndale,0,5S5684,7953
+232,702,82175,Port Adelaide to City via Newcastle St and Arndale,0,5T5684,7953
 232,702,82176,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82177,Port Adelaide to City via Newcastle St and Arndale,0,5S5692,7953
-232,702,82178,Port Adelaide to City via Newcastle St and Arndale,0,5S5573,7953
+232,702,82177,Port Adelaide to City via Newcastle St and Arndale,0,5T5692,7953
+232,702,82178,Port Adelaide to City via Newcastle St and Arndale,0,5T5573,7953
 232,702,82179,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82180,Port Adelaide to City via Newcastle St and Arndale,0,5S5685,7953
+232,702,82180,Port Adelaide to City via Newcastle St and Arndale,0,5T5685,7953
 230,701,82181,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,701,82182,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
-230,701,82183,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1502,7948
-230,702,82184,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5505,7948
-230,702,82185,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5638,7948
-230,702,82186,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5665,7948
-230,702,82187,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5656,7948
+230,701,82182,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1137,7948
+230,701,82183,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T1502,7948
+230,702,82184,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5505,7948
+230,702,82185,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5638,7948
+230,702,82186,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5665,7948
+230,702,82187,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5656,7948
 230,702,82188,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82189,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5543,7948
+230,702,82189,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5543,7948
 230,702,82190,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
 230,702,82191,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82192,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5645,7948
-230,702,82193,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5650,7948
-230,702,82194,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5659,7948
-230,702,82195,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
+230,702,82192,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5645,7948
+230,702,82193,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5650,7948
+230,702,82194,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5659,7948
+230,702,82195,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5679,7948
 230,702,82196,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82197,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
-230,702,82198,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5573,7948
+230,702,82197,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5679,7948
+230,702,82198,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5T5573,7948
 701S,21,82211,School,0,,8683
 733,27,82213,School,1,,8685
 733,26,82214,School,1,,8685
