@@ -7185,7 +7185,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100928,,School Bus Stop - Cornerstone College,,-35.060757, 138.855402,,,,
 100934,,Laurels Retirment Village - Mount Barker,,-35.062564, 138.857192,,,,
 100935,,Stop 32A Upper Sturt Rd - North West side,,-35.019647, 138.68461,,,,
-100937,,Dry Creek - Train Sub Stop,,-34.840763, 138.592109,,,,
 100939,,Stop 68 Bolivar Rd - North Western side,,-34.742349, 138.611687,,,,
 100940,,Stop 20 / 127A O G Rd - Eastern side,,-34.875623, 138.63352,,,,
 100941,,Stop 35A Webb Pl - South Western side,,-34.858303, 138.504411,,,,
