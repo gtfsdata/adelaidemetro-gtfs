@@ -322,81 +322,81 @@ Noarlunga,1,20244,Noarlunga to City,0,,1209
 Noarlunga,1,20245,Noarlunga to City,0,,1791
 Brighton,1,20246,Brighton to City,0,,1149
 Noarlunga,1,20247,Noarlunga to City,0,,1791
-Brighton,1,20248,Brighton to City,0,,1147
-Tonsley,1,20249,Tonsley to City,0,,1303
+Brighton,301,20248,Brighton to City,0,,1147
+Tonsley,301,20249,Tonsley to City,0,,1303
 Noarlunga,1,20250,Noarlunga to City,0,,1791
-Brighton,1,20251,Brighton to City,0,,1147
-Tonsley,1,20252,Tonsley to City,0,,1303
+Brighton,301,20251,Brighton to City,0,,1147
+Tonsley,301,20252,Tonsley to City,0,,1303
 Noarlunga,1,20253,Noarlunga to City,0,,1205
 Noarlunga,1,20254,Noarlunga to City,0,,1206
-Brighton,1,20255,Brighton to City,0,,1147
-Tonsley,1,20256,Tonsley to City,0,,1303
+Brighton,301,20255,Brighton to City,0,,1147
+Tonsley,301,20256,Tonsley to City,0,,1303
 Noarlunga,1,20257,Noarlunga to City,0,,1205
 Noarlunga,1,20258,Noarlunga to City,0,,1206
-Brighton,1,20259,Brighton to City,0,,3810
+Brighton,301,20259,Brighton to City,0,,3810
 Noarlunga,1,20260,Noarlunga to City,0,,1215
-Tonsley,1,20261,Tonsley to City,0,,1303
-Noarlunga,1,20262,Noarlunga to City,0,,1212
+Tonsley,301,20261,Tonsley to City,0,,1303
+Noarlunga,301,20262,Noarlunga to City,0,,1212
 Noarlunga,1,20263,Noarlunga to City,0,,1217
-Tonsley,1,20264,Tonsley to City,0,,1303
-Noarlunga,1,20265,Noarlunga to City,0,,1203
-Tonsley,1,20266,Tonsley to City,0,,1303
+Tonsley,301,20264,Tonsley to City,0,,1303
+Noarlunga,301,20265,Noarlunga to City,0,,1203
+Tonsley,301,20266,Tonsley to City,0,,1303
 Noarlunga,1,20267,Noarlunga to City,0,,1204
-Noarlunga,1,20268,Noarlunga to City,0,,1210
-Tonsley,1,20269,Tonsley to City,0,,1303
+Noarlunga,301,20268,Noarlunga to City,0,,1210
+Tonsley,301,20269,Tonsley to City,0,,1303
 Noarlunga,1,20270,Noarlunga to City,0,,1204
 Noarlunga,1,20271,Noarlunga to City,0,,1207
 Noarlunga,1,20272,Noarlunga to City,0,,1204
-Noarlunga,1,20273,Noarlunga to City,0,,1210
-Tonsley,1,20274,Tonsley to City,0,,1303
+Noarlunga,301,20273,Noarlunga to City,0,,1210
+Tonsley,301,20274,Tonsley to City,0,,1303
 Noarlunga,1,20275,Noarlunga to City,0,,1204
 Noarlunga,1,20276,Noarlunga to City,0,,1207
-Noarlunga,1,20277,Noarlunga to City,0,,1204
-Brighton,1,20278,Brighton to City,0,,1148
-Tonsley,1,20279,Tonsley to City,0,,1303
-Noarlunga,1,20280,Noarlunga to City,0,,1204
-Brighton,1,20281,Brighton to City,0,,1148
-Noarlunga,1,20282,Noarlunga to City,0,,1204
-Brighton,1,20283,Brighton to City,0,,1148
-Tonsley,1,20284,Tonsley to City,0,,1303
-Noarlunga,1,20285,Noarlunga to City,0,,1204
-Brighton,1,20286,Brighton to City,0,,1148
-Noarlunga,1,20287,Noarlunga to City,0,,1204
-Brighton,1,20288,Brighton to City,0,,1148
-Tonsley,1,20289,Tonsley to City,0,,1303
-Noarlunga,1,20290,Noarlunga to City,0,,1204
-Brighton,1,20291,Brighton to City,0,,1148
+Noarlunga,301,20277,Noarlunga to City,0,,1204
+Brighton,301,20278,Brighton to City,0,,1148
+Tonsley,301,20279,Tonsley to City,0,,1303
+Noarlunga,301,20280,Noarlunga to City,0,,1204
+Brighton,301,20281,Brighton to City,0,,1148
+Noarlunga,301,20282,Noarlunga to City,0,,1204
+Brighton,301,20283,Brighton to City,0,,1148
+Tonsley,301,20284,Tonsley to City,0,,1303
+Noarlunga,301,20285,Noarlunga to City,0,,1204
+Brighton,301,20286,Brighton to City,0,,1148
+Noarlunga,301,20287,Noarlunga to City,0,,1204
+Brighton,301,20288,Brighton to City,0,,1148
+Tonsley,301,20289,Tonsley to City,0,,1303
+Noarlunga,301,20290,Noarlunga to City,0,,1204
+Brighton,301,20291,Brighton to City,0,,1148
 Noarlunga,1,20292,Noarlunga to City,0,,1204
-Noarlunga,1,20293,Noarlunga to City,0,,1207
-Tonsley,1,20294,Tonsley to City,0,,1303
+Noarlunga,301,20293,Noarlunga to City,0,,1207
+Tonsley,301,20294,Tonsley to City,0,,1303
 Noarlunga,1,20295,Noarlunga to City,0,,1204
 Noarlunga,1,20296,Noarlunga to City,0,,1208
 Noarlunga,1,20297,Noarlunga to City,0,,1204
 Noarlunga,1,20298,Noarlunga to City,0,,1208
-Noarlunga,1,20299,Noarlunga to City,0,,1203
-Tonsley,1,20300,Tonsley to City,0,,1303
+Noarlunga,301,20299,Noarlunga to City,0,,1203
+Tonsley,301,20300,Tonsley to City,0,,1303
 Noarlunga,1,20301,Noarlunga to City,0,,1208
 Noarlunga,1,20302,Noarlunga to City,0,,1204
-Brighton,1,20303,Brighton to City,0,,1147
-Tonsley,1,20304,Tonsley to City,0,,1303
+Brighton,301,20303,Brighton to City,0,,1147
+Tonsley,301,20304,Tonsley to City,0,,1303
 Noarlunga,1,20305,Noarlunga to City,0,,1204
 Noarlunga,1,20306,Noarlunga to City,0,,1204
 Brighton,1,20307,Brighton to City,0,,1149
 Noarlunga,1,20308,Noarlunga to City,0,,1204
-Brighton,1,20309,Brighton to City,0,,1147
+Brighton,301,20309,Brighton to City,0,,1147
 Noarlunga,1,20310,Noarlunga to City,0,,1791
-Tonsley,1,20311,Tonsley to City,0,,1303
-Brighton,1,20312,Brighton to City,0,,1147
-Noarlunga,1,20313,Noarlunga to City,0,,1214
-Tonsley,1,20314,Tonsley to City,0,,1303
-Noarlunga,1,20315,Noarlunga to City,0,,1203
-Tonsley,1,20316,Tonsley to City,0,,1303
-Noarlunga,1,20317,Noarlunga to City,0,,1203
-Tonsley,1,20318,Tonsley to City,0,,1303
-Noarlunga,1,20319,Noarlunga to City,0,,1203
-Tonsley,1,20320,Tonsley to City,0,,1303
+Tonsley,301,20311,Tonsley to City,0,,1303
+Brighton,301,20312,Brighton to City,0,,1147
+Noarlunga,301,20313,Noarlunga to City,0,,1214
+Tonsley,301,20314,Tonsley to City,0,,1303
+Noarlunga,301,20315,Noarlunga to City,0,,1203
+Tonsley,301,20316,Tonsley to City,0,,1303
+Noarlunga,301,20317,Noarlunga to City,0,,1203
+Tonsley,301,20318,Tonsley to City,0,,1303
+Noarlunga,301,20319,Noarlunga to City,0,,1203
+Tonsley,301,20320,Tonsley to City,0,,1303
 Noarlunga,1,20321,Noarlunga to City,0,,1202
-Noarlunga,1,20322,Noarlunga to City,0,,1202
+Noarlunga,301,20322,Noarlunga to City,0,,1202
 Noarlunga,1,20323,Noarlunga to City,0,,1202
 Noarlunga,1,20324,Noarlunga to City,0,,1216
 Noarlunga,1,20325,Noarlunga to City,0,,1202
@@ -406,38 +406,38 @@ Noarlunga,5,20328,Noarlunga to City,0,,1206
 Noarlunga,1,20329,Noarlunga to City,0,,1202
 Outer Harbor,1,20370,Outer Harbor to City,0,,1232
 Outer Harbor,1,20371,Outer Harbor to City,0,,1232
-Outer Harbor,1,20372,Outer Harbor to City,0,,1800
-Outer Harbor,1,20373,Outer Harbor to City,0,,1800
-Outer Harbor,1,20374,Outer Harbor to City,0,,1800
-Outer Harbor,1,20375,Outer Harbor to City,0,,1235
-Glanville,1,20376,Glanville to City,0,,1786
-Outer Harbor,1,20377,Outer Harbor to City,0,,1235
-Glanville,1,20378,Glanville to City,0,,1786
+Outer Harbor,301,20372,Outer Harbor to City,0,,1800
+Outer Harbor,301,20373,Outer Harbor to City,0,,1800
+Outer Harbor,301,20374,Outer Harbor to City,0,,1800
+Outer Harbor,301,20375,Outer Harbor to City,0,,1235
+Glanville,301,20376,Glanville to City,0,,1786
+Outer Harbor,301,20377,Outer Harbor to City,0,,1235
+Glanville,301,20378,Glanville to City,0,,1786
 Outer Harbor,1,20379,Outer Harbor to City,0,,1800
 Outer Harbor,1,20380,Outer Harbor to City,0,,1232
-Outer Harbor,1,20381,Outer Harbor to City,0,,1800
-Outer Harbor,1,20382,Outer Harbor to City,0,,1800
-Outer Harbor,1,20383,Outer Harbor to City,0,,1800
-Outer Harbor,1,20384,Outer Harbor to City,0,,1800
-Outer Harbor,1,20385,Outer Harbor to City,0,,1800
-Outer Harbor,1,20386,Outer Harbor to City,0,,1800
-Outer Harbor,1,20387,Outer Harbor to City,0,,1800
-Outer Harbor,1,20388,Outer Harbor to City,0,,1800
-Outer Harbor,1,20389,Outer Harbor to City,0,,1800
-Outer Harbor,1,20390,Outer Harbor to City,0,,1800
-Outer Harbor,1,20391,Outer Harbor to City,0,,1800
-Outer Harbor,1,20392,Outer Harbor to City,0,,1800
-Outer Harbor,1,20393,Outer Harbor to City,0,,1232
-Outer Harbor,1,20394,Outer Harbor to City,0,,1232
-Outer Harbor,1,20395,Outer Harbor to City,0,,1232
+Outer Harbor,301,20381,Outer Harbor to City,0,,1800
+Outer Harbor,301,20382,Outer Harbor to City,0,,1800
+Outer Harbor,301,20383,Outer Harbor to City,0,,1800
+Outer Harbor,301,20384,Outer Harbor to City,0,,1800
+Outer Harbor,301,20385,Outer Harbor to City,0,,1800
+Outer Harbor,301,20386,Outer Harbor to City,0,,1800
+Outer Harbor,301,20387,Outer Harbor to City,0,,1800
+Outer Harbor,301,20388,Outer Harbor to City,0,,1800
+Outer Harbor,301,20389,Outer Harbor to City,0,,1800
+Outer Harbor,301,20390,Outer Harbor to City,0,,1800
+Outer Harbor,301,20391,Outer Harbor to City,0,,1800
+Outer Harbor,301,20392,Outer Harbor to City,0,,1800
+Outer Harbor,301,20393,Outer Harbor to City,0,,1232
+Outer Harbor,301,20394,Outer Harbor to City,0,,1232
+Outer Harbor,301,20395,Outer Harbor to City,0,,1232
 Outer Harbor,1,20396,Outer Harbor to City,0,,1232
 Outer Harbor,1,20397,Outer Harbor to City,0,,1232
 Outer Harbor,1,20398,Outer Harbor to City,0,,1232
-Glanville,1,20399,Glanville to City,0,,1191
-Outer Harbor,1,20400,Outer Harbor to City,0,,1800
-Outer Harbor,1,20401,Outer Harbor to City,0,,1800
-Outer Harbor,1,20402,Outer Harbor to City,0,,1800
-Outer Harbor,1,20403,Outer Harbor to City,0,,1232
+Glanville,301,20399,Glanville to City,0,,1191
+Outer Harbor,301,20400,Outer Harbor to City,0,,1800
+Outer Harbor,301,20401,Outer Harbor to City,0,,1800
+Outer Harbor,301,20402,Outer Harbor to City,0,,1800
+Outer Harbor,301,20403,Outer Harbor to City,0,,1232
 Outer Harbor,1,20404,Outer Harbor to City,0,,1232
 Outer Harbor,1,20405,Outer Harbor to City,0,,1232
 Outer Harbor,1,20406,Outer Harbor to City,0,,1232
@@ -446,36 +446,36 @@ Outer Harbor,1,20408,Outer Harbor to City,0,,1232
 Outer Harbor,1,20409,Outer Harbor to City,0,,1232
 Outer Harbor,1,20410,Outer Harbor to City,0,,1234
 Outer Harbor,1,20411,Outer Harbor to City,0,,1234
-Grange,1,20484,Grange to City,0,,1196
-Grange,1,20486,Grange to City,0,,1196
-Grange,1,20488,Grange to City,0,,1196
-Grange,1,20490,Grange to City,0,,1196
-Grange,1,20492,Grange to City,0,,1196
-Grange,1,20494,Grange to City,0,,1196
-Grange,1,20496,Grange to City,0,,1196
-Grange,1,20498,Grange to City,0,,1196
-Grange,1,20501,Grange to City,0,,1196
-Grange,1,20503,Grange to City,0,,1196
-Grange,1,20505,Grange to City,0,,1196
-Grange,1,20507,Grange to City,0,,1196
-Grange,1,20509,Grange to City,0,,1196
-Grange,1,20511,Grange to City,0,,1196
-Grange,1,20513,Grange to City,0,,1196
-Grange,1,20515,Grange to City,0,,1196
-Grange,1,20517,Grange to City,0,,1196
-Grange,1,20519,Grange to City,0,,1196
-Grange,1,20521,Grange to City,0,,1196
-Grange,1,20523,Grange to City,0,,1196
-Grange,1,20524,Grange to City,0,,1196
-Grange,1,20526,Grange to City,0,,1196
-Grange,1,20528,Grange to City,0,,1196
-Grange,1,20530,Grange to City,0,,1196
-Grange,1,20531,Grange to City,0,,1196
-Grange,1,20533,Grange to City,0,,1196
-Grange,1,20535,Grange to City,0,,1196
-Grange,1,20537,Grange to City,0,,1196
-Grange,1,20539,Grange to City,0,,1196
-Grange,1,20541,Grange to City,0,,1196
+Grange,301,20484,Grange to City,0,,1196
+Grange,301,20486,Grange to City,0,,1196
+Grange,301,20488,Grange to City,0,,1196
+Grange,301,20490,Grange to City,0,,1196
+Grange,301,20492,Grange to City,0,,1196
+Grange,301,20494,Grange to City,0,,1196
+Grange,301,20496,Grange to City,0,,1196
+Grange,301,20498,Grange to City,0,,1196
+Grange,301,20501,Grange to City,0,,1196
+Grange,301,20503,Grange to City,0,,1196
+Grange,301,20505,Grange to City,0,,1196
+Grange,301,20507,Grange to City,0,,1196
+Grange,301,20509,Grange to City,0,,1196
+Grange,301,20511,Grange to City,0,,1196
+Grange,301,20513,Grange to City,0,,1196
+Grange,301,20515,Grange to City,0,,1196
+Grange,301,20517,Grange to City,0,,1196
+Grange,301,20519,Grange to City,0,,1196
+Grange,301,20521,Grange to City,0,,1196
+Grange,301,20523,Grange to City,0,,1196
+Grange,301,20524,Grange to City,0,,1196
+Grange,301,20526,Grange to City,0,,1196
+Grange,301,20528,Grange to City,0,,1196
+Grange,301,20530,Grange to City,0,,1196
+Grange,301,20531,Grange to City,0,,1196
+Grange,301,20533,Grange to City,0,,1196
+Grange,301,20535,Grange to City,0,,1196
+Grange,301,20537,Grange to City,0,,1196
+Grange,301,20539,Grange to City,0,,1196
+Grange,301,20541,Grange to City,0,,1196
 Grange,1,20544,Grange to City,0,,1196
 Grange,1,20547,Grange to City,0,,1196
 Grange,1,20549,Grange to City,0,,1196
@@ -487,79 +487,79 @@ Noarlunga,1,20706,City to Noarlunga,1,,1225
 Brighton,1,20707,City to Brighton,1,,1151
 Noarlunga,1,20708,City to Noarlunga,1,,1790
 Brighton,1,20709,City to Brighton,1,,1151
-Tonsley,1,20710,City to Tonsley,1,,1805
+Tonsley,301,20710,City to Tonsley,1,,1805
 Noarlunga,1,20711,City to Noarlunga,1,,1790
 Brighton,1,20712,City to Brighton,1,,1151
 Noarlunga,1,20713,City to Noarlunga,1,,1790
-Tonsley,1,20714,City to Tonsley,1,,1306
-Brighton,1,20715,City to Brighton,1,,1150
-Tonsley,1,20716,City to Tonsley,1,,1304
-Brighton,1,20717,City to Brighton,1,,1152
+Tonsley,301,20714,City to Tonsley,1,,1306
+Brighton,301,20715,City to Brighton,1,,1150
+Tonsley,301,20716,City to Tonsley,1,,1304
+Brighton,301,20717,City to Brighton,1,,1152
 Noarlunga,1,20718,City to Noarlunga,1,,1790
-Tonsley,1,20719,City to Tonsley,1,,1304
-Noarlunga,1,20720,City to Noarlunga,1,,1219
-Tonsley,1,20721,City to Tonsley,1,,1304
-Noarlunga,1,20722,City to Noarlunga,1,,1797
-Tonsley,1,20723,City to Tonsley,1,,1304
-Noarlunga,1,20724,City to Noarlunga,1,,1788
+Tonsley,301,20719,City to Tonsley,1,,1304
+Noarlunga,301,20720,City to Noarlunga,1,,1219
+Tonsley,301,20721,City to Tonsley,1,,1304
+Noarlunga,301,20722,City to Noarlunga,1,,1797
+Tonsley,301,20723,City to Tonsley,1,,1304
+Noarlunga,301,20724,City to Noarlunga,1,,1788
 Noarlunga,1,20725,City to Noarlunga,1,,1224
 Noarlunga,1,20726,City to Noarlunga,1,,1788
-Tonsley,1,20727,City to Tonsley,1,,1304
+Tonsley,301,20727,City to Tonsley,1,,1304
 Noarlunga,1,20728,City to Noarlunga,1,,1224
 Noarlunga,1,20729,City to Noarlunga,1,,1788
 Noarlunga,1,20730,City to Noarlunga,1,,1224
 Noarlunga,1,20731,City to Noarlunga,1,,1788
-Tonsley,1,20732,City to Tonsley,1,,1304
+Tonsley,301,20732,City to Tonsley,1,,1304
 Noarlunga,1,20733,City to Noarlunga,1,,1789
 Noarlunga,1,20734,City to Noarlunga,1,,1788
-Brighton,1,20735,City to Brighton,1,,1150
-Noarlunga,1,20736,City to Noarlunga,1,,1788
-Tonsley,1,20737,City to Tonsley,1,,1304
-Brighton,1,20738,City to Brighton,1,,1150
-Noarlunga,1,20739,City to Noarlunga,1,,1788
-Brighton,1,20740,City to Brighton,1,,1150
-Noarlunga,1,20741,City to Noarlunga,1,,1788
-Tonsley,1,20742,City to Tonsley,1,,1304
-Brighton,1,20743,City to Brighton,1,,1150
-Noarlunga,1,20744,City to Noarlunga,1,,1788
-Brighton,1,20745,City to Brighton,1,,1150
-Noarlunga,1,20746,City to Noarlunga,1,,1788
-Tonsley,1,20747,City to Tonsley,1,,1304
-Brighton,1,20748,City to Brighton,1,,1150
-Noarlunga,1,20749,City to Noarlunga,1,,1788
+Brighton,301,20735,City to Brighton,1,,1150
+Noarlunga,301,20736,City to Noarlunga,1,,1788
+Tonsley,301,20737,City to Tonsley,1,,1304
+Brighton,301,20738,City to Brighton,1,,1150
+Noarlunga,301,20739,City to Noarlunga,1,,1788
+Brighton,301,20740,City to Brighton,1,,1150
+Noarlunga,301,20741,City to Noarlunga,1,,1788
+Tonsley,301,20742,City to Tonsley,1,,1304
+Brighton,301,20743,City to Brighton,1,,1150
+Noarlunga,301,20744,City to Noarlunga,1,,1788
+Brighton,301,20745,City to Brighton,1,,1150
+Noarlunga,301,20746,City to Noarlunga,1,,1788
+Tonsley,301,20747,City to Tonsley,1,,1304
+Brighton,301,20748,City to Brighton,1,,1150
+Noarlunga,301,20749,City to Noarlunga,1,,1788
 Noarlunga,1,20750,City to Noarlunga,1,,1789
 Noarlunga,1,20751,City to Noarlunga,1,,1788
-Tonsley,1,20752,City to Tonsley,1,,1304
-Noarlunga,1,20753,City to Noarlunga,1,,1789
+Tonsley,301,20752,City to Tonsley,1,,1304
+Noarlunga,1,20753,City to Noarlunga,1,,8746
 Noarlunga,1,20754,City to Noarlunga,1,,1788
 Noarlunga,1,20755,City to Noarlunga,1,,1789
 Noarlunga,1,20756,City to Noarlunga,1,,1788
-Tonsley,1,20757,City to Tonsley,1,,1304
+Tonsley,301,20757,City to Tonsley,1,,1304
 Noarlunga,1,20758,City to Noarlunga,1,,1788
 Brighton,1,20759,City to Brighton,1,,1151
 Noarlunga,1,20760,City to Noarlunga,1,,1798
 Noarlunga,1,20761,City to Noarlunga,1,,1225
-Tonsley,1,20762,City to Tonsley,1,,1307
-Brighton,1,20763,City to Brighton,1,,1152
+Tonsley,301,20762,City to Tonsley,1,,1307
+Brighton,301,20763,City to Brighton,1,,1152
 Noarlunga,1,20764,City to Noarlunga,1,,1788
 Noarlunga,1,20765,City to Noarlunga,1,,1788
 Brighton,1,20766,City to Brighton,1,,1151
 Noarlunga,1,20767,City to Noarlunga,1,,1790
-Tonsley,1,20768,City to Tonsley,1,,1304
-Brighton,1,20769,City to Brighton,1,,1152
+Tonsley,301,20768,City to Tonsley,1,,1304
+Brighton,301,20769,City to Brighton,1,,1152
 Noarlunga,1,20770,City to Noarlunga,1,,1799
-Tonsley,1,20771,City to Tonsley,1,,1304
+Tonsley,301,20771,City to Tonsley,1,,1304
 Noarlunga,1,20772,City to Noarlunga,1,,1223
-Noarlunga,1,20773,City to Noarlunga,1,,1796
+Noarlunga,301,20773,City to Noarlunga,1,,1796
 Noarlunga,1,20774,City to Noarlunga,1,,1219
-Tonsley,1,20775,City to Tonsley,1,,1304
-Noarlunga,1,20776,City to Noarlunga,1,,1219
+Tonsley,301,20775,City to Tonsley,1,,1304
+Noarlunga,301,20776,City to Noarlunga,1,,1219
 Noarlunga,1,20777,City to Noarlunga,1,,1223
-Tonsley,1,20778,City to Tonsley,1,,1304
+Tonsley,301,20778,City to Tonsley,1,,1304
 Noarlunga,1,20779,City to Noarlunga,1,,1795
-Noarlunga,1,20780,City to Noarlunga,1,,1219
-Tonsley,1,20781,City to Tonsley,1,,1304
-Noarlunga,1,20782,City to Noarlunga,1,,1219
+Noarlunga,301,20780,City to Noarlunga,1,,1219
+Tonsley,301,20781,City to Tonsley,1,,1304
+Noarlunga,301,20782,City to Noarlunga,1,,1219
 Noarlunga,1,20783,City to Noarlunga,1,,1794
 Noarlunga,1,20784,City to Noarlunga,1,,1218
 Noarlunga,1,20785,City to Noarlunga,1,,1794
@@ -573,36 +573,36 @@ Noarlunga,1,20792,City to Noarlunga,1,,1218
 Outer Harbor,1,20833,City to Outer Harbor,1,,1238
 Outer Harbor,1,20834,City to Outer Harbor,1,,1238
 Outer Harbor,1,20835,City to Outer Harbor,1,,1238
-Outer Harbor,1,20836,City to Outer Harbor,1,,1802
-Outer Harbor,1,20837,City to Outer Harbor,1,,1802
+Outer Harbor,301,20836,City to Outer Harbor,1,,1802
+Outer Harbor,301,20837,City to Outer Harbor,1,,1802
 Outer Harbor,1,20838,City to Outer Harbor,1,,1236
 Outer Harbor,1,20839,City to Outer Harbor,1,,1236
-Glanville,1,20841,City to Glanville,1,,1194
-Glanville,1,20843,City to Glanville,1,,1194
+Glanville,1,20841,City to Glanville,1,,7331
+Glanville,1,20843,City to Glanville,1,,7331
 Outer Harbor,1,20844,City to Outer Harbor,1,,1236
-Outer Harbor,1,20845,City to Outer Harbor,1,,1236
-Outer Harbor,1,20846,City to Outer Harbor,1,,1802
-Outer Harbor,1,20847,City to Outer Harbor,1,,1802
-Outer Harbor,1,20848,City to Outer Harbor,1,,1802
-Outer Harbor,1,20849,City to Outer Harbor,1,,1802
-Outer Harbor,1,20850,City to Outer Harbor,1,,1802
-Outer Harbor,1,20851,City to Outer Harbor,1,,1802
-Outer Harbor,1,20852,City to Outer Harbor,1,,1802
-Outer Harbor,1,20853,City to Outer Harbor,1,,1802
-Outer Harbor,1,20854,City to Outer Harbor,1,,1802
-Outer Harbor,1,20855,City to Outer Harbor,1,,1802
-Outer Harbor,1,20856,City to Outer Harbor,1,,1802
-Outer Harbor,1,20857,City to Outer Harbor,1,,1802
-Outer Harbor,1,20858,City to Outer Harbor,1,,1802
-Outer Harbor,1,20859,City to Outer Harbor,1,,1236
+Outer Harbor,301,20845,City to Outer Harbor,1,,1236
+Outer Harbor,301,20846,City to Outer Harbor,1,,1802
+Outer Harbor,301,20847,City to Outer Harbor,1,,1802
+Outer Harbor,301,20848,City to Outer Harbor,1,,1802
+Outer Harbor,301,20849,City to Outer Harbor,1,,1802
+Outer Harbor,301,20850,City to Outer Harbor,1,,1802
+Outer Harbor,301,20851,City to Outer Harbor,1,,1802
+Outer Harbor,301,20852,City to Outer Harbor,1,,1802
+Outer Harbor,301,20853,City to Outer Harbor,1,,1802
+Outer Harbor,301,20854,City to Outer Harbor,1,,1802
+Outer Harbor,301,20855,City to Outer Harbor,1,,1802
+Outer Harbor,301,20856,City to Outer Harbor,1,,1802
+Outer Harbor,301,20857,City to Outer Harbor,1,,1802
+Outer Harbor,301,20858,City to Outer Harbor,1,,1802
+Outer Harbor,301,20859,City to Outer Harbor,1,,1236
 Outer Harbor,1,20860,City to Outer Harbor,1,,1236
 Outer Harbor,1,20861,City to Outer Harbor,1,,1236
-Outer Harbor,1,20862,City to Outer Harbor,1,,1802
-Glanville,1,20863,City to Glanville,1,,1787
-Outer Harbor,1,20864,City to Outer Harbor,1,,1240
+Outer Harbor,301,20862,City to Outer Harbor,1,,1802
+Glanville,301,20863,City to Glanville,1,,1787
+Outer Harbor,301,20864,City to Outer Harbor,1,,1240
 Outer Harbor,1,20865,City to Outer Harbor,1,,1802
-Outer Harbor,1,20866,City to Outer Harbor,1,,1802
-Outer Harbor,1,20867,City to Outer Harbor,1,,1802
+Outer Harbor,301,20866,City to Outer Harbor,1,,1802
+Outer Harbor,301,20867,City to Outer Harbor,1,,1802
 Outer Harbor,1,20868,City to Outer Harbor,1,,1236
 Outer Harbor,1,20869,City to Outer Harbor,1,,1236
 Outer Harbor,1,20870,City to Outer Harbor,1,,1236
@@ -610,36 +610,36 @@ Outer Harbor,1,20871,City to Outer Harbor,1,,1236
 Outer Harbor,1,20872,City to Outer Harbor,1,,1236
 Outer Harbor,1,20873,City to Outer Harbor,1,,1236
 Outer Harbor,1,20874,City to Outer Harbor,1,,1236
-Grange,1,20944,City to Grange,1,,1199
-Grange,1,20946,City to Grange,1,,1198
-Grange,1,20949,City to Grange,1,,1198
-Grange,1,20951,City to Grange,1,,1198
-Grange,1,20953,City to Grange,1,,1198
-Grange,1,20956,City to Grange,1,,1198
-Grange,1,20959,City to Grange,1,,1198
-Grange,1,20961,City to Grange,1,,1198
-Grange,1,20963,City to Grange,1,,1198
-Grange,1,20964,City to Grange,1,,1198
-Grange,1,20966,City to Grange,1,,1198
-Grange,1,20968,City to Grange,1,,1198
-Grange,1,20970,City to Grange,1,,1198
-Grange,1,20972,City to Grange,1,,1198
-Grange,1,20974,City to Grange,1,,1198
-Grange,1,20976,City to Grange,1,,1198
-Grange,1,20978,City to Grange,1,,1198
-Grange,1,20980,City to Grange,1,,1198
-Grange,1,20982,City to Grange,1,,1198
-Grange,1,20984,City to Grange,1,,1198
-Grange,1,20986,City to Grange,1,,1198
-Grange,1,20988,City to Grange,1,,1198
-Grange,1,20990,City to Grange,1,,1198
-Grange,1,20992,City to Grange,1,,1198
-Grange,1,20994,City to Grange,1,,1198
-Grange,1,20996,City to Grange,1,,1198
-Grange,1,20998,City to Grange,1,,1198
-Grange,1,21000,City to Grange,1,,1198
-Grange,1,21002,City to Grange,1,,1198
-Grange,1,21004,City to Grange,1,,1198
+Grange,301,20944,City to Grange,1,,1199
+Grange,301,20946,City to Grange,1,,1198
+Grange,301,20949,City to Grange,1,,1198
+Grange,301,20951,City to Grange,1,,1198
+Grange,301,20953,City to Grange,1,,1198
+Grange,301,20956,City to Grange,1,,1198
+Grange,301,20959,City to Grange,1,,1198
+Grange,301,20961,City to Grange,1,,1198
+Grange,301,20963,City to Grange,1,,1198
+Grange,301,20964,City to Grange,1,,1198
+Grange,301,20966,City to Grange,1,,1198
+Grange,301,20968,City to Grange,1,,1198
+Grange,301,20970,City to Grange,1,,1198
+Grange,301,20972,City to Grange,1,,1198
+Grange,301,20974,City to Grange,1,,1198
+Grange,301,20976,City to Grange,1,,1198
+Grange,301,20978,City to Grange,1,,1198
+Grange,301,20980,City to Grange,1,,1198
+Grange,301,20982,City to Grange,1,,1198
+Grange,301,20984,City to Grange,1,,1198
+Grange,301,20986,City to Grange,1,,1198
+Grange,301,20988,City to Grange,1,,1198
+Grange,301,20990,City to Grange,1,,1198
+Grange,301,20992,City to Grange,1,,1198
+Grange,301,20994,City to Grange,1,,1198
+Grange,301,20996,City to Grange,1,,1198
+Grange,301,20998,City to Grange,1,,1198
+Grange,301,21000,City to Grange,1,,1198
+Grange,301,21002,City to Grange,1,,1198
+Grange,301,21004,City to Grange,1,,1198
 Grange,1,21007,City to Grange,1,,1198
 Grange,1,21009,City to Grange,1,,1198
 Grange,1,21011,City to Grange,1,,1198
@@ -751,7 +751,7 @@ Grange,13,41073,Grange to City,0,,1196
 Grange,13,41074,Grange to City,0,,1196
 Grange,13,41075,Grange to City,0,,1196
 Grange,13,41076,Grange to City,0,,1196
-Grange,1,41077,Grange to City,0,,1196
+Grange,13,41077,Grange to City,0,,1196
 Grange,13,41078,Grange to City,0,,1196
 Grange,13,41079,Grange to City,0,,1196
 Grange,13,41080,Grange to City,0,,1196
@@ -784,7 +784,7 @@ Outer Harbor,13,41108,City to Outer Harbor,1,,1236
 Grange,11,41109,City to Grange,1,,1198
 Grange,13,41110,City to Grange,1,,1198
 Grange,13,41111,City to Grange,1,,1198
-Grange,1,41112,City to Grange,1,,1198
+Grange,13,41112,City to Grange,1,,1198
 Grange,13,41113,City to Grange,1,,1198
 Grange,13,41114,City to Grange,1,,1198
 Grange,13,41115,City to Grange,1,,1198
@@ -1086,7 +1086,7 @@ Tram,1,59004,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59005,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59006,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59007,Entertainment Centre to Glenelg via City,1,,7364
-Outer Harbor,1,59366,City to Outer Harbor,1,,7332
+Outer Harbor,301,59366,City to Outer Harbor,1,,7332
 Outer Harbor,1,59367,City to Outer Harbor,1,,7332
 Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 506,1,60200,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,5S1007,4140
@@ -4350,6 +4350,7 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 271,13,65679,City to Tea Tree Plaza via Melbourne St and North East Rd,1,5S5678,6929
 271,1,65680,City to Tea Tree Plaza via Melbourne St and North East Rd,1,5S1142,6929
 271,13,65681,City to Tea Tree Plaza via Melbourne St and North East Rd,1,5S5585,6929
+300H,31,65682,Anrdale Interchange to Glen Osmond 19 via Regency Rd Muller Rd O.G Rd Portrush Rd,0,5S1421,8053
 820,1,65691,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61016,7815
 820,1,65692,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61017,7815
 820,1,65693,Carey Gully 26B to City-Currie St W3 via Greenhill Rd,0,61018,7815
@@ -4391,7 +4392,6 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 835,1,65729,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61340,6516
 835,1,65730,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
 835,1,65731,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
-835,1,65732,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
 834A,1,65733,Lobethal to Verdun Junction via Onkaparinga Valley Rd,0,61357,6514
 835A,1,65734,Mt Barker to Lobethal via Onkaparinga Valley Rd,1,61340,7339
 835,1,65735,Mt Barker to Lobethal via Onkaparinga Valley Rd and Riverview Rd,1,61363,6517
@@ -4531,6 +4531,7 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 860F,1,65869,City to Mount Barker via Bridgewater and Hahndorf (No set down before Stop 14 Glen Osmond Rd from City),1,61341,7889
 861,1,65870,Glen Osmond to City,0,61002,7888
 861,1,65871,Glen Osmond to City,0,61003,7888
+861,31,65872,Glen Osmond to City,0,61343,7888
 861,1,65873,Glen Osmond to City,0,61002,7888
 861,1,65874,Glen Osmond to City,0,61017,7888
 861,1,65875,Glen Osmond to City,0,61006,7888
@@ -4718,6 +4719,7 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 864,12,66057,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61340,6554
 864,11,66058,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
 864H,1,66059,Mt Barker to Heathfield 37A via Hahndorf - Bridgewater - Aldgate and Stirling,0,61354,8168
+864F,31,66060,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,,6561
 864,12,66061,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61341,6554
 864F,1,66062,Mt Barker to City via Hahndorf Bridgewater and Stirling - no pick up after stop 13 Glen Osmond Rd,0,61342,6561
 864,11,66063,Mount Barker to City via Hahndorf - Bridgewater and Stirling,0,61001,6554
@@ -5833,6 +5835,7 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 747A,1,67797,Noarlunga Interchange - Seaford Circuit Anti-Clockwise to Noarlunga Interchange,0,41141,5042
 747A,13,67798,Noarlunga Interchange - Seaford Circuit Anti-Clockwise to Noarlunga Interchange,0,41404,5042
 747,1,67799,Noarlunga Interchange - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41146,5037
+747,31,67800,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41158,5038
 747,13,67801,Noarlunga Interchange - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41453,5037
 747,1,67802,Noarlunga Interchange - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41119,5037
 747,13,67803,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41464,5038
@@ -5849,7 +5852,9 @@ T842,1,66270,City to Nairne 73 via Mount Barker and Littlehampton limited Stop s
 747,1,67814,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41483,5038
 747,13,67815,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41454,5038
 747,1,67816,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41151,5038
+747,31,67817,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41100,5038
 747,13,67818,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41410,5038
+747,31,67819,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41125,5038
 747,1,67820,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41453,5038
 747,13,67821,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41400,5038
 747,1,67822,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,41464,5038
@@ -7741,6 +7746,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72231,Blackwood Station to Marion Shopping Centre,0,5S5632,8072
 601,1,72232,Aberfoyle Hub to Flinders University,0,5S1642,8076
 600B,1,72233,Aberfoyle Hub to Blackwood Station,0,5S1665,7173
+601B,31,72234,Aberfoyle Hub to Blackwood Station,0,5S1436,7188
 600,1,72235,Aberfoyle Hub to Flinders University,0,5S1682,8074
 605,21,72236,Darlington to Blackwood High School,0,,8224
 600,11,72237,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,5S5649,8071
@@ -7767,6 +7773,7 @@ N30,51,70499,City to West Lakes Interchange via Henley Beach Rd and Military Rd 
 600,11,72258,Aberfoyle Hub to Marion Shopping Centre via Blackwood Station,0,5S5669,8071
 600,12,72259,Blackwood Station to Marion Shopping Centre,0,5S5817,8072
 600,1,72260,Blackwood Station to Flinders University,0,5S1630,8073
+600,31,72261,Blackwood Station to Marion Shopping Centre,0,5S1079,8072
 601B,1,72262,Aberfoyle Hub to Blackwood Station,0,5S1079,7188
 601B,11,72263,Aberfoyle Hub to Blackwood Station,0,5S5627,7188
 601,1,72265,Aberfoyle Hub to Marion Shopping Centre,0,5S1440,8075
@@ -8683,6 +8690,7 @@ N1,51,73213,City to Golden Grove Village via O-Bahn after midnight service,1,,81
 N1,51,73214,City to Golden Grove Village via O-Bahn after midnight service,1,,8113
 N1,51,73215,City to Golden Grove Village via O-Bahn after midnight service,1,,8113
 N1,51,73216,City to Golden Grove Village via O-Bahn after midnight service,1,,8113
+720,31,73887,City to Old Reynella Interchange via South Rd Marion and Hallett Cove,1,,7088
 601B,21,73901,Aberfoyle Hub to Blackwood High School,0,,8225
 600,21,73902,Blackwood Station to Marion Shopping Centre,0,,8226
 M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
@@ -8798,6 +8806,7 @@ M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 723,1,74195,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41126,4961
 723,1,74196,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41140,4961
 723,1,74197,Woodcroft Community Centre to Colonnades Shopping Centre via Taylors Av and Flaxmill Rd ,1,41149,4961
+723,31,74199,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41166,4963
 723,1,74200,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41136,4963
 723,1,74201,O'Halloran Hill to Colonnades Shopping Centre via Bluehills Rd and Flaxmill Rd,1,41469,4963
 733,1,74202,Marion Shopping Centre to Colonnades Shopping Centre via Diagonal Rd Investigator Dr and Flaxmill Rd,1,41169,4997
@@ -8885,8 +8894,6 @@ M44C,12,73911,Tea Tree Plaza Interchange to City via O-Bahn  ,0,,7997
 733,1,74284,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41141,4996
 733,1,74285,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41460,4996
 733,1,74286,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41181,4996
-733,27,74287,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,,4996
-733,26,74288,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,,4996
 733,1,74290,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41106,4996
 733,1,74291,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41171,4996
 733,1,74292,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,,4996
@@ -11452,6 +11459,8 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,5S1604,8081
 733C,12,76950,Woodcroft via Flaxmill Road,0,41526,8305
 733,26,76951,Noarlunga Interchange to Marion Interchange via Flaxmill Rd and Pimpala Rd,0,,5143
 733,27,76952,Noarlunga Interchange to Marion Interchange via Flaxmill Rd and Pimpala Rd,0,,5143
+733,31,76953,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41466,4996
+733,31,76954,Colonnades to Marion Shopping Centre via Flaxmill Rd Investigator Dr and Diagonal Rd ,0,41472,4996
 723X,1,76955,Woodcroft - Express to Happy Valley,1,41166,8282
 733,12,76956,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,41504,8303
 733,12,76957,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,41560,8303
@@ -11487,6 +11496,8 @@ G10,1,76903,Prospect Rd 24 to Marion Shopping Centre,1,5S1604,8081
 265,1,76987,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,5S1631,5585
 265,1,76988,Glenelg to Marion Shopping Centre via Brighton Station and Dover Gardens,1,5S1679,5585
 265,1,76989,City to Marion Shopping Centre via Glenelg Brighton Station and Dover Gardens,1,5S1044,5584
+834A,31,76990,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6515
+834,31,76991,Verdun Junction to Lobethal via Onkaparinga Valley Rd,1,,6513
 865,1,76992,City to Aldgate 44 via Glen Osmond Crafers and Stirling,1,61001,7893
 Noarlunga,13,76993,Noarlunga to City,0,2 ,1202
 Noarlunga,13,76994,Noarlunga to City,0,2 ,1202
@@ -12560,8 +12571,10 @@ G10,1,77722,Marion Centre Interchange via Prospect Road City Goodwood Road Flind
 171,1,78117,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,51018,8490
 171,1,78118,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54117,8491
 173,21,78119,City via Main Rd Belair Rd - Blythewood Rd and Fullarton Rd ,0,53125,8496
+171,31,78120,City via Fullarton Rd and Glen Osmond Rd,0,,8492
 171,1,78121,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54120,8491
 173,21,78122,City via Main Rd Belair Rd - Blythewood Rd and Fullarton Rd ,0,52011,8496
+171,31,78123,City via Fullarton Rd and Glen Osmond Rd,0,,8492
 171,1,78124,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,54106,8490
 171,1,78125,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,53135,8490
 171,1,78126,City via Princes Rd - Fullarton Rd and Glen Osmond Rd,0,51023,8490
@@ -15245,9 +15258,6 @@ T840,1,80931,Mount Barker to City via Pulteney St limited Stop service,0,,7905
 864F,21,81305,Verdun to City,0,,8608
 HL1,5,81306,Mt Barker Kmart to Windsor Ave,0,,8609
 HL2,5,81307,Windsor Ave to Mt Barker Kmart,1,,8610
-Outer Harbor,13,81710,Outer Harbor to City,0,,1232
-Outer Harbor,13,81711,Outer Harbor to City,0,,1232
-Grange,13,81712,Grange to City,0,,1196
 753H,1,81729,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
 753H,1,81730,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
 753H,1,81731,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
@@ -15257,446 +15267,451 @@ Grange,13,81712,Grange to City,0,,1196
 680R,21,81737,Sheidow Park to Seacombe Gardens,0,,4880
 680T,27,81738,Seacombe Gardens to Sheidow Park,1,,4885
 680T,26,81739,Seacombe Gardens to Sheidow Park,1,,4885
-Tram,702,81750,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81751,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81752,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81753,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81754,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81755,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81756,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81757,Glengowrie Stop 13 to Glenelg,1,,8660
-Tram,702,81758,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81759,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81760,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81761,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81762,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81763,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81764,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81765,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81766,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81767,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81768,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81769,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81770,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81771,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81772,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81773,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81774,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81775,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81776,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81777,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81778,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81779,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81780,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81781,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81782,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81783,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81784,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81785,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81786,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81787,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81788,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81789,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81790,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81791,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81792,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81793,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81794,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81795,Entertainment Centre to Glenelg via City,1,,8661
-451A,701,81796,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
-451A,701,81797,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
-Tram,702,81798,Entertainment Centre to Glenelg via City,1,,8661
-451A,701,81799,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
-Tram,702,81800,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81801,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81802,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81803,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81804,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81805,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81806,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81807,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81808,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81809,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81810,Entertainment Centre to Glenelg via City,1,,8661
-452W,701,81811,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
-452W,701,81812,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
-452W,701,81813,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
-Tram,702,81814,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81815,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81816,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81817,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81818,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81819,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81820,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81821,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81822,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81823,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81824,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81825,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81826,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81827,Entertainment Centre to Glenelg via City,1,,8661
-Tram,702,81828,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81829,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81830,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81831,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81832,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81833,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81834,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81835,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81836,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81837,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81838,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81839,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81840,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81841,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81842,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81843,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81844,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81845,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81846,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81847,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81848,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81849,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81850,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81851,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81852,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81853,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81854,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81855,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81856,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81857,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81858,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81859,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81860,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81861,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81862,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81863,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81864,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81865,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81866,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81867,Glenelg to Entertainment Centre via City,0,,8662
-451A,701,81868,Elizabeth Station to Davoren Park 74A via Peachey Rd,1,,8665
-451A,702,81869,Elizabeth Station to Davoren Park 74A via Peachey Rd,1,,8665
-Tram,702,81870,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81871,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81872,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81873,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81874,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81875,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81876,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81877,Glenelg to Entertainment Centre via City,0,,8662
-452A,701,81878,Elizabeth Station to McVeity Centre via Woodford Rd and Womma Station,1,,8666
-Tram,702,81879,Glenelg to Entertainment Centre via City,0,,8662
-452A,702,81880,Elizabeth Station to McVeity Centre via Woodford Rd and Womma Station,1,,8666
-Tram,702,81881,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81882,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81883,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81884,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81885,Glenelg to Entertainment Centre via City,0,,8662
-461,701,81886,Munno Para Shopping Centre Brandis Av Munno Para Shopping Centre Loop via Smithfield Interchange,0,,7808
-Tram,702,81887,Glenelg to Entertainment Centre via City,0,,8662
-461,701,81888,Munno Para Shopping Centre Brandis Av Munno Para Shopping Centre Loop via Smithfield Interchange,0,,7808
-Tram,702,81889,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81890,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81891,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81892,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81893,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81894,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81895,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81896,Glenelg to Entertainment Centre via City,0,,8662
-Tram,702,81897,Glenelg to Entertainment Centre via City,0,,8662
-C1,701,81898,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
-C1,701,81899,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
-C1T,701,81900,Tea Tree Plaza Interchange via O-Bahn,1,,8471
-C1T,701,81901,Tea Tree Plaza Interchange via O-Bahn,1,,8471
-C1G,701,81902,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
-C1G,701,81903,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
-C1T,701,81904,Tea Tree Plaza Interchange via O-Bahn,1,,8472
-C1T,701,81905,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81906,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81907,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81908,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81909,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81910,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-C1T,701,81911,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
-546,701,81912,City to Tea Tree Plaza via the O-Bahn,1,,8668
-546,701,81913,City to Tea Tree Plaza via the O-Bahn,1,,8668
-546,701,81914,City to Tea Tree Plaza via the O-Bahn,1,,8668
-546,701,81915,City to Tea Tree Plaza via the O-Bahn,1,,8668
-546,701,81916,City to Tea Tree Plaza via the O-Bahn,1,,8668
-RZ5,701,81917,Holden Hill Roam Zone Service,1,,
-RZ5,701,81918,Holden Hill Roam Zone Service,1,,
-RZ5,701,81919,Holden Hill Roam Zone Service,1,,
-RZ5,701,81920,Holden Hill Roam Zone Service,1,,
-RZ5,701,81921,Holden Hill Roam Zone Service,1,,
-RZ5,701,81922,Holden Hill Roam Zone Service,1,,
-RZ5,701,81923,Holden Hill Roam Zone Service,1,,
-RZ5,701,81924,Holden Hill Roam Zone Service,1,,
-RZ5,701,81925,Holden Hill Roam Zone Service,1,,
-100,701,81926,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,,7677
-100,711,81927,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,,7677
-100,701,81928,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81929,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81930,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81931,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81932,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81933,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81934,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81935,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81936,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81937,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81938,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81939,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81940,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81941,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81942,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81943,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-421,701,81944,BAE Systems to Salisbury Interchange via RAAF and Defence Science Technology Organisation,0,,8669
-421,701,81945,BAE Systems to Salisbury Interchange via RAAF and Defence Science Technology Organisation,0,,8669
-100,701,81946,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81947,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81948,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81949,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81950,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-421,701,81951,Salisbury Interchange to BAE Systems via RAAF and Defence Science Technology Organisation,1,,8670
-421,701,81952,Salisbury Interchange to BAE Systems via RAAF and Defence Science Technology Organisation,1,,8670
-100,701,81953,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81954,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,701,81955,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100,701,81956,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100,701,81957,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100,703,81959,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100,703,81960,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
-100P,701,81961,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,701,81962,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,701,81963,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,701,81964,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,701,81965,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,701,81966,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100P,703,81967,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
-100,703,81969,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81970,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81971,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81972,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81973,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81974,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81975,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81976,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-100,703,81977,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
-101,701,81978,Arndale Shopping Centre to Flinders University via Marion Rd,1,,7619
-101,701,81979,Arndale Shopping Centre to Flinders University via Marion Rd,1,,7619
-100,703,81981,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,,7680
-100,703,81982,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,,7680
-100,703,81983,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81984,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81985,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81986,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81987,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81988,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81989,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100,703,81990,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
-100P,703,81991,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
-100P,703,81992,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
-506X,701,81993,Modbury North to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8671
-506X,701,81994,Modbury North to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8671
-506X,701,81995,Tea Tree Plaza Interchange to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8672
-230,701,82001,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1027,7949
-230,701,82002,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1010,7949
-230,701,82003,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1051,7949
-230,701,82004,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1195,7949
-230,701,82005,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1224,7949
-230,701,82006,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1183,7949
-230,703,82007,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,,7949
-230,702,82008,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S5534,7949
-232,701,82009,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1189,7954
-232,701,82010,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1202,7954
-232,701,82011,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1246,7954
-232,701,82012,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1298,7954
-232,701,82013,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1031,7954
-232,703,82014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5505,7954
-232,703,82015,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5522,7954
-230,701,82016,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1627,7948
-230,701,82017,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1662,7948
-230,701,82018,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1027,7948
-230,701,82019,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1419,7948
-230,701,82020,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
-230,701,82021,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1202,7948
-230,701,82022,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1075,7948
-230,701,82023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1410,7948
-230,701,82024,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1686,7948
-230,701,82025,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1434,7948
-230,701,82026,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1086,7948
-230,701,82027,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1093,7948
-230,701,82028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1037,7948
-230,701,82029,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1452,7948
-230,701,82030,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1410,7947
-230,701,82031,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1435,7948
-230,701,82032,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82033,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1457,7948
-230,701,82034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1118,7948
-230,701,82035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1138,7948
-230,701,82036,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
-230,701,82037,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1485,7948
-230,701,82038,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1419,7947
-230,701,82039,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1670,7948
-230,701,82040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1139,7948
-230,701,82041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1651,7948
-230,701,82042,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1490,7948
-230,701,82043,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
-230,701,82044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1454,7948
-230,701,82045,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
-230,701,82046,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1246,7947
-230,701,82047,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1031,7947
-230,701,82048,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
-230,701,82049,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82050,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
-230,701,82051,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1086,7947
-230,701,82052,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82053,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1037,7947
-230,701,82054,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1452,7947
-230,701,82055,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82056,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1457,7947
-230,701,82057,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1118,7947
-230,701,82058,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82059,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
-230,701,82060,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1485,7947
-230,701,82061,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82062,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1139,7947
-230,701,82063,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
-230,701,82064,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
-230,701,82066,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82067,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1138,7947
-230,701,82068,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1681,7947
-230,701,82069,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1481,7947
-230,701,82070,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1102,7947
-230,701,82071,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82072,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1137,7947
-230,701,82073,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1484,7947
-230,701,82074,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,701,82075,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1493,7947
-230,703,82076,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5626,7947
-230,703,82077,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5527,7947
-230,702,82078,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82079,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5534,7947
-230,702,82080,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5668,7947
-230,702,82081,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82082,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5665,7947
-230,702,82083,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5639,7947
-230,702,82084,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82085,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5529,7947
-230,702,82086,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5651,7947
-230,702,82087,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82088,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5581,7947
-230,702,82089,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82090,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5679,7947
-230,702,82091,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5694,7947
-230,702,82092,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
-230,702,82093,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5588,7947
-230,701,82094,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1196,7947
-232,701,82095,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1027,7952
-232,701,82096,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82097,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1651,7952
-232,701,82098,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1051,7952
-232,701,82099,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1195,7952
-232,701,82100,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1627,7952
-232,701,82101,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1662,7952
-232,701,82102,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82103,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1455,7952
-232,701,82104,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1293,7952
-232,701,82105,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82106,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1410,7952
-232,701,82107,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1427,7952
-232,701,82108,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82109,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1483,7952
-232,701,82110,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1486,7952
-232,701,82111,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82112,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1673,7952
-232,701,82113,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1668,7952
-232,701,82114,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1667,7952
-232,701,82115,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
-232,701,82116,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,701,82117,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
-232,703,82118,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82119,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5522,7952
-232,702,82120,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5538,7952
-232,702,82121,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82122,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5516,7952
-232,702,82123,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5633,7952
-232,702,82124,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82125,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5680,7952
-232,702,82126,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5648,7952
-232,702,82127,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82128,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5672,7952
-232,702,82129,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5692,7952
-232,702,82130,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
-232,702,82131,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
-232,702,82132,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
-232R,701,82133,City to Rosewater via Arndale and Newcastle St,1,,7956
-232R,701,82134,City to Rosewater via Arndale and Newcastle St,1,,7956
-232R,701,82135,City to Rosewater via Arndale and Newcastle St,1,,7956
-232R,701,82136,City to Rosewater via Arndale and Newcastle St,1,,7956
-232R,701,82137,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
-232R,701,82138,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
-232R,701,82139,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
-232,701,82140,Port Adelaide to City via Newcastle St and Arndale,0,5S1647,7953
-232,701,82141,Port Adelaide to City via Newcastle St and Arndale,0,5S1651,7953
-232,701,82142,Port Adelaide to City via Newcastle St and Arndale,0,5S1086,7953
-232,701,82143,Port Adelaide to City via Newcastle St and Arndale,0,5S1195,7953
-232,701,82144,Port Adelaide to City via Newcastle St and Arndale,0,5S1037,7953
-232,701,82145,Port Adelaide to City via Newcastle St and Arndale,0,5S1452,7953
-232,701,82146,Port Adelaide to City via Newcastle St and Arndale,0,5S1442,7953
-232,701,82147,Port Adelaide to City via Newcastle St and Arndale,0,5S1455,7953
-232,701,82148,Port Adelaide to City via Newcastle St and Arndale,0,5S1118,7953
-232,701,82149,Port Adelaide to City via Newcastle St and Arndale,0,5S1106,7953
-232,701,82150,Port Adelaide to City via Newcastle St and Arndale,0,5S1410,7953
-232,701,82151,Port Adelaide to City via Newcastle St and Arndale,0,5S1485,7953
-232,701,82152,Port Adelaide to City via Newcastle St and Arndale,0,5S1480,7953
-232,701,82153,Port Adelaide to City via Newcastle St and Arndale,0,5S1483,7953
-232,701,82154,Port Adelaide to City via Newcastle St and Arndale,0,5S1202,7953
-232,701,82155,Port Adelaide to City via Newcastle St and Arndale,0,5S1495,7953
-232,701,82156,Port Adelaide to City via Newcastle St and Arndale,0,5S1673,7953
-232,701,82157,Port Adelaide to City via Newcastle St and Arndale,0,5S1668,7953
-232,701,82158,Port Adelaide to City via Newcastle St and Arndale,0,5S1657,7953
-232,701,82159,Port Adelaide to City via Newcastle St and Arndale,0,5S1658,7953
-232,701,82160,Port Adelaide to City via Newcastle St and Arndale,0,5S1453,7953
-232,701,82161,Port Adelaide to City via Newcastle St and Arndale,0,5S1481,7953
-232,701,82162,Port Adelaide to City via Newcastle St and Arndale,0,5S1502,7953
-232,701,82163,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,701,82164,Port Adelaide to City via Newcastle St and Arndale,0,5S1500,7953
-232,702,82165,Port Adelaide to City via Newcastle St and Arndale,0,5S5538,7953
-232,702,82166,Port Adelaide to City via Newcastle St and Arndale,0,5S5527,7953
-232,702,82167,Port Adelaide to City via Newcastle St and Arndale,0,5S5654,7953
-232,702,82168,Port Adelaide to City via Newcastle St and Arndale,0,5S5502,7953
-232,702,82169,Port Adelaide to City via Newcastle St and Arndale,0,5S5668,7953
-232,702,82170,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82171,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82172,Port Adelaide to City via Newcastle St and Arndale,0,5S5639,7953
-232,702,82173,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82174,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82175,Port Adelaide to City via Newcastle St and Arndale,0,5S5684,7953
-232,702,82176,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82177,Port Adelaide to City via Newcastle St and Arndale,0,5S5692,7953
-232,702,82178,Port Adelaide to City via Newcastle St and Arndale,0,5S5573,7953
-232,702,82179,Port Adelaide to City via Newcastle St and Arndale,0,,7953
-232,702,82180,Port Adelaide to City via Newcastle St and Arndale,0,5S5685,7953
-230,701,82181,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,701,82182,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
-230,701,82183,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1502,7948
-230,702,82184,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5505,7948
-230,702,82185,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5638,7948
-230,702,82186,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5665,7948
-230,702,82187,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5656,7948
-230,702,82188,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82189,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5543,7948
-230,702,82190,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82191,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82192,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5645,7948
-230,702,82193,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5650,7948
-230,702,82194,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5659,7948
-230,702,82195,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
-230,702,82196,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
-230,702,82197,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
-230,702,82198,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5573,7948
+Tram,13,81750,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81751,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81752,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81753,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81754,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81755,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81756,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81757,Glengowrie Stop 13 to Glenelg,1,,8660
+Tram,13,81758,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81759,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81760,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81761,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81762,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81763,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81764,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81765,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81766,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81767,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81768,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81769,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81770,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81771,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81772,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81773,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81774,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81775,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81776,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81777,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81778,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81779,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81780,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81781,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81782,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81783,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81784,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81785,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81786,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81787,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81788,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81789,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81790,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81791,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81792,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81793,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81794,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81795,Entertainment Centre to Glenelg via City,1,,8661
+451A,1,81796,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
+451A,1,81797,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
+Tram,13,81798,Entertainment Centre to Glenelg via City,1,,8661
+451A,1,81799,Munno Para Shopping Centre to Davoren Park 74A via Smithfield Interchange and President Av,0,,8663
+Tram,13,81800,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81801,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81802,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81803,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81804,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81805,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81806,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81807,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81808,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81809,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81810,Entertainment Centre to Glenelg via City,1,,8661
+452W,1,81811,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
+452W,1,81812,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
+452W,1,81813,Munno Para Shopping Centre to Davoren Park 71 via Smithfield Interchange Mark Oliphant College and McVeity Centre,0,,8664
+Tram,13,81814,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81815,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81816,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81817,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81818,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81819,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81820,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81821,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81822,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81823,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81824,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81825,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81826,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81827,Entertainment Centre to Glenelg via City,1,,8661
+Tram,13,81828,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81829,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81830,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81831,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81832,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81833,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81834,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81835,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81836,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81837,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81838,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81839,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81840,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81841,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81842,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81843,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81844,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81845,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81846,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81847,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81848,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81849,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81850,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81851,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81852,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81853,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81854,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81855,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81856,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81857,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81858,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81859,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81860,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81861,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81862,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81863,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81864,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81865,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81866,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81867,Glenelg to Entertainment Centre via City,0,,8662
+451A,1,81868,Elizabeth Station to Davoren Park 74A via Peachey Rd,1,,8665
+451A,13,81869,Elizabeth Station to Davoren Park 74A via Peachey Rd,1,,8665
+Tram,13,81870,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81871,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81872,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81873,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81874,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81875,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81876,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81877,Glenelg to Entertainment Centre via City,0,,8662
+452A,1,81878,Elizabeth Station to McVeity Centre via Woodford Rd and Womma Station,1,,8666
+Tram,13,81879,Glenelg to Entertainment Centre via City,0,,8662
+452A,13,81880,Elizabeth Station to McVeity Centre via Woodford Rd and Womma Station,1,,8666
+Tram,13,81881,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81882,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81883,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81884,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81885,Glenelg to Entertainment Centre via City,0,,8662
+461,1,81886,Munno Para Shopping Centre Brandis Av Munno Para Shopping Centre Loop via Smithfield Interchange,0,,7808
+Tram,13,81887,Glenelg to Entertainment Centre via City,0,,8662
+461,1,81888,Munno Para Shopping Centre Brandis Av Munno Para Shopping Centre Loop via Smithfield Interchange,0,,7808
+Tram,13,81889,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81890,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81891,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81892,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81893,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81894,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81895,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81896,Glenelg to Entertainment Centre via City,0,,8662
+Tram,13,81897,Glenelg to Entertainment Centre via City,0,,8662
+C1,1,81898,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8538
+C1,1,81899,City via Main North Road Golden Grove Road Tea Tree Plaza Interchange O-Bahn,0,,8536
+C1T,1,81900,Tea Tree Plaza Interchange via O-Bahn,1,,8471
+C1T,1,81901,Tea Tree Plaza Interchange via O-Bahn,1,,8471
+C1G,1,81902,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
+C1G,1,81903,Golden Grove Village via O-Bahn Tea Tree Plaza Interchange Golden Grove Road,1,,8551
+C1T,1,81904,Tea Tree Plaza Interchange via O-Bahn,1,,8472
+C1T,1,81905,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81906,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81907,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81908,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81909,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81910,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+C1T,1,81911,City to Tea Tree Plaza Interchange via O-Bahn,1,,8667
+546,1,81912,City to Tea Tree Plaza via the O-Bahn,1,,8668
+546,1,81913,City to Tea Tree Plaza via the O-Bahn,1,,8668
+546,1,81914,City to Tea Tree Plaza via the O-Bahn,1,,8668
+546,1,81915,City to Tea Tree Plaza via the O-Bahn,1,,8668
+546,1,81916,City to Tea Tree Plaza via the O-Bahn,1,,8668
+RZ5,1,81917,Holden Hill Roam Zone Service,1,,
+RZ5,1,81918,Holden Hill Roam Zone Service,1,,
+RZ5,1,81919,Holden Hill Roam Zone Service,1,,
+RZ5,1,81920,Holden Hill Roam Zone Service,1,,
+RZ5,1,81921,Holden Hill Roam Zone Service,1,,
+RZ5,1,81922,Holden Hill Roam Zone Service,1,,
+RZ5,1,81923,Holden Hill Roam Zone Service,1,,
+RZ5,1,81924,Holden Hill Roam Zone Service,1,,
+RZ5,1,81925,Holden Hill Roam Zone Service,1,,
+100,1,81926,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,,7677
+100,21,81927,Torrensville to Glen Osmond 19 via Marion Rd and Cross Rd ,1,,7677
+100,1,81928,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81929,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81930,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81931,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81932,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81933,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81934,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81935,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81936,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81937,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81938,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81939,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81940,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81941,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81942,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81943,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+421,1,81944,BAE Systems to Salisbury Interchange via RAAF and Defence Science Technology Organisation,0,,8669
+421,1,81945,BAE Systems to Salisbury Interchange via RAAF and Defence Science Technology Organisation,0,,8669
+100,1,81946,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81947,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81948,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81949,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81950,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+421,1,81951,Salisbury Interchange to BAE Systems via RAAF and Defence Science Technology Organisation,1,,8670
+421,1,81952,Salisbury Interchange to BAE Systems via RAAF and Defence Science Technology Organisation,1,,8670
+100,1,81953,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81954,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,1,81955,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,1,81956,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,1,81957,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,11,81959,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,11,81960,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100P,1,81961,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,1,81962,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,1,81963,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,1,81964,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,1,81965,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,1,81966,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100P,11,81967,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
+100,11,81969,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81970,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81971,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81972,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81973,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81974,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81975,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81976,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+100,11,81977,Arndale Interchange to Glen Osmond 19 via Marion Rd and Cross Rd,1,,7678
+101,1,81978,Arndale Shopping Centre to Flinders University via Marion Rd,1,,7619
+101,1,81979,Arndale Shopping Centre to Flinders University via Marion Rd,1,,7619
+100,11,81981,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,,7680
+100,11,81982,Plympton 184 to Arndale Interchange via Marion Rd Holbrooks and Queen Elizabeth Hospital,0,,7680
+100,11,81983,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81984,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81985,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81986,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81987,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81988,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81989,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100,11,81990,Glen Osmond 19 to Arndale Interchange via Cross Rd Marion Rd and Queen Elizabeth Hospital,0,,7681
+100P,11,81991,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
+100P,11,81992,Glen Osmond 19 to Plympton 184 via Cross Rd ,0,,7685
+506X,1,81993,Modbury North to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8671
+506X,1,81994,Modbury North to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8671
+506X,1,81995,Tea Tree Plaza Interchange to City via Para Hills and Paradise Interchange running express between Paradise Interchange and City,0,,8672
+830F,31,81996,Lobethal to City via Main St Woodside Oakbank Verdun Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd to the City),0,,7833
+830F,31,81997,Lobethal to City via Main St Woodside Oakbank Verdun Crafers and Glen Osmond (No pick up after Stop 13 Glen Osmond Rd to the City),0,,7833
+834,31,81998,Lobethal to Verdun Junction,0,,6512
+894,31,81999,Blackwood Station to Aldgate 44 via Upper Sturt Rd and Stirling ,1,,6585
+894,31,82000,Aldgate to Blackwood Station via Upper Sturt Rd,0,,6584
+230,1,82001,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1027,7949
+230,1,82002,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1010,7949
+230,1,82003,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1051,7949
+230,1,82004,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1195,7949
+230,1,82005,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1224,7949
+230,1,82006,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S1183,7949
+230,11,82007,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,,7949
+230,13,82008,Rosewater to City via Addison Rd Arndale and Harrison Rd,0,5S5534,7949
+232,1,82009,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1189,7954
+232,1,82010,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1202,7954
+232,1,82011,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1246,7954
+232,1,82012,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1298,7954
+232,1,82013,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S1031,7954
+232,11,82014,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5505,7954
+232,11,82015,Rosewater to City via Newcastle St and Arndale Shopping Centre,0,5S5522,7954
+230,1,82016,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1627,7948
+230,1,82017,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1662,7948
+230,1,82018,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1027,7948
+230,1,82019,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1419,7948
+230,1,82020,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
+230,1,82021,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1202,7948
+230,1,82022,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1075,7948
+230,1,82023,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1410,7948
+230,1,82024,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1686,7948
+230,1,82025,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1434,7948
+230,1,82026,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1086,7948
+230,1,82027,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1093,7948
+230,1,82028,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1037,7948
+230,1,82029,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1452,7948
+230,1,82030,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1410,7947
+230,1,82031,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1435,7948
+230,1,82032,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82033,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1457,7948
+230,1,82034,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1118,7948
+230,1,82035,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1138,7948
+230,1,82036,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1615,7948
+230,1,82037,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1485,7948
+230,1,82038,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1419,7947
+230,1,82039,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1670,7948
+230,1,82040,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1139,7948
+230,1,82041,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1651,7948
+230,1,82042,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1490,7948
+230,1,82043,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
+230,1,82044,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1454,7948
+230,1,82045,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
+230,1,82046,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1246,7947
+230,1,82047,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1031,7947
+230,1,82048,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
+230,1,82049,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82050,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
+230,1,82051,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1086,7947
+230,1,82052,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82053,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1037,7947
+230,1,82054,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1452,7947
+230,1,82055,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82056,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1457,7947
+230,1,82057,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1118,7947
+230,1,82058,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82059,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1615,7947
+230,1,82060,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1485,7947
+230,1,82061,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82062,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1139,7947
+230,1,82063,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1651,7947
+230,1,82064,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1202,7947
+230,1,82066,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82067,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1138,7947
+230,1,82068,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1681,7947
+230,1,82069,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1481,7947
+230,1,82070,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1102,7947
+230,1,82071,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82072,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1137,7947
+230,1,82073,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1484,7947
+230,1,82074,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,1,82075,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1493,7947
+230,11,82076,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5626,7947
+230,11,82077,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5527,7947
+230,13,82078,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82079,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5534,7947
+230,13,82080,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5668,7947
+230,13,82081,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82082,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5665,7947
+230,13,82083,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5639,7947
+230,13,82084,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82085,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5529,7947
+230,13,82086,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5651,7947
+230,13,82087,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82088,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5581,7947
+230,13,82089,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82090,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5679,7947
+230,13,82091,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5694,7947
+230,13,82092,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,,7947
+230,13,82093,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S5588,7947
+230,1,82094,City to Port Adelaide via Harrison Rd Arndale Shopping Centre and Addison Rd,1,5S1196,7947
+232,1,82095,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1027,7952
+232,1,82096,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82097,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1651,7952
+232,1,82098,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1051,7952
+232,1,82099,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1195,7952
+232,1,82100,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1627,7952
+232,1,82101,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1662,7952
+232,1,82102,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82103,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1455,7952
+232,1,82104,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1293,7952
+232,1,82105,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82106,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1410,7952
+232,1,82107,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1427,7952
+232,1,82108,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82109,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1483,7952
+232,1,82110,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1486,7952
+232,1,82111,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82112,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1673,7952
+232,1,82113,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1668,7952
+232,1,82114,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1667,7952
+232,1,82115,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
+232,1,82116,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,1,82117,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S1502,7952
+232,11,82118,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,13,82119,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5522,7952
+232,13,82120,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5538,7952
+232,13,82121,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,13,82122,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5516,7952
+232,13,82123,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5633,7952
+232,13,82124,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,13,82125,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5680,7952
+232,13,82126,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5648,7952
+232,13,82127,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,13,82128,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5672,7952
+232,13,82129,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5692,7952
+232,13,82130,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
+232,13,82131,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,,7952
+232,13,82132,City to Port Adelaide via Arndale Shopping Centre and Newcastle St,1,5S5573,7952
+232R,1,82133,City to Rosewater via Arndale and Newcastle St,1,,7956
+232R,1,82134,City to Rosewater via Arndale and Newcastle St,1,,7956
+232R,1,82135,City to Rosewater via Arndale and Newcastle St,1,,7956
+232R,1,82136,City to Rosewater via Arndale and Newcastle St,1,,7956
+232R,1,82137,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
+232R,1,82138,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
+232R,1,82139,City to Rosewater via Arndale Shopping Centre and Newcastle St,1,,7955
+232,1,82140,Port Adelaide to City via Newcastle St and Arndale,0,5S1647,7953
+232,1,82141,Port Adelaide to City via Newcastle St and Arndale,0,5S1651,7953
+232,1,82142,Port Adelaide to City via Newcastle St and Arndale,0,5S1086,7953
+232,1,82143,Port Adelaide to City via Newcastle St and Arndale,0,5S1195,7953
+232,1,82144,Port Adelaide to City via Newcastle St and Arndale,0,5S1037,7953
+232,1,82145,Port Adelaide to City via Newcastle St and Arndale,0,5S1452,7953
+232,1,82146,Port Adelaide to City via Newcastle St and Arndale,0,5S1442,7953
+232,1,82147,Port Adelaide to City via Newcastle St and Arndale,0,5S1455,7953
+232,1,82148,Port Adelaide to City via Newcastle St and Arndale,0,5S1118,7953
+232,1,82149,Port Adelaide to City via Newcastle St and Arndale,0,5S1106,7953
+232,1,82150,Port Adelaide to City via Newcastle St and Arndale,0,5S1410,7953
+232,1,82151,Port Adelaide to City via Newcastle St and Arndale,0,5S1485,7953
+232,1,82152,Port Adelaide to City via Newcastle St and Arndale,0,5S1480,7953
+232,1,82153,Port Adelaide to City via Newcastle St and Arndale,0,5S1483,7953
+232,1,82154,Port Adelaide to City via Newcastle St and Arndale,0,5S1202,7953
+232,1,82155,Port Adelaide to City via Newcastle St and Arndale,0,5S1495,7953
+232,1,82156,Port Adelaide to City via Newcastle St and Arndale,0,5S1673,7953
+232,1,82157,Port Adelaide to City via Newcastle St and Arndale,0,5S1668,7953
+232,1,82158,Port Adelaide to City via Newcastle St and Arndale,0,5S1657,7953
+232,1,82159,Port Adelaide to City via Newcastle St and Arndale,0,5S1658,7953
+232,1,82160,Port Adelaide to City via Newcastle St and Arndale,0,5S1453,7953
+232,1,82161,Port Adelaide to City via Newcastle St and Arndale,0,5S1481,7953
+232,1,82162,Port Adelaide to City via Newcastle St and Arndale,0,5S1502,7953
+232,1,82163,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,1,82164,Port Adelaide to City via Newcastle St and Arndale,0,5S1500,7953
+232,13,82165,Port Adelaide to City via Newcastle St and Arndale,0,5S5538,7953
+232,13,82166,Port Adelaide to City via Newcastle St and Arndale,0,5S5527,7953
+232,13,82167,Port Adelaide to City via Newcastle St and Arndale,0,5S5654,7953
+232,13,82168,Port Adelaide to City via Newcastle St and Arndale,0,5S5502,7953
+232,13,82169,Port Adelaide to City via Newcastle St and Arndale,0,5S5668,7953
+232,13,82170,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82171,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82172,Port Adelaide to City via Newcastle St and Arndale,0,5S5639,7953
+232,13,82173,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82174,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82175,Port Adelaide to City via Newcastle St and Arndale,0,5S5684,7953
+232,13,82176,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82177,Port Adelaide to City via Newcastle St and Arndale,0,5S5692,7953
+232,13,82178,Port Adelaide to City via Newcastle St and Arndale,0,5S5573,7953
+232,13,82179,Port Adelaide to City via Newcastle St and Arndale,0,,7953
+232,13,82180,Port Adelaide to City via Newcastle St and Arndale,0,5S5685,7953
+230,1,82181,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+230,1,82182,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1137,7948
+230,1,82183,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S1502,7948
+230,13,82184,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5505,7948
+230,13,82185,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5638,7948
+230,13,82186,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5665,7948
+230,13,82187,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5656,7948
+230,13,82188,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+230,13,82189,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5543,7948
+230,13,82190,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+230,13,82191,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+230,13,82192,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5645,7948
+230,13,82193,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5650,7948
+230,13,82194,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5659,7948
+230,13,82195,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
+230,13,82196,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
+230,13,82197,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
+230,13,82198,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5573,7948
 701S,21,82211,School,0,,8683
 733,27,82213,School,1,,8685
 733,26,82214,School,1,,8685
@@ -15705,3 +15720,262 @@ RZ5,701,81925,Holden Hill Roam Zone Service,1,,
 747,27,82220,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,,5038
 747,26,82221,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,,5038
 747,21,82222,Seaford Circuit clockwise to Colonnades,0,,3053
+Outer Harbor,13,82276,Outer Harbor to City,0,,1801
+Grange,13,82277,Grange to City,0,,8720
+Grange Sub,501,82287,Grange to Woodville,1,,8736
+Grange Sub,501,82288,Grange to Woodville,1,,8736
+Grange Sub,501,82289,Grange to Woodville,1,,8736
+Grange Sub,501,82290,Grange to Woodville,1,,8736
+Grange Sub,501,82291,Grange to Woodville,1,,8736
+Grange Sub,501,82292,Grange to Woodville,1,,8736
+Grange Sub,501,82293,Grange to Woodville,1,,8736
+Grange Sub,501,82294,Grange to Woodville,1,,8736
+Grange Sub,501,82295,Grange to Woodville,1,,8736
+Grange Sub,501,82296,Grange to Woodville,1,,8736
+Grange Sub,501,82297,Grange to Woodville,1,,8736
+Grange Sub,501,82298,Grange to Woodville,1,,8736
+Grange Sub,501,82299,Grange to Woodville,1,,8736
+Grange Sub,501,82300,Grange to Woodville,1,,8736
+Grange Sub,501,82301,Grange to Woodville,1,,8736
+Grange Sub,501,82302,Grange to Woodville,1,,8736
+Grange Sub,501,82303,Grange to Woodville,1,,8736
+Grange Sub,501,82304,Grange to Woodville,1,,8736
+Grange Sub,501,82305,Grange to Woodville,1,,8736
+Grange Sub,501,82306,Grange to Woodville,1,,8736
+Grange Sub,501,82307,Grange to Woodville,1,,8736
+Grange Sub,501,82308,Grange to Woodville,1,,8736
+Grange Sub,501,82309,Grange to Woodville,1,,8736
+Grange Sub,501,82310,Grange to Woodville,1,,8736
+Grange Sub,501,82311,Grange to Woodville,1,,8736
+Grange Sub,501,82312,Grange to Woodville,1,,8736
+Grange Sub,501,82313,Grange to Woodville,1,,8736
+Grange Sub,501,82314,Grange to Woodville,1,,8736
+Grange Sub,501,82315,Grange to Woodville,1,,8736
+Grange Sub,501,82316,Grange to Woodville,1,,8736
+Grange Sub,501,82317,Grange to Woodville,1,,8736
+Grange Sub,501,82318,Grange to Woodville,1,,8736
+Grange Sub,501,82319,Grange to Woodville,1,,8736
+Grange Sub,501,82320,Grange to Woodville,1,,8736
+Grange Sub,501,82321,Grange to Woodville,0,,8735
+Grange Sub,501,82322,Grange to Woodville,0,,8735
+Grange Sub,501,82323,Grange to Woodville,0,,8735
+Grange Sub,501,82324,Grange to Woodville,0,,8735
+Grange Sub,501,82325,Grange to Woodville,0,,8735
+Grange Sub,501,82326,Grange to Woodville,0,,8735
+Grange Sub,501,82327,Grange to Woodville,0,,8735
+Grange Sub,501,82328,Grange to Woodville,0,,8735
+Grange Sub,501,82329,Grange to Woodville,0,,8735
+Grange Sub,501,82330,Grange to Woodville,0,,8735
+Grange Sub,501,82331,Grange to Woodville,0,,8735
+Grange Sub,501,82332,Grange to Woodville,0,,8735
+Grange Sub,501,82333,Grange to Woodville,0,,8735
+Grange Sub,501,82334,Grange to Woodville,0,,8735
+Grange Sub,501,82335,Grange to Woodville,0,,8735
+Grange Sub,501,82336,Grange to Woodville,0,,8735
+Grange Sub,501,82337,Grange to Woodville,0,,8735
+Grange Sub,501,82338,Grange to Woodville,0,,8735
+Grange Sub,501,82339,Grange to Woodville,0,,8735
+Grange Sub,501,82340,Grange to Woodville,0,,8735
+Grange Sub,501,82341,Grange to Woodville,0,,8735
+Grange Sub,501,82342,Grange to Woodville,0,,8735
+Grange Sub,501,82343,Grange to Woodville,0,,8735
+Grange Sub,501,82344,Grange to Woodville,0,,8735
+Grange Sub,501,82345,Grange to Woodville,0,,8735
+Grange Sub,501,82346,Grange to Woodville,0,,8735
+Grange Sub,501,82347,Grange to Woodville,0,,8735
+Grange Sub,501,82348,Grange to Woodville,0,,8735
+Grange Sub,501,82349,Grange to Woodville,0,,8735
+Grange Sub,501,82350,Grange to Woodville,0,,8735
+Grange Sub,501,82351,Grange to Woodville,0,,8735
+Grange Sub,501,82352,Grange to Woodville,0,,8735
+Grange Sub,501,82353,Grange to Woodville,0,,8735
+Grange,501,82354,Woodville to Grange,1,,8730
+Outer Harbor,501,82355,City to Outer Harbor,1,,8726
+Grange,501,82356,Woodville to Grange,1,,8730
+Outer Harbor,501,82357,City to Outer Harbor,1,,8726
+Grange,501,82358,Woodville to Grange,1,,8730
+Grange,501,82359,Woodville to Grange,1,,8730
+Outer Harbor,501,82360,City to Outer Harbor,1,,8726
+Grange,501,82361,Woodville to Grange,1,,8730
+Glanville,501,82362,City to Glanville,1,,8729
+Grange,501,82363,Woodville to Grange,1,,8730
+Outer Harbor,501,82364,City to Outer Harbor,1,,8726
+Grange,501,82365,Woodville to Grange,1,,8730
+Outer Harbor,501,82366,City to Outer Harbor,1,,8726
+Grange,501,82367,Woodville to Grange,1,,8730
+Outer Harbor,501,82368,City to Outer Harbor,1,,8726
+Grange,501,82369,Woodville to Grange,1,,8730
+Outer Harbor,501,82370,City to Outer Harbor,1,,8726
+Grange,501,82371,Woodville to Grange,1,,8730
+Outer Harbor,501,82372,City to Outer Harbor,1,,8726
+Grange,501,82373,Woodville to Grange,1,,8730
+Outer Harbor,501,82374,City to Outer Harbor,1,,8726
+Grange,501,82375,Woodville to Grange,1,,8730
+Outer Harbor,501,82376,City to Outer Harbor,1,,8726
+Grange,501,82377,Woodville to Grange,1,,8730
+Outer Harbor,501,82378,City to Outer Harbor,1,,8726
+Grange,501,82379,Woodville to Grange,1,,8730
+Outer Harbor,501,82380,City to Outer Harbor,1,,8726
+Grange,501,82381,Woodville to Grange,1,,8730
+Outer Harbor,501,82382,City to Outer Harbor,1,,8726
+Grange,501,82383,Woodville to Grange,1,,8730
+Outer Harbor,501,82384,City to Outer Harbor,1,,8726
+Grange,501,82385,Woodville to Grange,1,,8730
+Outer Harbor,501,82386,City to Outer Harbor,1,,8726
+Grange,501,82387,Woodville to Grange,1,,8730
+Outer Harbor,501,82388,City to Outer Harbor,1,,8726
+Grange,501,82389,Woodville to Grange,1,,8730
+Outer Harbor,501,82390,City to Outer Harbor,1,,8726
+Grange,501,82391,Woodville to Grange,1,,8730
+Outer Harbor,501,82392,City to Outer Harbor,1,,8726
+Grange,501,82393,Woodville to Grange,1,,8730
+Grange,501,82394,Woodville to Grange,1,,8730
+Grange,501,82395,Woodville to Grange,1,,8730
+Outer Harbor,501,82396,City to Outer Harbor,1,,8726
+Grange,501,82397,Woodville to Grange,1,,8730
+Outer Harbor,501,82398,City to Outer Harbor,1,,8727
+Glanville,501,82399,City to Glanville,1,,8728
+Grange,501,82400,Woodville to Grange,1,,8730
+Glanville,501,82401,City to Glanville,1,,8728
+Outer Harbor,501,82402,City to Outer Harbor,1,,8726
+Grange,501,82403,Woodville to Grange,1,,8730
+Outer Harbor,501,82404,City to Outer Harbor,1,,8726
+Grange,501,82405,Grange to Woodville,0,,8737
+Grange,501,82406,Grange to Woodville,0,,8737
+Outer Harbor,501,82407,Outer Harbor to City,0,,8731
+Grange,501,82408,Grange to Woodville,0,,8737
+Outer Harbor,501,82409,Outer Harbor to City,0,,8731
+Outer Harbor,501,82410,Outer Harbor to City,0,,8731
+Grange,501,82411,Grange to Woodville,0,,8737
+Outer Harbor,501,82412,Outer Harbor to City,0,,8731
+Glanville,501,82413,Glanville to City,0,,8733
+Grange,501,82414,Grange to Woodville,0,,8737
+Outer Harbor,501,82415,Outer Harbor to City,0,,8732
+Glanville,501,82416,Glanville to City,0,,8733
+Glanville,501,82417,Glanville to City,0,,8733
+Grange,501,82418,Grange to Woodville,0,,8737
+Grange,501,82419,Grange to Woodville,0,,8737
+Outer Harbor,501,82420,Outer Harbor to City,0,,8731
+Grange,501,82421,Grange to Woodville,0,,8737
+Outer Harbor,501,82422,Outer Harbor to City,0,,8731
+Grange,501,82423,Grange to Woodville,0,,8737
+Outer Harbor,501,82424,Outer Harbor to City,0,,8731
+Grange,501,82425,Grange to Woodville,0,,8737
+Outer Harbor,501,82426,Outer Harbor to City,0,,8731
+Grange,501,82427,Grange to Woodville,0,,8737
+Outer Harbor,501,82428,Outer Harbor to City,0,,8731
+Grange,501,82429,Grange to Woodville,0,,8737
+Outer Harbor,501,82430,Outer Harbor to City,0,,8731
+Grange,501,82431,Grange to Woodville,0,,8737
+Outer Harbor,501,82432,Outer Harbor to City,0,,8731
+Grange,501,82433,Grange to Woodville,0,,8737
+Outer Harbor,501,82434,Outer Harbor to City,0,,8731
+Grange,501,82435,Grange to Woodville,0,,8737
+Outer Harbor,501,82436,Outer Harbor to City,0,,8731
+Grange,501,82437,Grange to Woodville,0,,8737
+Outer Harbor,501,82438,Outer Harbor to City,0,,8731
+Grange,501,82439,Grange to Woodville,0,,8737
+Outer Harbor,501,82440,Outer Harbor to City,0,,8731
+Grange,501,82441,Grange to Woodville,0,,8737
+Outer Harbor,501,82442,Outer Harbor to City,0,,8731
+Grange,501,82443,Grange to Woodville,0,,8737
+Outer Harbor,501,82444,Outer Harbor to City,0,,8731
+Grange,501,82445,Grange to Woodville,0,,8737
+Outer Harbor,501,82446,Outer Harbor to City,0,,8731
+Grange,501,82447,Grange to Woodville,0,,8737
+Outer Harbor,501,82448,Outer Harbor to City,0,,8731
+Grange,501,82449,Grange to Woodville,0,,8737
+Grange,501,82450,Grange to Woodville,0,,8737
+Grange,501,82451,Grange to Woodville,0,,8737
+Outer Harbor,501,82452,Outer Harbor to City,0,,8731
+Glanville,501,82453,Glanville to City,0,,8734
+Grange,501,82454,Grange to Woodville,0,,8737
+Outer Harbor,501,82455,Outer Harbor to City,0,,8731
+Glanville,501,82456,Glanville to City,0,,8734
+Outer Harbor,501,82457,Outer Harbor to City,0,,8731
+Grange,501,82458,Grange to City,0,,1196
+Outer Harbor,501,82459,Outer Harbor to City,0,,8731
+Tonsley Sub,501,82460,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82461,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82462,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82463,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82464,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82465,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82466,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82467,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82468,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82469,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82470,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82471,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82472,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82473,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82474,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82475,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82476,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82477,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82478,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,501,82479,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82480,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82481,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82482,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82483,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82484,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82485,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82486,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82487,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82488,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82489,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82490,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82491,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82492,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82493,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82494,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82495,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82496,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82497,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,501,82498,Woodlands Park to Tonsley,1,,8751
+Brighton,501,82499,Brighton to City,0,,8743
+Brighton,501,82500,Brighton to City,0,,8743
+Brighton,501,82501,Brighton to City,0,,8743
+Brighton,501,82502,Brighton to City,0,,8743
+Noarlunga,501,82503,Noarlunga to City,0,,8738
+Noarlunga,501,82504,Noarlunga to City,0,,8738
+Noarlunga,501,82505,Noarlunga to City,0,,8739
+Noarlunga,501,82506,Noarlunga to City,0,,8739
+Noarlunga,501,82507,Noarlunga to City,0,,8738
+Noarlunga,501,82508,Noarlunga to City,0,,8738
+Noarlunga,501,82509,Noarlunga to City,0,,8738
+Noarlunga,501,82510,Noarlunga to City,0,,8740
+Noarlunga,501,82511,Noarlunga to City,0,,8738
+Noarlunga,501,82512,Noarlunga to City,0,,8740
+Noarlunga,501,82513,Noarlunga to City,0,,8739
+Noarlunga,501,82514,Noarlunga to City,0,,8738
+Brighton,501,82515,Brighton to City,0,,8743
+Brighton,501,82516,Brighton to City,0,,8743
+Brighton,501,82517,Brighton to City,0,,8743
+Noarlunga,501,82518,Noarlunga to City,0,,8741
+Brighton,501,82519,Brighton to City,0,,8744
+Noarlunga,501,82520,Noarlunga to City,0,,8738
+Noarlunga,501,82521,Noarlunga to City,0,,8738
+Noarlunga,501,82522,Noarlunga to City,0,,8738
+Noarlunga,501,82523,Noarlunga to City,0,,8742
+Brighton,501,82525,City to Brighton,1,,8749
+Brighton,501,82526,City to Brighton,1,,8749
+Noarlunga,501,82527,City to Noarlunga,1,,8745
+Noarlunga,501,82528,City to Noarlunga,1,,8746
+Noarlunga,501,82529,City to Noarlunga,1,,8747
+Noarlunga,501,82530,City to Noarlunga,1,,8745
+Noarlunga,501,82531,City to Noarlunga,1,,8745
+Noarlunga,501,82532,City to Noarlunga,1,,8745
+Noarlunga,501,82533,City to Noarlunga,1,,8745
+Noarlunga,501,82534,City to Noarlunga,1,,8745
+Noarlunga,501,82535,City to Noarlunga,1,,8745
+Brighton,501,82536,City to Brighton,1,,8750
+Brighton,501,82537,City to Brighton,1,,8749
+Noarlunga,501,82538,City to Noarlunga,1,,8748
+Noarlunga,501,82539,City to Noarlunga,1,,8745
+Noarlunga,501,82540,City to Noarlunga,1,,8745
+Noarlunga,501,82541,City to Noarlunga,1,,8745
+Brighton,501,82542,City to Brighton,1,,8753
+733,1,82543,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,,8303
+Woodville,1,82544,City to Woodville,1,,7325
