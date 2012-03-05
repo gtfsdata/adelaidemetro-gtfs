@@ -322,81 +322,32 @@ Noarlunga,1,20244,Noarlunga to City,0,,1209
 Noarlunga,1,20245,Noarlunga to City,0,,1791
 Brighton,1,20246,Brighton to City,0,,1149
 Noarlunga,1,20247,Noarlunga to City,0,,1791
-Brighton,301,20248,Brighton to City,0,,1147
-Tonsley,301,20249,Tonsley to City,0,,1303
 Noarlunga,1,20250,Noarlunga to City,0,,1791
-Brighton,301,20251,Brighton to City,0,,1147
-Tonsley,301,20252,Tonsley to City,0,,1303
 Noarlunga,1,20253,Noarlunga to City,0,,1205
 Noarlunga,1,20254,Noarlunga to City,0,,1206
-Brighton,301,20255,Brighton to City,0,,1147
-Tonsley,301,20256,Tonsley to City,0,,1303
 Noarlunga,1,20257,Noarlunga to City,0,,1205
 Noarlunga,1,20258,Noarlunga to City,0,,1206
-Brighton,301,20259,Brighton to City,0,,3810
 Noarlunga,1,20260,Noarlunga to City,0,,1215
-Tonsley,301,20261,Tonsley to City,0,,1303
-Noarlunga,301,20262,Noarlunga to City,0,,1212
 Noarlunga,1,20263,Noarlunga to City,0,,1217
-Tonsley,301,20264,Tonsley to City,0,,1303
-Noarlunga,301,20265,Noarlunga to City,0,,1203
-Tonsley,301,20266,Tonsley to City,0,,1303
 Noarlunga,1,20267,Noarlunga to City,0,,1204
-Noarlunga,301,20268,Noarlunga to City,0,,1210
-Tonsley,301,20269,Tonsley to City,0,,1303
 Noarlunga,1,20270,Noarlunga to City,0,,1204
 Noarlunga,1,20271,Noarlunga to City,0,,1207
 Noarlunga,1,20272,Noarlunga to City,0,,1204
-Noarlunga,301,20273,Noarlunga to City,0,,1210
-Tonsley,301,20274,Tonsley to City,0,,1303
 Noarlunga,1,20275,Noarlunga to City,0,,1204
 Noarlunga,1,20276,Noarlunga to City,0,,1207
-Noarlunga,301,20277,Noarlunga to City,0,,1204
-Brighton,301,20278,Brighton to City,0,,1148
-Tonsley,301,20279,Tonsley to City,0,,1303
-Noarlunga,301,20280,Noarlunga to City,0,,1204
-Brighton,301,20281,Brighton to City,0,,1148
-Noarlunga,301,20282,Noarlunga to City,0,,1204
-Brighton,301,20283,Brighton to City,0,,1148
-Tonsley,301,20284,Tonsley to City,0,,1303
-Noarlunga,301,20285,Noarlunga to City,0,,1204
-Brighton,301,20286,Brighton to City,0,,1148
-Noarlunga,301,20287,Noarlunga to City,0,,1204
-Brighton,301,20288,Brighton to City,0,,1148
-Tonsley,301,20289,Tonsley to City,0,,1303
-Noarlunga,301,20290,Noarlunga to City,0,,1204
-Brighton,301,20291,Brighton to City,0,,1148
 Noarlunga,1,20292,Noarlunga to City,0,,1204
-Noarlunga,301,20293,Noarlunga to City,0,,1207
-Tonsley,301,20294,Tonsley to City,0,,1303
 Noarlunga,1,20295,Noarlunga to City,0,,1204
 Noarlunga,1,20296,Noarlunga to City,0,,1208
 Noarlunga,1,20297,Noarlunga to City,0,,1204
 Noarlunga,1,20298,Noarlunga to City,0,,1208
-Noarlunga,301,20299,Noarlunga to City,0,,1203
-Tonsley,301,20300,Tonsley to City,0,,1303
 Noarlunga,1,20301,Noarlunga to City,0,,1208
 Noarlunga,1,20302,Noarlunga to City,0,,1204
-Brighton,301,20303,Brighton to City,0,,1147
-Tonsley,301,20304,Tonsley to City,0,,1303
 Noarlunga,1,20305,Noarlunga to City,0,,1204
 Noarlunga,1,20306,Noarlunga to City,0,,1204
 Brighton,1,20307,Brighton to City,0,,1149
 Noarlunga,1,20308,Noarlunga to City,0,,1204
-Brighton,301,20309,Brighton to City,0,,1147
 Noarlunga,1,20310,Noarlunga to City,0,,1791
-Tonsley,301,20311,Tonsley to City,0,,1303
-Brighton,301,20312,Brighton to City,0,,1147
-Noarlunga,301,20313,Noarlunga to City,0,,1214
-Tonsley,301,20314,Tonsley to City,0,,1303
-Noarlunga,301,20315,Noarlunga to City,0,,1203
-Tonsley,301,20316,Tonsley to City,0,,1303
-Noarlunga,301,20317,Noarlunga to City,0,,1203
-Tonsley,301,20318,Tonsley to City,0,,1303
-Noarlunga,301,20319,Noarlunga to City,0,,1203
-Tonsley,301,20320,Tonsley to City,0,,1303
 Noarlunga,1,20321,Noarlunga to City,0,,1202
-Noarlunga,301,20322,Noarlunga to City,0,,1202
 Noarlunga,1,20323,Noarlunga to City,0,,1202
 Noarlunga,1,20324,Noarlunga to City,0,,1216
 Noarlunga,1,20325,Noarlunga to City,0,,1202
@@ -406,38 +357,11 @@ Noarlunga,5,20328,Noarlunga to City,0,,1206
 Noarlunga,1,20329,Noarlunga to City,0,,1202
 Outer Harbor,1,20370,Outer Harbor to City,0,,1232
 Outer Harbor,1,20371,Outer Harbor to City,0,,1232
-Outer Harbor,301,20372,Outer Harbor to City,0,,1800
-Outer Harbor,301,20373,Outer Harbor to City,0,,1800
-Outer Harbor,301,20374,Outer Harbor to City,0,,1800
-Outer Harbor,301,20375,Outer Harbor to City,0,,1235
-Glanville,301,20376,Glanville to City,0,,1786
-Outer Harbor,301,20377,Outer Harbor to City,0,,1235
-Glanville,301,20378,Glanville to City,0,,1786
 Outer Harbor,1,20379,Outer Harbor to City,0,,1800
 Outer Harbor,1,20380,Outer Harbor to City,0,,1232
-Outer Harbor,301,20381,Outer Harbor to City,0,,1800
-Outer Harbor,301,20382,Outer Harbor to City,0,,1800
-Outer Harbor,301,20383,Outer Harbor to City,0,,1800
-Outer Harbor,301,20384,Outer Harbor to City,0,,1800
-Outer Harbor,301,20385,Outer Harbor to City,0,,1800
-Outer Harbor,301,20386,Outer Harbor to City,0,,1800
-Outer Harbor,301,20387,Outer Harbor to City,0,,1800
-Outer Harbor,301,20388,Outer Harbor to City,0,,1800
-Outer Harbor,301,20389,Outer Harbor to City,0,,1800
-Outer Harbor,301,20390,Outer Harbor to City,0,,1800
-Outer Harbor,301,20391,Outer Harbor to City,0,,1800
-Outer Harbor,301,20392,Outer Harbor to City,0,,1800
-Outer Harbor,301,20393,Outer Harbor to City,0,,1232
-Outer Harbor,301,20394,Outer Harbor to City,0,,1232
-Outer Harbor,301,20395,Outer Harbor to City,0,,1232
 Outer Harbor,1,20396,Outer Harbor to City,0,,1232
 Outer Harbor,1,20397,Outer Harbor to City,0,,1232
 Outer Harbor,1,20398,Outer Harbor to City,0,,1232
-Glanville,301,20399,Glanville to City,0,,1191
-Outer Harbor,301,20400,Outer Harbor to City,0,,1800
-Outer Harbor,301,20401,Outer Harbor to City,0,,1800
-Outer Harbor,301,20402,Outer Harbor to City,0,,1800
-Outer Harbor,301,20403,Outer Harbor to City,0,,1232
 Outer Harbor,1,20404,Outer Harbor to City,0,,1232
 Outer Harbor,1,20405,Outer Harbor to City,0,,1232
 Outer Harbor,1,20406,Outer Harbor to City,0,,1232
@@ -446,36 +370,6 @@ Outer Harbor,1,20408,Outer Harbor to City,0,,1232
 Outer Harbor,1,20409,Outer Harbor to City,0,,1232
 Outer Harbor,1,20410,Outer Harbor to City,0,,1234
 Outer Harbor,1,20411,Outer Harbor to City,0,,1234
-Grange,301,20484,Grange to City,0,,1196
-Grange,301,20486,Grange to City,0,,1196
-Grange,301,20488,Grange to City,0,,1196
-Grange,301,20490,Grange to City,0,,1196
-Grange,301,20492,Grange to City,0,,1196
-Grange,301,20494,Grange to City,0,,1196
-Grange,301,20496,Grange to City,0,,1196
-Grange,301,20498,Grange to City,0,,1196
-Grange,301,20501,Grange to City,0,,1196
-Grange,301,20503,Grange to City,0,,1196
-Grange,301,20505,Grange to City,0,,1196
-Grange,301,20507,Grange to City,0,,1196
-Grange,301,20509,Grange to City,0,,1196
-Grange,301,20511,Grange to City,0,,1196
-Grange,301,20513,Grange to City,0,,1196
-Grange,301,20515,Grange to City,0,,1196
-Grange,301,20517,Grange to City,0,,1196
-Grange,301,20519,Grange to City,0,,1196
-Grange,301,20521,Grange to City,0,,1196
-Grange,301,20523,Grange to City,0,,1196
-Grange,301,20524,Grange to City,0,,1196
-Grange,301,20526,Grange to City,0,,1196
-Grange,301,20528,Grange to City,0,,1196
-Grange,301,20530,Grange to City,0,,1196
-Grange,301,20531,Grange to City,0,,1196
-Grange,301,20533,Grange to City,0,,1196
-Grange,301,20535,Grange to City,0,,1196
-Grange,301,20537,Grange to City,0,,1196
-Grange,301,20539,Grange to City,0,,1196
-Grange,301,20541,Grange to City,0,,1196
 Grange,1,20544,Grange to City,0,,1196
 Grange,1,20547,Grange to City,0,,1196
 Grange,1,20549,Grange to City,0,,1196
@@ -487,79 +381,37 @@ Noarlunga,1,20706,City to Noarlunga,1,,1225
 Brighton,1,20707,City to Brighton,1,,1151
 Noarlunga,1,20708,City to Noarlunga,1,,1790
 Brighton,1,20709,City to Brighton,1,,1151
-Tonsley,301,20710,City to Tonsley,1,,1805
 Noarlunga,1,20711,City to Noarlunga,1,,1790
 Brighton,1,20712,City to Brighton,1,,1151
 Noarlunga,1,20713,City to Noarlunga,1,,1790
-Tonsley,301,20714,City to Tonsley,1,,1306
-Brighton,301,20715,City to Brighton,1,,1150
-Tonsley,301,20716,City to Tonsley,1,,1304
-Brighton,301,20717,City to Brighton,1,,1152
 Noarlunga,1,20718,City to Noarlunga,1,,1790
-Tonsley,301,20719,City to Tonsley,1,,1304
-Noarlunga,301,20720,City to Noarlunga,1,,1219
-Tonsley,301,20721,City to Tonsley,1,,1304
-Noarlunga,301,20722,City to Noarlunga,1,,1797
-Tonsley,301,20723,City to Tonsley,1,,1304
-Noarlunga,301,20724,City to Noarlunga,1,,1788
 Noarlunga,1,20725,City to Noarlunga,1,,1224
 Noarlunga,1,20726,City to Noarlunga,1,,1788
-Tonsley,301,20727,City to Tonsley,1,,1304
 Noarlunga,1,20728,City to Noarlunga,1,,1224
 Noarlunga,1,20729,City to Noarlunga,1,,1788
 Noarlunga,1,20730,City to Noarlunga,1,,1224
 Noarlunga,1,20731,City to Noarlunga,1,,1788
-Tonsley,301,20732,City to Tonsley,1,,1304
 Noarlunga,1,20733,City to Noarlunga,1,,1789
 Noarlunga,1,20734,City to Noarlunga,1,,1788
-Brighton,301,20735,City to Brighton,1,,1150
-Noarlunga,301,20736,City to Noarlunga,1,,1788
-Tonsley,301,20737,City to Tonsley,1,,1304
-Brighton,301,20738,City to Brighton,1,,1150
-Noarlunga,301,20739,City to Noarlunga,1,,1788
-Brighton,301,20740,City to Brighton,1,,1150
-Noarlunga,301,20741,City to Noarlunga,1,,1788
-Tonsley,301,20742,City to Tonsley,1,,1304
-Brighton,301,20743,City to Brighton,1,,1150
-Noarlunga,301,20744,City to Noarlunga,1,,1788
-Brighton,301,20745,City to Brighton,1,,1150
-Noarlunga,301,20746,City to Noarlunga,1,,1788
-Tonsley,301,20747,City to Tonsley,1,,1304
-Brighton,301,20748,City to Brighton,1,,1150
-Noarlunga,301,20749,City to Noarlunga,1,,1788
 Noarlunga,1,20750,City to Noarlunga,1,,1789
 Noarlunga,1,20751,City to Noarlunga,1,,1788
-Tonsley,301,20752,City to Tonsley,1,,1304
 Noarlunga,1,20753,City to Noarlunga,1,,8746
 Noarlunga,1,20754,City to Noarlunga,1,,1788
 Noarlunga,1,20755,City to Noarlunga,1,,1789
 Noarlunga,1,20756,City to Noarlunga,1,,1788
-Tonsley,301,20757,City to Tonsley,1,,1304
 Noarlunga,1,20758,City to Noarlunga,1,,1788
 Brighton,1,20759,City to Brighton,1,,1151
 Noarlunga,1,20760,City to Noarlunga,1,,1798
 Noarlunga,1,20761,City to Noarlunga,1,,1225
-Tonsley,301,20762,City to Tonsley,1,,1307
-Brighton,301,20763,City to Brighton,1,,1152
 Noarlunga,1,20764,City to Noarlunga,1,,1788
 Noarlunga,1,20765,City to Noarlunga,1,,1788
 Brighton,1,20766,City to Brighton,1,,1151
 Noarlunga,1,20767,City to Noarlunga,1,,1790
-Tonsley,301,20768,City to Tonsley,1,,1304
-Brighton,301,20769,City to Brighton,1,,1152
 Noarlunga,1,20770,City to Noarlunga,1,,1799
-Tonsley,301,20771,City to Tonsley,1,,1304
 Noarlunga,1,20772,City to Noarlunga,1,,1223
-Noarlunga,301,20773,City to Noarlunga,1,,1796
 Noarlunga,1,20774,City to Noarlunga,1,,1219
-Tonsley,301,20775,City to Tonsley,1,,1304
-Noarlunga,301,20776,City to Noarlunga,1,,1219
 Noarlunga,1,20777,City to Noarlunga,1,,1223
-Tonsley,301,20778,City to Tonsley,1,,1304
 Noarlunga,1,20779,City to Noarlunga,1,,1795
-Noarlunga,301,20780,City to Noarlunga,1,,1219
-Tonsley,301,20781,City to Tonsley,1,,1304
-Noarlunga,301,20782,City to Noarlunga,1,,1219
 Noarlunga,1,20783,City to Noarlunga,1,,1794
 Noarlunga,1,20784,City to Noarlunga,1,,1218
 Noarlunga,1,20785,City to Noarlunga,1,,1794
@@ -573,36 +425,14 @@ Noarlunga,1,20792,City to Noarlunga,1,,1218
 Outer Harbor,1,20833,City to Outer Harbor,1,,1238
 Outer Harbor,1,20834,City to Outer Harbor,1,,1238
 Outer Harbor,1,20835,City to Outer Harbor,1,,1238
-Outer Harbor,301,20836,City to Outer Harbor,1,,1802
-Outer Harbor,301,20837,City to Outer Harbor,1,,1802
 Outer Harbor,1,20838,City to Outer Harbor,1,,1236
 Outer Harbor,1,20839,City to Outer Harbor,1,,1236
 Glanville,1,20841,City to Glanville,1,,7331
 Glanville,1,20843,City to Glanville,1,,7331
 Outer Harbor,1,20844,City to Outer Harbor,1,,1236
-Outer Harbor,301,20845,City to Outer Harbor,1,,1236
-Outer Harbor,301,20846,City to Outer Harbor,1,,1802
-Outer Harbor,301,20847,City to Outer Harbor,1,,1802
-Outer Harbor,301,20848,City to Outer Harbor,1,,1802
-Outer Harbor,301,20849,City to Outer Harbor,1,,1802
-Outer Harbor,301,20850,City to Outer Harbor,1,,1802
-Outer Harbor,301,20851,City to Outer Harbor,1,,1802
-Outer Harbor,301,20852,City to Outer Harbor,1,,1802
-Outer Harbor,301,20853,City to Outer Harbor,1,,1802
-Outer Harbor,301,20854,City to Outer Harbor,1,,1802
-Outer Harbor,301,20855,City to Outer Harbor,1,,1802
-Outer Harbor,301,20856,City to Outer Harbor,1,,1802
-Outer Harbor,301,20857,City to Outer Harbor,1,,1802
-Outer Harbor,301,20858,City to Outer Harbor,1,,1802
-Outer Harbor,301,20859,City to Outer Harbor,1,,1236
 Outer Harbor,1,20860,City to Outer Harbor,1,,1236
 Outer Harbor,1,20861,City to Outer Harbor,1,,1236
-Outer Harbor,301,20862,City to Outer Harbor,1,,1802
-Glanville,301,20863,City to Glanville,1,,1787
-Outer Harbor,301,20864,City to Outer Harbor,1,,1240
 Outer Harbor,1,20865,City to Outer Harbor,1,,1802
-Outer Harbor,301,20866,City to Outer Harbor,1,,1802
-Outer Harbor,301,20867,City to Outer Harbor,1,,1802
 Outer Harbor,1,20868,City to Outer Harbor,1,,1236
 Outer Harbor,1,20869,City to Outer Harbor,1,,1236
 Outer Harbor,1,20870,City to Outer Harbor,1,,1236
@@ -610,36 +440,6 @@ Outer Harbor,1,20871,City to Outer Harbor,1,,1236
 Outer Harbor,1,20872,City to Outer Harbor,1,,1236
 Outer Harbor,1,20873,City to Outer Harbor,1,,1236
 Outer Harbor,1,20874,City to Outer Harbor,1,,1236
-Grange,301,20944,City to Grange,1,,1199
-Grange,301,20946,City to Grange,1,,1198
-Grange,301,20949,City to Grange,1,,1198
-Grange,301,20951,City to Grange,1,,1198
-Grange,301,20953,City to Grange,1,,1198
-Grange,301,20956,City to Grange,1,,1198
-Grange,301,20959,City to Grange,1,,1198
-Grange,301,20961,City to Grange,1,,1198
-Grange,301,20963,City to Grange,1,,1198
-Grange,301,20964,City to Grange,1,,1198
-Grange,301,20966,City to Grange,1,,1198
-Grange,301,20968,City to Grange,1,,1198
-Grange,301,20970,City to Grange,1,,1198
-Grange,301,20972,City to Grange,1,,1198
-Grange,301,20974,City to Grange,1,,1198
-Grange,301,20976,City to Grange,1,,1198
-Grange,301,20978,City to Grange,1,,1198
-Grange,301,20980,City to Grange,1,,1198
-Grange,301,20982,City to Grange,1,,1198
-Grange,301,20984,City to Grange,1,,1198
-Grange,301,20986,City to Grange,1,,1198
-Grange,301,20988,City to Grange,1,,1198
-Grange,301,20990,City to Grange,1,,1198
-Grange,301,20992,City to Grange,1,,1198
-Grange,301,20994,City to Grange,1,,1198
-Grange,301,20996,City to Grange,1,,1198
-Grange,301,20998,City to Grange,1,,1198
-Grange,301,21000,City to Grange,1,,1198
-Grange,301,21002,City to Grange,1,,1198
-Grange,301,21004,City to Grange,1,,1198
 Grange,1,21007,City to Grange,1,,1198
 Grange,1,21009,City to Grange,1,,1198
 Grange,1,21011,City to Grange,1,,1198
@@ -1086,7 +886,6 @@ Tram,1,59004,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59005,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59006,Entertainment Centre to Glenelg via City,1,,7364
 Tram,1,59007,Entertainment Centre to Glenelg via City,1,,7364
-Outer Harbor,301,59366,City to Outer Harbor,1,,7332
 Outer Harbor,1,59367,City to Outer Harbor,1,,7332
 Outer Harbor,13,59924,Outer Harbor to City,0,,1801
 506,1,60200,Modbury North to Paradise Interchange via Kelly Rd and Wandana Ave,0,5S1007,4140
@@ -4392,6 +4191,7 @@ M44G,13,65587,Marion Shopping Centre to Golden Grove Interchange via Marion Rd C
 835,1,65729,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61340,6516
 835,1,65730,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
 835,1,65731,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
+835,21,65732,Lobethal to Mt Barker via Riverview Rd and Onkaparinga Valley Rd,0,61363,6516
 834A,1,65733,Lobethal to Verdun Junction via Onkaparinga Valley Rd,0,61357,6514
 835A,1,65734,Mt Barker to Lobethal via Onkaparinga Valley Rd,1,61340,7339
 835,1,65735,Mt Barker to Lobethal via Onkaparinga Valley Rd and Riverview Rd,1,61363,6517
@@ -4908,12 +4708,12 @@ T863,1,66044,City to Aldgate 44 via Pulteney St and Stirling limited Stop servic
 893,1,66246,Aldgate 44 to Blackwood Station via Upper Sturt Rd Belair and Main Rd,0,61011,6618
 894,1,66247,Crafers Ramp 24  to Blackwood Station via Stirling and Upper Sturt Rd,0,61004,7899
 894H,1,66248,Aldgate 44 to Blackwood Station via Stirling and Upper Sturt Rd,0,61018,5785
-894,1,66249,Stirling 36 to Blackwood Station via Upper Sturt Rd,0,,6588
-894,1,66250,Stirling 36 to Blackwood Station via Upper Sturt Rd,0,61004,6588
+894S,1,66249,Stirling 36 to Blackwood Station via Upper Sturt Rd,0,,6588
+894S,1,66250,Stirling 36 to Blackwood Station via Upper Sturt Rd,0,61004,6588
 894,1,66251,Blackwood Station to Aldgate 44 via Upper Sturt Rd and Stirling ,1,61004,6585
 894H,1,66252,Blackwood Station to Aldgate 44 via Upper Sturt Rd and Heathfield,1,61011,6619
-894,1,66253,Blackwood Station to Stirling 36 via Upper Sturt Rd and Crafers,1,61018,8137
-894,1,66254,Blackwood Station to Stirling 36 via Upper Sturt Rd and Crafers,1,61004,8137
+894S,1,66253,Blackwood Station to Stirling 36 via Upper Sturt Rd and Crafers,1,61018,8137
+894S,1,66254,Blackwood Station to Stirling 36 via Upper Sturt Rd and Crafers,1,61004,8137
 894,1,66255,Blackwood Station to Crafers Ramp 24 via Upper Sturt Rd and Stirling ,1,,8138
 T840,1,66256,Mount Barker to City via Pulteney St limited Stop service,0,61342,7905
 T840,1,66257,Mount Barker to City via Pulteney St limited Stop service,0,61344,7905
@@ -9785,12 +9585,10 @@ G10,13,74967,Bedford Park to Prospect Rd 24 via City,0,5S5658,8079
 222,1,75197,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41167,7020
 222,1,75198,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41139,7020
 222,1,75199,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41465,7020
-222,43,75200,Roma Mitchell Secondary College to City via Main North Road and O'Connell Street,0,,7022
 222,1,75201,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41152,7020
 222,1,75202,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42269,7020
 222,1,75203,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41477,7020
 222,1,75204,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42275,7020
-222,44,75205,Roma Mitchell Secondary College to City via Main North Road and O'Connell Street,0,,7022
 222,1,75206,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,42264,7020
 222,1,75207,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41150,7020
 222,1,75208,Mawson Interchange to City via Mawson Lakes Boulevard Main North Rd and O'Connell St,0,41126,7020
@@ -11559,125 +11357,125 @@ N502,51,77068,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77069,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77070,City via Bridge Rd and O-Bahn,0,,8352
 N502,51,77071,City via Bridge Rd and O-Bahn,0,,8352
-Mawson,1,77096,Mawson Interchange,1,,8410
-Mawson,1,77097,Mawson Interchange,1,,8410
-Mawson,1,77098,Mawson Interchange,1,,8410
-Mawson,1,77099,Mawson Interchange,1,,8410
-Mawson,1,77100,Mawson Interchange,1,,8410
-Mawson,1,77101,Mawson Interchange,1,,8410
-Mawson,1,77102,Mawson Interchange,1,,8542
-Mawson,1,77103,Mawson Interchange,1,,8416
-Mawson,1,77104,Mawson Interchange,1,,8417
-Mawson,1,77105,Mawson Interchange,1,,8416
-Mawson,1,77106,Mawson Interchange,1,,8417
-Mawson,1,77107,Mawson Interchange,1,,8416
-Mawson,1,77108,Mawson Interchange,1,,8417
-Mawson,1,77109,Mawson Interchange,1,,8416
-Mawson,1,77110,Mawson Interchange,1,,8417
-Mawson,1,77111,Mawson Interchange,1,,8416
-Mawson,1,77112,Mawson Interchange,1,,8417
-Mawson,1,77113,Mawson Interchange,1,,8416
-Mawson,1,77114,Mawson Interchange,1,,8417
-Mawson,1,77115,Mawson Interchange,1,,8416
-Mawson,1,77116,Mawson Interchange,1,,8417
-Mawson,1,77117,Mawson Interchange,1,,8416
-Mawson,1,77118,Mawson Interchange,1,,8417
-Mawson,1,77119,Mawson Interchange,1,,8416
-Mawson,1,77120,Mawson Interchange,1,,8417
-Mawson,1,77121,Mawson Interchange,1,,8416
-Mawson,1,77122,Mawson Interchange,1,,8417
-Mawson,1,77123,Mawson Interchange,1,,8416
-Mawson,1,77124,Mawson Interchange,1,,8417
-Mawson,1,77125,Mawson Interchange,1,,8416
-Mawson,1,77126,Mawson Interchange,1,,8417
-Mawson,1,77127,Mawson Interchange,1,,8416
-Mawson,1,77128,Mawson Interchange,1,,8417
-Mawson,1,77129,Mawson Interchange,1,,8416
-Mawson,1,77130,Mawson Interchange,1,,8417
-Mawson,1,77131,Mawson Interchange,1,,8416
-Mawson,1,77132,Mawson Interchange,1,,8417
-Mawson,1,77133,Mawson Interchange,1,,8416
-Mawson,1,77134,Mawson Interchange,1,,8417
-Mawson,1,77135,Mawson Interchange,1,,8416
-Mawson,1,77136,Mawson Interchange,1,,8417
-Mawson,1,77137,Mawson Interchange,1,,8416
-Mawson,1,77138,Mawson Interchange,1,,8552
-Mawson,1,77139,Mawson Interchange,1,,8412
-Mawson,1,77140,Mawson Interchange,1,,8542
-Mawson,1,77141,Mawson Interchange,1,,8412
-Mawson,1,77142,Mawson Interchange,1,,8410
-Mawson,1,77143,Mawson Interchange,1,,8412
-Mawson,1,77144,Mawson Interchange,1,,8410
-Mawson,1,77145,Mawson Interchange,1,,8416
-Mawson,1,77146,Mawson Interchange,1,,8417
-Mawson,1,77147,Mawson Interchange,1,,8416
-Mawson,1,77148,Mawson Interchange,1,,8410
-Mawson,1,77149,Mawson Interchange,1,,8410
-Mawson,1,77150,Mawson Interchange,1,,8410
-Mawson,1,77151,Mawson Interchange,1,,8410
+Mawson,575,77096,Mawson Interchange,1,,8410
+Mawson,575,77097,Mawson Interchange,1,,8410
+Mawson,575,77098,Mawson Interchange,1,,8410
+Mawson,575,77099,Mawson Interchange,1,,8410
+Mawson,575,77100,Mawson Interchange,1,,8410
+Mawson,575,77101,Mawson Interchange,1,,8410
+Mawson,575,77102,Mawson Interchange,1,,8542
+Mawson,575,77103,Mawson Interchange,1,,8416
+Mawson,575,77104,Mawson Interchange,1,,8417
+Mawson,575,77105,Mawson Interchange,1,,8416
+Mawson,575,77106,Mawson Interchange,1,,8417
+Mawson,575,77107,Mawson Interchange,1,,8416
+Mawson,575,77108,Mawson Interchange,1,,8417
+Mawson,575,77109,Mawson Interchange,1,,8416
+Mawson,575,77110,Mawson Interchange,1,,8417
+Mawson,575,77111,Mawson Interchange,1,,8416
+Mawson,575,77112,Mawson Interchange,1,,8417
+Mawson,575,77113,Mawson Interchange,1,,8416
+Mawson,575,77114,Mawson Interchange,1,,8417
+Mawson,575,77115,Mawson Interchange,1,,8416
+Mawson,575,77116,Mawson Interchange,1,,8417
+Mawson,575,77117,Mawson Interchange,1,,8416
+Mawson,575,77118,Mawson Interchange,1,,8417
+Mawson,575,77119,Mawson Interchange,1,,8416
+Mawson,575,77120,Mawson Interchange,1,,8417
+Mawson,575,77121,Mawson Interchange,1,,8416
+Mawson,575,77122,Mawson Interchange,1,,8417
+Mawson,575,77123,Mawson Interchange,1,,8416
+Mawson,575,77124,Mawson Interchange,1,,8417
+Mawson,575,77125,Mawson Interchange,1,,8416
+Mawson,575,77126,Mawson Interchange,1,,8417
+Mawson,575,77127,Mawson Interchange,1,,8416
+Mawson,575,77128,Mawson Interchange,1,,8417
+Mawson,575,77129,Mawson Interchange,1,,8416
+Mawson,575,77130,Mawson Interchange,1,,8417
+Mawson,575,77131,Mawson Interchange,1,,8416
+Mawson,575,77132,Mawson Interchange,1,,8417
+Mawson,575,77133,Mawson Interchange,1,,8416
+Mawson,575,77134,Mawson Interchange,1,,8417
+Mawson,575,77135,Mawson Interchange,1,,8416
+Mawson,575,77136,Mawson Interchange,1,,8417
+Mawson,575,77137,Mawson Interchange,1,,8416
+Mawson,575,77138,Mawson Interchange,1,,8552
+Mawson,575,77139,Mawson Interchange,1,,8412
+Mawson,575,77140,Mawson Interchange,1,,8542
+Mawson,575,77141,Mawson Interchange,1,,8412
+Mawson,575,77142,Mawson Interchange,1,,8410
+Mawson,575,77143,Mawson Interchange,1,,8412
+Mawson,575,77144,Mawson Interchange,1,,8410
+Mawson,575,77145,Mawson Interchange,1,,8416
+Mawson,575,77146,Mawson Interchange,1,,8417
+Mawson,575,77147,Mawson Interchange,1,,8416
+Mawson,575,77148,Mawson Interchange,1,,8410
+Mawson,575,77149,Mawson Interchange,1,,8410
+Mawson,575,77150,Mawson Interchange,1,,8410
+Mawson,575,77151,Mawson Interchange,1,,8410
 Mawson,571,77152,Mawson Interchange,1,,8410
 Mawson,575,77153,Mawson Interchange,1,,8410
 Mawson,575,77154,Mawson Interchange,1,,8410
 Mawson,575,77155,Mawson Interchange,1,,8410
-Mawson,1,77156,Adelaide,0,,8409
-Mawson,1,77157,Adelaide,0,,8409
-Mawson,1,77158,Adelaide,0,,8409
-Mawson,1,77159,Adelaide,0,,8409
-Mawson,1,77160,Adelaide,0,,8409
-Mawson,1,77161,Adelaide,0,,8411
-Mawson,1,77162,Adelaide,0,,8415
-Mawson,1,77163,Adelaide,0,,8411
-Mawson,1,77164,Adelaide,0,,8409
-Mawson,1,77165,Adelaide,0,,8411
-Mawson,1,77166,Adelaide,0,,8409
-Mawson,1,77167,Adelaide,0,,8411
-Mawson,1,77168,Adelaide,0,,8415
-Mawson,1,77169,Adelaide,0,,8413
-Mawson,1,77170,Adelaide,0,,8414
-Mawson,1,77171,Adelaide,0,,8413
-Mawson,1,77172,Adelaide,0,,8414
-Mawson,1,77173,Adelaide,0,,8413
-Mawson,1,77174,Adelaide,0,,8414
-Mawson,1,77175,Adelaide,0,,8413
-Mawson,1,77176,Adelaide,0,,8414
-Mawson,1,77177,Adelaide,0,,8413
-Mawson,1,77178,Adelaide,0,,8414
-Mawson,1,77179,Adelaide,0,,8413
-Mawson,1,77180,Adelaide,0,,8414
-Mawson,1,77181,Adelaide,0,,8413
-Mawson,1,77182,Adelaide,0,,8414
-Mawson,1,77183,Adelaide,0,,8413
-Mawson,1,77184,Adelaide,0,,8414
-Mawson,1,77185,Adelaide,0,,8413
-Mawson,1,77186,Adelaide,0,,8414
-Mawson,1,77187,Adelaide,0,,8413
-Mawson,1,77188,Adelaide,0,,8414
-Mawson,1,77189,Adelaide,0,,8413
-Mawson,1,77190,Adelaide,0,,8414
-Mawson,1,77191,Adelaide,0,,8413
-Mawson,1,77192,Adelaide,0,,8414
-Mawson,1,77193,Adelaide,0,,8413
-Mawson,1,77194,Adelaide,0,,8414
-Mawson,1,77195,Adelaide,0,,8413
-Mawson,1,77196,Adelaide,0,,8414
-Mawson,1,77197,Adelaide,0,,8413
-Mawson,1,77198,Adelaide,0,,8414
-Mawson,1,77199,Adelaide,0,,8413
-Mawson,1,77200,Adelaide,0,,8414
-Mawson,1,77201,Adelaide,0,,8413
-Mawson,1,77202,Adelaide,0,,8414
-Mawson,1,77203,Adelaide,0,,8413
-Mawson,1,77204,Adelaide,0,,8415
-Mawson,1,77205,Adelaide,0,,8415
-Mawson,1,77206,Adelaide,0,,8413
-Mawson,1,77207,Adelaide,0,,8414
-Mawson,1,77208,Adelaide,0,,8413
-Mawson,1,77209,Adelaide,0,,8414
-Mawson,1,77210,Adelaide,0,,8409
-Mawson,1,77211,Adelaide,0,,8409
-Mawson,1,77212,Adelaide,0,,8409
-Mawson,1,77213,Adelaide,0,,8409
-Mawson,1,77214,Adelaide,0,,8409
+Mawson,575,77156,Adelaide,0,,8409
+Mawson,575,77157,Adelaide,0,,8409
+Mawson,575,77158,Adelaide,0,,8409
+Mawson,575,77159,Adelaide,0,,8409
+Mawson,575,77160,Adelaide,0,,8409
+Mawson,575,77161,Adelaide,0,,8411
+Mawson,575,77162,Adelaide,0,,8415
+Mawson,575,77163,Adelaide,0,,8411
+Mawson,575,77164,Adelaide,0,,8409
+Mawson,575,77165,Adelaide,0,,8411
+Mawson,575,77166,Adelaide,0,,8409
+Mawson,575,77167,Adelaide,0,,8411
+Mawson,575,77168,Adelaide,0,,8415
+Mawson,575,77169,Adelaide,0,,8413
+Mawson,575,77170,Adelaide,0,,8414
+Mawson,575,77171,Adelaide,0,,8413
+Mawson,575,77172,Adelaide,0,,8414
+Mawson,575,77173,Adelaide,0,,8413
+Mawson,575,77174,Adelaide,0,,8414
+Mawson,575,77175,Adelaide,0,,8413
+Mawson,575,77176,Adelaide,0,,8414
+Mawson,575,77177,Adelaide,0,,8413
+Mawson,575,77178,Adelaide,0,,8414
+Mawson,575,77179,Adelaide,0,,8413
+Mawson,575,77180,Adelaide,0,,8414
+Mawson,575,77181,Adelaide,0,,8413
+Mawson,575,77182,Adelaide,0,,8414
+Mawson,575,77183,Adelaide,0,,8413
+Mawson,575,77184,Adelaide,0,,8414
+Mawson,575,77185,Adelaide,0,,8413
+Mawson,575,77186,Adelaide,0,,8414
+Mawson,575,77187,Adelaide,0,,8413
+Mawson,575,77188,Adelaide,0,,8414
+Mawson,575,77189,Adelaide,0,,8413
+Mawson,575,77190,Adelaide,0,,8414
+Mawson,575,77191,Adelaide,0,,8413
+Mawson,575,77192,Adelaide,0,,8414
+Mawson,575,77193,Adelaide,0,,8413
+Mawson,575,77194,Adelaide,0,,8414
+Mawson,575,77195,Adelaide,0,,8413
+Mawson,575,77196,Adelaide,0,,8414
+Mawson,575,77197,Adelaide,0,,8413
+Mawson,575,77198,Adelaide,0,,8414
+Mawson,575,77199,Adelaide,0,,8413
+Mawson,575,77200,Adelaide,0,,8414
+Mawson,575,77201,Adelaide,0,,8413
+Mawson,575,77202,Adelaide,0,,8414
+Mawson,575,77203,Adelaide,0,,8413
+Mawson,575,77204,Adelaide,0,,8415
+Mawson,575,77205,Adelaide,0,,8415
+Mawson,575,77206,Adelaide,0,,8413
+Mawson,575,77207,Adelaide,0,,8414
+Mawson,575,77208,Adelaide,0,,8413
+Mawson,575,77209,Adelaide,0,,8414
+Mawson,575,77210,Adelaide,0,,8409
+Mawson,575,77211,Adelaide,0,,8409
+Mawson,575,77212,Adelaide,0,,8409
+Mawson,575,77213,Adelaide,0,,8409
+Mawson,575,77214,Adelaide,0,,8409
 Mawson,571,77215,Adelaide,0,,8409
 Mawson,575,77216,Adelaide,0,,8409
 Mawson,575,77217,Adelaide,0,,8409
@@ -11873,28 +11671,28 @@ GA1,1,77406,Mawson Interchange,0,,8424
 GA2,1,77407,Mawson Interchange - limited stops,0,,8422
 GA1,1,77408,Mawson Interchange,0,,8424
 GA2,1,77409,Mawson Interchange - limited stops,0,,8422
-GA3,1,77410,Mawson Interchange - Express,0,,8420
-GA4,1,77411,Mawson Interchange - Express,0,,8418
+GA3,575,77410,Mawson Interchange - Express,0,,8420
+GA4,575,77411,Mawson Interchange - Express,0,,8418
 GA1,1,77412,Mawson Interchange,0,,8424
 GA2,1,77413,Mawson Interchange - limited stops,0,,8422
-GA3,1,77414,Mawson Interchange - Express,0,,8420
-GA4,1,77415,Mawson Interchange - Express,0,,8418
+GA3,575,77414,Mawson Interchange - Express,0,,8420
+GA4,575,77415,Mawson Interchange - Express,0,,8418
 GA1,1,77416,Mawson Interchange,0,,8424
 GA2,1,77417,Mawson Interchange - limited stops,0,,8422
-GA3,1,77418,Mawson Interchange - Express,0,,8420
-GA4,1,77419,Mawson Interchange - Express,0,,8418
+GA3,575,77418,Mawson Interchange - Express,0,,8420
+GA4,575,77419,Mawson Interchange - Express,0,,8418
 GA1,1,77421,Mawson Interchange,0,,8424
 GA2,1,77422,Mawson Interchange - limited stops,0,,8422
-GA3,1,77423,Mawson Interchange - Express,0,,8420
-GA4,1,77424,Mawson Interchange - Express,0,,8418
+GA3,575,77423,Mawson Interchange - Express,0,,8420
+GA4,575,77424,Mawson Interchange - Express,0,,8418
 GA1,1,77427,Mawson Interchange,0,,8424
 GA2,1,77428,Mawson Interchange - limited stops,0,,8422
-GA3,1,77429,Mawson Interchange - Express,0,,8420
-GA4,1,77430,Mawson Interchange - Express,0,,8418
+GA3,575,77429,Mawson Interchange - Express,0,,8420
+GA4,575,77430,Mawson Interchange - Express,0,,8418
 GA1,1,77433,Mawson Interchange,0,,8424
 GA2,1,77434,Mawson Interchange - limited stops,0,,8422
-GA3,1,77435,Mawson Interchange - Express,0,,8420
-GA4,1,77436,Mawson Interchange - Express,0,,8418
+GA3,575,77435,Mawson Interchange - Express,0,,8420
+GA4,575,77436,Mawson Interchange - Express,0,,8418
 GA1,1,77437,Mawson Interchange,0,,8424
 GA2,1,77438,Mawson Interchange - limited stops,0,,8422
 GA1,1,77439,Mawson Interchange,0,,8424
@@ -12061,64 +11859,64 @@ GA1,1,77605,Gawler Central Station,1,,8425
 GA2,1,77606,Gawler Central Station - limited stops,1,,8423
 GA1,1,77607,Gawler Central Station,1,,8425
 GA2,1,77608,Gawler Central Station - limited stops,1,,8423
-GA3,1,77609,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77610,Gawler Station - Express,1,,8419
+GA3,575,77609,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77610,Gawler Station - Express,1,,8419
 GA1,1,77611,Gawler Central Station,1,,8425
 GA2,1,77612,Gawler Central Station - limited stops,1,,8423
-GA3,1,77613,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77614,Gawler Station - Express,1,,8419
+GA3,575,77613,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77614,Gawler Station - Express,1,,8419
 GA1,1,77615,Gawler Central Station,1,,8425
 GA2,1,77616,Gawler Central Station - limited stops,1,,8423
-GA3,1,77617,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77618,Gawler Station - Express,1,,8419
+GA3,575,77617,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77618,Gawler Station - Express,1,,8419
 GA1,1,77619,Gawler Central Station,1,,8425
 GA2,1,77620,Gawler Central Station - limited stops,1,,8423
-GA3,1,77621,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77622,Gawler Station - Express,1,,8419
+GA3,575,77621,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77622,Gawler Station - Express,1,,8419
 GA1,1,77623,Gawler Central Station,1,,8425
 GA2,1,77624,Gawler Central Station - limited stops,1,,8423
-GA3,1,77625,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77626,Gawler Station - Express,1,,8419
+GA3,575,77625,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77626,Gawler Station - Express,1,,8419
 GA1,1,77627,Gawler Central Station,1,,8425
 GA2,1,77628,Gawler Central Station - limited stops,1,,8423
-GA3,1,77629,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77630,Gawler Station - Express,1,,8419
+GA3,575,77629,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77630,Gawler Station - Express,1,,8419
 GA1,1,77631,Gawler Central Station,1,,8425
 GA2,1,77632,Gawler Central Station - limited stops,1,,8423
-GA3,1,77633,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77634,Gawler Station - Express,1,,8419
+GA3,575,77633,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77634,Gawler Station - Express,1,,8419
 GA1,1,77635,Gawler Central Station,1,,8425
 GA2,1,77636,Gawler Central Station - limited stops,1,,8423
-GA3,1,77637,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77638,Gawler Station - Express,1,,8419
+GA3,575,77637,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77638,Gawler Station - Express,1,,8419
 GA1,1,77639,Gawler Central Station,1,,8425
 GA2,1,77640,Gawler Central Station - limited stops,1,,8423
-GA3,1,77641,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77642,Gawler Station - Express,1,,8419
+GA3,575,77641,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77642,Gawler Station - Express,1,,8419
 GA1,1,77643,Gawler Central Station,1,,8425
 GA2,1,77644,Gawler Central Station - limited stops,1,,8423
-GA3,1,77645,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77646,Gawler Station - Express,1,,8419
+GA3,575,77645,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77646,Gawler Station - Express,1,,8419
 GA1,1,77647,Gawler Central Station,1,,8425
 GA2,1,77648,Gawler Central Station - limited stops,1,,8423
-GA3,1,77649,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77650,Gawler Station - Express,1,,8419
+GA3,575,77649,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77650,Gawler Station - Express,1,,8419
 GA1,1,77651,Gawler Central Station,1,,8425
 GA2,1,77652,Gawler Central Station - limited stops,1,,8423
-GA3,1,77653,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77654,Gawler Station - Express,1,,8419
+GA3,575,77653,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77654,Gawler Station - Express,1,,8419
 GA1,1,77655,Gawler Central Station,1,,8425
 GA2,1,77656,Gawler Central Station - limited stops,1,,8423
-GA3,1,77657,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77658,Gawler Station - Express,1,,8419
+GA3,575,77657,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77658,Gawler Station - Express,1,,8419
 GA1,1,77659,Gawler Central Station,1,,8425
 GA2,1,77660,Gawler Central Station - limited stops,1,,8423
-GA3,1,77661,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77662,Gawler Station - Express,1,,8419
+GA3,575,77661,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77662,Gawler Station - Express,1,,8419
 GA1,1,77663,Gawler Central Station,1,,8425
 GA2,1,77664,Gawler Central Station - limited stops,1,,8423
-GA3,1,77665,Elizabeth Shopping Centre - Express,1,,8421
-GA4,1,77666,Gawler Station - Express,1,,8419
+GA3,575,77665,Elizabeth Shopping Centre - Express,1,,8421
+GA4,575,77666,Gawler Station - Express,1,,8419
 GA1,1,77667,Gawler Central Station,1,,8425
 GA2,1,77668,Gawler Central Station - limited stops,1,,8423
 GA1,1,77669,Gawler Central Station,1,,8425
@@ -15261,12 +15059,6 @@ HL2,5,81307,Windsor Ave to Mt Barker Kmart,1,,8610
 753H,1,81729,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
 753H,1,81730,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
 753H,1,81731,Willunga to Noarlunga Hospital via Main Rd Commercial Rd and Beach Rd,0,,5219
-680T,21,81732,Sheidow Park to Seacombe Gardens,0,,4884
-680R,27,81735,Seacombe Gardens to Sheidow Park,1,,4881
-680R,26,81736,Seacombe Gardens to Sheidow Park,1,,4881
-680R,21,81737,Sheidow Park to Seacombe Gardens,0,,4880
-680T,27,81738,Seacombe Gardens to Sheidow Park,1,,4885
-680T,26,81739,Seacombe Gardens to Sheidow Park,1,,4885
 Tram,13,81750,Glengowrie Stop 13 to Glenelg,1,,8660
 Tram,13,81751,Glengowrie Stop 13 to Glenelg,1,,8660
 Tram,13,81752,Glengowrie Stop 13 to Glenelg,1,,8660
@@ -15475,6 +15267,7 @@ RZ5,1,81925,Holden Hill Roam Zone Service,1,,
 100,1,81955,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,1,81956,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,1,81957,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
+100,31,81958,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,11,81959,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100,11,81960,Plympton 184 to Glen Osmond 19 via Cross Rd,1,,7679
 100P,1,81961,Arndale Interchange to Plympton 184 via Queen Elizabeth Hospital Grange Rd and Marion Rd,1,,7684
@@ -15712,270 +15505,834 @@ RZ5,1,81925,Holden Hill Roam Zone Service,1,,
 230,13,82196,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,,7948
 230,13,82197,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5679,7948
 230,13,82198,Port Adelaide to City via Addison Rd Arndale Shopping Centre and Harrison Rd,0,5S5573,7948
-701S,21,82211,School,0,,8683
-733,27,82213,School,1,,8685
-733,26,82214,School,1,,8685
-747,26,82218,Seaford Circuit clockwise to Colonnades,0,,5144
-747,27,82219,Seaford Circuit clockwise to Colonnades,0,,5144
 747,27,82220,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,,5038
 747,26,82221,Colonnades Shopping Centre - Seaford Circuit Clockwise to Colonnades Shopping Centre,0,,5038
-747,21,82222,Seaford Circuit clockwise to Colonnades,0,,3053
+GA1,593,82231,Gawler Station to City,0,,8687
+GA1,593,82232,Gawler Station to City,0,,8687
+GA2,593,82233,Gawler Central to City - limited stops,0,,8688
+GA2,593,82234,Gawler Central to City - limited stops,0,,8688
+GA1,593,82235,City to Gawler Station,1,,8689
+GA1,593,82236,City to Gawler Station,1,,8689
+GA2,593,82237,City to Gawler Central - limited stops,1,,8690
+GA2,593,82238,City to Gawler Central - limited stops,1,,8690
 Outer Harbor,13,82276,Outer Harbor to City,0,,1801
 Grange,13,82277,Grange to City,0,,8720
-Grange Sub,501,82287,Grange to Woodville,1,,8736
-Grange Sub,501,82288,Grange to Woodville,1,,8736
-Grange Sub,501,82289,Grange to Woodville,1,,8736
-Grange Sub,501,82290,Grange to Woodville,1,,8736
-Grange Sub,501,82291,Grange to Woodville,1,,8736
-Grange Sub,501,82292,Grange to Woodville,1,,8736
-Grange Sub,501,82293,Grange to Woodville,1,,8736
-Grange Sub,501,82294,Grange to Woodville,1,,8736
-Grange Sub,501,82295,Grange to Woodville,1,,8736
-Grange Sub,501,82296,Grange to Woodville,1,,8736
-Grange Sub,501,82297,Grange to Woodville,1,,8736
-Grange Sub,501,82298,Grange to Woodville,1,,8736
-Grange Sub,501,82299,Grange to Woodville,1,,8736
-Grange Sub,501,82300,Grange to Woodville,1,,8736
-Grange Sub,501,82301,Grange to Woodville,1,,8736
-Grange Sub,501,82302,Grange to Woodville,1,,8736
-Grange Sub,501,82303,Grange to Woodville,1,,8736
-Grange Sub,501,82304,Grange to Woodville,1,,8736
-Grange Sub,501,82305,Grange to Woodville,1,,8736
-Grange Sub,501,82306,Grange to Woodville,1,,8736
-Grange Sub,501,82307,Grange to Woodville,1,,8736
-Grange Sub,501,82308,Grange to Woodville,1,,8736
-Grange Sub,501,82309,Grange to Woodville,1,,8736
-Grange Sub,501,82310,Grange to Woodville,1,,8736
-Grange Sub,501,82311,Grange to Woodville,1,,8736
-Grange Sub,501,82312,Grange to Woodville,1,,8736
-Grange Sub,501,82313,Grange to Woodville,1,,8736
-Grange Sub,501,82314,Grange to Woodville,1,,8736
-Grange Sub,501,82315,Grange to Woodville,1,,8736
-Grange Sub,501,82316,Grange to Woodville,1,,8736
-Grange Sub,501,82317,Grange to Woodville,1,,8736
-Grange Sub,501,82318,Grange to Woodville,1,,8736
-Grange Sub,501,82319,Grange to Woodville,1,,8736
-Grange Sub,501,82320,Grange to Woodville,1,,8736
-Grange Sub,501,82321,Grange to Woodville,0,,8735
-Grange Sub,501,82322,Grange to Woodville,0,,8735
-Grange Sub,501,82323,Grange to Woodville,0,,8735
-Grange Sub,501,82324,Grange to Woodville,0,,8735
-Grange Sub,501,82325,Grange to Woodville,0,,8735
-Grange Sub,501,82326,Grange to Woodville,0,,8735
-Grange Sub,501,82327,Grange to Woodville,0,,8735
-Grange Sub,501,82328,Grange to Woodville,0,,8735
-Grange Sub,501,82329,Grange to Woodville,0,,8735
-Grange Sub,501,82330,Grange to Woodville,0,,8735
-Grange Sub,501,82331,Grange to Woodville,0,,8735
-Grange Sub,501,82332,Grange to Woodville,0,,8735
-Grange Sub,501,82333,Grange to Woodville,0,,8735
-Grange Sub,501,82334,Grange to Woodville,0,,8735
-Grange Sub,501,82335,Grange to Woodville,0,,8735
-Grange Sub,501,82336,Grange to Woodville,0,,8735
-Grange Sub,501,82337,Grange to Woodville,0,,8735
-Grange Sub,501,82338,Grange to Woodville,0,,8735
-Grange Sub,501,82339,Grange to Woodville,0,,8735
-Grange Sub,501,82340,Grange to Woodville,0,,8735
-Grange Sub,501,82341,Grange to Woodville,0,,8735
-Grange Sub,501,82342,Grange to Woodville,0,,8735
-Grange Sub,501,82343,Grange to Woodville,0,,8735
-Grange Sub,501,82344,Grange to Woodville,0,,8735
-Grange Sub,501,82345,Grange to Woodville,0,,8735
-Grange Sub,501,82346,Grange to Woodville,0,,8735
-Grange Sub,501,82347,Grange to Woodville,0,,8735
-Grange Sub,501,82348,Grange to Woodville,0,,8735
-Grange Sub,501,82349,Grange to Woodville,0,,8735
-Grange Sub,501,82350,Grange to Woodville,0,,8735
-Grange Sub,501,82351,Grange to Woodville,0,,8735
-Grange Sub,501,82352,Grange to Woodville,0,,8735
-Grange Sub,501,82353,Grange to Woodville,0,,8735
-Grange,501,82354,Woodville to Grange,1,,8730
-Outer Harbor,501,82355,City to Outer Harbor,1,,8726
-Grange,501,82356,Woodville to Grange,1,,8730
-Outer Harbor,501,82357,City to Outer Harbor,1,,8726
-Grange,501,82358,Woodville to Grange,1,,8730
-Grange,501,82359,Woodville to Grange,1,,8730
-Outer Harbor,501,82360,City to Outer Harbor,1,,8726
-Grange,501,82361,Woodville to Grange,1,,8730
-Glanville,501,82362,City to Glanville,1,,8729
-Grange,501,82363,Woodville to Grange,1,,8730
-Outer Harbor,501,82364,City to Outer Harbor,1,,8726
-Grange,501,82365,Woodville to Grange,1,,8730
-Outer Harbor,501,82366,City to Outer Harbor,1,,8726
-Grange,501,82367,Woodville to Grange,1,,8730
-Outer Harbor,501,82368,City to Outer Harbor,1,,8726
-Grange,501,82369,Woodville to Grange,1,,8730
-Outer Harbor,501,82370,City to Outer Harbor,1,,8726
-Grange,501,82371,Woodville to Grange,1,,8730
-Outer Harbor,501,82372,City to Outer Harbor,1,,8726
-Grange,501,82373,Woodville to Grange,1,,8730
-Outer Harbor,501,82374,City to Outer Harbor,1,,8726
-Grange,501,82375,Woodville to Grange,1,,8730
-Outer Harbor,501,82376,City to Outer Harbor,1,,8726
-Grange,501,82377,Woodville to Grange,1,,8730
-Outer Harbor,501,82378,City to Outer Harbor,1,,8726
-Grange,501,82379,Woodville to Grange,1,,8730
-Outer Harbor,501,82380,City to Outer Harbor,1,,8726
-Grange,501,82381,Woodville to Grange,1,,8730
-Outer Harbor,501,82382,City to Outer Harbor,1,,8726
-Grange,501,82383,Woodville to Grange,1,,8730
-Outer Harbor,501,82384,City to Outer Harbor,1,,8726
-Grange,501,82385,Woodville to Grange,1,,8730
-Outer Harbor,501,82386,City to Outer Harbor,1,,8726
-Grange,501,82387,Woodville to Grange,1,,8730
-Outer Harbor,501,82388,City to Outer Harbor,1,,8726
-Grange,501,82389,Woodville to Grange,1,,8730
-Outer Harbor,501,82390,City to Outer Harbor,1,,8726
-Grange,501,82391,Woodville to Grange,1,,8730
-Outer Harbor,501,82392,City to Outer Harbor,1,,8726
-Grange,501,82393,Woodville to Grange,1,,8730
-Grange,501,82394,Woodville to Grange,1,,8730
-Grange,501,82395,Woodville to Grange,1,,8730
-Outer Harbor,501,82396,City to Outer Harbor,1,,8726
-Grange,501,82397,Woodville to Grange,1,,8730
-Outer Harbor,501,82398,City to Outer Harbor,1,,8727
-Glanville,501,82399,City to Glanville,1,,8728
-Grange,501,82400,Woodville to Grange,1,,8730
-Glanville,501,82401,City to Glanville,1,,8728
-Outer Harbor,501,82402,City to Outer Harbor,1,,8726
-Grange,501,82403,Woodville to Grange,1,,8730
-Outer Harbor,501,82404,City to Outer Harbor,1,,8726
-Grange,501,82405,Grange to Woodville,0,,8737
-Grange,501,82406,Grange to Woodville,0,,8737
-Outer Harbor,501,82407,Outer Harbor to City,0,,8731
-Grange,501,82408,Grange to Woodville,0,,8737
-Outer Harbor,501,82409,Outer Harbor to City,0,,8731
-Outer Harbor,501,82410,Outer Harbor to City,0,,8731
-Grange,501,82411,Grange to Woodville,0,,8737
-Outer Harbor,501,82412,Outer Harbor to City,0,,8731
-Glanville,501,82413,Glanville to City,0,,8733
-Grange,501,82414,Grange to Woodville,0,,8737
-Outer Harbor,501,82415,Outer Harbor to City,0,,8732
-Glanville,501,82416,Glanville to City,0,,8733
-Glanville,501,82417,Glanville to City,0,,8733
-Grange,501,82418,Grange to Woodville,0,,8737
-Grange,501,82419,Grange to Woodville,0,,8737
-Outer Harbor,501,82420,Outer Harbor to City,0,,8731
-Grange,501,82421,Grange to Woodville,0,,8737
-Outer Harbor,501,82422,Outer Harbor to City,0,,8731
-Grange,501,82423,Grange to Woodville,0,,8737
-Outer Harbor,501,82424,Outer Harbor to City,0,,8731
-Grange,501,82425,Grange to Woodville,0,,8737
-Outer Harbor,501,82426,Outer Harbor to City,0,,8731
-Grange,501,82427,Grange to Woodville,0,,8737
-Outer Harbor,501,82428,Outer Harbor to City,0,,8731
-Grange,501,82429,Grange to Woodville,0,,8737
-Outer Harbor,501,82430,Outer Harbor to City,0,,8731
-Grange,501,82431,Grange to Woodville,0,,8737
-Outer Harbor,501,82432,Outer Harbor to City,0,,8731
-Grange,501,82433,Grange to Woodville,0,,8737
-Outer Harbor,501,82434,Outer Harbor to City,0,,8731
-Grange,501,82435,Grange to Woodville,0,,8737
-Outer Harbor,501,82436,Outer Harbor to City,0,,8731
-Grange,501,82437,Grange to Woodville,0,,8737
-Outer Harbor,501,82438,Outer Harbor to City,0,,8731
-Grange,501,82439,Grange to Woodville,0,,8737
-Outer Harbor,501,82440,Outer Harbor to City,0,,8731
-Grange,501,82441,Grange to Woodville,0,,8737
-Outer Harbor,501,82442,Outer Harbor to City,0,,8731
-Grange,501,82443,Grange to Woodville,0,,8737
-Outer Harbor,501,82444,Outer Harbor to City,0,,8731
-Grange,501,82445,Grange to Woodville,0,,8737
-Outer Harbor,501,82446,Outer Harbor to City,0,,8731
-Grange,501,82447,Grange to Woodville,0,,8737
-Outer Harbor,501,82448,Outer Harbor to City,0,,8731
-Grange,501,82449,Grange to Woodville,0,,8737
-Grange,501,82450,Grange to Woodville,0,,8737
-Grange,501,82451,Grange to Woodville,0,,8737
-Outer Harbor,501,82452,Outer Harbor to City,0,,8731
-Glanville,501,82453,Glanville to City,0,,8734
-Grange,501,82454,Grange to Woodville,0,,8737
-Outer Harbor,501,82455,Outer Harbor to City,0,,8731
-Glanville,501,82456,Glanville to City,0,,8734
-Outer Harbor,501,82457,Outer Harbor to City,0,,8731
-Grange,501,82458,Grange to City,0,,1196
-Outer Harbor,501,82459,Outer Harbor to City,0,,8731
-Tonsley Sub,501,82460,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82461,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82462,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82463,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82464,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82465,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82466,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82467,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82468,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82469,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82470,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82471,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82472,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82473,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82474,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82475,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82476,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82477,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82478,Tonsley to Woodlands Park,0,,8752
-Tonsley Sub,501,82479,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82480,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82481,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82482,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82483,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82484,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82485,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82486,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82487,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82488,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82489,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82490,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82491,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82492,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82493,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82494,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82495,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82496,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82497,Woodlands Park to Tonsley,1,,8751
-Tonsley Sub,501,82498,Woodlands Park to Tonsley,1,,8751
-Brighton,501,82499,Brighton to City,0,,8743
-Brighton,501,82500,Brighton to City,0,,8743
-Brighton,501,82501,Brighton to City,0,,8743
-Brighton,501,82502,Brighton to City,0,,8743
-Noarlunga,501,82503,Noarlunga to City,0,,8738
-Noarlunga,501,82504,Noarlunga to City,0,,8738
-Noarlunga,501,82505,Noarlunga to City,0,,8739
-Noarlunga,501,82506,Noarlunga to City,0,,8739
-Noarlunga,501,82507,Noarlunga to City,0,,8738
-Noarlunga,501,82508,Noarlunga to City,0,,8738
-Noarlunga,501,82509,Noarlunga to City,0,,8738
-Noarlunga,501,82510,Noarlunga to City,0,,8740
-Noarlunga,501,82511,Noarlunga to City,0,,8738
-Noarlunga,501,82512,Noarlunga to City,0,,8740
-Noarlunga,501,82513,Noarlunga to City,0,,8739
-Noarlunga,501,82514,Noarlunga to City,0,,8738
-Brighton,501,82515,Brighton to City,0,,8743
-Brighton,501,82516,Brighton to City,0,,8743
-Brighton,501,82517,Brighton to City,0,,8743
-Noarlunga,501,82518,Noarlunga to City,0,,8741
-Brighton,501,82519,Brighton to City,0,,8744
-Noarlunga,501,82520,Noarlunga to City,0,,8738
-Noarlunga,501,82521,Noarlunga to City,0,,8738
-Noarlunga,501,82522,Noarlunga to City,0,,8738
-Noarlunga,501,82523,Noarlunga to City,0,,8742
-Brighton,501,82525,City to Brighton,1,,8749
-Brighton,501,82526,City to Brighton,1,,8749
-Noarlunga,501,82527,City to Noarlunga,1,,8745
-Noarlunga,501,82528,City to Noarlunga,1,,8746
-Noarlunga,501,82529,City to Noarlunga,1,,8747
-Noarlunga,501,82530,City to Noarlunga,1,,8745
-Noarlunga,501,82531,City to Noarlunga,1,,8745
-Noarlunga,501,82532,City to Noarlunga,1,,8745
-Noarlunga,501,82533,City to Noarlunga,1,,8745
-Noarlunga,501,82534,City to Noarlunga,1,,8745
-Noarlunga,501,82535,City to Noarlunga,1,,8745
-Brighton,501,82536,City to Brighton,1,,8750
-Brighton,501,82537,City to Brighton,1,,8749
-Noarlunga,501,82538,City to Noarlunga,1,,8748
-Noarlunga,501,82539,City to Noarlunga,1,,8745
-Noarlunga,501,82540,City to Noarlunga,1,,8745
-Noarlunga,501,82541,City to Noarlunga,1,,8745
-Brighton,501,82542,City to Brighton,1,,8753
+Grange Sub,1,82287,Grange to Woodville,1,,8736
+Grange Sub,1,82288,Grange to Woodville,1,,8736
+Grange Sub,1,82289,Grange to Woodville,1,,8736
+Grange Sub,1,82290,Grange to Woodville,1,,8736
+Grange Sub,1,82291,Grange to Woodville,1,,8736
+Grange Sub,1,82292,Grange to Woodville,1,,8736
+Grange Sub,1,82293,Grange to Woodville,1,,8736
+Grange Sub,1,82294,Grange to Woodville,1,,8736
+Grange Sub,1,82295,Grange to Woodville,1,,8736
+Grange Sub,1,82296,Grange to Woodville,1,,8736
+Grange Sub,1,82297,Grange to Woodville,1,,8736
+Grange Sub,1,82298,Grange to Woodville,1,,8736
+Grange Sub,1,82299,Grange to Woodville,1,,8736
+Grange Sub,1,82300,Grange to Woodville,1,,8736
+Grange Sub,1,82301,Grange to Woodville,1,,8736
+Grange Sub,1,82302,Grange to Woodville,1,,8736
+Grange Sub,1,82303,Grange to Woodville,1,,8736
+Grange Sub,1,82304,Grange to Woodville,1,,8736
+Grange Sub,1,82305,Grange to Woodville,1,,8736
+Grange Sub,1,82306,Grange to Woodville,1,,8736
+Grange Sub,1,82307,Grange to Woodville,1,,8736
+Grange Sub,1,82308,Grange to Woodville,1,,8736
+Grange Sub,1,82309,Grange to Woodville,1,,8736
+Grange Sub,1,82310,Grange to Woodville,1,,8736
+Grange Sub,1,82311,Grange to Woodville,1,,8736
+Grange Sub,1,82312,Grange to Woodville,1,,8736
+Grange Sub,1,82313,Grange to Woodville,1,,8736
+Grange Sub,1,82314,Grange to Woodville,1,,8736
+Grange Sub,1,82315,Grange to Woodville,1,,8736
+Grange Sub,1,82316,Grange to Woodville,1,,8736
+Grange Sub,1,82317,Grange to Woodville,1,,8736
+Grange Sub,1,82318,Grange to Woodville,1,,8736
+Grange Sub,1,82319,Grange to Woodville,1,,8736
+Grange Sub,1,82320,Grange to Woodville,1,,8736
+Grange Sub,1,82321,Grange to Woodville,0,,8735
+Grange Sub,1,82322,Grange to Woodville,0,,8735
+Grange Sub,1,82323,Grange to Woodville,0,,8735
+Grange Sub,1,82324,Grange to Woodville,0,,8735
+Grange Sub,1,82325,Grange to Woodville,0,,8735
+Grange Sub,1,82326,Grange to Woodville,0,,8735
+Grange Sub,1,82327,Grange to Woodville,0,,8735
+Grange Sub,1,82328,Grange to Woodville,0,,8735
+Grange Sub,1,82329,Grange to Woodville,0,,8735
+Grange Sub,1,82330,Grange to Woodville,0,,8735
+Grange Sub,1,82331,Grange to Woodville,0,,8735
+Grange Sub,1,82332,Grange to Woodville,0,,8735
+Grange Sub,1,82333,Grange to Woodville,0,,8735
+Grange Sub,1,82334,Grange to Woodville,0,,8735
+Grange Sub,1,82335,Grange to Woodville,0,,8735
+Grange Sub,1,82336,Grange to Woodville,0,,8735
+Grange Sub,1,82337,Grange to Woodville,0,,8735
+Grange Sub,1,82338,Grange to Woodville,0,,8735
+Grange Sub,1,82339,Grange to Woodville,0,,8735
+Grange Sub,1,82340,Grange to Woodville,0,,8735
+Grange Sub,1,82341,Grange to Woodville,0,,8735
+Grange Sub,1,82342,Grange to Woodville,0,,8735
+Grange Sub,1,82343,Grange to Woodville,0,,8735
+Grange Sub,1,82344,Grange to Woodville,0,,8735
+Grange Sub,1,82345,Grange to Woodville,0,,8735
+Grange Sub,1,82346,Grange to Woodville,0,,8735
+Grange Sub,1,82347,Grange to Woodville,0,,8735
+Grange Sub,1,82348,Grange to Woodville,0,,8735
+Grange Sub,1,82349,Grange to Woodville,0,,8735
+Grange Sub,1,82350,Grange to Woodville,0,,8735
+Grange Sub,1,82351,Grange to Woodville,0,,8735
+Grange Sub,1,82352,Grange to Woodville,0,,8735
+Grange Sub,1,82353,Grange to Woodville,0,,8735
+Grange,1,82354,Woodville to Grange,1,,8730
+Outer Harbor,1,82355,City to Outer Harbor,1,,8726
+Grange,1,82356,Woodville to Grange,1,,8730
+Outer Harbor,1,82357,City to Outer Harbor,1,,8726
+Grange,1,82358,Woodville to Grange,1,,8730
+Grange,1,82359,Woodville to Grange,1,,8730
+Outer Harbor,1,82360,City to Outer Harbor,1,,8726
+Grange,1,82361,Woodville to Grange,1,,8730
+Glanville,1,82362,City to Glanville,1,,8729
+Grange,1,82363,Woodville to Grange,1,,8730
+Outer Harbor,1,82364,City to Outer Harbor,1,,8726
+Grange,1,82365,Woodville to Grange,1,,8730
+Outer Harbor,1,82366,City to Outer Harbor,1,,8726
+Grange,1,82367,Woodville to Grange,1,,8730
+Outer Harbor,1,82368,City to Outer Harbor,1,,8726
+Grange,1,82369,Woodville to Grange,1,,8730
+Outer Harbor,1,82370,City to Outer Harbor,1,,8726
+Grange,1,82371,Woodville to Grange,1,,8730
+Outer Harbor,1,82372,City to Outer Harbor,1,,8726
+Grange,1,82373,Woodville to Grange,1,,8730
+Outer Harbor,1,82374,City to Outer Harbor,1,,8726
+Grange,1,82375,Woodville to Grange,1,,8730
+Outer Harbor,1,82376,City to Outer Harbor,1,,8726
+Grange,1,82377,Woodville to Grange,1,,8730
+Outer Harbor,1,82378,City to Outer Harbor,1,,8726
+Grange,1,82379,Woodville to Grange,1,,8730
+Outer Harbor,1,82380,City to Outer Harbor,1,,8726
+Grange,1,82381,Woodville to Grange,1,,8730
+Outer Harbor,1,82382,City to Outer Harbor,1,,8726
+Grange,1,82383,Woodville to Grange,1,,8730
+Outer Harbor,1,82384,City to Outer Harbor,1,,8726
+Grange,1,82385,Woodville to Grange,1,,8730
+Outer Harbor,1,82386,City to Outer Harbor,1,,8726
+Grange,1,82387,Woodville to Grange,1,,8730
+Outer Harbor,1,82388,City to Outer Harbor,1,,8726
+Grange,1,82389,Woodville to Grange,1,,8730
+Outer Harbor,1,82390,City to Outer Harbor,1,,8726
+Grange,1,82391,Woodville to Grange,1,,8730
+Outer Harbor,1,82392,City to Outer Harbor,1,,8726
+Grange,1,82393,Woodville to Grange,1,,8730
+Grange,1,82394,Woodville to Grange,1,,8730
+Grange,1,82395,Woodville to Grange,1,,8730
+Outer Harbor,1,82396,City to Outer Harbor,1,,8726
+Grange,1,82397,Woodville to Grange,1,,8730
+Outer Harbor,1,82398,City to Outer Harbor,1,,8727
+Glanville,1,82399,City to Glanville,1,,8728
+Grange,1,82400,Woodville to Grange,1,,8730
+Glanville,1,82401,City to Glanville,1,,8728
+Outer Harbor,1,82402,City to Outer Harbor,1,,8726
+Grange,1,82403,Woodville to Grange,1,,8730
+Outer Harbor,1,82404,City to Outer Harbor,1,,8726
+Grange,1,82405,Grange to Woodville,0,,8737
+Grange,1,82406,Grange to Woodville,0,,8737
+Outer Harbor,1,82407,Outer Harbor to City,0,,8731
+Grange,1,82408,Grange to Woodville,0,,8737
+Outer Harbor,1,82409,Outer Harbor to City,0,,8731
+Outer Harbor,1,82410,Outer Harbor to City,0,,8731
+Grange,1,82411,Grange to Woodville,0,,8737
+Outer Harbor,1,82412,Outer Harbor to City,0,,8731
+Glanville,1,82413,Glanville to City,0,,8733
+Grange,1,82414,Grange to Woodville,0,,8737
+Outer Harbor,1,82415,Outer Harbor to City,0,,8732
+Glanville,1,82416,Glanville to City,0,,8733
+Glanville,1,82417,Glanville to City,0,,8733
+Grange,1,82418,Grange to Woodville,0,,8737
+Grange,1,82419,Grange to Woodville,0,,8737
+Outer Harbor,1,82420,Outer Harbor to City,0,,8731
+Grange,1,82421,Grange to Woodville,0,,8737
+Outer Harbor,1,82422,Outer Harbor to City,0,,8731
+Grange,1,82423,Grange to Woodville,0,,8737
+Outer Harbor,1,82424,Outer Harbor to City,0,,8731
+Grange,1,82425,Grange to Woodville,0,,8737
+Outer Harbor,1,82426,Outer Harbor to City,0,,8731
+Grange,1,82427,Grange to Woodville,0,,8737
+Outer Harbor,1,82428,Outer Harbor to City,0,,8731
+Grange,1,82429,Grange to Woodville,0,,8737
+Outer Harbor,1,82430,Outer Harbor to City,0,,8731
+Grange,1,82431,Grange to Woodville,0,,8737
+Outer Harbor,1,82432,Outer Harbor to City,0,,8731
+Grange,1,82433,Grange to Woodville,0,,8737
+Outer Harbor,1,82434,Outer Harbor to City,0,,8731
+Grange,1,82435,Grange to Woodville,0,,8737
+Outer Harbor,1,82436,Outer Harbor to City,0,,8731
+Grange,1,82437,Grange to Woodville,0,,8737
+Outer Harbor,1,82438,Outer Harbor to City,0,,8731
+Grange,1,82439,Grange to Woodville,0,,8737
+Outer Harbor,1,82440,Outer Harbor to City,0,,8731
+Grange,1,82441,Grange to Woodville,0,,8737
+Outer Harbor,1,82442,Outer Harbor to City,0,,8731
+Grange,1,82443,Grange to Woodville,0,,8737
+Outer Harbor,1,82444,Outer Harbor to City,0,,8731
+Grange,1,82445,Grange to Woodville,0,,8737
+Outer Harbor,1,82446,Outer Harbor to City,0,,8731
+Grange,1,82447,Grange to Woodville,0,,8737
+Outer Harbor,1,82448,Outer Harbor to City,0,,8731
+Grange,1,82449,Grange to Woodville,0,,8737
+Grange,1,82450,Grange to Woodville,0,,8737
+Grange,1,82451,Grange to Woodville,0,,8737
+Outer Harbor,1,82452,Outer Harbor to City,0,,8731
+Glanville,1,82453,Glanville to City,0,,8734
+Grange,1,82454,Grange to Woodville,0,,8737
+Outer Harbor,1,82455,Outer Harbor to City,0,,8731
+Glanville,1,82456,Glanville to City,0,,8734
+Outer Harbor,1,82457,Outer Harbor to City,0,,8731
+Grange,1,82458,Grange to City,0,,1196
+Outer Harbor,1,82459,Outer Harbor to City,0,,8731
+Tonsley Sub,1,82460,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82461,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82462,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82463,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82464,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82465,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82466,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82467,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82468,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82469,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82470,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82471,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82472,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82473,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82474,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82475,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82476,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82477,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82478,Tonsley to Woodlands Park,0,,8752
+Tonsley Sub,1,82479,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82480,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82481,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82482,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82483,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82484,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82485,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82486,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82487,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82488,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82489,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82490,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82491,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82492,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82493,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82494,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82495,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82496,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82497,Woodlands Park to Tonsley,1,,8751
+Tonsley Sub,1,82498,Woodlands Park to Tonsley,1,,8751
+Brighton,1,82499,Brighton to City,0,,8743
+Brighton,1,82500,Brighton to City,0,,8743
+Brighton,1,82501,Brighton to City,0,,8743
+Brighton,1,82502,Brighton to City,0,,8743
+Noarlunga,1,82503,Noarlunga to City,0,,8738
+Noarlunga,1,82504,Noarlunga to City,0,,8738
+Noarlunga,1,82505,Noarlunga to City,0,,8739
+Noarlunga,1,82506,Noarlunga to City,0,,8739
+Noarlunga,1,82507,Noarlunga to City,0,,8738
+Noarlunga,1,82508,Noarlunga to City,0,,8738
+Noarlunga,1,82509,Noarlunga to City,0,,8738
+Noarlunga,1,82510,Noarlunga to City,0,,8740
+Noarlunga,1,82511,Noarlunga to City,0,,8738
+Noarlunga,1,82512,Noarlunga to City,0,,8740
+Noarlunga,1,82513,Noarlunga to City,0,,8739
+Noarlunga,1,82514,Noarlunga to City,0,,8738
+Brighton,1,82515,Brighton to City,0,,8743
+Brighton,1,82516,Brighton to City,0,,8743
+Brighton,1,82517,Brighton to City,0,,8743
+Noarlunga,1,82518,Noarlunga to City,0,,8741
+Brighton,1,82519,Brighton to City,0,,8744
+Noarlunga,1,82520,Noarlunga to City,0,,8738
+Noarlunga,1,82521,Noarlunga to City,0,,8738
+Noarlunga,1,82522,Noarlunga to City,0,,8738
+Noarlunga,1,82523,Noarlunga to City,0,,8742
+Brighton,1,82525,City to Brighton,1,,8749
+Brighton,1,82526,City to Brighton,1,,8749
+Noarlunga,1,82527,City to Noarlunga,1,,8745
+Noarlunga,1,82528,City to Noarlunga,1,,8746
+Noarlunga,1,82529,City to Noarlunga,1,,8747
+Noarlunga,1,82530,City to Noarlunga,1,,8745
+Noarlunga,1,82531,City to Noarlunga,1,,8745
+Noarlunga,1,82532,City to Noarlunga,1,,8745
+Noarlunga,1,82533,City to Noarlunga,1,,8745
+Noarlunga,1,82534,City to Noarlunga,1,,8745
+Noarlunga,1,82535,City to Noarlunga,1,,8745
+Brighton,1,82536,City to Brighton,1,,8750
+Brighton,1,82537,City to Brighton,1,,8749
+Noarlunga,1,82538,City to Noarlunga,1,,8748
+Noarlunga,1,82539,City to Noarlunga,1,,8745
+Noarlunga,1,82540,City to Noarlunga,1,,8745
+Noarlunga,1,82541,City to Noarlunga,1,,8745
+Brighton,1,82542,City to Brighton,1,,8753
 733,1,82543,Noarlunga Interchange via Investigator Dr and Flaxmill Rd,1,,8303
 Woodville,1,82544,City to Woodville,1,,7325
+GA1,601,82593,Gawler Central to Salisbury,0,,8794
+GA2,601,82594,Gawler Station to Salisbury,0,,8795
+GA1,601,82595,Gawler Central to Salisbury,0,,8794
+GA2,601,82596,Gawler Station to Salisbury,0,,8795
+GA1,601,82597,Gawler Central to Salisbury,0,,8794
+GA2,601,82598,Gawler Station to Salisbury,0,,8795
+GA4,601,82599,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82600,Gawler Central to Salisbury,0,,8794
+GA2,601,82601,Gawler Station to Salisbury,0,,8795
+GA4,601,82603,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82604,Gawler Central to Salisbury,0,,8794
+GA2,601,82605,Gawler Station to Salisbury,0,,8795
+GA4,601,82607,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82608,Gawler Central to Salisbury,0,,8794
+GA2,601,82609,Gawler Station to Salisbury,0,,8795
+GA4,601,82610,Gawler Station to Salisbury - Express service,0,,8802
+GA4,601,82611,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82612,Gawler Central to Salisbury,0,,8794
+GA2,601,82613,Gawler Station to Salisbury,0,,8795
+GA4,601,82615,Gawler Station to Salisbury - Express service,0,,8802
+GA4,601,82616,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82617,Gawler Central to Salisbury,0,,8794
+GA2,601,82618,Gawler Station to Salisbury,0,,8795
+GA4,601,82620,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82622,Gawler Central to Salisbury,0,,8794
+GA2,601,82623,Gawler Station to Salisbury,0,,8795
+GA4,601,82624,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82625,Gawler Central to Salisbury,0,,8794
+GA2,601,82626,Gawler Station to Salisbury,0,,8795
+GA4,601,82627,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82628,Gawler Central to Salisbury,0,,8794
+GA2,601,82629,Gawler Station to Salisbury,0,,8795
+GA4,601,82631,Gawler Station to Salisbury - Express service,0,,8802
+GA1,601,82632,Gawler Central to Salisbury,0,,8794
+GA2,601,82633,Gawler Station to Salisbury,0,,8795
+GA1,601,82634,Gawler Central to Salisbury,0,,8794
+GA2,601,82635,Gawler Station to Salisbury,0,,8795
+GA1,601,82636,Gawler Central to Salisbury,0,,8794
+GA2,601,82637,Gawler Station to Salisbury,0,,8795
+GA1,601,82638,Gawler Central to Salisbury,0,,8794
+GA2,601,82639,Gawler Station to Salisbury,0,,8795
+GA1,601,82642,Gawler Central to Salisbury,0,,8794
+GA2,601,82643,Gawler Station to Salisbury,0,,8795
+GA1,601,82644,Gawler Central to Salisbury,0,,8794
+GA2,601,82645,Gawler Station to Salisbury,0,,8795
+GA1,601,82646,Gawler Central to Salisbury,0,,8794
+GA2,601,82647,Gawler Station to Salisbury,0,,8795
+GA1,601,82648,Gawler Central to Salisbury,0,,8794
+GA2,601,82649,Gawler Station to Salisbury,0,,8795
+GA1,601,82650,Gawler Central to Salisbury,0,,8794
+GA2,601,82651,Gawler Station to Salisbury,0,,8795
+GA1,601,82652,Gawler Central to Salisbury,0,,8794
+GA2,601,82653,Gawler Station to Salisbury,0,,8795
+GA1,601,82654,Gawler Central to Salisbury,0,,8794
+GA2,601,82655,Gawler Station to Salisbury,0,,8795
+GA1,601,82656,Gawler Central to Salisbury,0,,8794
+GA2,601,82657,Gawler Station to Salisbury,0,,8795
+GA1,601,82658,Gawler Central to Salisbury,0,,8794
+GA2,601,82659,Gawler Station to Salisbury,0,,8795
+GA1,601,82660,Gawler Central to Salisbury,0,,8794
+GA2,601,82661,Gawler Station to Salisbury,0,,8795
+GA1,601,82662,Gawler Central to Salisbury,0,,8794
+GA2,601,82663,Gawler Station to Salisbury,0,,8795
+GA1,601,82664,Gawler Central to Salisbury,0,,8794
+GA2,601,82665,Gawler Station to Salisbury,0,,8795
+GA1,601,82666,Gawler Central to Salisbury,0,,8794
+GA2,601,82667,Gawler Station to Salisbury,0,,8795
+GA1,601,82668,Gawler Central to Salisbury,0,,8794
+GA2,601,82669,Gawler Station to Salisbury,0,,8795
+GA1,601,82670,Gawler Central to Salisbury,0,,8794
+GA2,601,82671,Gawler Station to Salisbury,0,,8795
+GA1,601,82672,Gawler Central to Salisbury,0,,8794
+GA2,601,82673,Gawler Station to Salisbury,0,,8795
+GA1,601,82674,Gawler Central to Salisbury,0,,8794
+GA2,601,82675,Gawler Station to Salisbury,0,,8795
+GA1,601,82676,Gawler Central to Salisbury,0,,8794
+GA2,601,82677,Gawler Station to Salisbury,0,,8795
+GA1,601,82678,Gawler Central to Salisbury,0,,8794
+GA2,601,82679,Gawler Station to Salisbury,0,,8795
+GA1,601,82680,Gawler Central to Salisbury,0,,8794
+GA2,601,82681,Gawler Station to Salisbury,0,,8795
+GA1,601,82682,Gawler Central to Salisbury,0,,8794
+GA2,601,82683,Gawler Station to Salisbury,0,,8795
+GA1,601,82684,Gawler Central to Salisbury,0,,8794
+GA2,601,82685,Gawler Station to Salisbury,0,,8795
+GA1,601,82686,Gawler Central to Salisbury,0,,8794
+GA2,601,82687,Gawler Station to Salisbury,0,,8795
+GA1,601,82688,Gawler Central to Salisbury,0,,8794
+GA2,601,82689,Gawler Station to Salisbury,0,,8795
+GA1,601,82690,Gawler Central to Salisbury,0,,8794
+GA2,601,82691,Gawler Station to Salisbury,0,,8795
+GA1,601,82692,Gawler Central to Salisbury,0,,8794
+GA2,601,82693,Gawler Station to Salisbury,0,,8795
+GA1,601,82694,Gawler Central to Salisbury,0,,8794
+GA2,601,82695,Gawler Station to Salisbury,0,,8795
+GA1,601,82696,Gawler Central to Salisbury,0,,8794
+GA2,601,82697,Gawler Station to Salisbury,0,,8795
+GA1,601,82698,Gawler Central to Salisbury,0,,8794
+GA2,601,82699,Gawler Station to Salisbury,0,,8795
+GA1,601,82700,Gawler Central to Salisbury,0,,8794
+GA1,601,82701,Gawler Central to Salisbury,0,,8794
+GA2,601,82702,Gawler Station to Salisbury,0,,8795
+GA1,601,82703,Gawler Central to Salisbury,0,,8794
+GA2,601,82704,Gawler Station to Salisbury,0,,8795
+GA1,601,82705,Gawler Central to Salisbury,0,,8794
+GA2,601,82706,Gawler Station to Salisbury,0,,8795
+GA1,601,82707,Gawler Central to Salisbury,0,,8794
+GA2,601,82708,Gawler Station to Salisbury,0,,8795
+GA1,601,82709,Gawler Central to Salisbury,0,,8794
+GA2,601,82710,Gawler Station to Salisbury,0,,8795
+GA1,601,82711,Gawler Central to Salisbury,0,,8794
+GA2,601,82712,Gawler Station to Salisbury,0,,8795
+GA1,601,82713,Gawler Central to Salisbury,0,,8794
+GA2,601,82714,Gawler Station to Salisbury,0,,8795
+GA1,601,82715,Gawler Central to Salisbury,0,,8794
+GA2,601,82716,Gawler Station to Salisbury,0,,8795
+GA1,601,82717,Gawler Central to Salisbury,0,,8794
+GA2,601,82718,Gawler Station to Salisbury,0,,8795
+GA1,601,82719,Gawler Central to Salisbury,0,,8794
+GA2,601,82720,Gawler Station to Salisbury,0,,8795
+GA1,601,82721,Gawler Central to Salisbury,0,,8794
+GA2,601,82722,Gawler Station to Salisbury,0,,8795
+GA1,601,82723,Gawler Central to Salisbury,0,,8794
+GA1,601,82724,Gawler Central to Salisbury,0,,8794
+GA1,601,82725,Gawler Central to Salisbury,0,,8794
+GA1,601,82726,Gawler Central to Salisbury,0,,8794
+GA1,606,82727,Gawler Central to Salisbury,0,,8794
+GA1,601,82728,Gawler Central to Salisbury,0,,8794
+GA1,601,82729,Gawler Central to Salisbury,0,,8794
+GA1,601,82730,Gawler Central to Salisbury,0,,8794
+GA1,601,82731,Salisbury to Gawler Central,1,,8798
+GA1,601,82732,Salisbury to Gawler Central,1,,8798
+GA1,601,82733,Salisbury to Gawler Central,1,,8798
+GA2,601,82734,Salisbury to Gawler Station,1,,8800
+GA1,601,82735,Salisbury to Gawler Central,1,,8798
+GA2,601,82736,Salisbury to Gawler Station,1,,8800
+GA1,601,82737,Salisbury to Gawler Central,1,,8798
+GA2,601,82738,Salisbury to Gawler Station,1,,8800
+GA1,601,82739,Salisbury to Gawler Central,1,,8798
+GA2,601,82740,Salisbury to Gawler Station,1,,8800
+GA1,601,82742,Salisbury to Gawler Central,1,,8798
+GA2,601,82743,Salisbury to Gawler Station,1,,8800
+GA1,601,82744,Salisbury to Gawler Central,1,,8798
+GA2,601,82745,Salisbury to Gawler Station,1,,8800
+GA1,601,82746,Salisbury to Gawler Central,1,,8798
+GA2,601,82747,Salisbury to Gawler Station,1,,8800
+GA1,601,82748,Salisbury to Gawler Central,1,,8798
+GA2,601,82749,Salisbury to Gawler Station,1,,8800
+GA1,601,82750,Salisbury to Gawler Central,1,,8798
+GA2,601,82751,Salisbury to Gawler Station,1,,8800
+GA1,601,82752,Salisbury to Gawler Central,1,,8798
+GA2,601,82753,Salisbury to Gawler Station,1,,8800
+GA1,601,82754,Salisbury to Gawler Central,1,,8798
+GA2,601,82755,Salisbury to Gawler Station,1,,8800
+GA1,601,82756,Salisbury to Gawler Central,1,,8798
+GA2,601,82757,Salisbury to Gawler Station,1,,8800
+GA1,601,82758,Salisbury to Gawler Central,1,,8798
+GA2,601,82759,Salisbury to Gawler Station,1,,8800
+GA1,601,82760,Salisbury to Gawler Central,1,,8798
+GA2,601,82761,Salisbury to Gawler Station,1,,8800
+GA1,601,82762,Salisbury to Gawler Central,1,,8798
+GA2,601,82763,Salisbury to Gawler Station,1,,8800
+GA1,601,82764,Salisbury to Gawler Central,1,,8798
+GA2,601,82765,Salisbury to Gawler Station,1,,8800
+GA1,601,82766,Salisbury to Gawler Central,1,,8798
+GA2,601,82767,Salisbury to Gawler Station,1,,8800
+GA1,601,82768,Salisbury to Gawler Central,1,,8798
+GA2,601,82769,Salisbury to Gawler Station,1,,8800
+GA1,601,82770,Salisbury to Gawler Central,1,,8798
+GA2,601,82771,Salisbury to Gawler Station,1,,8800
+GA1,601,82772,Salisbury to Gawler Central,1,,8798
+GA2,601,82773,Salisbury to Gawler Station,1,,8800
+GA1,601,82774,Salisbury to Gawler Central,1,,8798
+GA2,601,82775,Salisbury to Gawler Station,1,,8800
+GA1,601,82776,Salisbury to Gawler Central,1,,8798
+GA2,601,82777,Salisbury to Gawler Station,1,,8800
+GA1,601,82778,Salisbury to Gawler Central,1,,8798
+GA2,601,82779,Salisbury to Gawler Station,1,,8800
+GA1,601,82780,Salisbury to Gawler Central,1,,8798
+GA2,601,82781,Salisbury to Gawler Station,1,,8800
+GA1,601,82782,Salisbury to Gawler Central,1,,8798
+GA2,601,82783,Salisbury to Gawler Station,1,,8800
+GA1,601,82784,Salisbury to Gawler Central,1,,8798
+GA2,601,82785,Salisbury to Gawler Station,1,,8800
+GA1,601,82786,Salisbury to Gawler Central,1,,8798
+GA2,601,82787,Salisbury to Gawler Station,1,,8800
+GA1,601,82788,Salisbury to Gawler Central,1,,8798
+GA2,601,82789,Salisbury to Gawler Station,1,,8800
+GA1,601,82790,Salisbury to Gawler Central,1,,8798
+GA2,601,82791,Salisbury to Gawler Station,1,,8800
+GA1,601,82792,Salisbury to Gawler Central,1,,8798
+GA2,601,82793,Salisbury to Gawler Station,1,,8800
+GA1,601,82794,Salisbury to Gawler Central,1,,8798
+GA2,601,82795,Salisbury to Gawler Station,1,,8800
+GA1,601,82796,Salisbury to Gawler Central,1,,8798
+GA2,601,82797,Salisbury to Gawler Station,1,,8800
+GA1,601,82798,Salisbury to Gawler Central,1,,8798
+GA2,601,82799,Salisbury to Gawler Station,1,,8800
+GA1,601,82800,Salisbury to Gawler Central,1,,8798
+GA2,601,82801,Salisbury to Gawler Station,1,,8800
+GA1,601,82802,Salisbury to Gawler Central,1,,8798
+GA4,601,82803,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82804,Salisbury to Gawler Central,1,,8798
+GA2,601,82805,Salisbury to Gawler Station,1,,8800
+GA4,601,82806,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82807,Salisbury to Gawler Central,1,,8798
+GA2,601,82808,Salisbury to Gawler Station,1,,8800
+GA4,601,82809,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82810,Salisbury to Gawler Central,1,,8798
+GA2,601,82811,Salisbury to Gawler Station,1,,8800
+GA4,601,82812,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82813,Salisbury to Gawler Central,1,,8798
+GA2,601,82814,Salisbury to Gawler Station,1,,8800
+GA4,601,82815,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82816,Salisbury to Gawler Central,1,,8798
+GA2,601,82817,Salisbury to Gawler Station,1,,8800
+GA4,601,82818,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82819,Salisbury to Gawler Central,1,,8798
+GA2,601,82820,Salisbury to Gawler Station,1,,8800
+GA4,601,82821,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82822,Salisbury to Gawler Central,1,,8798
+GA2,601,82823,Salisbury to Gawler Station,1,,8800
+GA4,601,82824,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82825,Salisbury to Gawler Central,1,,8798
+GA2,601,82826,Salisbury to Gawler Station,1,,8800
+GA4,601,82827,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82828,Salisbury to Gawler Central,1,,8798
+GA2,601,82829,Salisbury to Gawler Station,1,,8800
+GA4,601,82830,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82831,Salisbury to Gawler Central,1,,8798
+GA2,601,82832,Salisbury to Gawler Station,1,,8800
+GA4,601,82833,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82834,Salisbury to Gawler Central,1,,8798
+GA2,601,82835,Salisbury to Gawler Station,1,,8800
+GA2,601,82836,Salisbury to Gawler Station,1,,8800
+GA4,601,82837,Salisbury to Gawler Station - Express service,1,,8801
+GA4,601,82838,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82839,Salisbury to Gawler Central,1,,8798
+GA2,601,82840,Salisbury to Gawler Station,1,,8800
+GA4,601,82841,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82842,Salisbury to Gawler Central,1,,8798
+GA2,601,82843,Salisbury to Gawler Station,1,,8800
+GA4,601,82844,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82845,Salisbury to Gawler Central,1,,8798
+GA2,601,82846,Salisbury to Gawler Station,1,,8800
+GA4,601,82847,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82848,Salisbury to Gawler Central,1,,8798
+GA2,601,82849,Salisbury to Gawler Station,1,,8800
+GA4,601,82850,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82851,Salisbury to Gawler Central,1,,8798
+GA2,601,82852,Salisbury to Gawler Station,1,,8800
+GA4,601,82853,Salisbury to Gawler Station - Express service,1,,8801
+GA1,601,82854,Salisbury to Gawler Central,1,,8798
+GA2,601,82855,Salisbury to Gawler Station,1,,8800
+GA1,601,82856,Salisbury to Gawler Central,1,,8798
+GA2,601,82857,Salisbury to Gawler Station,1,,8800
+GA1,601,82858,Salisbury to Gawler Central,1,,8798
+GA2,601,82859,Salisbury to Gawler Station,1,,8800
+GA1,601,82860,Salisbury to Gawler Central,1,,8798
+GA2,601,82861,Salisbury to Gawler Station,1,,8800
+GA1,601,82862,Salisbury to Gawler Central,1,,8798
+GA1,601,82863,Salisbury to Gawler Central,1,,8798
+GA1,606,82864,Salisbury to Gawler Central,1,,8798
+GA1,601,82865,Salisbury to Gawler Central,1,,8798
+GA1,601,82866,Salisbury to Gawler Central,1,,8798
+GA1,601,82867,Salisbury to Gawler Central,1,,8798
+GA1,612,82868,Gawler Central to Salisbury,0,,8794
+GA1,612,82869,Gawler Central to Salisbury,0,,8794
+GA1,612,82870,Gawler Central to Salisbury,0,,8794
+GA1,612,82871,Gawler Central to Salisbury,0,,8794
+GA1,612,82872,Gawler Central to Salisbury,0,,8794
+GA2,612,82873,Gawler Station to Salisbury,0,,8795
+GA1,612,82874,Gawler Central to Salisbury,0,,8794
+GA2,612,82875,Gawler Station to Salisbury,0,,8795
+GA1,612,82876,Gawler Central to Salisbury,0,,8794
+GA2,612,82877,Gawler Station to Salisbury,0,,8795
+GA2,612,82878,Gawler Station to Salisbury,0,,8795
+GA1,612,82879,Gawler Central to Salisbury,0,,8794
+GA2,612,82880,Gawler Station to Salisbury,0,,8795
+GA1,612,82881,Gawler Central to Salisbury,0,,8794
+GA2,612,82882,Gawler Station to Salisbury,0,,8795
+GA1,612,82883,Gawler Central to Salisbury,0,,8794
+GA2,612,82884,Gawler Station to Salisbury,0,,8795
+GA1,612,82885,Gawler Central to Salisbury,0,,8794
+GA2,612,82886,Gawler Station to Salisbury,0,,8795
+GA1,612,82887,Gawler Central to Salisbury,0,,8794
+GA2,612,82888,Gawler Station to Salisbury,0,,8795
+GA1,612,82889,Gawler Central to Salisbury,0,,8794
+GA2,612,82890,Gawler Station to Salisbury,0,,8795
+GA1,612,82891,Gawler Central to Salisbury,0,,8794
+GA2,612,82892,Gawler Station to Salisbury,0,,8795
+GA1,612,82893,Gawler Central to Salisbury,0,,8794
+GA2,612,82894,Gawler Station to Salisbury,0,,8795
+GA1,612,82895,Gawler Central to Salisbury,0,,8794
+GA2,612,82896,Gawler Station to Salisbury,0,,8795
+GA1,612,82897,Gawler Central to Salisbury,0,,8794
+GA2,612,82898,Gawler Station to Salisbury,0,,8795
+GA1,612,82899,Gawler Central to Salisbury,0,,8794
+GA2,612,82900,Gawler Station to Salisbury,0,,8795
+GA1,612,82901,Gawler Central to Salisbury,0,,8794
+GA2,612,82902,Gawler Station to Salisbury,0,,8795
+GA1,612,82903,Gawler Central to Salisbury,0,,8794
+GA2,612,82904,Gawler Station to Salisbury,0,,8795
+GA1,612,82905,Gawler Central to Salisbury,0,,8794
+GA2,612,82906,Gawler Station to Salisbury,0,,8795
+GA1,612,82907,Gawler Central to Salisbury,0,,8794
+GA2,612,82908,Gawler Station to Salisbury,0,,8795
+GA1,612,82909,Gawler Central to Salisbury,0,,8794
+GA1,612,82910,Gawler Central to Salisbury,0,,8794
+GA1,612,82911,Gawler Central to Salisbury,0,,8794
+GA1,612,82912,Gawler Central to Salisbury,0,,8794
+GA1,612,82913,Gawler Central to Salisbury,0,,8794
+GA1,612,82914,Gawler Central to Salisbury,0,,8794
+GA1,612,82915,Salisbury to Gawler Central,1,,8798
+GA1,612,82916,Salisbury to Gawler Central,1,,8798
+GA2,612,82917,Salisbury to Gawler Station,1,,8800
+GA1,612,82918,Salisbury to Gawler Central,1,,8798
+GA2,612,82919,Salisbury to Gawler Station,1,,8800
+GA1,612,82920,Salisbury to Gawler Central,1,,8798
+GA2,612,82921,Salisbury to Gawler Station,1,,8800
+GA1,612,82922,Salisbury to Gawler Central,1,,8798
+GA2,612,82923,Salisbury to Gawler Station,1,,8800
+GA1,612,82924,Salisbury to Gawler Central,1,,8798
+GA2,612,82925,Salisbury to Gawler Station,1,,8800
+GA1,612,82926,Salisbury to Gawler Central,1,,8798
+GA2,612,82927,Salisbury to Gawler Station,1,,8800
+GA1,612,82928,Salisbury to Gawler Central,1,,8798
+GA2,612,82929,Salisbury to Gawler Station,1,,8800
+GA1,612,82930,Salisbury to Gawler Central,1,,8798
+GA2,612,82931,Salisbury to Gawler Station,1,,8800
+GA1,612,82932,Salisbury to Gawler Central,1,,8798
+GA2,612,82933,Salisbury to Gawler Station,1,,8800
+GA1,612,82934,Salisbury to Gawler Central,1,,8798
+GA2,612,82935,Salisbury to Gawler Station,1,,8800
+GA1,612,82936,Salisbury to Gawler Central,1,,8798
+GA2,612,82937,Salisbury to Gawler Station,1,,8800
+GA1,612,82938,Salisbury to Gawler Central,1,,8798
+GA2,612,82939,Salisbury to Gawler Station,1,,8800
+GA1,612,82940,Salisbury to Gawler Central,1,,8798
+GA2,612,82941,Salisbury to Gawler Station,1,,8800
+GA1,612,82942,Salisbury to Gawler Central,1,,8798
+GA2,612,82943,Salisbury to Gawler Station,1,,8800
+GA1,612,82944,Salisbury to Gawler Central,1,,8798
+GA2,612,82945,Salisbury to Gawler Station,1,,8800
+GA1,612,82946,Salisbury to Gawler Central,1,,8798
+GA2,612,82947,Salisbury to Gawler Station,1,,8800
+GA1,612,82948,Salisbury to Gawler Central,1,,8798
+GA2,612,82949,Salisbury to Gawler Station,1,,8800
+GA1,612,82950,Salisbury to Gawler Central,1,,8798
+GA2,612,82951,Salisbury to Gawler Station,1,,8800
+GA1,612,82952,Salisbury to Gawler Central,1,,8798
+GA2,612,82953,Salisbury to Gawler Station,1,,8800
+GA1,612,82954,Salisbury to Gawler Central,1,,8798
+GA2,612,82955,Salisbury to Gawler Station,1,,8800
+GA1,612,82956,Salisbury to Gawler Central,1,,8798
+GA2,612,82957,Salisbury to Gawler Station,1,,8800
+GA1,612,82958,Salisbury to Gawler Central,1,,8798
+GA2,612,82959,Salisbury to Gawler Station,1,,8800
+GA1,612,82960,Salisbury to Gawler Central,1,,8798
+GA2,612,82961,Salisbury to Gawler Station,1,,8800
+GA1,612,82962,Salisbury to Gawler Central,1,,8798
+GA1,612,82963,Salisbury to Gawler Central,1,,8798
+GA1,612,82964,Salisbury to Gawler Central,1,,8798
+GA1,612,82965,Salisbury to Gawler Central,1,,8798
+GA1,612,82966,Salisbury to Gawler Central,1,,8798
+GA1,612,82967,Salisbury to Gawler Central,1,,8798
+Salisbury,612,82968,Salisbury to City,0,,8791
+Salisbury,612,82969,Salisbury to City,0,,8791
+Salisbury,612,82970,Salisbury to City,0,,8791
+Salisbury,612,82971,Salisbury to City,0,,1242
+Salisbury,612,82972,Salisbury to City,0,,8791
+Salisbury,612,82973,Salisbury to City,0,,1242
+Salisbury,612,82974,Salisbury to City,0,,8791
+Salisbury,612,82975,Salisbury to City,0,,1242
+Salisbury,612,82976,Salisbury to City,0,,8791
+Salisbury,612,82977,Salisbury to City,0,,1242
+Salisbury,612,82978,Salisbury to City,0,,8791
+Salisbury,612,82979,Salisbury to City,0,,1242
+Salisbury,612,82980,Salisbury to City,0,,8791
+Salisbury,612,82981,Salisbury to City,0,,1242
+Salisbury,612,82982,Salisbury to City,0,,8791
+Salisbury,612,82983,Salisbury to City,0,,1242
+Salisbury,612,82984,Salisbury to City,0,,8791
+Salisbury,612,82985,Salisbury to City,0,,1242
+Salisbury,612,82986,Salisbury to City,0,,8791
+Salisbury,612,82987,Salisbury to City,0,,1242
+Salisbury,612,82988,Salisbury to City,0,,8791
+Salisbury,612,82989,Salisbury to City,0,,1242
+Salisbury,612,82990,Salisbury to City,0,,8791
+Salisbury,612,82991,Salisbury to City,0,,1242
+Salisbury,612,82992,Salisbury to City,0,,8791
+Salisbury,612,82993,Salisbury to City,0,,8791
+Salisbury,612,82994,Salisbury to City,0,,8791
+Salisbury,612,82995,Salisbury to City,0,,8791
+Salisbury,612,82996,Salisbury to City,0,,8791
+Salisbury,612,82997,Salisbury to City,0,,8791
+Salisbury,612,82998,Salisbury to City,0,,8791
+Salisbury,612,82999,Adelaide to Salisbury Express,1,,1244
+Salisbury,612,83000,City to Salisbury,1,,8786
+Salisbury,612,83001,City to Salisbury,1,,8787
+Salisbury,612,83002,City to Salisbury,1,,8786
+Salisbury,612,83003,City to Salisbury,1,,8787
+Salisbury,612,83004,City to Salisbury,1,,8786
+Salisbury,612,83005,City to Salisbury,1,,8787
+Salisbury,612,83006,City to Salisbury,1,,8786
+Salisbury,612,83007,City to Salisbury,1,,8787
+Salisbury,612,83008,City to Salisbury,1,,8786
+Salisbury,612,83009,City to Salisbury,1,,8787
+Salisbury,612,83010,City to Salisbury,1,,8786
+Salisbury,612,83011,City to Salisbury,1,,8787
+Salisbury,612,83012,City to Salisbury,1,,8786
+Salisbury,612,83013,City to Salisbury,1,,8787
+Salisbury,612,83014,City to Salisbury,1,,8786
+Salisbury,612,83015,City to Salisbury,1,,8787
+Salisbury,612,83016,City to Salisbury,1,,8786
+Salisbury,612,83017,City to Salisbury,1,,8787
+Salisbury,612,83018,City to Salisbury,1,,8786
+Salisbury,612,83019,City to Salisbury,1,,8787
+Salisbury,612,83020,City to Salisbury,1,,8786
+Salisbury,612,83021,City to Salisbury,1,,8787
+Salisbury,612,83022,City to Salisbury,1,,8786
+Salisbury,612,83023,City to Salisbury,1,,8787
+Salisbury,612,83024,City to Salisbury,1,,8786
+Salisbury,612,83025,City to Salisbury,1,,8786
+Salisbury,612,83026,City to Salisbury,1,,8786
+Salisbury,612,83027,City to Salisbury,1,,8786
+Salisbury,612,83028,City to Salisbury,1,,8786
+Salisbury,612,83029,City to Salisbury,1,,8786
+Salisbury,601,83030,Salisbury to City,0,,1243
+Salisbury,601,83031,Salisbury to City,0,,1243
+Salisbury,601,83032,Salisbury to City,0,,1243
+Salisbury,601,83033,Salisbury to City,0,,1243
+Salisbury,601,83034,Salisbury to City,0,,8788
+Salisbury,601,83035,Salisbury to City,0,,8789
+Salisbury,601,83036,Salisbury to Adelaide,0,,3817
+Salisbury,601,83037,Salisbury to City,0,,8788
+Salisbury,601,83038,Salisbury to Adelaide,0,,3817
+Salisbury,601,83039,Salisbury to City,0,,8789
+Salisbury,601,83040,Salisbury to Adelaide,0,,3817
+Salisbury,601,83041,Salisbury to City,0,,8788
+Salisbury,601,83042,Salisbury to City,0,,8790
+Salisbury,601,83043,Salisbury to City,0,,8788
+Salisbury,601,83044,Salisbury to City,0,,8790
+Salisbury,601,83045,Salisbury to City,0,,8788
+Salisbury,601,83046,Salisbury to City,0,,8790
+Salisbury,601,83047,Salisbury to City,0,,8788
+Salisbury,601,83048,Salisbury to City,0,,8790
+Salisbury,601,83049,Salisbury to City,0,,8788
+Salisbury,601,83050,Salisbury to City,0,,8790
+Salisbury,601,83051,Salisbury to City,0,,8788
+Salisbury,601,83052,Salisbury to City,0,,8790
+Salisbury,601,83053,Salisbury to City,0,,8788
+Salisbury,601,83054,Salisbury to City,0,,8790
+Salisbury,601,83055,Salisbury to City,0,,8788
+Salisbury,601,83056,Salisbury to City,0,,8790
+Salisbury,601,83057,Salisbury to City,0,,8788
+Salisbury,601,83058,Salisbury to City,0,,8790
+Salisbury,601,83059,Salisbury to City,0,,8788
+Salisbury,601,83060,Salisbury to City,0,,8790
+Salisbury,601,83061,Salisbury to City,0,,8788
+Salisbury,601,83062,Salisbury to City,0,,8790
+Salisbury,601,83063,Salisbury to City,0,,8788
+Salisbury,601,83064,Salisbury to City,0,,8789
+Salisbury,601,83065,Salisbury to City,0,,8788
+Salisbury,601,83066,Salisbury to City,0,,8790
+Salisbury,601,83067,Salisbury to City,0,,8788
+Salisbury,601,83068,Salisbury to City,0,,8789
+Salisbury,601,83069,Salisbury to City,0,,8788
+Salisbury,601,83070,Salisbury to City,0,,8789
+Salisbury,601,83071,Salisbury to City,0,,8788
+Salisbury,601,83072,Salisbury to City,0,,8789
+Salisbury,601,83073,Salisbury to City,0,,8788
+Salisbury,601,83074,Salisbury to City,0,,8789
+Salisbury,601,83075,Salisbury to City,0,,8788
+Salisbury,601,83076,Salisbury to City,0,,8789
+Salisbury,601,83077,Salisbury to City,0,,8788
+Salisbury,601,83078,Salisbury to City,0,,1241
+Salisbury,601,83079,Salisbury to City,0,,8789
+Salisbury,601,83080,Salisbury to City,0,,1241
+Salisbury,601,83081,Salisbury to City,0,,8788
+Salisbury,601,83082,Salisbury to City,0,,1241
+Salisbury,601,83083,Salisbury to City,0,,8789
+Salisbury,601,83084,Salisbury to City,0,,8788
+Salisbury,601,83085,Salisbury to City,0,,8789
+Salisbury,601,83086,Salisbury to City,0,,1241
+Salisbury,601,83087,Salisbury to City,0,,8791
+Salisbury,601,83088,Salisbury to City,0,,1241
+Salisbury,601,83089,Salisbury to City,0,,8791
+Salisbury,601,83090,Salisbury to City,0,,8791
+Salisbury,601,83091,Salisbury to City,0,,8791
+Salisbury,601,83092,Salisbury to City,0,,8791
+Salisbury,606,83093,Salisbury to City,0,,8791
+Salisbury,601,83094,Salisbury to City,0,,8791
+Salisbury,601,83095,Salisbury to City,0,,8791
+Salisbury,601,83096,Salisbury to City,0,,8791
+Salisbury,601,83097,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83098,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83099,City to Salisbury,1,,1245
+Salisbury,601,83100,City to Salisbury,1,,1245
+Salisbury,601,83101,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83102,City to Salisbury,1,,8781
+Salisbury,601,83103,City to Salisbury,1,,8782
+Salisbury,601,83104,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83105,City to Salisbury,1,,8781
+Salisbury,601,83106,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83107,City to Salisbury,1,,8782
+Salisbury,601,83108,Adelaide to Salisbury Express,1,,1244
+Salisbury,601,83109,City to Salisbury,1,,8781
+Salisbury,601,83110,City to Salisbury,1,,8782
+Salisbury,601,83111,City to Salisbury,1,,8781
+Salisbury,601,83112,City to Salisbury,1,,8782
+Salisbury,601,83113,City to Salisbury,1,,8781
+Salisbury,601,83114,City to Salisbury,1,,8782
+Salisbury,601,83115,City to Salisbury,1,,8783
+Salisbury,601,83116,City to Salisbury,1,,8782
+Salisbury,601,83117,City to Salisbury,1,,8783
+Salisbury,601,83118,City to Salisbury,1,,8782
+Salisbury,601,83119,City to Salisbury,1,,8783
+Salisbury,601,83120,City to Salisbury,1,,8782
+Salisbury,601,83121,City to Salisbury,1,,8783
+Salisbury,601,83122,City to Salisbury,1,,8782
+Salisbury,601,83123,City to Salisbury,1,,8783
+Salisbury,601,83124,City to Salisbury,1,,8782
+Salisbury,601,83125,City to Salisbury,1,,8783
+Salisbury,601,83126,City to Salisbury,1,,8782
+Salisbury,601,83127,City to Salisbury,1,,8783
+Salisbury,601,83128,City to Salisbury,1,,8782
+Salisbury,601,83129,City to Salisbury,1,,8783
+Salisbury,601,83130,City to Salisbury,1,,8782
+Salisbury,601,83131,City to Salisbury,1,,8783
+Salisbury,601,83132,City to Salisbury,1,,8784
+Salisbury,601,83133,City to Salisbury,1,,8783
+Salisbury,601,83134,City to Salisbury,1,,8782
+Salisbury,601,83135,City to Salisbury,1,,8783
+Salisbury,601,83136,City to Salisbury,1,,8782
+Salisbury,601,83137,City to Salisbury,1,,8783
+Salisbury,601,83138,City to Salisbury,1,,8782
+Salisbury,601,83139,City to Salisbury,1,,8781
+Salisbury,601,83140,City to Salisbury,1,,8782
+Salisbury,601,83141,City to Salisbury,1,,8781
+Salisbury,601,83142,City to Salisbury,1,,8782
+Salisbury,601,83143,City to Salisbury,1,,8781
+Salisbury,601,83144,City to Salisbury,1,,8782
+Salisbury,601,83145,City to Salisbury,1,,8781
+Salisbury,601,83146,City to Salisbury,1,,8785
+Salisbury,601,83147,City to Salisbury,1,,8782
+Salisbury,601,83148,City to Salisbury,1,,8785
+Salisbury,601,83149,City to Salisbury,1,,8781
+Salisbury,601,83150,City to Salisbury,1,,8785
+Salisbury,601,83151,City to Salisbury,1,,8782
+Salisbury,601,83152,City to Salisbury,1,,8781
+Salisbury,601,83153,City to Salisbury,1,,8782
+Salisbury,601,83154,City to Salisbury,1,,8781
+Salisbury,601,83155,City to Salisbury,1,,8782
+Salisbury,601,83156,City to Salisbury,1,,8786
+Salisbury,601,83157,City to Salisbury,1,,8786
+Salisbury,601,83158,City to Salisbury,1,,8786
+Salisbury,601,83159,City to Salisbury,1,,8786
+Salisbury,606,83160,City to Salisbury,1,,8786
+Salisbury,601,83161,City to Salisbury,1,,8786
+Salisbury,601,83162,City to Salisbury,1,,8786
+Salisbury,601,83163,City to Salisbury,1,,8786
