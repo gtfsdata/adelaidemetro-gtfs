@@ -355,6 +355,8 @@ GA1S,admet,GA1S,Smithfield to Salisbury Interchange,"Smithfield Station, Broadme
 GA2,admet,GA2,Gawler Station to Salisbury Interchange,"Gawler Station, Smithfield Station, Elizabeth Shopping Centre, Salisbury Interchange",3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=gawler+train&js=1,58595b,ffffff,Gawler Substitute
 GA2S,admet,GA2S,Smithfield Station to Salisbury Interchange,"Smithfield Station, Elizabeth Shopping Centre, Salisbury Interchange",3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=gawler+train&js=1,58595b,ffffff,Gawler Substitute
 GA4,admet,GA4,Gawler Station to Salisbury Interchange,"Gawler Station, Salisbury Station",3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=gawler+train&js=1,c6006f,ffffff,Gawler Substitute
+Gawler,admet,GAW,Gawler,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff,
+Gawler Central,admet,GAWC,Gawler Central,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Gawler+train&js=1,b45240,ffffff,
 Glanville,admet,GLAN,Glanville to Adelaide,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff,Outer Harbor
 Grange,admet,GRNG,Grange to Adelaide,,2,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Outer Harbor+train&js=1,936eb0,ffffff,Outer Harbor
 Grange Sub,admet,GrnSub,Grange Station to Woodville Station Substitue Bus,,3,http://timetables.adelaidemetro.com.au/ttsearch.php?action=search&searchtext=Grange+train&js=1,936eb0,ffffff,Grange

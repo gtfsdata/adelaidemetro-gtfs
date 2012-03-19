@@ -515,6 +515,246 @@ Belair,1,21083,Belair,1,,1143
 Belair,1,21084,Belair,1,,1143
 Belair,1,21085,Belair,1,,1143
 Belair,1,21086,Belair,1,,1143
+Gawler Central,613,21122,City,0,,3884
+Gawler Central,613,21123,City,0,,1158
+Gawler Central,613,21124,City,0,,3884
+Gawler Central,613,21125,City,0,,1158
+Gawler Central,613,21126,City,0,,3884
+Gawler Central,613,21127,City,0,,1158
+Gawler Central,613,21128,City,0,,3884
+Gawler Central,613,21129,City,0,,1158
+Gawler Central,613,21130,City,0,,3884
+Gawler Central,613,21131,City,0,,1158
+Gawler Central,613,21132,City,0,,3884
+Gawler Central,613,21133,City,0,,1158
+Gawler Central,613,21134,City,0,,3884
+Gawler Central,613,21135,City,0,,1158
+Gawler Central,613,21136,City,0,,3884
+Gawler Central,613,21137,City,0,,1158
+Gawler Central,613,21138,City,0,,3884
+Gawler Central,613,21139,City,0,,1158
+Gawler Central,613,21140,City,0,,3884
+Gawler Central,613,21141,City,0,,1158
+Gawler Central,613,21142,City,0,,3884
+Gawler Central,613,21143,City,0,,1158
+Gawler Central,613,21144,City,0,,3884
+Gawler Central,613,21145,City,0,,3884
+Gawler Central,613,21146,City,0,,3884
+Gawler Central,613,21147,City,0,,3884
+Gawler Central,613,21148,City,0,,3884
+Gawler Central,613,21149,City,0,,3884
+Gawler Central,611,21150,City,0,,3884
+Gawler Central,611,21151,City,0,,3884
+Gawler Central,611,21152,City,0,,1158
+Gawler Central,611,21153,City,0,,3884
+Gawler Central,611,21154,City,0,,1158
+Gawler Central,611,21155,City,0,,3884
+Gawler Central,611,21156,City,0,,1158
+Gawler Central,611,21157,City,0,,3884
+Gawler Central,611,21158,City,0,,1158
+Gawler Central,611,21159,City,0,,3884
+Gawler Central,611,21160,City,0,,1158
+Gawler Central,611,21161,City,0,,3884
+Gawler Central,611,21162,City,0,,1158
+Gawler Central,611,21163,City,0,,3884
+Gawler Central,611,21164,City,0,,1158
+Gawler Central,611,21165,City,0,,3884
+Gawler Central,611,21166,City,0,,1158
+Gawler Central,611,21167,City,0,,3884
+Gawler Central,611,21168,City,0,,1158
+Gawler Central,611,21169,City,0,,3884
+Gawler Central,611,21170,City,0,,1158
+Gawler Central,611,21171,City,0,,3884
+Gawler Central,611,21172,City,0,,1158
+Gawler Central,611,21173,City,0,,3884
+Gawler Central,611,21174,City,0,,3884
+Gawler Central,611,21175,City,0,,3884
+Gawler Central,611,21176,City,0,,3884
+Gawler Central,611,21177,City,0,,3884
+Gawler Central,611,21178,City,0,,3884
+Gawler Central,601,21179,City,0,,3883
+Gawler Central,601,21180,City,0,,3883
+Gawler Central,601,21181,City,0,,3883
+Gawler Central,601,21182,City,0,,3883
+Gawler Central,601,21183,City,0,,6493
+Gawler,601,21184,City,0,,6483
+Gawler Central,601,21185,City,0,,6494
+Gawler,601,21186,City,0,,6484
+Gawler Central,601,21187,City,0,,6494
+Gawler,601,21188,City,0,,6483
+Gawler Central,601,21189,City,0,,6494
+Gawler,601,21190,City,0,,6484
+Gawler,601,21191,City,0,,6485
+Gawler Central,601,21192,City,0,,6493
+Gawler,601,21193,City,0,,6486
+Gawler Central,601,21194,City,0,,6493
+Gawler,601,21195,City,0,,6485
+Gawler Central,601,21196,City,0,,6493
+Gawler,601,21197,City,0,,6485
+Gawler Central,601,21198,City,0,,6493
+Gawler,601,21199,City,0,,6485
+Gawler Central,601,21200,City,0,,6493
+Gawler,601,21201,City,0,,6485
+Gawler Central,601,21202,City,0,,6493
+Gawler,601,21203,City,0,,6485
+Gawler Central,601,21204,City,0,,6493
+Gawler,601,21205,City,0,,6485
+Gawler Central,601,21206,City,0,,6493
+Gawler,601,21207,City,0,,6485
+Gawler Central,601,21208,City,0,,6493
+Gawler,601,21209,City,0,,6485
+Gawler Central,601,21210,City,0,,6493
+Gawler,601,21211,City,0,,6485
+Gawler Central,601,21212,City,0,,6493
+Gawler,601,21213,City,0,,6483
+Gawler Central,601,21214,City,0,,6493
+Gawler,601,21215,City,0,,6485
+Gawler Central,601,21216,City,0,,6493
+Gawler,601,21217,City,0,,6483
+Gawler Central,601,21218,City,0,,6493
+Gawler,601,21219,City,0,,6483
+Gawler Central,601,21220,City,0,,6493
+Gawler,601,21221,City,0,,6486
+Gawler Central,601,21222,City,0,,6493
+Gawler,601,21223,City,0,,6483
+Gawler Central,601,21224,City,0,,1160
+Gawler,601,21225,City,0,,6483
+Gawler Central,601,21226,City,0,,1160
+Gawler,601,21227,City,0,,6483
+Gawler Central,601,21228,City,0,,6493
+Gawler,601,21229,City,0,,6483
+Gawler Central,601,21230,City,0,,6493
+Gawler Central,601,21231,City,0,,6495
+Gawler,601,21232,City,0,,6483
+Gawler,601,21234,City,0,,6487
+Gawler Central,601,21235,City,0,,3884
+Gawler Central,601,21236,City,0,,3884
+Gawler Central,601,21237,City,0,,3884
+Gawler Central,601,21238,City,0,,3884
+Gawler Central,601,21239,City,0,,3884
+Gawler Central,601,21240,City,0,,3884
+Gawler Central,613,21241,Gawler Central,1,,3886
+Gawler Central,613,21243,Gawler Central,1,,3886
+Gawler Central,613,21244,Gawler Central,1,,1165
+Gawler Central,613,21245,Gawler Central,1,,3886
+Gawler Central,613,21246,Gawler Central,1,,1165
+Gawler Central,613,21247,Gawler Central,1,,3886
+Gawler Central,613,21248,Gawler Central,1,,1165
+Gawler Central,613,21249,Gawler Central,1,,3886
+Gawler Central,613,21250,Gawler Central,1,,1165
+Gawler Central,613,21251,Gawler Central,1,,3886
+Gawler Central,613,21252,Gawler Central,1,,1165
+Gawler Central,613,21253,Gawler Central,1,,3886
+Gawler Central,613,21254,Gawler Central,1,,1165
+Gawler Central,613,21255,Gawler Central,1,,3886
+Gawler Central,613,21256,Gawler Central,1,,1165
+Gawler Central,613,21257,Gawler Central,1,,3886
+Gawler Central,613,21258,Gawler Central,1,,1165
+Gawler Central,613,21259,Gawler Central,1,,3886
+Gawler Central,613,21260,Gawler Central,1,,1165
+Gawler Central,613,21261,Gawler Central,1,,3886
+Gawler Central,613,21262,Gawler Central,1,,1165
+Gawler Central,613,21263,Gawler Central,1,,3886
+Gawler Central,613,21264,Gawler Central,1,,1165
+Gawler Central,613,21265,Gawler Central,1,,3886
+Gawler Central,613,21266,Gawler Central,1,,3886
+Gawler Central,613,21267,Gawler Central,1,,3886
+Gawler Central,613,21268,Gawler Central,1,,3886
+Gawler Central,613,21269,Gawler Central,1,,3886
+Gawler Central,613,21270,Gawler Central,1,,3886
+Gawler Central,611,21271,Gawler Central,1,,3886
+Gawler Central,611,21272,Gawler Central,1,,1165
+Gawler Central,611,21273,Gawler Central,1,,3886
+Gawler Central,611,21274,Gawler Central,1,,1165
+Gawler Central,611,21275,Gawler Central,1,,3886
+Gawler Central,611,21276,Gawler Central,1,,1165
+Gawler Central,611,21277,Gawler Central,1,,3886
+Gawler Central,611,21278,Gawler Central,1,,1165
+Gawler Central,611,21279,Gawler Central,1,,3886
+Gawler Central,611,21280,Gawler Central,1,,1165
+Gawler Central,611,21281,Gawler Central,1,,3886
+Gawler Central,611,21282,Gawler Central,1,,1165
+Gawler Central,611,21283,Gawler Central,1,,3886
+Gawler Central,611,21284,Gawler Central,1,,1165
+Gawler Central,611,21285,Gawler Central,1,,3886
+Gawler Central,611,21286,Gawler Central,1,,1165
+Gawler Central,611,21287,Gawler Central,1,,3886
+Gawler Central,611,21288,Gawler Central,1,,1165
+Gawler Central,611,21289,Gawler Central,1,,3886
+Gawler Central,611,21290,Gawler Central,1,,1165
+Gawler Central,611,21291,Gawler Central,1,,3886
+Gawler Central,611,21292,Gawler Central,1,,1165
+Gawler Central,611,21293,Gawler Central,1,,3886
+Gawler Central,611,21294,Gawler Central,1,,1165
+Gawler Central,611,21295,Gawler Central,1,,3886
+Gawler Central,611,21296,Gawler Central,1,,3886
+Gawler Central,611,21297,Gawler Central,1,,3886
+Gawler Central,611,21298,Gawler Central,1,,3886
+Gawler Central,611,21299,Gawler Central,1,,3886
+Gawler Central,611,21300,Gawler Central,1,,3886
+Gawler,601,21301,Gawler,1,,3882
+Gawler Central,601,21302,Gawler Central,1,,6496
+Gawler,601,21303,Gawler,1,,3882
+Gawler Central,601,21304,Gawler Central,1,,6496
+Gawler,601,21305,Gawler,1,,6488
+Gawler Central,601,21306,Gawler Central,1,,6497
+Gawler,601,21307,Gawler,1,,6488
+Gawler Central,601,21308,Gawler Central,1,,6497
+Gawler,601,21309,Gawler,1,,6489
+Gawler Central,601,21310,Gawler Central,1,,6497
+Gawler,601,21311,Gawler,1,,6488
+Gawler Central,601,21312,Gawler Central,1,,6497
+Gawler,601,21313,Gawler,1,,6488
+Gawler Central,601,21314,Gawler Central,1,,6498
+Gawler,601,21315,Gawler,1,,6490
+Gawler Central,601,21316,Gawler Central,1,,6498
+Gawler,601,21317,Gawler,1,,6490
+Gawler Central,601,21318,Gawler Central,1,,6498
+Gawler,601,21319,Gawler,1,,6490
+Gawler Central,601,21320,Gawler Central,1,,6498
+Gawler,601,21321,Gawler,1,,6490
+Gawler Central,601,21322,Gawler Central,1,,6498
+Gawler,601,21323,Gawler,1,,6490
+Gawler Central,601,21324,Gawler Central,1,,6498
+Gawler,601,21325,Gawler,1,,6490
+Gawler Central,601,21326,Gawler Central,1,,6498
+Gawler,601,21327,Gawler,1,,6490
+Gawler Central,601,21328,Gawler Central,1,,6498
+Gawler,601,21329,Gawler,1,,6490
+Gawler Central,601,21330,Gawler Central,1,,6498
+Gawler,601,21331,Gawler,1,,6490
+Gawler Central,601,21332,Gawler Central,1,,6499
+Gawler,601,21333,Gawler,1,,6490
+Gawler Central,601,21334,Gawler Central,1,,6498
+Gawler,601,21335,Gawler,1,,6490
+Gawler Central,601,21336,Gawler Central,1,,6498
+Gawler,601,21337,Gawler,1,,6491
+Gawler Central,601,21338,Gawler Central,1,,6498
+Gawler,601,21339,Gawler,1,,6488
+Gawler Central,601,21340,Gawler Central,1,,6498
+Gawler,601,21341,Gawler,1,,6488
+Gawler Central,601,21342,Gawler Central,1,,6498
+Gawler,601,21343,Gawler,1,,6488
+Gawler Central,601,21344,Gawler Central,1,,6498
+Gawler,601,21345,Gawler,1,,6488
+Gawler Central,601,21346,Gawler Central,1,,6500
+Gawler,601,21347,Gawler,1,,6492
+Gawler Central,601,21348,Gawler Central,1,,6500
+Gawler,601,21349,Gawler,1,,6488
+Gawler Central,601,21350,Gawler Central,1,,6500
+Gawler,601,21351,Gawler,1,,6492
+Gawler Central,601,21352,Gawler Central,1,,6501
+Gawler Central,601,21353,Gawler Central,1,,6498
+Gawler,601,21354,Gawler,1,,6488
+Gawler Central,601,21355,Gawler Central,1,,6498
+Gawler Central,601,21356,Gawler Central,1,,3886
+Gawler Central,601,21357,Gawler Central,1,,3886
+Gawler Central,601,21358,Gawler Central,1,,3886
+Gawler Central,601,21359,Gawler Central,1,,3886
+Gawler Central,601,21360,Gawler Central,1,,3886
+Gawler Central,601,21361,Gawler Central,1,,3886
+Gawler Central,601,21362,Gawler Central,1,,3886
+Gawler Central,606,21363,Gawler Central,1,,1165
 N864,51,30705,City,0,,6591
 N864,51,30706,City,0,,6591
 N864,51,30707,City,0,,6591
@@ -522,6 +762,11 @@ N864,51,30708,Mt Barker,1,,6593
 N864,51,30709,Mt Barker,1,,6593
 N864,51,30710,Mt Barker,1,,6593
 N864,51,30711,Mt Barker,1,,6593
+Salisbury,601,30790,Salisbury,1,29999,1244
+Salisbury,601,30791,City,0,29999,3817
+Gawler Central,606,30792,City,0,29999,3884
+Gawler Central,606,30793,Gawler Central,1,29999,3886
+Gawler Central,601,30799,City,0,29999,3884
 Outer Harbor,11,41046,City,0,,1232
 Outer Harbor,13,41047,City,0,,1232
 Outer Harbor,11,41048,City,0,,1232
@@ -532,6 +777,8 @@ Outer Harbor,13,41052,City,0,,1232
 Outer Harbor,13,41053,City,0,,1232
 Outer Harbor,13,41054,City,0,,1232
 Outer Harbor,13,41055,City,0,,1232
+Gawler Central,611,41056,City,0,29999,3884
+Gawler Central,613,41057,City,0,29999,3884
 Outer Harbor,13,41058,City,0,,1232
 Outer Harbor,13,41059,City,0,,1232
 Outer Harbor,13,41060,City,0,,1232
@@ -11357,244 +11604,6 @@ N502,51,77068,City ,0,,8352
 N502,51,77069,City ,0,,8352
 N502,51,77070,City ,0,,8352
 N502,51,77071,City ,0,,8352
-GA1,1,77402,Mawson ,0,,8424
-GA2,1,77403,Mawson ,0,,8422
-GA1,1,77404,Mawson ,0,,8424
-GA2,1,77405,Mawson ,0,,8422
-GA1,1,77406,Mawson ,0,,8424
-GA2,1,77407,Mawson ,0,,8422
-GA1,1,77408,Mawson ,0,,8424
-GA2,1,77409,Mawson ,0,,8422
-GA1,1,77412,Mawson ,0,,8424
-GA2,1,77413,Mawson ,0,,8422
-GA1,1,77416,Mawson ,0,,8424
-GA2,1,77417,Mawson ,0,,8422
-GA1,1,77421,Mawson ,0,,8424
-GA2,1,77422,Mawson ,0,,8422
-GA1,1,77427,Mawson ,0,,8424
-GA2,1,77428,Mawson ,0,,8422
-GA1,1,77433,Mawson ,0,,8424
-GA2,1,77434,Mawson ,0,,8422
-GA1,1,77437,Mawson ,0,,8424
-GA2,1,77438,Mawson ,0,,8422
-GA1,1,77439,Mawson ,0,,8424
-GA2,1,77440,Mawson ,0,,8422
-GA1,1,77441,Mawson ,0,,8424
-GA2,1,77442,Mawson ,0,,8422
-GA1,1,77445,Mawson ,0,,8424
-GA2,1,77446,Mawson ,0,,8422
-GA1,1,77447,Mawson ,0,,8424
-GA2,1,77448,Mawson ,0,,8422
-GA1,1,77449,Mawson ,0,,8424
-GA2,1,77450,Mawson ,0,,8422
-GA1,1,77451,Mawson ,0,,8424
-GA2,1,77452,Mawson ,0,,8422
-GA1,1,77453,Mawson ,0,,8424
-GA2,1,77454,Mawson ,0,,8422
-GA1,1,77455,Mawson ,0,,8424
-GA2,1,77456,Mawson ,0,,8422
-GA1,1,77457,Mawson ,0,,8424
-GA2,1,77458,Mawson ,0,,8422
-GA1,1,77461,Mawson ,0,,8424
-GA2,1,77462,Mawson ,0,,8422
-GA1,1,77463,Mawson ,0,,8424
-GA2,1,77464,Mawson ,0,,8422
-GA1,1,77465,Mawson ,0,,8424
-GA2,1,77466,Mawson ,0,,8422
-GA1,1,77467,Mawson ,0,,8424
-GA2,1,77468,Mawson ,0,,8422
-GA1,1,77469,Mawson ,0,,8424
-GA2,1,77470,Mawson ,0,,8422
-GA1,1,77471,Mawson ,0,,8424
-GA2,1,77472,Mawson ,0,,8422
-GA1,1,77473,Mawson ,0,,8424
-GA2,1,77474,Mawson ,0,,8422
-GA1,1,77475,Mawson ,0,,8424
-GA2,1,77476,Mawson ,0,,8422
-GA1,1,77477,Mawson ,0,,8424
-GA2,1,77478,Mawson ,0,,8422
-GA1,1,77479,Mawson ,0,,8424
-GA2,1,77480,Mawson ,0,,8422
-GA1,1,77481,Mawson ,0,,8424
-GA2,1,77482,Mawson ,0,,8422
-GA1,1,77483,Mawson ,0,,8424
-GA2,1,77484,Mawson ,0,,8422
-GA1,1,77485,Mawson ,0,,8424
-GA2,1,77486,Mawson ,0,,8422
-GA1,1,77487,Mawson ,0,,8424
-GA2,1,77488,Mawson ,0,,8422
-GA1,1,77489,Mawson ,0,,8424
-GA2,1,77490,Mawson ,0,,8422
-GA1,1,77491,Mawson ,0,,8424
-GA2,1,77492,Mawson ,0,,8422
-GA1,1,77493,Mawson ,0,,8424
-GA2,1,77494,Mawson ,0,,8422
-GA1,1,77495,Mawson ,0,,8424
-GA2,1,77496,Mawson ,0,,8422
-GA1,1,77497,Mawson ,0,,8424
-GA2,1,77498,Mawson ,0,,8422
-GA1,1,77499,Mawson ,0,,8424
-GA2,1,77500,Mawson ,0,,8422
-GA1,1,77501,Mawson ,0,,8424
-GA2,1,77502,Mawson ,0,,8422
-GA1,1,77503,Mawson ,0,,8424
-GA2,1,77504,Mawson ,0,,8422
-GA1,1,77505,Mawson ,0,,8424
-GA2,1,77506,Mawson ,0,,8422
-GA1,1,77507,Mawson ,0,,8424
-GA2,1,77508,Mawson ,0,,8422
-GA1,1,77509,Mawson ,0,,8424
-GA2,1,77510,Mawson ,0,,8422
-GA1,1,77511,Mawson ,0,,8424
-GA2,1,77512,Mawson ,0,,8422
-GA1,1,77513,Mawson ,0,,8424
-GA2,1,77514,Mawson ,0,,8422
-GA1,1,77515,Mawson ,0,,8424
-GA2,1,77516,Mawson ,0,,8422
-GA1,1,77517,Mawson ,0,,8424
-GA2,1,77518,Mawson ,0,,8422
-GA1,1,77519,Mawson ,0,,8424
-GA2,1,77520,Mawson ,0,,8422
-GA1,1,77521,Mawson ,0,,8424
-GA2,1,77522,Mawson ,0,,8422
-GA1,1,77523,Mawson ,0,,8424
-GA2,1,77524,Mawson ,0,,8422
-GA1,1,77525,Mawson ,0,,8424
-GA2,1,77526,Mawson ,0,,8422
-GA1,1,77527,Mawson ,0,,8424
-GA2,1,77528,Mawson ,0,,8422
-GA1,1,77529,Mawson ,0,,8424
-GA2,1,77530,Mawson ,0,,8422
-GA1,1,77531,Mawson ,0,,8424
-GA2,1,77532,Mawson ,0,,8422
-GA1,5,77533,Mawson ,0,,8424
-GA2,5,77534,Mawson ,0,,8422
-GA1,1,77535,Mawson ,0,,8424
-GA2,1,77536,Mawson ,0,,8422
-GA1,1,77537,Mawson ,0,,8424
-GA2,1,77538,Mawson ,0,,8422
-GA1,1,77539,Mawson ,0,,8424
-GA2,1,77540,Mawson ,0,,8422
-GA1,1,77541,Gawler,1,,8425
-GA2,1,77542,Gawler,1,,8423
-GA1,1,77543,Gawler,1,,8425
-GA2,1,77544,Gawler,1,,8423
-GA1,1,77545,Gawler,1,,8425
-GA2,1,77546,Gawler,1,,8423
-GA1,1,77547,Gawler,1,,8425
-GA2,1,77548,Gawler,1,,8423
-GA1,1,77549,Gawler,1,,8425
-GA2,1,77550,Gawler,1,,8423
-GA1,1,77551,Gawler,1,,8425
-GA2,1,77552,Gawler,1,,8423
-GA1,1,77553,Gawler,1,,8425
-GA2,1,77554,Gawler,1,,8423
-GA1,1,77555,Gawler,1,,8425
-GA2,1,77556,Gawler,1,,8423
-GA1,1,77557,Gawler,1,,8425
-GA2,1,77558,Gawler,1,,8423
-GA1,1,77559,Gawler,1,,8425
-GA2,1,77560,Gawler,1,,8423
-GA1,1,77561,Gawler,1,,8425
-GA2,1,77562,Gawler,1,,8423
-GA1,1,77563,Gawler,1,,8425
-GA2,1,77564,Gawler,1,,8423
-GA1,1,77565,Gawler,1,,8425
-GA2,1,77566,Gawler,1,,8423
-GA1,1,77567,Gawler,1,,8425
-GA2,1,77568,Gawler,1,,8423
-GA1,1,77569,Gawler,1,,8425
-GA2,1,77570,Gawler,1,,8423
-GA1,1,77573,Gawler,1,,8425
-GA2,1,77574,Gawler,1,,8423
-GA1,1,77575,Gawler,1,,8425
-GA2,1,77576,Gawler,1,,8423
-GA1,1,77577,Gawler,1,,8425
-GA2,1,77578,Gawler,1,,8423
-GA1,1,77579,Gawler,1,,8425
-GA2,1,77580,Gawler,1,,8423
-GA1,1,77581,Gawler,1,,8425
-GA2,1,77582,Gawler,1,,8423
-GA1,1,77583,Gawler,1,,8425
-GA2,1,77584,Gawler,1,,8423
-GA1,1,77585,Gawler,1,,8425
-GA2,1,77586,Gawler,1,,8423
-GA1,1,77587,Gawler,1,,8425
-GA2,1,77588,Gawler,1,,8423
-GA1,1,77589,Gawler,1,,8425
-GA2,1,77590,Gawler,1,,8423
-GA1,1,77591,Gawler,1,,8425
-GA2,1,77592,Gawler,1,,8423
-GA1,1,77593,Gawler,1,,8425
-GA2,1,77594,Gawler,1,,8423
-GA1,1,77595,Gawler,1,,8425
-GA2,1,77596,Gawler,1,,8423
-GA1,1,77597,Gawler,1,,8425
-GA2,1,77598,Gawler,1,,8423
-GA1,1,77599,Gawler,1,,8425
-GA2,1,77600,Gawler,1,,8423
-GA1,1,77601,Gawler,1,,8425
-GA2,1,77602,Gawler,1,,8423
-GA1,1,77603,Gawler,1,,8425
-GA2,1,77604,Gawler,1,,8423
-GA1,1,77605,Gawler,1,,8425
-GA2,1,77606,Gawler,1,,8423
-GA1,1,77607,Gawler,1,,8425
-GA2,1,77608,Gawler,1,,8423
-GA1,1,77611,Gawler,1,,8425
-GA2,1,77612,Gawler,1,,8423
-GA1,1,77615,Gawler,1,,8425
-GA2,1,77616,Gawler,1,,8423
-GA1,1,77619,Gawler,1,,8425
-GA2,1,77620,Gawler,1,,8423
-GA1,1,77623,Gawler,1,,8425
-GA2,1,77624,Gawler,1,,8423
-GA1,1,77627,Gawler,1,,8425
-GA2,1,77628,Gawler,1,,8423
-GA1,1,77631,Gawler,1,,8425
-GA2,1,77632,Gawler,1,,8423
-GA1,1,77635,Gawler,1,,8425
-GA2,1,77636,Gawler,1,,8423
-GA1,1,77639,Gawler,1,,8425
-GA2,1,77640,Gawler,1,,8423
-GA1,1,77643,Gawler,1,,8425
-GA2,1,77644,Gawler,1,,8423
-GA1,1,77647,Gawler,1,,8425
-GA2,1,77648,Gawler,1,,8423
-GA1,1,77651,Gawler,1,,8425
-GA2,1,77652,Gawler,1,,8423
-GA1,1,77655,Gawler,1,,8425
-GA2,1,77656,Gawler,1,,8423
-GA1,1,77659,Gawler,1,,8425
-GA2,1,77660,Gawler,1,,8423
-GA1,1,77663,Gawler,1,,8425
-GA2,1,77664,Gawler,1,,8423
-GA1,1,77667,Gawler,1,,8425
-GA2,1,77668,Gawler,1,,8423
-GA1,1,77669,Gawler,1,,8425
-GA2,1,77670,Gawler,1,,8423
-GA1,1,77671,Gawler,1,,8425
-GA2,1,77672,Gawler,1,,8423
-GA1,1,77673,Gawler,1,,8425
-GA2,1,77674,Gawler,1,,8423
-GA1,1,77675,Gawler,1,,8425
-GA2,1,77676,Gawler,1,,8423
-GA1,1,77677,Gawler,1,,8425
-GA2,1,77678,Gawler,1,,8423
-GA1,1,77679,Gawler,1,,8425
-GA2,1,77680,Gawler,1,,8423
-GA1,1,77681,Gawler,1,,8425
-GA2,1,77682,Gawler,1,,8423
-GA1,1,77683,Gawler,1,,8425
-GA2,1,77684,Gawler,1,,8423
-GA1,5,77685,Gawler,1,,8425
-GA2,5,77686,Gawler,1,,8423
-GA1,1,77687,Gawler,1,,8425
-GA2,1,77688,Gawler,1,,8423
-GA1,1,77689,Gawler,1,,8425
-GA2,1,77690,Gawler,1,,8423
-GA1,1,77691,Gawler,1,,8425
-GA2,1,77692,Gawler,1,,8423
 712,1,77693,O'Halloran Hill TAFE,0,41110,4903
 712,1,77694,O'Halloran Hill TAFE,0,,4903
 721F,1,77695,City,0,41456,7639
@@ -15418,574 +15427,576 @@ Noarlunga,1,82541,Noarlunga,1,,8745
 Brighton,1,82542,Brighton,1,,8753
 733,1,82543,Colonnades,1,,8303
 Woodville,1,82544,Woodville,1,,7325
-GA1,601,82593,Salisbury,0,,8794
-GA2,601,82594,Salisbury,0,,8795
-GA1,601,82595,Salisbury,0,,8794
-GA2,601,82596,Salisbury,0,,8795
-GA1,601,82597,Salisbury,0,,8794
-GA2,601,82598,Salisbury,0,,8795
-GA4,601,82599,Salisbury,0,,8802
-GA1,601,82600,Salisbury,0,,8794
-GA2,601,82601,Salisbury,0,,8795
-GA2S,601,82602,Salisbury,0,,8797
-GA4,601,82603,Salisbury,0,,8802
-GA1,601,82604,Salisbury,0,,8794
-GA2,601,82605,Salisbury,0,,8795
-GA2S,601,82606,Salisbury,0,,8797
-GA4,601,82607,Salisbury,0,,8802
-GA1,601,82608,Salisbury,0,,8794
-GA2,601,82609,Salisbury,0,,8795
-GA4,601,82610,Salisbury,0,,8802
-GA4,601,82611,Salisbury,0,,8802
-GA1,601,82612,Salisbury,0,,8794
-GA2,601,82613,Salisbury,0,,8795
-GA2S,601,82614,Salisbury,0,,8797
-GA4,601,82615,Salisbury,0,,8802
-GA4,601,82616,Salisbury,0,,8802
-GA1,601,82617,Salisbury,0,,8794
-GA2,601,82618,Salisbury,0,,8795
-GA2S,601,82619,Salisbury,0,,8797
-GA4,601,82620,Salisbury,0,,8802
-GA1S,601,82621,Salisbury,0,,8796
-GA1,601,82622,Salisbury,0,,8794
-GA2,601,82623,Salisbury,0,,8795
-GA4,601,82624,Salisbury,0,,8802
-GA1,601,82625,Salisbury,0,,8794
-GA2,601,82626,Salisbury,0,,8795
-GA4,601,82627,Salisbury,0,,8802
-GA1,601,82628,Salisbury,0,,8794
-GA2,601,82629,Salisbury,0,,8795
-GA2S,601,82630,Salisbury,0,,8797
-GA4,601,82631,Salisbury,0,,8802
-GA1,601,82632,Salisbury,0,,8794
-GA2,601,82633,Salisbury,0,,8795
-GA1,601,82634,Salisbury,0,,8794
-GA2,601,82635,Salisbury,0,,8795
-GA1,601,82636,Salisbury,0,,8794
-GA2,601,82637,Salisbury,0,,8795
-GA1,601,82638,Salisbury,0,,8794
-GA2,601,82639,Salisbury,0,,8795
-GA2S,601,82640,Salisbury,0,,8797
-GA1S,601,82641,Salisbury,0,,8796
-GA1,601,82642,Salisbury,0,,8794
-GA2,601,82643,Salisbury,0,,8795
-GA1,601,82644,Salisbury,0,,8794
-GA2,601,82645,Salisbury,0,,8795
-GA1,601,82646,Salisbury,0,,8794
-GA2,601,82647,Salisbury,0,,8795
-GA1,601,82648,Salisbury,0,,8794
-GA2,601,82649,Salisbury,0,,8795
-GA1,601,82650,Salisbury,0,,8794
-GA2,601,82651,Salisbury,0,,8795
-GA1,601,82652,Salisbury,0,,8794
-GA2,601,82653,Salisbury,0,,8795
-GA1,601,82654,Salisbury,0,,8794
-GA2,601,82655,Salisbury,0,,8795
-GA1,601,82656,Salisbury,0,,8794
-GA2,601,82657,Salisbury,0,,8795
-GA1,601,82658,Salisbury,0,,8794
-GA2,601,82659,Salisbury,0,,8795
-GA1,601,82660,Salisbury,0,,8794
-GA2,601,82661,Salisbury,0,,8795
-GA1,601,82662,Salisbury,0,,8794
-GA2,601,82663,Salisbury,0,,8795
-GA1,601,82664,Salisbury,0,,8794
-GA2,601,82665,Salisbury,0,,8795
-GA1,601,82666,Salisbury,0,,8794
-GA2,601,82667,Salisbury,0,,8795
-GA1,601,82668,Salisbury,0,,8794
-GA2,601,82669,Salisbury,0,,8795
-GA1,601,82670,Salisbury,0,,8794
-GA2,601,82671,Salisbury,0,,8795
-GA1,601,82672,Salisbury,0,,8794
-GA2,601,82673,Salisbury,0,,8795
-GA1,601,82674,Salisbury,0,,8794
-GA2,601,82675,Salisbury,0,,8795
-GA1,601,82676,Salisbury,0,,8794
-GA2,601,82677,Salisbury,0,,8795
-GA1,601,82678,Salisbury,0,,8794
-GA2,601,82679,Salisbury,0,,8795
-GA1,601,82680,Salisbury,0,,8794
-GA2,601,82681,Salisbury,0,,8795
-GA1,601,82682,Salisbury,0,,8794
-GA2,601,82683,Salisbury,0,,8795
-GA1,601,82684,Salisbury,0,,8794
-GA2,601,82685,Salisbury,0,,8795
-GA1,601,82686,Salisbury,0,,8794
-GA2,601,82687,Salisbury,0,,8795
-GA1,601,82688,Salisbury,0,,8794
-GA2,601,82689,Salisbury,0,,8795
-GA1,601,82690,Salisbury,0,,8794
-GA2,601,82691,Salisbury,0,,8795
-GA1,601,82692,Salisbury,0,,8794
-GA2,601,82693,Salisbury,0,,8795
-GA1,601,82694,Salisbury,0,,8794
-GA2,601,82695,Salisbury,0,,8795
-GA1,601,82696,Salisbury,0,,8794
-GA2,601,82697,Salisbury,0,,8795
-GA1,601,82698,Salisbury,0,,8794
-GA2,601,82699,Salisbury,0,,8795
-GA1,601,82700,Salisbury,0,,8794
-GA1,601,82701,Salisbury,0,,8794
-GA2,601,82702,Salisbury,0,,8795
-GA1,601,82703,Salisbury,0,,8794
-GA2,601,82704,Salisbury,0,,8795
-GA1,601,82705,Salisbury,0,,8794
-GA2,601,82706,Salisbury,0,,8795
-GA1,601,82707,Salisbury,0,,8794
-GA2,601,82708,Salisbury,0,,8795
-GA1,601,82709,Salisbury,0,,8794
-GA2,601,82710,Salisbury,0,,8795
-GA1,601,82711,Salisbury,0,,8794
-GA2,601,82712,Salisbury,0,,8795
-GA1,601,82713,Salisbury,0,,8794
-GA2,601,82714,Salisbury,0,,8795
-GA1,601,82715,Salisbury,0,,8794
-GA2,601,82716,Salisbury,0,,8795
-GA1,601,82717,Salisbury,0,,8794
-GA2,601,82718,Salisbury,0,,8795
-GA1,601,82719,Salisbury,0,,8794
-GA2,601,82720,Salisbury,0,,8795
-GA1,601,82721,Salisbury,0,,8794
-GA2,601,82722,Salisbury,0,,8795
-GA1,601,82723,Salisbury,0,,8794
-GA1,601,82724,Salisbury,0,,8794
-GA1,601,82725,Salisbury,0,,8794
-GA1,601,82726,Salisbury,0,,8794
-GA1,606,82727,Salisbury,0,,8794
-GA1,601,82728,Salisbury,0,,8794
-GA1,601,82729,Salisbury,0,,8794
-GA1,601,82730,Salisbury,0,,8794
-GA1,601,82731,Gawler Central,1,,8798
-GA1,601,82732,Gawler Central,1,,8798
-GA1,601,82733,Gawler Central,1,,8798
-GA2,601,82734,Gawler Station,1,,8800
-GA1,601,82735,Gawler Central,1,,8798
-GA2,601,82736,Gawler Station,1,,8800
-GA1,601,82737,Gawler Central,1,,8798
-GA2,601,82738,Gawler Station,1,,8800
-GA1,601,82739,Gawler Central,1,,8798
-GA2,601,82740,Gawler Station,1,,8800
-GA1E,601,82741,Gawler Central,1,,8799
-GA1,601,82742,Gawler Central,1,,8798
-GA2,601,82743,Gawler Station,1,,8800
-GA1,601,82744,Gawler Central,1,,8798
-GA2,601,82745,Gawler Station,1,,8800
-GA1,601,82746,Gawler Central,1,,8798
-GA2,601,82747,Gawler Station,1,,8800
-GA1,601,82748,Gawler Central,1,,8798
-GA2,601,82749,Gawler Station,1,,8800
-GA1,601,82750,Gawler Central,1,,8798
-GA2,601,82751,Gawler Station,1,,8800
-GA1,601,82752,Gawler Central,1,,8798
-GA2,601,82753,Gawler Station,1,,8800
-GA1,601,82754,Gawler Central,1,,8798
-GA2,601,82755,Gawler Station,1,,8800
-GA1,601,82756,Gawler Central,1,,8798
-GA2,601,82757,Gawler Station,1,,8800
-GA1,601,82758,Gawler Central,1,,8798
-GA2,601,82759,Gawler Station,1,,8800
-GA1,601,82760,Gawler Central,1,,8798
-GA2,601,82761,Gawler Station,1,,8800
-GA1,601,82762,Gawler Central,1,,8798
-GA2,601,82763,Gawler Station,1,,8800
-GA1,601,82764,Gawler Central,1,,8798
-GA2,601,82765,Gawler Station,1,,8800
-GA1,601,82766,Gawler Central,1,,8798
-GA2,601,82767,Gawler Station,1,,8800
-GA1,601,82768,Gawler Central,1,,8798
-GA2,601,82769,Gawler Station,1,,8800
-GA1,601,82770,Gawler Central,1,,8798
-GA2,601,82771,Gawler Station,1,,8800
-GA1,601,82772,Gawler Central,1,,8798
-GA2,601,82773,Gawler Station,1,,8800
-GA1,601,82774,Gawler Central,1,,8798
-GA2,601,82775,Gawler Station,1,,8800
-GA1,601,82776,Gawler Central,1,,8798
-GA2,601,82777,Gawler Station,1,,8800
-GA1,601,82778,Gawler Central,1,,8798
-GA2,601,82779,Gawler Station,1,,8800
-GA1,601,82780,Gawler Central,1,,8798
-GA2,601,82781,Gawler Station,1,,8800
-GA1,601,82782,Gawler Central,1,,8798
-GA2,601,82783,Gawler Station,1,,8800
-GA1,601,82784,Gawler Central,1,,8798
-GA2,601,82785,Gawler Station,1,,8800
-GA1,601,82786,Gawler Central,1,,8798
-GA2,601,82787,Gawler Station,1,,8800
-GA1,601,82788,Gawler Central,1,,8798
-GA2,601,82789,Gawler Station,1,,8800
-GA1,601,82790,Gawler Central,1,,8798
-GA2,601,82791,Gawler Station,1,,8800
-GA1,601,82792,Gawler Central,1,,8798
-GA2,601,82793,Gawler Station,1,,8800
-GA1,601,82794,Gawler Central,1,,8798
-GA2,601,82795,Gawler Station,1,,8800
-GA1,601,82796,Gawler Central,1,,8798
-GA2,601,82797,Gawler Station,1,,8800
-GA1,601,82798,Gawler Central,1,,8798
-GA2,601,82799,Gawler Station,1,,8800
-GA1,601,82800,Gawler Central,1,,8798
-GA2,601,82801,Gawler Station,1,,8800
-GA1,601,82802,Gawler Central,1,,8798
-GA4,601,82803,Gawler Station,1,,8801
-GA1,601,82804,Gawler Central,1,,8798
-GA2,601,82805,Gawler Station,1,,8800
-GA4,601,82806,Gawler Station,1,,8801
-GA1,601,82807,Gawler Central,1,,8798
-GA2,601,82808,Gawler Station,1,,8800
-GA4,601,82809,Gawler Station,1,,8801
-GA1,601,82810,Gawler Central,1,,8798
-GA2,601,82811,Gawler Station,1,,8800
-GA4,601,82812,Gawler Station,1,,8801
-GA1,601,82813,Gawler Central,1,,8798
-GA2,601,82814,Gawler Station,1,,8800
-GA4,601,82815,Gawler Station,1,,8801
-GA1,601,82816,Gawler Central,1,,8798
-GA2,601,82817,Gawler Station,1,,8800
-GA4,601,82818,Gawler Station,1,,8801
-GA1,601,82819,Gawler Central,1,,8798
-GA2,601,82820,Gawler Station,1,,8800
-GA4,601,82821,Gawler Station,1,,8801
-GA1,601,82822,Gawler Central,1,,8798
-GA2,601,82823,Gawler Station,1,,8800
-GA4,601,82824,Gawler Station,1,,8801
-GA1,601,82825,Gawler Central,1,,8798
-GA2,601,82826,Gawler Station,1,,8800
-GA4,601,82827,Gawler Station,1,,8801
-GA1,601,82828,Gawler Central,1,,8798
-GA2,601,82829,Gawler Station,1,,8800
-GA4,601,82830,Gawler Station,1,,8801
-GA1,601,82831,Gawler Central,1,,8798
-GA2,601,82832,Gawler Station,1,,8800
-GA4,601,82833,Gawler Station,1,,8801
-GA1,601,82834,Gawler Central,1,,8798
-GA2,601,82835,Gawler Station,1,,8800
-GA2,601,82836,Gawler Station,1,,8800
-GA4,601,82837,Gawler Station,1,,8801
-GA4,601,82838,Gawler Station,1,,8801
-GA1,601,82839,Gawler Central,1,,8798
-GA2,601,82840,Gawler Station,1,,8800
-GA4,601,82841,Gawler Station,1,,8801
-GA1,601,82842,Gawler Central,1,,8798
-GA2,601,82843,Gawler Station,1,,8800
-GA4,601,82844,Gawler Station,1,,8801
-GA1,601,82845,Gawler Central,1,,8798
-GA2,601,82846,Gawler Station,1,,8800
-GA4,601,82847,Gawler Station,1,,8801
-GA1,601,82848,Gawler Central,1,,8798
-GA2,601,82849,Gawler Station,1,,8800
-GA4,601,82850,Gawler Station,1,,8801
-GA1,601,82851,Gawler Central,1,,8798
-GA2,601,82852,Gawler Station,1,,8800
-GA4,601,82853,Gawler Station,1,,8801
-GA1,601,82854,Gawler Central,1,,8798
-GA2,601,82855,Gawler Station,1,,8800
-GA1,601,82856,Gawler Central,1,,8798
-GA2,601,82857,Gawler Station,1,,8800
-GA1,601,82858,Gawler Central,1,,8798
-GA2,601,82859,Gawler Station,1,,8800
-GA1,601,82860,Gawler Central,1,,8798
-GA2,601,82861,Gawler Station,1,,8800
-GA1,601,82862,Gawler Central,1,,8798
-GA1,601,82863,Gawler Central,1,,8798
-GA1,606,82864,Gawler Central,1,,8798
-GA1,601,82865,Gawler Central,1,,8798
-GA1,601,82866,Gawler Central,1,,8798
-GA1,601,82867,Gawler Central,1,,8798
-GA1,612,82868,Salisbury,0,,8794
-GA1,612,82869,Salisbury,0,,8794
-GA1,612,82870,Salisbury,0,,8794
-GA1,612,82871,Salisbury,0,,8794
-GA1,612,82872,Salisbury,0,,8794
-GA2,612,82873,Salisbury,0,,8795
-GA1,612,82874,Salisbury,0,,8794
-GA2,612,82875,Salisbury,0,,8795
-GA1,612,82876,Salisbury,0,,8794
-GA2,612,82877,Salisbury,0,,8795
-GA2,612,82878,Salisbury,0,,8795
-GA1,612,82879,Salisbury,0,,8794
-GA2,612,82880,Salisbury,0,,8795
-GA1,612,82881,Salisbury,0,,8794
-GA2,612,82882,Salisbury,0,,8795
-GA1,612,82883,Salisbury,0,,8794
-GA2,612,82884,Salisbury,0,,8795
-GA1,612,82885,Salisbury,0,,8794
-GA2,612,82886,Salisbury,0,,8795
-GA1,612,82887,Salisbury,0,,8794
-GA2,612,82888,Salisbury,0,,8795
-GA1,612,82889,Salisbury,0,,8794
-GA2,612,82890,Salisbury,0,,8795
-GA1,612,82891,Salisbury,0,,8794
-GA2,612,82892,Salisbury,0,,8795
-GA1,612,82893,Salisbury,0,,8794
-GA2,612,82894,Salisbury,0,,8795
-GA1,612,82895,Salisbury,0,,8794
-GA2,612,82896,Salisbury,0,,8795
-GA1,612,82897,Salisbury,0,,8794
-GA2,612,82898,Salisbury,0,,8795
-GA1,612,82899,Salisbury,0,,8794
-GA2,612,82900,Salisbury,0,,8795
-GA1,612,82901,Salisbury,0,,8794
-GA2,612,82902,Salisbury,0,,8795
-GA1,612,82903,Salisbury,0,,8794
-GA2,612,82904,Salisbury,0,,8795
-GA1,612,82905,Salisbury,0,,8794
-GA2,612,82906,Salisbury,0,,8795
-GA1,612,82907,Salisbury,0,,8794
-GA2,612,82908,Salisbury,0,,8795
-GA1,612,82909,Salisbury,0,,8794
-GA1,612,82910,Salisbury,0,,8794
-GA1,612,82911,Salisbury,0,,8794
-GA1,612,82912,Salisbury,0,,8794
-GA1,612,82913,Salisbury,0,,8794
-GA1,612,82914,Salisbury,0,,8794
-GA1,612,82915,Gawler Central,1,,8798
-GA1,612,82916,Gawler Central,1,,8798
-GA2,612,82917,Gawler Station,1,,8800
-GA1,612,82918,Gawler Central,1,,8798
-GA2,612,82919,Gawler Station,1,,8800
-GA1,612,82920,Gawler Central,1,,8798
-GA2,612,82921,Gawler Station,1,,8800
-GA1,612,82922,Gawler Central,1,,8798
-GA2,612,82923,Gawler Station,1,,8800
-GA1,612,82924,Gawler Central,1,,8798
-GA2,612,82925,Gawler Station,1,,8800
-GA1,612,82926,Gawler Central,1,,8798
-GA2,612,82927,Gawler Station,1,,8800
-GA1,612,82928,Gawler Central,1,,8798
-GA2,612,82929,Gawler Station,1,,8800
-GA1,612,82930,Gawler Central,1,,8798
-GA2,612,82931,Gawler Station,1,,8800
-GA1,612,82932,Gawler Central,1,,8798
-GA2,612,82933,Gawler Station,1,,8800
-GA1,612,82934,Gawler Central,1,,8798
-GA2,612,82935,Gawler Station,1,,8800
-GA1,612,82936,Gawler Central,1,,8798
-GA2,612,82937,Gawler Station,1,,8800
-GA1,612,82938,Gawler Central,1,,8798
-GA2,612,82939,Gawler Station,1,,8800
-GA1,612,82940,Gawler Central,1,,8798
-GA2,612,82941,Gawler Station,1,,8800
-GA1,612,82942,Gawler Central,1,,8798
-GA2,612,82943,Gawler Station,1,,8800
-GA1,612,82944,Gawler Central,1,,8798
-GA2,612,82945,Gawler Station,1,,8800
-GA1,612,82946,Gawler Central,1,,8798
-GA2,612,82947,Gawler Station,1,,8800
-GA1,612,82948,Gawler Central,1,,8798
-GA2,612,82949,Gawler Station,1,,8800
-GA1,612,82950,Gawler Central,1,,8798
-GA2,612,82951,Gawler Station,1,,8800
-GA1,612,82952,Gawler Central,1,,8798
-GA2,612,82953,Gawler Station,1,,8800
-GA1,612,82954,Gawler Central,1,,8798
-GA2,612,82955,Gawler Station,1,,8800
-GA1,612,82956,Gawler Central,1,,8798
-GA2,612,82957,Gawler Station,1,,8800
-GA1,612,82958,Gawler Central,1,,8798
-GA2,612,82959,Gawler Station,1,,8800
-GA1,612,82960,Gawler Central,1,,8798
-GA2,612,82961,Gawler Station,1,,8800
-GA1,612,82962,Gawler Central,1,,8798
-GA1,612,82963,Gawler Central,1,,8798
-GA1,612,82964,Gawler Central,1,,8798
-GA1,612,82965,Gawler Central,1,,8798
-GA1,612,82966,Gawler Central,1,,8798
-GA1,612,82967,Gawler Central,1,,8798
-Salisbury,612,82968,City,0,,8791
-Salisbury,612,82969,City,0,,8791
-Salisbury,612,82970,City,0,,8791
-Salisbury,612,82971,City,0,,1242
-Salisbury,612,82972,City,0,,8791
-Salisbury,612,82973,City,0,,1242
-Salisbury,612,82974,City,0,,8791
-Salisbury,612,82975,City,0,,1242
-Salisbury,612,82976,City,0,,8791
-Salisbury,612,82977,City,0,,1242
-Salisbury,612,82978,City,0,,8791
-Salisbury,612,82979,City,0,,1242
-Salisbury,612,82980,City,0,,8791
-Salisbury,612,82981,City,0,,1242
-Salisbury,612,82982,City,0,,8791
-Salisbury,612,82983,City,0,,1242
-Salisbury,612,82984,City,0,,8791
-Salisbury,612,82985,City,0,,1242
-Salisbury,612,82986,City,0,,8791
-Salisbury,612,82987,City,0,,1242
-Salisbury,612,82988,City,0,,8791
-Salisbury,612,82989,City,0,,1242
-Salisbury,612,82990,City,0,,8791
-Salisbury,612,82991,City,0,,1242
-Salisbury,612,82992,City,0,,8791
-Salisbury,612,82993,City,0,,8791
-Salisbury,612,82994,City,0,,8791
-Salisbury,612,82995,City,0,,8791
-Salisbury,612,82996,City,0,,8791
-Salisbury,612,82997,City,0,,8791
-Salisbury,612,82998,City,0,,8791
-Salisbury,612,82999,Salisbury,1,,1244
-Salisbury,612,83000,Salisbury,1,,8786
-Salisbury,612,83001,Salisbury,1,,8787
-Salisbury,612,83002,Salisbury,1,,8786
-Salisbury,612,83003,Salisbury,1,,8787
-Salisbury,612,83004,Salisbury,1,,8786
-Salisbury,612,83005,Salisbury,1,,8787
-Salisbury,612,83006,Salisbury,1,,8786
-Salisbury,612,83007,Salisbury,1,,8787
-Salisbury,612,83008,Salisbury,1,,8786
-Salisbury,612,83009,Salisbury,1,,8787
-Salisbury,612,83010,Salisbury,1,,8786
-Salisbury,612,83011,Salisbury,1,,8787
-Salisbury,612,83012,Salisbury,1,,8786
-Salisbury,612,83013,Salisbury,1,,8787
-Salisbury,612,83014,Salisbury,1,,8786
-Salisbury,612,83015,Salisbury,1,,8787
-Salisbury,612,83016,Salisbury,1,,8786
-Salisbury,612,83017,Salisbury,1,,8787
-Salisbury,612,83018,Salisbury,1,,8786
-Salisbury,612,83019,Salisbury,1,,8787
-Salisbury,612,83020,Salisbury,1,,8786
-Salisbury,612,83021,Salisbury,1,,8787
-Salisbury,612,83022,Salisbury,1,,8786
-Salisbury,612,83023,Salisbury,1,,8787
-Salisbury,612,83024,Salisbury,1,,8786
-Salisbury,612,83025,Salisbury,1,,8786
-Salisbury,612,83026,Salisbury,1,,8786
-Salisbury,612,83027,Salisbury,1,,8786
-Salisbury,612,83028,Salisbury,1,,8786
-Salisbury,612,83029,Salisbury,1,,8786
-Salisbury,601,83030,City,0,,1243
-Salisbury,601,83031,City,0,,1243
-Salisbury,601,83032,City,0,,1243
-Salisbury,601,83033,City,0,,1243
-Salisbury,601,83034,City,0,,8788
-Salisbury,601,83035,City,0,,8789
-Salisbury,601,83036,City,0,,3817
-Salisbury,601,83037,City,0,,8788
-Salisbury,601,83038,City,0,,3817
-Salisbury,601,83039,City,0,,8789
-Salisbury,601,83040,City,0,,3817
-Salisbury,601,83041,City,0,,8788
-Salisbury,601,83042,City,0,,8790
-Salisbury,601,83043,City,0,,8788
-Salisbury,601,83044,City,0,,8790
-Salisbury,601,83045,City,0,,8788
-Salisbury,601,83046,City,0,,8790
-Salisbury,601,83047,City,0,,8788
-Salisbury,601,83048,City,0,,8790
-Salisbury,601,83049,City,0,,8788
-Salisbury,601,83050,City,0,,8790
-Salisbury,601,83051,City,0,,8788
-Salisbury,601,83052,City,0,,8790
-Salisbury,601,83053,City,0,,8788
-Salisbury,601,83054,City,0,,8790
-Salisbury,601,83055,City,0,,8788
-Salisbury,601,83056,City,0,,8790
-Salisbury,601,83057,City,0,,8788
-Salisbury,601,83058,City,0,,8790
-Salisbury,601,83059,City,0,,8788
-Salisbury,601,83060,City,0,,8790
-Salisbury,601,83061,City,0,,8788
-Salisbury,601,83062,City,0,,8790
-Salisbury,601,83063,City,0,,8788
-Salisbury,601,83064,City,0,,8789
-Salisbury,601,83065,City,0,,8788
-Salisbury,601,83066,City,0,,8790
-Salisbury,601,83067,City,0,,8788
-Salisbury,601,83068,City,0,,8789
-Salisbury,601,83069,City,0,,8788
-Salisbury,601,83070,City,0,,8789
-Salisbury,601,83071,City,0,,8788
-Salisbury,601,83072,City,0,,8789
-Salisbury,601,83073,City,0,,8788
-Salisbury,601,83074,City,0,,8789
-Salisbury,601,83075,City,0,,8788
-Salisbury,601,83076,City,0,,8789
-Salisbury,601,83077,City,0,,8788
-Salisbury,601,83078,City,0,,1241
-Salisbury,601,83079,City,0,,8789
-Salisbury,601,83080,City,0,,1241
-Salisbury,601,83081,City,0,,8788
-Salisbury,601,83082,City,0,,1241
-Salisbury,601,83083,City,0,,8789
-Salisbury,601,83084,City,0,,8788
-Salisbury,601,83085,City,0,,8789
-Salisbury,601,83086,City,0,,1241
-Salisbury,601,83087,City,0,,8791
-Salisbury,601,83088,City,0,,1241
-Salisbury,601,83089,City,0,,8791
-Salisbury,601,83090,City,0,,8791
-Salisbury,601,83091,City,0,,8791
-Salisbury,601,83092,City,0,,8791
-Salisbury,606,83093,City,0,,8791
-Salisbury,601,83094,City,0,,8791
-Salisbury,601,83095,City,0,,8791
-Salisbury,601,83096,City,0,,8791
-Salisbury,601,83097,Salisbury,1,,1244
-Salisbury,601,83098,Salisbury,1,,1244
-Salisbury,601,83099,Salisbury,1,,1245
-Salisbury,601,83100,Salisbury,1,,1245
-Salisbury,601,83101,Salisbury,1,,1244
-Salisbury,601,83102,Salisbury,1,,8781
-Salisbury,601,83103,Salisbury,1,,8782
-Salisbury,601,83104,Salisbury,1,,1244
-Salisbury,601,83105,Salisbury,1,,8781
-Salisbury,601,83106,Salisbury,1,,1244
-Salisbury,601,83107,Salisbury,1,,8782
-Salisbury,601,83108,Salisbury,1,,1244
-Salisbury,601,83109,Salisbury,1,,8781
-Salisbury,601,83110,Salisbury,1,,8782
-Salisbury,601,83111,Salisbury,1,,8781
-Salisbury,601,83112,Salisbury,1,,8782
-Salisbury,601,83113,Salisbury,1,,8781
-Salisbury,601,83114,Salisbury,1,,8782
-Salisbury,601,83115,Salisbury,1,,8783
-Salisbury,601,83116,Salisbury,1,,8782
-Salisbury,601,83117,Salisbury,1,,8783
-Salisbury,601,83118,Salisbury,1,,8782
-Salisbury,601,83119,Salisbury,1,,8783
-Salisbury,601,83120,Salisbury,1,,8782
-Salisbury,601,83121,Salisbury,1,,8783
-Salisbury,601,83122,Salisbury,1,,8782
-Salisbury,601,83123,Salisbury,1,,8783
-Salisbury,601,83124,Salisbury,1,,8782
-Salisbury,601,83125,Salisbury,1,,8783
-Salisbury,601,83126,Salisbury,1,,8782
-Salisbury,601,83127,Salisbury,1,,8783
-Salisbury,601,83128,Salisbury,1,,8782
-Salisbury,601,83129,Salisbury,1,,8783
-Salisbury,601,83130,Salisbury,1,,8782
-Salisbury,601,83131,Salisbury,1,,8783
-Salisbury,601,83132,Salisbury,1,,8784
-Salisbury,601,83133,Salisbury,1,,8783
-Salisbury,601,83134,Salisbury,1,,8782
-Salisbury,601,83135,Salisbury,1,,8783
-Salisbury,601,83136,Salisbury,1,,8782
-Salisbury,601,83137,Salisbury,1,,8783
-Salisbury,601,83138,Salisbury,1,,8782
-Salisbury,601,83139,Salisbury,1,,8781
-Salisbury,601,83140,Salisbury,1,,8782
-Salisbury,601,83141,Salisbury,1,,8781
-Salisbury,601,83142,Salisbury,1,,8782
-Salisbury,601,83143,Salisbury,1,,8781
-Salisbury,601,83144,Salisbury,1,,8782
-Salisbury,601,83145,Salisbury,1,,8781
-Salisbury,601,83146,Salisbury,1,,8785
-Salisbury,601,83147,Salisbury,1,,8782
-Salisbury,601,83148,Salisbury,1,,8785
-Salisbury,601,83149,Salisbury,1,,8781
-Salisbury,601,83150,Salisbury,1,,8785
-Salisbury,601,83151,Salisbury,1,,8782
-Salisbury,601,83152,Salisbury,1,,8781
-Salisbury,601,83153,Salisbury,1,,8782
-Salisbury,601,83154,Salisbury,1,,8781
-Salisbury,601,83155,Salisbury,1,,8782
-Salisbury,601,83156,Salisbury,1,,8786
-Salisbury,601,83157,Salisbury,1,,8786
-Salisbury,601,83158,Salisbury,1,,8786
-Salisbury,601,83159,Salisbury,1,,8786
-Salisbury,606,83160,Salisbury,1,,8786
-Salisbury,601,83161,Salisbury,1,,8786
-Salisbury,601,83162,Salisbury,1,,8786
-Salisbury,601,83163,Salisbury,1,,8786
+GA1,301,82593,Salisbury,0,,8794
+GA2,301,82594,Salisbury,0,,8795
+GA1,301,82595,Salisbury,0,,8794
+GA2,301,82596,Salisbury,0,,8795
+GA1,301,82597,Salisbury,0,,8794
+GA2,301,82598,Salisbury,0,,8795
+GA4,301,82599,Salisbury,0,,8802
+GA1,301,82600,Salisbury,0,,8794
+GA2,301,82601,Salisbury,0,,8795
+GA2S,301,82602,Salisbury,0,,8797
+GA4,301,82603,Salisbury,0,,8802
+GA1,301,82604,Salisbury,0,,8794
+GA2,301,82605,Salisbury,0,,8795
+GA2S,301,82606,Salisbury,0,,8797
+GA4,301,82607,Salisbury,0,,8802
+GA1,301,82608,Salisbury,0,,8794
+GA2,301,82609,Salisbury,0,,8795
+GA4,301,82610,Salisbury,0,,8802
+GA4,301,82611,Salisbury,0,,8802
+GA1,301,82612,Salisbury,0,,8794
+GA2,301,82613,Salisbury,0,,8795
+GA2S,301,82614,Salisbury,0,,8797
+GA4,301,82615,Salisbury,0,,8802
+GA4,301,82616,Salisbury,0,,8802
+GA1,301,82617,Salisbury,0,,8794
+GA2,301,82618,Salisbury,0,,8795
+GA2S,301,82619,Salisbury,0,,8797
+GA4,301,82620,Salisbury,0,,8802
+GA1S,301,82621,Salisbury,0,,8796
+GA1,301,82622,Salisbury,0,,8794
+GA2,301,82623,Salisbury,0,,8795
+GA4,301,82624,Salisbury,0,,8802
+GA1,301,82625,Salisbury,0,,8794
+GA2,301,82626,Salisbury,0,,8795
+GA4,301,82627,Salisbury,0,,8802
+GA1,301,82628,Salisbury,0,,8794
+GA2,301,82629,Salisbury,0,,8795
+GA2S,301,82630,Salisbury,0,,8797
+GA4,301,82631,Salisbury,0,,8802
+GA1,301,82632,Salisbury,0,,8794
+GA2,301,82633,Salisbury,0,,8795
+GA1,301,82634,Salisbury,0,,8794
+GA2,301,82635,Salisbury,0,,8795
+GA1,301,82636,Salisbury,0,,8794
+GA2,301,82637,Salisbury,0,,8795
+GA1,301,82638,Salisbury,0,,8794
+GA2,301,82639,Salisbury,0,,8795
+GA2S,301,82640,Salisbury,0,,8797
+GA1S,301,82641,Salisbury,0,,8796
+GA1,301,82642,Salisbury,0,,8794
+GA2,301,82643,Salisbury,0,,8795
+GA1,301,82644,Salisbury,0,,8794
+GA2,301,82645,Salisbury,0,,8795
+GA1,301,82646,Salisbury,0,,8794
+GA2,301,82647,Salisbury,0,,8795
+GA1,301,82648,Salisbury,0,,8794
+GA2,301,82649,Salisbury,0,,8795
+GA1,301,82650,Salisbury,0,,8794
+GA2,301,82651,Salisbury,0,,8795
+GA1,301,82652,Salisbury,0,,8794
+GA2,301,82653,Salisbury,0,,8795
+GA1,301,82654,Salisbury,0,,8794
+GA2,301,82655,Salisbury,0,,8795
+GA1,301,82656,Salisbury,0,,8794
+GA2,301,82657,Salisbury,0,,8795
+GA1,301,82658,Salisbury,0,,8794
+GA2,301,82659,Salisbury,0,,8795
+GA1,301,82660,Salisbury,0,,8794
+GA2,301,82661,Salisbury,0,,8795
+GA1,301,82662,Salisbury,0,,8794
+GA2,301,82663,Salisbury,0,,8795
+GA1,301,82664,Salisbury,0,,8794
+GA2,301,82665,Salisbury,0,,8795
+GA1,301,82666,Salisbury,0,,8794
+GA2,301,82667,Salisbury,0,,8795
+GA1,301,82668,Salisbury,0,,8794
+GA2,301,82669,Salisbury,0,,8795
+GA1,301,82670,Salisbury,0,,8794
+GA2,301,82671,Salisbury,0,,8795
+GA1,301,82672,Salisbury,0,,8794
+GA2,301,82673,Salisbury,0,,8795
+GA1,301,82674,Salisbury,0,,8794
+GA2,301,82675,Salisbury,0,,8795
+GA1,301,82676,Salisbury,0,,8794
+GA2,301,82677,Salisbury,0,,8795
+GA1,301,82678,Salisbury,0,,8794
+GA2,301,82679,Salisbury,0,,8795
+GA1,301,82680,Salisbury,0,,8794
+GA2,301,82681,Salisbury,0,,8795
+GA1,301,82682,Salisbury,0,,8794
+GA2,301,82683,Salisbury,0,,8795
+GA1,301,82684,Salisbury,0,,8794
+GA2,301,82685,Salisbury,0,,8795
+GA1,301,82686,Salisbury,0,,8794
+GA2,301,82687,Salisbury,0,,8795
+GA1,301,82688,Salisbury,0,,8794
+GA2,301,82689,Salisbury,0,,8795
+GA1,301,82690,Salisbury,0,,8794
+GA2,301,82691,Salisbury,0,,8795
+GA1,301,82692,Salisbury,0,,8794
+GA2,301,82693,Salisbury,0,,8795
+GA1,301,82694,Salisbury,0,,8794
+GA2,301,82695,Salisbury,0,,8795
+GA1,301,82696,Salisbury,0,,8794
+GA2,301,82697,Salisbury,0,,8795
+GA1,301,82698,Salisbury,0,,8794
+GA2,301,82699,Salisbury,0,,8795
+GA1,301,82700,Salisbury,0,,8794
+GA1,301,82701,Salisbury,0,,8794
+GA2,301,82702,Salisbury,0,,8795
+GA1,301,82703,Salisbury,0,,8794
+GA2,301,82704,Salisbury,0,,8795
+GA1,301,82705,Salisbury,0,,8794
+GA2,301,82706,Salisbury,0,,8795
+GA1,301,82707,Salisbury,0,,8794
+GA2,301,82708,Salisbury,0,,8795
+GA1,301,82709,Salisbury,0,,8794
+GA2,301,82710,Salisbury,0,,8795
+GA1,301,82711,Salisbury,0,,8794
+GA2,301,82712,Salisbury,0,,8795
+GA1,301,82713,Salisbury,0,,8794
+GA2,301,82714,Salisbury,0,,8795
+GA1,301,82715,Salisbury,0,,8794
+GA2,301,82716,Salisbury,0,,8795
+GA1,301,82717,Salisbury,0,,8794
+GA2,301,82718,Salisbury,0,,8795
+GA1,301,82719,Salisbury,0,,8794
+GA2,301,82720,Salisbury,0,,8795
+GA1,301,82721,Salisbury,0,,8794
+GA2,301,82722,Salisbury,0,,8795
+GA1,301,82723,Salisbury,0,,8794
+GA1,301,82724,Salisbury,0,,8794
+GA1,301,82725,Salisbury,0,,8794
+GA1,301,82726,Salisbury,0,,8794
+GA1,314,82727,Salisbury,0,,8794
+GA1,301,82728,Salisbury,0,,8794
+GA1,301,82729,Salisbury,0,,8794
+GA1,301,82730,Salisbury,0,,8794
+GA1,301,82731,Gawler Central,1,,8798
+GA1,301,82732,Gawler Central,1,,8798
+GA1,301,82733,Gawler Central,1,,8798
+GA2,301,82734,Gawler Station,1,,8800
+GA1,301,82735,Gawler Central,1,,8798
+GA2,301,82736,Gawler Station,1,,8800
+GA1,301,82737,Gawler Central,1,,8798
+GA2,301,82738,Gawler Station,1,,8800
+GA1,301,82739,Gawler Central,1,,8798
+GA2,301,82740,Gawler Station,1,,8800
+GA1E,301,82741,Gawler Central,1,,8799
+GA1,301,82742,Gawler Central,1,,8798
+GA2,301,82743,Gawler Station,1,,8800
+GA1,301,82744,Gawler Central,1,,8798
+GA2,301,82745,Gawler Station,1,,8800
+GA1,301,82746,Gawler Central,1,,8798
+GA2,301,82747,Gawler Station,1,,8800
+GA1,301,82748,Gawler Central,1,,8798
+GA2,301,82749,Gawler Station,1,,8800
+GA1,301,82750,Gawler Central,1,,8798
+GA2,301,82751,Gawler Station,1,,8800
+GA1,301,82752,Gawler Central,1,,8798
+GA2,301,82753,Gawler Station,1,,8800
+GA1,301,82754,Gawler Central,1,,8798
+GA2,301,82755,Gawler Station,1,,8800
+GA1,301,82756,Gawler Central,1,,8798
+GA2,301,82757,Gawler Station,1,,8800
+GA1,301,82758,Gawler Central,1,,8798
+GA2,301,82759,Gawler Station,1,,8800
+GA1,301,82760,Gawler Central,1,,8798
+GA2,301,82761,Gawler Station,1,,8800
+GA1,301,82762,Gawler Central,1,,8798
+GA2,301,82763,Gawler Station,1,,8800
+GA1,301,82764,Gawler Central,1,,8798
+GA2,301,82765,Gawler Station,1,,8800
+GA1,301,82766,Gawler Central,1,,8798
+GA2,301,82767,Gawler Station,1,,8800
+GA1,301,82768,Gawler Central,1,,8798
+GA2,301,82769,Gawler Station,1,,8800
+GA1,301,82770,Gawler Central,1,,8798
+GA2,301,82771,Gawler Station,1,,8800
+GA1,301,82772,Gawler Central,1,,8798
+GA2,301,82773,Gawler Station,1,,8800
+GA1,301,82774,Gawler Central,1,,8798
+GA2,301,82775,Gawler Station,1,,8800
+GA1,301,82776,Gawler Central,1,,8798
+GA2,301,82777,Gawler Station,1,,8800
+GA1,301,82778,Gawler Central,1,,8798
+GA2,301,82779,Gawler Station,1,,8800
+GA1,301,82780,Gawler Central,1,,8798
+GA2,301,82781,Gawler Station,1,,8800
+GA1,301,82782,Gawler Central,1,,8798
+GA2,301,82783,Gawler Station,1,,8800
+GA1,301,82784,Gawler Central,1,,8798
+GA2,301,82785,Gawler Station,1,,8800
+GA1,301,82786,Gawler Central,1,,8798
+GA2,301,82787,Gawler Station,1,,8800
+GA1,301,82788,Gawler Central,1,,8798
+GA2,301,82789,Gawler Station,1,,8800
+GA1,301,82790,Gawler Central,1,,8798
+GA2,301,82791,Gawler Station,1,,8800
+GA1,301,82792,Gawler Central,1,,8798
+GA2,301,82793,Gawler Station,1,,8800
+GA1,301,82794,Gawler Central,1,,8798
+GA2,301,82795,Gawler Station,1,,8800
+GA1,301,82796,Gawler Central,1,,8798
+GA2,301,82797,Gawler Station,1,,8800
+GA1,301,82798,Gawler Central,1,,8798
+GA2,301,82799,Gawler Station,1,,8800
+GA1,301,82800,Gawler Central,1,,8798
+GA2,301,82801,Gawler Station,1,,8800
+GA1,301,82802,Gawler Central,1,,8798
+GA4,301,82803,Gawler Station,1,,8801
+GA1,301,82804,Gawler Central,1,,8798
+GA2,301,82805,Gawler Station,1,,8800
+GA4,301,82806,Gawler Station,1,,8801
+GA1,301,82807,Gawler Central,1,,8798
+GA2,301,82808,Gawler Station,1,,8800
+GA4,301,82809,Gawler Station,1,,8801
+GA1,301,82810,Gawler Central,1,,8798
+GA2,301,82811,Gawler Station,1,,8800
+GA4,301,82812,Gawler Station,1,,8801
+GA1,301,82813,Gawler Central,1,,8798
+GA2,301,82814,Gawler Station,1,,8800
+GA4,301,82815,Gawler Station,1,,8801
+GA1,301,82816,Gawler Central,1,,8798
+GA2,301,82817,Gawler Station,1,,8800
+GA4,301,82818,Gawler Station,1,,8801
+GA1,301,82819,Gawler Central,1,,8798
+GA2,301,82820,Gawler Station,1,,8800
+GA4,301,82821,Gawler Station,1,,8801
+GA1,301,82822,Gawler Central,1,,8798
+GA2,301,82823,Gawler Station,1,,8800
+GA4,301,82824,Gawler Station,1,,8801
+GA1,301,82825,Gawler Central,1,,8798
+GA2,301,82826,Gawler Station,1,,8800
+GA4,301,82827,Gawler Station,1,,8801
+GA1,301,82828,Gawler Central,1,,8798
+GA2,301,82829,Gawler Station,1,,8800
+GA4,301,82830,Gawler Station,1,,8801
+GA1,301,82831,Gawler Central,1,,8798
+GA2,301,82832,Gawler Station,1,,8800
+GA4,301,82833,Gawler Station,1,,8801
+GA1,301,82834,Gawler Central,1,,8798
+GA2,301,82835,Gawler Station,1,,8800
+GA2,301,82836,Gawler Station,1,,8800
+GA4,301,82837,Gawler Station,1,,8801
+GA4,301,82838,Gawler Station,1,,8801
+GA1,301,82839,Gawler Central,1,,8798
+GA2,301,82840,Gawler Station,1,,8800
+GA4,301,82841,Gawler Station,1,,8801
+GA1,301,82842,Gawler Central,1,,8798
+GA2,301,82843,Gawler Station,1,,8800
+GA4,301,82844,Gawler Station,1,,8801
+GA1,301,82845,Gawler Central,1,,8798
+GA2,301,82846,Gawler Station,1,,8800
+GA4,301,82847,Gawler Station,1,,8801
+GA1,301,82848,Gawler Central,1,,8798
+GA2,301,82849,Gawler Station,1,,8800
+GA4,301,82850,Gawler Station,1,,8801
+GA1,301,82851,Gawler Central,1,,8798
+GA2,301,82852,Gawler Station,1,,8800
+GA4,301,82853,Gawler Station,1,,8801
+GA1,301,82854,Gawler Central,1,,8798
+GA2,301,82855,Gawler Station,1,,8800
+GA1,301,82856,Gawler Central,1,,8798
+GA2,301,82857,Gawler Station,1,,8800
+GA1,301,82858,Gawler Central,1,,8798
+GA2,301,82859,Gawler Station,1,,8800
+GA1,301,82860,Gawler Central,1,,8798
+GA2,301,82861,Gawler Station,1,,8800
+GA1,301,82862,Gawler Central,1,,8798
+GA1,301,82863,Gawler Central,1,,8798
+GA1,314,82864,Gawler Central,1,,8798
+GA1,301,82865,Gawler Central,1,,8798
+GA1,301,82866,Gawler Central,1,,8798
+GA1,301,82867,Gawler Central,1,,8798
+GA1,312,82868,Salisbury,0,,8794
+GA1,312,82869,Salisbury,0,,8794
+GA1,312,82870,Salisbury,0,,8794
+GA1,312,82871,Salisbury,0,,8794
+GA1,312,82872,Salisbury,0,,8794
+GA2,312,82873,Salisbury,0,,8795
+GA1,312,82874,Salisbury,0,,8794
+GA2,312,82875,Salisbury,0,,8795
+GA1,312,82876,Salisbury,0,,8794
+GA2,312,82877,Salisbury,0,,8795
+GA2,312,82878,Salisbury,0,,8795
+GA1,312,82879,Salisbury,0,,8794
+GA2,312,82880,Salisbury,0,,8795
+GA1,312,82881,Salisbury,0,,8794
+GA2,312,82882,Salisbury,0,,8795
+GA1,312,82883,Salisbury,0,,8794
+GA2,312,82884,Salisbury,0,,8795
+GA1,312,82885,Salisbury,0,,8794
+GA2,312,82886,Salisbury,0,,8795
+GA1,312,82887,Salisbury,0,,8794
+GA2,312,82888,Salisbury,0,,8795
+GA1,312,82889,Salisbury,0,,8794
+GA2,312,82890,Salisbury,0,,8795
+GA1,312,82891,Salisbury,0,,8794
+GA2,312,82892,Salisbury,0,,8795
+GA1,312,82893,Salisbury,0,,8794
+GA2,312,82894,Salisbury,0,,8795
+GA1,312,82895,Salisbury,0,,8794
+GA2,312,82896,Salisbury,0,,8795
+GA1,312,82897,Salisbury,0,,8794
+GA2,312,82898,Salisbury,0,,8795
+GA1,312,82899,Salisbury,0,,8794
+GA2,312,82900,Salisbury,0,,8795
+GA1,312,82901,Salisbury,0,,8794
+GA2,312,82902,Salisbury,0,,8795
+GA1,312,82903,Salisbury,0,,8794
+GA2,312,82904,Salisbury,0,,8795
+GA1,312,82905,Salisbury,0,,8794
+GA2,312,82906,Salisbury,0,,8795
+GA1,312,82907,Salisbury,0,,8794
+GA2,312,82908,Salisbury,0,,8795
+GA1,312,82909,Salisbury,0,,8794
+GA1,312,82910,Salisbury,0,,8794
+GA1,312,82911,Salisbury,0,,8794
+GA1,312,82912,Salisbury,0,,8794
+GA1,312,82913,Salisbury,0,,8794
+GA1,312,82914,Salisbury,0,,8794
+GA1,312,82915,Gawler Central,1,,8798
+GA1,312,82916,Gawler Central,1,,8798
+GA2,312,82917,Gawler Station,1,,8800
+GA1,312,82918,Gawler Central,1,,8798
+GA2,312,82919,Gawler Station,1,,8800
+GA1,312,82920,Gawler Central,1,,8798
+GA2,312,82921,Gawler Station,1,,8800
+GA1,312,82922,Gawler Central,1,,8798
+GA2,312,82923,Gawler Station,1,,8800
+GA1,312,82924,Gawler Central,1,,8798
+GA2,312,82925,Gawler Station,1,,8800
+GA1,312,82926,Gawler Central,1,,8798
+GA2,312,82927,Gawler Station,1,,8800
+GA1,312,82928,Gawler Central,1,,8798
+GA2,312,82929,Gawler Station,1,,8800
+GA1,312,82930,Gawler Central,1,,8798
+GA2,312,82931,Gawler Station,1,,8800
+GA1,312,82932,Gawler Central,1,,8798
+GA2,312,82933,Gawler Station,1,,8800
+GA1,312,82934,Gawler Central,1,,8798
+GA2,312,82935,Gawler Station,1,,8800
+GA1,312,82936,Gawler Central,1,,8798
+GA2,312,82937,Gawler Station,1,,8800
+GA1,312,82938,Gawler Central,1,,8798
+GA2,312,82939,Gawler Station,1,,8800
+GA1,312,82940,Gawler Central,1,,8798
+GA2,312,82941,Gawler Station,1,,8800
+GA1,312,82942,Gawler Central,1,,8798
+GA2,312,82943,Gawler Station,1,,8800
+GA1,312,82944,Gawler Central,1,,8798
+GA2,312,82945,Gawler Station,1,,8800
+GA1,312,82946,Gawler Central,1,,8798
+GA2,312,82947,Gawler Station,1,,8800
+GA1,312,82948,Gawler Central,1,,8798
+GA2,312,82949,Gawler Station,1,,8800
+GA1,312,82950,Gawler Central,1,,8798
+GA2,312,82951,Gawler Station,1,,8800
+GA1,312,82952,Gawler Central,1,,8798
+GA2,312,82953,Gawler Station,1,,8800
+GA1,312,82954,Gawler Central,1,,8798
+GA2,312,82955,Gawler Station,1,,8800
+GA1,312,82956,Gawler Central,1,,8798
+GA2,312,82957,Gawler Station,1,,8800
+GA1,312,82958,Gawler Central,1,,8798
+GA2,312,82959,Gawler Station,1,,8800
+GA1,312,82960,Gawler Central,1,,8798
+GA2,312,82961,Gawler Station,1,,8800
+GA1,312,82962,Gawler Central,1,,8798
+GA1,312,82963,Gawler Central,1,,8798
+GA1,312,82964,Gawler Central,1,,8798
+GA1,312,82965,Gawler Central,1,,8798
+GA1,312,82966,Gawler Central,1,,8798
+GA1,312,82967,Gawler Central,1,,8798
+Salisbury,312,82968,City,0,,8791
+Salisbury,312,82969,City,0,,8791
+Salisbury,312,82970,City,0,,8791
+Salisbury,312,82971,City,0,,1242
+Salisbury,312,82972,City,0,,8791
+Salisbury,312,82973,City,0,,1242
+Salisbury,312,82974,City,0,,8791
+Salisbury,312,82975,City,0,,1242
+Salisbury,312,82976,City,0,,8791
+Salisbury,312,82977,City,0,,1242
+Salisbury,312,82978,City,0,,8791
+Salisbury,312,82979,City,0,,1242
+Salisbury,312,82980,City,0,,8791
+Salisbury,312,82981,City,0,,1242
+Salisbury,312,82982,City,0,,8791
+Salisbury,312,82983,City,0,,1242
+Salisbury,312,82984,City,0,,8791
+Salisbury,312,82985,City,0,,1242
+Salisbury,312,82986,City,0,,8791
+Salisbury,312,82987,City,0,,1242
+Salisbury,312,82988,City,0,,8791
+Salisbury,312,82989,City,0,,1242
+Salisbury,312,82990,City,0,,8791
+Salisbury,312,82991,City,0,,1242
+Salisbury,312,82992,City,0,,8791
+Salisbury,312,82993,City,0,,8791
+Salisbury,312,82994,City,0,,8791
+Salisbury,312,82995,City,0,,8791
+Salisbury,312,82996,City,0,,8791
+Salisbury,312,82997,City,0,,8791
+Salisbury,312,82998,City,0,,8791
+Salisbury,312,82999,Salisbury,1,,1244
+Salisbury,312,83000,Salisbury,1,,8786
+Salisbury,312,83001,Salisbury,1,,8787
+Salisbury,312,83002,Salisbury,1,,8786
+Salisbury,312,83003,Salisbury,1,,8787
+Salisbury,312,83004,Salisbury,1,,8786
+Salisbury,312,83005,Salisbury,1,,8787
+Salisbury,312,83006,Salisbury,1,,8786
+Salisbury,312,83007,Salisbury,1,,8787
+Salisbury,312,83008,Salisbury,1,,8786
+Salisbury,312,83009,Salisbury,1,,8787
+Salisbury,312,83010,Salisbury,1,,8786
+Salisbury,312,83011,Salisbury,1,,8787
+Salisbury,312,83012,Salisbury,1,,8786
+Salisbury,312,83013,Salisbury,1,,8787
+Salisbury,312,83014,Salisbury,1,,8786
+Salisbury,312,83015,Salisbury,1,,8787
+Salisbury,312,83016,Salisbury,1,,8786
+Salisbury,312,83017,Salisbury,1,,8787
+Salisbury,312,83018,Salisbury,1,,8786
+Salisbury,312,83019,Salisbury,1,,8787
+Salisbury,312,83020,Salisbury,1,,8786
+Salisbury,312,83021,Salisbury,1,,8787
+Salisbury,312,83022,Salisbury,1,,8786
+Salisbury,312,83023,Salisbury,1,,8787
+Salisbury,312,83024,Salisbury,1,,8786
+Salisbury,312,83025,Salisbury,1,,8786
+Salisbury,312,83026,Salisbury,1,,8786
+Salisbury,312,83027,Salisbury,1,,8786
+Salisbury,312,83028,Salisbury,1,,8786
+Salisbury,312,83029,Salisbury,1,,8786
+Salisbury,301,83030,City,0,,1243
+Salisbury,301,83031,City,0,,1243
+Salisbury,301,83032,City,0,,1243
+Salisbury,301,83033,City,0,,1243
+Salisbury,301,83034,City,0,,8788
+Salisbury,301,83035,City,0,,8789
+Salisbury,301,83036,City,0,,3817
+Salisbury,301,83037,City,0,,8788
+Salisbury,301,83038,City,0,,3817
+Salisbury,301,83039,City,0,,8789
+Salisbury,301,83040,City,0,,3817
+Salisbury,301,83041,City,0,,8788
+Salisbury,301,83042,City,0,,8790
+Salisbury,301,83043,City,0,,8788
+Salisbury,301,83044,City,0,,8790
+Salisbury,301,83045,City,0,,8788
+Salisbury,301,83046,City,0,,8790
+Salisbury,301,83047,City,0,,8788
+Salisbury,301,83048,City,0,,8790
+Salisbury,301,83049,City,0,,8788
+Salisbury,301,83050,City,0,,8790
+Salisbury,301,83051,City,0,,8788
+Salisbury,301,83052,City,0,,8790
+Salisbury,301,83053,City,0,,8788
+Salisbury,301,83054,City,0,,8790
+Salisbury,301,83055,City,0,,8788
+Salisbury,301,83056,City,0,,8790
+Salisbury,301,83057,City,0,,8788
+Salisbury,301,83058,City,0,,8790
+Salisbury,301,83059,City,0,,8788
+Salisbury,301,83060,City,0,,8790
+Salisbury,301,83061,City,0,,8788
+Salisbury,301,83062,City,0,,8790
+Salisbury,301,83063,City,0,,8788
+Salisbury,301,83064,City,0,,8789
+Salisbury,301,83065,City,0,,8788
+Salisbury,301,83066,City,0,,8790
+Salisbury,301,83067,City,0,,8788
+Salisbury,301,83068,City,0,,8789
+Salisbury,301,83069,City,0,,8788
+Salisbury,301,83070,City,0,,8789
+Salisbury,301,83071,City,0,,8788
+Salisbury,301,83072,City,0,,8789
+Salisbury,301,83073,City,0,,8788
+Salisbury,301,83074,City,0,,8789
+Salisbury,301,83075,City,0,,8788
+Salisbury,301,83076,City,0,,8789
+Salisbury,301,83077,City,0,,8788
+Salisbury,301,83078,City,0,,1241
+Salisbury,301,83079,City,0,,8789
+Salisbury,301,83080,City,0,,1241
+Salisbury,301,83081,City,0,,8788
+Salisbury,301,83082,City,0,,1241
+Salisbury,301,83083,City,0,,8789
+Salisbury,301,83084,City,0,,8788
+Salisbury,301,83085,City,0,,8789
+Salisbury,301,83086,City,0,,1241
+Salisbury,301,83087,City,0,,8791
+Salisbury,301,83088,City,0,,1241
+Salisbury,301,83089,City,0,,8791
+Salisbury,301,83090,City,0,,8791
+Salisbury,301,83091,City,0,,8791
+Salisbury,301,83092,City,0,,8791
+Salisbury,314,83093,City,0,,8791
+Salisbury,301,83094,City,0,,8791
+Salisbury,301,83095,City,0,,8791
+Salisbury,301,83096,City,0,,8791
+Salisbury,301,83097,Salisbury,1,,1244
+Salisbury,301,83098,Salisbury,1,,1244
+Salisbury,301,83099,Salisbury,1,,1245
+Salisbury,301,83100,Salisbury,1,,1245
+Salisbury,301,83101,Salisbury,1,,1244
+Salisbury,301,83102,Salisbury,1,,8781
+Salisbury,301,83103,Salisbury,1,,8782
+Salisbury,301,83104,Salisbury,1,,1244
+Salisbury,301,83105,Salisbury,1,,8781
+Salisbury,301,83106,Salisbury,1,,1244
+Salisbury,301,83107,Salisbury,1,,8782
+Salisbury,301,83108,Salisbury,1,,1244
+Salisbury,301,83109,Salisbury,1,,8781
+Salisbury,301,83110,Salisbury,1,,8782
+Salisbury,301,83111,Salisbury,1,,8781
+Salisbury,301,83112,Salisbury,1,,8782
+Salisbury,301,83113,Salisbury,1,,8781
+Salisbury,301,83114,Salisbury,1,,8782
+Salisbury,301,83115,Salisbury,1,,8783
+Salisbury,301,83116,Salisbury,1,,8782
+Salisbury,301,83117,Salisbury,1,,8783
+Salisbury,301,83118,Salisbury,1,,8782
+Salisbury,301,83119,Salisbury,1,,8783
+Salisbury,301,83120,Salisbury,1,,8782
+Salisbury,301,83121,Salisbury,1,,8783
+Salisbury,301,83122,Salisbury,1,,8782
+Salisbury,301,83123,Salisbury,1,,8783
+Salisbury,301,83124,Salisbury,1,,8782
+Salisbury,301,83125,Salisbury,1,,8783
+Salisbury,301,83126,Salisbury,1,,8782
+Salisbury,301,83127,Salisbury,1,,8783
+Salisbury,301,83128,Salisbury,1,,8782
+Salisbury,301,83129,Salisbury,1,,8783
+Salisbury,301,83130,Salisbury,1,,8782
+Salisbury,301,83131,Salisbury,1,,8783
+Salisbury,301,83132,Salisbury,1,,8784
+Salisbury,301,83133,Salisbury,1,,8783
+Salisbury,301,83134,Salisbury,1,,8782
+Salisbury,301,83135,Salisbury,1,,8783
+Salisbury,301,83136,Salisbury,1,,8782
+Salisbury,301,83137,Salisbury,1,,8783
+Salisbury,301,83138,Salisbury,1,,8782
+Salisbury,301,83139,Salisbury,1,,8781
+Salisbury,301,83140,Salisbury,1,,8782
+Salisbury,301,83141,Salisbury,1,,8781
+Salisbury,301,83142,Salisbury,1,,8782
+Salisbury,301,83143,Salisbury,1,,8781
+Salisbury,301,83144,Salisbury,1,,8782
+Salisbury,301,83145,Salisbury,1,,8781
+Salisbury,301,83146,Salisbury,1,,8785
+Salisbury,301,83147,Salisbury,1,,8782
+Salisbury,301,83148,Salisbury,1,,8785
+Salisbury,301,83149,Salisbury,1,,8781
+Salisbury,301,83150,Salisbury,1,,8785
+Salisbury,301,83151,Salisbury,1,,8782
+Salisbury,301,83152,Salisbury,1,,8781
+Salisbury,301,83153,Salisbury,1,,8782
+Salisbury,301,83154,Salisbury,1,,8781
+Salisbury,301,83155,Salisbury,1,,8782
+Salisbury,301,83156,Salisbury,1,,8786
+Salisbury,301,83157,Salisbury,1,,8786
+Salisbury,301,83158,Salisbury,1,,8786
+Salisbury,301,83159,Salisbury,1,,8786
+Salisbury,314,83160,Salisbury,1,,8786
+Salisbury,301,83161,Salisbury,1,,8786
+Salisbury,301,83162,Salisbury,1,,8786
+Salisbury,301,83163,Salisbury,1,,8786
+Gawler Central,601,83175,City,0,29999,1160
+Gawler Central,601,83176,Gawler Central,1,29999,7618
