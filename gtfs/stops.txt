@@ -7089,7 +7089,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100798,,Stop 45A Bridgewater Rd - East side,,-35.0057129195508, 138.760079858598,,,,
 100799,,Glenunga High School,,-34.94886, 138.63439,,,,
 100800,,Stop 69 Wellington Rd - South side,,-35.0806825172204, 138.86749233635,,,,
-100801,,54A Belinda Crc - North East Side,,-34.750224, 138.635607,,,,
+100801,,Stop 54A Belinda Cr - North East Side,,-34.750224, 138.635607,,,,
 100802,,Stop 53 Commercial Rd - West side,,-34.754592, 138.649079,,,,
 100803,,Stop 53 Commercial Rd - East side,,-34.7545623218538, 138.649369284604,,,,
 100805,,Stop 4A Beauchamp St - West Side,,-34.948599051, 138.569543292,,,,

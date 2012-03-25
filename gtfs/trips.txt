@@ -16000,3 +16000,4 @@ Salisbury,301,83162,Salisbury,1,,8786
 Salisbury,301,83163,Salisbury,1,,8786
 Gawler Central,601,83175,City,0,29999,1160
 Gawler Central,601,83176,Gawler Central,1,29999,7618
+B10,1,83222,Magill,1,,7554
