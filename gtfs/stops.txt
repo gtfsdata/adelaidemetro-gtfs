@@ -50,10 +50,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 55,,Stop 79H Coventry Rd - North West side,,-34.6800315694616, 138.681105568429,,,,
 59,,Stop 80 Anderson Wk - North side,,-34.6796781452012, 138.683676405969,,,,
 60,,Stop 81C Main North Rd - East side,,-34.6802945164008, 138.695675945018,,,,
-61,,Zone A Smithfield Interchange,,-34.6817215302139, 138.687338249642,,,,
+61,,Zone A Smithfield Interchange,,-34.6817215302139, 138.687338249642,,,,50001
 63,,Stop 81C Main North Rd - West side,,-34.68073, 138.69494,,,,
 65,,Stop 88 Craigmore Rd - North side,,-34.6821256625326, 138.703076221273,,,,
-66,,Zone B Smithfield Interchange,,-34.682129415849, 138.68727041059,,,,
+66,,Zone B Smithfield Interchange,,-34.682129415849, 138.68727041059,,,,50001
 70,,Stop 81A Anderson Wk - North side,,-34.6833769106336, 138.692214874369,,,,
 72,,Stop 79J Coventry Rd - South East side,,-34.6829030286883, 138.67945638079,,,,
 74,,Stop 81B Main North Rd - East side,,-34.6828213023123, 138.694096565891,,,,
@@ -201,11 +201,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 233,,Zone C Elizabeth City Centre - North West side,,-34.71682, 138.66838,,,,
 234,,Stop 65 Port Wakefield Rd - North East side,,-34.72045, 138.57865,,,,
 235,,Zone E Elizabeth City Centre - South side,,-34.71692, 138.66894,,,,
-236,,Zone A Elizabeth Int ,,-34.717058, 138.66515,,,,
-239,,Zone B Elizabeth Int ,,-34.71744, 138.66487,,,,
-240,,Zone C Elizabeth Int ,,-34.717184, 138.665201,,,,
+236,,Zone A Elizabeth Interchange,,-34.717058, 138.66515,,,,50015
+239,,Zone B Elizabeth Interchange,,-34.71744, 138.66487,,,,50015
+240,,Zone C Elizabeth Interchange,,-34.717184, 138.665201,,,,50015
 241,,Stop 65 Yorktown Rd - North West side,,-34.718, 138.67861,,,,
-242,,Zone D Elizabeth Int ,,-34.717492, 138.66504,,,,
+242,,Zone D Elizabeth Interchange,,-34.717492, 138.66504,,,,50015
 243,,Stop 65 Yorktown Rd - South East side,,-34.7182638825597, 138.678658498331,,,,
 244,,Stop 64A Yorktown Rd - North side,,-34.71902, 138.67533,,,,
 245,,Stop 64B Playford Bvd - East side,,-34.718559, 138.671167,,,,
@@ -426,44 +426,44 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 503,,Stop 45B Burton Rd - South West side,,-34.7616879444716, 138.61891854883,,,,
 504,,Stop 45P Whites Rd - South East side,,-34.7623254323563, 138.609859855023,,,,
 505,,Stop 45P Whites Rd - North West side,,-34.7627850581903, 138.60927019679,,,,
-507,,Stop 50 / A John St - South side,,-34.7614716140135, 138.648300745954,,,,
+507,,Stop 50 / A John St - South side,,-34.7614716140135, 138.648300745954,,,,50019
 508,,Stop 63A Target Hill Rd - North side,,-34.762083263279, 138.684598511813,,,,
 509,,Stop 55 Saints Rd - North side,,-34.7614052638332, 138.661624913764,,,,
 510,,Stop 63 Target Hill Rd - South West side,,-34.7610219823195, 138.681676503567,,,,
 512,,Stop 50 Main North Rd - South East side,,-34.7616537068281, 138.673789435418,,,,
-513,,Stop 50 / B Ann St - East side,,-34.761835, 138.648203,,,,
+513,,Stop 50 / B Ann St - East side,,-34.761835, 138.648203,,,,50019
 514,,Stop 50 Main North Rd - North West side,,-34.7616380499448, 138.673227835644,,,,
-515,,Stop 50 / E Ann St - West side,,-34.7617628748645, 138.647974257502,,,,
+515,,Stop 50 / E Ann St - West side,,-34.7617628748645, 138.647974257502,,,,50019
 516,,Stop 43 Kings Rd - South side,,-34.7616111340013, 138.597292552342,,,,
-517,,Stop 49 Church St - West side,,-34.7626393233711, 138.64540240383,,,,
+517,,Stop 49 Church St - West side,,-34.7626393233711, 138.64540240383,,,,50019
 518,,Stop 58 Saints Rd - North East side,,-34.7624453258536, 138.663327241467,,,,
 519,,Stop 49A Waterloo Corner Rd - South West side,,-34.7623212733944, 138.638856672085,,,,
 520,,Stop 43 Kings Rd - North side,,-34.7615129499135, 138.597399054765,,,,
 521,,Stop 54 Fenden Rd - South East side,,-34.7607714724578, 138.658739216346,,,,
 522,,Stop 45C Burton Rd - North East side,,-34.763229990508, 138.621355377637,,,,
-523,,Stop 50 / C Ann St - East side,,-34.761965, 138.648272,,,,
-525,,Zone D Salisbury Interchange - West Side,,-34.76222376518, 138.6424961686,,,,
-526,,Zone E Salisbury Interchange - East Side,,-34.76219798876, 138.6426195502,,,,
+523,,Stop 50 / C Ann St - East side,,-34.761965, 138.648272,,,,50019
+525,,Zone D Salisbury Interchange - West Side,,-34.76222376518, 138.6424961686,,,,50002
+526,,Zone E Salisbury Interchange - East Side,,-34.76219798876, 138.6426195502,,,,50002
 527,,Stop 49A Waterloo Corner Rd - North East side,,-34.7613541338157, 138.638096245329,,,,
 528,,Zone F Salisbury Intercnage - East Side,,-34.76258690618, 138.6426490545,,,,
 529,,Stop 51 Waterloo Corner Rd - North side,,-34.7570022276708, 138.633008384534,,,,
 530,,Stop 54 Fenden Rd - North West side,,-34.7607542075325, 138.658581865571,,,,
 531,,Stop 58A Carlingford Dr - East side,,-34.7637310998938, 138.667149679687,,,,
 532,,Stop 45C Burton Rd - South West side,,-34.7633708678924, 138.621303028907,,,,
-533,,Stop 48A Church St - North West side,,-34.7644972329884, 138.645841823645,,,,
-534,,Zone C Salisbury Interchange - West Side,,-34.7627565749596, 138.642547130585,,,,
+533,,Stop 48A Church St - North West side,,-34.7644972329884, 138.645841823645,,,,50019
+534,,Zone C Salisbury Interchange - West Side,,-34.7627565749596, 138.642547130585,,,,50002
 537,,Stop 50 Salisbury Hwy - South East side,,-34.7563395092402, 138.646750357037,,,,
 539,,Stop 64 Target Hill Rd - North East side,,-34.7638279835343, 138.688280171631,,,,
 540,,Stop 58A Carlingford Dr - West side,,-34.7640432657097, 138.666726888035,,,,
-541,,Zone B Salisbury Interchange - West Side,,-34.7630529436145, 138.64259541,,,,
+541,,Zone B Salisbury Interchange - West Side,,-34.7630529436145, 138.64259541,,,,50002
 542,,Stop 44P Whites Rd - South East side,,-34.7639545235386, 138.608413784696,,,,
-543,,Zone H Salisbury Interchange - East Side,,-34.76304082447, 138.64271208644,,,,
+543,,Zone H Salisbury Interchange - East Side,,-34.76304082447, 138.64271208644,,,,50002
 544,,Stop 47A Winzor St - North West side,,-34.7633622910489, 138.636063430858,,,,
 545,,Stop 47 Winzor St - North West side,,-34.763023073362, 138.631357987095,,,,
 546,,Stop 47A Winzor St - South East side,,-34.7634769942751, 138.635808003885,,,,
-547,,Zone A Salisbury Interchange - West Side,,-34.7633702441923, 138.642643690109,,,,
+547,,Zone A Salisbury Interchange - West Side,,-34.7633702441923, 138.642643690109,,,,50002
 548,,Stop 47 Winzor St - South East side,,-34.7631814412533, 138.63164248791,,,,
-549,,Zone I Salisbury Interchange - East Side,,-34.763407703, 138.6427469555,,,,
+549,,Zone I Salisbury Interchange - East Side,,-34.763407703, 138.6427469555,,,,50002
 550,,Stop 42B Kings Rd - South side,,-34.7629185005198, 138.599453260685,,,,
 552,,Stop 49 Main North Rd - North West side,,-34.7637492966297, 138.671389146436,,,,
 553,,Stop 62 Canterbury Dr - West side,,-34.7627653783998, 138.6752922931,,,,
@@ -695,12 +695,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 815,,Stop 55 Golden Grove Rd - South East side,,-34.79079, 138.71282,,,,
 816,,Stop 55 Golden Grove Rd - West side,,-34.79055, 138.71285,,,,
 818,,Stop 43D Bridge Rd - East side,,-34.79214, 138.66231,,,,
-819,,Zone D Golden Grove Village Interchange,,-34.79081, 138.69355,,,,
+819,,Zone D Golden Grove Village Interchange,,-34.79081, 138.69355,,,,50003
 820,,Stop 44B Northbri Av - West side,,-34.7904, 138.65435,,,,
-821,,Zone A Golden Grove Village Interchange,,-34.790964, 138.693461,,,,
-822,,Zone E Golden Grove Village Interchange,,-34.790961, 138.693383,,,,
-823,,Zone C Golden Grove Village Interchange,,-34.790885, 138.693367,,,,
-824,,Zone B Golden Grove Village Interchange,,-34.790917, 138.693592,,,,
+821,,Zone A Golden Grove Village Interchange,,-34.790964, 138.693461,,,,50003
+822,,Zone E Golden Grove Village Interchange,,-34.790961, 138.693383,,,,50003
+823,,Zone C Golden Grove Village Interchange,,-34.790885, 138.693367,,,,50003
+824,,Zone B Golden Grove Village Interchange,,-34.790917, 138.693592,,,,50003
 826,,Stop 36 Oleander Dr - North West side,,-34.79235, 138.60592,,,,
 828,,Stop 36 Oleander Dr - South East side,,-34.79209, 138.6064,,,,
 831,,Stop 36 Salisbury Hwy - South East side,,-34.7916382538404, 138.615434962904,,,,
@@ -1222,12 +1222,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1390,,Stop 41 Beovich Rd - South side,,-34.83076, 138.64419,,,,
 1391,,Stop 66 Kelly Rd - East side,,-34.8315613767229, 138.675121374366,,,,
 1392,,Stop 47 Hancock Rd - East side,,-34.8309631931202, 138.719596037927,,,,
-1393,,Zone A Modbury Interchange - West side,,-34.831325964, 138.6943084,,,,
+1393,,Zone A Modbury Interchange - West side,,-34.831325964, 138.6943084,,,,50004
 1394,,Stop 47 Hancock Rd - West side,,-34.8309926737992, 138.7194479813,,,,
-1395,,Zone H Modbury Interchange - West side,,-34.8311102, 138.69444251,,,,
+1395,,Zone H Modbury Interchange - West side,,-34.8311102, 138.69444251,,,,50004
 1396,,Stop 44A Roopena St - East side,,-34.83138, 138.65046,,,,
-1397,,Zone B Modbury Interchange - West side,,-34.831676026, 138.694388866,,,,
-1398,,Zone G Modbury Interchange - East side,,-34.8314734747, 138.6944961548,,,,
+1397,,Zone B Modbury Interchange - West side,,-34.831676026, 138.694388866,,,,50004
+1398,,Zone G Modbury Interchange - East side,,-34.8314734747, 138.6944961548,,,,50004
 1399,,Stop 33 Pratt Av - South side,,-34.83044, 138.61821,,,,
 1400,,Stop 31 Main North Rd - West side,,-34.83155, 138.61189,,,,
 1401,,Stop 31 Main North Rd - South East side,,-34.8317017030993, 138.612234712591,,,,
@@ -1242,10 +1242,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1412,,Stop 34 Pratt Av - North side,,-34.83209, 138.62151,,,,
 1413,,Stop 34 Pratt Av - South side,,-34.832, 138.62097,,,,
 1414,,Stop 35 Bridge Rd - West side,,-34.83214, 138.62858,,,,
-1415,,Zone F Modbury Interchange - East side,,-34.832017281, 138.694547117,,,,
+1415,,Zone F Modbury Interchange - East side,,-34.832017281, 138.694547117,,,,50004
 1416,,Stop 45 Smart Rd - South side,,-34.8320882056196, 138.713850773513,,,,
 1417,,Stop 31 Scott St - East side,,-34.83224, 138.61339,,,,
-1418,,Zone C Modbury Interchange - West side,,-34.8320767253, 138.694413006,,,,
+1418,,Zone C Modbury Interchange - West side,,-34.8320767253, 138.694413006,,,,50004
 1419,,Stop 44 Smart Rd - North side,,-34.8321561944658, 138.70999462872,,,,
 1420,,Stop 44 Nelson Rd - East side,,-34.83417, 138.66233,,,,
 1421,,Stop 67 Kelly Rd - West side,,-34.83317, 138.67508,,,,
@@ -1253,10 +1253,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1423,,Stop 43E Smart Rd - North side,,-34.83237, 138.70614,,,,
 1424,,Stop 29 Port Wakefield Rd - West side,,-34.83254, 138.59876,,,,
 1425,,Stop 43E Smart Rd - South side,,-34.8325116767693, 138.706144029011,,,,
-1426,,Zone E Modbury Interchange - East side,,-34.832281477, 138.6945739388,,,,
+1426,,Zone E Modbury Interchange - East side,,-34.832281477, 138.6945739388,,,,50004
 1427,,Stop 43D Smart Rd - North side,,-34.83256, 138.70317,,,,
 1428,,Stop 43D Smart Rd - South side,,-34.8327197589429, 138.702778869088,,,,
-1429,,Zone D Modbury Interchange - West side,,-34.8325566806, 138.69435936,,,,
+1429,,Zone D Modbury Interchange - West side,,-34.8325566806, 138.69435936,,,,50004
 1430,,Stop 43 Roopena St - West side,,-34.83268, 138.64945,,,,
 1431,,Stop 67 Kelly Rd - East side,,-34.8330972913439, 138.675235038079,,,,
 1432,,Stop 43C Smart Rd - North side,,-34.8326585190901, 138.701068652346,,,,
@@ -1434,10 +1434,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1629,,Stop 42A Carlisle St - East side,,-34.8443851556994, 138.492152700836,,,,
 1630,,Stop 30 Briens Rd - East side,,-34.8444497913428, 138.619488500332,,,,
 1631,,Stop 34C Awoonga Rd - East side,,-34.8446469103544, 138.694102680151,,,,
-1632,,Zone B Commercial Rd - West side,,-34.84476, 138.50541,,,,
+1632,,Zone B Commercial Rd - West side,,-34.84476, 138.50541,,,,50018
 1633,,Stop 37 Grand Junction Rd - North side,,-34.84432, 138.68058,,,,
 1634,,Stop 37 Grand Junction Rd - South side,,-34.84455, 138.68041,,,,
-1636,,Zone D Commercial Rd - North East side,,-34.8448683207641, 138.505881986317,,,,
+1636,,Zone D Commercial Rd - North East side,,-34.8448683207641, 138.505881986317,,,,50018
 1637,,Stop 43 Hart St - North side,,-34.84459, 138.48374,,,,
 1638,,Stop 43 Hart St - South side,,-34.8447416569778, 138.483588033058,,,,
 1639,,Stop 41 St Vincent St - South side,,-34.8447856110723, 138.503625342073,,,,
@@ -1452,12 +1452,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1652,,Stop 42D Hart St - South side,,-34.8451817064714, 138.485910491346,,,,
 1653,,Stop 35B Grand Junction Rd - South side,,-34.84532, 138.66622,,,,
 1654,,Stop 42D Hart St - North side,,-34.8450480271323, 138.486191642727,,,,
-1656,,Zone A Commercial Rd - West side,,-34.84516592159, 138.505717040384,,,,
+1656,,Zone A Commercial Rd - West side,,-34.84516592159, 138.505717040384,,,,50018
 1657,,Stop 35B Grand Junction Rd - North side,,-34.84505, 138.66625,,,,
 1658,,Stop 26 Main North Rd - East side,,-34.8454360745975, 138.602403880982,,,,
 1659,,Stop 37 Pauls Dr - West side,,-34.8453515512577, 138.655082946097,,,,
 1660,,Stop 26 Main North Rd - West side,,-34.84541, 138.60198,,,,
-1661,,Zone C Commercial Rd - Port Adelaide,,-34.8454143385912, 138.506260440042,,,,
+1661,,Zone C Commercial Rd - Port Adelaide,,-34.8454143385912, 138.506260440042,,,,50018
 1662,,Stop 40A Amber Rd - West side,,-34.84559, 138.71447,,,,
 1663,,Stop 40A Amber Rd - East side,,-34.84574, 138.71458,,,,
 1665,,Stop 36 Grand Junction Rd - South side,,-34.84581, 138.65729,,,,
@@ -1924,24 +1924,24 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2184,,Stop 34A Military Rd - South West side,,-34.86815, 138.48051,,,,
 2185,,Stop 32 Days Rd - East side,,-34.868739, 138.565975,,,,
 2186,,Stop 28 Old Port Rd - South side,,-34.86845, 138.51619,,,,
-2187,,Zone I Paradise Interchange - North West side,,-34.8688413457, 138.661095947,,,,
-2188,,Zone F Paradise Interchange - North West side,,-34.86833, 138.66219,,,,
+2187,,Zone I Paradise Interchange - North West side,,-34.8688413457, 138.661095947,,,,50005
+2188,,Zone F Paradise Interchange - North West side,,-34.86833, 138.66219,,,,50005
 2189,,Stop 19 Main North Rd - East side,,-34.8681838785321, 138.601716800425,,,,
-2190,,Zone A Paradise Interchange - South East side,,-34.86857, 138.66217,,,,
+2190,,Zone A Paradise Interchange - South East side,,-34.86857, 138.66217,,,,50005
 2191,,Stop 36 Corcoran Dr - East side,,-34.86855, 138.49078,,,,
 2192,,Stop 44 George St - North side,,-34.86849, 138.68931,,,,
 2193,,Stop 44 George St - South East side,,-34.86862, 138.68925,,,,
 2194,,Stop 27 Lower North East Rd - East side,,-34.8686890061799, 138.676353632422,,,,
 2195,,Stop 27 Lower North East Rd - West side,,-34.8685842653856, 138.676193152318,,,,
 2196,,Stop 28 Torrens Rd - North side,,-34.8686856522918, 138.537866658905,,,,
-2197,,Zone E Paradise Interchange - North West side,,-34.86853, 138.66191,,,,
+2197,,Zone E Paradise Interchange - North West side,,-34.86853, 138.66191,,,,50005
 2198,,Stop 25 Liberty Gr - West side,,-34.8688764237159, 138.556259172798,,,,
 2199,,Stop 32 Days Rd - West side,,-34.86902, 138.56574,,,,
 2200,,Stop 23 North East Rd - South East side,,-34.8689018149877, 138.640325392535,,,,
 2201,,Stop 45 George St - North side,,-34.86883, 138.68682,,,,
 2202,,Stop 45 George St - South East side,,-34.86899, 138.68685,,,,
 2203,,Stop 36 Gorge Rd - North side,,-34.86892, 138.70541,,,,
-2204,,Zone B Paradise Interchange - South East side,,-34.8689, 138.66174,,,,
+2204,,Zone B Paradise Interchange - South East side,,-34.8689, 138.66174,,,,50005
 2205,,Stop 36 Gorge Rd - South side,,-34.868937, 138.70552,,,,
 2206,,Stop 23 North East Rd - North West side,,-34.868930361197, 138.639956900042,,,,
 2207,,Stop 36 Corcoran Dr - West side,,-34.86899, 138.49086,,,,
@@ -1953,10 +1953,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2213,,Stop 25 Hanson Rd - East side,,-34.8693812499702, 138.548105099133,,,,
 2214,,Stop 25 Liberty Av - East side,,-34.86933, 138.5564,,,,
 2216,,Stop 25 Hanson Rd - West side,,-34.86877, 138.54783,,,,
-2217,,Zone D Paradise Interchange - North West side,,-34.86882, 138.66143,,,,
+2217,,Zone D Paradise Interchange - North West side,,-34.86882, 138.66143,,,,50005
 2218,,Stop 25 Pellew St - South East side,,-34.869565, 138.652235,,,,
 2219,,Stop 35 Gorge Rd - North side,,-34.86952, 138.70358,,,,
-2220,,Zone C Paradise Interchange - South East side,,-34.8692, 138.66139,,,,
+2220,,Zone C Paradise Interchange - South East side,,-34.8692, 138.66139,,,,50005
 2221,,Stop 32 Gameau Rd - North West side,,-34.86941, 138.65912,,,,
 2222,,Stop 22 Rellum Rd - North side,,-34.86958, 138.62827,,,,
 2223,,Stop 18 Prospect Rd - West side,,-34.8682048111656, 138.592674064133,,,,
@@ -2038,8 +2038,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2304,,Stop 25 Darley Rd - North East side,,-34.872458536363, 138.668070320517,,,,
 2305,,Stop 21 North East Rd - North West side,,-34.87258, 138.63517,,,,
 2306,,Stop 31 Victor Rd - West side,,-34.8727, 138.6565,,,,
-2307,,Zone B Arndale Interchange - West side,,-34.87505, 138.551811,,,,
-2308,,Zone D Arndale Interchange - East side,,-34.87448, 138.551277,,,,
+2307,,Zone B Arndale Interchange - West side,,-34.87505, 138.551811,,,,50006
+2308,,Zone D Arndale Interchange - East side,,-34.87448, 138.551277,,,,50006
 2309,,Stop 20 Regency Rd - North side,,-34.8726554862903, 138.618419890752,,,,
 2310,,Stop 21 North East Rd - South East side,,-34.8728470084016, 138.635150082958,,,,
 2311,,Stop 224 Woodville Rd - East side,,-34.87288, 138.54293,,,,
@@ -2067,8 +2067,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2336,,Stop 24A Hanson Rd - West side,,-34.8735434582874, 138.54816173217,,,,
 2337,,Stop 33A Tapleys Hill Rd - West side,,-34.87423, 138.51234,,,,
 2338,,Stop 116 Regency Rd - North side,,-34.8736333926122, 138.600308255534,,,,
-2339,,Zone C Arndale Interchange - West side,,-34.87415, 138.5511,,,,
-2340,,Zone E Arndale Interchange - East side,,-34.87346, 138.55121,,,,
+2339,,Zone C Arndale Interchange - West side,,-34.87415, 138.5511,,,,50006
+2340,,Zone E Arndale Interchange - East side,,-34.87346, 138.55121,,,,50006
 2341,,Stop 15 Churchill Rd - West side,,-34.8714, 138.5838,,,,
 2342,,Stop 17A Regency Rd - South side,,-34.8737137566171, 138.602712762342,,,,
 2343,,Stop 25 Torrens Rd - North side,,-34.8737695810226, 138.546197618918,,,,
@@ -2085,10 +2085,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2355,,Stop 114 Regency Rd - North side,,-34.87396, 138.59371,,,,
 2356,,Stop 25 Lower North East Rd - South East side,,-34.8740319419946, 138.668476827097,,,,
 2357,,Stop 114 Regency Rd - South side,,-34.87413, 138.59423,,,,
-2358,,Zone F Arndale Interchange - East side,,-34.87365, 138.55137,,,,
+2358,,Zone F Arndale Interchange - East side,,-34.87365, 138.55137,,,,50006
 2359,,Stop 34A Frederick Rd - West side,,-34.87566, 138.5035,,,,
 2360,,Stop 113 Regency Rd - North side,,-34.87414, 138.58957,,,,
-2361,,Zone A Arndale Interchange - South side,,-34.87516, 138.551628,,,,
+2361,,Zone A Arndale Interchange - South side,,-34.87516, 138.551628,,,,50006
 2362,,Stop 33E West Lakes Bvd - South side,,-34.87432, 138.48976,,,,
 2363,,Stop 112 Regency Rd - North side,,-34.8743, 138.58646,,,,
 2364,,Stop 113 Regency Rd - South side,,-34.87437, 138.58935,,,,
@@ -2203,18 +2203,18 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2475,,Stop 32B Military Rd - East side,,-34.87822, 138.48505,,,,
 2476,,Stop 18 Fourth Av - North West side,,-34.8781521654447, 138.637919587785,,,,
 2477,,Stop 32 Maryvale Rd - West side,,-34.8785707967503, 138.700274661134,,,,
-2478,,Zone A West Lakes Interchange - West side,,-34.878786, 138.491318,,,,
+2478,,Zone A West Lakes Interchange - West side,,-34.878786, 138.491318,,,,50007
 2480,,Stop 22 Torrens Rd - South side,,-34.8783976949536, 138.553443186279,,,,
 2481,,Stop 32 Maryvale Rd - East side,,-34.878568, 138.700399,,,,
 2483,,Stop 33C West Lakes Bvd - North side,,-34.8782780787789, 138.496510617029,,,,
 2484,,Stop 18 Fourth Av - South East side,,-34.878384842458, 138.637702079615,,,,
 2485,,Stop 33C West Lakes Bvd - South side,,-34.8785163353769, 138.496407576051,,,,
-2486,,Zone B West Lakes Interchange - West side,,-34.87837, 138.491318,,,,
+2486,,Zone B West Lakes Interchange - West side,,-34.87837, 138.491318,,,,50007
 2487,,Stop 23 Port Rd - South West side,,-34.87850007379, 138.531206137525,,,,
 2488,,Stop 13 Churchill Rd - East side,,-34.8776051351218, 138.584418315127,,,,
-2489,,Zone F West Lakes Interchange - East side,,-34.87867, 138.491628,,,,
+2489,,Zone F West Lakes Interchange - East side,,-34.87867, 138.491628,,,,50007
 2490,,Stop 19 O G Rd - North East side,,-34.87855, 138.63497,,,,
-2492,,Zone C West Lakes Interchange - West side,,-34.878093, 138.491361,,,,
+2492,,Zone C West Lakes Interchange - West side,,-34.878093, 138.491361,,,,50007
 2493,,Stop 22 Torrens Rd - North side,,-34.8787052372991, 138.554292203809,,,,
 2494,,Stop 18 North East Rd - North West side,,-34.8786664046543, 138.627177288107,,,,
 2496,,Stop 18 O G Rd - South West side,,-34.8788442929704, 138.634932167286,,,,
@@ -4151,7 +4151,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4530,,Stop 15C Raglan Av - North side,,-34.98039, 138.56028,,,,
 4531,,Stop 17 Winston Av - East side,,-34.98048, 138.58282,,,,
 4532,,Stop 16 Bray St - North side,,-34.98041, 138.5553,,,,
-4533,,Zone A Moseley St - West side,,-34.980675366052, 138.51305719549,,,,
+4533,,Zone A Moseley St - West side,,-34.980675366052, 138.51305719549,,,,50017
 4535,,Stop 17 Bray St - South side,,-34.98063, 138.55205,,,,
 4536,,Stop 17 Winston Av - West side,,-34.9805769150401, 138.582735842213,,,,
 4537,,Stop 17 Bray St - North side,,-34.9805080720779, 138.552517946844,,,,
@@ -4161,7 +4161,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4542,,Stop 15 Towers Tce - East side,,-34.97957, 138.56488,,,,
 4543,,Stop 18A Bray St - South side,,-34.98103, 138.54601,,,,
 4544,,Stop 19 Bray St - North side,,-34.98107, 138.54254,,,,
-4545,,Zone C Moseley St - East side,,-34.9812590322509, 138.513234928044,,,,
+4545,,Zone C Moseley St - East side,,-34.9812590322509, 138.513234928044,,,,50017
 4546,,Stop 19 Bray St - South side,,-34.98118, 138.54248,,,,
 4547,,Stop 15 Towers Tce - West side,,-34.97925, 138.56476,,,,
 4548,,Stop 15 South Rd - West side,,-34.9812731319021, 138.573860957532,,,,
@@ -4170,7 +4170,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4551,,Stop 19 Hendrie St - West side,,-34.9814433290569, 138.546508724228,,,,
 4552,,Stop 17A East Pky - East side,,-34.9817929730571, 138.598880202909,,,,
 4553,,Stop 19 Hendrie St - East side,,-34.98155, 138.54661,,,,
-4554,,Zone D Moseley St - East side,,-34.9809526870111, 138.513225500004,,,,
+4554,,Zone D Moseley St - East side,,-34.9809526870111, 138.513225500004,,,,50017
 4556,,Stop 21 Morphett Rd - West side,,-34.982734, 138.538178,,,,
 4557,,Stop 21 Morphett Rd - East side,,-34.9826265136305, 138.538341628816,,,,
 4558,,Stop 30F Piccadilly Rd - East side,,-34.98232, 138.72638,,,,
@@ -4689,20 +4689,20 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5097,,Stop 35B Jetty Rd - South side,,-35.01721, 138.51965,,,,
 5098,,Stop 29A Sturt Rd - South side,,-35.017168, 138.560933,,,,
 5099,,Stop 29B Sturt Rd - North side,,-35.0171647837157, 138.5564705487,,,,
-5100,,Zone B Marion Interchange - North side,,-35.017468, 138.546238,,,,
-5101,,Zone A Marion Interchange - North side,,-35.017436, 138.546669,,,,
-5102,,Zone C Marion Interchange - North side,,-35.017518, 138.54552,,,,
+5100,,Zone B Marion Interchange - North side,,-35.017468, 138.546238,,,,50008
+5101,,Zone A Marion Interchange - North side,,-35.017436, 138.546669,,,,50008
+5102,,Zone C Marion Interchange - North side,,-35.017518, 138.54552,,,,50008
 5103,,Stop 29B Sturt Rd - South side,,-35.0173371, 138.556379,,,,
 5104,,Stop 29C Sturt Rd - North side,,-35.0173088852809, 138.553707081491,,,,
 5105,,Stop 29D Sturt Rd - North side,,-35.01744, 138.5512,,,,
 5106,,Stop 29C Sturt Rd - South side,,-35.017462, 138.553906,,,,
-5107,,Zone F Marion Interchange - South side,,-35.017605, 138.546196,,,,
-5109,,Zone E Marion Interchange - South side,,-35.017634, 138.545797,,,,
+5107,,Zone F Marion Interchange - South side,,-35.017605, 138.546196,,,,50008
+5109,,Zone E Marion Interchange - South side,,-35.017634, 138.545797,,,,50008
 5110,,Stop 29D Sturt Rd - South side,,-35.017592, 138.551223,,,,
-5111,,Zone D Marion Interchange - South side,,-35.0176611174003, 138.545249140615,,,,
+5111,,Zone D Marion Interchange - South side,,-35.0176611174003, 138.545249140615,,,,50008
 5113,,Zone G Marion Int,,-35.017623, 138.546615,,,,
 5114,,Stop 30 Main Rd - East side,,-35.01767, 138.61654,,,,
-5115,,Zone I Marion Interchange - South side,,-35.0176793, 138.545513,,,,
+5115,,Zone I Marion Interchange - South side,,-35.0176793, 138.545513,,,,50008
 5116,,Stop 30 Main Rd - West side,,-35.0175159197424, 138.616313269234,,,,
 5117,,Stop 50 Mount Barker Rd - South side,,-35.01775, 138.78698,,,,
 5118,,Stop 31 Sturt Rd - North side,,-35.017783, 138.543019,,,,
@@ -4755,7 +4755,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5166,,Stop 27A Shepherds Hill Rd - North side,,-35.021003743126, 138.58288744675,,,,
 5167,,Stop 31 Diagonal Rd - East side,,-35.0209351374554, 138.550144314884,,,,
 5168,,Stop 31A Station Rd - North side,,-35.0208945607494, 138.617467938525,,,,
-5169,,Zone B Blackwood Interchange,,-35.0213748323831, 138.619367587691,,,,
+5169,,Zone B Blackwood Interchange,,-35.0213748323831, 138.619367587691,,,,50009
 5170,,Stop 36 Cedar Av - East side,,-35.021320218396, 138.518965357455,,,,
 5172,,Stop 44 Watahuna Av - North West side,,-35.0211959881153, 138.622926321927,,,,
 5173,,Stop 31 Shepherds Hill Rd - North side,,-35.02123, 138.61507,,,,
@@ -4764,13 +4764,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5176,,Stop 31 Shepherds Hill Rd - South side,,-35.02139, 138.61488,,,,
 5177,,Stop 44 Watahuna Av - South East side,,-35.02125, 138.62302,,,,
 5178,,Stop 27A Shepherds Hill Rd - South West side,,-35.0213943193712, 138.583108439419,,,,
-5179,,Zone C Blackwood Interchange,,-35.0213843474263, 138.61927094315,,,,
+5179,,Zone C Blackwood Interchange,,-35.0213843474263, 138.61927094315,,,,50009
 5180,,Stop 30C Shepherds Hill Rd - North side,,-35.0214039761651, 138.611917285013,,,,
 5181,,Stop 33A Main Rd - South side,,-35.02155, 138.61752,,,,
 5182,,Stop 30C Shepherds Hill Rd - South side,,-35.0215558144569, 138.611795980961,,,,
 5183,,Stop 28 Main South Rd - North West side,,-35.0213, 138.56461,,,,
 5184,,Stop 40 Cricklewood Rd - West side,,-35.0203834953344, 138.726014383487,,,,
-5185,,Zone A Blackwood Interchange,,-35.0217089781597, 138.619449176992,,,,
+5185,,Zone A Blackwood Interchange,,-35.0217089781597, 138.619449176992,,,,50009
 5186,,Zone A - Flinders Medical Centre,,-35.022079, 138.568018,,,,
 5187,,Stop 33 Morphett Rd - East side,,-35.0217960887934, 138.54132636319,,,,
 5188,,Stop 26B University Dr - East side,,-35.0205064225892, 138.571464921562,,,,
@@ -4824,7 +4824,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5244,,Stop 54 Mount Barker Rd - North side,,-35.0267191357467, 138.808206724646,,,,
 5245,,Stop 34 Morphett Rd - East side,,-35.02453, 138.54152,,,,
 5246,,Stop 29 Main South Rd - South East side,,-35.0247611030135, 138.561208242234,,,,
-5247,,Zone A Registry Road,,-35.0249358443044, 138.571616011227,,,,
+5247,,Zone A Registry Rd - Flinders University,,-35.0249358443044, 138.571616011227,,,,50016
 5248,,Stop 31C Miller St - East side,,-35.02512, 138.55042,,,,
 5249,,Stop 37A Cedar Av - East side,,-35.0251844425466, 138.520264310678,,,,
 5250,,Stop 39 Longwood Rd - South West side,,-35.02687602696, 138.72340472374,,,,
@@ -5715,25 +5715,25 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6195,,Stop 66 Dyson Rd - East side,,-35.1394466302394, 138.486401234576,,,,
 6196,,Stop 69 Beach Rd - North side,,-35.1393, 138.47268,,,,
 6197,,Stop 69 Beach Rd - South side,,-35.1394366553685, 138.473051819331,,,,
-6198,,Zone G Colonnades Interchange,,-35.1394730285148, 138.495075481795,,,,
-6199,,Zone C Colonnades Interchange,,-35.1395822055942, 138.496143159537,,,,
-6200,,Zone B Colonnades Interchange,,-35.1396698841443, 138.495687796818,,,,
-6201,,Zone A Colonnades Interchange,,-35.139636, 138.495256,,,,
+6198,,Zone G Colonnades Interchange,,-35.1394730285148, 138.495075481795,,,,50010
+6199,,Zone C Colonnades Interchange,,-35.1395822055942, 138.496143159537,,,,50010
+6200,,Zone B Colonnades Interchange,,-35.1396698841443, 138.495687796818,,,,50010
+6201,,Zone A Colonnades Interchange,,-35.139636, 138.495256,,,,50010
 6202,,Stop 55A States Rd - East side,,-35.13985, 138.53751,,,,
-6203,,Zone D Colonnades Interchange,,-35.1397309259623, 138.496095876429,,,,
-6204,,Zone F Colonnades Interchange,,-35.1398699524239, 138.495211819979,,,,
-6205,,Zone E Colonnades Interchange,,-35.1398249053408, 138.495684844379,,,,
-6206,,Zone H Noarlunga Centre Interchange - East side,,-35.139859761421, 138.492028266191,,,,
+6203,,Zone D Colonnades Interchange,,-35.1397309259623, 138.496095876429,,,,50010
+6204,,Zone F Colonnades Interchange,,-35.1398699524239, 138.495211819979,,,,50010
+6205,,Zone E Colonnades Interchange,,-35.1398249053408, 138.495684844379,,,,50010
+6206,,Zone H Noarlunga Centre Interchange - East side,,-35.139859761421, 138.492028266191,,,,50011
 6207,,Stop 69A Witton Rd - East side,,-35.1400401366067, 138.471794052545,,,,
-6208,,Zone A Noarlunga Centre Interchange - West side,,-35.1398838885433, 138.491769433022,,,,
+6208,,Zone A Noarlunga Centre Interchange - West side,,-35.1398838885433, 138.491769433022,,,,50011
 6209,,Stop 58A Main South Rd - West side,,-35.1400654951034, 138.524537516904,,,,
-6210,,Zone G Noarlunga Centre Interchange - East side,,-35.1402819850278, 138.491865992546,,,,
-6211,,Zone B Noarlunga Centre Interchange - West side,,-35.1401438029975, 138.491671532393,,,,
+6210,,Zone G Noarlunga Centre Interchange - East side,,-35.1402819850278, 138.491865992546,,,,50011
+6211,,Zone B Noarlunga Centre Interchange - West side,,-35.1401438029975, 138.491671532393,,,,50011
 6212,,Stop 47 Goldsmith Dr - East side,,-35.1405370859118, 138.502510532126,,,,
-6213,,Zone F Noarlunga Centre Interchange - East side,,-35.140568218487, 138.491757363081,,,,
+6213,,Zone F Noarlunga Centre Interchange - East side,,-35.140568218487, 138.491757363081,,,,50011
 6214,,Stop 69A Witton Rd - West side,,-35.14085, 138.47141,,,,
-6215,,Zone C Noarlunga Centre Interchange - West side,,-35.1403916531388, 138.491572290659,,,,
-6216,,Zone E Noarlunga Centre Interchange - East side,,-35.1408051005887, 138.491654098034,,,,
+6215,,Zone C Noarlunga Centre Interchange - West side,,-35.1403916531388, 138.491572290659,,,,50011
+6216,,Zone E Noarlunga Centre Interchange - East side,,-35.1408051005887, 138.491654098034,,,,50011
 6217,,Stop 57 Main South Rd - East side,,-35.1414617150671, 138.524914226254,,,,
 6218,,Stop 61 Majorca Rd - East side,,-35.14129, 138.51383,,,,
 6219,,Stop 66 Dyson Rd - West side,,-35.1414307754836, 138.486376889727,,,,
@@ -5987,7 +5987,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6495,,Stop 20 Tapleys Hill Rd - East side,,-34.9222455910061, 138.515925064322,,,,
 6496,,Stop 19 Tapleys Hill Rd - East side,,-34.9248287716914, 138.51717523791,,,,
 6497,,Stop 19 Tapleys Hill Rd - West side,,-34.92504, 138.51704,,,,
-6498,,Zone E West Lakes Interchange,,-34.878324, 138.491614,,,,
+6498,,Zone E West Lakes Interchange,,-34.878324, 138.491614,,,,50007
 6499,,Stop 32C Sportsmans Dr - East side,,-34.8832603218039, 138.491593955398,,,,
 6500,,Stop 32C Sportsmans Dr - West side,,-34.88364, 138.49146,,,,
 6501,,Stop 32B Sportsmans Dr - East side,,-34.88649, 138.49128,,,,
@@ -6222,7 +6222,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6756,,South Rd - Tram Stop 6,,-34.9584167359312, 138.572403327245,,,,
 6757,,Marion Rd - Tram Stop 10,,-34.9671728436558, 138.555101073453,,,,
 6758,,Stop 16 Morphett Rd - West side,,-34.9775067690715, 138.537765440918,,,,
-6759,,Moseley Sq - Tram Stop 17,,-34.9804049213547, 138.511927445342,,,,
+6759,,Moseley Sq - Tram Stop 17,,-34.9804049213547, 138.511927445342,,,,50017
 6760,,Port Adelaide Railway Station,,-34.8491322855762, 138.507822727925,,,,
 6761,,Stop 2 Sir Edwin Smith Av - East side,,-34.9128683030034, 138.600714992594,,,,
 6762,,Stop 2 Sir Edwin Smith Av - West side,,-34.9126368775672, 138.600531590184,,,,
@@ -6301,16 +6301,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7289,,Stop 43 Fletcher Rd - East side,,-34.83898, 138.49821,,,,
 7293,,Stop 24A Crafers Park N Ride - North side,,-34.99726, 138.7023,,,,
 7295,,Stop 44 Mount Barker Rd - South side,,-35.0122578940426, 138.743595374044,,,,
-7297,,Zone A Klemzig Interchange - East side,,-34.8865249914, 138.63926947,,,,
+7297,,Zone A Klemzig Interchange - East side,,-34.8865249914, 138.63926947,,,,50012
 7302,,Stop 25 Main St - South side,,-34.99746, 138.70386,,,,
 7303,,Strathalbyn - South Tce ,,-35.260859, 138.89196,,,,
 7304,,Stop 63 Adelaide Rd - East side,,-35.06438, 138.85469,,,,
-7308,,Stop 50 / F John St - North side,,-34.76127, 138.64846,,,,
+7308,,Stop 50 / F John St - North side,,-34.76127, 138.64846,,,,50019
 7309,,Stop 42P Kings Rd - South West side,,-34.7684296444412, 138.608572039756,,,,
 7310,,Stop 42P Kings Rd - North East side,,-34.76831, 138.60853,,,,
 7311,,Stop 94 Alawoona Rd - East side,,-34.66661, 138.69807,,,,
 7312,,Stop 63 Southbank Bvd - South side,,-35.08331, 138.52022,,,,
-7313,,Stop 49 / B Church St - East side,,-34.7630053208181, 138.645819227352,,,,
+7313,,Stop 49 / B Church St - East side,,-34.7630053208181, 138.645819227352,,,,50019
 7329,,Stop 62 Waterloo Corner Rd - South West side,,-34.73678, 138.59953,,,,
 7330,,Stop 62 Waterloo Corner Rd - North East side,,-34.73655, 138.59944,,,,
 7331,,Stop VS1 Victoria Sq - South side,,-34.9287635273187, 138.600168553117,,,,
@@ -6429,6 +6429,25 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8183,,Stop 84A Grand Bvd - West side,,-35.18747, 138.48027,,,,
 8184,,Stop 84A Grand Bvd - East side,,-35.1877024312879, 138.480494026019,,,,
 8227,,Stop 47 Goldsmith Dr - West side,,-35.1406033887271, 138.502297542289,,,,
+50001,,Smithfield Interchange,,-34.6819985, 138.68722225,,,1,
+50002,,Salisbury Interchange,,-34.7628551, 138.642614,,,1,
+50003,,Golden Grove Village Interchange,,-34.79091936, 138.693474,,,1,
+50004,,Tea Tree Plaza Interchange,,-34.83188375, 138.69453,,,1,
+50005,,Paradise Interchange,,-34.868732375, 138.661623625,,,1,
+50006,,Arndale Interchange,,-34.874291, 138.551234,,,1,
+50007,,West Lakes Interchange,,-34.8780683333333, 138.49138,,,1,
+50008,,Marion Interchange,,-35.017436, 138.5460294,,,1,
+50009,,Blackwood Interchange,,-35.02131, 138.619234,,,1,
+50010,,Colonnades Interchange,,-35.1396815714286, 138.495576857143,,,1,
+50011,,Noarlunga Interchange,,-35.1404914444444, 138.491714222222,,,1,
+50012,,Klemzig Interchange,,-34.886293, 138.6397375,,,1,
+50013,,Old Reynella Interchange,,-35.0954975, 138.53812575,,,1,
+50014,,Mawson Interchange,,-34.803671, 138.6125086,,,1,
+50015,,Elizabeth Station Interchange,,-34.7174254285714, 138.664998,,,1,
+50016,,Flinders University,,-35.0249723333333, 138.572423666667,,,1,
+50017,,Glenelg Interchange,,-34.980691, 138.5128975,,,1,
+50018,,Port Adelaide Interchange,,-34.8449905, 138.50585775,,,1,
+50019,,Salisbury Mall Interchange,,-34.76228, 138.64698,,,1,
 100000,,Stop 15 - Zone A Harbour Town,,-34.948426, 138.519353,,,,
 100001,,Stop 15 - Zone B Harbour Town,,-34.947049, 138.519981,,,,
 100002,,Stop 16 Jetty Rd - North side,,-34.9801606956209, 138.516592133235,,,,
@@ -6436,10 +6455,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100004,,Stop 23 Moseley St - East side,,-34.9845754785993, 138.513487271367,,,,
 100007,,Stop 99 Aldinga Rd - North side,,-35.2721441609233, 138.545866358838,,,,
 100008,,Stop 99 Aldinga Rd - South side,,-35.2723316294964, 138.54580173554,,,,
-100009,,Zone A Old Reynella Interchange,,-35.0952529433874, 138.538218587637,,,,
-100010,,Zone B Old Reynella Interchange,,-35.0955009301346, 138.537942320108,,,,
-100011,,Zone C Old Reynella Interchange,,-35.0955936251095, 138.537710859004,,,,
-100012,,Zone D Old Reynella Interchange,,-35.0951300266907, 138.538233550113,,,,
+100009,,Zone A Old Reynella Interchange,,-35.0952529433874, 138.538218587637,,,,50013
+100010,,Zone B Old Reynella Interchange,,-35.0955009301346, 138.537942320108,,,,50013
+100011,,Zone C Old Reynella Interchange,,-35.0955936251095, 138.537710859004,,,,50013
+100012,,Zone D Old Reynella Interchange,,-35.0951300266907, 138.538233550113,,,,50013
 100014,,Zone A Munno Para Shopping Centre,,-34.68575, 138.68987,,,,
 100015,,Zone B Munno Para Shopping Centre,,-34.68561, 138.6896,,,,
 100016,,Zone C Munno Para Shopping Centre,,-34.68566, 138.68926,,,,
@@ -6491,7 +6510,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100076,,Stop 67 Hutchinson St - East side,,-35.069894, 138.862494,,,,
 100077,,Stop 68E Exhibition Rd - East side,,-35.07235, 138.86348,,,,
 100078,,Stop 69 Albert Rd - East side,,-35.07459, 138.86397,,,,
-100083,,Zone B Klemzig Interchange - West side,,-34.8862033649862, 138.639515328828,,,,
+100083,,Zone B Klemzig Interchange - West side,,-34.8862033649862, 138.639515328828,,,,50012
 100084,,Stop 35A Old Port Rd - West side,,-34.85744, 138.50234,,,,
 100085,,Stop 26A  Navigator Dr - West side,,-34.8575525806118, 138.632508512236,,,,
 100086,,Stop 26B Navigator Dr - West side,,-34.8551193842504, 138.63232589959,,,,
@@ -6688,7 +6707,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100328,,Stop 90 Park Lake Bvd - East side,,-34.6859877470135, 138.699300834813,,,,
 100329,,Stop 90 Park Lake Bvd - West side,,-34.68601, 138.6992,,,,
 100331,,School - Parafield Gardens High School,,-34.7862372012215, 138.615652003297,,,,
-100334,,Stop 49 / A Church St - East side,,-34.762082, 138.645286,,,,
+100334,,Stop 49 / A Church St - East side,,-34.762082, 138.645286,,,,50019
 100336,,Stop 41 Kings Rd - North East side,,-34.774182860385, 138.618218457133,,,,
 100337,,Stop 41 Kings Rd - South West side,,-34.773945, 138.617515,,,,
 100338,,Stop 45A Spains Rd - South West side,,-34.76992, 138.63244,,,,
@@ -6748,14 +6767,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100421,,Stop 71/79 Wellington Rd - North side,,-35.08507, 138.87206,,,,
 100422,,Stop 71 Wellington Rd - South West side,,-35.0850198187542, 138.871913159775,,,,
 100424,,Submarine Corp. - Mersey Rd ,,-34.782323, 138.508066,,,,
-100425,,Zone C Registry Rd - South side,,-35.0249409905115, 138.572996755533,,,,
+100425,,Zone C Registry Rd - Flinders University,,-35.0249409905115, 138.572996755533,,,,50016
 100427,,Stop 20 Reid Av - North side,,-34.8969908197826, 138.666355437901,,,,
 100428,,Stop T2 North Tce - South side,,-34.9215320873346, 138.602264661841,,,,
 100429,,Stop F Grenfell St - North side,,-34.9242651314272, 138.600439063411,,,,
-100431,,Zone D Mawson Interchange ,,-34.80408, 138.61213,,,,
-100432,,Zone C Mawson Lakes Interchange,,-34.80379, 138.61244,,,,
-100433,,Zone B Mawson Interchange ,,-34.803563, 138.612682,,,,
-100434,,Zone A Mawson Interchange ,,-34.8033345186872, 138.612797258343,,,,
+100431,,Zone D Mawson Interchange ,,-34.80408, 138.61213,,,,50014
+100432,,Zone C Mawson Lakes Interchange,,-34.80379, 138.61244,,,,50014
+100433,,Zone B Mawson Interchange ,,-34.803563, 138.612682,,,,50014
+100434,,Zone A Mawson Interchange ,,-34.8033345186872, 138.612797258343,,,,50014
 100435,,Mawson Lakes Railway Station,,-34.803573, 138.612425,,,,
 100436,,Stop 34L Main St - West side,,-34.8078951818047, 138.616846585494,,,,
 100437,,Stop 34L Main St - East side,,-34.8071272585034, 138.617080165253,,,,
@@ -6932,7 +6951,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100637,,Stop 81A Anderson Wk - South side,,-34.6827943826888, 138.69045517658,,,,
 100638,,Stop 66 Target Hill Rd - South side,,-34.7687108651133, 138.702140587826,,,,
 100639,,Stop 66 Target Hill Rd - North side,,-34.7683651581492, 138.701786613928,,,,
-100640,,Zone B Registry Rd - Flinders University,,-35.024930321676, 138.572436863952,,,,
+100640,,Zone B Registry Rd - Flinders University,,-35.024930321676, 138.572436863952,,,,50016
 100641,,Stop 117A Rowley Rd - East side,,-35.275058, 138.458017,,,,
 100642,,Stop 117A Rowley Rd - West side,,-35.27498, 138.457824,,,,
 100643,,Stop 122 ALDINGA BEACH Rd - North side,,-35.2788413830009, 138.449056790189,,,,
@@ -7049,7 +7068,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100769,,Stop 75 Barcelona Rd - West side,,-35.1579318815768, 138.504522067402,,,,
 100770,,Stop 43 Mcintyre Rd - South East side,,-34.798855, 138.65795,,,,
 100771,,Stop 43 Mcintyre Rd - North side,,-34.7987307973267, 138.658251802573,,,,
-100772,,Zone D Noarlunga Centre Interchange - West side,,-35.1406252457227, 138.491490483284,,,,
+100772,,Zone D Noarlunga Centre Interchange - West side,,-35.1406252457227, 138.491490483284,,,,50011
 100773,,Stop 94B Main Rd - West side,,-35.241084, 138.551651,,,,
 100774,,Stop 94B Main Rd - East side,,-35.240657, 138.551784,,,,
 100775,,Stop 76 Corrimal Av - West side,,-35.161072, 138.503484,,,,
@@ -7458,3 +7477,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101318,,Stop 26 Marion Rd - West side,,-35.0119, 138.55815,,,,
 101319,,Stop 27 Marion Rd - East side,,-35.01538, 138.55888,,,,
 101320,,Stop 27 Marion Rd - West side,,-35.01515, 138.55848,,,,
+101321,,Stop 53A Motocombe Rd - East side,,-34.752268, 138.636794,,,,
