@@ -466,7 +466,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 548,,Stop 47 Winzor St - South East side,,-34.7631814412533, 138.63164248791,,,,
 549,,Zone I Salisbury Interchange - East Side,,-34.763407703, 138.6427469555,,,,
 550,,Stop 42B Kings Rd - South side,,-34.7629185005198, 138.599453260685,,,,
-551,,Stop 48A(delete) Park Tce - South West side,,-34.76525, 138.64623,,,,
+551,,Stop 48A Park Tce - South West side,,-34.76525, 138.64623,,,,
 552,,Stop 49 Main North Rd - North West side,,-34.7637492966297, 138.671389146436,,,,
 553,,Stop 62 Canterbury Dr - West side,,-34.7627653783998, 138.6752922931,,,,
 554,,Stop 52 Ponton St - North East side,,-34.7646331015092, 138.65443358425,,,,
