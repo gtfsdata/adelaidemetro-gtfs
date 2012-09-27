@@ -2362,12 +2362,12 @@ G40,1,61594,Golden Grove,1,7Z1678,7937
 441,301,63452,Smithfield Interchange,1,,6082
 441,301,63453,Smithfield Interchange,1,,6082
 441,301,63455,Smithfield Interchange,1,42166,6082
-443,313,63559,Elizabet Station Loop,0,42517,6993
-443,313,63560,Elizabet Station Loop,0,42517,6993
-443,301,63561,Elizabet Station Loop,0,42173,6993
-443,312,63562,Elizabet Station Loop,0,42409,6993
-443,301,63563,Elizabet Station Loop,0,42173,6993
-443,312,63564,Elizabet Station Loop,0,42409,6993
+443,12,63559,Elizabet Station Loop,0,42517,6993
+443,12,63560,Elizabet Station Loop,0,42517,6993
+443,1,63561,Elizabet Station Loop,0,42173,6993
+443,13,63562,Elizabet Station Loop,0,42409,6993
+443,1,63563,Elizabet Station Loop,0,42173,6993
+443,13,63564,Elizabet Station Loop,0,42409,6993
 451,1,63565,Elizabeth Interchange,0,42127,7792
 451,1,63566,Elizabeth Interchange,0,42116,7792
 451,1,63567,Elizabeth Interchange,0,42126,7792
@@ -3284,19 +3284,19 @@ M44G,13,65587,Golden Grove,1,7Z1787,7999
 744,1,67749,Hackham West Circuit Clockwise,0,41170,5024
 744,1,67750,Hackham West Circuit Clockwise,0,41158,5024
 744,1,67751,Hackham West Circuit Clockwise,0,,5024
-745,301,67765,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41145,5026
-745,301,67767,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41129,5026
-745,301,67769,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41140,5026
-745,301,67771,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41152,5026
-745,301,67773,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41458,5026
-745,301,67775,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41171,5026
-745,301,67776,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41457,5026
-745,301,67779,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41478,5026
-745,301,67781,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41187,5026
-745,301,67782,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41168,5026
-745,301,67788,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41113,5026
-747,317,67800,Colonnades-Seaford Circuit Clockwise,0,41149,5038
-747,301,67826,Colonnades-Seaford Circuit Clockwise,0,41156,5038
+745,1,67765,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41145,5026
+745,1,67767,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41129,5026
+745,1,67769,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41140,5026
+745,1,67771,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41152,5026
+745,1,67773,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41458,5026
+745,1,67775,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41171,5026
+745,1,67776,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41457,5026
+745,1,67779,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41478,5026
+745,1,67781,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41187,5026
+745,1,67782,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41168,5026
+745,1,67788,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41113,5026
+747,31,67800,Colonnades-Seaford Circuit Clockwise,0,41149,5038
+747,1,67826,Colonnades-Seaford Circuit Clockwise,0,41156,5038
 751W,1,67902,Willunga ,1,41121,5210
 751W,1,67903,Willunga ,1,41467,5210
 752,1,67910,Colonnades ,0,41164,7688
@@ -3318,10 +3318,10 @@ M44G,13,65587,Golden Grove,1,7Z1787,7999
 754,13,67966,Sellicks Beach ,1,41453,5221
 755,1,67967,Seaford  ,0,41475,5775
 756,1,67970,Port Willunga ,1,41457,6136
-N721,12,67971,City,0,,8904
-N721,12,67972,City ,0,,8905
-N721,12,67973,City,0,,8904
-N721,12,67974,City ,0,,8905
+N721,51,67971,City,0,,8904
+N721,51,67972,City ,0,,8905
+N721,51,67973,City,0,,8904
+N721,51,67974,City ,0,,8905
 T748,301,68020,Noarlunga ,0,41480,7701
 T748,1,68024,Seaford Rise ,1,41470,7699
 100,1,68074,Arndale ,0,54111,7680
@@ -4856,10 +4856,10 @@ G20,1,72977,Aberfoyle Hub,1,7S2107,8220
 G20,13,72978,Aberfoyle Hub,1,7S2769,8220
 G20,13,72980,Aberfoyle Hub,1,7S2765,8220
 G20,11,72982,Aberfoyle Hub,1,7S2762,8220
-N21,313,72988,Aberfoyle Hub ,1,,7261
-N21,313,72989,Aberfoyle Hub ,1,,7261
-N21,313,72990,Aberfoyle Hub ,1,,7261
-N21,313,72991,Aberfoyle Hub ,1,,7261
+N21,51,72988,Aberfoyle Hub ,1,,7261
+N21,51,72989,Aberfoyle Hub ,1,,7261
+N21,51,72990,Aberfoyle Hub ,1,,7261
+N21,51,72991,Aberfoyle Hub ,1,,7261
 N262,51,73000,City,0,,8121
 N262,51,73001,City,0,,8121
 N262,51,73002,City,0,,8121
@@ -5039,12 +5039,12 @@ N1,51,73216,Golden Grove Village,1,,8113
 743,12,74517,Hackham West Circuit Anti-clockwise,1,41522,7126
 743,12,74518,Hackham West Circuit Anti-clockwise,1,,7126
 743,12,74519,Hackham West Circuit Anti-clockwise,1,41533,7126
-745,301,74670,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41127,5026
-745A,301,74672,Noarlunga-Seaford Circuit Anti-clockwise ,1,41178,5031
-745A,301,74673,Noarlunga-Seaford Circuit Anti-clockwise ,1,41104,5031
-745A,301,74674,Noarlunga-Seaford Circuit Anti-clockwise ,1,41121,5030
-745A,301,74675,Noarlunga-Seaford Circuit Anti-clockwise ,1,41101,5030
-745A,301,74676,Noarlunga-Seaford Circuit Anti-clockwise ,1,,5030
+745,1,74670,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41127,5026
+745A,1,74672,Noarlunga-Seaford Circuit Anti-clockwise ,1,41178,5031
+745A,1,74673,Noarlunga-Seaford Circuit Anti-clockwise ,1,41104,5031
+745A,1,74674,Noarlunga-Seaford Circuit Anti-clockwise ,1,41121,5030
+745A,1,74675,Noarlunga-Seaford Circuit Anti-clockwise ,1,41101,5030
+745A,1,74676,Noarlunga-Seaford Circuit Anti-clockwise ,1,,5030
 N202,51,74697,City ,0,,8323
 N202,51,74698,City ,0,,8323
 N202,51,74699,City ,0,,8323
@@ -10940,84 +10940,84 @@ Elizabeth Rd Shuttle,1,83820,Noarlunga Centre Interchange,0,,9109
 743,1,86422,Hackham West Circuit Anti-clockwise,1,41121,7126
 743,1,86423,Hackham West Circuit Anti-clockwise,1,41121,7126
 744,1,86424,Hackham West Circuit Clockwise,0,41469,5024
-745A,301,86425,Seaford Circuit  Anti-clockwise- Noarlunga,1,41452,5029
-745A,301,86426,Seaford Circuit  Anti-clockwise- Noarlunga,1,41159,5029
-745A,301,86427,Noarlunga-Seaford Circuit Anti-clockwise ,1,41483,5030
-745A,301,86428,Seaford Circuit  Anti-clockwise- Noarlunga,1,41467,5029
-745A,301,86429,Seaford Circuit  Anti-clockwise- Noarlunga,1,41482,5029
-745A,301,86430,Noarlunga-Seaford Circuit Anti-clockwise ,1,41462,5030
-745,301,86431,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41466,5025
-745,301,86432,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41464,5025
-745,301,86433,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41466,5026
-745,301,86434,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41166,5026
-745,301,86435,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41461,5026
-745,301,86436,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41475,5026
-745,301,86437,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41472,5026
-745,301,86438,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41178,5026
-745,301,86439,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41111,5026
-747A,301,86441,Moana-Seaford Circuit Clockwise -Noarlunga,0,41483,5041
-747A,301,86442,Moana-Seaford Circuit Clockwise -Noarlunga,0,41462,5041
-747A,301,86443,Noarlunga-Seaford Circuit Clockwise ,0,41172,5042
-747A,301,86444,Noarlunga-Seaford Circuit Clockwise ,0,41178,5042
-747,301,86445,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41152,5037
-747,316,86446,Colonnades,0,41481,1054
-747,301,86447,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41152,5037
-747,301,86448,Colonnades-Seaford Circuit Clockwise,0,41463,5038
-747,301,86449,Colonnades-Seaford Circuit Clockwise,0,41169,5038
-747,301,86450,Colonnades-Seaford Circuit Clockwise,0,41117,5038
-747,301,86451,Colonnades-Seaford Circuit Clockwise,0,41131,5038
-747,301,86452,Colonnades-Seaford Circuit Clockwise,0,41162,5038
-747,301,86453,Colonnades-Seaford Circuit Clockwise,0,41135,5038
-747,301,86454,Colonnades-Seaford Circuit Clockwise,0,41466,5038
-747,320,86455,Colonnades Interchange,0,,5144
-747,321,86456,Colonnades Interchange,0,,5144
-747,301,86457,Colonnades-Seaford Circuit Clockwise,0,41475,5038
-747,301,86458,Colonnades-Seaford Circuit Clockwise,0,41129,5038
-747,301,86459,Colonnades-Seaford Circuit Clockwise,0,41187,5038
-747,301,86460,Colonnades-Seaford Circuit Clockwise,0,41165,5038
-747,301,86461,Colonnades-Seaford Circuit Clockwise,0,41166,5038
-747,301,86462,Colonnades-Seaford Circuit Clockwise,0,41191,5038
-747,301,86463,Colonnades-Seaford Circuit Clockwise,0,41472,5038
-747,301,86464,Colonnades-Seaford Circuit Clockwise,0,41166,5038
-747A,301,86466,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41120,5043
-747A,301,86467,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41117,5043
-745A,312,86470,Seaford Circuit  Anti-clockwise- Noarlunga,1,41452,5029
-745A,312,86471,Noarlunga-Seaford Circuit Anti-clockwise ,1,41400,5030
-745,312,86472,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41420,5025
-745,312,86473,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41420,5026
-745,312,86474,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41442,5026
-745,312,86475,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41442,5026
-745,312,86476,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41408,5026
-745,312,86477,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41419,5026
-745,312,86478,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41458,5026
-745,312,86479,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41418,5026
-745,312,86480,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41453,5026
-745,312,86481,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41403,5026
-745A,312,86482,Noarlunga-Seaford Circuit Anti-clockwise ,1,41418,5031
-745A,312,86483,Noarlunga-Seaford Circuit Anti-clockwise ,1,41456,5030
-745A,312,86484,Noarlunga-Seaford Circuit Anti-clockwise ,1,41408,5030
-745A,312,86485,Noarlunga-Seaford Circuit Anti-clockwise ,1,41410,5030
-745A,312,86486,Noarlunga-Seaford Circuit Anti-clockwise ,1,41430,5030
-745A,312,86487,Noarlunga-Seaford Circuit Anti-clockwise ,1,41427,5030
-745A,312,86488,Noarlunga-Seaford Circuit Anti-clockwise ,1,41402,5030
-745A,312,86489,Noarlunga-Seaford Circuit Anti-clockwise ,1,41419,5030
-747A,312,86490,Moana-Seaford Circuit Clockwise -Noarlunga,0,41453,5041
-747A,312,86491,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
-747,312,86492,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41413,5037
-747,312,86493,Colonnades-Seaford Circuit Clockwise,0,41408,5038
-747,312,86494,Colonnades-Seaford Circuit Clockwise,0,41457,5038
-747,312,86495,Colonnades-Seaford Circuit Clockwise,0,41458,5038
-747,312,86496,Colonnades-Seaford Circuit Clockwise,0,41458,5038
-747,312,86497,Colonnades-Seaford Circuit Clockwise,0,41452,5038
-747,312,86498,Colonnades-Seaford Circuit Clockwise,0,41413,5038
-747,312,86499,Colonnades-Seaford Circuit Clockwise,0,41456,5038
-747,312,86500,Colonnades-Seaford Circuit Clockwise,0,41456,5038
-747,312,86501,Colonnades-Seaford Circuit Clockwise,0,41451,5038
-747A,312,86502,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41408,5043
-747A,312,86503,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
-747A,312,86504,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
-747A,312,86505,Noarlunga-Seaford Circuit Clockwise ,0,41411,5042
-747A,312,86506,Noarlunga-Seaford Circuit Clockwise ,0,41408,5042
+745A,1,86425,Seaford Circuit  Anti-clockwise- Noarlunga,1,41452,5029
+745A,1,86426,Seaford Circuit  Anti-clockwise- Noarlunga,1,41159,5029
+745A,1,86427,Noarlunga-Seaford Circuit Anti-clockwise ,1,41483,5030
+745A,1,86428,Seaford Circuit  Anti-clockwise- Noarlunga,1,41467,5029
+745A,1,86429,Seaford Circuit  Anti-clockwise- Noarlunga,1,41482,5029
+745A,1,86430,Noarlunga-Seaford Circuit Anti-clockwise ,1,41462,5030
+745,1,86431,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41466,5025
+745,1,86432,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41464,5025
+745,1,86433,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41466,5026
+745,1,86434,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41166,5026
+745,1,86435,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41461,5026
+745,1,86436,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41475,5026
+745,1,86437,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41472,5026
+745,1,86438,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41178,5026
+745,1,86439,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41111,5026
+747A,1,86441,Moana-Seaford Circuit Clockwise -Noarlunga,0,41483,5041
+747A,1,86442,Moana-Seaford Circuit Clockwise -Noarlunga,0,41462,5041
+747A,1,86443,Noarlunga-Seaford Circuit Clockwise ,0,41172,5042
+747A,1,86444,Noarlunga-Seaford Circuit Clockwise ,0,41178,5042
+747,1,86445,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41152,5037
+747,21,86446,Colonnades,0,41481,1054
+747,1,86447,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41152,5037
+747,1,86448,Colonnades-Seaford Circuit Clockwise,0,41463,5038
+747,1,86449,Colonnades-Seaford Circuit Clockwise,0,41169,5038
+747,1,86450,Colonnades-Seaford Circuit Clockwise,0,41117,5038
+747,1,86451,Colonnades-Seaford Circuit Clockwise,0,41131,5038
+747,1,86452,Colonnades-Seaford Circuit Clockwise,0,41162,5038
+747,1,86453,Colonnades-Seaford Circuit Clockwise,0,41135,5038
+747,1,86454,Colonnades-Seaford Circuit Clockwise,0,41466,5038
+747,26,86455,Colonnades Interchange,0,,5144
+747,27,86456,Colonnades Interchange,0,,5144
+747,1,86457,Colonnades-Seaford Circuit Clockwise,0,41475,5038
+747,1,86458,Colonnades-Seaford Circuit Clockwise,0,41129,5038
+747,1,86459,Colonnades-Seaford Circuit Clockwise,0,41187,5038
+747,1,86460,Colonnades-Seaford Circuit Clockwise,0,41165,5038
+747,1,86461,Colonnades-Seaford Circuit Clockwise,0,41166,5038
+747,1,86462,Colonnades-Seaford Circuit Clockwise,0,41191,5038
+747,1,86463,Colonnades-Seaford Circuit Clockwise,0,41472,5038
+747,1,86464,Colonnades-Seaford Circuit Clockwise,0,41166,5038
+747A,1,86466,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41120,5043
+747A,1,86467,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41117,5043
+745A,13,86470,Seaford Circuit  Anti-clockwise- Noarlunga,1,41452,5029
+745A,13,86471,Noarlunga-Seaford Circuit Anti-clockwise ,1,41400,5030
+745,13,86472,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41420,5025
+745,13,86473,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41420,5026
+745,13,86474,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41442,5026
+745,13,86475,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41442,5026
+745,13,86476,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41408,5026
+745,13,86477,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41419,5026
+745,13,86478,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41458,5026
+745,13,86479,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41418,5026
+745,13,86480,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41453,5026
+745,13,86481,Noarlunga-Seaford Circuit Anti-clockwise-Colonnades ,1,41403,5026
+745A,13,86482,Noarlunga-Seaford Circuit Anti-clockwise ,1,41418,5031
+745A,13,86483,Noarlunga-Seaford Circuit Anti-clockwise ,1,41456,5030
+745A,13,86484,Noarlunga-Seaford Circuit Anti-clockwise ,1,41408,5030
+745A,13,86485,Noarlunga-Seaford Circuit Anti-clockwise ,1,41410,5030
+745A,13,86486,Noarlunga-Seaford Circuit Anti-clockwise ,1,41430,5030
+745A,13,86487,Noarlunga-Seaford Circuit Anti-clockwise ,1,41427,5030
+745A,13,86488,Noarlunga-Seaford Circuit Anti-clockwise ,1,41402,5030
+745A,13,86489,Noarlunga-Seaford Circuit Anti-clockwise ,1,41419,5030
+747A,13,86490,Moana-Seaford Circuit Clockwise -Noarlunga,0,41453,5041
+747A,13,86491,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
+747,13,86492,Noarlunga-Seaford Circuit  Clockwise -Colonnades,0,41413,5037
+747,13,86493,Colonnades-Seaford Circuit Clockwise,0,41408,5038
+747,13,86494,Colonnades-Seaford Circuit Clockwise,0,41457,5038
+747,13,86495,Colonnades-Seaford Circuit Clockwise,0,41458,5038
+747,13,86496,Colonnades-Seaford Circuit Clockwise,0,41458,5038
+747,13,86497,Colonnades-Seaford Circuit Clockwise,0,41452,5038
+747,13,86498,Colonnades-Seaford Circuit Clockwise,0,41413,5038
+747,13,86499,Colonnades-Seaford Circuit Clockwise,0,41456,5038
+747,13,86500,Colonnades-Seaford Circuit Clockwise,0,41456,5038
+747,13,86501,Colonnades-Seaford Circuit Clockwise,0,41451,5038
+747A,13,86502,Colonnades-Seaford Circuit Clockwise - Noarlunga  ,0,41408,5043
+747A,13,86503,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
+747A,13,86504,Noarlunga-Seaford Circuit Clockwise ,0,41451,5042
+747A,13,86505,Noarlunga-Seaford Circuit Clockwise ,0,41411,5042
+747A,13,86506,Noarlunga-Seaford Circuit Clockwise ,0,41408,5042
 750,1,86509,Noarlunga,0,41474,8949
 751,1,86510,Noarlunga ,0,,8948
 750,1,86511,Noarlunga,0,41457,8949
@@ -14442,23 +14442,23 @@ T721,1,89708,Noarlunga Centre Interchange,1,41115,9037
 722,12,90001,Noarlunga ,1,41526,8922
 722,12,90002,Noarlunga ,1,41535,8922
 722,12,90003,Noarlunga ,1,41533,8922
-N224,12,90004,Gawler,1,,9069
-N224,12,90005,Gawler,1,,9069
-N224,12,90006,Gawler,1,,9069
-N224,12,90007,Gawler,1,,9069
-N262,12,90008,Marion,1,,8995
-N262,12,90009,Marion,1,,8995
-N262,12,90010,Marion,1,,8995
-N262,12,90011,Marion,1,,8995
-N262,12,90012,Marion,1,,8995
+N224,51,90004,Gawler,1,,9069
+N224,51,90005,Gawler,1,,9069
+N224,51,90006,Gawler,1,,9069
+N224,51,90007,Gawler,1,,9069
+N262,51,90008,Marion,1,,8995
+N262,51,90009,Marion,1,,8995
+N262,51,90010,Marion,1,,8995
+N262,51,90011,Marion,1,,8995
+N262,51,90012,Marion,1,,8995
 N502,313,90013,City ,0,,8352
 N502,313,90014,City ,0,,8352
 N502,313,90015,City ,0,,8352
 N502,313,90016,City ,0,,8352
-N721,12,90017,Moana,1,,8996
-N721,12,90018,Moana,1,,8997
-N721,12,90019,Moana,1,,8996
-N721,12,90020,Moana,1,,8997
+N721,51,90017,Moana,1,,8996
+N721,51,90018,Moana,1,,8997
+N721,51,90019,Moana,1,,8996
+N721,51,90020,Moana,1,,8997
 T842,1,90021,City,0,,9148
 841F,1,90022,City,0,67110,9149
 841F,1,90023,City,0,67218,9149
@@ -14685,9 +14685,9 @@ T840,1,90152,City,0,67112,9113
 864,12,90244,City,0,65107,9111
 863,12,90245,City,0,65109,9112
 864,12,90246,City,0,65111,9111
-N864,12,90247,City,0,,9122
-N864,12,90248,City,0,,9122
-N864,12,90249,City,0,,9122
+N864,51,90247,City,0,,9122
+N864,51,90248,City,0,,9122
+N864,51,90249,City,0,,9122
 864,1,90250,Mount Barker,1,65100,9123
 864,1,90251,Mount Barker,1,67100,9123
 864,21,90252,Mount Barker,1,67200,9133
@@ -14806,10 +14806,10 @@ T840,1,90302,Mount Barker,1,67228,9132
 864,12,90365,Mount Barker,1,65109,9123
 863,12,90366,Aldgate,1,65005,9125
 864,12,90367,Mount Barker,1,65111,9123
-N864,12,90368,Mount Barker,1,,9136
-N864,12,90369,Mount Barker,1,,9136
-N864,12,90370,Mount Barker,1,,9136
-N864,12,90371,Mount Barker,1,,9136
+N864,51,90368,Mount Barker,1,,9136
+N864,51,90369,Mount Barker,1,,9136
+N864,51,90370,Mount Barker,1,,9136
+N864,51,90371,Mount Barker,1,,9136
 894,301,90372,Aldgate,1,65216,9099
 894,317,90373,Aldgate,1,,9099
 894H,316,90374,Aldgate ,1,65212,6619
@@ -15220,8 +15220,8 @@ H31,1,90780,Henley Beach,0,53118,7832
 204,1,90783,Northgate ,1,7S2209,7874
 204,1,90784,Northgate ,1,7S2104,7874
 320,1,90785,Aberfoyle Hub,1,,8070
-747A,301,90786,Noarlunga-Seaford Circuit Clockwise ,0,41180,5042
-747A,301,90787,Noarlunga-Seaford Circuit Clockwise ,0,41453,5042
+747A,1,90786,Noarlunga-Seaford Circuit Clockwise ,0,41180,5042
+747A,1,90787,Noarlunga-Seaford Circuit Clockwise ,0,41453,5042
 734,11,90788,Noarlunga,1,41418,8966
 734,11,90789,Colonnades,1,41452,9192
 734,11,90790,Colonnades,1,41411,9192
@@ -15375,8 +15375,8 @@ G20,1,90911,Aberfoyle Hub,1,7S3204,8094
 400,1,90938,Salisbury North,0,42115,8163
 Salisbury,1,90939,Salisbury,1,,1244
 740,1,90940,Seaford,1,41157,5202
-747A,312,90941,Noarlunga-Seaford Circuit Clockwise ,0,41401,5042
-747A,312,90942,Noarlunga-Seaford Circuit Clockwise ,0,41458,5042
+747A,13,90941,Noarlunga-Seaford Circuit Clockwise ,0,41401,5042
+747A,13,90942,Noarlunga-Seaford Circuit Clockwise ,0,41458,5042
 H31,1,90943,City ,1,51047,7611
 H31,1,90944,City ,1,51060,7611
 RZ22,301,90945,Aberfoyle Hub,0,7Z2411,
@@ -15387,30 +15387,30 @@ RZ22,301,90949,Aberfoyle Hub,0,7Z2411,
 RZ22,301,90950,Aberfoyle Hub,0,7Z2411,
 442,316,90952,Smithfield Interchange,1,42133,9200
 734,26,90953,Colonnades ,1,,9201
-N10,313,90959,City,0,,9234
-N10,313,90960,City,0,,9235
-N10,313,90961,City,0,,9235
-N10,313,90962,City,0,,9235
+N10,51,90959,City,0,,9234
+N10,51,90960,City,0,,9235
+N10,51,90961,City,0,,9235
+N10,51,90962,City,0,,9235
 140,317,90963,City ,0,52008,7621
 140,317,90964,City ,0,54008,7621
 G21,11,90965,Aberfoyle Hub,1,7S2721,8221
-RZ4,1,90966,Greenwith,1,,
-RZ4,1,90967,Greenwith,1,,
-RZ4,1,90968,Greenwith,1,,
-RZ4,1,90969,Greenwith,1,,
-RZ4,1,90970,Greenwith,1,,
-RZ4,1,90971,Greenwith,1,,
-RZ4,1,90972,Greenwith,1,,
-RZ4,1,90974,Greenwith,1,,
-RZ4,13,90975,Greenwith,1,,
-RZ4,13,90976,Greenwith,1,,
-RZ4,13,90977,Greenwith,1,,
-RZ4,13,90978,Greenwith,1,,
-RZ4,13,90979,Greenwith,1,,
-RZ4,13,90980,Greenwith,1,,
-RZ4,13,90981,Greenwith,1,,
-RZ4,13,90982,Greenwith,1,,
-RZ4,13,90983,Greenwith,1,,
+RZ4,301,90966,Greenwith,1,,
+RZ4,301,90967,Greenwith,1,,
+RZ4,301,90968,Greenwith,1,,
+RZ4,301,90969,Greenwith,1,,
+RZ4,301,90970,Greenwith,1,,
+RZ4,301,90971,Greenwith,1,,
+RZ4,301,90972,Greenwith,1,,
+RZ4,301,90974,Greenwith,1,,
+RZ4,312,90975,Greenwith,1,,
+RZ4,312,90976,Greenwith,1,,
+RZ4,312,90977,Greenwith,1,,
+RZ4,312,90978,Greenwith,1,,
+RZ4,312,90979,Greenwith,1,,
+RZ4,312,90980,Greenwith,1,,
+RZ4,312,90981,Greenwith,1,,
+RZ4,312,90982,Greenwith,1,,
+RZ4,312,90983,Greenwith,1,,
 411,701,91548,Mawson Lakes,0,,7280
 411,701,91549,Mawson Lakes,0,,7280
 411,701,91550,Mawson Lakes,0,,7280
