@@ -4871,7 +4871,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5292,,Stop 29A Shepherds Hill Rd - North side,,-35.028305717682, 138.59423849138,,,,
 5293,,Stop 31 Seacombe Rd - North side,,-35.02844, 138.55347,,,,
 5294,,Stop 29A Shepherds Hill Rd - South side,,-35.02849, 138.59478,,,,
-5295,,Stop 55 Mount Barker Rd - West side,,-35.0282418349391, 138.809113476655,,,,
+5295,,Stop 54A Mount Barker Rd - West side,,-35.0282418349391, 138.809113476655,,,,
 5296,,Stop 36 Morphett Rd - East side,,-35.0284714560927, 138.541839534373,,,,
 5297,,Stop 36 Morphett Rd - West side,,-35.0285295058978, 138.541667903488,,,,
 5298,,Stop 31 Seacombe Rd - South side,,-35.0285734177164, 138.553450728975,,,,
@@ -7418,3 +7418,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101327,,Stop 62 Marie Clark Drive - North side,,-34.792307, 138.699062,,,,
 101328,,Stop 61A Marie Clark Drive - South side,,-34.791082, 138.701687,,,,
 101329,,Stop 61A Marie Clark Drive- North side,,-34.790991, 138.701978,,,,
+101331,,Stop 55 Mount Barker Road - South side,,-35.030702, 138.810675,,,,
