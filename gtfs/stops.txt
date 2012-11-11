@@ -3021,7 +3021,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3329,,Stop 144 Portrush Rd - East side,,-34.9184256772172, 138.640893789101,,,,
 3330,,Stop 7 Ashley St - North side,,-34.918148787, 138.564006244,,,,
 3331,,Stop 6 South Rd - East side,,-34.918286746, 138.567977056,,,,
-3333,,Stop 7 Ashley St - South side,,-34.918259338, 138.563923584,,,,
 3334,,Stop 144 Portrush Rd - West side,,-34.918167135015, 138.640639585889,,,,
 3335,,Stop 8 Ashley St - North side,,-34.918321648, 138.560320427,,,,
 3336,,Stop 10 Ashley St - North side,,-34.918420458, 138.554595909,,,,
@@ -7420,4 +7419,3 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101328,,Stop 61A Marie Clark Drive - South side,,-34.791082, 138.701687,,,,
 101329,,Stop 61A Marie Clark Drive- North side,,-34.790991, 138.701978,,,,
 101331,,Stop 55 Mount Barker Road - South side,,-35.030702, 138.810675,,,,
-101332,,Morphettville Racecoure - Tram Stop,,-34.9749, 138.53975,,,,
