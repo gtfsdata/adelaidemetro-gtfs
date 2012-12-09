@@ -2275,7 +2275,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2549,,Stop 20 Torrens Rd - North side,,-34.8811886298826, 138.558392586727,,http://www.adelaidemetro.com.au/stops/view/2549,,
 2550,,Stop 35 Graves St - South side,,-34.881243, 138.681112,,http://www.adelaidemetro.com.au/stops/view/2550,,
 2551,,Stop 20 Torrens Rd - South side,,-34.88132, 138.55829,,http://www.adelaidemetro.com.au/stops/view/2551,,
-2552,,Stop 33 Frederick Rd - East side,,-34.88129, 138.5039,,http://www.adelaidemetro.com.au/stops/view/2552,,
+2552,,Stop 33 Frederick Rd - East side,,-34.882443, 138.504011,,http://www.adelaidemetro.com.au/stops/view/2552,,
 2553,,Stop 27 McShane St - East side,,-34.8812935251522, 138.655079163845,,http://www.adelaidemetro.com.au/stops/view/2553,,
 2554,,Stop 36 Graves St - North side,,-34.8813088604374, 138.67811880485,,http://www.adelaidemetro.com.au/stops/view/2554,,
 2555,,Stop 21 Port Rd - South West side,,-34.8813554001395, 138.535455184783,,http://www.adelaidemetro.com.au/stops/view/2555,,
