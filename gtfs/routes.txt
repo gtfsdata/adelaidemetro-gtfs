@@ -236,6 +236,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 723F,admet,723F,Colonnades Centre Interchange to City,"via Woodcroft Community Centre & South Road. Limited stop service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/723F,c7d6ed,000000,723F-723X-733
 723X,admet,723X,Woodcroft Community Centre to City ,"via Southern Expressway. Express between stop 39 Regency Road & Grote Street, City. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/723X,e71939,ffffff,723F-723X-733
 724,admet,724,Noarlunga Centre Interchange to Old Reynella Interchange ,"via O'Sullivan Beach & Southgate Plaza. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/724,6b1f7e,ffffff,724-734
+724A,admet,724A,,,3,http://www.adelaidemetro.com.au/routes/724,6b1f7e,ffffff,
 725,admet,725,Noarlunga Centre Interchange to Old Reynella Interchange ,"via Southgate Plaza. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
 725A,admet,725A,Noarlunga Centre Interchange to Old Reynella Interchange,"Does not connect with city-bound services",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
 725B,admet,725B,Noarlunga Centre to Southgate Plaza,,3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
