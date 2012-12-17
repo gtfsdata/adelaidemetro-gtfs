@@ -7471,3 +7471,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101341,,Temporary Stop Beagle Terrace - West side,,-34.995061, 138.606108,,http://www.adelaidemetro.com.au/stops/view/101341,,
 101342,,Stop E1 North Tce - North side,,-34.921476, 138.59822,,http://www.adelaidemetro.com.au/stops/view/101342,,
 101343,,Temporary Stop Murray Terrace - South East side,,-35.008991, 138.540799,,http://www.adelaidemetro.com.au/stops/view/101343,,
+101344,,Hail and Ride - Sudholz Rd / Longview Rd,,-34.861578, 138.661251,,http://www.adelaidemetro.com.au/stops/view/101344,,
+101345,,Hail and Ride - Wright Rd / Kelly Rd,,-34.834139, 138.675685,,http://www.adelaidemetro.com.au/stops/view/101345,,
+101346,,Hail and Ride - Hub Dr / Taylors Dr,,-35.072754, 138.599357,,http://www.adelaidemetro.com.au/stops/view/101346,,
+101347,,Hail and Ride - Oakridge Rd / Homestead Dr,,-35.068338, 138.61238,,http://www.adelaidemetro.com.au/stops/view/101347,,
