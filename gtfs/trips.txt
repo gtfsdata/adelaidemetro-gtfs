@@ -114,125 +114,125 @@ Belair,823,20031,City,0,,1137
 Belair,823,20032,City,0,,1137
 Belair,823,20033,City,0,,1137
 Belair,823,20034,City,0,,1137
-Belair,801,20035,City,0,,1139
-Belair,801,20036,City,0,,1139
-Belair,801,20037,City,0,,1138
-Belair,801,20038,City,0,,1138
-Belair,801,20039,City,0,,1142
-Belair,801,20040,City,0,,1142
-Belair,801,20041,City,0,,1142
-Belair,801,20042,City,0,,1138
-Belair,801,20043,City,0,,1138
-Belair,801,20044,City,0,,1138
-Belair,801,20045,City,0,,1138
-Belair,801,20046,City,0,,1138
-Belair,801,20047,City,0,,1138
-Belair,801,20048,City,0,,1138
-Belair,801,20049,City,0,,1138
-Belair,801,20050,City,0,,1138
-Belair,801,20051,City,0,,1138
-Belair,801,20052,City,0,,1138
-Belair,801,20053,City,0,,1138
-Belair,801,20054,City,0,,1138
-Belair,801,20055,City,0,,1138
-Belair,801,20056,City,0,,1139
-Belair,801,20057,City,0,,1139
-Belair,801,20058,City,0,,1139
-Belair,801,20059,City,0,,1138
-Belair,801,20060,City,0,,1138
-Belair,801,20061,City,0,,1138
-Belair,801,20062,City,0,,1138
-Belair,801,20063,City,0,,1138
-Belair,801,20064,City,0,,1138
-Belair,801,20065,City,0,,1138
-Belair,801,20066,City,0,,1137
-Belair,801,20067,City,0,,1137
-Belair,801,20068,City,0,,1137
-Belair,801,20069,City,0,,1137
-Noarlunga,801,20243,City,0,,1209
-Noarlunga,801,20244,City,0,,1209
-Noarlunga,801,20245,City,0,,1791
-Brighton,801,20246,City,0,,1149
-Noarlunga,801,20247,City,0,,1791
-Noarlunga,801,20250,City,0,,1791
-Noarlunga,801,20253,City,0,,1205
-Noarlunga,801,20254,City,0,,1206
-Noarlunga,801,20257,City,0,,1205
-Noarlunga,801,20258,City,0,,1206
-Noarlunga,801,20260,City,0,,1215
-Noarlunga,801,20263,City,0,,1217
-Noarlunga,801,20267,City,0,,1204
-Noarlunga,801,20270,City,0,,1204
-Noarlunga,801,20271,City,0,,1207
-Noarlunga,801,20272,City,0,,1204
-Noarlunga,801,20275,City,0,,1204
-Noarlunga,801,20276,City,0,,1207
-Noarlunga,801,20292,City,0,,1204
-Noarlunga,801,20295,City,0,,1204
-Noarlunga,801,20296,City,0,,1208
-Noarlunga,801,20297,City,0,,1204
-Noarlunga,801,20298,City,0,,1208
-Noarlunga,801,20301,City,0,,1208
-Noarlunga,801,20302,City,0,,1204
-Noarlunga,801,20305,City,0,,1204
-Noarlunga,801,20306,City,0,,1204
-Brighton,801,20307,City,0,,1149
-Noarlunga,801,20308,City,0,,1204
-Noarlunga,801,20310,City,0,,1791
-Noarlunga,801,20321,City,0,,1202
-Noarlunga,801,20323,City,0,,1202
-Noarlunga,801,20324,City,0,,1216
-Noarlunga,801,20325,City,0,,1202
-Noarlunga,801,20326,City,0,,1202
-Noarlunga,801,20327,City,0,,1202
-Noarlunga,802,20328,City,0,,1206
-Noarlunga,801,20329,City,0,,1202
-Noarlunga,801,20705,Noarlunga,1,,1223
-Noarlunga,801,20706,Noarlunga,1,,1225
-Brighton,801,20707,Brighton,1,,1151
-Noarlunga,801,20708,Noarlunga,1,,1790
-Brighton,801,20709,Brighton,1,,1151
-Noarlunga,801,20711,Noarlunga,1,,1790
-Brighton,801,20712,Brighton,1,,1151
-Noarlunga,801,20713,Noarlunga,1,,1790
-Noarlunga,801,20718,Noarlunga,1,,1790
-Noarlunga,801,20725,Noarlunga,1,,1224
-Noarlunga,801,20726,Noarlunga,1,,1788
-Noarlunga,801,20728,Noarlunga,1,,1224
-Noarlunga,801,20729,Noarlunga,1,,1788
-Noarlunga,801,20730,Noarlunga,1,,1224
-Noarlunga,801,20731,Noarlunga,1,,1788
-Noarlunga,801,20733,Noarlunga,1,,1789
-Noarlunga,801,20734,Noarlunga,1,,1788
-Noarlunga,801,20750,Noarlunga,1,,1789
-Noarlunga,801,20751,Noarlunga,1,,1788
-Noarlunga,801,20753,Noarlunga,1,,8746
-Noarlunga,801,20754,Noarlunga,1,,1788
-Noarlunga,801,20755,Noarlunga,1,,1789
-Noarlunga,801,20756,Noarlunga,1,,1788
-Noarlunga,801,20758,Noarlunga,1,,1788
-Brighton,801,20759,Brighton,1,,1151
-Noarlunga,801,20760,Noarlunga,1,,1798
-Noarlunga,801,20761,Noarlunga,1,,1225
-Noarlunga,801,20764,Noarlunga,1,,1788
-Noarlunga,801,20765,Noarlunga,1,,1788
-Brighton,801,20766,Brighton,1,,1151
-Noarlunga,801,20767,Noarlunga,1,,1790
-Noarlunga,801,20770,Noarlunga,1,,1799
-Noarlunga,801,20772,Noarlunga,1,,1223
-Noarlunga,801,20774,Noarlunga,1,,1219
-Noarlunga,801,20777,Noarlunga,1,,1223
-Noarlunga,801,20779,Noarlunga,1,,1795
-Noarlunga,801,20783,Noarlunga,1,,1794
-Noarlunga,801,20784,Noarlunga,1,,1218
-Noarlunga,801,20785,Noarlunga,1,,1794
-Noarlunga,801,20786,Noarlunga,1,,1218
-Noarlunga,801,20787,Noarlunga,1,,1218
-Noarlunga,801,20788,Noarlunga,1,,1218
-Noarlunga,802,20789,Noarlunga,1,,1219
-Noarlunga,801,20790,Noarlunga,1,,1218
-Noarlunga,801,20791,Noarlunga,1,,1218
-Noarlunga,801,20792,Noarlunga,1,,1218
+Belair,821,20035,City,0,,1139
+Belair,821,20036,City,0,,1139
+Belair,821,20037,City,0,,1138
+Belair,821,20038,City,0,,1138
+Belair,821,20039,City,0,,1142
+Belair,821,20040,City,0,,1142
+Belair,821,20041,City,0,,1142
+Belair,821,20042,City,0,,1138
+Belair,821,20043,City,0,,1138
+Belair,821,20044,City,0,,1138
+Belair,821,20045,City,0,,1138
+Belair,821,20046,City,0,,1138
+Belair,821,20047,City,0,,1138
+Belair,821,20048,City,0,,1138
+Belair,821,20049,City,0,,1138
+Belair,821,20050,City,0,,1138
+Belair,821,20051,City,0,,1138
+Belair,821,20052,City,0,,1138
+Belair,821,20053,City,0,,1138
+Belair,821,20054,City,0,,1138
+Belair,821,20055,City,0,,1138
+Belair,821,20056,City,0,,1139
+Belair,821,20057,City,0,,1139
+Belair,821,20058,City,0,,1139
+Belair,821,20059,City,0,,1138
+Belair,821,20060,City,0,,1138
+Belair,821,20061,City,0,,1138
+Belair,821,20062,City,0,,1138
+Belair,821,20063,City,0,,1138
+Belair,821,20064,City,0,,1138
+Belair,821,20065,City,0,,1138
+Belair,821,20066,City,0,,1137
+Belair,821,20067,City,0,,1137
+Belair,821,20068,City,0,,1137
+Belair,821,20069,City,0,,1137
+Noarlunga,821,20243,City,0,,1209
+Noarlunga,821,20244,City,0,,1209
+Noarlunga,821,20245,City,0,,1791
+Brighton,821,20246,City,0,,1149
+Noarlunga,821,20247,City,0,,1791
+Noarlunga,821,20250,City,0,,1791
+Noarlunga,821,20253,City,0,,1205
+Noarlunga,821,20254,City,0,,1206
+Noarlunga,821,20257,City,0,,1205
+Noarlunga,821,20258,City,0,,1206
+Noarlunga,821,20260,City,0,,1215
+Noarlunga,821,20263,City,0,,1217
+Noarlunga,821,20267,City,0,,1204
+Noarlunga,821,20270,City,0,,1204
+Noarlunga,821,20271,City,0,,1207
+Noarlunga,821,20272,City,0,,1204
+Noarlunga,821,20275,City,0,,1204
+Noarlunga,821,20276,City,0,,1207
+Noarlunga,821,20292,City,0,,1204
+Noarlunga,821,20295,City,0,,1204
+Noarlunga,821,20296,City,0,,1208
+Noarlunga,821,20297,City,0,,1204
+Noarlunga,821,20298,City,0,,1208
+Noarlunga,821,20301,City,0,,1208
+Noarlunga,821,20302,City,0,,1204
+Noarlunga,821,20305,City,0,,1204
+Noarlunga,821,20306,City,0,,1204
+Brighton,821,20307,City,0,,1149
+Noarlunga,821,20308,City,0,,1204
+Noarlunga,821,20310,City,0,,1791
+Noarlunga,821,20321,City,0,,1202
+Noarlunga,821,20323,City,0,,1202
+Noarlunga,821,20324,City,0,,1216
+Noarlunga,821,20325,City,0,,1202
+Noarlunga,821,20326,City,0,,1202
+Noarlunga,821,20327,City,0,,1202
+Noarlunga,822,20328,City,0,,1206
+Noarlunga,821,20329,City,0,,1202
+Noarlunga,821,20705,Noarlunga,1,,1223
+Noarlunga,821,20706,Noarlunga,1,,1225
+Brighton,821,20707,Brighton,1,,1151
+Noarlunga,821,20708,Noarlunga,1,,1790
+Brighton,821,20709,Brighton,1,,1151
+Noarlunga,821,20711,Noarlunga,1,,1790
+Brighton,821,20712,Brighton,1,,1151
+Noarlunga,821,20713,Noarlunga,1,,1790
+Noarlunga,821,20718,Noarlunga,1,,1790
+Noarlunga,821,20725,Noarlunga,1,,1224
+Noarlunga,821,20726,Noarlunga,1,,1788
+Noarlunga,821,20728,Noarlunga,1,,1224
+Noarlunga,821,20729,Noarlunga,1,,1788
+Noarlunga,821,20730,Noarlunga,1,,1224
+Noarlunga,821,20731,Noarlunga,1,,1788
+Noarlunga,821,20733,Noarlunga,1,,1789
+Noarlunga,821,20734,Noarlunga,1,,1788
+Noarlunga,821,20750,Noarlunga,1,,1789
+Noarlunga,821,20751,Noarlunga,1,,1788
+Noarlunga,821,20753,Noarlunga,1,,8746
+Noarlunga,821,20754,Noarlunga,1,,1788
+Noarlunga,821,20755,Noarlunga,1,,1789
+Noarlunga,821,20756,Noarlunga,1,,1788
+Noarlunga,821,20758,Noarlunga,1,,1788
+Brighton,821,20759,Brighton,1,,1151
+Noarlunga,821,20760,Noarlunga,1,,1798
+Noarlunga,821,20761,Noarlunga,1,,1225
+Noarlunga,821,20764,Noarlunga,1,,1788
+Noarlunga,821,20765,Noarlunga,1,,1788
+Brighton,821,20766,Brighton,1,,1151
+Noarlunga,821,20767,Noarlunga,1,,1790
+Noarlunga,821,20770,Noarlunga,1,,1799
+Noarlunga,821,20772,Noarlunga,1,,1223
+Noarlunga,821,20774,Noarlunga,1,,1219
+Noarlunga,821,20777,Noarlunga,1,,1223
+Noarlunga,821,20779,Noarlunga,1,,1795
+Noarlunga,821,20783,Noarlunga,1,,1794
+Noarlunga,821,20784,Noarlunga,1,,1218
+Noarlunga,821,20785,Noarlunga,1,,1794
+Noarlunga,821,20786,Noarlunga,1,,1218
+Noarlunga,821,20787,Noarlunga,1,,1218
+Noarlunga,821,20788,Noarlunga,1,,1218
+Noarlunga,822,20789,Noarlunga,1,,1219
+Noarlunga,821,20790,Noarlunga,1,,1218
+Noarlunga,821,20791,Noarlunga,1,,1218
+Noarlunga,821,20792,Noarlunga,1,,1218
 Belair,824,21018,Belair,1,,1143
 Belair,824,21019,Belair,1,,1143
 Belair,824,21020,Belair,1,,1143
@@ -267,41 +267,41 @@ Belair,823,21048,Belair,1,,1143
 Belair,823,21049,Belair,1,,1143
 Belair,823,21050,Belair,1,,1143
 Belair,823,21051,Belair,1,,1143
-Belair,801,21052,Belair,1,,1146
-Belair,801,21053,Belair,1,,1144
-Belair,801,21054,Belair,1,,1145
-Belair,801,21055,Belair,1,,1144
-Belair,801,21056,Belair,1,,1145
-Belair,801,21057,Belair,1,,1145
-Belair,801,21058,Belair,1,,1144
-Belair,801,21059,Belair,1,,1144
-Belair,801,21060,Belair,1,,1144
-Belair,801,21061,Belair,1,,1144
-Belair,801,21062,Belair,1,,1144
-Belair,801,21063,Belair,1,,1144
-Belair,801,21064,Belair,1,,1144
-Belair,801,21065,Belair,1,,1144
-Belair,801,21066,Belair,1,,1144
-Belair,801,21067,Belair,1,,1144
-Belair,801,21068,Belair,1,,1144
-Belair,801,21069,Belair,1,,1144
-Belair,801,21070,Belair,1,,1144
-Belair,801,21071,Belair,1,,1145
-Belair,801,21072,Belair,1,,1145
-Belair,801,21073,Belair,1,,1145
-Belair,801,21074,Belair,1,,1144
-Belair,801,21075,Belair,1,,1144
-Belair,801,21076,Belair,1,,1144
-Belair,801,21077,Belair,1,,1144
-Belair,801,21078,Belair,1,,1144
-Belair,801,21079,Belair,1,,1144
-Belair,801,21080,Belair,1,,1144
-Belair,801,21081,Belair,1,,1144
-Belair,801,21082,Belair,1,,1143
-Belair,801,21083,Belair,1,,1143
-Belair,801,21084,Belair,1,,1143
-Belair,801,21085,Belair,1,,1143
-Belair,801,21086,Belair,1,,1143
+Belair,821,21052,Belair,1,,1146
+Belair,821,21053,Belair,1,,1144
+Belair,821,21054,Belair,1,,1145
+Belair,821,21055,Belair,1,,1144
+Belair,821,21056,Belair,1,,1145
+Belair,821,21057,Belair,1,,1145
+Belair,821,21058,Belair,1,,1144
+Belair,821,21059,Belair,1,,1144
+Belair,821,21060,Belair,1,,1144
+Belair,821,21061,Belair,1,,1144
+Belair,821,21062,Belair,1,,1144
+Belair,821,21063,Belair,1,,1144
+Belair,821,21064,Belair,1,,1144
+Belair,821,21065,Belair,1,,1144
+Belair,821,21066,Belair,1,,1144
+Belair,821,21067,Belair,1,,1144
+Belair,821,21068,Belair,1,,1144
+Belair,821,21069,Belair,1,,1144
+Belair,821,21070,Belair,1,,1144
+Belair,821,21071,Belair,1,,1145
+Belair,821,21072,Belair,1,,1145
+Belair,821,21073,Belair,1,,1145
+Belair,821,21074,Belair,1,,1144
+Belair,821,21075,Belair,1,,1144
+Belair,821,21076,Belair,1,,1144
+Belair,821,21077,Belair,1,,1144
+Belair,821,21078,Belair,1,,1144
+Belair,821,21079,Belair,1,,1144
+Belair,821,21080,Belair,1,,1144
+Belair,821,21081,Belair,1,,1144
+Belair,821,21082,Belair,1,,1143
+Belair,821,21083,Belair,1,,1143
+Belair,821,21084,Belair,1,,1143
+Belair,821,21085,Belair,1,,1143
+Belair,821,21086,Belair,1,,1143
 Gawler Central,804,21122,City,0,,3884
 Gawler Central,804,21123,City,0,,1158
 Gawler Central,804,21124,City,0,,3884
@@ -356,9 +356,9 @@ Gawler Central,803,21172,City,0,,1158
 Gawler Central,803,21173,City,0,,3884
 Gawler Central,803,21174,City,0,,3884
 Gawler Central,803,21175,City,0,,3884
-Gawler Central,611,21176,City,0,,3884
-Gawler Central,611,21177,City,0,,3884
-Gawler Central,611,21178,City,0,,3884
+Gawler Central,803,21176,City,0,,3884
+Gawler Central,803,21177,City,0,,3884
+Gawler Central,803,21178,City,0,,3884
 Gawler Central,801,21179,City,0,,3883
 Gawler Central,801,21180,City,0,,3883
 Gawler Central,801,21181,City,0,,3883
@@ -475,9 +475,9 @@ Gawler Central,803,21294,Gawler Central,1,,1165
 Gawler Central,803,21295,Gawler Central,1,,3886
 Gawler Central,803,21296,Gawler Central,1,,3886
 Gawler Central,803,21297,Gawler Central,1,,3886
-Gawler Central,611,21298,Gawler Central,1,,3886
-Gawler Central,611,21299,Gawler Central,1,,3886
-Gawler Central,611,21300,Gawler Central,1,,3886
+Gawler Central,803,21298,Gawler Central,1,,3886
+Gawler Central,803,21299,Gawler Central,1,,3886
+Gawler Central,803,21300,Gawler Central,1,,3886
 Gawler,801,21301,Gawler,1,,3882
 Gawler Central,801,21302,Gawler Central,1,,6496
 Gawler,801,21303,Gawler,1,,3882
@@ -661,36 +661,36 @@ Tram,1,58104,City,0,,7475
 Tram,1,58105,City,0,,7475
 Tram,5,58107,City,0,,7475
 Tram,5,58108,City,0,,7475
-Tram,501,58109,City West,0,,7382
-Tram,501,58110,City West,0,,7382
-Tram,501,58111,City West,0,,7382
-Tram,501,58112,City West,0,,7382
-Tram,501,58113,City West,0,,7382
-Tram,501,58114,City West,0,,7382
-Tram,501,58115,City West,0,,7382
-Tram,501,58116,City West,0,,7382
-Tram,501,58117,City West,0,,7382
-Tram,501,58118,City West,0,,7382
-Tram,501,58119,City West,0,,7382
-Tram,501,58120,City West,0,,7382
-Tram,501,58121,City West,0,,7382
-Tram,501,58122,City West,0,,7382
-Tram,501,58123,City West,0,,7382
-Tram,501,58124,City West,0,,7382
-Tram,501,58125,City West,0,,7382
-Tram,501,58126,City West,0,,7382
-Tram,501,58127,City West,0,,7382
-Tram,501,58128,City West,0,,7382
-Tram,501,58129,City West,0,,7382
-Tram,501,58130,City West,0,,7382
-Tram,501,58131,City West,0,,7382
-Tram,501,58132,City West,0,,7382
-Tram,501,58133,City West,0,,7382
-Tram,501,58134,City West,0,,7382
-Tram,501,58135,City West,0,,7382
-Tram,501,58136,City West,0,,7382
-Tram,501,58137,City West,0,,7382
-Tram,501,58138,City West,0,,7382
+Tram,1,58109,City West,0,,7382
+Tram,1,58110,City West,0,,7382
+Tram,1,58111,City West,0,,7382
+Tram,1,58112,City West,0,,7382
+Tram,1,58113,City West,0,,7382
+Tram,1,58114,City West,0,,7382
+Tram,1,58115,City West,0,,7382
+Tram,1,58116,City West,0,,7382
+Tram,1,58117,City West,0,,7382
+Tram,1,58118,City West,0,,7382
+Tram,1,58119,City West,0,,7382
+Tram,1,58120,City West,0,,7382
+Tram,1,58121,City West,0,,7382
+Tram,1,58122,City West,0,,7382
+Tram,1,58123,City West,0,,7382
+Tram,1,58124,City West,0,,7382
+Tram,1,58125,City West,0,,7382
+Tram,1,58126,City West,0,,7382
+Tram,1,58127,City West,0,,7382
+Tram,1,58128,City West,0,,7382
+Tram,1,58129,City West,0,,7382
+Tram,1,58130,City West,0,,7382
+Tram,1,58131,City West,0,,7382
+Tram,1,58132,City West,0,,7382
+Tram,1,58133,City West,0,,7382
+Tram,1,58134,City West,0,,7382
+Tram,1,58135,City West,0,,7382
+Tram,1,58136,City West,0,,7382
+Tram,1,58137,City West,0,,7382
+Tram,1,58138,City West,0,,7382
 Tram,5,58139,City West,0,,7382
 Tram,5,58140,City West,0,,7382
 Tram,5,58141,City West,0,,7382
@@ -704,7 +704,7 @@ Tram,1,58148,Glenelg,1,,5229
 Tram,1,58149,Glenelg,1,,5229
 Tram,1,58150,Glenelg,1,,5229
 Tram,1,58151,Glenelg,1,,5229
-Tram,501,58152,Glenelg,1,,5229
+Tram,1,58152,Glenelg,1,,5229
 Tram,1,58153,Glenelg,1,,7364
 Tram,1,58154,Glenelg,1,,7364
 Tram,1,58155,Glenelg,1,,7364
@@ -783,41 +783,41 @@ Tram,1,58228,Glenelg,1,,7364
 Tram,1,58230,South Tce,1,,7477
 Tram,1,58231,South Tce,1,,7477
 Tram,1,58232,South Tce,1,,7477
-Tram,501,58233,South Tce,1,,7477
-Tram,501,58234,South Tce,1,,7477
-Tram,501,58235,South Tce,1,,7477
-Tram,501,58236,South Tce,1,,7477
-Tram,501,58237,South Tce,1,,7477
-Tram,501,58238,South Tce,1,,7477
-Tram,501,58239,South Tce,1,,7477
-Tram,501,58240,South Tce,1,,7477
-Tram,501,58241,South Tce,1,,7477
-Tram,501,58242,South Tce,1,,7477
-Tram,501,58243,South Tce,1,,7477
-Tram,501,58244,South Tce,1,,7477
-Tram,501,58245,South Tce,1,,7477
-Tram,501,58246,South Tce,1,,7477
-Tram,501,58247,South Tce,1,,7477
-Tram,501,58248,South Tce,1,,7477
-Tram,501,58249,South Tce,1,,7477
-Tram,501,58250,South Tce,1,,7477
-Tram,501,58251,South Tce,1,,7477
-Tram,501,58252,South Tce,1,,7477
-Tram,501,58253,South Tce,1,,7477
-Tram,501,58254,South Tce,1,,7477
-Tram,501,58255,South Tce,1,,7477
-Tram,501,58256,South Tce,1,,7477
-Tram,501,58257,South Tce,1,,7477
-Tram,501,58258,South Tce,1,,7477
-Tram,501,58259,South Tce,1,,7477
-Tram,501,58260,South Tce,1,,7477
-Tram,501,58261,South Tce,1,,7477
+Tram,1,58233,South Tce,1,,7477
+Tram,1,58234,South Tce,1,,7477
+Tram,1,58235,South Tce,1,,7477
+Tram,1,58236,South Tce,1,,7477
+Tram,1,58237,South Tce,1,,7477
+Tram,1,58238,South Tce,1,,7477
+Tram,1,58239,South Tce,1,,7477
+Tram,1,58240,South Tce,1,,7477
+Tram,1,58241,South Tce,1,,7477
+Tram,1,58242,South Tce,1,,7477
+Tram,1,58243,South Tce,1,,7477
+Tram,1,58244,South Tce,1,,7477
+Tram,1,58245,South Tce,1,,7477
+Tram,1,58246,South Tce,1,,7477
+Tram,1,58247,South Tce,1,,7477
+Tram,1,58248,South Tce,1,,7477
+Tram,1,58249,South Tce,1,,7477
+Tram,1,58250,South Tce,1,,7477
+Tram,1,58251,South Tce,1,,7477
+Tram,1,58252,South Tce,1,,7477
+Tram,1,58253,South Tce,1,,7477
+Tram,1,58254,South Tce,1,,7477
+Tram,1,58255,South Tce,1,,7477
+Tram,1,58256,South Tce,1,,7477
+Tram,1,58257,South Tce,1,,7477
+Tram,1,58258,South Tce,1,,7477
+Tram,1,58259,South Tce,1,,7477
+Tram,1,58260,South Tce,1,,7477
+Tram,1,58261,South Tce,1,,7477
 Tram,5,58262,South Tce,1,,7477
 Tram,5,58263,South Tce,1,,7477
 Tram,5,58264,South Tce,1,,7477
 Tram,5,58265,South Tce,1,,7477
 Tram,5,58266,South Tce,1,,7477
-Tram,501,58267,City South,1,,7476
+Tram,1,58267,City South,1,,7476
 Tram,5,58273,Glenelg,1,,7478
 Tram,5,58274,Glenelg,1,,7478
 Tram,1,58275,Entertainment Centre,0,,7365
@@ -6170,88 +6170,49 @@ RZ5,1,81925,Holden Hill Roam Zone Service,1,7Z2514,4853
 230,13,82197,City ,0,7S5254,7948
 230,13,82198,City ,0,7S5250,7948
 G10,43,82239,City,1,,8093
-Tonsley Sub,821,82460,Woodlands Park,0,,8752
-Tonsley Sub,821,82461,Woodlands Park,0,,8752
-Tonsley Sub,821,82462,Woodlands Park,0,,8752
-Tonsley Sub,821,82463,Woodlands Park,0,,8752
-Tonsley Sub,821,82464,Woodlands Park,0,,8752
-Tonsley Sub,821,82465,Woodlands Park,0,,8752
-Tonsley Sub,821,82466,Woodlands Park,0,,8752
-Tonsley Sub,821,82467,Woodlands Park,0,,8752
-Tonsley Sub,821,82468,Woodlands Park,0,,8752
-Tonsley Sub,821,82469,Woodlands Park,0,,8752
-Tonsley Sub,821,82470,Woodlands Park,0,,8752
-Tonsley Sub,821,82471,Woodlands Park,0,,8752
-Tonsley Sub,821,82472,Woodlands Park,0,,8752
-Tonsley Sub,821,82473,Woodlands Park,0,,8752
-Tonsley Sub,821,82474,Woodlands Park,0,,8752
-Tonsley Sub,821,82475,Woodlands Park,0,,8752
-Tonsley Sub,821,82476,Woodlands Park,0,,8752
-Tonsley Sub,821,82477,Woodlands Park,0,,8752
-Tonsley Sub,821,82478,Woodlands Park,0,,8752
-Tonsley Sub,821,82479,Tonsley,1,,8751
-Tonsley Sub,821,82480,Tonsley,1,,8751
-Tonsley Sub,821,82481,Tonsley,1,,8751
-Tonsley Sub,821,82482,Tonsley,1,,8751
-Tonsley Sub,821,82483,Tonsley,1,,8751
-Tonsley Sub,821,82484,Tonsley,1,,8751
-Tonsley Sub,821,82485,Tonsley,1,,8751
-Tonsley Sub,821,82486,Tonsley,1,,8751
-Tonsley Sub,821,82487,Tonsley,1,,8751
-Tonsley Sub,821,82488,Tonsley,1,,8751
-Tonsley Sub,821,82489,Tonsley,1,,8751
-Tonsley Sub,821,82490,Tonsley,1,,8751
-Tonsley Sub,821,82491,Tonsley,1,,8751
-Tonsley Sub,821,82492,Tonsley,1,,8751
-Tonsley Sub,821,82493,Tonsley,1,,8751
-Tonsley Sub,821,82494,Tonsley,1,,8751
-Tonsley Sub,821,82495,Tonsley,1,,8751
-Tonsley Sub,821,82496,Tonsley,1,,8751
-Tonsley Sub,821,82497,Tonsley,1,,8751
-Tonsley Sub,821,82498,Tonsley,1,,8751
-Brighton,801,82499,City,0,,8743
-Brighton,801,82500,City,0,,8743
-Brighton,801,82501,City,0,,8743
-Brighton,801,82502,City,0,,8743
-Noarlunga,801,82503,City,0,,8738
-Noarlunga,801,82504,City,0,,8738
-Noarlunga,801,82505,City,0,,8739
-Noarlunga,801,82506,City,0,,8739
-Noarlunga,801,82507,City,0,,8738
-Noarlunga,801,82508,City,0,,8738
-Noarlunga,801,82509,City,0,,8738
-Noarlunga,801,82510,City,0,,8740
-Noarlunga,801,82511,City,0,,8738
-Noarlunga,801,82512,City,0,,8740
-Noarlunga,801,82513,City,0,,8739
-Noarlunga,801,82514,City,0,,8738
-Brighton,801,82515,City,0,,8743
-Brighton,801,82516,City,0,,8743
-Brighton,801,82517,City,0,,8743
-Noarlunga,801,82518,City,0,,8741
-Brighton,801,82519,City,0,,8744
-Noarlunga,801,82520,City,0,,8738
-Noarlunga,801,82521,City,0,,8738
-Noarlunga,801,82522,City,0,,8738
-Noarlunga,801,82523,City,0,,8742
-Brighton,801,82525,Brighton,1,,8749
-Brighton,801,82526,Brighton,1,,8749
-Noarlunga,801,82527,Noarlunga,1,,8745
-Noarlunga,801,82528,Noarlunga,1,,8746
-Noarlunga,801,82529,Noarlunga,1,,8747
-Noarlunga,801,82530,Noarlunga,1,,8745
-Noarlunga,801,82531,Noarlunga,1,,8745
-Noarlunga,801,82532,Noarlunga,1,,8745
-Noarlunga,801,82533,Noarlunga,1,,8745
-Noarlunga,801,82534,Noarlunga,1,,8745
-Noarlunga,801,82535,Noarlunga,1,,8745
-Brighton,801,82536,Brighton,1,,8750
-Brighton,801,82537,Brighton,1,,8749
-Noarlunga,801,82538,Noarlunga,1,,8748
-Noarlunga,801,82539,Noarlunga,1,,8745
-Noarlunga,801,82540,Noarlunga,1,,8745
-Noarlunga,801,82541,Noarlunga,1,,8745
-Brighton,801,82542,Brighton,1,,8753
+Brighton,821,82499,City,0,,8743
+Brighton,821,82500,City,0,,8743
+Brighton,821,82501,City,0,,8743
+Brighton,821,82502,City,0,,8743
+Noarlunga,821,82503,City,0,,8738
+Noarlunga,821,82504,City,0,,8738
+Noarlunga,821,82505,City,0,,8739
+Noarlunga,821,82506,City,0,,8739
+Noarlunga,821,82507,City,0,,8738
+Noarlunga,821,82508,City,0,,8738
+Noarlunga,821,82509,City,0,,8738
+Noarlunga,821,82510,City,0,,8740
+Noarlunga,821,82511,City,0,,8738
+Noarlunga,821,82512,City,0,,8740
+Noarlunga,821,82513,City,0,,8739
+Noarlunga,821,82514,City,0,,8738
+Brighton,821,82515,City,0,,8743
+Brighton,821,82516,City,0,,8743
+Brighton,821,82517,City,0,,8743
+Noarlunga,821,82518,City,0,,8741
+Brighton,821,82519,City,0,,8744
+Noarlunga,821,82520,City,0,,8738
+Noarlunga,821,82521,City,0,,8738
+Noarlunga,821,82522,City,0,,8738
+Noarlunga,821,82523,City,0,,8742
+Brighton,821,82525,Brighton,1,,8749
+Brighton,821,82526,Brighton,1,,8749
+Noarlunga,821,82527,Noarlunga,1,,8745
+Noarlunga,821,82528,Noarlunga,1,,8746
+Noarlunga,821,82529,Noarlunga,1,,8747
+Noarlunga,821,82530,Noarlunga,1,,8745
+Noarlunga,821,82531,Noarlunga,1,,8745
+Noarlunga,821,82532,Noarlunga,1,,8745
+Noarlunga,821,82533,Noarlunga,1,,8745
+Noarlunga,821,82534,Noarlunga,1,,8745
+Noarlunga,821,82535,Noarlunga,1,,8745
+Brighton,821,82536,Brighton,1,,8750
+Brighton,821,82537,Brighton,1,,8749
+Noarlunga,821,82538,Noarlunga,1,,8748
+Noarlunga,821,82539,Noarlunga,1,,8745
+Noarlunga,821,82540,Noarlunga,1,,8745
+Noarlunga,821,82541,Noarlunga,1,,8745
+Brighton,821,82542,Brighton,1,,8753
 Tram,1,83249,Glenelg,1,,5229
 Tram,1,83250,Glenelg,1,,5229
 Tram,1,83251,Glenelg,1,,5229
@@ -6483,103 +6444,103 @@ Grange,801,83711,City,0,,1196
 Outer Harbor,801,83712,City,0,,1232
 Grange,801,83713,City,0,,1196
 Outer Harbor,801,83714,City,0,,1232
-Outer Harbor,412,83715,Outer Harbor,1,,1236
-Outer Harbor,412,83716,Outer Harbor,1,,1236
-Grange,412,83717,Grange,1,,1198
-Outer Harbor,412,83718,Outer Harbor,1,,1236
-Outer Harbor,412,83719,Outer Harbor,1,,1236
-Grange,412,83720,Grange,1,,1198
-Outer Harbor,412,83721,Outer Harbor,1,,1236
-Outer Harbor,412,83722,Outer Harbor,1,,1236
-Grange,412,83723,Grange,1,,1198
-Outer Harbor,412,83724,Outer Harbor,1,,1236
-Outer Harbor,412,83725,Outer Harbor,1,,1236
-Grange,412,83726,Grange,1,,1198
-Outer Harbor,412,83727,Outer Harbor,1,,1236
-Outer Harbor,412,83728,Outer Harbor,1,,1236
-Grange,412,83729,Grange,1,,1198
-Outer Harbor,412,83730,Outer Harbor,1,,1236
-Outer Harbor,412,83731,Outer Harbor,1,,1236
-Grange,412,83732,Grange,1,,1198
-Outer Harbor,412,83733,Outer Harbor,1,,1236
-Outer Harbor,412,83734,Outer Harbor,1,,1236
-Grange,412,83735,Grange,1,,1198
-Outer Harbor,412,83736,Outer Harbor,1,,1236
-Outer Harbor,412,83737,Outer Harbor,1,,1236
-Grange,412,83738,Grange,1,,1198
-Outer Harbor,412,83739,Outer Harbor,1,,1236
-Outer Harbor,412,83740,Outer Harbor,1,,1236
-Grange,412,83741,Grange,1,,1198
-Outer Harbor,412,83742,Outer Harbor,1,,1236
-Outer Harbor,412,83743,Outer Harbor,1,,1236
-Grange,412,83744,Grange,1,,1198
-Outer Harbor,412,83745,Outer Harbor,1,,1236
-Outer Harbor,412,83746,Outer Harbor,1,,1236
-Grange,412,83747,Grange,1,,1198
-Outer Harbor,412,83748,Outer Harbor,1,,1236
-Outer Harbor,412,83749,Outer Harbor,1,,1236
-Grange,412,83750,Grange,1,,1198
-Outer Harbor,412,83751,Outer Harbor,1,,1236
-Outer Harbor,412,83753,Outer Harbor,1,,1236
-Grange,412,83754,Grange,1,,1198
-Outer Harbor,412,83755,Outer Harbor,1,,1236
-Grange,412,83756,Grange,1,,1198
-Outer Harbor,412,83757,Outer Harbor,1,,1236
-Grange,412,83758,Grange,1,,1198
-Outer Harbor,412,83759,Outer Harbor,1,,1236
-Grange,412,83760,Grange,1,,1198
-Outer Harbor,412,83761,Outer Harbor,1,,1236
-Grange,412,83762,Grange,1,,1198
-Outer Harbor,412,83763,Outer Harbor,1,,1236
-Outer Harbor,412,83764,City,0,,1232
-Grange,412,83765,City,0,,1196
-Outer Harbor,412,83766,City,0,,1232
-Outer Harbor,412,83767,City,0,,1232
-Grange,412,83768,City,0,,1196
-Outer Harbor,412,83769,City,0,,1232
-Outer Harbor,412,83770,City,0,,1232
-Grange,412,83771,City,0,,1196
-Outer Harbor,412,83772,City,0,,1232
-Outer Harbor,412,83773,City,0,,1232
-Grange,412,83774,City,0,,1196
-Outer Harbor,412,83775,City,0,,1232
-Outer Harbor,412,83776,City,0,,1232
-Grange,412,83777,City,0,,1196
-Outer Harbor,412,83778,City,0,,1232
-Outer Harbor,412,83779,City,0,,1232
-Grange,412,83780,City,0,,1196
-Outer Harbor,412,83781,City,0,,1232
-Outer Harbor,412,83782,City,0,,1232
-Grange,412,83783,City,0,,1196
-Outer Harbor,412,83784,City,0,,1232
-Outer Harbor,412,83785,City,0,,1232
-Grange,412,83786,City,0,,1196
-Outer Harbor,412,83787,City,0,,1232
-Outer Harbor,412,83788,City,0,,1232
-Grange,412,83789,City,0,,1196
-Outer Harbor,412,83790,City,0,,1232
-Outer Harbor,412,83791,City,0,,1232
-Grange,412,83792,City,0,,1196
-Outer Harbor,412,83793,City,0,,1232
-Outer Harbor,412,83794,City,0,,1232
-Grange,412,83795,City,0,,1196
-Outer Harbor,412,83796,City,0,,1232
-Outer Harbor,412,83797,City,0,,1232
-Grange,412,83798,City,0,,1196
-Outer Harbor,412,83799,City,0,,1232
-Outer Harbor,412,83800,City,0,,1232
-Grange,412,83801,City,0,,1196
-Outer Harbor,412,83802,City,0,,1232
-Grange,412,83803,City,0,,1196
-Outer Harbor,412,83804,City,0,,1232
-Grange,412,83805,City,0,,1196
-Outer Harbor,412,83806,City,0,,1232
-Grange,412,83807,City,0,,1196
-Outer Harbor,412,83808,City,0,,1232
-Grange,412,83809,City,0,,1196
-Outer Harbor,412,83810,City,0,,1232
-Grange,412,83811,City,0,,1196
-Outer Harbor,412,83812,City,0,,1232
+Outer Harbor,805,83715,Outer Harbor,1,,1236
+Outer Harbor,805,83716,Outer Harbor,1,,1236
+Grange,805,83717,Grange,1,,1198
+Outer Harbor,805,83718,Outer Harbor,1,,1236
+Outer Harbor,805,83719,Outer Harbor,1,,1236
+Grange,805,83720,Grange,1,,1198
+Outer Harbor,805,83721,Outer Harbor,1,,1236
+Outer Harbor,805,83722,Outer Harbor,1,,1236
+Grange,805,83723,Grange,1,,1198
+Outer Harbor,805,83724,Outer Harbor,1,,1236
+Outer Harbor,805,83725,Outer Harbor,1,,1236
+Grange,805,83726,Grange,1,,1198
+Outer Harbor,805,83727,Outer Harbor,1,,1236
+Outer Harbor,805,83728,Outer Harbor,1,,1236
+Grange,805,83729,Grange,1,,1198
+Outer Harbor,805,83730,Outer Harbor,1,,1236
+Outer Harbor,805,83731,Outer Harbor,1,,1236
+Grange,805,83732,Grange,1,,1198
+Outer Harbor,805,83733,Outer Harbor,1,,1236
+Outer Harbor,805,83734,Outer Harbor,1,,1236
+Grange,805,83735,Grange,1,,1198
+Outer Harbor,805,83736,Outer Harbor,1,,1236
+Outer Harbor,805,83737,Outer Harbor,1,,1236
+Grange,805,83738,Grange,1,,1198
+Outer Harbor,805,83739,Outer Harbor,1,,1236
+Outer Harbor,805,83740,Outer Harbor,1,,1236
+Grange,805,83741,Grange,1,,1198
+Outer Harbor,805,83742,Outer Harbor,1,,1236
+Outer Harbor,805,83743,Outer Harbor,1,,1236
+Grange,805,83744,Grange,1,,1198
+Outer Harbor,805,83745,Outer Harbor,1,,1236
+Outer Harbor,805,83746,Outer Harbor,1,,1236
+Grange,805,83747,Grange,1,,1198
+Outer Harbor,805,83748,Outer Harbor,1,,1236
+Outer Harbor,805,83749,Outer Harbor,1,,1236
+Grange,805,83750,Grange,1,,1198
+Outer Harbor,805,83751,Outer Harbor,1,,1236
+Outer Harbor,805,83753,Outer Harbor,1,,1236
+Grange,805,83754,Grange,1,,1198
+Outer Harbor,805,83755,Outer Harbor,1,,1236
+Grange,805,83756,Grange,1,,1198
+Outer Harbor,805,83757,Outer Harbor,1,,1236
+Grange,805,83758,Grange,1,,1198
+Outer Harbor,805,83759,Outer Harbor,1,,1236
+Grange,805,83760,Grange,1,,1198
+Outer Harbor,805,83761,Outer Harbor,1,,1236
+Grange,805,83762,Grange,1,,1198
+Outer Harbor,805,83763,Outer Harbor,1,,1236
+Outer Harbor,805,83764,City,0,,1232
+Grange,805,83765,City,0,,1196
+Outer Harbor,805,83766,City,0,,1232
+Outer Harbor,805,83767,City,0,,1232
+Grange,805,83768,City,0,,1196
+Outer Harbor,805,83769,City,0,,1232
+Outer Harbor,805,83770,City,0,,1232
+Grange,805,83771,City,0,,1196
+Outer Harbor,805,83772,City,0,,1232
+Outer Harbor,805,83773,City,0,,1232
+Grange,805,83774,City,0,,1196
+Outer Harbor,805,83775,City,0,,1232
+Outer Harbor,805,83776,City,0,,1232
+Grange,805,83777,City,0,,1196
+Outer Harbor,805,83778,City,0,,1232
+Outer Harbor,805,83779,City,0,,1232
+Grange,805,83780,City,0,,1196
+Outer Harbor,805,83781,City,0,,1232
+Outer Harbor,805,83782,City,0,,1232
+Grange,805,83783,City,0,,1196
+Outer Harbor,805,83784,City,0,,1232
+Outer Harbor,805,83785,City,0,,1232
+Grange,805,83786,City,0,,1196
+Outer Harbor,805,83787,City,0,,1232
+Outer Harbor,805,83788,City,0,,1232
+Grange,805,83789,City,0,,1196
+Outer Harbor,805,83790,City,0,,1232
+Outer Harbor,805,83791,City,0,,1232
+Grange,805,83792,City,0,,1196
+Outer Harbor,805,83793,City,0,,1232
+Outer Harbor,805,83794,City,0,,1232
+Grange,805,83795,City,0,,1196
+Outer Harbor,805,83796,City,0,,1232
+Outer Harbor,805,83797,City,0,,1232
+Grange,805,83798,City,0,,1196
+Outer Harbor,805,83799,City,0,,1232
+Outer Harbor,805,83800,City,0,,1232
+Grange,805,83801,City,0,,1196
+Outer Harbor,805,83802,City,0,,1232
+Grange,805,83803,City,0,,1196
+Outer Harbor,805,83804,City,0,,1232
+Grange,805,83805,City,0,,1196
+Outer Harbor,805,83806,City,0,,1232
+Grange,805,83807,City,0,,1196
+Outer Harbor,805,83808,City,0,,1232
+Grange,805,83809,City,0,,1196
+Outer Harbor,805,83810,City,0,,1232
+Grange,805,83811,City,0,,1196
+Outer Harbor,805,83812,City,0,,1232
 Elizabeth Rd Shuttle,1,83813,Noarlunga Centre Interchange,0,,9108
 Elizabeth Rd Shuttle,1,83814,Noarlunga Centre Interchange,0,,9108
 Elizabeth Rd Shuttle,1,83815,Noarlunga Centre Interchange,0,,9108
@@ -7551,11 +7512,7 @@ Elizabeth Rd Shuttle,1,83820,Noarlunga Centre Interchange,0,,9109
 720H,12,86044,Old Reynella,1,41528,9000
 724,1,86045,Old Reynella,0,41143,3027
 724,1,86046,Old Reynella,0,41137,3027
-734S,1,86047,Marion,0,41479,9191
 734,1,86048,Marion,0,41143,9190
-734S,1,86049,Marion,0,41483,9191
-734S,1,86050,Marion,0,41470,9191
-734S,1,86051,Marion,0,41465,9191
 734,1,86052,Marion,0,41456,9189
 734,1,86053,Marion,0,41147,9189
 734,1,86054,Marion,0,41122,9189
@@ -7605,10 +7562,7 @@ Elizabeth Rd Shuttle,1,83820,Noarlunga Centre Interchange,0,,9109
 734,1,86098,Colonnades,1,41468,9192
 734,1,86099,Colonnades,1,41458,9192
 734,1,86100,Colonnades,1,41147,9192
-734S,1,86101,Colonnades,1,41171,9194
-734S,1,86102,Colonnades,1,41452,9194
 734,1,86103,Colonnades,1,41128,9192
-734S,1,86104,Colonnades,1,41466,9194
 734,1,86105,Colonnades,1,41154,9192
 734,1,86106,Colonnades,1,41465,9192
 734,1,86107,Colonnades,1,41157,9192
@@ -8833,9 +8787,8 @@ T748,1,87615,Seaford Rise ,1,41466,7699
 203F,1,88046,City,0,7S2239,8914
 202F,1,88047,City ,0,7S2220,8915
 203F,1,88048,City,0,7S1412,8914
-203,44,88049,City,0,7S1225,8912
-203,43,88050,City,0,7S1225,9035
-203,31,88051,City,0,7S1225,9035
+203,46,88050,City,0,7S1225,9035
+203,9,88051,City,0,7S1225,9035
 202,1,88052,City ,0,7S2227,8916
 203,1,88053,City,0,7S2260,8251
 202,31,88054,City ,0,7S1230,8916
@@ -15929,187 +15882,10 @@ H31,1,96565,Rostrevor,1,53017,7608
 140,31,96766,City ,0,,7621
 140,31,96767,City ,0,,7621
 494,1,96768,Gawler,1,,8393
-Grange,412,96769,Grange,1,,1198
+Grange,805,96769,Grange,1,,1198
 Salisbury,801,96770,City,0,,3817
 411,1,96771,Salisbury,1,42246,9288
 144,31,96772,City,0,,7627
-H1,454,97551,City,0,,9518
-G1,454,97552,City,0,,9520
-H1,454,97553,City,0,,9518
-H1,454,97554,City,0,,9518
-G1,454,97555,City,0,,9520
-H1,454,97556,City,0,,9518
-H1,454,97557,City,0,,9518
-G1,454,97558,City,0,,9520
-H1,454,97559,City,0,,9518
-H1,454,97560,City,0,,9518
-G1,454,97561,City,0,,9520
-H1,454,97562,City,0,,9518
-H1,454,97563,City,0,,9518
-G1,454,97564,City,0,,9520
-H1,454,97565,City,0,,9518
-H1,454,97566,City,0,,9518
-G1,454,97567,City,0,,9520
-H1,454,97568,City,0,,9518
-H1,454,97569,City,0,,9518
-G1,454,97570,City,0,,9520
-H1,454,97571,City,0,,9518
-H1,454,97572,City,0,,9518
-G1,454,97573,City,0,,9520
-H1,454,97574,City,0,,9518
-H1,454,97575,City,0,,9518
-G1,454,97576,City,0,,9520
-H1,454,97577,City,0,,9518
-H1,454,97578,City,0,,9518
-G1,454,97579,City,0,,9520
-H1,454,97580,City,0,,9518
-H1,454,97581,City,0,,9518
-G1,454,97582,City,0,,9520
-H1,454,97583,City,0,,9518
-H1,454,97584,City,0,,9518
-G1,454,97585,City,0,,9520
-H1,454,97586,City,0,,9518
-H1,454,97587,City,0,,9518
-G1,454,97588,City,0,,9520
-H1,454,97589,City,0,,9518
-G1,454,97590,City,0,,9520
-H1,454,97591,City,0,,9518
-G1,454,97592,City,0,,9520
-H1,454,97593,City,0,,9518
-G1,454,97594,City,0,,9520
-H1,454,97595,City,0,,9518
-G1,454,97596,City,0,,9520
-H1,454,97597,City,0,,9518
-G1,454,97598,City,0,,9520
-H1,454,97599,City,0,,9518
-H1,454,97600,Outer Harbor,1,,9519
-H1,454,97601,Outer Harbor,1,,9519
-G1,454,97602,Grange,1,,9521
-H1,454,97603,Outer Harbor,1,,9519
-H1,454,97604,Outer Harbor,1,,9519
-G1,454,97605,Grange,1,,9521
-H1,454,97606,Outer Harbor,1,,9519
-H1,454,97607,Outer Harbor,1,,9519
-G1,454,97608,Grange,1,,9521
-H1,454,97609,Outer Harbor,1,,9519
-H1,454,97610,Outer Harbor,1,,9519
-G1,454,97611,Grange,1,,9521
-H1,454,97612,Outer Harbor,1,,9519
-H1,454,97613,Outer Harbor,1,,9519
-G1,454,97614,Grange,1,,9521
-H1,454,97615,Outer Harbor,1,,9519
-H1,454,97616,Outer Harbor,1,,9519
-G1,454,97617,Grange,1,,9521
-H1,454,97618,Outer Harbor,1,,9519
-H1,454,97619,Outer Harbor,1,,9519
-G1,454,97620,Grange,1,,9521
-H1,454,97621,Outer Harbor,1,,9519
-H1,454,97622,Outer Harbor,1,,9519
-G1,454,97623,Grange,1,,9521
-H1,454,97624,Outer Harbor,1,,9519
-H1,454,97625,Outer Harbor,1,,9519
-G1,454,97626,Grange,1,,9521
-H1,454,97627,Outer Harbor,1,,9519
-H1,454,97628,Outer Harbor,1,,9519
-G1,454,97629,Grange,1,,9521
-H1,454,97630,Outer Harbor,1,,9519
-H1,454,97631,Outer Harbor,1,,9519
-G1,454,97632,Grange,1,,9521
-H1,454,97633,Outer Harbor,1,,9519
-H1,454,97634,Outer Harbor,1,,9519
-G1,454,97635,Grange,1,,9521
-H1,454,97636,Outer Harbor,1,,9519
-G1,454,97637,Grange,1,,9521
-H1,454,97638,Outer Harbor,1,,9519
-G1,454,97639,Grange,1,,9521
-H1,454,97640,Outer Harbor,1,,9519
-G1,454,97641,Grange,1,,9521
-H1,454,97642,Outer Harbor,1,,9519
-G1,454,97643,Grange,1,,9521
-H1,454,97644,Outer Harbor,1,,9519
-G1,454,97645,Grange,1,,9521
-H1,454,97646,Outer Harbor,1,,9519
-G1,454,97647,Grange,1,,9521
-H1,454,97648,Outer Harbor,1,,9519
-GA1,651,97649,City,0,,8691
-GA1,651,97650,City,0,,8691
-GA1,651,97651,City,0,,8691
-GA1,651,97652,Mawson Lakes,1,,8692
-GA1,651,97653,Mawson Lakes,1,,8692
-GA1,651,97654,Mawson Lakes,1,,8692
-GA1,652,97655,Mawson Lakes,1,,8692
-Gawler Central,651,97656,City,0,,7502
-Gawler Central,651,97657,City,0,,7502
-Gawler Central,651,97658,City,0,,7502
-Gawler Central,651,97659,Gawler Central,1,,7499
-Gawler Central,651,97660,Gawler Central,1,,7499
-Gawler Central,651,97661,Gawler Central,1,,7499
-Gawler Central,652,97662,Gawler Central,1,,7499
-Gawler Central,652,97663,Gawler Central,1,,7499
-Tram,558,97664,West Tce,0,,8879
-Tram,558,97665,Entertainment Centre,0,,8878
-Tram,558,97666,Entertainment Centre,0,,8878
-Tram,558,97667,Entertainment Centre,0,,8878
-Tram,558,97668,Entertainment Centre,0,,8878
-Tram,558,97669,Entertainment Centre,0,,8878
-Tram,558,97670,Entertainment Centre,0,,8878
-Tram,558,97671,Entertainment Centre,0,,8878
-Tram,558,97672,Entertainment Centre,0,,8878
-Tram,558,97673,Entertainment Centre,0,,8878
-Tram,558,97674,Entertainment Centre,0,,8878
-Tram,558,97675,Entertainment Centre,0,,8878
-Tram,558,97676,Entertainment Centre,0,,8878
-Tram,558,97677,Entertainment Centre,0,,8878
-Tram,558,97678,Entertainment Centre,0,,8878
-Tram,558,97679,Entertainment Centre,0,,8878
-Tram,558,97680,Entertainment Centre,0,,8878
-Tram,558,97681,Entertainment Centre,0,,8878
-Tram,558,97682,Entertainment Centre,0,,8878
-Tram,558,97683,Entertainment Centre,0,,8878
-Tram,558,97684,Entertainment Centre,0,,8878
-Tram,558,97685,Entertainment Centre,0,,8878
-Tram,558,97686,Entertainment Centre,0,,8878
-Tram,558,97687,Entertainment Centre,0,,8878
-Tram,558,97688,Entertainment Centre,0,,8878
-Tram,558,97689,Entertainment Centre,0,,8878
-Tram,558,97690,Entertainment Centre,0,,8878
-Tram,558,97691,Entertainment Centre,0,,8878
-Tram,558,97692,Entertainment Centre,0,,8878
-Tram,558,97693,Entertainment Centre,0,,8878
-Tram,558,97694,Entertainment Centre,0,,8878
-Tram,558,97695,Entertainment Centre,0,,7474
-Tram,558,97696,Glenelg,1,,5229
-Tram,558,97697,South Terrace,1,,8883
-Tram,558,97698,South Terrace,1,,8883
-Tram,558,97699,South Terrace,1,,8883
-Tram,558,97700,South Terrace,1,,8883
-Tram,558,97701,South Terrace,1,,8883
-Tram,558,97702,South Terrace,1,,8883
-Tram,558,97703,South Terrace,1,,8883
-Tram,558,97704,South Terrace,1,,8883
-Tram,558,97705,South Terrace,1,,8883
-Tram,558,97706,South Terrace,1,,8883
-Tram,558,97707,South Terrace,1,,8883
-Tram,558,97708,South Terrace,1,,8883
-Tram,558,97709,South Terrace,1,,8883
-Tram,558,97710,South Terrace,1,,8883
-Tram,558,97711,South Terrace,1,,8883
-Tram,558,97712,South Terrace,1,,8883
-Tram,558,97713,South Terrace,1,,8883
-Tram,558,97714,South Terrace,1,,8883
-Tram,558,97715,South Terrace,1,,8883
-Tram,558,97716,South Terrace,1,,8883
-Tram,558,97717,South Terrace,1,,8883
-Tram,558,97718,South Terrace,1,,8883
-Tram,558,97719,South Terrace,1,,8883
-Tram,558,97720,South Terrace,1,,8883
-Tram,558,97721,South Terrace,1,,8883
-Tram,558,97722,South Terrace,1,,8883
-Tram,558,97723,South Terrace,1,,8883
-Tram,558,97724,South Terrace,1,,8883
-Tram,558,97725,South Terrace,1,,8883
-Tram,558,97726,South Terrace,1,,8883
-Tram,558,97727,Morphettville,1,,9573
 B10C,1,97728,City,0,,7549
 B10C,1,97729,City,0,,7549
 Outer Harbor,851,97730,Woodville,0,,9538
@@ -16645,13 +16421,13 @@ Gawler Central,851,98259,North Adelaide,0,,9541
 Gawler,851,98260,North Adelaide,0,,9544
 Gawler Central,851,98261,North Adelaide,0,,9541
 Gawler,851,98262,North Adelaide,0,,9544
-Gawler Central,851,98263,North Adelaide,0,,9541
+Gawler Central,851,98263,North Adelaide,0,,9627
 Gawler,851,98264,North Adelaide,0,,9544
 Gawler Central,851,98265,North Adelaide,0,,9541
 Gawler,851,98266,North Adelaide,0,,9544
-Gawler Central,851,98267,North Adelaide,0,,9541
+Gawler Central,851,98267,North Adelaide,0,,9628
 Gawler,851,98268,North Adelaide,0,,9544
-Gawler Central,851,98269,North Adelaide,0,,9541
+Gawler Central,851,98269,North Adelaide,0,,9628
 Gawler,851,98270,North Adelaide,0,,9544
 Gawler Central,851,98271,North Adelaide,0,,9541
 Gawler,851,98272,North Adelaide,0,,9544
@@ -16672,7 +16448,7 @@ Gawler,851,98286,Gawler,1,,9555
 Gawler Central,851,98287,Gawler Central,1,,9553
 Gawler,851,98288,Gawler,1,,9555
 Gawler Central,851,98289,Gawler Central,1,,9559
-Gawler,851,98290,Gawler,1,,9555
+Gawler,851,98290,Gawler,1,,9626
 Gawler Central,851,98291,Gawler Central,1,,9553
 Gawler,851,98292,Gawler,1,,9555
 Gawler Central,851,98293,Gawler Central,1,,9553
@@ -16696,11 +16472,11 @@ Gawler,851,98310,Gawler,1,,9555
 Gawler Central,851,98311,Gawler Central,1,,9558
 Gawler,851,98312,Gawler,1,,9555
 Gawler Central,851,98313,Gawler Central,1,,9558
-Gawler,851,98314,Gawler,1,,9555
+Gawler,851,98314,Gawler,1,,9626
 Gawler Central,851,98315,Gawler Central,1,,9558
 Gawler,851,98316,Gawler,1,,9555
 Gawler Central,851,98317,Gawler Central,1,,9558
-Gawler,851,98318,Gawler,1,,9555
+Gawler,851,98318,Gawler,1,,9626
 Gawler Central,851,98319,Gawler Central,1,,9558
 Gawler,851,98320,Gawler,1,,9555
 Gawler Central,851,98321,Gawler Central,1,,9558
@@ -16751,14 +16527,11 @@ Gawler Central,856,98365,North Adelaide,0,,9547
 Gawler Central,856,98366,North Adelaide,0,,9540
 Gawler Central,856,98367,North Adelaide,0,,9547
 Gawler Central,856,98368,North Adelaide,0,,9540
-Gawler Central,856,98369,North Adelaide,0,,9547
-Gawler Central,856,98370,Gawler,0,,9548
+Gawler Central,856,98369,North Adelaide,0,,9540
 Gawler Central,856,98371,North Adelaide,0,,9540
-Gawler Central,856,98372,North Adelaide,0,,9547
+Gawler Central,856,98372,North Adelaide,0,,9540
 Gawler Central,856,98373,North Adelaide,0,,9540
-Gawler Central,856,98374,North Adelaide,0,,9547
-Gawler Central,856,98375,Gawler,0,,9548
-Gawler Central,856,98376,Gawler,0,,9548
+Gawler Central,856,98374,North Adelaide,0,,9540
 Gawler Central,856,98377,Gawler Central,1,,9549
 Gawler Central,853,98378,Gawler Central,1,,9560
 Gawler Central,854,98379,Gawler Central,1,,9561
@@ -17574,1858 +17347,12 @@ N3,875,99188,Noarlunga,1,,9527
 N4,875,99189,Noarlunga,1,,9531
 N3,875,99190,Noarlunga,1,,9527
 N4,875,99191,Noarlunga,1,,9531
-200,31,99192,City,0,5S2325,7867
-200B,31,99193,Marion,0,5S2409,8337
-Tram,320,99194,Glenelg,1,,8660
-Tram,320,99195,Glenelg,1,,8660
-Tram,320,99196,Glenelg,1,,8660
-Tram,320,99197,Glenelg,1,,8660
-Tram,320,99198,Glenelg,1,,8660
-Tram,320,99199,Glenelg,1,,8660
-Tram,320,99200,Glenelg,1,,8661
-Tram,320,99203,Glenelg,1,,8661
-Tram,320,99205,Glenelg,1,,8661
-Tram,320,99206,Glenelg,1,,9575
-Tram,320,99207,Glenelg,1,,8661
-Tram,320,99209,Glenelg,1,,8661
-Tram,320,99211,Glenelg,1,,8661
-Tram,320,99212,Glenelg,1,,8660
-Tram,320,99213,Glenelg,1,,8660
-Tram,320,99214,Glenelg,1,,8661
-Tram,320,99215,Glenelg,1,,8661
-Tram,320,99216,Glenelg,1,,8661
-Tram,320,99217,Glenelg,1,,8661
-Tram,320,99219,Glenelg,1,,8661
-Tram,320,99220,Glenelg,1,,8661
-Tram,320,99221,Glenelg,1,,8661
-Tram,320,99222,Glenelg,1,,8661
-Tram,320,99223,Glenelg,1,,8661
-Tram,320,99224,Glenelg,1,,8661
-Tram,320,99225,Glenelg,1,,8661
-Tram,320,99226,Glenelg,1,,8661
-Tram,320,99227,Glenelg,1,,8661
-Tram,320,99228,Glenelg,1,,8661
-Tram,320,99229,Glenelg,1,,8661
-Tram,320,99230,Glenelg,1,,8661
-Tram,320,99231,Glenelg,1,,8661
-Tram,320,99232,Glenelg,1,,8661
-Tram,320,99233,Glenelg,1,,8661
-Tram,320,99234,Glenelg,1,,8661
-Tram,320,99235,Glenelg,1,,8661
-Tram,320,99236,Glenelg,1,,8661
-Tram,320,99237,Glenelg,1,,8661
-Tram,320,99238,Glenelg,1,,8661
-Tram,320,99239,Glenelg,1,,8661
-Tram,320,99240,Glenelg,1,,8661
-Tram,320,99241,Glenelg,1,,8661
-Tram,320,99242,Glenelg,1,,8661
-Tram,320,99243,Glenelg,1,,8661
-Tram,320,99244,Glenelg,1,,8661
-Tram,320,99245,Glenelg,1,,8661
-Tram,320,99246,Glenelg,1,,8661
-Tram,320,99247,Glenelg,1,,8661
-Tram,320,99248,Glenelg,1,,8661
-Tram,320,99249,Glenelg,1,,8661
-Tram,320,99250,Glenelg,1,,8661
-Tram,320,99251,Glenelg,1,,8661
-Tram,320,99252,Glenelg,1,,8661
-Tram,320,99253,Glenelg,1,,8661
-Tram,320,99254,Glenelg,1,,8661
-Tram,320,99255,Glenelg,1,,8661
-Tram,320,99256,Glenelg,1,,8661
-Tram,320,99257,Glenelg,1,,8661
-Tram,320,99258,Glenelg,1,,8661
-Tram,320,99259,Glenelg,1,,8661
-Tram,320,99260,Glenelg,1,,8661
-Tram,320,99261,Glenelg,1,,8661
-Tram,320,99262,Glenelg,1,,8661
-Tram,320,99263,Glenelg,1,,8661
-Tram,320,99264,Glenelg,1,,8661
-Tram,320,99265,Glenelg,1,,8661
-Tram,320,99266,Glenelg,1,,8661
-Tram,320,99267,Glenelg,1,,8661
-Tram,320,99268,Glenelg,1,,8661
-Tram,320,99269,Glenelg,1,,8661
-Tram,320,99270,Glenelg,1,,8661
-Tram,320,99271,Glenelg,1,,8661
-Tram,320,99272,Glenelg,1,,8661
-Tram,320,99273,Glenelg,1,,8661
-Tram,320,99274,Glenelg,1,,8661
-Tram,320,99275,Glenelg,1,,8661
-Tram,320,99276,,1,,8638
-Tram,320,99277,,1,,8638
-Tram,320,99278,,1,,8638
-Tram,320,99279,,1,,8638
-Tram,320,99280,,1,,8638
-Tram,320,99281,,1,,8638
-Tram,320,99282,,1,,8638
-Tram,320,99283,,1,,8638
-Tram,320,99284,,1,,8638
-Tram,320,99285,,1,,8638
-Tram,320,99286,,1,,8638
-Tram,320,99287,,1,,8638
-Tram,320,99288,,1,,8638
-Tram,320,99289,,1,,8638
-Tram,320,99290,,1,,8638
-Tram,320,99291,,1,,8638
-Tram,320,99292,,1,,8638
-Tram,320,99293,,1,,8638
-Tram,320,99294,,1,,8638
-Tram,320,99295,,1,,8638
-Tram,320,99296,,1,,8638
-Tram,320,99297,,1,,8638
-Tram,320,99298,,1,,8638
-Tram,320,99299,,1,,8638
-Tram,320,99300,,1,,8638
-Tram,320,99301,,1,,8638
-Tram,320,99302,,1,,8638
-Tram,320,99303,,1,,8638
-Tram,320,99304,,1,,8638
-Tram,320,99305,,1,,8638
-Tram,320,99306,,1,,8638
-Tram,320,99307,,1,,8638
-Tram,320,99308,,1,,8638
-Tram,320,99309,,1,,8638
-Tram,320,99310,,1,,8638
-Tram,320,99311,,1,,8638
-Tram,320,99312,,1,,8638
-Tram,320,99313,,1,,8638
-Tram,320,99314,,1,,8638
-Tram,320,99315,,1,,8638
-Tram,320,99316,,1,,8638
-Tram,322,99317,,1,,8638
-Tram,322,99318,,1,,8638
-Tram,322,99319,,1,,8638
-Tram,322,99320,,1,,8638
-Tram,322,99321,,1,,8638
-Tram,322,99322,,1,,8638
-Tram,322,99323,,1,,8638
-Tram,322,99324,,1,,8638
-Tram,322,99325,,1,,8638
-Tram,322,99326,,1,,8638
-Tram,322,99327,,1,,8638
-Tram,322,99328,,1,,8638
-Tram,322,99329,,1,,8638
-Tram,322,99330,,1,,8638
-Tram,322,99353,Glenelg,1,,8661
-Tram,322,99354,Glenelg,1,,8661
-Tram,322,99355,Glenelg,1,,8661
-Tram,322,99356,Glenelg,1,,8661
-Tram,322,99357,Glenelg,1,,8661
-Tram,322,99358,Glenelg,1,,8661
-Tram,322,99359,Glenelg,1,,8661
-Tram,322,99360,Glenelg,1,,8661
-Tram,322,99361,Glenelg,1,,8661
-Tram,322,99362,Glenelg,1,,8661
-Tram,322,99363,Glenelg,1,,8660
-Tram,322,99364,Glenelg,1,,8661
-Tram,322,99365,Glenelg,1,,8661
-Tram,322,99366,Glenelg,1,,8661
-Tram,322,99367,Glenelg,1,,8660
-Tram,322,99368,Glenelg,1,,8661
-Tram,322,99369,Glenelg,1,,8661
-Tram,322,99370,Glenelg,1,,8661
-Tram,322,99371,Glenelg,1,,8660
-Tram,322,99372,Glenelg,1,,8661
-Tram,322,99373,Glenelg,1,,8661
-Tram,322,99374,Glenelg,1,,8661
-Tram,322,99375,Glenelg,1,,8661
-Tram,322,99376,Glenelg,1,,8661
-Tram,322,99377,Glenelg,1,,8661
-Tram,322,99378,Glenelg,1,,8661
-Tram,322,99379,Glenelg,1,,8661
-Tram,322,99380,Glenelg,1,,8661
-Tram,322,99381,Glenelg,1,,8661
-Tram,322,99382,Glenelg,1,,8661
-Tram,322,99383,Glenelg,1,,8661
-Tram,322,99384,Glenelg,1,,8661
-Tram,322,99385,Glenelg,1,,8661
-Tram,322,99386,Glenelg,1,,8661
-Tram,322,99387,Glenelg,1,,8661
-Tram,322,99388,Glenelg,1,,8661
-Tram,322,99389,Glenelg,1,,8661
-Tram,322,99390,Glenelg,1,,8661
-Tram,322,99391,Glenelg,1,,8661
-Tram,322,99392,Glenelg,1,,8661
-Tram,322,99393,Glenelg,1,,8661
-Tram,322,99394,Glenelg,1,,8661
-Tram,322,99395,Glenelg,1,,8661
-Tram,322,99396,Glenelg,1,,8661
-Tram,322,99397,Glenelg,1,,8661
-Tram,322,99398,Glenelg,1,,8661
-Tram,322,99399,Glenelg,1,,8661
-Tram,322,99400,Glenelg,1,,8661
-Tram,322,99401,Glenelg,1,,8661
-Tram,322,99402,Glenelg,1,,8661
-Tram,322,99403,Glenelg,1,,8661
-Tram,322,99404,Glenelg,1,,8661
-Tram,322,99405,Glenelg,1,,8661
-Tram,322,99406,Glenelg,1,,8661
-Tram,322,99407,Glenelg,1,,8661
-Tram,322,99408,Glenelg,1,,8661
-Tram,322,99409,Glenelg,1,,8661
-Tram,322,99410,Glenelg,1,,8661
-Tram,322,99411,Glenelg,1,,8661
-Tram,322,99412,Glenelg,1,,8661
-Tram,322,99413,Glenelg,1,,8661
-Tram,322,99414,Glenelg,1,,8661
-Tram,322,99415,Glenelg,1,,8661
-Tram,322,99416,Glenelg,1,,8661
-Tram,322,99417,Glenelg,1,,8661
-Tram,322,99418,Glenelg,1,,8661
-Tram,322,99419,Glenelg,1,,8661
-Tram,322,99420,Glenelg,1,,8661
-Tram,322,99421,Glenelg,1,,8661
-Tram,322,99422,Glenelg,1,,8661
-Tram,322,99423,Glenelg,1,,8661
-Tram,322,99424,Glenelg,1,,8661
-Tram,322,99425,Glenelg,1,,8661
-Tram,322,99426,Glenelg,1,,8661
-Tram,322,99427,Glenelg,1,,8661
-Tram,322,99428,Glenelg,1,,8661
-Tram,322,99429,Glenelg,1,,8661
-Tram,322,99430,Glenelg,1,,8661
-Tram,322,99431,Glenelg,1,,8661
-Tram,320,99432,Entertainment Centre,1,,7474
-Tram,320,99433,Entertainment Centre,1,,8662
-Tram,320,99434,Entertainment Centre,1,,8662
-Tram,320,99435,Entertainment Centre,1,,8662
-Tram,320,99436,Entertainment Centre,1,,8662
-Tram,320,99437,Entertainment Centre,1,,8662
-Tram,320,99438,Entertainment Centre,1,,8662
-Tram,320,99439,Entertainment Centre,1,,8662
-Tram,320,99440,Entertainment Centre,1,,8662
-Tram,320,99441,Entertainment Centre,1,,8662
-Tram,320,99442,Entertainment Centre,1,,8662
-Tram,320,99443,Entertainment Centre,1,,8662
-Tram,320,99444,Entertainment Centre,1,,8662
-Tram,320,99445,Entertainment Centre,1,,8662
-Tram,320,99446,Entertainment Centre,1,,8662
-Tram,320,99447,Entertainment Centre,1,,8662
-Tram,320,99448,Entertainment Centre,1,,8662
-Tram,320,99449,Entertainment Centre,1,,8662
-Tram,320,99450,Entertainment Centre,1,,8662
-Tram,320,99451,Entertainment Centre,1,,8662
-Tram,320,99452,Entertainment Centre,1,,8662
-Tram,320,99453,Entertainment Centre,1,,8662
-Tram,320,99454,Entertainment Centre,1,,8662
-Tram,320,99455,Entertainment Centre,1,,8662
-Tram,320,99456,Entertainment Centre,1,,8662
-Tram,320,99457,Entertainment Centre,1,,8662
-Tram,320,99458,Entertainment Centre,1,,8662
-Tram,320,99459,Entertainment Centre,1,,8662
-Tram,320,99460,Entertainment Centre,1,,8662
-Tram,320,99461,Entertainment Centre,1,,8662
-Tram,320,99462,Entertainment Centre,1,,8662
-Tram,320,99463,Entertainment Centre,1,,8662
-Tram,320,99464,Entertainment Centre,1,,8662
-Tram,320,99465,Entertainment Centre,1,,8662
-Tram,320,99466,Entertainment Centre,1,,8662
-Tram,320,99467,Entertainment Centre,1,,8662
-Tram,320,99468,Entertainment Centre,1,,8662
-Tram,320,99469,Entertainment Centre,1,,8662
-Tram,320,99470,Entertainment Centre,1,,8662
-Tram,320,99471,Entertainment Centre,1,,8662
-Tram,320,99472,Entertainment Centre,1,,8662
-Tram,320,99473,Entertainment Centre,1,,8662
-Tram,320,99474,Entertainment Centre,1,,8662
-Tram,320,99475,Entertainment Centre,1,,8662
-Tram,320,99476,Entertainment Centre,1,,8662
-Tram,320,99477,Entertainment Centre,1,,8662
-Tram,320,99478,Entertainment Centre,1,,8662
-Tram,320,99479,Entertainment Centre,1,,8662
-Tram,320,99480,Entertainment Centre,1,,8662
-Tram,320,99481,Entertainment Centre,1,,8662
-Tram,320,99482,Entertainment Centre,1,,8662
-Tram,320,99483,Entertainment Centre,1,,8662
-Tram,320,99484,Entertainment Centre,1,,8662
-Tram,320,99485,Entertainment Centre,1,,8662
-Tram,320,99486,Entertainment Centre,1,,8662
-Tram,320,99487,Entertainment Centre,1,,8662
-Tram,320,99488,Entertainment Centre,1,,8662
-Tram,320,99489,Entertainment Centre,1,,8662
-Tram,320,99490,Entertainment Centre,1,,8662
-Tram,320,99491,Entertainment Centre,1,,8662
-Tram,320,99492,Entertainment Centre,1,,8662
-Tram,320,99493,Entertainment Centre,1,,8662
-Tram,320,99494,Entertainment Centre,1,,8662
-Tram,320,99495,Entertainment Centre,1,,8662
-Tram,320,99496,Entertainment Centre,1,,8662
-Tram,320,99497,Entertainment Centre,1,,8662
-Tram,320,99498,Entertainment Centre,1,,8662
-Tram,320,99499,Entertainment Centre,1,,8662
-Tram,320,99500,Entertainment Centre,1,,8662
-Tram,320,99501,Entertainment Centre,1,,8662
-Tram,320,99502,Entertainment Centre,1,,8662
-Tram,320,99503,Entertainment Centre,1,,8662
-Tram,320,99504,Entertainment Centre,1,,8662
-Tram,320,99505,Entertainment Centre,1,,8662
-Tram,320,99506,Entertainment Centre,1,,8662
-Tram,320,99507,Entertainment Centre,1,,8662
-Tram,320,99508,Entertainment Centre,1,,8662
-Tram,320,99509,Entertainment Centre,1,,8662
-Tram,320,99510,Entertainment Centre,1,,8636
-Tram,320,99511,Entertainment Centre,1,,8636
-Tram,320,99512,Entertainment Centre,1,,8636
-Tram,320,99513,Entertainment Centre,1,,8636
-Tram,320,99514,Entertainment Centre,1,,8636
-Tram,320,99515,Entertainment Centre,1,,8636
-Tram,320,99516,Entertainment Centre,1,,8636
-Tram,320,99517,Entertainment Centre,1,,8636
-Tram,320,99518,Entertainment Centre,1,,8636
-Tram,320,99519,Entertainment Centre,1,,8636
-Tram,320,99520,Entertainment Centre,1,,8636
-Tram,320,99521,Entertainment Centre,1,,8636
-Tram,320,99522,Entertainment Centre,1,,8636
-Tram,320,99523,Entertainment Centre,1,,8636
-Tram,320,99524,Entertainment Centre,1,,8636
-Tram,320,99525,Entertainment Centre,1,,8636
-Tram,320,99526,Entertainment Centre,1,,8636
-Tram,320,99527,Entertainment Centre,1,,8636
-Tram,320,99528,Entertainment Centre,1,,8636
-Tram,320,99529,Entertainment Centre,1,,8636
-Tram,320,99530,Entertainment Centre,1,,8636
-Tram,320,99531,Entertainment Centre,1,,8636
-Tram,320,99532,Entertainment Centre,1,,8636
-Tram,320,99533,Entertainment Centre,1,,8636
-Tram,320,99534,Entertainment Centre,1,,8636
-Tram,320,99535,Entertainment Centre,1,,8636
-Tram,320,99536,Entertainment Centre,1,,8636
-Tram,320,99537,Entertainment Centre,1,,8636
-Tram,320,99538,Entertainment Centre,1,,8636
-Tram,320,99539,Entertainment Centre,1,,8636
-Tram,320,99540,Entertainment Centre,1,,8636
-Tram,320,99541,Entertainment Centre,1,,8636
-Tram,320,99542,Entertainment Centre,1,,8636
-Tram,320,99543,Entertainment Centre,1,,8636
-Tram,320,99544,Entertainment Centre,1,,8636
-Tram,320,99545,Entertainment Centre,1,,8636
-Tram,322,99546,Entertainment Centre,1,,8636
-Tram,322,99547,Entertainment Centre,1,,8636
-Tram,322,99548,Entertainment Centre,1,,8636
-Tram,322,99549,Entertainment Centre,1,,8636
-Tram,322,99550,Entertainment Centre,1,,8636
-Tram,322,99551,Entertainment Centre,1,,8636
-Tram,322,99552,Entertainment Centre,1,,8636
-Tram,322,99553,Entertainment Centre,1,,8636
-Tram,322,99554,Entertainment Centre,1,,8636
-Tram,322,99555,Entertainment Centre,1,,8636
-Tram,322,99556,Entertainment Centre,1,,8636
-Tram,322,99557,Entertainment Centre,1,,8636
-Tram,322,99558,Entertainment Centre,1,,8636
-Tram,322,99559,Entertainment Centre,1,,8636
-Tram,322,99560,Entertainment Centre,1,,8636
-Tram,322,99561,Entertainment Centre,1,,8636
-Tram,322,99562,Entertainment Centre,1,,8636
-Tram,322,99563,Entertainment Centre,1,,8636
-Tram,322,99564,Entertainment Centre,1,,8636
-Tram,322,99565,Entertainment Centre,1,,8636
-Tram,322,99566,Entertainment Centre,1,,8636
-Tram,322,99567,Entertainment Centre,1,,8636
-Tram,322,99568,Entertainment Centre,1,,8636
-Tram,322,99569,Entertainment Centre,1,,8636
-Tram,322,99570,Entertainment Centre,1,,8662
-Tram,322,99571,Entertainment Centre,1,,8662
-Tram,322,99572,Entertainment Centre,1,,8662
-Tram,322,99573,,1,,9578
-Tram,322,99574,Entertainment Centre,1,,8662
-Tram,322,99575,Entertainment Centre,1,,8662
-Tram,322,99576,,1,,9578
-Tram,322,99577,,1,,9578
-Tram,322,99578,Entertainment Centre,1,,8662
-Tram,322,99579,,1,,9578
-Tram,322,99580,,1,,9578
-Tram,322,99581,Entertainment Centre,1,,8662
-Tram,322,99582,Entertainment Centre,1,,8662
-Tram,322,99583,,1,,9578
-Tram,322,99584,Entertainment Centre,1,,8662
-Tram,322,99585,Entertainment Centre,1,,8662
-Tram,322,99586,Entertainment Centre,1,,8662
-Tram,322,99587,Entertainment Centre,1,,8662
-Tram,322,99588,Entertainment Centre,1,,8662
-Tram,322,99589,Entertainment Centre,1,,8662
-Tram,322,99590,Entertainment Centre,1,,8662
-Tram,322,99591,Entertainment Centre,1,,8662
-Tram,322,99592,Entertainment Centre,1,,8662
-Tram,322,99593,Entertainment Centre,1,,8662
-Tram,322,99594,Entertainment Centre,1,,8662
-Tram,322,99595,Entertainment Centre,1,,8662
-Tram,322,99596,Entertainment Centre,1,,8662
-Tram,322,99597,Entertainment Centre,1,,8662
-Tram,322,99598,Entertainment Centre,1,,8662
-Tram,322,99599,Entertainment Centre,1,,8662
-Tram,322,99600,Entertainment Centre,1,,8662
-Tram,322,99601,Entertainment Centre,1,,8662
-Tram,322,99602,Entertainment Centre,1,,8662
-Tram,322,99603,Entertainment Centre,1,,8662
-Tram,322,99604,Entertainment Centre,1,,8662
-Tram,322,99605,Entertainment Centre,1,,8662
-Tram,322,99606,Entertainment Centre,1,,8662
-Tram,322,99607,Entertainment Centre,1,,8662
-Tram,322,99608,Entertainment Centre,1,,8662
-Tram,322,99609,Entertainment Centre,1,,8662
-Tram,322,99610,Entertainment Centre,1,,8662
-Tram,322,99611,Entertainment Centre,1,,8662
-Tram,322,99612,Entertainment Centre,1,,8662
-Tram,322,99613,Entertainment Centre,1,,8662
-Tram,322,99614,Entertainment Centre,1,,8662
-Tram,322,99615,Entertainment Centre,1,,8662
-Tram,322,99616,Entertainment Centre,1,,8662
-Tram,322,99617,Entertainment Centre,1,,8662
-Tram,322,99618,Entertainment Centre,1,,8662
-Tram,322,99619,Entertainment Centre,1,,8662
-Tram,322,99620,Entertainment Centre,1,,8662
-Tram,322,99621,Entertainment Centre,1,,8662
-Tram,322,99622,Entertainment Centre,1,,8662
-Tram,322,99623,Entertainment Centre,1,,8662
-Tram,322,99624,Entertainment Centre,1,,8662
-Tram,322,99625,Entertainment Centre,1,,8662
-Tram,322,99626,Entertainment Centre,1,,8662
-Tram,322,99627,Entertainment Centre,1,,8662
-Tram,322,99628,Entertainment Centre,1,,8662
-Tram,322,99629,Entertainment Centre,1,,8662
-Tram,322,99630,Entertainment Centre,1,,8662
-Tram,322,99631,Entertainment Centre,1,,8662
-Tram,322,99632,Entertainment Centre,1,,8662
-Tram,322,99633,Entertainment Centre,1,,8662
-Tram,322,99634,Entertainment Centre,1,,8662
-Tram,322,99635,Entertainment Centre,1,,8662
-Tram,322,99636,,1,,9578
-Tram,322,99637,Entertainment Centre,1,,8662
-Tram,322,99638,Entertainment Centre,1,,8662
-Tram,322,99639,Entertainment Centre,1,,8662
-Tram,322,99640,,1,,9578
-Tram,322,99641,Entertainment Centre,1,,8662
-Tram,322,99642,Entertainment Centre,1,,8662
-Tram,322,99643,Entertainment Centre,1,,8662
-Tram,322,99644,Entertainment Centre,1,,8662
-Tram,322,99645,Entertainment Centre,1,,8662
-Tram,322,99646,Entertainment Centre,1,,8662
-Tram,322,99647,Entertainment Centre,1,,8662
-Tram,322,99648,Entertainment Centre,1,,8662
-Tram,322,99649,,1,,9578
-Tram,322,99650,,1,,9578
-Tram,322,99651,,1,,9578
-Tram,322,99652,,1,,9578
-Tram,322,99653,,1,,9578
-Tram,322,99654,,1,,9578
-Belair,320,99655,City,0,,1137
-Belair,320,99656,City,0,,1137
-Belair,320,99657,City,0,,1137
-Belair,322,99658,City,0,,1137
-Belair,322,99659,City,0,,1137
-Belair,322,99660,City,0,,1137
-Belair,322,99661,City,0,,1137
-Belair,322,99662,City,0,,1137
-Belair,322,99663,City,0,,1137
-Belair,322,99664,City,0,,1137
-Belair,322,99665,City,0,,1137
-Belair,320,99666,Belair,1,,1143
-Belair,320,99667,Belair,1,,1143
-Belair,322,99668,Belair,1,,1143
-Belair,322,99669,Belair,1,,1143
-Belair,322,99670,Belair,1,,1143
-Belair,322,99671,Belair,1,,1143
-Belair,322,99672,Belair,1,,1143
-Belair,322,99673,Belair,1,,1143
-Belair,322,99674,Belair,1,,1143
-Belair,322,99675,Belair,1,,1143
-117,320,99676,City ,0,53213N,7669
-117,322,99677,City ,0,51259N,7669
-117,322,99678,,0,52257N,6199
-117,322,99679,Port Adelaide,1,52254N,9221
-117,322,99680,Port Adelaide,1,52247N,9221
-117,322,99681,Port Adelaide,1,52250N,9221
-118,322,99682,City ,0,52247N,7664
-118,322,99683,City ,0,52250N,7664
-118,322,99684,Port Adelaide,1,53213N,9220
-118,322,99685,Port Adelaide,1,51259N,9220
-118,322,99686,Port Adelaide,1,52257N,9220
-141,322,99687,City,0,53213N,7671
-141,322,99688,City,0,51259N,7671
-141,322,99689,Stonyfell,1,53213N,9226
-141,322,99690,Stonyfell,1,51259N,9226
-142,320,99691,City ,0,52254N,7675
-142,322,99692,City ,0,52247N,7675
-142,322,99693,City ,0,52250N,7675
-142,322,99694,Burnside,1,52247N,9227
-142,322,99695,Burnside,1,52250N,9227
-144,320,99696,City,0,52247N,9277
-144,322,99697,City,0,52242N,9277
-144,322,99698,City,0,52243N,9277
-144,322,99699,City,0,52257N,9277
-144,322,99700,City,0,51256N,9277
-144,322,99701,City,0,54236N,9277
-144,322,99702,Glen Osmond,1,52243N,9278
-144,322,99703,Glen Osmond,1,52257N,9278
-144,322,99704,Glen Osmond,1,51256N,9278
-144,322,99705,Glen Osmond,1,54236N,9278
-147,320,99706,City,0,51256N,9598
-147,322,99707,City,0,53214N,9598
-147,322,99708,City,0,52250N,9598
-147,322,99709,City,0,53214N,9598
-147,322,99710,City,0,52251N,9598
-147,322,99711,Beaumont,1,52255N,8125
-147,322,99712,Beaumont,1,52250N,8125
-147,322,99713,Beaumont,1,53214N,8125
-147,322,99714,Beaumont,1,52251N,8125
-147,322,99715,Beaumont,1,53214N,8125
-150,320,99716,City ,0,52255N,7700
-150,322,99717,City ,0,52250N,7700
-150,322,99718,City ,0,53214N,7700
-150,322,99719,City ,0,52251N,7700
-150,322,99720,City ,0,53214N,7700
-150P,322,99721,Port Adelaide,1,51256N,7705
-150P,322,99722,Port Adelaide,1,53214N,7705
-150P,322,99723,Port Adelaide,1,52250N,7705
-150P,322,99724,Port Adelaide,1,53214N,7705
-150P,322,99725,Port Adelaide,1,52251N,7705
-155,322,99726,City,0,53218N,3458
-155,322,99727,West Lakes,1,51256N,9581
-155,322,99728,West Lakes,1,54236N,9581
-157,320,99729,City ,0,52243N,7710
-157,322,99730,City ,0,52257N,7710
-157,322,99731,City ,0,51256N,7710
-157,322,99732,City ,0,54236N,7710
-157,320,99733,Largs North ,1,52247N,5348
-157,322,99734,Largs North ,1,52242N,5348
-157,322,99735,Largs North ,1,52243N,5348
-157,322,99736,Largs North ,1,52257N,5348
-167,320,99737,City,0,51261N,8497
-167,322,99738,City,0,54233N,8497
-167,322,99739,City,0,51254N,8497
-167,322,99740,City,0,54233N,8497
-167,320,99741,City,1,51261N,5353
-167,322,99742,City,1,51254N,9196
-167,322,99743,City,1,53212N,9196
-167,322,99744,City,1,51261N,9196
-167,322,99745,City,1,54238N,9196
-168,320,99746,City,0,51258N,5357
-168,322,99747,City,0,53212N,5357
-168,322,99748,City,0,53211N,5357
-168,322,99749,City,0,54237N,5357
-168,322,99750,City,0,54235N,8500
-168,322,99751,Glenelg Interchange ,1,54229N,9198
-168,322,99752,Glenelg Interchange ,1,54232N,9198
-168,322,99753,Glenelg Interchange ,1,54233N,9198
-168,322,99754,Glenelg Interchange ,1,54237N,9198
-171,320,99755,City,0,54229N,7730
-171,322,99756,City,0,51254N,7730
-171,322,99757,City,0,54232N,7730
-171,322,99758,City,0,53212N,7730
-171,322,99759,City,0,54233N,7730
-171,322,99760,City,0,51261N,7730
-171,322,99761,City,0,54237N,7730
-171,322,99762,City,0,54238N,7730
-171,320,99763,Mitcham Square ,1,51258N,8494
-171,322,99764,Mitcham Square ,1,51261N,8494
-171,322,99765,Mitcham Square ,1,53212N,8494
-171,322,99766,Mitcham Square ,1,54233N,8494
-171,322,99767,Mitcham Square ,1,53211N,8494
-171,322,99768,Mitcham Square ,1,51254N,8494
-171,322,99769,Mitcham Square ,1,54237N,8494
-171,322,99770,Mitcham Square ,1,54233N,8494
-172,322,99771,City ,0,54235N,7734
-172,322,99772,City ,0,54234N,7734
-172,322,99773,City ,0,54239N,7734
-172,322,99774,City ,0,51252N,7734
-172,322,99775,Kingswood ,1,54237N,6836
-172,322,99776,Kingswood ,1,54234N,6836
-172,322,99777,Kingswood ,1,54239N,6836
-172,322,99778,Kingswood ,1,54238N,6836
-172,322,99779,Kingswood ,1,54234N,6836
-174,320,99780,City,0,54238N,6838
-174,320,99781,City,0,51247N,6838
-174,320,99782,City,0,53211N,6838
-174,322,99783,City,0,54231N,6838
-174,322,99784,City,0,54230N,6838
-174,322,99785,City,0,51248N,6838
-174,322,99786,City,0,53217N,6838
-174,322,99787,City,0,54235N,6838
-174,322,99788,City,0,51255N,6838
-174,322,99789,City,0,51258N,6838
-174,322,99790,City,0,52255N,6838
-174,322,99791,City,0,54239N,6838
-174,322,99792,Paradise ,1,54230N,8429
-174,322,99793,Paradise ,1,54238N,8429
-174,322,99794,Paradise ,1,53218N,8429
-174,322,99795,Paradise ,1,51247N,8429
-174,322,99796,Paradise ,1,51255N,8429
-174,322,99797,Paradise ,1,51258N,8429
-174,322,99798,Paradise ,1,51248N,8429
-174,322,99799,Paradise ,1,53217N,8429
-174,322,99800,Paradise ,1,51261N,8429
-174,322,99801,Paradise ,1,51255N,8429
-174,322,99802,Paradise ,1,51258N,8429
-178,320,99803,City,0,53324N,7823
-178,322,99804,City ,0,54237N,8523
-178,322,99805,City ,0,54234N,8522
-178,322,99806,City ,0,54239N,8522
-178,322,99807,City ,0,54238N,8522
-178,322,99808,City ,0,54234N,8522
-178,322,99809,City,0,53217N,7823
-178,322,99810,Paradise,1,51248N,7816
-178,322,99811,Paradise,1,54235N,7816
-178,322,99812,Paradise,1,54234N,7816
-178,322,99813,Paradise,1,54239N,7816
-178S,322,99814,Newton ,1,51252N,7742
-222,320,99815,City,0,44187D,7021
-222,320,99816,City,0,4475D,7021
-222,320,99817,City,0,4401D,7021
-222,320,99818,City,0,44187D,7021
-222,320,99819,City,0,4473D,7021
-222,320,99820,City,0,4305D,7021
-222,322,99821,Mawson Lakes,1,4427D,7764
-222,322,99822,Mawson Lakes,1,4471D,7764
-222,322,99823,Mawson Lakes,1,4481D,7764
-222,322,99824,Mawson Lakes,1,4425D,7764
-224,320,99825,City,0,44137D,9164
-224,320,99826,City,0,44193D,9164
-224,320,99827,City,0,4419D,9164
-224,322,99828,City,0,4405D,9164
-224,322,99829,City,0,4425D,9164
-224,322,99830,City,0,4477D,9164
-224,322,99831,City,0,4423D,9164
-224,322,99832,Elizabeth Interchange,1,4423D,9052
-224,322,99833,Elizabeth Interchange,1,4403D,9052
-224,322,99834,Elizabeth Interchange,1,4411D,9052
-224,322,99835,Elizabeth Interchange,1,4409D,9052
-224,322,99836,Elizabeth Interchange,1,4419D,9052
-224,322,99837,Elizabeth Interchange,1,4421D,9052
-224,322,99838,Elizabeth Interchange,1,4423D,9052
-228,320,99839,City,0,4403D,9179
-228,320,99840,City,0,44185D,9179
-228,320,99841,City,0,4423D,9179
-228,322,99842,City,0,4409D,9179
-228,322,99843,City,0,4415D,9179
-228,322,99844,City,0,4421D,9179
-228,322,99845,Smithfield,1,4429D,9180
-228,322,99846,Smithfield,1,4421D,9180
-228,322,99847,Smithfield,1,4477D,9180
-228,322,99848,Smithfield,1,4401D,9180
-228,322,99849,Smithfield,1,4407D,9180
-228,322,99850,Smithfield,1,4415D,9180
-228,322,99851,Smithfield,1,4425D,9582
-228,322,99852,Smithfield,1,4429D,9582
-229,320,99853,,0,44149D,8603
-229,320,99854,,0,44183D,8603
-229,320,99855,,0,4477D,8603
-229,320,99856,,0,44151D,8603
-229,322,99857,,1,4481D,8606
-229,322,99858,,1,4473D,8606
-229,322,99859,,1,4405D,8606
-229,322,99860,Para Hills,1,4475D,6044
-229,322,99861,Para Hills,1,4481D,6044
-229,322,99862,Para Hills,1,4481D,6044
-281,320,99863,City ,0,51260N,8477
-281,322,99864,City ,0,51249N,8477
-281,322,99865,City ,0,51253N,8477
-281,322,99866,City ,0,52251N,8477
-281,322,99867,City ,0,53216N,8477
-281,322,99868,City ,0,51249N,8477
-281,322,99869,City ,0,53216N,8477
-281,320,99870,Paradise ,1,51260N,8479
-281,322,99871,Paradise ,1,53217N,8479
-281,322,99872,Paradise ,1,52251N,8479
-281,322,99873,Paradise ,1,51260N,8479
-281,322,99874,Paradise ,1,51249N,8479
-281,322,99875,Paradise ,1,51253N,8479
-281,322,99876,Paradise ,1,53216N,8479
-281,322,99877,Paradise ,1,51249N,8479
-287,320,99878,City,0,51260N,3513
-287,320,99879,City,0,53217N,3513
-287,322,99880,City,0,52251N,3513
-287,322,99881,City,0,51260N,3513
-287,322,99882,City,0,51249N,3513
-287,322,99883,City,0,51253N,3513
-287,322,99884,City,0,53216N,3513
-287,322,99885,City,0,51249N,3513
-287,322,99886,Henley Beach  ,1,51260N,8484
-287,322,99887,Henley Beach  ,1,51249N,8484
-287,322,99888,Henley Beach  ,1,51253N,8484
-287,322,99889,Henley Beach  ,1,52251N,8484
-287,322,99890,Henley Beach  ,1,53216N,8484
-287,322,99891,Henley Beach  ,1,51249N,8484
-287,322,99892,Henley Beach  ,1,53216N,8484
-400,322,99893,,0,4407D,8604
-400,322,99894,,0,4427D,8604
-400,322,99895,,0,4479D,8604
-400,322,99896,,0,4413D,8604
-401,322,99897,,0,4475D,8605
-401,322,99898,,0,4479D,8605
-401,322,99899,,0,4475D,8605
-401,322,99900,,0,4479D,8605
-411,322,99901,Mawson,0,4427D,9284
-411,322,99902,Mawson,0,4413D,9284
-411,322,99903,Mawson,0,4481D,9284
-411,322,99904,Mawson,0,4429D,9284
-411B,322,99905,Salisbury,1,4479D,9290
-411B,322,99906,Salisbury,1,4475D,9290
-411B,322,99907,Salisbury,1,4413D,9290
-411B,322,99908,Salisbury,1,4405D,9290
-411B,322,99909,Salisbury,1,4429D,9290
-415,322,99910,Salisbury,0,44098D,6068
-443,322,99911,Elizabet Station Loop,0,4417D,6993
-443,322,99912,Elizabet Station Loop,0,4417D,6993
-443,322,99913,Elizabet Station Loop,0,4417D,6993
-443,322,99914,Elizabet Station Loop,0,4427D,6993
-443,322,99915,Elizabet Station Loop,0,4427D,6993
-451,322,99916,Elizabeth Interchange,0,4415D,7791
-451,322,99917,Elizabeth Interchange,0,4429D,7791
-451,322,99918,Elizabeth Interchange,0,4403D,7791
-451,322,99919,Elizabeth Interchange,0,4411D,7791
-451,322,99920,Elizabeth Interchange,0,4417D,7791
-451,322,99921,Munno Para Centre Interchange,1,4429D,7794
-451,322,99922,Munno Para Centre Interchange,1,4403D,7794
-451,322,99923,Munno Para Centre Interchange,1,4411D,7794
-451,322,99924,Munno Para Centre Interchange,1,4417D,7794
-451,322,99925,Munno Para Centre Interchange,1,4413D,7794
-681A,322,99926,Aroona Rd 47,0,4365D,9236
-681A,322,99927,Aroona Rd 47,0,4365D,9236
-681A,322,99928,Aroona Rd 47,0,4325D,9236
-681A,322,99929,Aroona Rd 47,0,4337D,9236
-682,322,99930,Sheidow Park,0,4333D,851
-682,322,99931,Sheidow Park,0,4325D,851
-682,322,99932,Sheidow Park,0,4329D,851
-682,322,99933,Sheidow Park,0,4321D,851
-720H,320,99934,City ,0,4307D,9003
-720H,322,99935,City ,0,4319D,9003
-720H,322,99936,City ,0,4357D,9003
-720H,322,99937,City ,0,4335D,9003
-720H,322,99938,Old Reynella,1,4345D,9000
-720H,322,99939,Old Reynella,1,4307D,9000
-720H,322,99940,Old Reynella,1,4351D,9000
-720H,322,99941,Old Reynella,1,4419D,9000
-720H,322,99942,Old Reynella,1,4319D,9000
-720H,322,99943,Old Reynella,1,4327D,9000
-720H,322,99944,Old Reynella,1,4393D,9000
-720H,322,99945,Old Reynella,1,4331D,9000
-721,320,99946,City,0,4381D,9012
-721,320,99947,City,0,43151D,9012
-721,320,99948,City,0,4309D,9012
-721,320,99949,City,0,4387D,9012
-721,320,99950,City,0,43159D,9012
-721,320,99951,City,0,43155D,9012
-721,320,99952,City,0,4315D,9012
-721,320,99953,City,0,4327D,9012
-721,320,99954,City,0,4391D,9012
-721,320,99955,City,0,4389D,9012
-721,320,99956,City,0,4329D,9012
-721,320,99957,City,0,4343D,9012
-721,320,99958,City,0,4353D,9012
-721,322,99959,City,0,4361D,9012
-721,322,99960,City,0,4393D,9012
-721,322,99961,City,0,4331D,9012
-721,322,99962,City,0,4341D,9012
-721,322,99963,City,0,4353D,9012
-721,322,99964,City,0,4361D,9012
-721,322,99965,City,0,4357D,9012
-721,322,99966,Noarlunga,1,4343D,9038
-721,322,99967,Noarlunga,1,4305D,9038
-721,322,99968,Noarlunga,1,4317D,9038
-721,322,99969,Noarlunga,1,4337D,9038
-721,322,99970,Noarlunga,1,4315D,9038
-721,322,99971,Noarlunga,1,4361D,9038
-721,322,99972,Noarlunga,1,4349D,9038
-721,322,99973,Noarlunga,1,4335D,9038
-721,322,99974,Noarlunga,1,4341D,9038
-721,322,99975,Noarlunga,1,4353D,9038
-721,322,99976,Noarlunga,1,4361D,9038
-721A,322,99977,,0,4351D,6111
-722,320,99978,City,0,43143D,9046
-722,320,99979,City,0,4307D,9046
-722,320,99980,City,0,4383D,9046
-722,320,99981,City,0,4321D,9046
-722,320,99982,City,0,4393D,9046
-722,320,99983,City,0,4397D,9046
-722,322,99984,Old Reynella,0,4347D,8918
-722,322,99985,Noarlunga Centre Interchange,1,4301D,9072
-722,322,99986,Noarlunga Centre Interchange,1,4389D,9072
-722,322,99987,Noarlunga Centre Interchange,1,4329D,9072
-722,322,99988,Noarlunga Centre Interchange,1,4353D,9072
-722,322,99989,Noarlunga Centre Interchange,1,4321D,9072
-722,322,99990,Noarlunga Centre Interchange,1,4359D,9072
-722,322,99991,Noarlunga ,1,4337D,8922
-722,322,99992,Noarlunga ,1,4345D,8922
-722,322,99993,Noarlunga ,1,4347D,8922
-722,322,99994,Noarlunga ,1,4345D,8922
-722,322,99995,Noarlunga ,1,4365D,8922
-722A,322,99996,Old Reynella ,0,4313D,8940
-722A,322,99997,Old Reynella ,0,4335D,8940
-722A,322,99998,Old Reynella ,0,4337D,8940
-722A,322,99999,Old Reynella ,0,4321D,8940
-722A,322,100000,Old Reynella ,0,4325D,8940
-722A,322,100001,Old Reynella ,0,4343D,8940
-722A,322,100002,Old Reynella ,0,4365D,8940
-724A,322,100003,Old Reynella,0,4341D,9589
-724A,322,100005,Old Reynella,0,4359D,9589
-724A,322,100006,Old Reynella,0,4349D,9589
-724A,322,100007,Old Reynella,0,4329D,9589
-724A,322,100008,Old Reynella,0,4355D,9589
-724A,322,100009,Old Reynella,0,4339D,9589
-724A,322,100010,Old Reynella,0,4345D,9589
-724A,322,100011,Old Reynella,0,4363D,9589
-725,322,100012,Noarlunga ,1,4335D,967
-725,322,100013,Noarlunga ,1,4325D,967
-725,322,100014,Noarlunga ,1,4395D,967
-725,322,100015,Noarlunga ,1,4351D,967
-725,322,100016,Noarlunga ,1,4363D,967
-725,322,100017,Noarlunga ,1,4323D,967
-725,322,100018,Noarlunga ,1,4393D,967
-725,322,100019,Noarlunga ,1,4339D,967
-725,322,100020,Noarlunga ,1,4343D,967
-725,322,100021,Noarlunga ,1,4363D,967
-725A,322,100022,Old Reynella,0,4357D,970
-725A,322,100023,Old Reynella,0,4395D,970
-725A,322,100024,Old Reynella,0,4311D,970
-725A,322,100025,Old Reynella,0,4363D,970
-725A,322,100026,Old Reynella,0,4359D,970
-725A,322,100027,Old Reynella,0,4347D,970
-725A,322,100028,Old Reynella,0,4349D,970
-725A,322,100029,Old Reynella,0,4341D,970
-733,320,100030,Glenelg,0,43139D,9590
-733,320,100031,Glenelg,0,43125D,9590
-733,320,100032,Glenelg,0,4389D,9590
-733,320,100033,Glenelg,0,4323D,9590
-733,320,100034,Glenelg,0,4313D,9591
-733,320,100035,Glenelg,0,4331D,9591
-733,320,100036,Glenelg,0,4337D,9591
-733,322,100037,Noarlunga,1,4385D,9592
-733,322,100038,Noarlunga,1,4309D,9592
-733,322,100039,Noarlunga,1,4387D,9592
-733,322,100040,Noarlunga,1,4363D,9592
-733,322,100041,Noarlunga,1,4345D,9592
-733,322,100042,Noarlunga,1,4333D,9592
-733,322,100043,Noarlunga,1,4357D,9592
-733,322,100044,Noarlunga,1,4333D,9322
-733,322,100045,Noarlunga,1,4365D,9322
-733,322,100046,Noarlunga,1,4355D,9322
-733,322,100047,Noarlunga,1,4359D,9322
-733C,322,100048,Woodcroft ,0,4325D,8305
-733G,322,100049,Happy Valley,0,4327D,9270
-733G,322,100050,Happy Valley,0,4339D,9270
-733G,322,100051,Happy Valley,0,4323D,9270
-733G,322,100052,Happy Valley,0,4333D,9270
-733G,322,100053,Happy Valley,0,4365D,9270
-733G,322,100054,Happy Valley,0,4355D,9270
-733G,322,100055,Happy Valley,0,4359D,9270
-734,320,100056,Glenelg,0,43296D,9593
-734,320,100057,Glenelg,0,43234D,9593
-734,320,100058,Glenelg,0,43147D,9593
-734,320,100059,Glenelg,0,43294D,9593
-734,320,100060,Glenelg,0,43157D,9593
-734,320,100061,Glenelg,0,43161D,9593
-734,320,100062,Glenelg,0,4339D,9593
-734,320,100063,,0,4323D,8613
-734,320,100064,,0,4333D,8613
-734,320,100065,Noarlunga ,1,43149D,9193
-734,320,100066,Noarlunga ,1,4323D,9193
-734,322,100067,,1,4311D,8614
-734,322,100068,,1,4303D,8614
-734,322,100069,,1,4323D,8614
-734,322,100070,,1,4355D,8614
-734,322,100071,,1,4313D,8614
-734,322,100072,,1,4347D,8614
-734,322,100073,,1,4339D,8614
-734,322,100074,Noarlunga,1,4355D,8966
-734,322,100075,Noarlunga,1,4359D,8966
-734,322,100076,Noarlunga,1,4349D,8966
-740,322,100077,Seaford,1,4381D,7657
-740,322,100078,Seaford,1,4389D,7657
-740,322,100079,Seaford,1,4351D,7657
-740,322,100080,Seaford,1,4363D,7657
-740,322,100081,Seaford,1,4393D,7657
-743,322,100082,Hackham West Circuit Anti-clockwise,1,4391D,7126
-743,322,100083,Hackham West Circuit Anti-clockwise,1,4343D,7126
-743,322,100084,Hackham West Circuit Anti-clockwise,1,4363D,7126
-743,322,100085,Hackham West Circuit Anti-clockwise,1,4343D,7126
-743,322,100086,Hackham West Circuit Anti-clockwise,1,4363D,7126
-743,322,100087,Hackham West Circuit Anti-clockwise,1,4347D,7126
-747A,322,100088,Noarlunga-Seaford Circuit Clockwise ,0,4349D,5042
-747A,322,100089,Noarlunga-Seaford Circuit Clockwise ,0,4343D,5042
-747A,322,100090,Noarlunga-Seaford Circuit Clockwise ,0,4395D,5042
-747A,322,100091,Noarlunga-Seaford Circuit Clockwise ,0,4397D,5042
-747A,322,100092,Noarlunga-Seaford Circuit Clockwise ,0,4351D,5042
-747A,322,100093,Noarlunga-Seaford Circuit Clockwise ,0,4351D,5042
-749,322,100094,Aldinga Beach,1,4385D,8952
-749,322,100095,Aldinga Beach,1,4387D,8952
-749,322,100096,Aldinga Beach,1,4395D,8952
-749,322,100097,Aldinga Beach,1,4397D,8952
-753,322,100098,Willunga,1,4397D,7692
-753,322,100099,Willunga,1,4391D,7692
-864,320,100100,City,0,52071,9594
-864,320,100101,City,0,52073,9594
-864,320,100102,City,0,52075,9594
-864,320,100103,City,0,52071,9594
-864,322,100104,Mount Barker,1,52077,9595
-864,322,100105,Mount Barker,1,52073,9595
-864,322,100106,Mount Barker,1,52079,9595
-864,322,100107,Mount Barker,1,52075,9595
-864,322,100108,Mount Barker,1,52077,9595
-864,322,100109,Mount Barker,1,52073,9595
-864,322,100110,Mount Barker,1,52079,9595
-864,322,100111,Mount Barker,1,52075,9595
-864,322,100112,Mount Barker,1,52077,9595
-864,322,100113,Mount Barker,1,52079,9595
-864,322,100114,Mount Barker,1,52077,9595
-B10,322,100115,Magill,1,52248N,7547
-B10,322,100116,Magill,1,52245N,7547
-B10,322,100117,Magill,1,52253N,7547
-B10,322,100118,Magill,1,51257N,7547
-B10,322,100119,Magill,1,52248N,7547
-B10,322,100120,Magill,1,52256N,7547
-B10,322,100121,Magill,1,52253N,7547
-B10,322,100122,Magill,1,51250N,7547
-B10,322,100123,Magill,1,51259N,7547
-B10,322,100124,West Lakes,0,53209N,7548
-B10,322,100125,West Lakes,0,52256N,7548
-B10,322,100126,West Lakes,0,52248N,7548
-B10,322,100127,West Lakes,0,52245N,7548
-B10,322,100128,West Lakes,0,52253N,7548
-B10,322,100129,West Lakes,0,51257N,7548
-B10,322,100130,West Lakes,0,52248N,7548
-B10,322,100131,West Lakes,0,52256N,7548
-B10,322,100132,West Lakes,0,52253N,7548
-H20,320,100133,Paradise ,1,53216N,7565
-H20,322,100134,Paradise ,1,51250N,7565
-H20,322,100135,Paradise ,1,51245N,7565
-H20,322,100136,Paradise ,1,52255N,7565
-H20,322,100137,Paradise ,1,51254N,7565
-H20,322,100138,Paradise ,1,51260N,7565
-H20,320,100139,Glenelg,0,54236N,9310
-H20,320,100140,Glenelg,0,53218N,9310
-H20,322,100141,Glenelg,0,51245N,9310
-H20,322,100142,Glenelg,0,52246N,9310
-H20,322,100143,Glenelg,0,51252N,9310
-H20,322,100144,Glenelg,0,51260N,9310
-H20,322,100145,Glenelg,0,54240N,9310
-H22,320,100146,Wattle Park,1,54237N,7575
-H22,320,100147,Wattle Park,1,54239N,7575
-H22,322,100148,Wattle Park,1,52252N,7575
-H22,322,100149,Wattle Park,1,53215N,7575
-H22,322,100150,Wattle Park,1,52252N,7575
-H22,322,100151,Wattle Park,1,53215N,7575
-H22,322,100152,Henley  Beach,0,53215N,9314
-H22,322,100153,Henley  Beach,0,52252N,9314
-H22,322,100154,Henley  Beach,0,53215N,9314
-H22,322,100155,Henley  Beach,0,52252N,9314
-H22C,320,100156,Henley Beach,0,51257N,9596
-H30,320,100157,Paradise,1,52246N,7586
-H30,322,100158,Paradise,1,51251N,7586
-H30,322,100159,Paradise,1,51252N,7586
-H30,322,100160,Paradise,1,51246N,7586
-H30,322,100161,Paradise,1,52249N,7586
-H30,322,100162,Paradise,1,52254N,7586
-H30,322,100163,Paradise,1,54240N,7586
-H30,322,100164,Paradise,1,51251N,7586
-H30,322,100165,Paradise,1,51257N,7586
-H30,322,100166,Paradise,1,51256N,7586
-H30,322,100167,West Lakes,0,52249N,7585
-H30,322,100168,West Lakes,0,52244N,7585
-H30,322,100169,West Lakes,0,54240N,7585
-H30,322,100170,West Lakes,0,51251N,7585
-H30,322,100171,West Lakes,0,51250N,7585
-H30,322,100172,West Lakes,0,53218N,7585
-H30,322,100173,West Lakes,0,52249N,7585
-H30,322,100174,West Lakes,0,52254N,7585
-H31,320,100175,Rostrevor,1,53210N,7608
-H31,322,100176,City ,1,54236N,7611
-H31,322,100177,City ,1,53213N,7611
-H31,322,100178,City ,1,51253N,7611
-H31,322,100179,City ,1,51253N,7611
-H31,320,100180,Henley Beach,0,53210N,7606
-H31C,320,100181,City ,0,54232N,7612
-H31C,322,100182,City ,0,53210N,7612
-H31C,322,100183,City ,0,54236N,7612
-H31C,322,100184,City ,0,53213N,7612
-H31C,322,100185,City ,0,51253N,7612
-J1,320,100186,City ,0,54230N,8431
-J1,320,100187,City ,0,54238N,8431
-J1,322,100188,City ,0,53218N,8431
-J1,322,100189,City ,0,51247N,8431
-J1,322,100190,City ,0,51255N,8431
-J1,322,100191,City ,0,51258N,8431
-J1,322,100192,City,0,52246N,9597
-J1,322,100193,City ,0,51248N,8431
-J1,322,100194,City ,0,53217N,8431
-J1,322,100195,City ,0,51261N,8431
-J1,322,100196,City ,0,51255N,8431
-J1,322,100197,City ,0,51258N,8432
-J1,320,100198,Glenelg ,1,54238N,8435
-J1,320,100199,Glenelg ,1,51247N,8435
-J1,322,100200,Glenelg ,1,53211N,8435
-J1,322,100201,Glenelg ,1,54231N,8435
-J1,322,100202,Glenelg ,1,54230N,8435
-J1,322,100203,Glenelg ,1,51248N,8435
-J1,322,100204,Glenelg ,1,53217N,8435
-J1,322,100205,Glenelg ,1,54235N,8435
-J1,322,100206,Glenelg ,1,51255N,8435
-J1,322,100207,Glenelg ,1,51258N,8435
-J1,322,100208,Glenelg ,1,52255N,8435
-J1,322,100209,Glenelg ,1,54239N,8435
-Gawler Central,320,100210,City,0,,3884
-Gawler Central,320,100211,City,0,,3884
-Gawler Central,322,100212,City,0,,3884
-Gawler Central,322,100213,City,0,,3884
-Gawler Central,322,100214,City,0,,3884
-Gawler Central,322,100215,City,0,,3884
-Gawler Central,322,100216,City,0,,3884
-Gawler Central,320,100217,Gawler Central,1,,3886
-Gawler Central,322,100218,Gawler Central,1,,3886
-Gawler Central,322,100219,Gawler Central,1,,3886
-Gawler Central,322,100220,Gawler Central,1,,3886
-Gawler Central,322,100221,Gawler Central,1,,3886
-Gawler Central,322,100222,Gawler Central,1,,3886
-Gawler Central,322,100223,Gawler Central,1,,3886
-Outer Harbor,320,100224,City,0,,1232
-Outer Harbor,320,100225,City,0,,1232
-Grange,322,100226,City,0,,1196
-Outer Harbor,322,100227,City,0,,1232
-Grange,322,100228,City,0,,1196
-Outer Harbor,322,100229,City,0,,1232
-Grange,322,100230,City,0,,1196
-Outer Harbor,322,100231,City,0,,1232
-Grange,322,100232,City,0,,1196
-Outer Harbor,322,100233,City,0,,1232
-Grange,322,100234,City,0,,1196
-Outer Harbor,322,100235,City,0,,1232
-Grange,322,100236,City,0,,1196
-Outer Harbor,320,100237,Outer Harbor,1,,1236
-Outer Harbor,320,100238,Outer Harbor,1,,1236
-Grange,322,100239,Grange,1,,1198
-Outer Harbor,322,100240,Outer Harbor,1,,1236
-Grange,322,100241,Grange,1,,1198
-Outer Harbor,322,100242,Outer Harbor,1,,1236
-Grange,322,100243,Grange,1,,1198
-Outer Harbor,322,100244,Outer Harbor,1,,1236
-Grange,322,100245,Grange,1,,1198
-Outer Harbor,322,100246,Outer Harbor,1,,1236
-Grange,322,100247,Grange,1,,1198
-Outer Harbor,322,100248,Outer Harbor,1,,1236
-Grange,322,100249,Grange,1,,1198
-Noarlunga,320,100250,City,0,,1202
-Noarlunga,320,100251,City,0,,1202
-Noarlunga,320,100252,City,0,,1202
-Noarlunga,322,100253,City,0,,1202
-Noarlunga,322,100254,City,0,,1202
-Noarlunga,322,100255,City,0,,1202
-Noarlunga,322,100256,City,0,,1202
-Noarlunga,322,100257,City,0,,1202
-Noarlunga,320,100258,Noarlunga,1,,1794
-Noarlunga,320,100259,Noarlunga,1,,1219
-Noarlunga,322,100260,Noarlunga,1,,1218
-Noarlunga,322,100261,Noarlunga,1,,1218
-Noarlunga,322,100262,Noarlunga,1,,1218
-Noarlunga,322,100263,Noarlunga,1,,1218
-Noarlunga,322,100264,Noarlunga,1,,1218
-Noarlunga,322,100265,Noarlunga,1,,1218
-Tram,320,100266,Glenelg,1,,8660
-Tram,320,100267,Glenelg,1,,8660
-Tram,320,100268,Glenelg,1,,8660
-Tram,320,100269,Glenelg,1,,8660
-Tram,320,100270,Glenelg,1,,8660
-Tram,322,100271,,1,,8638
-Tram,322,100272,,1,,8638
-Tram,322,100273,,1,,8638
-Tram,322,100274,,1,,8638
-Tram,322,100275,,1,,8638
-Tram,322,100276,Glenelg,1,,8661
-Tram,322,100277,Glenelg,1,,8661
-Tram,322,100278,Glenelg,1,,8661
-Tram,322,100279,Glenelg,1,,8661
-Tram,322,100280,Glenelg,1,,8661
-Tram,322,100281,Glenelg,1,,8661
-190,322,100282,City,0,7S7504,7843
-190,322,100283,City,0,7S7926,7843
-190,322,100284,City,0,7S7504,7843
-190B,322,100285,Mitcham ,1,7S7495,7845
-190B,322,100286,Mitcham ,1,7S7504,7845
-190B,322,100287,Mitcham ,1,7S7926,7845
-190B,322,100288,Mitcham ,1,7S7503,7847
-190B,322,100289,Mitcham ,1,7S7508,7847
-200,322,100290,City,0,7S7503,7867
-200,322,100291,City,0,7S7925,7867
-200,322,100292,City,0,7S7503,7867
-200,320,100293,East Parkway 18,1,7S7503,9602
-200,322,100294,East Parkway 18,1,7S7925,9603
-200,322,100295,East Parkway 18,1,7S7503,9603
-200,322,100296,East Parkway 18,1,7S7925,9603
-200,322,100297,East Parkway 18,1,7S7509,9602
-202,322,100298,City ,0,7S7509,8256
-202,322,100299,Ingle Farm,1,7S7505,8967
-202,322,100300,City ,0,7S7505,8256
-202,322,100301,Ingle Farm,1,7S7255,8967
-202,322,100302,Ingle Farm,1,7S7512,8314
-208,322,100303,City,0,7S7925,8993
-208,322,100304,City,0,7S7503,8993
-208,322,100305,City,0,7S7925,8993
-208N,322,100306,Northgate,1,7S7503,8328
-208N,322,100307,Northgate,1,7S7925,8328
-208N,322,100308,Northgate,1,7S7503,8328
-208N,322,100309,,1,7S7926,8590
-230,322,100310,City ,0,7S7504,7948
-230,322,100311,Port Adelaide Interchange,1,7S7926,7947
-230,322,100312,,1,7S7925,8594
-232,322,100313,City ,0,7S7495,7953
-232,322,100314,Port Adelaide Interchange,1,7S7504,7952
-232,322,100315,City ,0,7S7926,7953
-232,322,100316,Port Adelaide Interchange,1,7S7504,7952
-232R,322,100317,Rosewater,1,7S7926,7956
-235,320,100318,City ,0,7S7923,5524
-235,322,100319,City ,0,7Z7076,5524
-235,322,100320,City ,0,7S7512,5524
-235,320,100321,Kilburn,1,7Z7076,4052
-235,322,100322,Kilburn,1,7S7923,4052
-235,322,100323,Kilburn,1,7S7513,4052
-235,322,100324,,1,7Z7097,8593
-248,320,100325,City ,0,7S7502,8961
-248,322,100326,City,0,7S7505,7986
-248,322,100327,City,0,7S7255,7986
-248,322,100328,Marion,1,7S7502,9606
-248,322,100329,Marion,1,7S7509,9607
-248,322,100330,Marion,1,7S7505,9607
-248,322,100331,Marion,1,7S7504,9606
-253,322,100332,Arndale Centre Interchange,0,7S7498,8180
-253,322,100333,Arndale Centre Interchange,0,7S7500,8180
-253,322,100334,Arndale Centre Interchange,0,7S7506,8180
-253,322,100335,Mansfield Park ,1,7S7500,5562
-253,322,100336,Mansfield Park ,1,7S7506,5562
-253,322,100337,Mansfield Park ,1,7S7509,5562
-253,322,100338,Mansfield Park ,1,7S7927,5562
-262,320,100339,,0,7S7490,8599
-262,322,100340,,0,7S7500,8598
-262,322,100341,,0,7S7506,8599
-262,322,100342,,1,7S7498,8595
-262,322,100343,,1,7S7508,8597
-262,322,100344,,0,7S7506,8598
-262,322,100345,,0,7S7498,8599
-262,322,100346,,1,7S7928,8597
-262,322,100347,,1,7S7500,8595
-262,322,100348,,0,7S7509,8598
-262,322,100349,,0,7S7500,8599
-262,322,100350,,1,7S7927,8597
-262,322,100351,,1,7S7506,8595
-262,322,100352,,0,7S7927,8598
-262,322,100353,,1,7S7506,8597
-262,322,100354,,1,7S7511,8596
-262,322,100355,,1,7S7511,8597
-273,320,100356,City,0,7Z7076,8042
-273,322,100357,City,0,7S7923,8042
-273,322,100358,City,0,7S7513,8042
-273,320,100359,Paradise ,1,7S7923,5592
-273,322,100360,Paradise ,1,7Z7076,5592
-273,322,100361,Paradise ,1,7S7512,5592
-273,322,100362,,1,7S7513,3492
-273,322,100363,,1,7Z7090,3492
-502,322,100364,City ,0,7Z7101,8275
-502,322,100365,City ,0,7Z7086,8275
-502,322,100366,Salisbury,1,7Z7095,8349
-502,322,100367,Salisbury,1,7Z7086,8349
-502,322,100368,Salisbury,1,7Z7094,8349
-502,322,100369,Salisbury,1,7Z7100,8349
-503,320,100370,Paradise ,0,7Z7085,4136
-503,322,100371,Paradise ,0,7Z7079,4136
-503,322,100372,Paradise ,0,7Z7094,4136
-503,322,100373,Tea Tree Plaza ,1,7Z7085,4137
-503,322,100374,Tea Tree Plaza ,1,7Z7079,4137
-503,322,100375,Tea Tree Plaza ,1,7Z7094,4137
-503,322,100376,Tea Tree Plaza ,1,7Z7095,4137
-503,322,100377,Tea Tree Plaza ,1,7Z7090,4137
-506,322,100378,Paradise ,0,7Z7077,3240
-506,322,100379,Paradise ,0,7Z7082,3240
-506,320,100380,Tea Tree Plaza ,1,7Z7084,3246
-506,320,100381,Tea Tree Plaza ,1,7Z7077,3246
-506,322,100382,Tea Tree Plaza ,1,7Z7080,3246
-506,322,100383,Tea Tree Plaza ,1,7Z7077,3246
-506,322,100384,Tea Tree Plaza ,1,7Z7082,3246
-506,322,100385,Tea Tree Plaza ,1,7Z7089,3246
-506,322,100386,Tea Tree Plaza ,1,7Z7088,3246
-541,322,100387,Tea Tree Plaza,0,7Z7089,3256
-541,322,100388,Tea Tree Plaza,0,7Z7085,3256
-541,322,100389,Tea Tree Plaza,0,7Z7662,3256
-541,322,100390,Fairview Park,1,7Z7093,3259
-541,322,100391,Fairview Park,1,7Z7096,3259
-541,322,100392,Fairview Park,1,7Z7091,3259
-541,322,100393,Fairview Park,1,7Z7086,3259
-542,322,100394,Tea Tree Plaza,0,7Z7089,7137
-542,322,100395,Tea Tree Plaza,0,7Z7093,7137
-542,322,100396,Tea Tree Plaza,0,7Z7096,7137
-542,322,100397,Tea Tree Plaza,0,7Z7091,7137
-542,322,100398,Yatala Vale,1,7Z7085,7139
-542,322,100399,Yatala Vale,1,7Z7662,7139
-545,320,100400,Tea Tree Plaza,0,7Z7079,744
-545,322,100401,Tea Tree Plaza,0,7Z7075,744
-545,322,100402,Tea Tree Plaza,0,7Z7662,744
-545,322,100403,Golden Grove Village,1,7Z7099,747
-545,322,100404,Golden Grove Village,1,7Z7090,747
-545,322,100405,Golden Grove Village,1,7Z7099,747
-545,322,100406,Golden Grove Village,1,7Z7662,747
-545,322,100407,Golden Grove Village,1,7Z7087,747
-557,322,100408,Paradise,0,7Z7073,7158
-557,322,100409,Paradise,0,7Z7089,7158
-557,322,100410,Tea Tree Plaza ,1,7Z7073,7159
-557,322,100411,Tea Tree Plaza ,1,7Z7089,7159
-557,322,100412,Tea Tree Plaza ,1,7Z7083,7159
-557,322,100413,Tea Tree Plaza ,1,7Z7086,7159
-557,322,100414,Tea Tree Plaza ,1,7Z7093,7159
-C1,320,100415,city ,0,7Z7076,8534
-C1,320,100416,city ,0,7Z7083,8534
-C1,320,100417,city ,0,7Z7080,8534
-C1,320,100418,city ,0,7Z7088,8534
-C1,320,100419,city ,0,7Z7063,8534
-C1,320,100420,city ,0,7Z7089,8534
-C1,320,100421,city ,0,7Z7090,8534
-C1,320,100422,city ,0,7Z7086,8534
-C1,320,100423,city ,0,7Z7091,8534
-C1,320,100424,city ,0,7Z7094,8534
-C1,320,100425,city ,0,7Z7068,8534
-C1,320,100426,city ,0,7Z7071,8534
-C1,320,100427,city ,0,7Z7070,8534
-C1,320,100428,city ,0,7Z7096,8534
-C1,320,100429,city ,0,7Z7054,8534
-C1,320,100430,city ,0,7Z7086,8534
-C1,320,100431,city ,0,7Z7100,8534
-C1,320,100432,city ,0,7Z7093,8534
-C1,320,100433,city ,0,7Z7061,8534
-C1,320,100434,city ,0,7Z7662,8534
-C1,320,100435,city ,0,7Z7073,8534
-C1,320,100436,city ,0,7Z7101,8534
-C1,320,100437,city ,0,7Z7071,8534
-C1,320,100438,city ,0,7Z7097,8534
-C1,320,100439,city ,0,7Z7076,8534
-C1,320,100440,city ,0,7Z7095,8534
-C1,320,100441,city ,0,7Z7098,8534
-C1,320,100442,city ,0,7Z7096,8534
-C1,320,100443,City ,0,7Z7078,8533
-C1,320,100444,city ,0,7Z7099,8534
-C1,320,100445,city ,0,7Z7085,8534
-C1,320,100446,city ,0,7Z7094,8534
-C1,320,100447,city ,0,7Z7084,8534
-C1,320,100448,City ,0,7Z7101,8533
-C1,320,100449,city ,0,7Z7082,8534
-C1,320,100450,city ,0,7Z7661,8534
-C1,320,100451,city ,0,7Z7097,8534
-C1,320,100452,city ,0,7Z7099,8534
-C1,320,100453,City ,0,7Z7090,8533
-C1,320,100454,city ,0,7Z7662,8534
-C1,320,100455,city ,0,7Z7093,8534
-C1,320,100456,city ,0,7Z7078,8534
-C1,320,100457,city ,0,7Z7100,8534
-C1,320,100458,city ,0,7Z7094,8534
-C1,320,100459,city ,0,7Z7079,8534
-C1,320,100460,City ,0,7Z7098,8533
-C1,320,100461,city ,0,7Z7096,8534
-C1,320,100462,city ,0,7Z7084,8534
-C1,320,100463,city ,0,7Z7097,8534
-C1,322,100464,City ,0,7Z7074,8533
-C1,322,100465,City ,0,7Z7078,8533
-C1,322,100466,City ,0,7Z7087,8533
-C1,322,100467,City ,0,7Z7100,8533
-C1,322,100468,city ,0,7Z7101,8534
-C1,322,100469,City ,0,7Z7088,8533
-C1,322,100470,city ,0,7Z7101,8534
-C1,322,100471,City ,0,7Z7098,8533
-C1G,322,100472,Golden Grove Village,1,7Z7087,8551
-C1G,322,100473,Golden Grove Village,1,7Z7088,8551
-C1G,322,100474,Golden Grove Village,1,7Z7098,8551
-C1G,322,100475,Golden Grove Village,1,7Z7087,8551
-C1G,322,100476,Golden Grove Village,1,7Z7097,8551
-C1G,322,100477,Golden Grove Village,1,7Z7099,8551
-C1T,322,100478,Tea Tree Plaza,1,7Z7084,8472
-C1T,322,100479,Tea Tree Plaza,1,7Z7086,8472
-C1T,322,100480,Tea Tree Plaza,1,7Z7079,8472
-C1T,322,100481,Tea Tree Plaza,1,7Z7662,8472
-C1T,322,100482,Tea Tree Plaza,1,7Z7088,8472
-C1T,322,100483,Tea Tree Plaza,1,7Z7093,8472
-C1T,322,100484,Tea Tree Plaza,1,7Z7090,8472
-C1T,322,100485,Tea Tree Plaza,1,7Z7100,8472
-C1T,322,100486,Tea Tree Plaza,1,7Z7094,8472
-C1T,322,100487,Tea Tree Plaza,1,7Z7078,8472
-C1T,322,100488,Tea Tree Plaza,1,7Z7096,8472
-C1T,322,100489,Tea Tree Plaza,1,7Z7098,8472
-C1T,322,100490,Tea Tree Plaza,1,7Z7097,8472
-C1T,322,100491,Tea Tree Plaza,1,7Z7101,8472
-C1T,322,100492,Tea Tree Plaza,1,7Z7093,8472
-C1T,322,100493,Tea Tree Plaza,1,7Z7100,8472
-C1T,322,100494,Tea Tree Plaza,1,7Z7089,8472
-C1T,322,100495,Tea Tree Plaza,1,7Z7095,8472
-C1T,322,100496,Tea Tree Plaza,1,7Z7101,8472
-C1T,322,100497,Tea Tree Plaza,1,7Z7662,8472
-C1T,322,100498,Tea Tree Plaza,1,7Z7100,8472
-C1T,322,100499,Tea Tree Plaza,1,7Z7096,8472
-C1T,322,100500,Tea Tree Plaza,1,7Z7088,8472
-C1T,322,100501,Tea Tree Plaza,1,7Z7097,8472
-C1T,322,100502,Tea Tree Plaza,1,7Z7093,8472
-C1T,322,100503,Tea Tree Plaza,1,7Z7098,8472
-C1T,322,100504,Tea Tree Plaza,1,7Z7094,8472
-C1T,322,100505,Tea Tree Plaza,1,7Z7095,8472
-C2,320,100506,City ,0,7Z7167,8457
-C2,320,100507,City ,0,7Z7055,8457
-C2,320,100508,City ,0,7Z7095,8457
-C2,320,100509,City ,0,7Z7089,8457
-C2,320,100510,City ,0,7Z7091,8457
-C2,320,100511,City ,0,7Z7095,8457
-C2,322,100512,Greenwith,1,7Z7074,8460
-C2,322,100513,Greenwith,1,7Z7087,8460
-C2,322,100514,Greenwith,1,7Z7092,8460
-C2,322,100515,Greenwith,1,7Z7101,8460
-G10,322,100516,Prospect ,0,7S7927,8077
-G10,322,100517,Prospect,0,7S7501,8079
-G10,322,100518,Prospect ,0,7S7502,8077
-G10,322,100519,Prospect,0,7S7510,8079
-G10,322,100520,Prospect ,0,7S7507,8077
-G10,322,100521,Prospect,0,7S7511,8079
-G10,322,100522,Prospect ,0,7S7508,8077
-G10,322,100523,Prospect ,0,7S7928,8077
-G10,320,100524,Prospect ,0,7S7499,8077
-G10,322,100525,Marion,1,7S7499,8081
-G10,322,100526,Marion,1,7S7927,8081
-G10,322,100527,Marion,1,7S7502,8081
-G10,322,100528,Marion,1,7S7507,8081
-G10,322,100529,Marion ,1,7S7513,8529
-G10,320,100530,Marion,1,7S7494,9610
-G10B,322,100531,City,1,7S7496,8087
-G10B,322,100532,City,1,7S7501,8087
-G10B,322,100533,City,1,7S7510,8087
-G21,322,100534,Bedford Park,0,7S7501,8104
-G21,322,100535,Bedford Park,0,7S7510,8104
-G21,322,100536,Bedford Park,0,7S7511,8104
-G21,322,100537,Aberfoyle Hub,1,7S7496,8221
-G21,322,100538,Aberfoyle Hub,1,7S7501,8221
-G21,322,100539,Aberfoyle Hub,1,7S7510,8221
-G21,322,100540,Old Reynella,1,7S7512,8057
-M44,320,100541,Marion,0,7Z7661,7992
-M44,322,100542,Marion,0,7Z7091,7992
-M44,322,100543,Marion,0,7Z7092,7992
-M44,322,100544,Marion,0,7Z7085,7992
-M44,322,100545,Marion,0,7Z7090,7992
-M44,322,100546,Marion,0,7Z7093,7993
-M44,322,100547,Marion,0,7Z7099,7992
-M44,322,100548,Marion,0,7Z7095,7993
-M44,322,100549,Marion,0,7Z7662,7992
-M44,322,100550,City,1,7Z7083,9611
-M44,322,100551,City,1,7Z7091,9611
-M44,322,100552,City,1,7Z7085,9611
-M44,322,100553,Golden Grove,1,7Z7096,9612
-M44,322,100554,Golden Grove,1,7Z7098,9612
-M44G,322,100555,Keswick 1,0,7Z7083,9613
-M44G,322,100556,Keswick 1,0,7Z7091,9613
-M44G,322,100557,Keswick 1,0,7Z7085,9613
-W90,322,100558,Marion,1,7S7510,9213
-W90,322,100559,Marion,1,7S7507,9213
-W90,322,100560,Marion,1,7S7508,9213
-W90,322,100561,Marion,1,7S7928,9214
-W90,322,100562,Marden,0,7S7507,9208
-W90,322,100563,Marden,0,7S7508,9208
-W90,322,100564,Marden,0,7S7928,9208
-W90,322,100565,,0,7S7513,8600
-721,704,100566,City,0,,9047
-721,704,100567,City,0,,9047
-721,704,100568,City,0,,9047
-721,704,100569,City,0,,9047
-721,704,100570,City,0,,9047
-721,704,100571,City,0,,9047
-721,704,100572,City,0,,9047
-721,704,100573,City,0,,9047
-721,704,100574,City,0,,9047
-721,704,100575,City,0,,9047
-721,704,100576,Noarlunga,1,,9038
-721,704,100577,Noarlunga,1,,9038
-721,704,100578,Noarlunga,1,,9038
-721,704,100579,Noarlunga,1,,9038
-721,704,100580,Noarlunga,1,,9038
-721,704,100581,Noarlunga,1,,9038
-721,704,100582,Noarlunga,1,,9038
-721,704,100583,Noarlunga,1,,9038
-721,704,100584,Noarlunga,1,,9038
-721,704,100585,Noarlunga,1,,9038
-861,704,100586,City,0,,9084
-861,704,100587,City,0,,9084
-861,704,100588,City,0,,9084
-861,704,100589,City,0,,9084
-861,704,100590,City,0,,9084
-861,704,100591,City,0,,9084
-861,704,100592,City,0,,9084
-861,704,100593,City,0,,9084
-861,704,100594,City,0,,9084
-861,704,100595,City,0,,9084
-861,704,100596,Glen Osmond,1,,9085
-861,704,100597,Glen Osmond,1,,9085
-861,704,100598,Glen Osmond,1,,9085
-861,704,100599,Glen Osmond,1,,9085
-861,704,100600,Glen Osmond,1,,9085
-861,704,100601,Glen Osmond,1,,9085
-861,704,100602,Glen Osmond,1,,9085
-861,704,100603,Glen Osmond,1,,9085
-861,704,100604,Glen Osmond,1,,9085
-861,704,100605,Glen Osmond,1,,9085
-222,704,100606,City,0,,7021
-222,704,100607,City,0,,7021
-222,704,100608,City,0,,7021
-222,704,100609,City,0,,7021
-222,704,100610,City,0,,7021
-222,704,100611,City,0,,7021
-222,704,100612,City,0,,7021
-222,704,100613,City,0,,7021
-222,704,100614,City,0,,7021
-222,704,100615,City,0,,7021
-222,704,100616,Mawson Lakes,1,,7764
-222,704,100617,Mawson Lakes,1,,7764
-222,704,100618,Mawson Lakes,1,,7764
-222,704,100619,Mawson Lakes,1,,7764
-222,704,100620,Mawson Lakes,1,,7764
-222,704,100621,Mawson Lakes,1,,7764
-222,704,100622,Mawson Lakes,1,,7764
-222,704,100623,Mawson Lakes,1,,7764
-222,704,100624,Mawson Lakes,1,,7764
-222,704,100625,Mawson Lakes,1,,7764
-117,704,100626,City ,0,52506B,7669
-117,704,100627,City ,0,52523B,7669
-117,704,100628,City ,0,52530B,7669
-117,704,100629,City ,0,51525B,7669
-117,704,100630,City ,0,53519B,7669
-117,704,100631,Port Adelaide,1,51521B,9221
-117,704,100632,Port Adelaide,1,52518B,9221
-117,704,100633,Port Adelaide,1,51527B,9221
-117,704,100634,Port Adelaide,1,52530B,9221
-117,704,100635,Port Adelaide,1,52524B,9221
-118,704,100636,City ,0,52518B,7664
-118,704,100637,City ,0,52528B,7664
-118,704,100638,City ,0,54509B,7664
-118,704,100639,City ,0,52509B,7664
-118,704,100640,City ,0,52523B,7664
-118,704,100641,Port Adelaide,1,51525B,9220
-118,704,100642,Port Adelaide,1,52523B,9220
-118,704,100643,Port Adelaide,1,52515B,9220
-118,704,100644,Port Adelaide,1,52507B,9220
-118,704,100645,Port Adelaide,1,53519B,9220
-141,704,100646,City,0,51521B,7671
-141,704,100647,City,0,52518B,7671
-141,704,100648,City,0,51527B,7671
-141,704,100649,City,0,52530B,7671
-141,704,100650,City,0,52524B,7671
-141,704,100651,Stonyfell,1,52506B,9226
-141,704,100652,Stonyfell,1,52523B,9226
-141,704,100653,Stonyfell,1,52530B,9226
-141,704,100654,Stonyfell,1,51525B,9226
-141,704,100655,Stonyfell,1,53519B,9226
-142,704,100656,City,0,53510B,9614
-142,704,100657,City ,0,51525B,7675
-142,704,100658,City ,0,52523B,7675
-142,704,100659,City ,0,52507B,7675
-142,704,100660,City ,0,53519B,7675
-142,704,100661,Burnside,1,52518B,9227
-142,704,100662,Burnside,1,52528B,9227
-142,704,100663,Burnside,1,54509B,9227
-142,704,100664,Burnside,1,52509B,9227
-142,704,100665,Burnside,1,52523B,9227
-150,704,100666,,0,52505B,6813
-150,704,100667,,0,52521B,6813
-150,704,100668,,0,53509B,6813
-150,704,100669,,0,52511B,6813
-150,704,100670,,0,52531B,6813
-150,704,100671,Osborne ,1,53509B,5334
-150,704,100672,Osborne ,1,52501B,5334
-150,704,100673,Osborne ,1,51506B,5334
-150,704,100674,Osborne ,1,53520B,5334
-150,704,100675,Osborne ,1,52518B,5334
-157,704,100676,City ,0,52513B,6250
-157,704,100677,City ,0,52526B,6250
-157,704,100678,City ,0,52512B,6250
-157,704,100679,City ,0,52526B,6250
-157,704,100680,City ,0,53503B,6250
-157,704,100681,Largs North ,1,52512B,5348
-157,704,100682,Largs North ,1,51511B,5348
-157,704,100683,Largs North ,1,54505B,5348
-157,704,100684,Largs North ,1,52508B,5348
-157,704,100685,Largs North ,1,52531B,5348
-167,704,100686,City,0,54505B,8498
-167,704,100687,City,0,54512B,8498
-167,704,100688,City,0,54514B,8498
-167,704,100689,City,0,52511B,8498
-167,704,100690,City,0,54502B,8498
-167,704,100691,City,0,54520B,8498
-167,704,100692,City,1,52511B,5353
-167,704,100693,City,1,51508B,5353
-167,704,100694,City,1,52511B,5353
-167,704,100695,City,1,54502B,5353
-167,704,100696,City,1,54520B,5353
-168,704,100697,City,0,54509B,8500
-168,704,100698,City,0,53514B,8500
-168,704,100699,City,0,54514B,8500
-168,704,100700,City,0,53506B,8500
-168,704,100701,Glenelg Interchange ,1,53501B,5359
-168,704,100702,Glenelg Interchange ,1,51518B,5359
-168,704,100703,Glenelg Interchange ,1,53514B,5359
-168,704,100704,Glenelg Interchange ,1,54514B,5359
-168,704,100705,Glenelg Interchange ,1,54509B,5359
-172,704,100706,City ,0,53516B,7734
-172,704,100707,City ,0,53500B,7734
-172,704,100708,City ,0,51513B,7734
-172,704,100709,City ,0,51523B,7734
-172,704,100710,City ,0,51526B,7734
-172,704,100711,City ,0,53512B,7734
-172,704,100712,City ,0,54511B,7734
-172,704,100713,City ,0,53515B,7734
-172,704,100714,City ,0,51514B,7734
-172,704,100715,City ,0,51519B,7734
-172,704,100716,Kingswood ,1,51513B,6836
-172,704,100717,Kingswood ,1,51523B,6836
-172,704,100718,Kingswood ,1,51526B,6836
-172,704,100719,Kingswood ,1,53512B,6836
-172,704,100720,Kingswood ,1,52503B,6836
-172,704,100721,Kingswood ,1,54515B,6836
-172,704,100722,Kingswood ,1,51514B,6836
-172,704,100723,Kingswood ,1,51519B,6836
-172,704,100724,Kingswood ,1,51523B,6836
-172,704,100725,Kingswood ,1,54518B,6836
-174,704,100726,City,0,51517B,9025
-174,704,100727,City,0,52501B,9025
-174,704,100728,City,0,53517B,9025
-174,704,100729,City,0,51517B,9025
-174,704,100730,City,0,53519B,9025
-174,704,100731,City,0,53517B,9025
-174,704,100732,City,0,51538B,9025
-174,704,100733,City,0,51542B,9025
-174,704,100734,City,0,53512B,9025
-174,704,100735,City,0,53515B,9025
-174,704,100736,Paradise ,1,53517B,8429
-174,704,100737,Paradise ,1,51517B,8429
-174,704,100738,Paradise ,1,53519B,8429
-174,704,100739,Paradise ,1,53517B,8429
-174,704,100740,Paradise ,1,53515B,8429
-174,704,100741,Paradise ,1,53519B,8429
-174,704,100742,Paradise ,1,54518B,8429
-174,704,100743,Paradise ,1,52535B,8429
-174,704,100744,Paradise ,1,54521B,8429
-174,704,100745,Paradise ,1,52536B,8429
-178,704,100746,City ,0,51513B,8522
-178,704,100747,City ,0,51523B,8522
-178,704,100748,City ,0,51526B,8522
-178,704,100749,City ,0,53512B,8522
-178,704,100750,City ,0,52503B,8522
-178,704,100751,City ,0,54515B,8522
-178,704,100752,City ,0,51514B,8522
-178,704,100753,City ,0,51519B,8522
-178,704,100754,City ,0,51523B,8522
-178,704,100755,City ,0,54518B,8522
-178,704,100756,Paradise,1,53516B,7816
-178,704,100757,Paradise,1,53500B,7816
-178,704,100758,Paradise,1,51513B,7816
-178,704,100759,Paradise,1,51523B,7816
-178,704,100760,Paradise,1,51526B,7816
-178,704,100761,Paradise,1,53512B,7816
-178,704,100762,Paradise,1,54511B,7816
-178,704,100763,Paradise,1,53515B,7816
-178,704,100764,Paradise,1,51514B,7816
-178,704,100765,Paradise,1,51519B,7816
-190,704,100766,City,0,7S7230,7843
-190,704,100767,City,0,7S7224,7843
-190,704,100768,City,0,7S7401,7843
-190,704,100769,City,0,7S7119,7843
-190,704,100770,City,0,7S7216,7843
-190,704,100771,City,0,7S7112,7843
-190,704,100772,City,0,7S7214,7843
-190,704,100773,City,0,7S7257,7843
-190,704,100774,City,0,7S7234,7843
-190,704,100775,City,0,7S7259,7843
-190B,704,100776,Mitcham ,1,7S7401,7845
-190B,704,100777,Mitcham ,1,7S7123,7845
-190B,704,100778,Mitcham ,1,7S7213,7845
-190B,704,100779,Mitcham ,1,7S7406,7845
-190B,704,100780,Mitcham ,1,7S7224,7845
-190B,704,100781,Mitcham ,1,7S7401,7845
-190B,704,100782,Mitcham ,1,7S7218,7845
-190B,704,100783,Mitcham ,1,7S7242,7845
-190B,704,100784,Mitcham ,1,7S7306,7845
-190B,704,100785,Mitcham ,1,7S7222,7845
-200,704,100786,City ,0,7S7222,7869
-200,704,100787,City ,0,7S7235,7869
-200,704,100788,City ,0,7S7205,7869
-200,704,100789,City ,0,7S7245,7869
-200,704,100790,City ,0,7S7222,7869
-200,704,100791,City ,0,7S7246,7869
-200,704,100792,City ,0,7S7212,7869
-200,704,100793,City ,0,7S7138,7869
-200,704,100794,City,0,7S7124,9615
-200,704,100795,City ,0,7S7258,7869
-200C,704,100796,Clapham ,1,7S7204,7872
-200C,704,100797,Clapham ,1,7S7222,7872
-200C,704,100798,Clapham ,1,7S7235,7872
-200C,704,100799,Clapham ,1,7S7205,7872
-200C,704,100800,Clapham ,1,7S7245,7872
-200C,704,100801,Clapham ,1,7S7218,7872
-200C,704,100802,Clapham ,1,7S7405,7872
-200C,704,100803,Clapham ,1,7S7212,7872
-200C,704,100804,Clapham ,1,7S7138,7872
-200C,704,100805,Clapham ,1,7S7227,7872
-202,704,100806,City ,0,7S7112,8309
-202,704,100807,City ,0,7S7126,8309
-202,704,100808,City ,0,7S7119,8309
-202,704,100809,City ,0,7S7232,8309
-202,704,100810,City ,0,7S7112,8309
-202,704,100811,City ,0,7S7126,8309
-202,704,100812,City ,0,7S7134,8309
-202,704,100813,City ,0,7S7116,8309
-202,704,100814,City ,0,7S7115,8309
-202,704,100815,City ,0,7S7130,8309
-202,704,100816,Ingle Farm,1,7S7232,8314
-202,704,100817,Ingle Farm,1,7S7112,8314
-202,704,100818,Ingle Farm,1,7S7126,8314
-202,704,100819,Ingle Farm,1,7S7108,8314
-202,704,100820,Ingle Farm,1,7S7232,8314
-202,704,100821,Ingle Farm,1,7S7222,8314
-202,704,100822,Ingle Farm,1,7S7134,8314
-202,704,100823,Ingle Farm,1,7S7116,8314
-202,704,100824,Ingle Farm,1,7S7115,8314
-202,704,100825,Ingle Farm,1,7S7130,8314
-208,704,100826,City,0,7S7204,7881
-208,704,100827,City,0,7S7222,7881
-208,704,100828,City,0,7S7235,7881
-208,704,100829,City,0,7S7205,7881
-208,704,100830,City,0,7S7245,7881
-208,704,100831,City,0,7S7218,7881
-208,704,100832,City,0,7S7405,7881
-208,704,100833,City,0,7S7212,7881
-208,704,100834,City,0,7S7138,7881
-208,704,100835,City,0,7S7227,7881
-208B,704,100836,Broadview,1,7S7222,3995
-208B,704,100837,Broadview,1,7S7235,3995
-208B,704,100838,Broadview,1,7S7205,3995
-208B,704,100839,Broadview,1,7S7245,3995
-208B,704,100840,Broadview,1,7S7222,3995
-208B,704,100841,Broadview,1,7S7246,3995
-208B,704,100842,Broadview,1,7S7212,3995
-208B,704,100843,Broadview,1,7S7138,3995
-208B,704,100844,Broadview,1,7S7227,3995
-230,704,100845,City ,0,7S7401,7949
-230,704,100846,City ,0,7S7123,7949
-230,704,100847,City ,0,7S7213,7949
-230,704,100848,City ,0,7S7406,7949
-230,704,100849,City ,0,7S7224,7949
-230,704,100850,City ,0,7S7401,7949
-230,704,100851,City ,0,7S7218,7949
-230,704,100852,City ,0,7S7242,7949
-230,704,100853,City ,0,7S7306,7949
-230,704,100854,City ,0,7S7222,7949
-230,704,100855,Port Adelaide Interchange,1,7S7230,7947
-232,704,100856,Port Adelaide Interchange,1,7S7230,7952
-232,704,100857,Port Adelaide Interchange,1,7S7224,7952
-232,704,100858,Port Adelaide Interchange,1,7S7401,7952
-232,704,100859,Port Adelaide Interchange,1,7S7119,7952
-232,704,100860,Port Adelaide Interchange,1,7S7216,7952
-232,704,100861,Port Adelaide Interchange,1,7S7112,7952
-232,704,100862,Port Adelaide Interchange,1,7S7214,7952
-232,704,100863,Port Adelaide Interchange,1,7S7257,7952
-232,704,100864,Port Adelaide Interchange,1,7S7234,7952
-232,704,100865,Port Adelaide Interchange,1,7S7259,7952
-235,704,100866,City ,0,7S7117,5524
-235,704,100867,City ,0,7S7202,5524
-235,704,100868,City ,0,7S7405,5524
-235,704,100869,City ,0,7S7223,5524
-235,704,100870,City ,0,7S7209,5524
-235,704,100871,City ,0,7S7210,5524
-235,704,100872,City ,0,7S7229,5524
-235,704,100873,City ,0,7S7237,5524
-235,704,100874,City ,0,7S7122,5524
-235,704,100875,City ,0,7S7121,5524
-235,704,100876,Kilburn,1,7S7121,4052
-235,704,100877,Kilburn,1,7S7209,4052
-235,704,100878,Kilburn,1,7S7210,4052
-235,704,100879,Kilburn,1,7S7104,4052
-235,704,100880,Kilburn,1,7S7229,4052
-235,704,100881,Kilburn,1,7S7304,4052
-235,704,100882,Kilburn,1,7S7222,4052
-235,704,100883,Kilburn,1,7S7135,4052
-235,704,100884,Kilburn,1,7S7127,4052
-235,704,100885,Kilburn,1,7S7137,4052
-253,704,100886,Arndale Centre Interchange,0,7S7115,8180
-253,704,100887,Arndale Centre Interchange,0,7S7403,8180
-253,704,100888,Arndale Centre Interchange,0,7S7220,8180
-253,704,100889,Arndale Centre Interchange,0,7S7231,8180
-253,704,100890,Arndale Centre Interchange,0,7S7106,8180
-253,704,100891,Arndale Centre Interchange,0,7S7244,8180
-253,704,100892,Arndale Centre Interchange,0,7S7118,8180
-253,704,100893,Arndale Centre Interchange,0,7S7126,8180
-253,704,100894,Arndale Centre Interchange,0,7S7219,8180
-253,704,100895,Arndale Centre Interchange,0,7S7131,8180
-253,704,100896,Mansfield Park ,1,7S7220,5562
-253,704,100897,Mansfield Park ,1,7S7231,5562
-253,704,100898,Mansfield Park ,1,7S7241,5562
-253,704,100899,Mansfield Park ,1,7S7244,5562
-253,704,100900,Mansfield Park ,1,7S7115,5562
-253,704,100901,Mansfield Park ,1,7S7116,5562
-253,704,100902,Mansfield Park ,1,7S7219,5562
-253,704,100903,Mansfield Park ,1,7S7131,5562
-253,704,100904,Mansfield Park ,1,7S7303,5562
-253,704,100905,Mansfield Park ,1,7S7241,5562
-263,704,100906,City,0,7S7220,4102
-263,704,100907,City,0,7S7231,4102
-263,704,100908,City,0,7S7241,4102
-263,704,100909,City,0,7S7244,4102
-263,704,100910,City,0,7S7115,4102
-263,704,100911,City,0,7S7116,4102
-263,704,100912,City,0,7S7219,4102
-263,704,100913,City,0,7S7131,4102
-263,704,100914,City,0,7S7303,4102
-263,704,100915,City,0,7S7241,4102
-263,704,100916,Marion ,1,7S7115,5577
-263,704,100917,Marion ,1,7S7403,5577
-263,704,100918,Marion ,1,7S7220,5577
-263,704,100919,Marion ,1,7S7231,5577
-263,704,100920,Marion ,1,7S7106,5577
-263,704,100921,Marion ,1,7S7244,5577
-263,704,100922,Marion ,1,7S7118,5577
-263,704,100923,Marion ,1,7S7126,5577
-263,704,100924,Marion ,1,7S7219,5577
-263,704,100925,Marion ,1,7S7131,5577
-273,704,100926,City,0,7S7121,8042
-273,704,100927,City,0,7S7209,8042
-273,704,100928,City,0,7S7210,8042
-273,704,100929,City,0,7S7104,8042
-273,704,100930,City,0,7S7229,8042
-273,704,100931,City,0,7S7304,8042
-273,704,100932,City,0,7S7222,8042
-273,704,100933,City,0,7S7135,8042
-273,704,100934,City,0,7S7127,8042
-273,704,100935,City,0,7S7137,8042
-273,704,100936,Paradise ,1,7S7117,5592
-273,704,100937,Paradise ,1,7S7202,5592
-273,704,100938,Paradise ,1,7S7405,5592
-273,704,100939,Paradise ,1,7S7223,5592
-273,704,100940,Paradise ,1,7S7209,5592
-273,704,100941,Paradise ,1,7S7210,5592
-273,704,100942,Paradise ,1,7S7229,5592
-273,704,100943,Paradise ,1,7S7237,5592
-273,704,100944,Paradise ,1,7S7122,5592
-273,704,100945,Paradise ,1,7S7121,5592
-287,704,100946,City ,0,52507B,8482
-287,704,100947,City ,0,53514B,8482
-287,704,100948,City ,0,51508B,8482
-287,704,100949,City ,0,52507B,8482
-287,704,100950,City ,0,52521B,8482
-287,704,100951,City ,0,54507B,8482
-287,704,100952,City ,0,53516B,8482
-287,704,100953,City ,0,54505B,8482
-287,704,100954,City ,0,53524B,8482
-287,704,100955,City ,0,53516B,8482
-287,704,100956,Henley Beach  ,1,52507B,8484
-287,704,100957,Henley Beach  ,1,53514B,8484
-287,704,100958,Henley Beach  ,1,54507B,8484
-287,704,100959,Henley Beach  ,1,52507B,8484
-287,704,100960,Henley Beach  ,1,52521B,8484
-287,704,100961,Henley Beach  ,1,54507B,8484
-287,704,100962,Henley Beach  ,1,53524B,8484
-287,704,100963,Henley Beach  ,1,53516B,8484
-287,704,100964,Henley Beach  ,1,54505B,8484
-287,704,100965,Henley Beach  ,1,53524B,8484
-B10,704,100966,West Lakes,0,51518B,7548
-B10,704,100967,West Lakes,0,54505B,7548
-B10,704,100968,West Lakes,0,52515B,7548
-B10,704,100969,West Lakes,0,52522B,7548
-B10,704,100970,West Lakes,0,51502B,7548
-B10,704,100971,West Lakes,0,53510B,7548
-B10,704,100972,West Lakes,0,54509B,7548
-B10,704,100973,West Lakes,0,51521B,7548
-B10,704,100974,West Lakes,0,52513B,7548
-B10,704,100975,West Lakes,0,52535B,7548
-B10,704,100976,Magill,1,52515B,7547
-B10,704,100977,Magill,1,52522B,7547
-B10,704,100978,Magill,1,51502B,7547
-B10,704,100979,Magill,1,53510B,7547
-B10,704,100980,Magill,1,52504B,7547
-B10,704,100981,Magill,1,54512B,7547
-B10,704,100982,Magill,1,52533B,7547
-B10,704,100983,Magill,1,52539B,7547
-B10,704,100984,Magill,1,51532B,7547
-B10,704,100985,Magill,1,51521B,7547
-G10,704,100986,Prospect,0,7S7118,8079
-H20,704,100987,Glenelg,0,51519B,9310
-H20,704,100988,Glenelg,0,54503B,9310
-H20,704,100989,Glenelg,0,51528B,9310
-H20,704,100990,Glenelg,0,53500B,9310
-H20,704,100991,Glenelg,0,54504B,9310
-H20,704,100992,Glenelg,0,54503B,9310
-H20,704,100993,Glenelg,0,51526B,9310
-H20,704,100994,Paradise ,1,53512B,7565
-H20,704,100995,Paradise ,1,54513B,7565
-H20,704,100996,Paradise ,1,54515B,7565
-H20,704,100997,Paradise ,1,51522B,7565
-H20,704,100998,Paradise ,1,51529B,7565
-H20,704,100999,Paradise ,1,54516B,7565
-H22,704,101000,Henley South,0,51517B,9616
-H22,704,101001,Henley South,0,52513B,9616
-H22,704,101002,Henley  Beach,0,53526B,9314
-H22C,704,101003,City,1,53515B,9617
-H22C,704,101004,City,1,52513B,9617
-H22C,704,101005,City,1,54521B,9617
-H22C,704,101006,City,1,53514B,9617
-H30,704,101007,West Lakes,0,53510B,9618
-H30,704,101008,West Lakes,0,54509B,9618
-H30,704,101009,West Lakes,0,54512B,9618
-H30,704,101010,West Lakes,0,52526B,9618
-H30,704,101011,West Lakes,0,53509B,9618
-H30,704,101012,West Lakes,0,52512B,9618
-H30,704,101013,West Lakes,0,51532B,7585
-H30,704,101014,West Lakes,0,53510B,7585
-H30,704,101015,West Lakes,0,52519B,7585
-H30,704,101016,West Lakes,0,51541B,7585
-H30C,704,101017,City,1,52511B,7603
-H30C,704,101018,City,1,53501B,7603
-H30C,704,101019,City,1,51511B,7603
-H30C,704,101020,City,1,51518B,7603
-H30C,704,101021,City,1,54505B,7603
-H30C,704,101022,City,1,52515B,7603
-H30C,704,101023,City,1,52518B,7603
-H30C,704,101024,City,1,52536B,7603
-H30C,704,101025,City,1,54509B,7603
-H30C,704,101026,City,1,53510B,7603
-J1,704,101027,Glenelg,1,51542B,8434
-J1,704,101028,Glenelg ,1,54516B,8435
-J1,704,101029,Glenelg ,1,52539B,8435
-M44,704,101030,Marion,0,7Z7804,9619
-M44,704,101031,Marion,0,7Z7902,9619
-M44,704,101032,Marion,0,7Z7810,9619
-M44,704,101033,Marion,0,7Z7809,9619
-M44,704,101034,Marion,0,7Z7828,9619
-M44,704,101035,Marion,0,7Z7829,9619
-M44,704,101036,Marion,0,7Z7837,9619
-M44,704,101037,Marion,0,7Z7822,9619
-M44,704,101038,Marion,0,7Z7825,9619
-M44,704,101039,Marion,0,7Z7907,9619
-M44,704,101040,Golden Grove ,1,7Z7904,7966
-M44,704,101041,Golden Grove ,1,7Z7808,7966
-M44,704,101042,Golden Grove ,1,7Z7811,7966
-M44,704,101043,Golden Grove ,1,7Z7804,7966
-M44,704,101044,Golden Grove ,1,7Z7902,7966
-M44,704,101045,Golden Grove ,1,7Z7810,7966
-M44,704,101046,Golden Grove ,1,7Z7905,7966
-M44,704,101047,Golden Grove ,1,7Z7903,7966
-M44,704,101048,Golden Grove ,1,7Z7837,7966
-M44C,704,101049,City,0,7Z7809,9620
-M44C,704,101050,City,0,7Z7828,9620
-M44C,704,101051,City,0,7Z7829,9620
-M44C,704,101052,City,0,7Z7837,9620
-M44C,704,101053,City,0,7Z7822,9620
-M44C,704,101054,City,0,7Z7825,9620
-M44C,704,101055,City ,1,7Z7826,9621
-W91,704,101056,City,0,7S7224,9622
-W91,704,101057,City,0,7S7302,9622
-W91,704,101058,City,0,7S7301,9622
-W91,704,101059,City,0,7S7303,9622
-W91,704,101060,City,0,7S7110,9622
-W91,704,101061,City,0,7S7221,9622
-W91,704,101062,City,0,7S7256,9622
-W91,704,101063,City,0,7S7403,9622
-W91,704,101064,City,0,7S7224,9622
-W91,704,101065,City,0,7S7235,9622
-W91,704,101066,St Marys,1,7S7301,9215
-W91,704,101067,St Marys,1,7S7303,9215
-W91,704,101068,St Marys,1,7S7110,9215
-W91,704,101069,St Marys,1,7S7221,9215
-W91,704,101070,St Marys,1,7S7233,9215
-W91,704,101071,St Marys,1,7S7242,9215
-W91,704,101072,St Marys,1,7S7224,9215
-W91,704,101073,St Marys,1,7S7235,9215
-W91,704,101074,St Marys,1,7S7251,9215
-W91,704,101075,St Marys,1,7S7307,9215
+200,31,99192,City,0,7S2325,7867
+200B,31,99193,Marion,0,7S2409,8337
+734S,1,101088,Marion,0,41479,9624
+734S,1,101089,Marion,0,41483,9624
+734S,1,101090,Marion,0,41470,9624
+734S,1,101091,Marion,0,41465,9624
+734S,1,101092,Colonnades,1,41171,9625
+734S,1,101093,Colonnades,1,41452,9625
+734S,1,101094,Colonnades,1,41466,9625
