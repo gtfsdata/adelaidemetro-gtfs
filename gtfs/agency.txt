@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-admet,Adelaide Metro,http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+admet,Adelaide Metro,http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets/Fares

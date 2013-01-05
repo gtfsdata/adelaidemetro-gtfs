@@ -7443,3 +7443,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101347,,Hail and Ride - Oakridge Rd / Homestead Dr,,-35.068338, 138.61238,,http://www.adelaidemetro.com.au/stops/view/101347,,
 101348,,Temporary Stop O Sullivan Beach Road - North side,,-35.117385, 138.490181,,http://www.adelaidemetro.com.au/stops/view/101348,,
 101349,,Temporary Stop O Sullivan Beach Road - South side,,-35.117431, 138.490759,,http://www.adelaidemetro.com.au/stops/view/101349,,
+101350,,Stop B2 King William Street - East side,,-34.922501, 138.59963,,http://www.adelaidemetro.com.au/stops/view/101350,,
