@@ -333,7 +333,7 @@ C1T,admet,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Intercha
 C1X,admet,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/C1,d5df3d,000000,C1-C1X-C2-C2X-548-N1
 C2,admet,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/C2,c78d86,ffffff,C1-C1X-C2-C2X-548-N1
 C2X,admet,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/C2,56a0d5,ffffff,C1-C1X-C2-C2X-548-N1
-Elizabeth Rd Shuttle,admet,ElizRd,Elizabeth Road Shuttle,"Noarlunga to Noarlunga shuttle service",3,http://www.adelaidemetro.com.au/routes/ElizRd,ddb305,ffffff,
+Elizabeth Rd Shuttle,admet,ElizRd,Elizabeth Road Shuttle,"Noarlunga to Noarlunga shuttle service",3,http://www.adelaidemetro.com.au/routes/ElizRd,ddb305,ffffff,ElizRd
 G10,admet,G10,Marion Centre Interchange to Blair Athol ,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10
 G10A,admet,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10
 G10B,admet,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10
