@@ -1,55 +1,11 @@
-From http://www.adelaidemetro.com.au/general/general-transit-feed-data:
+From http://www.adelaidemetro.com.au/Developer-Information:
 
-License Agreement
+With the exception of the Piping Shrike emblem, images, and other material
+or devices protected by a trademark and subject to review by the Government
+of South Australia at all times, the content of this website is licensed
+under the Creative Commons Australia Attribution 3.0 Licence.
 
-The Department for Transport, Energy and Infrastructure (DTEI) hereby grants
-you (Licensee) non-exclusive, limited and revocable rights to use,
-reproduce, and redistribute Public Transport Services Data comprising only
-the data that is available for download from this page (The Data) subject to
-the following Terms:
+The Government of South Australia requests attribution as ’Adelaide Metro’.
+All other rights are reserved.  
 
-* The State Emblem, DTEI and Adelaide Metro trademarks and copyrighted
-materials, including any confusingly similar variants, may not be used in
-association with The Data.
-
-* If you, the Licensee, give   The Data to another person or incorporate The
-Data into another product for use by another person, you must state in doing
-so that The Data is available free of charge from adelaidemetro.com.au
-
-* The Licensee is not to delete, obscure or corrupt, add, remove or otherwise
-alter The Data, including but not limited to misrepresentation of the
-meaning of the data, misleading alteration of the data or display of the
-data with the intent to mislead or cause damage to DTEI or others.
-
-* The Data is provided on an "as is" and "as available" basis. DTEI makes no
-representations or warranties of any kind, express or implied. DTEI
-disclaims all warranties, express or implied, including but not limited to
-implied warranties of merchantability and fitness for a particular purpose.
-DTEI and its employees, officers, directors and agents will not be liable
-for damages of any kind arising from the use of The Data including but not
-limited to direct, indirect, incidental, punitive and consequential damages.
-
-* DTEI reserves the right to alter and/or no longer provide The Data at any
-time without prior notice.
-
-* At all times DTEI maintains title, ownership, rights and interest in and to
-The Data.
-
-* By downloading or using The Data, you agree to be bound by all of the Terms
-and Conditions set forth in this agreement.
-
-Applicable Law
-
-The laws of the State of South Australia shall govern all rights and
-obligations under this Agreement, without giving effect to any principles of
-conflicts of laws and by entering into the agreement you agree to be subject
-to the jurisdiction of the courts of South Australia.
-
-Entire Agreement
-
-This Agreement constitutes the complete and exclusive agreement between DTEI
-and Licensee with respect to the subject matter hereof and supersedes all
-prior oral or written understandings, communications, or agreements not
-specifically incorporated herein. 
-
-DTEI reserves the right to modify or revoke this agreement at any time.
+http://creativecommons.org/licenses/by/3.0/au/deed.en
