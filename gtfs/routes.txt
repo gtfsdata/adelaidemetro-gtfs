@@ -3,9 +3,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 100K,5,100K,Plympton to Kensington,"Terminates at stop 145 Portrush Road, Kensignton. Limited service operates Monday to Friday school days only",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
 100P,5,100P,Arndale Centre Interchange to Plympton,"Terminates at Stop 184 Marion Road, Plympton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
 101,5,101,Arndale Centre Interchange to Flinders University,"via Woodville Road, Holbrooks Road & Marion Road. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/101,CB6F21,ffffff,100-101
-115,5,115,West Lakes Centre Interchange to city,"via Trimmer Parade & Crittenden Road.  Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/115,009290,ffffff,115-117-118
-117,5,117,Port Adelaide Interchange to city ,"via Bartley Terrace, West Lakes Centre Interchange & Crittenden Road.  Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/117,e20e4f,ffffff,115-117-118
-118,5,118,Port Adelaide Interchange to city ,"via Tapleys Hill Road, Crittenden Road & Grange Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/118,959ca1,ffffff,115-117-118
+115,5,115,West Lakes Centre Interchange to City,"via Trimmer Parade & Crittenden Road.  Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/115,009290,ffffff,115-117-118
+117,5,117,Port Adelaide Interchange to City,"via Bartley Terrace, West Lakes Centre Interchange & Crittenden Road.  Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/117,e20e4f,ffffff,115-117-118
+118,5,118,Port Adelaide Interchange to City,"via Tapleys Hill Road, Crittenden Road & Grange Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/118,959ca1,ffffff,115-117-118
 140,5,140,Glen Osmond to City,"via Portrush Road. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/140,ffd204,000000,140-144-147-148
 141,5,141,Stonyfell to City,"via Hallett Road & Kensington Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/141,897967,ffffff,141-142
 142,5,142,Burnside to City,"via Glynburn Road, Tusmore Avenue & Kensington Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/142,642d8a,ffffff,141-142
@@ -242,9 +242,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 725F,4,725F,Noarlunga Centre Interchange to City,"via Southgate Plaza, Old Reynella Interchange and Main South Road. Limited stop service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/725F,ddb305,ffffff,725-725F
 733,4,733,Colonnades Centre Interchange to Marion Centre Interchange ,"via Woodcroft Community Centre. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/733,b31d15,ffffff,723F-723X-733
 733C,4,733C,Colonnades Centre Interchange to Woodcroft Community Centre,"Terminates at Woodcroft Community Centre",3,http://www.adelaidemetro.com.au/routes/733,7bc142,ffffff,723F-723X-733
-733G,4,733G,Colonnades Centre Intercahange to Marion Centre Interchange ,"Terminates at Stop 33 Main South Road",3,http://www.adelaidemetro.com.au/routes/733G,7bc142,ffffff,723F-723X-733
-734,4,734,Colonnades Centre Intercahange to Marion Centre Interchange ,"via O'Sullivan Beach, Southgate Plaza & Trott Park. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/734,fdc281,000000,724-734
-734S,4,734S,Colonnades Centre Intercahange to Marion Centre Interchange ,"via Lonsdale Station",3,http://www.adelaidemetro.com.au/routes/734,fdc281,000000,724-734
+733G,4,733G,Colonnades Centre Interchange to Marion Centre Interchange,"Terminates at Stop 33 Main South Road",3,http://www.adelaidemetro.com.au/routes/733G,7bc142,ffffff,723F-723X-733
+734,4,734,Colonnades Centre Interchange to Marion Centre Interchange,"via O'Sullivan Beach, Southgate Plaza & Trott Park. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/734,fdc281,000000,724-734
+734S,4,734S,Colonnades Centre Interchange to Marion Centre Interchange,"via Lonsdale Station",3,http://www.adelaidemetro.com.au/routes/734,fdc281,000000,724-734
 737,4,737,Chandlers Hill to Old Reynella Interchange,"via Hillsview Retirement Village and Aberfoyle Hub. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/737,89d3df,000000,737
 740,4,740,Seaford Centre to Colonnades Centre Interchange,"via Grand Boulevard & Commercial Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/740,f7afc3,000000,740-741
 740A,4,740A,Seaford Centre to Noarlunga Centre Interchange,"Terminates at Noarlunga Centre Interchange",3,http://www.adelaidemetro.com.au/routes/740,f7afc3,000000,740-741
@@ -334,30 +334,6 @@ C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/C2,c78d86,ffffff,C1-C1X-C2-C2X-548-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/C2,56a0d5,ffffff,C1-C1X-C2-C2X-548-N1
 ElizRd,4,ElizRd,Elizabeth Road Shuttle,"Noarlunga to Noarlunga shuttle service",3,http://www.adelaidemetro.com.au/routes/ElizRd,ddb305,ffffff,ElizRd
-FX1,7,FX1,Golden Grove Village to AAMI Stadium,"via Adelaide O-Bahn",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX10,5,FX10,Norwood Oval to AAMI Stadium,"Express to AAMI Stadium (Crows games only)",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX11,5,FX11,UniSA Magill Campus to AAMI Stadium,"via Magill Road",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX12,6,FX12,Aldgate to AAMI Stadium,"via Stirling and Crafers",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX13,6,FX13,Mt Barker to AAMI Stadium,"via Hahndorf and Bridgewater",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX14,7,FX14,Belair to AAMI Stadium,"via Goodwood Road",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX15,7,FX15,Torrens Park to AAMI Stadium,"via Unley Road",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX16,5,FX16,Adelaide Shores to AAMI Stadium,"via Military Road",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX17,7,FX17,Morphettville Depot to AAMI Stadium,"via Marion and Henley Beach Roads",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX18,4,FX18,South Adelaide Football Club to AAMI Stadium,"via Old Reynella, Marion Centre Interchange and Glenelg Oval",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX19,4,FX19,Seaford Shopping Centre to AAMI Stadium,"via Hallett Cove, Brighton Railway Station and Glenelg Oval",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,FX
-FX2,7,FX2,St Agnes Depot to AAMI Stadium,"via Adelaide O-Bahn",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,FX
-FX20,7,FX20,Aberfoyle Hub to AAMI Stadium,"via Black Road, Flaggstaff Road and South Road",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,FX
-FX21,4,FX21,Woodcroft Community Centre to AAMI Stadium,"via Happy Valley and South Road",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,FX
-FX22,5,FX22,City to AAMI Stadium,"via Port Road",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,FX
-FX23,4,FX23,Mawson Interchange to AAMI Stadium,"via Main North Road",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,FX
-FX3,7,FX3,Clovercrest Shopping Centre to AAMI Stadium,"via Regency Road",3,http://www.adelaidemetro.com.au/routes/FX3,4b711c,ffffff,FX
-FX4,4,FX4,Elizabeth Station to AAMI Stadium,"via Brahma Lodge",3,http://www.adelaidemetro.com.au/routes/FX4,4b711c,ffffff,FX
-FX5,4,FX5,Elizabeth Oval to AAMI Stadium,"via Salisbury Highway",3,http://www.adelaidemetro.com.au/routes/FX5,4b711c,ffffff,FX
-FX6,4,FX6,Salisbury North Football Club to AAMI Stadium,"via Paralowie and Hollywood Plaza",3,http://www.adelaidemetro.com.au/routes/FX6,4b711c,ffffff,FX
-FX7,4,FX7,Davoren Park to AAMI Stadium,"via Smithfield, Munno Para, Para Hills Shops and Bridge Road",3,http://www.adelaidemetro.com.au/routes/FX7,4b711c,ffffff,FX
-FX8,5,FX8,Alberton Oval to AAMI Stadium,"Express to AAMI Stadium (Power games only)",3,http://www.adelaidemetro.com.au/routes/FX8,4b711c,ffffff,FX
-FX9,5,FX9,Port Adelaide to AAMI Stadium,"via Outer Harbor",3,http://www.adelaidemetro.com.au/routes/FX9,4b711c,ffffff,FX
-FXSeat,5,FXSeat,Seaton High School Shuttle,"Stop 32A Frederick Road to AAMI Stadium",3,http://www.adelaidemetro.com.au/routes/FXSeaton,4b711c,ffffff,FX
 G10,7,G10,Marion Centre Interchange to Blair Athol ,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N1-N21
 G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N1-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N1-N21
@@ -371,10 +347,10 @@ G30,7,G30,Blackwood Station to City,"via Main Road & Goodwood Road. Service oper
 G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/G40,6d2262,ffffff,G40
 G40M,7,G40M,Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange",3,http://www.adelaidemetro.com.au/routes/G40,6d2262,ffffff,G40
 GA1,4,GA1,North Adelaide to city,"Train substituate service",3,http://www.adelaidemetro.com.au/routes/GA1,f79433,ffffff,GAWC-GAW-SALIS-GA1
-GAW,2,GAW,Gawler to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS-GA1
-GAWC,2,GAWC,Gawler Central to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS-GA1
+GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson Lakes.",2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
+GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson Lakes. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
 GLAN,2,GLAN,Glanville to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
-GRNG,2,GRNG,Grange to City,,2,http://www.adelaidemetro.com.au/routes/Grange,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
+GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Grange,936eb0,ffffff,OUTHA-GRNG-OSBORN
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,F68429,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to city,"Terminates in the City",3,http://www.adelaidemetro.com.au/routes/H20,F68429,ffffff,H20-H21-580
 H20R,5,H20R,Paradise Interchange to Richmond,"Terminates at stop 8G Marion Road, Richmond",3,http://www.adelaidemetro.com.au/routes/H20,F68429,ffffff,H20-H21-580
@@ -424,11 +400,11 @@ N7,4,N7,Woodlands Park to Tonsley,"via Mitchell Park",3,http://www.adelaidemetro
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM",3,http://www.adelaidemetro.com.au/routes/N721,006c64,ffffff,721-721F-721X-T721-T721X-N721
 N864,6,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road",3,http://www.adelaidemetro.com.au/routes/N864,c60845,ffffff,823-840F-860F-863-863F-864-864F-N864-T840-T863
 NOAR,2,NOAR,Noarlunga to City,,2,http://www.adelaidemetro.com.au/routes/Noarlunga,0065a4,ffffff,NOAR-TONS-BRTN-N3-N4-N5-N6-N7-N3X
-OSBORN,2,OSBORN,Osborne to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-OSBORN-GRNG-GLAN-W1
-OUTHA,2,OUTHA,Outer Harbor to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
+OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-OSBORN-GRNG
+OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-OSBORN
 RZ22,7,RZ22,Aberfoyle Park and Happy Valley Roam Zone,"will connect with G22 services and take you to your door",3,http://www.adelaidemetro.com.au/routes/RZ22,ef6d1f,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
 RZ5,7,RZ5,Holden Hill Roam Zone Service,"Evening Roaming service after 7pm until last service. To your door or as close as we can get. Service operates Monday to Friday",3,http://www.adelaidemetro.com.au/routes/RZ5,9396ca,ffffff,503-507-RZ5
-SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS-GA1
+SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
 SB1,5,SB1,Eden Hills to Temple Christian College,"via Blackwood, Belair, Mitcham, Goodwood and city",3,http://www.adelaidemetro.com.au/routes/SB1,4b711c,ffffff,BEL-B1-B1X-SB1-LS
 Seacom,7,Seacom,Marion Centre to Marion Centre,"Seacombe Road shuttle service",3,http://www.adelaidemetro.com.au/routes/Seacombe Shuttle,E71939,000000,Seacombe Shuttle
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/T721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
