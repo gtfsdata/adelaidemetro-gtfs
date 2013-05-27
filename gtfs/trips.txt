@@ -323,253 +323,253 @@ GAWC,5,30793,Gawler Central,,1,B385,3886,1
 GAWC,1,30799,City,,0,B213,3884,1
 GAWC,11,41056,City,,0,B315,3884,1
 GAWC,12,41057,City,,0,B315,3884,1
-Tram,1,58026,Entertainment Centre,,0,B840,7474,1
-Tram,1,58027,Entertainment Centre,,0,B841,7474,1
-Tram,1,58028,Entertainment Centre,,0,B842,7474,1
-Tram,1,58029,Entertainment Centre,,0,B841,7365,1
-Tram,1,58030,Entertainment Centre,,0,B842,7365,1
-Tram,1,58031,Entertainment Centre,,0,B843,7365,1
-Tram,1,58032,Entertainment Centre,,0,B844,7365,1
-Tram,1,58033,Entertainment Centre,,0,B845,7365,1
-Tram,1,58034,Entertainment Centre,,0,B846,7365,1
-Tram,1,58035,Entertainment Centre,,0,B840,7365,1
-Tram,1,58036,Entertainment Centre,,0,B847,7365,1
-Tram,1,58037,Entertainment Centre,,0,B848,7365,1
-Tram,1,58038,Entertainment Centre,,0,B841,7365,1
-Tram,1,58039,Entertainment Centre,,0,B849,7365,1
-Tram,1,58040,Entertainment Centre,,0,B842,7365,1
-Tram,1,58041,Entertainment Centre,,0,B843,7365,1
-Tram,1,58042,Entertainment Centre,,0,B851,7365,1
-Tram,1,58043,Entertainment Centre,,0,B852,7365,1
-Tram,1,58044,Entertainment Centre,,0,B853,7365,1
-Tram,1,58045,Entertainment Centre,,0,B854,7365,1
-Tram,1,58046,Entertainment Centre,,0,B846,7365,1
-Tram,1,58047,Entertainment Centre,,0,B840,7365,1
-Tram,1,58048,Entertainment Centre,,0,B847,7365,1
-Tram,1,58049,Entertainment Centre,,0,B848,7365,1
-Tram,1,58050,Entertainment Centre,,0,B849,7365,1
-Tram,1,58051,Entertainment Centre,,0,B843,7365,1
-Tram,1,58052,Entertainment Centre,,0,B851,7365,1
-Tram,1,58053,Entertainment Centre,,0,B853,7365,1
-Tram,1,58054,Entertainment Centre,,0,B854,7365,1
-Tram,1,58055,Entertainment Centre,,0,B846,7365,1
-Tram,1,58056,Entertainment Centre,,0,B840,7365,1
-Tram,1,58058,Entertainment Centre,,0,B848,7365,1
-Tram,1,58059,Entertainment Centre,,0,B849,7365,1
-Tram,1,58060,Entertainment Centre,,0,B843,7365,1
-Tram,1,58061,Entertainment Centre,,0,B851,7365,1
-Tram,1,58062,Entertainment Centre,,0,B853,7365,1
-Tram,1,58063,Entertainment Centre,,0,B854,7365,1
-Tram,1,58064,Entertainment Centre,,0,B846,7365,1
-Tram,1,58065,Entertainment Centre,,0,B840,7365,1
-Tram,1,58066,Entertainment Centre,,0,B847,7365,1
-Tram,1,58067,Entertainment Centre,,0,B848,7365,1
-Tram,1,58068,Entertainment Centre,,0,B849,7365,1
-Tram,1,58069,Entertainment Centre,,0,B843,7365,1
-Tram,1,58070,Entertainment Centre,,0,B851,7365,1
-Tram,1,58071,Entertainment Centre,,0,B853,7365,1
-Tram,1,58072,Entertainment Centre,,0,B854,7365,1
-Tram,1,58073,Entertainment Centre,,0,B846,7365,1
-Tram,1,58074,Entertainment Centre,,0,B840,7365,1
-Tram,1,58075,Entertainment Centre,,0,B847,7365,1
-Tram,1,58076,Entertainment Centre,,0,B848,7365,1
-Tram,1,58077,Entertainment Centre,,0,B849,7365,1
-Tram,1,58078,Entertainment Centre,,0,B843,7365,1
-Tram,1,58079,Entertainment Centre,,0,B851,7365,1
-Tram,1,58080,Entertainment Centre,,0,B853,7365,1
-Tram,1,58081,Entertainment Centre,,0,B854,7365,1
-Tram,1,58082,Entertainment Centre,,0,B841,7365,1
-Tram,1,58083,Entertainment Centre,,0,B840,7365,1
-Tram,1,58084,Entertainment Centre,,0,B842,7365,1
-Tram,1,58085,Entertainment Centre,,0,B849,7365,1
-Tram,1,58086,Entertainment Centre,,0,B852,7365,1
-Tram,1,58087,Entertainment Centre,,0,B850,7365,1
-Tram,1,58088,Entertainment Centre,,0,B851_2,7365,1
-Tram,1,58089,Entertainment Centre,,0,B854,7365,1
-Tram,1,58090,Entertainment Centre,,0,B840,7365,1
-Tram,1,58091,Entertainment Centre,,0,B842,7365,1
-Tram,1,58092,Entertainment Centre,,0,B852,7365,1
-Tram,1,58093,Entertainment Centre,,0,B850,7365,1
-Tram,1,58094,Entertainment Centre,,0,B853,7365,1
-Tram,1,58095,Entertainment Centre,,0,B854,7365,1
-Tram,1,58096,Entertainment Centre,,0,B840,7365,1
-Tram,1,58097,Entertainment Centre,,0,B842,7365,1
-Tram,1,58098,Entertainment Centre,,0,B852,7365,1
-Tram,1,58099,Entertainment Centre,,0,B850,7365,1
-Tram,1,58100,Entertainment Centre,,0,B853,7365,1
-Tram,1,58101,Entertainment Centre,,0,B854,7365,1
-Tram,1,58102,Entertainment Centre,,0,B840,7365,1
-Tram,1,58104,City,,0,B844,7475,1
-Tram,1,58105,City,,0,B845,7475,1
-Tram,5,58107,City,,0,B845,7475,1
-Tram,5,58108,City,,0,B851_1,7475,1
-Tram,1,58109,City West,,0,B850,7382,1
-Tram,1,58110,City West,,0,B844,7382,1
-Tram,1,58111,City West,,0,B845,7382,1
-Tram,1,58112,City West,,0,B852,7382,1
-Tram,1,58113,City West,,0,B850,7382,1
-Tram,1,58114,City West,,0,B844,7382,1
-Tram,1,58115,City West,,0,B845,7382,1
-Tram,1,58116,City West,,0,B852,7382,1
-Tram,1,58117,City West,,0,B850,7382,1
-Tram,1,58118,City West,,0,B844,7382,1
-Tram,1,58119,City West,,0,B845,7382,1
-Tram,1,58120,City West,,0,B852,7382,1
-Tram,1,58121,City West,,0,B850,7382,1
-Tram,1,58122,City West,,0,B844,7382,1
-Tram,1,58123,City West,,0,B845,7382,1
-Tram,1,58124,City West,,0,B852,7382,1
-Tram,1,58125,City West,,0,B850,7382,1
-Tram,1,58126,City West,,0,B844,7382,1
-Tram,1,58127,City West,,0,B845,7382,1
-Tram,1,58128,City West,,0,B852,7382,1
-Tram,1,58129,City West,,0,B850,7382,1
-Tram,1,58130,City West,,0,B844,7382,1
-Tram,1,58131,City West,,0,B845,7382,1
-Tram,1,58132,City West,,0,B852,7382,1
-Tram,1,58133,City West,,0,B850,7382,1
-Tram,1,58134,City West,,0,B844,7382,1
-Tram,1,58135,City West,,0,B845,7382,1
-Tram,1,58136,City West,,0,B852,7382,1
-Tram,1,58137,City West,,0,B850,7382,1
-Tram,1,58138,City West,,0,B844,7382,1
-Tram,5,58139,City West,,0,B845,7382,1
-Tram,5,58140,City West,,0,B851,7382,1
-Tram,5,58141,City West,,0,B845,7382,1
-Tram,5,58142,City West,,0,B851,7382,1
-Tram,5,58143,City West,,0,B845,7382,1
-Tram,1,58144,Entertainment Centre,,0,B845,7383,1
-Tram,1,58145,Entertainment Centre,,0,B852,7383,1
-Tram,1,58146,Entertainment Centre,,0,B850,7383,1
-Tram,1,58147,Entertainment Centre,,0,B844,7383,1
-Tram,1,58148,Glenelg,,1,B841,5229,1
-Tram,1,58149,Glenelg,,1,B845,5229,1
-Tram,1,58150,Glenelg,,1,B846,5229,1
-Tram,1,58151,Glenelg,,1,B847,5229,1
-Tram,1,58152,Glenelg,,1,B853,5229,1
-Tram,1,58153,Glenelg,,1,B840,7364,1
-Tram,1,58154,Glenelg,,1,B841,7364,1
-Tram,1,58155,Glenelg,,1,B842,7364,1
-Tram,1,58156,Glenelg,,1,B843,7364,1
-Tram,1,58157,Glenelg,,1,B844,7364,1
-Tram,1,58158,Glenelg,,1,B845,7364,1
-Tram,1,58159,Glenelg,,1,B846,7364,1
-Tram,1,58160,Glenelg,,1,B840,7364,1
-Tram,1,58161,Glenelg,,1,B847,7364,1
-Tram,1,58162,Glenelg,,1,B848,7364,1
-Tram,1,58163,Glenelg,,1,B841,7364,1
-Tram,1,58164,Glenelg,,1,B849,7364,1
-Tram,1,58165,Glenelg,,1,B842,7364,1
-Tram,1,58166,Glenelg,,1,B843,7364,1
-Tram,1,58167,Glenelg,,1,B851,7364,1
-Tram,1,58168,Glenelg,,1,B853,7364,1
-Tram,1,58169,Glenelg,,1,B854,7364,1
-Tram,1,58170,Glenelg,,1,B846,7364,1
-Tram,1,58171,Glenelg,,1,B840,7364,1
-Tram,1,58172,Glenelg,,1,B847,7364,1
-Tram,1,58173,Glenelg,,1,B848,7364,1
-Tram,1,58174,Glenelg,,1,B849,7364,1
-Tram,1,58175,Glenelg,,1,B843,7364,1
-Tram,1,58176,Glenelg,,1,B851,7364,1
-Tram,1,58177,Glenelg,,1,B853,7364,1
-Tram,1,58178,Glenelg,,1,B854,7364,1
-Tram,1,58179,Glenelg,,1,B846,7364,1
-Tram,1,58180,Glenelg,,1,B840,7364,1
-Tram,1,58181,Glenelg,,1,B847,7364,1
-Tram,1,58182,Glenelg,,1,B848,7364,1
-Tram,1,58184,Glenelg,,1,B843,7364,1
-Tram,1,58185,Glenelg,,1,B851,7364,1
-Tram,1,58186,Glenelg,,1,B853,7364,1
-Tram,1,58187,Glenelg,,1,B854,7364,1
-Tram,1,58188,Glenelg,,1,B846,7364,1
-Tram,1,58189,Glenelg,,1,B840,7364,1
-Tram,1,58190,Glenelg,,1,B847,7364,1
-Tram,1,58191,Glenelg,,1,B848,7364,1
-Tram,1,58192,Glenelg,,1,B849,7364,1
-Tram,1,58193,Glenelg,,1,B843,7364,1
-Tram,1,58194,Glenelg,,1,B851,7364,1
-Tram,1,58195,Glenelg,,1,B853,7364,1
-Tram,1,58196,Glenelg,,1,B854,7364,1
-Tram,1,58197,Glenelg,,1,B846,7364,1
-Tram,1,58198,Glenelg,,1,B841,7364,1
-Tram,1,58199,Glenelg,,1,B840,7364,1
-Tram,1,58200,Glenelg,,1,B847,7364,1
-Tram,1,58201,Glenelg,,1,B842,7364,1
-Tram,1,58202,Glenelg,,1,B848,7364,1
-Tram,1,58203,Glenelg,,1,B849,7364,1
-Tram,1,58204,Glenelg,,1,B843,7364,1
-Tram,1,58205,Glenelg,,1,B851,7364,1
-Tram,1,58206,Glenelg,,1,B853,7364,1
-Tram,1,58207,Glenelg,,1,B854,7364,1
-Tram,1,58208,Glenelg,,1,B841,7364,1
-Tram,1,58209,Glenelg,,1,B840,7364,1
-Tram,1,58210,Glenelg,,1,B842,7364,1
-Tram,1,58211,Glenelg,,1,B849,7364,1
-Tram,1,58212,Glenelg,,1,B852,7364,1
-Tram,1,58213,Glenelg,,1,B850,7364,1
-Tram,1,58214,Glenelg,,1,B853,7364,1
-Tram,1,58215,Glenelg,,1,B854,7364,1
-Tram,1,58216,Glenelg,,1,B840,7364,1
-Tram,1,58217,Glenelg,,1,B842,7364,1
-Tram,1,58218,Glenelg,,1,B852,7364,1
-Tram,1,58219,Glenelg,,1,B850,7364,1
-Tram,1,58220,Glenelg,,1,B853,7364,1
-Tram,1,58221,Glenelg,,1,B854,7364,1
-Tram,1,58222,Glenelg,,1,B840,7364,1
-Tram,1,58223,Glenelg,,1,B842,7364,1
-Tram,1,58224,Glenelg,,1,B852,7364,1
-Tram,1,58225,Glenelg,,1,B850,7364,1
-Tram,1,58226,Glenelg,,1,B853,7364,1
-Tram,1,58227,Glenelg,,1,B854,7364,1
-Tram,1,58228,Glenelg,,1,B840,7364,1
-Tram,1,58230,South Tce,,1,B844,7477,1
-Tram,1,58231,South Tce,,1,B845,7477,1
-Tram,1,58232,South Tce,,1,B850,7477,1
-Tram,1,58233,South Tce,,1,B844,7477,1
-Tram,1,58234,South Tce,,1,B845,7477,1
-Tram,1,58235,South Tce,,1,B852,7477,1
-Tram,1,58236,South Tce,,1,B850,7477,1
-Tram,1,58237,South Tce,,1,B844,7477,1
-Tram,1,58238,South Tce,,1,B845,7477,1
-Tram,1,58239,South Tce,,1,B852,7477,1
-Tram,1,58240,South Tce,,1,B850,7477,1
-Tram,1,58241,South Tce,,1,B844,7477,1
-Tram,1,58242,South Tce,,1,B845,7477,1
-Tram,1,58243,South Tce,,1,B852,7477,1
-Tram,1,58244,South Tce,,1,B850,7477,1
-Tram,1,58245,South Tce,,1,B844,7477,1
-Tram,1,58246,South Tce,,1,B845,7477,1
-Tram,1,58247,South Tce,,1,B852,7477,1
-Tram,1,58248,South Tce,,1,B850,7477,1
-Tram,1,58249,South Tce,,1,B844,7477,1
-Tram,1,58250,South Tce,,1,B845,7477,1
-Tram,1,58251,South Tce,,1,B852,7477,1
-Tram,1,58252,South Tce,,1,B850,7477,1
-Tram,1,58253,South Tce,,1,B844,7477,1
-Tram,1,58254,South Tce,,1,B845,7477,1
-Tram,1,58255,South Tce,,1,B852,7477,1
-Tram,1,58256,South Tce,,1,B850,7477,1
-Tram,1,58257,South Tce,,1,B844,7477,1
-Tram,1,58258,South Tce,,1,B845,7477,1
-Tram,1,58259,South Tce,,1,B852,7477,1
-Tram,1,58260,South Tce,,1,B850,7477,1
-Tram,1,58261,South Tce,,1,B844,7477,1
-Tram,5,58262,South Tce,,1,B845,7477,1
-Tram,5,58263,South Tce,,1,B851_3,7477,1
-Tram,5,58264,South Tce,,1,B845,7477,1
-Tram,5,58265,South Tce,,1,B851,7477,1
-Tram,5,58266,South Tce,,1,B845,7477,1
-Tram,1,58267,City South,,1,B852,7476,1
-Tram,5,58273,Glenelg,,1,B851,7478,1
-Tram,5,58274,Glenelg,,1,B845,7478,1
-Tram,1,58275,Entertainment Centre,,0,B850,7365,1
-Tram,1,58276,City South,,1,B850,7476,1
-Tram,1,59002,Entertainment Centre,,0,B833,7365,1
-Tram,1,59003,Glenelg,,1,B845,7364,1
-Tram,1,59004,Glenelg,,1,B852,7364,1
-Tram,1,59005,Glenelg,,1,B850,7364,1
-Tram,1,59006,Glenelg,,1,B844,7364,1
-Tram,1,59007,Glenelg,,1,B849,7364,1
+Tram,5011,58026,Entertainment Centre,,0,B840,7474,1
+Tram,5011,58027,Entertainment Centre,,0,B841,7474,1
+Tram,5011,58028,Entertainment Centre,,0,B842,7474,1
+Tram,5011,58029,Entertainment Centre,,0,B841,7365,1
+Tram,5011,58030,Entertainment Centre,,0,B842,7365,1
+Tram,5011,58031,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58032,Entertainment Centre,,0,B844,7365,1
+Tram,5011,58033,Entertainment Centre,,0,B845,7365,1
+Tram,5011,58034,Entertainment Centre,,0,B846,7365,1
+Tram,5011,58035,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58036,Entertainment Centre,,0,B847,7365,1
+Tram,5011,58037,Entertainment Centre,,0,B848,7365,1
+Tram,5011,58038,Entertainment Centre,,0,B841,7365,1
+Tram,5011,58039,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58040,Entertainment Centre,,0,B842,7365,1
+Tram,5011,58041,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58042,Entertainment Centre,,0,B851,7365,1
+Tram,5011,58043,Entertainment Centre,,0,B852,7365,1
+Tram,5011,58044,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58045,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58046,Entertainment Centre,,0,B846,7365,1
+Tram,5011,58047,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58048,Entertainment Centre,,0,B847,7365,1
+Tram,5011,58049,Entertainment Centre,,0,B848,7365,1
+Tram,5011,58050,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58051,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58052,Entertainment Centre,,0,B851,7365,1
+Tram,5011,58053,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58054,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58055,Entertainment Centre,,0,B846,7365,1
+Tram,5011,58056,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58058,Entertainment Centre,,0,B848,7365,1
+Tram,5011,58059,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58060,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58061,Entertainment Centre,,0,B851,7365,1
+Tram,5011,58062,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58063,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58064,Entertainment Centre,,0,B846,7365,1
+Tram,5011,58065,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58066,Entertainment Centre,,0,B847,7365,1
+Tram,5011,58067,Entertainment Centre,,0,B848,7365,1
+Tram,5011,58068,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58069,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58070,Entertainment Centre,,0,B851,7365,1
+Tram,5011,58071,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58072,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58073,Entertainment Centre,,0,B846,7365,1
+Tram,5011,58074,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58075,Entertainment Centre,,0,B847,7365,1
+Tram,5011,58076,Entertainment Centre,,0,B848,7365,1
+Tram,5011,58077,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58078,Entertainment Centre,,0,B843,7365,1
+Tram,5011,58079,Entertainment Centre,,0,B851,7365,1
+Tram,5011,58080,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58081,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58082,Entertainment Centre,,0,B841,7365,1
+Tram,5011,58083,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58084,Entertainment Centre,,0,B842,7365,1
+Tram,5011,58085,Entertainment Centre,,0,B849,7365,1
+Tram,5011,58086,Entertainment Centre,,0,B852,7365,1
+Tram,5011,58087,Entertainment Centre,,0,B850,7365,1
+Tram,5011,58088,Entertainment Centre,,0,B851_2,7365,1
+Tram,5011,58089,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58090,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58091,Entertainment Centre,,0,B842,7365,1
+Tram,5011,58092,Entertainment Centre,,0,B852,7365,1
+Tram,5011,58093,Entertainment Centre,,0,B850,7365,1
+Tram,5011,58094,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58095,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58096,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58097,Entertainment Centre,,0,B842,7365,1
+Tram,5011,58098,Entertainment Centre,,0,B852,7365,1
+Tram,5011,58099,Entertainment Centre,,0,B850,7365,1
+Tram,5011,58100,Entertainment Centre,,0,B853,7365,1
+Tram,5011,58101,Entertainment Centre,,0,B854,7365,1
+Tram,5011,58102,Entertainment Centre,,0,B840,7365,1
+Tram,5011,58104,West Tce,,0,B844,7475,1
+Tram,5011,58105,West Tce,,0,B845,7475,1
+Tram,5016,58107,West Tce,,0,B845,7475,1
+Tram,5016,58108,West Tce,,0,B851_1,7475,1
+Tram,5011,58109,West Tce,,0,B850,7382,1
+Tram,5011,58110,West Tce,,0,B844,7382,1
+Tram,5011,58111,West Tce,,0,B845,7382,1
+Tram,5011,58112,West Tce,,0,B852,7382,1
+Tram,5011,58113,West Tce,,0,B850,7382,1
+Tram,5011,58114,West Tce,,0,B844,7382,1
+Tram,5011,58115,West Tce,,0,B845,7382,1
+Tram,5011,58116,West Tce,,0,B852,7382,1
+Tram,5011,58117,West Tce,,0,B850,7382,1
+Tram,5011,58118,West Tce,,0,B844,7382,1
+Tram,5011,58119,West Tce,,0,B845,7382,1
+Tram,5011,58120,West Tce,,0,B852,7382,1
+Tram,5011,58121,West Tce,,0,B850,7382,1
+Tram,5011,58122,West Tce,,0,B844,7382,1
+Tram,5011,58123,West Tce,,0,B845,7382,1
+Tram,5011,58124,West Tce,,0,B852,7382,1
+Tram,5011,58125,West Tce,,0,B850,7382,1
+Tram,5011,58126,West Tce,,0,B844,7382,1
+Tram,5011,58127,West Tce,,0,B845,7382,1
+Tram,5011,58128,West Tce,,0,B852,7382,1
+Tram,5011,58129,West Tce,,0,B850,7382,1
+Tram,5011,58130,West Tce,,0,B844,7382,1
+Tram,5011,58131,West Tce,,0,B845,7382,1
+Tram,5011,58132,West Tce,,0,B852,7382,1
+Tram,5011,58133,West Tce,,0,B850,7382,1
+Tram,5011,58134,West Tce,,0,B844,7382,1
+Tram,5011,58135,West Tce,,0,B845,7382,1
+Tram,5011,58136,West Tce,,0,B852,7382,1
+Tram,5011,58137,West Tce,,0,B850,7382,1
+Tram,5011,58138,West Tce,,0,B844,7382,1
+Tram,5016,58139,West Tce,,0,B845,7382,1
+Tram,5016,58140,West Tce,,0,B851,7382,1
+Tram,5016,58141,West Tce,,0,B845,7382,1
+Tram,5016,58142,West Tce,,0,B851,7382,1
+Tram,5016,58143,West Tce,,0,B845,7382,1
+Tram,5011,58144,Entertainment Centre,,0,B845,7383,1
+Tram,5011,58145,Entertainment Centre,,0,B852,7383,1
+Tram,5011,58146,Entertainment Centre,,0,B850,7383,1
+Tram,5011,58147,Entertainment Centre,,0,B844,7383,1
+Tram,5011,58148,Glenelg,,1,B841,5229,1
+Tram,5011,58149,Glenelg,,1,B845,5229,1
+Tram,5011,58150,Glenelg,,1,B846,5229,1
+Tram,5011,58151,Glenelg,,1,B847,5229,1
+Tram,5011,58152,Glenelg,,1,B853,5229,1
+Tram,5011,58153,Glenelg,,1,B840,7364,1
+Tram,5011,58154,Glenelg,,1,B841,7364,1
+Tram,5011,58155,Glenelg,,1,B842,7364,1
+Tram,5011,58156,Glenelg,,1,B843,7364,1
+Tram,5011,58157,Glenelg,,1,B844,7364,1
+Tram,5011,58158,Glenelg,,1,B845,7364,1
+Tram,5011,58159,Glenelg,,1,B846,7364,1
+Tram,5011,58160,Glenelg,,1,B840,7364,1
+Tram,5011,58161,Glenelg,,1,B847,7364,1
+Tram,5011,58162,Glenelg,,1,B848,7364,1
+Tram,5011,58163,Glenelg,,1,B841,7364,1
+Tram,5011,58164,Glenelg,,1,B849,7364,1
+Tram,5011,58165,Glenelg,,1,B842,7364,1
+Tram,5011,58166,Glenelg,,1,B843,7364,1
+Tram,5011,58167,Glenelg,,1,B851,7364,1
+Tram,5011,58168,Glenelg,,1,B853,7364,1
+Tram,5011,58169,Glenelg,,1,B854,7364,1
+Tram,5011,58170,Glenelg,,1,B846,7364,1
+Tram,5011,58171,Glenelg,,1,B840,7364,1
+Tram,5011,58172,Glenelg,,1,B847,7364,1
+Tram,5011,58173,Glenelg,,1,B848,7364,1
+Tram,5011,58174,Glenelg,,1,B849,7364,1
+Tram,5011,58175,Glenelg,,1,B843,7364,1
+Tram,5011,58176,Glenelg,,1,B851,7364,1
+Tram,5011,58177,Glenelg,,1,B853,7364,1
+Tram,5011,58178,Glenelg,,1,B854,7364,1
+Tram,5011,58179,Glenelg,,1,B846,7364,1
+Tram,5011,58180,Glenelg,,1,B840,7364,1
+Tram,5011,58181,Glenelg,,1,B847,7364,1
+Tram,5011,58182,Glenelg,,1,B848,7364,1
+Tram,5011,58184,Glenelg,,1,B843,7364,1
+Tram,5011,58185,Glenelg,,1,B851,7364,1
+Tram,5011,58186,Glenelg,,1,B853,7364,1
+Tram,5011,58187,Glenelg,,1,B854,7364,1
+Tram,5011,58188,Glenelg,,1,B846,7364,1
+Tram,5011,58189,Glenelg,,1,B840,7364,1
+Tram,5011,58190,Glenelg,,1,B847,7364,1
+Tram,5011,58191,Glenelg,,1,B848,7364,1
+Tram,5011,58192,Glenelg,,1,B849,7364,1
+Tram,5011,58193,Glenelg,,1,B843,7364,1
+Tram,5011,58194,Glenelg,,1,B851,7364,1
+Tram,5011,58195,Glenelg,,1,B853,7364,1
+Tram,5011,58196,Glenelg,,1,B854,7364,1
+Tram,5011,58197,Glenelg,,1,B846,7364,1
+Tram,5011,58198,Glenelg,,1,B841,7364,1
+Tram,5011,58199,Glenelg,,1,B840,7364,1
+Tram,5011,58200,Glenelg,,1,B847,7364,1
+Tram,5011,58201,Glenelg,,1,B842,7364,1
+Tram,5011,58202,Glenelg,,1,B848,7364,1
+Tram,5011,58203,Glenelg,,1,B849,7364,1
+Tram,5011,58204,Glenelg,,1,B843,7364,1
+Tram,5011,58205,Glenelg,,1,B851,7364,1
+Tram,5011,58206,Glenelg,,1,B853,7364,1
+Tram,5011,58207,Glenelg,,1,B854,7364,1
+Tram,5011,58208,Glenelg,,1,B841,7364,1
+Tram,5011,58209,Glenelg,,1,B840,7364,1
+Tram,5011,58210,Glenelg,,1,B842,7364,1
+Tram,5011,58211,Glenelg,,1,B849,7364,1
+Tram,5011,58212,Glenelg,,1,B852,7364,1
+Tram,5011,58213,Glenelg,,1,B850,7364,1
+Tram,5011,58214,Glenelg,,1,B853,7364,1
+Tram,5011,58215,Glenelg,,1,B854,7364,1
+Tram,5011,58216,Glenelg,,1,B840,7364,1
+Tram,5011,58217,Glenelg,,1,B842,7364,1
+Tram,5011,58218,Glenelg,,1,B852,7364,1
+Tram,5011,58219,Glenelg,,1,B850,7364,1
+Tram,5011,58220,Glenelg,,1,B853,7364,1
+Tram,5011,58221,Glenelg,,1,B854,7364,1
+Tram,5011,58222,Glenelg,,1,B840,7364,1
+Tram,5011,58223,Glenelg,,1,B842,7364,1
+Tram,5011,58224,Glenelg,,1,B852,7364,1
+Tram,5011,58225,Glenelg,,1,B850,7364,1
+Tram,5011,58226,Glenelg,,1,B853,7364,1
+Tram,5011,58227,Glenelg,,1,B854,7364,1
+Tram,5011,58228,Glenelg,,1,B840,7364,1
+Tram,5011,58230,South Tce,,1,B844,7477,1
+Tram,5011,58231,South Tce,,1,B845,7477,1
+Tram,5011,58232,South Tce,,1,B850,7477,1
+Tram,5011,58233,South Tce,,1,B844,7477,1
+Tram,5011,58234,South Tce,,1,B845,7477,1
+Tram,5011,58235,South Tce,,1,B852,7477,1
+Tram,5011,58236,South Tce,,1,B850,7477,1
+Tram,5011,58237,South Tce,,1,B844,7477,1
+Tram,5011,58238,South Tce,,1,B845,7477,1
+Tram,5011,58239,South Tce,,1,B852,7477,1
+Tram,5011,58240,South Tce,,1,B850,7477,1
+Tram,5011,58241,South Tce,,1,B844,7477,1
+Tram,5011,58242,South Tce,,1,B845,7477,1
+Tram,5011,58243,South Tce,,1,B852,7477,1
+Tram,5011,58244,South Tce,,1,B850,7477,1
+Tram,5011,58245,South Tce,,1,B844,7477,1
+Tram,5011,58246,South Tce,,1,B845,7477,1
+Tram,5011,58247,South Tce,,1,B852,7477,1
+Tram,5011,58248,South Tce,,1,B850,7477,1
+Tram,5011,58249,South Tce,,1,B844,7477,1
+Tram,5011,58250,South Tce,,1,B845,7477,1
+Tram,5011,58251,South Tce,,1,B852,7477,1
+Tram,5011,58252,South Tce,,1,B850,7477,1
+Tram,5011,58253,South Tce,,1,B844,7477,1
+Tram,5011,58254,South Tce,,1,B845,7477,1
+Tram,5011,58255,South Tce,,1,B852,7477,1
+Tram,5011,58256,South Tce,,1,B850,7477,1
+Tram,5011,58257,South Tce,,1,B844,7477,1
+Tram,5011,58258,South Tce,,1,B845,7477,1
+Tram,5011,58259,South Tce,,1,B852,7477,1
+Tram,5011,58260,South Tce,,1,B850,7477,1
+Tram,5011,58261,South Tce,,1,B844,7477,1
+Tram,5016,58262,South Tce,,1,B845,7477,1
+Tram,5016,58263,South Tce,,1,B851_3,7477,1
+Tram,5016,58264,South Tce,,1,B845,7477,1
+Tram,5016,58265,South Tce,,1,B851,7477,1
+Tram,5016,58266,South Tce,,1,B845,7477,1
+Tram,5011,58267,South Tce,,1,B852,7476,1
+Tram,5016,58273,Glenelg,,1,B851,7478,1
+Tram,5016,58274,Glenelg,,1,B845,7478,1
+Tram,5011,58275,Entertainment Centre,,0,B850,7365,1
+Tram,5011,58276,South Tce,,1,B850,7476,1
+Tram,5011,59002,Entertainment Centre,,0,B833,7365,1
+Tram,5011,59003,Glenelg,,1,B845,7364,1
+Tram,5011,59004,Glenelg,,1,B852,7364,1
+Tram,5011,59005,Glenelg,,1,B850,7364,1
+Tram,5011,59006,Glenelg,,1,B844,7364,1
+Tram,5011,59007,Glenelg,,1,B849,7364,1
 506,1,60200,Paradise ,,0,GZ1006,4140,0
 506,1,60201,Paradise ,,0,GZ1013,4140,0
 506,1,60202,Paradise ,,0,GZ1018,4140,0
@@ -4280,152 +4280,152 @@ M44,11,80871,Marion,,0,GZ5825,7993,0
 865,21,80929,City,,0,F1420,6614,0
 HL1,5,81306,Windsor Ave,,0,F1051F,8609,0
 HL2,5,81307,Mt Barker Kmart,,1,F1558F,8610,0
-Tram,11,81750,Glenelg,,1,B840,8660,1
-Tram,11,81751,Glenelg,,1,B841,8660,1
-Tram,11,81752,Glenelg,,1,B842,8660,1
-Tram,11,81753,Glenelg,,1,B843,8660,1
-Tram,11,81754,Glenelg,,1,B844,8660,1
-Tram,11,81755,Glenelg,,1,B845,8660,1
-Tram,11,81756,Glenelg,,1,B846,8660,1
-Tram,11,81757,Glenelg,,1,B847,8660,1
-Tram,11,81758,Glenelg,,1,B840,8661,1
-Tram,11,81759,Glenelg,,1,B841,8661,1
-Tram,11,81760,Glenelg,,1,B842,8661,1
-Tram,11,81761,Glenelg,,1,B843,8661,1
-Tram,11,81762,Glenelg,,1,B844,8661,1
-Tram,11,81763,Glenelg,,1,B845,8661,1
-Tram,11,81764,Glenelg,,1,B840,8661,1
-Tram,11,81765,Glenelg,,1,B846_2,8661,1
-Tram,11,81766,Glenelg,,1,B841,8661,1
-Tram,11,81767,Glenelg,,1,B842,8661,1
-Tram,11,81768,Glenelg,,1,B843,8661,1
-Tram,11,81769,Glenelg,,1,B847,8661,1
-Tram,11,81770,Glenelg,,1,B844,8661,1
-Tram,11,81771,Glenelg,,1,B845,8661,1
-Tram,11,81772,Glenelg,,1,B840,8661,1
-Tram,11,81773,Glenelg,,1,B846,8661,1
-Tram,11,81774,Glenelg,,1,B841,8661,1
-Tram,11,81775,Glenelg,,1,B842,8661,1
-Tram,11,81776,Glenelg,,1,B843,8661,1
-Tram,11,81777,Glenelg,,1,B847,8661,1
-Tram,11,81778,Glenelg,,1,B844,8661,1
-Tram,11,81779,Glenelg,,1,B845,8661,1
-Tram,11,81780,Glenelg,,1,B840,8661,1
-Tram,11,81781,Glenelg,,1,B846,8661,1
-Tram,11,81782,Glenelg,,1,B841,8661,1
-Tram,11,81783,Glenelg,,1,B842,8661,1
-Tram,11,81784,Glenelg,,1,B843,8661,1
-Tram,11,81785,Glenelg,,1,B847,8661,1
-Tram,11,81786,Glenelg,,1,B844,8661,1
-Tram,11,81787,Glenelg,,1,B845,8661,1
-Tram,11,81788,Glenelg,,1,B840,8661,1
-Tram,11,81789,Glenelg,,1,B846,8661,1
-Tram,11,81790,Glenelg,,1,B841,8661,1
-Tram,11,81791,Glenelg,,1,B842,8661,1
-Tram,11,81792,Glenelg,,1,B843,8661,1
-Tram,11,81793,Glenelg,,1,B847,8661,1
-Tram,11,81794,Glenelg,,1,B844,8661,1
-Tram,11,81795,Glenelg,,1,B845,8661,1
+Tram,5012,81750,Glenelg,,1,B840,8660,1
+Tram,5012,81751,Glenelg,,1,B841,8660,1
+Tram,5012,81752,Glenelg,,1,B842,8660,1
+Tram,5012,81753,Glenelg,,1,B843,8660,1
+Tram,5012,81754,Glenelg,,1,B844,8660,1
+Tram,5012,81755,Glenelg,,1,B845,8660,1
+Tram,5012,81756,Glenelg,,1,B846,8660,1
+Tram,5012,81757,Glenelg,,1,B847,8660,1
+Tram,5012,81758,Glenelg,,1,B840,8661,1
+Tram,5012,81759,Glenelg,,1,B841,8661,1
+Tram,5012,81760,Glenelg,,1,B842,8661,1
+Tram,5012,81761,Glenelg,,1,B843,8661,1
+Tram,5012,81762,Glenelg,,1,B844,8661,1
+Tram,5012,81763,Glenelg,,1,B845,8661,1
+Tram,5012,81764,Glenelg,,1,B840,8661,1
+Tram,5012,81765,Glenelg,,1,B846_2,8661,1
+Tram,5012,81766,Glenelg,,1,B841,8661,1
+Tram,5012,81767,Glenelg,,1,B842,8661,1
+Tram,5012,81768,Glenelg,,1,B843,8661,1
+Tram,5012,81769,Glenelg,,1,B847,8661,1
+Tram,5012,81770,Glenelg,,1,B844,8661,1
+Tram,5012,81771,Glenelg,,1,B845,8661,1
+Tram,5012,81772,Glenelg,,1,B840,8661,1
+Tram,5012,81773,Glenelg,,1,B846,8661,1
+Tram,5012,81774,Glenelg,,1,B841,8661,1
+Tram,5012,81775,Glenelg,,1,B842,8661,1
+Tram,5012,81776,Glenelg,,1,B843,8661,1
+Tram,5012,81777,Glenelg,,1,B847,8661,1
+Tram,5012,81778,Glenelg,,1,B844,8661,1
+Tram,5012,81779,Glenelg,,1,B845,8661,1
+Tram,5012,81780,Glenelg,,1,B840,8661,1
+Tram,5012,81781,Glenelg,,1,B846,8661,1
+Tram,5012,81782,Glenelg,,1,B841,8661,1
+Tram,5012,81783,Glenelg,,1,B842,8661,1
+Tram,5012,81784,Glenelg,,1,B843,8661,1
+Tram,5012,81785,Glenelg,,1,B847,8661,1
+Tram,5012,81786,Glenelg,,1,B844,8661,1
+Tram,5012,81787,Glenelg,,1,B845,8661,1
+Tram,5012,81788,Glenelg,,1,B840,8661,1
+Tram,5012,81789,Glenelg,,1,B846,8661,1
+Tram,5012,81790,Glenelg,,1,B841,8661,1
+Tram,5012,81791,Glenelg,,1,B842,8661,1
+Tram,5012,81792,Glenelg,,1,B843,8661,1
+Tram,5012,81793,Glenelg,,1,B847,8661,1
+Tram,5012,81794,Glenelg,,1,B844,8661,1
+Tram,5012,81795,Glenelg,,1,B845,8661,1
 451A,1,81796,Davoren Park 74A,,0,D2220,8663,0
 451A,1,81797,Davoren Park 74A,,0,D2248,8663,0
-Tram,11,81798,Glenelg,,1,B840,8661,1
+Tram,5012,81798,Glenelg,,1,B840,8661,1
 451A,1,81799,Davoren Park 74A,,0,D2147,8663,0
-Tram,11,81800,Glenelg,,1,B846,8661,1
-Tram,11,81801,Glenelg,,1,B841,8661,1
-Tram,11,81802,Glenelg,,1,B842,8661,1
-Tram,11,81803,Glenelg,,1,B843,8661,1
-Tram,11,81804,Glenelg,,1,B847,8661,1
-Tram,11,81805,Glenelg,,1,B844,8661,1
-Tram,11,81806,Glenelg,,1,B845,8661,1
-Tram,11,81807,Glenelg,,1,B840,8661,1
-Tram,11,81808,Glenelg,,1,B846,8661,1
-Tram,11,81809,Glenelg,,1,B841,8661,1
-Tram,11,81810,Glenelg,,1,B842,8661,1
+Tram,5012,81800,Glenelg,,1,B846,8661,1
+Tram,5012,81801,Glenelg,,1,B841,8661,1
+Tram,5012,81802,Glenelg,,1,B842,8661,1
+Tram,5012,81803,Glenelg,,1,B843,8661,1
+Tram,5012,81804,Glenelg,,1,B847,8661,1
+Tram,5012,81805,Glenelg,,1,B844,8661,1
+Tram,5012,81806,Glenelg,,1,B845,8661,1
+Tram,5012,81807,Glenelg,,1,B840,8661,1
+Tram,5012,81808,Glenelg,,1,B846,8661,1
+Tram,5012,81809,Glenelg,,1,B841,8661,1
+Tram,5012,81810,Glenelg,,1,B842,8661,1
 452W,1,81811,Davoren Park,,0,D2230,8664,0
 452W,1,81812,Davoren Park,,0,D2083,8664,0
 452W,1,81813,Davoren Park,,0,D2240,8664,0
-Tram,11,81814,Glenelg,,1,B843,8661,1
-Tram,11,81815,Glenelg,,1,B847,8661,1
-Tram,11,81816,Glenelg,,1,B844,8661,1
-Tram,11,81817,Glenelg,,1,B840,8661,1
-Tram,11,81818,Glenelg,,1,B846,8661,1
-Tram,11,81819,Glenelg,,1,B841,8661,1
-Tram,11,81820,Glenelg,,1,B843,8661,1
-Tram,11,81821,Glenelg,,1,B847,8661,1
-Tram,11,81822,Glenelg,,1,B844,8661,1
-Tram,11,81823,Glenelg,,1,B840,8661,1
-Tram,11,81824,Glenelg,,1,B846,8661,1
-Tram,11,81825,Glenelg,,1,B841,8661,1
-Tram,11,81826,Glenelg,,1,B843,8661,1
-Tram,11,81827,Glenelg,,1,B847,8661,1
-Tram,11,81828,Entertainment Centre,,0,B840,8662,1
-Tram,11,81829,Entertainment Centre,,0,B841,8662,1
-Tram,11,81830,Entertainment Centre,,0,B842,8662,1
-Tram,11,81831,Entertainment Centre,,0,B843,8662,1
-Tram,11,81832,Entertainment Centre,,0,B844,8662,1
-Tram,11,81833,Entertainment Centre,,0,B845,8662,1
-Tram,11,81834,Entertainment Centre,,0,B840,8662,1
-Tram,11,81835,Entertainment Centre,,0,B841,8662,1
-Tram,11,81836,Entertainment Centre,,0,B846_1,8662,1
-Tram,11,81837,Entertainment Centre,,0,B842,8662,1
-Tram,11,81838,Entertainment Centre,,0,B843,8662,1
-Tram,11,81839,Entertainment Centre,,0,B847,8662,1
-Tram,11,81840,Entertainment Centre,,0,B844,8662,1
-Tram,11,81841,Entertainment Centre,,0,B845,8662,1
-Tram,11,81842,Entertainment Centre,,0,B840,8662,1
-Tram,11,81843,Entertainment Centre,,0,B846,8662,1
-Tram,11,81844,Entertainment Centre,,0,B841,8662,1
-Tram,11,81845,Entertainment Centre,,0,B842,8662,1
-Tram,11,81846,Entertainment Centre,,0,B843,8662,1
-Tram,11,81847,Entertainment Centre,,0,B847,8662,1
-Tram,11,81848,Entertainment Centre,,0,B844,8662,1
-Tram,11,81849,Entertainment Centre,,0,B845,8662,1
-Tram,11,81850,Entertainment Centre,,0,B840,8662,1
-Tram,11,81851,Entertainment Centre,,0,B846,8662,1
-Tram,11,81852,Entertainment Centre,,0,B841,8662,1
-Tram,11,81853,Entertainment Centre,,0,B842,8662,1
-Tram,11,81854,Entertainment Centre,,0,B843,8662,1
-Tram,11,81855,Entertainment Centre,,0,B847,8662,1
-Tram,11,81856,Entertainment Centre,,0,B844,8662,1
-Tram,11,81857,Entertainment Centre,,0,B845,8662,1
-Tram,11,81858,Entertainment Centre,,0,B840,8662,1
-Tram,11,81859,Entertainment Centre,,0,B846,8662,1
-Tram,11,81860,Entertainment Centre,,0,B841,8662,1
-Tram,11,81861,Entertainment Centre,,0,B842,8662,1
-Tram,11,81862,Entertainment Centre,,0,B843,8662,1
-Tram,11,81863,Entertainment Centre,,0,B847,8662,1
-Tram,11,81864,Entertainment Centre,,0,B844,8662,1
-Tram,11,81865,Entertainment Centre,,0,B845,8662,1
-Tram,11,81866,Entertainment Centre,,0,B840,8662,1
-Tram,11,81867,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81814,Glenelg,,1,B843,8661,1
+Tram,5012,81815,Glenelg,,1,B847,8661,1
+Tram,5012,81816,Glenelg,,1,B844,8661,1
+Tram,5012,81817,Glenelg,,1,B840,8661,1
+Tram,5012,81818,Glenelg,,1,B846,8661,1
+Tram,5012,81819,Glenelg,,1,B841,8661,1
+Tram,5012,81820,Glenelg,,1,B843,8661,1
+Tram,5012,81821,Glenelg,,1,B847,8661,1
+Tram,5012,81822,Glenelg,,1,B844,8661,1
+Tram,5012,81823,Glenelg,,1,B840,8661,1
+Tram,5012,81824,Glenelg,,1,B846,8661,1
+Tram,5012,81825,Glenelg,,1,B841,8661,1
+Tram,5012,81826,Glenelg,,1,B843,8661,1
+Tram,5012,81827,Glenelg,,1,B847,8661,1
+Tram,5012,81828,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81829,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81830,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81831,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81832,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81833,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81834,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81835,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81836,Entertainment Centre,,0,B846_1,8662,1
+Tram,5012,81837,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81838,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81839,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81840,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81841,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81842,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81843,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81844,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81845,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81846,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81847,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81848,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81849,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81850,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81851,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81852,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81853,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81854,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81855,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81856,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81857,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81858,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81859,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81860,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81861,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81862,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81863,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81864,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81865,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81866,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81867,Entertainment Centre,,0,B846,8662,1
 451A,1,81868,Davoren Park 74A,,1,D2159,8665,0
 451A,11,81869,Davoren Park 74A,,1,D2427,8665,0
-Tram,11,81870,Entertainment Centre,,0,B841,8662,1
-Tram,11,81871,Entertainment Centre,,0,B842,8662,1
-Tram,11,81872,Entertainment Centre,,0,B843,8662,1
-Tram,11,81873,Entertainment Centre,,0,B847,8662,1
-Tram,11,81874,Entertainment Centre,,0,B844,8662,1
-Tram,11,81875,Entertainment Centre,,0,B845,8662,1
-Tram,11,81876,Entertainment Centre,,0,B840,8662,1
-Tram,11,81877,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81870,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81871,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81872,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81873,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81874,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81875,Entertainment Centre,,0,B845,8662,1
+Tram,5012,81876,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81877,Entertainment Centre,,0,B846,8662,1
 452A,1,81878,McVeity Centre,,1,D2161,8666,0
-Tram,11,81879,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81879,Entertainment Centre,,0,B841,8662,1
 452A,11,81880,McVeity Centre,,1,D251,8666,0
-Tram,11,81881,Entertainment Centre,,0,B842,8662,1
-Tram,11,81882,Entertainment Centre,,0,B843,8662,1
-Tram,11,81883,Entertainment Centre,,0,B847,8662,1
-Tram,11,81884,Entertainment Centre,,0,B844,8662,1
-Tram,11,81885,Entertainment Centre,,0,B840,8662,1
-Tram,11,81887,Entertainment Centre,,0,B846,8662,1
-Tram,11,81889,Entertainment Centre,,0,B841,8662,1
-Tram,11,81890,Entertainment Centre,,0,B843,8662,1
-Tram,11,81891,Entertainment Centre,,0,B847,8662,1
-Tram,11,81892,Entertainment Centre,,0,B844,8662,1
-Tram,11,81893,Entertainment Centre,,0,B840,8662,1
-Tram,11,81894,Entertainment Centre,,0,B846,8662,1
-Tram,11,81895,Entertainment Centre,,0,B841,8662,1
-Tram,11,81896,Entertainment Centre,,0,B843,8662,1
-Tram,11,81897,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81881,Entertainment Centre,,0,B842,8662,1
+Tram,5012,81882,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81883,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81884,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81885,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81887,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81889,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81890,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81891,Entertainment Centre,,0,B847,8662,1
+Tram,5012,81892,Entertainment Centre,,0,B844,8662,1
+Tram,5012,81893,Entertainment Centre,,0,B840,8662,1
+Tram,5012,81894,Entertainment Centre,,0,B846,8662,1
+Tram,5012,81895,Entertainment Centre,,0,B841,8662,1
+Tram,5012,81896,Entertainment Centre,,0,B843,8662,1
+Tram,5012,81897,Entertainment Centre,,0,B847,8662,1
 C1T,1,81904,Tea Tree Plaza,,1,GZ1218,8472,0
 RZ5,1,81917,Holden Hill Roam Zone Service,,1,GZ1063,4853,0
 RZ5,1,81918,Holden Hill Roam Zone Service,,1,GS1320,4853,0
@@ -4460,17 +4460,17 @@ RZ5,1,81925,Holden Hill Roam Zone Service,,1,GS1320,4853,0
 100,11,81990,Arndale ,,0,E2425,7681,1
 100P,11,81991,Plympton,,0,E2429,7685,1
 100P,11,81992,Plympton,,0,E4423,7685,1
-Tram,1,83249,Glenelg,,1,B842,5229,1
-Tram,1,83250,Glenelg,,1,B843,5229,1
-Tram,1,83251,Glenelg,,1,B844,5229,1
-Tram,1,83252,Glenelg,,1,B848,5229,1
-Tram,1,83253,Glenelg,,1,B849,5229,1
-Tram,1,83254,Glenelg,,1,B850,5229,1
-Tram,1,83255,Glenelg,,1,B851,5229,1
-Tram,1,83256,Glenelg,,1,B852,5229,1
-Tram,1,83257,Glenelg,,1,B854,5229,1
-Tram,1,83258,Glenelg,,1,B846,7364,1
-Tram,1,83259,Entertainment Centre,,0,B846,7365,1
+Tram,5011,83249,Glenelg,,1,B842,5229,1
+Tram,5011,83250,Glenelg,,1,B843,5229,1
+Tram,5011,83251,Glenelg,,1,B844,5229,1
+Tram,5011,83252,Glenelg,,1,B848,5229,1
+Tram,5011,83253,Glenelg,,1,B849,5229,1
+Tram,5011,83254,Glenelg,,1,B850,5229,1
+Tram,5011,83255,Glenelg,,1,B851,5229,1
+Tram,5011,83256,Glenelg,,1,B852,5229,1
+Tram,5011,83257,Glenelg,,1,B854,5229,1
+Tram,5011,83258,Glenelg,,1,B846,7364,1
+Tram,5011,83259,Entertainment Centre,,0,B846,7365,1
 513,3,83345,Tea Tree Plaza,,1,GS2235,3828,0
 513,3,83346,Elms Village,,0,GZ1283,3827,0
 407,1,83555,Elizabeth Interchange,,1,D2126,9030,0
@@ -5316,7 +5316,6 @@ ElizRd,1,83820,Noarlunga Centre Interchange,,0,,9109,0
 725,11,86259,Noarlunga ,,1,D121,967,0
 725,11,86260,Noarlunga ,,1,D1433,967,0
 725,11,86261,Noarlunga ,,1,D133,967,0
-725,12,86262,Noarlunga ,,1,D133,967,0
 725,12,86263,Noarlunga ,,1,D1560,967,0
 725,12,86264,Noarlunga ,,1,D1508,967,0
 725,12,86265,Noarlunga ,,1,D1518,967,0
@@ -7238,7 +7237,7 @@ N864,51,90249,City,,0,F315,9122,0
 864,31,90253,Mount Barker,,1,,9123,0
 864F,1,90254,Mount Barker,,1,F1504,9124,0
 863,1,90255,Aldgate,,1,F1532,9125,0
-864F,1,90256,Mount Barker,,1,F1540,9124,0
+864F,1,90256,Mount Barker,,1,F1363,9124,0
 864F,1,90257,Mount Barker,,1,F1554,9124,0
 864F,1,90258,Mount Barker,,1,F1526,9124,0
 823,1,90259,Cleland Wildlife Park,,1,F1436,9126,0
@@ -8007,7 +8006,7 @@ G21,11,90965,Aberfoyle Hub,,1,GS5210,8221,0
 560A,1,92028,Salisbury,,0,D2117,8295,0
 560A,43,92029,Salisbury Interchange,,1,D2393,8301,0
 560A,21,92030,Salisbury,,1,D2189,2602,0
-560A,44,92031,Salisbury Interchange,,1,D2189,8301,0
+560A,44,92031,Salisbury Interchange,,1,D2193,8301,0
 560B,31,92032,Ingle Farm ,,0,,8326,0
 560B,21,92033,Ingle Farm ,,0,D2156,9323,0
 560B,1,92034,Ingle Farm ,,0,D2346,8296,0
@@ -8875,7 +8874,7 @@ N22,12,96541,City,,0,E2437,9869,1
 N22,12,96542,City,,0,E2439,9869,1
 N22,12,96543,City,,0,E2437,9869,1
 N22,12,96544,City,,0,E2439,9869,1
-224,2,96549,Elizabeth Interchange,,1,D2195,9052,0
+224,1,96549,Elizabeth Interchange,,1,D2195,9052,0
 543X,1,96566,City,,0,GZ1034,7145,0
 543X,1,96567,City,,0,GZ1011,7145,0
 494,1,96768,Gawler,,1,D206,8393,0
@@ -9009,10 +9008,10 @@ LS,871,98700,Torrens Park,,0,E99,9566,0
 LS,871,98701,Torrens Park,,0,E99,9566,0
 LS,871,98702,Torrens Park,,0,E99,9566,0
 LS,871,98703,Torrens Park,,0,E99,9566,0
-LS,871,98704,Torrens Park,,0,E99,9566,0
+LS,871,98704,Torrens Park,,0,,9566,0
 LS,871,98705,Torrens Park,,0,E99,9566,0
 LS,871,98706,Torrens Park,,0,E99,9566,0
-LS,871,98707,Torrens Park,,0,E99,9566,0
+LS,871,98707,Torrens Park,,0,,9566,0
 LS,871,98708,Torrens Park,,0,E99,9566,0
 LS,871,98709,Torrens Park,,0,E99,9566,0
 LS,871,98710,Torrens Park,,0,E99,9566,0
@@ -9029,14 +9028,14 @@ LS,871,98720,Torrens Park,,0,E99,9566,0
 LS,871,98721,Torrens Park,,0,E99,9566,0
 LS,871,98722,Torrens Park,,0,E99,9566,0
 LS,871,98723,Torrens Park,,0,E99,9566,0
-LS,871,98724,Torrens Park,,0,E99,9566,0
+LS,871,98724,Torrens Park,,0,,9566,0
 LS,871,98725,Torrens Park,,0,E99,9566,0
 LS,871,98726,Torrens Park,,0,E99,9566,0
 LS,871,98727,Torrens Park,,0,E99,9566,0
 LS,871,98728,Torrens Park,,0,E99,9566,0
 LS,871,98729,Torrens Park,,0,E99,9566,0
-LS,871,98730,Torrens Park,,0,E99,9566,0
-LS,871,98731,Torrens Park,,0,E99,9566,0
+LS,871,98730,Torrens Park,,0,,9566,0
+LS,871,98731,Torrens Park,,0,,9566,0
 LS,871,98732,Torrens Park,,0,E99,9566,0
 LS,871,98733,Torrens Park,,0,E99,9566,0
 LS,871,98734,Torrens Park,,0,E99,9566,0
@@ -9044,8 +9043,8 @@ LS,871,98735,Torrens Park,,0,E99,9566,0
 LS,871,98736,Lynton,,1,E99,9567,0
 LS,871,98737,Lynton,,1,E99,9567,0
 LS,871,98738,Lynton,,1,E99,9567,0
-LS,871,98739,Lynton,,1,E99,9567,0
-LS,871,98740,Lynton,,1,E99,9567,0
+LS,871,98739,Lynton,,1,,9567,0
+LS,871,98740,Lynton,,1,,9567,0
 LS,871,98741,Lynton,,1,E99,9567,0
 LS,871,98742,Lynton,,1,E99,9567,0
 LS,871,98743,Lynton,,1,E99,9567,0
@@ -9060,7 +9059,7 @@ LS,871,98751,Lynton,,1,E99,9567,0
 LS,871,98752,Lynton,,1,E99,9567,0
 LS,871,98753,Lynton,,1,E99,9567,0
 LS,871,98754,Lynton,,1,E99,9567,0
-LS,871,98755,Lynton,,1,E99,9567,0
+LS,871,98755,Lynton,,1,,9567,0
 LS,871,98756,Lynton,,1,E99,9567,0
 LS,871,98757,Lynton,,1,E99,9567,0
 LS,871,98758,Lynton,,1,E99,9567,0
@@ -9068,8 +9067,8 @@ LS,871,98759,Lynton,,1,E99,9567,0
 LS,871,98760,Lynton,,1,E99,9567,0
 LS,871,98761,Lynton,,1,E99,9567,0
 LS,871,98762,Lynton,,1,E99,9567,0
-LS,871,98763,Lynton,,1,E99,9567,0
-LS,871,98764,Lynton,,1,E99,9567,0
+LS,871,98763,Lynton,,1,,9567,0
+LS,871,98764,Lynton,,1,,9567,0
 LS,871,98765,Lynton,,1,E99,9567,0
 LS,871,98766,Lynton,,1,E99,9567,0
 LS,871,98767,Lynton,,1,E99,9567,0
@@ -9219,8 +9218,8 @@ N4,871,98910,City,,0,D6127,9529,0
 N3,871,98911,City,,0,D6222,9526,0
 N7,871,98912,Woodlands Park,,0,D6999,9536,0
 N4,871,98913,City,,0,D6113,9529,0
-N3,871,98914,City,,0,D6238,9526,0
-N3,871,98915,City,,0,D6240,9526,0
+N3,871,98914,City,,0,,9526,0
+N3,871,98915,City,,0,,9526,0
 N4,871,98916,City,,0,D6131,9529,0
 N3,871,98917,City,,0,D6248,9526,0
 N7,871,98918,Woodlands Park,,0,D6999,9536,0
@@ -9342,12 +9341,12 @@ N5,871,99033,Noarlunga,,1,D6234,9533,0
 N4,871,99034,Noarlunga,,1,D6111,9531,0
 N7,871,99035,Tonsley,,1,D6999,9537,0
 N3X,871,99036,Brighton Station,,1,D6222,9528,0
-N6,871,99037,Hallett Cove Beach,,1,D6240,9535,0
+N6,871,99037,Hallett Cove Beach,,1,,9535,0
 N5,871,99038,Noarlunga,,1,D6236,9533,0
 N3,871,99039,Noarlunga,,1,D6103,9527,0
 N3X,871,99040,Brighton Station,,1,D6232,9528,0
 N5,871,99041,Noarlunga,,1,D6127,9533,0
-N6,871,99042,Hallett Cove Beach,,1,D6238,9535,0
+N6,871,99042,Hallett Cove Beach,,1,,9535,0
 N5,871,99043,Noarlunga,,1,D6246,9533,0
 N3,871,99044,Noarlunga,,1,D6105,9527,0
 N6,871,99045,Hallett Cove Beach,,1,D6107,9535,0
@@ -9864,7 +9863,7 @@ N6,871,102515,Hallett Cove Beach Station,,1,,9686,0
 733,1,102706,Marion,,0,D1181,9648,0
 733,27,102707,Marion,,0,D1328,9648,0
 733,36,102708,Marion,,0,,9648,0
-733,26,102709,Marion,,0,D1394,9651,0
+733,26,102709,Marion,,0,D1370,9651,0
 733,26,102710,Marion,,0,D1372,9648,0
 733,37,102711,Marion,,0,,9648,0
 733,27,102712,Marion,,0,D1322,9651,0
@@ -9908,7 +9907,7 @@ N6,871,102515,Hallett Cove Beach Station,,1,,9686,0
 733,1,102750,Colonnades,,1,D1178,9657,0
 733,1,102751,Colonnades,,1,D1222,9657,0
 733,1,102752,Colonnades,,1,D1133,9657,0
-733,1,102753,Colonnades,,1,D1252,9657,0
+733,6,102753,Colonnades,,1,D1394,9657,0
 733,1,102754,Colonnades,,1,D1097,9657,0
 733,1,102755,Colonnades,,1,D1181,9657,0
 723F,1,102756,Colonnades,,1,D1190,9691,0
@@ -9977,7 +9976,7 @@ N6,871,102515,Hallett Cove Beach Station,,1,,9686,0
 733,12,102819,Marion,,0,D1504,9648,0
 733,12,102820,Marion,,0,D1519,9648,0
 733,12,102821,Marion,,0,D1531,9648,0
-733,12,102822,Marion,,0,D1523,9648,0
+733,12,102822,Marion,,0,DX1523,9648,0
 733G,12,102823,33 Main South Rd,,0,D147,9655,0
 733G,12,102824,33 Main South Rd,,0,D1521,9655,0
 733G,12,102825,33 Main South Rd,,0,D1531,9655,0
@@ -10961,7 +10960,7 @@ T721,1,103059,City,,0,D1192,9008,0
 155,1,103805,City,,0,E1020,8173,0
 155,1,103806,City,,0,E2004,8173,0
 155,1,103807,City,,0,E1118,8173,0
-155,1,103808,City,,0,E1126,8173,0
+155,1,103808,City,,0,E1126,3458,0
 155,1,103809,City,,0,E3109,3458,0
 155,1,103810,City,,0,E2129,8173,0
 155,1,103811,City,,0,E2053,8173,0
@@ -16164,7 +16163,7 @@ M44,1,109661,Golden Grove,,1,GZ2107,9830,0
 M44,1,109662,Golden Grove ,,1,GZ2108,7967,0
 M44,1,109663,Golden Grove ,,1,GZ1213,7967,0
 M44,1,109664,Golden Grove Village,,1,GZ1026,9162,0
-M44,1,109665,Golden Grove Village,,1,GZ1273,9162,0
+M44,1,109665,Golden Grove Village,,1,GZ1018,9162,0
 M44,1,109666,Golden Grove Village,,1,GZ1269,9162,0
 M44,1,109667,Golden Grove Village,,1,GZ1258,9162,0
 M44,1,109668,Golden Grove,,1,GZ1027,9779,0
@@ -16557,264 +16556,6 @@ J1A,12,110055,Airport,,1,E3501,9733,0
 M44,1,110057,Marion,,0,GZ1213,9795,0
 196F,21,110058,City,,0,E3110,9819,0
 196,21,110060, Blackwood High School,,1,E2021,9814,0
-FX1,257,110280,AAMI Stadium,,0,,5658,0
-FX1,257,110281,AAMI Stadium,,0,,5658,0
-FX1,257,110282,AAMI Stadium,,0,,5658,0
-FX1,257,110283,Golden Grove Village,,1,,8229,0
-FX2,257,110284,AAMI Stadium,,0,,3837,0
-FX2,257,110285,AAMI Stadium,,0,,3837,0
-FX2,257,110286,AAMI Stadium,,0,,3837,0
-FX2,257,110287,St Agnes Depot,,1,,8228,0
-FX3,257,110288,AAMI Stadium,,0,,6662,0
-FX3,257,110289,AAMI Stadium,,0,,9643,0
-FX3,257,110290,Clovercrest Shopping Centre,,1,,8230,0
-FX4,257,110291,AAMI Stadium,,0,,7483,0
-FX4,257,110292,Elizabeth Station,,1,,8231,0
-FX5,257,110293,AAMI Stadium,,0,,7482,0
-FX5,257,110294,Elizabeth Oval,,1,,8232,0
-FX6,257,110295,AAMI Stadium,,0,,7484,0
-FX6,257,110296,Salisbury North Football Club,,1,,8233,0
-FX7,257,110297,AAMI Stadium,,0,,406,0
-FX7,257,110298,Davoren Park,,1,,8234,0
-FX8,257,110299,AAMI Stadium,,0,,5342,0
-FX8,257,110300,AAMI Stadium,,0,,5342,0
-FX8,257,110301,AAMI Stadium,,0,,5342,0
-FX8,257,110302,AAMI Stadium,,0,,5342,0
-FX8,257,110303,AAMI Stadium,,0,,5342,0
-FX8,257,110304,Alberton Oval,,1,,8248,0
-FX9,257,110305,AAMI Stadium,,0,,7486,0
-FX9,257,110306,AAMI Stadium,,0,,7486,0
-FX9,257,110307,Port Adelaide,,1,,8249,0
-FX10,257,110308,AAMI Stadium,,0,,6204,0
-FX10,257,110309,AAMI Stadium,,0,,6204,0
-FX10,257,110310,AAMI Stadium,,0,,6204,0
-FX10,257,110311,AAMI Stadium,,0,,6204,0
-FX10,257,110312,Norwood Oval,,1,,8236,0
-FX12,257,110313,AAMI Stadium,,0,,4542,0
-FX12,257,110314,Aldgate,,1,,8238,0
-FX13,257,110315,AAMI Stadium,,0,,6555,0
-FX13,257,110316,AAMI Stadium,,0,,6555,0
-FX13,257,110317,Mt Barker,,1,,8239,0
-FX14,257,110318,AAMI Stadium,,0,,4859,0
-FX14,257,110319,AAMI Stadium,,0,,4859,0
-FX14,257,110320,Belair,,1,,8240,0
-FX15,257,110321,AAMI Stadium,,0,,239,0
-FX15,257,110322,AAMI Stadium,,0,,239,0
-FX15,257,110323,Torrens Park,,1,,8241,0
-FX16,257,110324,AAMI Stadium,,0,,7485,0
-FX16,257,110325,Adelaide Shores Holiday Village,,1,,8242,0
-FX17,257,110326,AAMI Stadium,,0,,6343,0
-FX17,257,110327,AAMI Stadium,,0,,6343,0
-FX17,257,110328,Morphettville Depot,,1,,8243,0
-FX18,257,110329,AAMI Stadium,,0,,5759,0
-FX18,257,110330,AAMI Stadium,,0,,5759,0
-FX18,257,110331,South Adelaide Football Club,,1,,8244,0
-FX19,257,110332,AAMI Stadium,,0,,1019,0
-FX19,257,110333,AAMI Stadium,,0,,1019,0
-FX19,257,110334,Seaford Shopping Centre,,1,,8245,0
-FX20,257,110335,AAMI Stadium,,0,,3088,0
-FX20,257,110336,Aberfoyle Hub,,1,,8246,0
-FX21,257,110337,AAMI Stadium,,0,,4965,0
-FX21,257,110338,Woodcroft Community Centre,,1,,8247,0
-FX22,257,110339,AAMI Stadium,,0,,4666,0
-FX22,257,110340,AAMI Stadium,,0,,4666,0
-FX22,257,110341,AAMI Stadium,,0,,4666,0
-FX22,257,110342,AAMI Stadium,,0,,4666,0
-FX22,257,110343,AAMI Stadium,,0,,4666,0
-FX22,257,110344,AAMI Stadium,,0,,4666,0
-FX22,257,110345,AAMI Stadium,,0,,4666,0
-FX22,257,110346,City,,1,,8250,0
-FX23,257,110347,AAMI Stadium,,0,,7481,0
-FX23,257,110348,Mawson Interchange,,1,,8235,0
-FXSeat,257,110349,AAMI Stadium,,0,,3569,0
-FXSeat,257,110350,AAMI Stadium,,0,,3569,0
-FXSeat,257,110351,AAMI Stadium,,0,,3569,0
-FXSeat,257,110352,AAMI Stadium,,0,,3569,0
-FX1,258,110353,AAMI Stadium,,0,,5658,0
-FX1,258,110354,AAMI Stadium,,0,,5658,0
-FX1,258,110355,AAMI Stadium,,0,,5658,0
-FX1,258,110356,AAMI Stadium,,0,,5658,0
-FX1,258,110357,AAMI Stadium,,0,,5658,0
-FX1,258,110358,Golden Grove Village,,1,,8229,0
-FX2,258,110359,AAMI Stadium,,0,,3837,0
-FX2,258,110360,AAMI Stadium,,0,,3837,0
-FX2,258,110361,AAMI Stadium,,0,,3837,0
-FX2,258,110362,AAMI Stadium,,0,,3837,0
-FX2,258,110363,AAMI Stadium,,0,,3837,0
-FX2,258,110364,AAMI Stadium,,0,,3837,0
-FX2,258,110365,AAMI Stadium,,0,,3837,0
-FX2,258,110366,AAMI Stadium,,0,,3837,0
-FX2,258,110367,St Agnes Depot,,1,,8228,0
-FX3,258,110368,AAMI Stadium,,0,,6662,0
-FX3,258,110369,AAMI Stadium,,0,,6662,0
-FX3,258,110370,Clovercrest Shopping Centre,,1,,8230,0
-FX4,258,110371,AAMI Stadium,,0,,7483,0
-FX4,258,110372,Elizabeth Station,,1,,8231,0
-FX5,258,110373,AAMI Stadium,,0,,7482,0
-FX5,258,110374,AAMI Stadium,,0,,7482,0
-FX5,258,110375,AAMI Stadium,,0,,7482,0
-FX5,258,110376,Elizabeth Oval,,1,,8232,0
-FX6,258,110377,AAMI Stadium,,0,,7484,0
-FX6,258,110378,AAMI Stadium,,0,,7484,0
-FX6,258,110379,AAMI Stadium,,0,,7484,0
-FX6,258,110380,Salisbury North Football Club,,1,,8233,0
-FX7,258,110381,AAMI Stadium,,0,,406,0
-FX7,258,110382,Davoren Park,,1,,8234,0
-FX9,258,110383,AAMI Stadium,,0,,7486,0
-FX9,258,110384,AAMI Stadium,,0,,7486,0
-FX9,258,110385,Port Adelaide,,1,,8249,0
-FX10,258,110386,AAMI Stadium,,0,,6204,0
-FX10,258,110387,AAMI Stadium,,0,,6204,0
-FX10,258,110388,AAMI Stadium,,0,,6204,0
-FX10,258,110389,AAMI Stadium,,0,,6204,0
-FX10,258,110390,AAMI Stadium,,0,,6204,0
-FX10,258,110391,AAMI Stadium,,0,,6204,0
-FX10,258,110392,AAMI Stadium,,0,,6204,0
-FX10,258,110393,AAMI Stadium,,0,,6204,0
-FX10,258,110394,AAMI Stadium,,0,,6204,0
-FX10,258,110395,AAMI Stadium,,0,,6204,0
-FX10,258,110396,AAMI Stadium,,0,,6204,0
-FX10,258,110397,AAMI Stadium,,0,,6204,0
-FX10,258,110398,AAMI Stadium,,0,,6204,0
-FX10,258,110399,Norwood Oval,,1,,8236,0
-FX11,258,110400,AAMI Stadium,,0,,5254,0
-FX11,258,110401,AAMI Stadium,,0,,5254,0
-FX11,258,110402,AAMI Stadium,,0,,5254,0
-FX11,258,110403,UniSA Magill Campus,,1,,8237,0
-FX12,258,110404,AAMI Stadium,,0,,4542,0
-FX12,258,110405,AAMI Stadium,,0,,4542,0
-FX12,258,110406,Aldgate,,1,,8238,0
-FX13,258,110407,AAMI Stadium,,0,,6555,0
-FX13,258,110408,AAMI Stadium,,0,,6555,0
-FX13,258,110409,Mt Barker,,1,,8239,0
-FX14,258,110410,AAMI Stadium,,0,,4859,0
-FX14,258,110411,AAMI Stadium,,0,,4859,0
-FX14,258,110412,AAMI Stadium,,0,,4859,0
-FX14,258,110413,Belair,,1,,8240,0
-FX15,258,110414,AAMI Stadium,,0,,239,0
-FX15,258,110415,AAMI Stadium,,0,,239,0
-FX15,258,110416,AAMI Stadium,,0,,239,0
-FX15,258,110417,AAMI Stadium,,0,,239,0
-FX15,258,110418,Torrens Park,,1,,8241,0
-FX16,258,110419,AAMI Stadium,,0,,7485,0
-FX16,258,110420,AAMI Stadium,,0,,7485,0
-FX16,258,110421,Adelaide Shores Holiday Village,,1,,8242,0
-FX17,258,110422,AAMI Stadium,,0,,6343,0
-FX17,258,110423,AAMI Stadium,,0,,6343,0
-FX17,258,110424,AAMI Stadium,,0,,6343,0
-FX17,258,110425,AAMI Stadium,,0,,6343,0
-FX17,258,110426,Morphettville Depot,,1,,8243,0
-FX18,258,110427,AAMI Stadium,,0,,5759,0
-FX18,258,110428,AAMI Stadium,,0,,5759,0
-FX18,258,110429,AAMI Stadium,,0,,5759,0
-FX18,258,110430,AAMI Stadium,,0,,5759,0
-FX18,258,110431,South Adelaide Football Club,,1,,8244,0
-FX19,258,110432,AAMI Stadium,,0,,1019,0
-FX19,258,110433,AAMI Stadium,,0,,1019,0
-FX19,258,110434,AAMI Stadium,,0,,1019,0
-FX19,258,110435,AAMI Stadium,,0,,1019,0
-FX19,258,110436,Seaford Shopping Centre,,1,,8245,0
-FX20,258,110437,AAMI Stadium,,0,,3088,0
-FX20,258,110438,AAMI Stadium,,0,,3088,0
-FX20,258,110439,AAMI Stadium,,0,,3088,0
-FX20,258,110440,Aberfoyle Hub,,1,,8246,0
-FX21,258,110441,AAMI Stadium,,0,,4965,0
-FX21,258,110442,AAMI Stadium,,0,,4965,0
-FX21,258,110443,AAMI Stadium,,0,,4965,0
-FX21,258,110444,Woodcroft Community Centre,,1,,8247,0
-FX22,258,110445,AAMI Stadium,,0,,4666,0
-FX22,258,110446,AAMI Stadium,,0,,4666,0
-FX22,258,110447,AAMI Stadium,,0,,4666,0
-FX22,258,110448,AAMI Stadium,,0,,4666,0
-FX22,258,110449,AAMI Stadium,,0,,4666,0
-FX22,258,110450,AAMI Stadium,,0,,4666,0
-FX22,258,110451,AAMI Stadium,,0,,4666,0
-FX22,258,110452,AAMI Stadium,,0,,4666,0
-FX22,258,110453,AAMI Stadium,,0,,4666,0
-FX22,258,110454,AAMI Stadium,,0,,4666,0
-FX22,258,110455,AAMI Stadium,,0,,4666,0
-FX22,258,110456,AAMI Stadium,,0,,4666,0
-FX22,258,110457,AAMI Stadium,,0,,4666,0
-FX22,258,110458,City,,1,,8250,0
-FX23,258,110459,AAMI Stadium,,0,,7481,0
-FX23,258,110460,Mawson Interchange,,1,,8235,0
-FXSeat,258,110461,AAMI Stadium,,0,,3569,0
-FXSeat,258,110462,AAMI Stadium,,0,,3569,0
-FXSeat,258,110463,AAMI Stadium,,0,,3569,0
-FXSeat,258,110464,AAMI Stadium,,0,,3569,0
-FX1,259,110465,AAMI Stadium,,0,,5658,0
-FX1,259,110466,AAMI Stadium,,0,,5658,0
-FX1,259,110467,AAMI Stadium,,0,,5658,0
-FX1,259,110468,Golden Grove Village,,1,,8229,0
-FX2,259,110469,AAMI Stadium,,0,,3837,0
-FX2,259,110470,AAMI Stadium,,0,,3837,0
-FX2,259,110471,AAMI Stadium,,0,,3837,0
-FX2,259,110472,St Agnes Depot,,1,,8228,0
-FX3,259,110473,AAMI Stadium,,0,,6662,0
-FX3,259,110474,AAMI Stadium,,0,,9643,0
-FX3,259,110475,Clovercrest Shopping Centre,,1,,8230,0
-FX4,259,110476,AAMI Stadium,,0,,7483,0
-FX4,259,110477,Elizabeth Station,,1,,8231,0
-FX5,259,110478,AAMI Stadium,,0,,7482,0
-FX5,259,110479,Elizabeth Oval,,1,,8232,0
-FX6,259,110480,AAMI Stadium,,0,,7484,0
-FX6,259,110481,Salisbury North Football Club,,1,,8233,0
-FX7,259,110482,AAMI Stadium,,0,,406,0
-FX7,259,110483,Davoren Park,,1,,8234,0
-FX8,259,110484,AAMI Stadium,,0,,5342,0
-FX8,259,110485,AAMI Stadium,,0,,5342,0
-FX8,259,110486,AAMI Stadium,,0,,5342,0
-FX8,259,110487,AAMI Stadium,,0,,5342,0
-FX8,259,110488,AAMI Stadium,,0,,5342,0
-FX8,259,110489,Alberton Oval,,1,,8248,0
-FX9,259,110490,AAMI Stadium,,0,,7486,0
-FX9,259,110491,AAMI Stadium,,0,,7486,0
-FX9,259,110492,Port Adelaide,,1,,8249,0
-FX10,259,110493,AAMI Stadium,,0,,6204,0
-FX10,259,110494,AAMI Stadium,,0,,6204,0
-FX10,259,110495,AAMI Stadium,,0,,6204,0
-FX10,259,110496,AAMI Stadium,,0,,6204,0
-FX10,259,110497,Norwood Oval,,1,,8236,0
-FX12,259,110498,AAMI Stadium,,0,,4542,0
-FX12,259,110499,Aldgate,,1,,8238,0
-FX13,259,110500,AAMI Stadium,,0,,6555,0
-FX13,259,110501,AAMI Stadium,,0,,6555,0
-FX13,259,110502,Mt Barker,,1,,8239,0
-FX14,259,110503,AAMI Stadium,,0,,4859,0
-FX14,259,110504,AAMI Stadium,,0,,4859,0
-FX14,259,110505,Belair,,1,,8240,0
-FX15,259,110506,AAMI Stadium,,0,,239,0
-FX15,259,110507,AAMI Stadium,,0,,239,0
-FX15,259,110508,Torrens Park,,1,,8241,0
-FX16,259,110509,AAMI Stadium,,0,,7485,0
-FX16,259,110510,Adelaide Shores Holiday Village,,1,,8242,0
-FX17,259,110511,AAMI Stadium,,0,,6343,0
-FX17,259,110512,AAMI Stadium,,0,,6343,0
-FX17,259,110513,Morphettville Depot,,1,,8243,0
-FX18,259,110514,AAMI Stadium,,0,,5759,0
-FX18,259,110515,AAMI Stadium,,0,,5759,0
-FX18,259,110516,South Adelaide Football Club,,1,,8244,0
-FX19,259,110517,AAMI Stadium,,0,,1019,0
-FX19,259,110518,AAMI Stadium,,0,,1019,0
-FX19,259,110519,Seaford Shopping Centre,,1,,8245,0
-FX20,259,110520,AAMI Stadium,,0,,3088,0
-FX20,259,110521,Aberfoyle Hub,,1,,8246,0
-FX21,259,110522,AAMI Stadium,,0,,4965,0
-FX21,259,110523,Woodcroft Community Centre,,1,,8247,0
-FX22,259,110524,AAMI Stadium,,0,,4666,0
-FX22,259,110525,AAMI Stadium,,0,,4666,0
-FX22,259,110526,AAMI Stadium,,0,,4666,0
-FX22,259,110527,AAMI Stadium,,0,,4666,0
-FX22,259,110528,AAMI Stadium,,0,,4666,0
-FX22,259,110529,AAMI Stadium,,0,,4666,0
-FX22,259,110530,AAMI Stadium,,0,,4666,0
-FX22,259,110531,City,,1,,8250,0
-FX23,259,110532,AAMI Stadium,,0,,7481,0
-FX23,259,110533,Mawson Interchange,,1,,8235,0
-FXSeat,259,110534,AAMI Stadium,,0,,3569,0
-FXSeat,259,110535,AAMI Stadium,,0,,3569,0
-FXSeat,259,110536,AAMI Stadium,,0,,3569,0
-FXSeat,259,110537,AAMI Stadium,,0,,3569,0
 FX1,260,110538,AAMI Stadium,,0,,5658,0
 FX1,260,110539,AAMI Stadium,,0,,5658,0
 FX1,260,110540,AAMI Stadium,,0,,5658,0
@@ -17188,8 +16929,6 @@ FXSeat,264,110907,AAMI Stadium,,0,,3569,0
 FX1,263,110908,AAMI Stadium,,0,,5658,0
 FX1,263,110909,AAMI Stadium,,0,,5658,0
 FX6,260,110910,AAMI Stadium,,0,,7484,0
-FX12,257,110911,AAMI Stadium,,0,,4542,0
-FX12,259,110912,AAMI Stadium,,0,,4542,0
 FX12,263,110913,AAMI Stadium,,0,,4542,0
 842F,1,110915,Nairne,,1,F1502,9864,0
 T842,1,110916,Nairne,,1,F1538,9863,0
@@ -18451,144 +18190,144 @@ C1,12,112234,Golden Grove Village ,,1,GZ6847,8530,0
 C1G,12,112235,Golden Grove Village ,,1,GZ6845,8467,0
 C1,12,112236,Golden Grove Village ,,1,GZ6853,8530,0
 C1T,12,112237,Tea Tree Plaza,,1,GZ6849,8472,0
-Tram,12,112238,Glenelg,,1,B840,8660,1
-Tram,12,112239,Glenelg,,1,B841,8660,1
-Tram,12,112240,Glenelg,,1,B842,8660,1
-Tram,12,112241,Glenelg,,1,B843,8660,1
-Tram,12,112242,Glenelg,,1,B844,8660,1
-Tram,12,112243,Glenelg,,1,B845,8660,1
-Tram,12,112244,Glenelg,,1,B846,8660,1
-Tram,12,112245,Glenelg,,1,B847,8660,1
-Tram,12,112246,Glenelg,,1,B840,8661,1
-Tram,12,112247,Glenelg,,1,B841,8661,1
-Tram,12,112248,Glenelg,,1,B842,8661,1
-Tram,12,112249,Glenelg,,1,B843,8661,1
-Tram,12,112250,Glenelg,,1,B844,8661,1
-Tram,12,112251,Glenelg,,1,B845,8661,1
-Tram,12,112252,Glenelg,,1,B840,8661,1
-Tram,12,112253,Glenelg,,1,B846_2,8661,1
-Tram,12,112254,Glenelg,,1,B841,8661,1
-Tram,12,112255,Glenelg,,1,B842,8661,1
-Tram,12,112256,Glenelg,,1,B843,8661,1
-Tram,12,112257,Glenelg,,1,B847,8661,1
-Tram,12,112258,Glenelg,,1,B844,8661,1
-Tram,12,112259,Glenelg,,1,B845,8661,1
-Tram,12,112260,Glenelg,,1,B840,8661,1
-Tram,12,112261,Glenelg,,1,B846,8661,1
-Tram,12,112262,Glenelg,,1,B841,8661,1
-Tram,12,112263,Glenelg,,1,B842,8661,1
-Tram,12,112264,Glenelg,,1,B843,8661,1
-Tram,12,112265,Glenelg,,1,B847,8661,1
-Tram,12,112266,Glenelg,,1,B844,8661,1
-Tram,12,112267,Glenelg,,1,B845,8661,1
-Tram,12,112268,Glenelg,,1,B840,8661,1
-Tram,12,112269,Glenelg,,1,B846,8661,1
-Tram,12,112270,Glenelg,,1,B841,8661,1
-Tram,12,112271,Glenelg,,1,B842,8661,1
-Tram,12,112272,Glenelg,,1,B843,8661,1
-Tram,12,112273,Glenelg,,1,B847,8661,1
-Tram,12,112274,Glenelg,,1,B844,8661,1
-Tram,12,112275,Glenelg,,1,B845,8661,1
-Tram,12,112276,Glenelg,,1,B840,8661,1
-Tram,12,112277,Glenelg,,1,B846,8661,1
-Tram,12,112278,Glenelg,,1,B841,8661,1
-Tram,12,112279,Glenelg,,1,B842,8661,1
-Tram,12,112280,Glenelg,,1,B843,8661,1
-Tram,12,112281,Glenelg,,1,B847,8661,1
-Tram,12,112282,Glenelg,,1,B844,8661,1
-Tram,12,112283,Glenelg,,1,B845,8661,1
-Tram,12,112284,Glenelg,,1,B840,8661,1
-Tram,12,112285,Glenelg,,1,B846,8661,1
-Tram,12,112286,Glenelg,,1,B841,8661,1
-Tram,12,112287,Glenelg,,1,B842,8661,1
-Tram,12,112288,Glenelg,,1,B843,8661,1
-Tram,12,112289,Glenelg,,1,B847,8661,1
-Tram,12,112290,Glenelg,,1,B844,8661,1
-Tram,12,112291,Glenelg,,1,B845,8661,1
-Tram,12,112292,Glenelg,,1,B840,8661,1
-Tram,12,112293,Glenelg,,1,B846,8661,1
-Tram,12,112294,Glenelg,,1,B841,8661,1
-Tram,12,112295,Glenelg,,1,B842,8661,1
-Tram,12,112296,Glenelg,,1,B843,8661,1
-Tram,12,112297,Glenelg,,1,B847,8661,1
-Tram,12,112298,Glenelg,,1,B844,8661,1
-Tram,12,112299,Glenelg,,1,B840,8661,1
-Tram,12,112300,Glenelg,,1,B846,8661,1
-Tram,12,112301,Glenelg,,1,B841,8661,1
-Tram,12,112302,Glenelg,,1,B843,8661,1
-Tram,12,112303,Glenelg,,1,B847,8661,1
-Tram,12,112304,Glenelg,,1,B844,8661,1
-Tram,12,112305,Glenelg,,1,B840,8661,1
-Tram,12,112306,Glenelg,,1,B846,8661,1
-Tram,12,112307,Glenelg,,1,B841,8661,1
-Tram,12,112308,Glenelg,,1,B843,8661,1
-Tram,12,112309,Glenelg,,1,B847,8661,1
-Tram,12,112310,Entertainment Centre,,0,B840,8662,1
-Tram,12,112311,Entertainment Centre,,0,B841,8662,1
-Tram,12,112312,Entertainment Centre,,0,B842,8662,1
-Tram,12,112313,Entertainment Centre,,0,B843,8662,1
-Tram,12,112314,Entertainment Centre,,0,B844,8662,1
-Tram,12,112315,Entertainment Centre,,0,B845,8662,1
-Tram,12,112316,Entertainment Centre,,0,B840,8662,1
-Tram,12,112317,Entertainment Centre,,0,B841,8662,1
-Tram,12,112318,Entertainment Centre,,0,B846_1,8662,1
-Tram,12,112319,Entertainment Centre,,0,B842,8662,1
-Tram,12,112320,Entertainment Centre,,0,B843,8662,1
-Tram,12,112321,Entertainment Centre,,0,B847,8662,1
-Tram,12,112322,Entertainment Centre,,0,B844,8662,1
-Tram,12,112323,Entertainment Centre,,0,B845,8662,1
-Tram,12,112324,Entertainment Centre,,0,B840,8662,1
-Tram,12,112325,Entertainment Centre,,0,B846,8662,1
-Tram,12,112326,Entertainment Centre,,0,B841,8662,1
-Tram,12,112327,Entertainment Centre,,0,B842,8662,1
-Tram,12,112328,Entertainment Centre,,0,B843,8662,1
-Tram,12,112329,Entertainment Centre,,0,B847,8662,1
-Tram,12,112330,Entertainment Centre,,0,B844,8662,1
-Tram,12,112331,Entertainment Centre,,0,B845,8662,1
-Tram,12,112332,Entertainment Centre,,0,B840,8662,1
-Tram,12,112333,Entertainment Centre,,0,B846,8662,1
-Tram,12,112334,Entertainment Centre,,0,B841,8662,1
-Tram,12,112335,Entertainment Centre,,0,B842,8662,1
-Tram,12,112336,Entertainment Centre,,0,B843,8662,1
-Tram,12,112337,Entertainment Centre,,0,B847,8662,1
-Tram,12,112338,Entertainment Centre,,0,B844,8662,1
-Tram,12,112339,Entertainment Centre,,0,B845,8662,1
-Tram,12,112340,Entertainment Centre,,0,B840,8662,1
-Tram,12,112341,Entertainment Centre,,0,B846,8662,1
-Tram,12,112342,Entertainment Centre,,0,B841,8662,1
-Tram,12,112343,Entertainment Centre,,0,B842,8662,1
-Tram,12,112344,Entertainment Centre,,0,B843,8662,1
-Tram,12,112345,Entertainment Centre,,0,B847,8662,1
-Tram,12,112346,Entertainment Centre,,0,B844,8662,1
-Tram,12,112347,Entertainment Centre,,0,B845,8662,1
-Tram,12,112348,Entertainment Centre,,0,B840,8662,1
-Tram,12,112349,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112238,Glenelg,,1,B840,8660,1
+Tram,5013,112239,Glenelg,,1,B841,8660,1
+Tram,5013,112240,Glenelg,,1,B842,8660,1
+Tram,5013,112241,Glenelg,,1,B843,8660,1
+Tram,5013,112242,Glenelg,,1,B844,8660,1
+Tram,5013,112243,Glenelg,,1,B845,8660,1
+Tram,5013,112244,Glenelg,,1,B846,8660,1
+Tram,5013,112245,Glenelg,,1,B847,8660,1
+Tram,5013,112246,Glenelg,,1,B840,8661,1
+Tram,5013,112247,Glenelg,,1,B841,8661,1
+Tram,5013,112248,Glenelg,,1,B842,8661,1
+Tram,5013,112249,Glenelg,,1,B843,8661,1
+Tram,5013,112250,Glenelg,,1,B844,8661,1
+Tram,5013,112251,Glenelg,,1,B845,8661,1
+Tram,5013,112252,Glenelg,,1,B840,8661,1
+Tram,5013,112253,Glenelg,,1,B846_2,8661,1
+Tram,5013,112254,Glenelg,,1,B841,8661,1
+Tram,5013,112255,Glenelg,,1,B842,8661,1
+Tram,5013,112256,Glenelg,,1,B843,8661,1
+Tram,5013,112257,Glenelg,,1,B847,8661,1
+Tram,5013,112258,Glenelg,,1,B844,8661,1
+Tram,5013,112259,Glenelg,,1,B845,8661,1
+Tram,5013,112260,Glenelg,,1,B840,8661,1
+Tram,5013,112261,Glenelg,,1,B846,8661,1
+Tram,5013,112262,Glenelg,,1,B841,8661,1
+Tram,5013,112263,Glenelg,,1,B842,8661,1
+Tram,5013,112264,Glenelg,,1,B843,8661,1
+Tram,5013,112265,Glenelg,,1,B847,8661,1
+Tram,5013,112266,Glenelg,,1,B844,8661,1
+Tram,5013,112267,Glenelg,,1,B845,8661,1
+Tram,5013,112268,Glenelg,,1,B840,8661,1
+Tram,5013,112269,Glenelg,,1,B846,8661,1
+Tram,5013,112270,Glenelg,,1,B841,8661,1
+Tram,5013,112271,Glenelg,,1,B842,8661,1
+Tram,5013,112272,Glenelg,,1,B843,8661,1
+Tram,5013,112273,Glenelg,,1,B847,8661,1
+Tram,5013,112274,Glenelg,,1,B844,8661,1
+Tram,5013,112275,Glenelg,,1,B845,8661,1
+Tram,5013,112276,Glenelg,,1,B840,8661,1
+Tram,5013,112277,Glenelg,,1,B846,8661,1
+Tram,5013,112278,Glenelg,,1,B841,8661,1
+Tram,5013,112279,Glenelg,,1,B842,8661,1
+Tram,5013,112280,Glenelg,,1,B843,8661,1
+Tram,5013,112281,Glenelg,,1,B847,8661,1
+Tram,5013,112282,Glenelg,,1,B844,8661,1
+Tram,5013,112283,Glenelg,,1,B845,8661,1
+Tram,5013,112284,Glenelg,,1,B840,8661,1
+Tram,5013,112285,Glenelg,,1,B846,8661,1
+Tram,5013,112286,Glenelg,,1,B841,8661,1
+Tram,5013,112287,Glenelg,,1,B842,8661,1
+Tram,5013,112288,Glenelg,,1,B843,8661,1
+Tram,5013,112289,Glenelg,,1,B847,8661,1
+Tram,5013,112290,Glenelg,,1,B844,8661,1
+Tram,5013,112291,Glenelg,,1,B845,8661,1
+Tram,5013,112292,Glenelg,,1,B840,8661,1
+Tram,5013,112293,Glenelg,,1,B846,8661,1
+Tram,5013,112294,Glenelg,,1,B841,8661,1
+Tram,5013,112295,Glenelg,,1,B842,8661,1
+Tram,5013,112296,Glenelg,,1,B843,8661,1
+Tram,5013,112297,Glenelg,,1,B847,8661,1
+Tram,5013,112298,Glenelg,,1,B844,8661,1
+Tram,5013,112299,Glenelg,,1,B840,8661,1
+Tram,5013,112300,Glenelg,,1,B846,8661,1
+Tram,5013,112301,Glenelg,,1,B841,8661,1
+Tram,5013,112302,Glenelg,,1,B843,8661,1
+Tram,5013,112303,Glenelg,,1,B847,8661,1
+Tram,5013,112304,Glenelg,,1,B844,8661,1
+Tram,5013,112305,Glenelg,,1,B840,8661,1
+Tram,5013,112306,Glenelg,,1,B846,8661,1
+Tram,5013,112307,Glenelg,,1,B841,8661,1
+Tram,5013,112308,Glenelg,,1,B843,8661,1
+Tram,5013,112309,Glenelg,,1,B847,8661,1
+Tram,5013,112310,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112311,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112312,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112313,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112314,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112315,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112316,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112317,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112318,Entertainment Centre,,0,B846_1,8662,1
+Tram,5013,112319,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112320,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112321,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112322,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112323,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112324,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112325,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112326,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112327,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112328,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112329,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112330,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112331,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112332,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112333,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112334,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112335,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112336,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112337,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112338,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112339,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112340,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112341,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112342,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112343,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112344,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112345,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112346,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112347,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112348,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112349,Entertainment Centre,,0,B846,8662,1
 451A,12,112350,Davoren Park 74A,,1,D2521,8665,0
-Tram,12,112351,Entertainment Centre,,0,B841,8662,1
-Tram,12,112352,Entertainment Centre,,0,B842,8662,1
-Tram,12,112353,Entertainment Centre,,0,B843,8662,1
-Tram,12,112354,Entertainment Centre,,0,B847,8662,1
-Tram,12,112355,Entertainment Centre,,0,B844,8662,1
-Tram,12,112356,Entertainment Centre,,0,B845,8662,1
-Tram,12,112357,Entertainment Centre,,0,B840,8662,1
-Tram,12,112358,Entertainment Centre,,0,B846,8662,1
-Tram,12,112359,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112351,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112352,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112353,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112354,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112355,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112356,Entertainment Centre,,0,B845,8662,1
+Tram,5013,112357,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112358,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112359,Entertainment Centre,,0,B841,8662,1
 452A,12,112360,McVeity Centre,,1,D2525,8666,0
-Tram,12,112361,Entertainment Centre,,0,B842,8662,1
-Tram,12,112362,Entertainment Centre,,0,B843,8662,1
-Tram,12,112363,Entertainment Centre,,0,B847,8662,1
-Tram,12,112364,Entertainment Centre,,0,B844,8662,1
-Tram,12,112365,Entertainment Centre,,0,B840,8662,1
-Tram,12,112366,Entertainment Centre,,0,B846,8662,1
-Tram,12,112367,Entertainment Centre,,0,B841,8662,1
-Tram,12,112368,Entertainment Centre,,0,B843,8662,1
-Tram,12,112369,Entertainment Centre,,0,B847,8662,1
-Tram,12,112370,Entertainment Centre,,0,B844,8662,1
-Tram,12,112371,Entertainment Centre,,0,B840,8662,1
-Tram,12,112372,Entertainment Centre,,0,B846,8662,1
-Tram,12,112373,Entertainment Centre,,0,B841,8662,1
-Tram,12,112374,Entertainment Centre,,0,B843,8662,1
-Tram,12,112375,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112361,Entertainment Centre,,0,B842,8662,1
+Tram,5013,112362,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112363,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112364,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112365,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112366,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112367,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112368,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112369,Entertainment Centre,,0,B847,8662,1
+Tram,5013,112370,Entertainment Centre,,0,B844,8662,1
+Tram,5013,112371,Entertainment Centre,,0,B840,8662,1
+Tram,5013,112372,Entertainment Centre,,0,B846,8662,1
+Tram,5013,112373,Entertainment Centre,,0,B841,8662,1
+Tram,5013,112374,Entertainment Centre,,0,B843,8662,1
+Tram,5013,112375,Entertainment Centre,,0,B847,8662,1
 229,12,112376,Gepps Cross,,0,D2516,6043,0
 229,12,112377,Gepps Cross,,0,D2526,6043,0
 229,12,112378,Gepps Cross,,0,D2564,6043,0
@@ -19483,3 +19222,1675 @@ OUTHA,12,113227,City,,0,B331H,1232,0
 263,12,113267,Marion,,1,GS6316,9792,0
 263,12,113268,Marion,,1,GS6235,9792,0
 263,12,113269,Marion,,1,GS6242,9792,0
+733,37,113270,Colonnades,,1,DX1252,9657,0
+FX1,265,113271,AAMI Stadium,,0,,5658,0
+FX1,265,113272,AAMI Stadium,,0,,5658,0
+FX1,265,113273,AAMI Stadium,,0,,5658,0
+FX1,265,113274,AAMI Stadium,,0,,5658,0
+FX1,265,113275,AAMI Stadium,,0,,5658,0
+FX1,265,113276,Golden Grove Village,,1,,8229,0
+FX2,265,113277,AAMI Stadium,,0,,3837,0
+FX2,265,113278,AAMI Stadium,,0,,3837,0
+FX2,265,113279,AAMI Stadium,,0,,3837,0
+FX2,265,113280,AAMI Stadium,,0,,3837,0
+FX2,265,113281,AAMI Stadium,,0,,3837,0
+FX2,265,113282,AAMI Stadium,,0,,3837,0
+FX2,265,113283,AAMI Stadium,,0,,3837,0
+FX2,265,113284,AAMI Stadium,,0,,3837,0
+FX2,265,113285,St Agnes Depot,,1,,8228,0
+FX3,265,113286,AAMI Stadium,,0,,6662,0
+FX3,265,113287,AAMI Stadium,,0,,6662,0
+FX3,265,113288,Clovercrest Shopping Centre,,1,,8230,0
+FX4,265,113289,AAMI Stadium,,0,,7483,0
+FX4,265,113290,Elizabeth Station,,1,,8231,0
+FX5,265,113291,AAMI Stadium,,0,,7482,0
+FX5,265,113292,AAMI Stadium,,0,,7482,0
+FX5,265,113293,AAMI Stadium,,0,,7482,0
+FX5,265,113294,Elizabeth Oval,,1,,8232,0
+FX6,265,113295,AAMI Stadium,,0,,7484,0
+FX6,265,113296,AAMI Stadium,,0,,7484,0
+FX6,265,113297,AAMI Stadium,,0,,7484,0
+FX6,265,113298,Salisbury North Football Club,,1,,8233,0
+FX7,265,113299,AAMI Stadium,,0,,406,0
+FX7,265,113300,Davoren Park,,1,,8234,0
+FX9,265,113301,AAMI Stadium,,0,,7486,0
+FX9,265,113302,AAMI Stadium,,0,,7486,0
+FX9,265,113303,Port Adelaide,,1,,8249,0
+FX10,265,113304,AAMI Stadium,,0,,6204,0
+FX10,265,113305,AAMI Stadium,,0,,6204,0
+FX10,265,113306,AAMI Stadium,,0,,6204,0
+FX10,265,113307,AAMI Stadium,,0,,6204,0
+FX10,265,113308,AAMI Stadium,,0,,6204,0
+FX10,265,113309,AAMI Stadium,,0,,6204,0
+FX10,265,113310,AAMI Stadium,,0,,6204,0
+FX10,265,113311,AAMI Stadium,,0,,6204,0
+FX10,265,113312,AAMI Stadium,,0,,6204,0
+FX10,265,113313,AAMI Stadium,,0,,6204,0
+FX10,265,113314,AAMI Stadium,,0,,6204,0
+FX10,265,113315,AAMI Stadium,,0,,6204,0
+FX10,265,113316,AAMI Stadium,,0,,6204,0
+FX10,265,113317,Norwood Oval,,1,,8236,0
+FX11,265,113318,AAMI Stadium,,0,,5254,0
+FX11,265,113319,AAMI Stadium,,0,,5254,0
+FX11,265,113320,AAMI Stadium,,0,,5254,0
+FX11,265,113321,UniSA Magill Campus,,1,,8237,0
+FX12,265,113322,AAMI Stadium,,0,,4542,0
+FX12,265,113323,AAMI Stadium,,0,,4542,0
+FX12,265,113324,Aldgate,,1,,8238,0
+FX13,265,113325,AAMI Stadium,,0,,6555,0
+FX13,265,113326,AAMI Stadium,,0,,6555,0
+FX13,265,113327,Mt Barker,,1,,8239,0
+FX14,265,113328,AAMI Stadium,,0,,4859,0
+FX14,265,113329,AAMI Stadium,,0,,4859,0
+FX14,265,113330,AAMI Stadium,,0,,4859,0
+FX14,265,113331,Belair,,1,,8240,0
+FX15,265,113332,AAMI Stadium,,0,,239,0
+FX15,265,113333,AAMI Stadium,,0,,239,0
+FX15,265,113334,AAMI Stadium,,0,,239,0
+FX15,265,113335,AAMI Stadium,,0,,239,0
+FX15,265,113336,Torrens Park,,1,,8241,0
+FX16,265,113337,AAMI Stadium,,0,,7485,0
+FX16,265,113338,AAMI Stadium,,0,,7485,0
+FX16,265,113339,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,265,113340,AAMI Stadium,,0,,6343,0
+FX17,265,113341,AAMI Stadium,,0,,6343,0
+FX17,265,113342,AAMI Stadium,,0,,6343,0
+FX17,265,113343,AAMI Stadium,,0,,6343,0
+FX17,265,113344,Morphettville Depot,,1,,8243,0
+FX18,265,113345,AAMI Stadium,,0,,5759,0
+FX18,265,113346,AAMI Stadium,,0,,5759,0
+FX18,265,113347,AAMI Stadium,,0,,5759,0
+FX18,265,113348,AAMI Stadium,,0,,5759,0
+FX18,265,113349,South Adelaide Football Club,,1,,8244,0
+FX19,265,113350,AAMI Stadium,,0,,1019,0
+FX19,265,113351,AAMI Stadium,,0,,1019,0
+FX19,265,113352,AAMI Stadium,,0,,1019,0
+FX19,265,113353,AAMI Stadium,,0,,1019,0
+FX19,265,113354,Seaford Shopping Centre,,1,,8245,0
+FX20,265,113355,AAMI Stadium,,0,,3088,0
+FX20,265,113356,AAMI Stadium,,0,,3088,0
+FX20,265,113357,AAMI Stadium,,0,,3088,0
+FX20,265,113358,Aberfoyle Hub,,1,,8246,0
+FX21,265,113359,AAMI Stadium,,0,,4965,0
+FX21,265,113360,AAMI Stadium,,0,,4965,0
+FX21,265,113361,AAMI Stadium,,0,,4965,0
+FX21,265,113362,Woodcroft Community Centre,,1,,8247,0
+FX22,265,113363,AAMI Stadium,,0,,4666,0
+FX22,265,113364,AAMI Stadium,,0,,4666,0
+FX22,265,113365,AAMI Stadium,,0,,4666,0
+FX22,265,113366,AAMI Stadium,,0,,4666,0
+FX22,265,113367,AAMI Stadium,,0,,4666,0
+FX22,265,113368,AAMI Stadium,,0,,4666,0
+FX22,265,113369,AAMI Stadium,,0,,4666,0
+FX22,265,113370,AAMI Stadium,,0,,4666,0
+FX22,265,113371,AAMI Stadium,,0,,4666,0
+FX22,265,113372,AAMI Stadium,,0,,4666,0
+FX22,265,113373,AAMI Stadium,,0,,4666,0
+FX22,265,113374,AAMI Stadium,,0,,4666,0
+FX22,265,113375,AAMI Stadium,,0,,4666,0
+FX22,265,113376,City,,1,,8250,0
+FX23,265,113377,AAMI Stadium,,0,,7481,0
+FX23,265,113378,Mawson Interchange,,1,,8235,0
+FXSeat,265,113379,AAMI Stadium,,0,,3569,0
+FXSeat,265,113380,AAMI Stadium,,0,,3569,0
+FXSeat,265,113381,AAMI Stadium,,0,,3569,0
+FXSeat,265,113382,AAMI Stadium,,0,,3569,0
+FX1,266,113383,AAMI Stadium,,0,,5658,0
+FX1,266,113384,AAMI Stadium,,0,,5658,0
+FX1,266,113385,AAMI Stadium,,0,,5658,0
+FX1,266,113386,Golden Grove Village,,1,,8229,0
+FX2,266,113387,AAMI Stadium,,0,,3837,0
+FX2,266,113388,AAMI Stadium,,0,,3837,0
+FX2,266,113389,AAMI Stadium,,0,,3837,0
+FX2,266,113390,St Agnes Depot,,1,,8228,0
+FX3,266,113391,AAMI Stadium,,0,,6662,0
+FX3,266,113392,AAMI Stadium,,0,,9643,0
+FX3,266,113393,Clovercrest Shopping Centre,,1,,8230,0
+FX4,266,113394,AAMI Stadium,,0,,7483,0
+FX4,266,113395,Elizabeth Station,,1,,8231,0
+FX5,266,113396,AAMI Stadium,,0,,7482,0
+FX5,266,113397,Elizabeth Oval,,1,,8232,0
+FX6,266,113398,AAMI Stadium,,0,,7484,0
+FX6,266,113399,Salisbury North Football Club,,1,,8233,0
+FX7,266,113400,AAMI Stadium,,0,,406,0
+FX7,266,113401,Davoren Park,,1,,8234,0
+FX8,266,113402,AAMI Stadium,,0,,5342,0
+FX8,266,113403,AAMI Stadium,,0,,5342,0
+FX8,266,113404,AAMI Stadium,,0,,5342,0
+FX8,266,113405,AAMI Stadium,,0,,5342,0
+FX8,266,113406,AAMI Stadium,,0,,5342,0
+FX8,266,113407,Alberton Oval,,1,,8248,0
+FX9,266,113408,AAMI Stadium,,0,,7486,0
+FX9,266,113409,AAMI Stadium,,0,,7486,0
+FX9,266,113410,Port Adelaide,,1,,8249,0
+FX10,266,113411,AAMI Stadium,,0,,6204,0
+FX10,266,113412,AAMI Stadium,,0,,6204,0
+FX10,266,113413,AAMI Stadium,,0,,6204,0
+FX10,266,113414,AAMI Stadium,,0,,6204,0
+FX10,266,113415,Norwood Oval,,1,,8236,0
+FX12,266,113416,AAMI Stadium,,0,,4542,0
+FX12,266,113417,AAMI Stadium,,0,,4542,0
+FX12,266,113418,Aldgate,,1,,8238,0
+FX13,266,113419,AAMI Stadium,,0,,6555,0
+FX13,266,113420,AAMI Stadium,,0,,6555,0
+FX13,266,113421,Mt Barker,,1,,8239,0
+FX14,266,113422,AAMI Stadium,,0,,4859,0
+FX14,266,113423,AAMI Stadium,,0,,4859,0
+FX14,266,113424,Belair,,1,,8240,0
+FX15,266,113425,AAMI Stadium,,0,,239,0
+FX15,266,113426,AAMI Stadium,,0,,239,0
+FX15,266,113427,Torrens Park,,1,,8241,0
+FX16,266,113428,AAMI Stadium,,0,,7485,0
+FX16,266,113429,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,266,113430,AAMI Stadium,,0,,6343,0
+FX17,266,113431,AAMI Stadium,,0,,6343,0
+FX17,266,113432,Morphettville Depot,,1,,8243,0
+FX18,266,113433,AAMI Stadium,,0,,5759,0
+FX18,266,113434,AAMI Stadium,,0,,5759,0
+FX18,266,113435,South Adelaide Football Club,,1,,8244,0
+FX19,266,113436,AAMI Stadium,,0,,1019,0
+FX19,266,113437,AAMI Stadium,,0,,1019,0
+FX19,266,113438,Seaford Shopping Centre,,1,,8245,0
+FX20,266,113439,AAMI Stadium,,0,,3088,0
+FX20,266,113440,Aberfoyle Hub,,1,,8246,0
+FX21,266,113441,AAMI Stadium,,0,,4965,0
+FX21,266,113442,Woodcroft Community Centre,,1,,8247,0
+FX22,266,113443,AAMI Stadium,,0,,4666,0
+FX22,266,113444,AAMI Stadium,,0,,4666,0
+FX22,266,113445,AAMI Stadium,,0,,4666,0
+FX22,266,113446,AAMI Stadium,,0,,4666,0
+FX22,266,113447,AAMI Stadium,,0,,4666,0
+FX22,266,113448,AAMI Stadium,,0,,4666,0
+FX22,266,113449,AAMI Stadium,,0,,4666,0
+FX22,266,113450,City,,1,,8250,0
+FX23,266,113451,AAMI Stadium,,0,,7481,0
+FX23,266,113452,Mawson Interchange,,1,,8235,0
+FXSeat,266,113453,AAMI Stadium,,0,,3569,0
+FXSeat,266,113454,AAMI Stadium,,0,,3569,0
+FXSeat,266,113455,AAMI Stadium,,0,,3569,0
+FXSeat,266,113456,AAMI Stadium,,0,,3569,0
+FX1,267,113457,AAMI Stadium,,0,,5658,0
+FX1,267,113458,AAMI Stadium,,0,,5658,0
+FX1,267,113459,AAMI Stadium,,0,,5658,0
+FX1,267,113460,AAMI Stadium,,0,,5658,0
+FX1,267,113461,AAMI Stadium,,0,,5658,0
+FX1,267,113462,Golden Grove Village,,1,,8229,0
+FX2,267,113463,AAMI Stadium,,0,,3837,0
+FX2,267,113464,AAMI Stadium,,0,,3837,0
+FX2,267,113465,AAMI Stadium,,0,,3837,0
+FX2,267,113466,AAMI Stadium,,0,,3837,0
+FX2,267,113467,AAMI Stadium,,0,,3837,0
+FX2,267,113468,AAMI Stadium,,0,,3837,0
+FX2,267,113469,AAMI Stadium,,0,,3837,0
+FX2,267,113470,AAMI Stadium,,0,,3837,0
+FX2,267,113471,St Agnes Depot,,1,,8228,0
+FX3,267,113472,AAMI Stadium,,0,,6662,0
+FX3,267,113473,AAMI Stadium,,0,,6662,0
+FX3,267,113474,Clovercrest Shopping Centre,,1,,8230,0
+FX4,267,113475,AAMI Stadium,,0,,7483,0
+FX4,267,113476,Elizabeth Station,,1,,8231,0
+FX5,267,113477,AAMI Stadium,,0,,7482,0
+FX5,267,113478,AAMI Stadium,,0,,7482,0
+FX5,267,113479,AAMI Stadium,,0,,7482,0
+FX5,267,113480,Elizabeth Oval,,1,,8232,0
+FX6,267,113481,AAMI Stadium,,0,,7484,0
+FX6,267,113482,AAMI Stadium,,0,,7484,0
+FX6,267,113483,AAMI Stadium,,0,,7484,0
+FX6,267,113484,Salisbury North Football Club,,1,,8233,0
+FX7,267,113485,AAMI Stadium,,0,,406,0
+FX7,267,113486,Davoren Park,,1,,8234,0
+FX9,267,113487,AAMI Stadium,,0,,7486,0
+FX9,267,113488,AAMI Stadium,,0,,7486,0
+FX9,267,113489,Port Adelaide,,1,,8249,0
+FX10,267,113490,AAMI Stadium,,0,,6204,0
+FX10,267,113491,AAMI Stadium,,0,,6204,0
+FX10,267,113492,AAMI Stadium,,0,,6204,0
+FX10,267,113493,AAMI Stadium,,0,,6204,0
+FX10,267,113494,AAMI Stadium,,0,,6204,0
+FX10,267,113495,AAMI Stadium,,0,,6204,0
+FX10,267,113496,AAMI Stadium,,0,,6204,0
+FX10,267,113497,AAMI Stadium,,0,,6204,0
+FX10,267,113498,AAMI Stadium,,0,,6204,0
+FX10,267,113499,AAMI Stadium,,0,,6204,0
+FX10,267,113500,AAMI Stadium,,0,,6204,0
+FX10,267,113501,AAMI Stadium,,0,,6204,0
+FX10,267,113502,AAMI Stadium,,0,,6204,0
+FX10,267,113503,Norwood Oval,,1,,8236,0
+FX11,267,113504,AAMI Stadium,,0,,5254,0
+FX11,267,113505,AAMI Stadium,,0,,5254,0
+FX11,267,113506,AAMI Stadium,,0,,5254,0
+FX11,267,113507,UniSA Magill Campus,,1,,8237,0
+FX12,267,113508,AAMI Stadium,,0,,4542,0
+FX12,267,113509,AAMI Stadium,,0,,4542,0
+FX12,267,113510,Aldgate,,1,,8238,0
+FX13,267,113511,AAMI Stadium,,0,,6555,0
+FX13,267,113512,AAMI Stadium,,0,,6555,0
+FX13,267,113513,Mt Barker,,1,,8239,0
+FX14,267,113514,AAMI Stadium,,0,,4859,0
+FX14,267,113515,AAMI Stadium,,0,,4859,0
+FX14,267,113516,AAMI Stadium,,0,,4859,0
+FX14,267,113517,Belair,,1,,8240,0
+FX15,267,113518,AAMI Stadium,,0,,239,0
+FX15,267,113519,AAMI Stadium,,0,,239,0
+FX15,267,113520,AAMI Stadium,,0,,239,0
+FX15,267,113521,AAMI Stadium,,0,,239,0
+FX15,267,113522,Torrens Park,,1,,8241,0
+FX16,267,113523,AAMI Stadium,,0,,7485,0
+FX16,267,113524,AAMI Stadium,,0,,7485,0
+FX16,267,113525,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,267,113526,AAMI Stadium,,0,,6343,0
+FX17,267,113527,AAMI Stadium,,0,,6343,0
+FX17,267,113528,AAMI Stadium,,0,,6343,0
+FX17,267,113529,AAMI Stadium,,0,,6343,0
+FX17,267,113530,Morphettville Depot,,1,,8243,0
+FX18,267,113531,AAMI Stadium,,0,,5759,0
+FX18,267,113532,AAMI Stadium,,0,,5759,0
+FX18,267,113533,AAMI Stadium,,0,,5759,0
+FX18,267,113534,AAMI Stadium,,0,,5759,0
+FX18,267,113535,South Adelaide Football Club,,1,,8244,0
+FX19,267,113536,AAMI Stadium,,0,,1019,0
+FX19,267,113537,AAMI Stadium,,0,,1019,0
+FX19,267,113538,AAMI Stadium,,0,,1019,0
+FX19,267,113539,AAMI Stadium,,0,,1019,0
+FX19,267,113540,Seaford Shopping Centre,,1,,8245,0
+FX20,267,113541,AAMI Stadium,,0,,3088,0
+FX20,267,113542,AAMI Stadium,,0,,3088,0
+FX20,267,113543,AAMI Stadium,,0,,3088,0
+FX20,267,113544,Aberfoyle Hub,,1,,8246,0
+FX21,267,113545,AAMI Stadium,,0,,4965,0
+FX21,267,113546,AAMI Stadium,,0,,4965,0
+FX21,267,113547,AAMI Stadium,,0,,4965,0
+FX21,267,113548,Woodcroft Community Centre,,1,,8247,0
+FX22,267,113549,AAMI Stadium,,0,,4666,0
+FX22,267,113550,AAMI Stadium,,0,,4666,0
+FX22,267,113551,AAMI Stadium,,0,,4666,0
+FX22,267,113552,AAMI Stadium,,0,,4666,0
+FX22,267,113553,AAMI Stadium,,0,,4666,0
+FX22,267,113554,AAMI Stadium,,0,,4666,0
+FX22,267,113555,AAMI Stadium,,0,,4666,0
+FX22,267,113556,AAMI Stadium,,0,,4666,0
+FX22,267,113557,AAMI Stadium,,0,,4666,0
+FX22,267,113558,AAMI Stadium,,0,,4666,0
+FX22,267,113559,AAMI Stadium,,0,,4666,0
+FX22,267,113560,AAMI Stadium,,0,,4666,0
+FX22,267,113561,AAMI Stadium,,0,,4666,0
+FX22,267,113562,City,,1,,8250,0
+FX23,267,113563,AAMI Stadium,,0,,7481,0
+FX23,267,113564,Mawson Interchange,,1,,8235,0
+FXSeat,267,113565,AAMI Stadium,,0,,3569,0
+FXSeat,267,113566,AAMI Stadium,,0,,3569,0
+FXSeat,267,113567,AAMI Stadium,,0,,3569,0
+FXSeat,267,113568,AAMI Stadium,,0,,3569,0
+FX1,268,113569,AAMI Stadium,,0,,5658,0
+FX1,268,113570,AAMI Stadium,,0,,5658,0
+FX1,268,113571,AAMI Stadium,,0,,5658,0
+FX1,268,113572,Golden Grove Village,,1,,8229,0
+FX2,268,113573,AAMI Stadium,,0,,3837,0
+FX2,268,113574,AAMI Stadium,,0,,3837,0
+FX2,268,113575,AAMI Stadium,,0,,3837,0
+FX2,268,113576,St Agnes Depot,,1,,8228,0
+FX3,268,113577,AAMI Stadium,,0,,6662,0
+FX3,268,113578,AAMI Stadium,,0,,9643,0
+FX3,268,113579,Clovercrest Shopping Centre,,1,,8230,0
+FX4,268,113580,AAMI Stadium,,0,,7483,0
+FX4,268,113581,Elizabeth Station,,1,,8231,0
+FX5,268,113582,AAMI Stadium,,0,,7482,0
+FX5,268,113583,Elizabeth Oval,,1,,8232,0
+FX6,268,113584,AAMI Stadium,,0,,7484,0
+FX6,268,113585,Salisbury North Football Club,,1,,8233,0
+FX7,268,113586,AAMI Stadium,,0,,406,0
+FX7,268,113587,Davoren Park,,1,,8234,0
+FX8,268,113588,AAMI Stadium,,0,,5342,0
+FX8,268,113589,AAMI Stadium,,0,,5342,0
+FX8,268,113590,AAMI Stadium,,0,,5342,0
+FX8,268,113591,AAMI Stadium,,0,,5342,0
+FX8,268,113592,AAMI Stadium,,0,,5342,0
+FX8,268,113593,Alberton Oval,,1,,8248,0
+FX9,268,113594,AAMI Stadium,,0,,7486,0
+FX9,268,113595,AAMI Stadium,,0,,7486,0
+FX9,268,113596,Port Adelaide,,1,,8249,0
+FX10,268,113597,AAMI Stadium,,0,,6204,0
+FX10,268,113598,AAMI Stadium,,0,,6204,0
+FX10,268,113599,AAMI Stadium,,0,,6204,0
+FX10,268,113600,AAMI Stadium,,0,,6204,0
+FX10,268,113601,Norwood Oval,,1,,8236,0
+FX12,268,113602,AAMI Stadium,,0,,4542,0
+FX12,268,113603,AAMI Stadium,,0,,4542,0
+FX12,268,113604,Aldgate,,1,,8238,0
+FX13,268,113605,AAMI Stadium,,0,,6555,0
+FX13,268,113606,AAMI Stadium,,0,,6555,0
+FX13,268,113607,Mt Barker,,1,,8239,0
+FX14,268,113608,AAMI Stadium,,0,,4859,0
+FX14,268,113609,AAMI Stadium,,0,,4859,0
+FX14,268,113610,Belair,,1,,8240,0
+FX15,268,113611,AAMI Stadium,,0,,239,0
+FX15,268,113612,AAMI Stadium,,0,,239,0
+FX15,268,113613,Torrens Park,,1,,8241,0
+FX16,268,113614,AAMI Stadium,,0,,7485,0
+FX16,268,113615,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,268,113616,AAMI Stadium,,0,,6343,0
+FX17,268,113617,AAMI Stadium,,0,,6343,0
+FX17,268,113618,Morphettville Depot,,1,,8243,0
+FX18,268,113619,AAMI Stadium,,0,,5759,0
+FX18,268,113620,AAMI Stadium,,0,,5759,0
+FX18,268,113621,South Adelaide Football Club,,1,,8244,0
+FX19,268,113622,AAMI Stadium,,0,,1019,0
+FX19,268,113623,AAMI Stadium,,0,,1019,0
+FX19,268,113624,Seaford Shopping Centre,,1,,8245,0
+FX20,268,113625,AAMI Stadium,,0,,3088,0
+FX20,268,113626,Aberfoyle Hub,,1,,8246,0
+FX21,268,113627,AAMI Stadium,,0,,4965,0
+FX21,268,113628,Woodcroft Community Centre,,1,,8247,0
+FX22,268,113629,AAMI Stadium,,0,,4666,0
+FX22,268,113630,AAMI Stadium,,0,,4666,0
+FX22,268,113631,AAMI Stadium,,0,,4666,0
+FX22,268,113632,AAMI Stadium,,0,,4666,0
+FX22,268,113633,AAMI Stadium,,0,,4666,0
+FX22,268,113634,AAMI Stadium,,0,,4666,0
+FX22,268,113635,AAMI Stadium,,0,,4666,0
+FX22,268,113636,City,,1,,8250,0
+FX23,268,113637,AAMI Stadium,,0,,7481,0
+FX23,268,113638,Mawson Interchange,,1,,8235,0
+FXSeat,268,113639,AAMI Stadium,,0,,3569,0
+FXSeat,268,113640,AAMI Stadium,,0,,3569,0
+FXSeat,268,113641,AAMI Stadium,,0,,3569,0
+FXSeat,268,113642,AAMI Stadium,,0,,3569,0
+FX1,269,113643,AAMI Stadium,,0,,5658,0
+FX1,269,113644,AAMI Stadium,,0,,5658,0
+FX1,269,113645,AAMI Stadium,,0,,5658,0
+FX1,269,113646,AAMI Stadium,,0,,5658,0
+FX1,269,113647,AAMI Stadium,,0,,5658,0
+FX1,269,113648,Golden Grove Village,,1,,8229,0
+FX2,269,113649,AAMI Stadium,,0,,3837,0
+FX2,269,113650,AAMI Stadium,,0,,3837,0
+FX2,269,113651,AAMI Stadium,,0,,3837,0
+FX2,269,113652,AAMI Stadium,,0,,3837,0
+FX2,269,113653,AAMI Stadium,,0,,3837,0
+FX2,269,113654,AAMI Stadium,,0,,3837,0
+FX2,269,113655,AAMI Stadium,,0,,3837,0
+FX2,269,113656,AAMI Stadium,,0,,3837,0
+FX2,269,113657,St Agnes Depot,,1,,8228,0
+FX3,269,113658,AAMI Stadium,,0,,6662,0
+FX3,269,113659,AAMI Stadium,,0,,6662,0
+FX3,269,113660,Clovercrest Shopping Centre,,1,,8230,0
+FX4,269,113661,AAMI Stadium,,0,,7483,0
+FX4,269,113662,Elizabeth Station,,1,,8231,0
+FX5,269,113663,AAMI Stadium,,0,,7482,0
+FX5,269,113664,AAMI Stadium,,0,,7482,0
+FX5,269,113665,AAMI Stadium,,0,,7482,0
+FX5,269,113666,Elizabeth Oval,,1,,8232,0
+FX6,269,113667,AAMI Stadium,,0,,7484,0
+FX6,269,113668,AAMI Stadium,,0,,7484,0
+FX6,269,113669,AAMI Stadium,,0,,7484,0
+FX6,269,113670,Salisbury North Football Club,,1,,8233,0
+FX7,269,113671,AAMI Stadium,,0,,406,0
+FX7,269,113672,Davoren Park,,1,,8234,0
+FX8,269,113673,AAMI Stadium,,0,,5342,0
+FX8,269,113674,AAMI Stadium,,0,,5342,0
+FX8,269,113675,AAMI Stadium,,0,,5342,0
+FX8,269,113676,AAMI Stadium,,0,,5342,0
+FX8,269,113677,AAMI Stadium,,0,,5342,0
+FX8,269,113678,Alberton Oval,,1,,8248,0
+FX9,269,113679,AAMI Stadium,,0,,7486,0
+FX9,269,113680,AAMI Stadium,,0,,7486,0
+FX9,269,113681,Port Adelaide,,1,,8249,0
+FX10,269,113682,AAMI Stadium,,0,,6204,0
+FX10,269,113683,AAMI Stadium,,0,,6204,0
+FX10,269,113684,AAMI Stadium,,0,,6204,0
+FX10,269,113685,AAMI Stadium,,0,,6204,0
+FX10,269,113686,AAMI Stadium,,0,,6204,0
+FX10,269,113687,AAMI Stadium,,0,,6204,0
+FX10,269,113688,AAMI Stadium,,0,,6204,0
+FX10,269,113689,AAMI Stadium,,0,,6204,0
+FX10,269,113690,AAMI Stadium,,0,,6204,0
+FX10,269,113691,AAMI Stadium,,0,,6204,0
+FX10,269,113692,AAMI Stadium,,0,,6204,0
+FX10,269,113693,AAMI Stadium,,0,,6204,0
+FX10,269,113694,AAMI Stadium,,0,,6204,0
+FX10,269,113695,Norwood Oval,,1,,8236,0
+FX11,269,113696,AAMI Stadium,,0,,5254,0
+FX11,269,113697,AAMI Stadium,,0,,5254,0
+FX11,269,113698,AAMI Stadium,,0,,5254,0
+FX11,269,113699,UniSA Magill Campus,,1,,8237,0
+FX12,269,113700,AAMI Stadium,,0,,4542,0
+FX12,269,113701,AAMI Stadium,,0,,4542,0
+FX12,269,113702,Aldgate,,1,,8238,0
+FX13,269,113703,AAMI Stadium,,0,,6555,0
+FX13,269,113704,AAMI Stadium,,0,,6555,0
+FX13,269,113705,Mt Barker,,1,,8239,0
+FX14,269,113706,AAMI Stadium,,0,,4859,0
+FX14,269,113707,AAMI Stadium,,0,,4859,0
+FX14,269,113708,AAMI Stadium,,0,,4859,0
+FX14,269,113709,Belair,,1,,8240,0
+FX15,269,113710,AAMI Stadium,,0,,239,0
+FX15,269,113711,AAMI Stadium,,0,,239,0
+FX15,269,113712,AAMI Stadium,,0,,239,0
+FX15,269,113713,AAMI Stadium,,0,,239,0
+FX15,269,113714,Torrens Park,,1,,8241,0
+FX16,269,113715,AAMI Stadium,,0,,7485,0
+FX16,269,113716,AAMI Stadium,,0,,7485,0
+FX16,269,113717,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,269,113718,AAMI Stadium,,0,,6343,0
+FX17,269,113719,AAMI Stadium,,0,,6343,0
+FX17,269,113720,AAMI Stadium,,0,,6343,0
+FX17,269,113721,AAMI Stadium,,0,,6343,0
+FX17,269,113722,Morphettville Depot,,1,,8243,0
+FX18,269,113723,AAMI Stadium,,0,,5759,0
+FX18,269,113724,AAMI Stadium,,0,,5759,0
+FX18,269,113725,AAMI Stadium,,0,,5759,0
+FX18,269,113726,AAMI Stadium,,0,,5759,0
+FX18,269,113727,South Adelaide Football Club,,1,,8244,0
+FX19,269,113728,AAMI Stadium,,0,,1019,0
+FX19,269,113729,AAMI Stadium,,0,,1019,0
+FX19,269,113730,AAMI Stadium,,0,,1019,0
+FX19,269,113731,AAMI Stadium,,0,,1019,0
+FX19,269,113732,Seaford Shopping Centre,,1,,8245,0
+FX20,269,113733,AAMI Stadium,,0,,3088,0
+FX20,269,113734,AAMI Stadium,,0,,3088,0
+FX20,269,113735,AAMI Stadium,,0,,3088,0
+FX20,269,113736,Aberfoyle Hub,,1,,8246,0
+FX21,269,113737,AAMI Stadium,,0,,4965,0
+FX21,269,113738,AAMI Stadium,,0,,4965,0
+FX21,269,113739,AAMI Stadium,,0,,4965,0
+FX21,269,113740,Woodcroft Community Centre,,1,,8247,0
+FX22,269,113741,AAMI Stadium,,0,,4666,0
+FX22,269,113742,AAMI Stadium,,0,,4666,0
+FX22,269,113743,AAMI Stadium,,0,,4666,0
+FX22,269,113744,AAMI Stadium,,0,,4666,0
+FX22,269,113745,AAMI Stadium,,0,,4666,0
+FX22,269,113746,AAMI Stadium,,0,,4666,0
+FX22,269,113747,AAMI Stadium,,0,,4666,0
+FX22,269,113748,AAMI Stadium,,0,,4666,0
+FX22,269,113749,AAMI Stadium,,0,,4666,0
+FX22,269,113750,AAMI Stadium,,0,,4666,0
+FX22,269,113751,AAMI Stadium,,0,,4666,0
+FX22,269,113752,AAMI Stadium,,0,,4666,0
+FX22,269,113753,AAMI Stadium,,0,,4666,0
+FX22,269,113754,City,,1,,8250,0
+FX23,269,113755,AAMI Stadium,,0,,7481,0
+FX23,269,113756,Mawson Interchange,,1,,8235,0
+FXSeat,269,113757,AAMI Stadium,,0,,3569,0
+FXSeat,269,113758,AAMI Stadium,,0,,3569,0
+FXSeat,269,113759,AAMI Stadium,,0,,3569,0
+FXSeat,269,113760,AAMI Stadium,,0,,3569,0
+FX1,270,113761,AAMI Stadium,,0,,5658,0
+FX1,270,113762,AAMI Stadium,,0,,5658,0
+FX1,270,113763,AAMI Stadium,,0,,5658,0
+FX1,270,113764,AAMI Stadium,,0,,5658,0
+FX1,270,113765,AAMI Stadium,,0,,5658,0
+FX1,270,113766,Golden Grove Village,,1,,8229,0
+FX2,270,113767,AAMI Stadium,,0,,3837,0
+FX2,270,113768,AAMI Stadium,,0,,3837,0
+FX2,270,113769,AAMI Stadium,,0,,3837,0
+FX2,270,113770,AAMI Stadium,,0,,3837,0
+FX2,270,113771,AAMI Stadium,,0,,3837,0
+FX2,270,113772,AAMI Stadium,,0,,3837,0
+FX2,270,113773,AAMI Stadium,,0,,3837,0
+FX2,270,113774,AAMI Stadium,,0,,3837,0
+FX2,270,113775,St Agnes Depot,,1,,8228,0
+FX3,270,113776,AAMI Stadium,,0,,6662,0
+FX3,270,113777,AAMI Stadium,,0,,6662,0
+FX3,270,113778,Clovercrest Shopping Centre,,1,,8230,0
+FX4,270,113779,AAMI Stadium,,0,,7483,0
+FX4,270,113780,Elizabeth Station,,1,,8231,0
+FX5,270,113781,AAMI Stadium,,0,,7482,0
+FX5,270,113782,AAMI Stadium,,0,,7482,0
+FX5,270,113783,AAMI Stadium,,0,,7482,0
+FX5,270,113784,Elizabeth Oval,,1,,8232,0
+FX6,270,113785,AAMI Stadium,,0,,7484,0
+FX6,270,113786,AAMI Stadium,,0,,7484,0
+FX6,270,113787,AAMI Stadium,,0,,7484,0
+FX6,270,113788,Salisbury North Football Club,,1,,8233,0
+FX7,270,113789,AAMI Stadium,,0,,406,0
+FX7,270,113790,Davoren Park,,1,,8234,0
+FX9,270,113791,AAMI Stadium,,0,,7486,0
+FX9,270,113792,AAMI Stadium,,0,,7486,0
+FX9,270,113793,Port Adelaide,,1,,8249,0
+FX10,270,113794,AAMI Stadium,,0,,6204,0
+FX10,270,113795,AAMI Stadium,,0,,6204,0
+FX10,270,113796,AAMI Stadium,,0,,6204,0
+FX10,270,113797,AAMI Stadium,,0,,6204,0
+FX10,270,113798,AAMI Stadium,,0,,6204,0
+FX10,270,113799,AAMI Stadium,,0,,6204,0
+FX10,270,113800,AAMI Stadium,,0,,6204,0
+FX10,270,113801,AAMI Stadium,,0,,6204,0
+FX10,270,113802,AAMI Stadium,,0,,6204,0
+FX10,270,113803,AAMI Stadium,,0,,6204,0
+FX10,270,113804,AAMI Stadium,,0,,6204,0
+FX10,270,113805,AAMI Stadium,,0,,6204,0
+FX10,270,113806,AAMI Stadium,,0,,6204,0
+FX10,270,113807,Norwood Oval,,1,,8236,0
+FX11,270,113808,AAMI Stadium,,0,,5254,0
+FX11,270,113809,AAMI Stadium,,0,,5254,0
+FX11,270,113810,AAMI Stadium,,0,,5254,0
+FX11,270,113811,UniSA Magill Campus,,1,,8237,0
+FX12,270,113812,AAMI Stadium,,0,,4542,0
+FX12,270,113813,AAMI Stadium,,0,,4542,0
+FX12,270,113814,Aldgate,,1,,8238,0
+FX13,270,113815,AAMI Stadium,,0,,6555,0
+FX13,270,113816,AAMI Stadium,,0,,6555,0
+FX13,270,113817,Mt Barker,,1,,8239,0
+FX14,270,113818,AAMI Stadium,,0,,4859,0
+FX14,270,113819,AAMI Stadium,,0,,4859,0
+FX14,270,113820,AAMI Stadium,,0,,4859,0
+FX14,270,113821,Belair,,1,,8240,0
+FX15,270,113822,AAMI Stadium,,0,,239,0
+FX15,270,113823,AAMI Stadium,,0,,239,0
+FX15,270,113824,AAMI Stadium,,0,,239,0
+FX15,270,113825,AAMI Stadium,,0,,239,0
+FX15,270,113826,Torrens Park,,1,,8241,0
+FX16,270,113827,AAMI Stadium,,0,,7485,0
+FX16,270,113828,AAMI Stadium,,0,,7485,0
+FX16,270,113829,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,270,113830,AAMI Stadium,,0,,6343,0
+FX17,270,113831,AAMI Stadium,,0,,6343,0
+FX17,270,113832,AAMI Stadium,,0,,6343,0
+FX17,270,113833,AAMI Stadium,,0,,6343,0
+FX17,270,113834,Morphettville Depot,,1,,8243,0
+FX18,270,113835,AAMI Stadium,,0,,5759,0
+FX18,270,113836,AAMI Stadium,,0,,5759,0
+FX18,270,113837,AAMI Stadium,,0,,5759,0
+FX18,270,113838,AAMI Stadium,,0,,5759,0
+FX18,270,113839,South Adelaide Football Club,,1,,8244,0
+FX19,270,113840,AAMI Stadium,,0,,1019,0
+FX19,270,113841,AAMI Stadium,,0,,1019,0
+FX19,270,113842,AAMI Stadium,,0,,1019,0
+FX19,270,113843,AAMI Stadium,,0,,1019,0
+FX19,270,113844,Seaford Shopping Centre,,1,,8245,0
+FX20,270,113845,AAMI Stadium,,0,,3088,0
+FX20,270,113846,AAMI Stadium,,0,,3088,0
+FX20,270,113847,AAMI Stadium,,0,,3088,0
+FX20,270,113848,Aberfoyle Hub,,1,,8246,0
+FX21,270,113849,AAMI Stadium,,0,,4965,0
+FX21,270,113850,AAMI Stadium,,0,,4965,0
+FX21,270,113851,AAMI Stadium,,0,,4965,0
+FX21,270,113852,Woodcroft Community Centre,,1,,8247,0
+FX22,270,113853,AAMI Stadium,,0,,4666,0
+FX22,270,113854,AAMI Stadium,,0,,4666,0
+FX22,270,113855,AAMI Stadium,,0,,4666,0
+FX22,270,113856,AAMI Stadium,,0,,4666,0
+FX22,270,113857,AAMI Stadium,,0,,4666,0
+FX22,270,113858,AAMI Stadium,,0,,4666,0
+FX22,270,113859,AAMI Stadium,,0,,4666,0
+FX22,270,113860,AAMI Stadium,,0,,4666,0
+FX22,270,113861,AAMI Stadium,,0,,4666,0
+FX22,270,113862,AAMI Stadium,,0,,4666,0
+FX22,270,113863,AAMI Stadium,,0,,4666,0
+FX22,270,113864,AAMI Stadium,,0,,4666,0
+FX22,270,113865,AAMI Stadium,,0,,4666,0
+FX22,270,113866,City,,1,,8250,0
+FX23,270,113867,AAMI Stadium,,0,,7481,0
+FX23,270,113868,Mawson Interchange,,1,,8235,0
+FXSeat,270,113869,AAMI Stadium,,0,,3569,0
+FXSeat,270,113870,AAMI Stadium,,0,,3569,0
+FXSeat,270,113871,AAMI Stadium,,0,,3569,0
+FXSeat,270,113872,AAMI Stadium,,0,,3569,0
+FX1,271,113873,AAMI Stadium,,0,,5658,0
+FX1,271,113874,AAMI Stadium,,0,,5658,0
+FX1,271,113875,AAMI Stadium,,0,,5658,0
+FX1,271,113876,Golden Grove Village,,1,,8229,0
+FX2,271,113877,AAMI Stadium,,0,,3837,0
+FX2,271,113878,AAMI Stadium,,0,,3837,0
+FX2,271,113879,AAMI Stadium,,0,,3837,0
+FX2,271,113880,St Agnes Depot,,1,,8228,0
+FX3,271,113881,AAMI Stadium,,0,,6662,0
+FX3,271,113882,AAMI Stadium,,0,,9643,0
+FX3,271,113883,Clovercrest Shopping Centre,,1,,8230,0
+FX4,271,113884,AAMI Stadium,,0,,7483,0
+FX4,271,113885,Elizabeth Station,,1,,8231,0
+FX5,271,113886,AAMI Stadium,,0,,7482,0
+FX5,271,113887,Elizabeth Oval,,1,,8232,0
+FX6,271,113888,AAMI Stadium,,0,,7484,0
+FX6,271,113889,Salisbury North Football Club,,1,,8233,0
+FX7,271,113890,AAMI Stadium,,0,,406,0
+FX7,271,113891,Davoren Park,,1,,8234,0
+FX9,271,113892,AAMI Stadium,,0,,7486,0
+FX9,271,113893,AAMI Stadium,,0,,7486,0
+FX9,271,113894,Port Adelaide,,1,,8249,0
+FX10,271,113895,AAMI Stadium,,0,,6204,0
+FX10,271,113896,AAMI Stadium,,0,,6204,0
+FX10,271,113897,AAMI Stadium,,0,,6204,0
+FX10,271,113898,AAMI Stadium,,0,,6204,0
+FX10,271,113899,Norwood Oval,,1,,8236,0
+FX12,271,113900,AAMI Stadium,,0,,4542,0
+FX12,271,113901,AAMI Stadium,,0,,4542,0
+FX12,271,113902,Aldgate,,1,,8238,0
+FX13,271,113903,AAMI Stadium,,0,,6555,0
+FX13,271,113904,AAMI Stadium,,0,,6555,0
+FX13,271,113905,Mt Barker,,1,,8239,0
+FX14,271,113906,AAMI Stadium,,0,,4859,0
+FX14,271,113907,AAMI Stadium,,0,,4859,0
+FX14,271,113908,Belair,,1,,8240,0
+FX15,271,113909,AAMI Stadium,,0,,239,0
+FX15,271,113910,AAMI Stadium,,0,,239,0
+FX15,271,113911,Torrens Park,,1,,8241,0
+FX16,271,113912,AAMI Stadium,,0,,7485,0
+FX16,271,113913,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,271,113914,AAMI Stadium,,0,,6343,0
+FX17,271,113915,AAMI Stadium,,0,,6343,0
+FX17,271,113916,Morphettville Depot,,1,,8243,0
+FX18,271,113917,AAMI Stadium,,0,,5759,0
+FX18,271,113918,AAMI Stadium,,0,,5759,0
+FX18,271,113919,South Adelaide Football Club,,1,,8244,0
+FX19,271,113920,AAMI Stadium,,0,,1019,0
+FX19,271,113921,AAMI Stadium,,0,,1019,0
+FX19,271,113922,Seaford Shopping Centre,,1,,8245,0
+FX20,271,113923,AAMI Stadium,,0,,3088,0
+FX20,271,113924,Aberfoyle Hub,,1,,8246,0
+FX21,271,113925,AAMI Stadium,,0,,4965,0
+FX21,271,113926,Woodcroft Community Centre,,1,,8247,0
+FX22,271,113927,AAMI Stadium,,0,,4666,0
+FX22,271,113928,AAMI Stadium,,0,,4666,0
+FX22,271,113929,AAMI Stadium,,0,,4666,0
+FX22,271,113930,AAMI Stadium,,0,,4666,0
+FX22,271,113931,AAMI Stadium,,0,,4666,0
+FX22,271,113932,AAMI Stadium,,0,,4666,0
+FX22,271,113933,AAMI Stadium,,0,,4666,0
+FX22,271,113934,City,,1,,8250,0
+FX23,271,113935,AAMI Stadium,,0,,7481,0
+FX23,271,113936,Mawson Interchange,,1,,8235,0
+FXSeat,271,113937,AAMI Stadium,,0,,3569,0
+FXSeat,271,113938,AAMI Stadium,,0,,3569,0
+FXSeat,271,113939,AAMI Stadium,,0,,3569,0
+FXSeat,271,113940,AAMI Stadium,,0,,3569,0
+FX1,272,113941,AAMI Stadium,,0,,5658,0
+FX1,272,113942,AAMI Stadium,,0,,5658,0
+FX1,272,113943,AAMI Stadium,,0,,5658,0
+FX1,272,113944,AAMI Stadium,,0,,5658,0
+FX1,272,113945,AAMI Stadium,,0,,5658,0
+FX1,272,113946,Golden Grove Village,,1,,8229,0
+FX2,272,113947,AAMI Stadium,,0,,3837,0
+FX2,272,113948,AAMI Stadium,,0,,3837,0
+FX2,272,113949,AAMI Stadium,,0,,3837,0
+FX2,272,113950,AAMI Stadium,,0,,3837,0
+FX2,272,113951,AAMI Stadium,,0,,3837,0
+FX2,272,113952,AAMI Stadium,,0,,3837,0
+FX2,272,113953,AAMI Stadium,,0,,3837,0
+FX2,272,113954,AAMI Stadium,,0,,3837,0
+FX2,272,113955,St Agnes Depot,,1,,8228,0
+FX3,272,113956,AAMI Stadium,,0,,6662,0
+FX3,272,113957,AAMI Stadium,,0,,6662,0
+FX3,272,113958,Clovercrest Shopping Centre,,1,,8230,0
+FX4,272,113959,AAMI Stadium,,0,,7483,0
+FX4,272,113960,Elizabeth Station,,1,,8231,0
+FX5,272,113961,AAMI Stadium,,0,,7482,0
+FX5,272,113962,AAMI Stadium,,0,,7482,0
+FX5,272,113963,AAMI Stadium,,0,,7482,0
+FX5,272,113964,Elizabeth Oval,,1,,8232,0
+FX6,272,113965,AAMI Stadium,,0,,7484,0
+FX6,272,113966,AAMI Stadium,,0,,7484,0
+FX6,272,113967,AAMI Stadium,,0,,7484,0
+FX6,272,113968,Salisbury North Football Club,,1,,8233,0
+FX7,272,113969,AAMI Stadium,,0,,406,0
+FX7,272,113970,Davoren Park,,1,,8234,0
+FX9,272,113971,AAMI Stadium,,0,,7486,0
+FX9,272,113972,AAMI Stadium,,0,,7486,0
+FX9,272,113973,Port Adelaide,,1,,8249,0
+FX10,272,113974,AAMI Stadium,,0,,6204,0
+FX10,272,113975,AAMI Stadium,,0,,6204,0
+FX10,272,113976,AAMI Stadium,,0,,6204,0
+FX10,272,113977,AAMI Stadium,,0,,6204,0
+FX10,272,113978,AAMI Stadium,,0,,6204,0
+FX10,272,113979,AAMI Stadium,,0,,6204,0
+FX10,272,113980,AAMI Stadium,,0,,6204,0
+FX10,272,113981,AAMI Stadium,,0,,6204,0
+FX10,272,113982,AAMI Stadium,,0,,6204,0
+FX10,272,113983,AAMI Stadium,,0,,6204,0
+FX10,272,113984,AAMI Stadium,,0,,6204,0
+FX10,272,113985,Norwood Oval,,1,,8236,0
+FX11,272,113986,AAMI Stadium,,0,,5254,0
+FX11,272,113987,AAMI Stadium,,0,,5254,0
+FX11,272,113988,AAMI Stadium,,0,,5254,0
+FX11,272,113989,UniSA Magill Campus,,1,,8237,0
+FX12,272,113990,AAMI Stadium,,0,,4542,0
+FX13,272,113992,AAMI Stadium,,0,,6555,0
+FX13,272,113993,Mt Barker,,1,,8239,0
+FX14,272,113994,AAMI Stadium,,0,,4859,0
+FX14,272,113995,Belair,,1,,8240,0
+FX15,272,113996,AAMI Stadium,,0,,239,0
+FX15,272,113997,AAMI Stadium,,0,,239,0
+FX15,272,113998,AAMI Stadium,,0,,239,0
+FX15,272,113999,AAMI Stadium,,0,,239,0
+FX15,272,114000,Torrens Park,,1,,8241,0
+FX16,272,114001,AAMI Stadium,,0,,7485,0
+FX16,272,114002,AAMI Stadium,,0,,7485,0
+FX16,272,114003,Adelaide Shores Holiday Village,,1,,8242,0
+FX17,272,114004,AAMI Stadium,,0,,6343,0
+FX17,272,114005,AAMI Stadium,,0,,6343,0
+FX17,272,114006,AAMI Stadium,,0,,6343,0
+FX17,272,114007,AAMI Stadium,,0,,6343,0
+FX17,272,114008,Morphettville Depot,,1,,8243,0
+FX18,272,114009,AAMI Stadium,,0,,5759,0
+FX18,272,114010,AAMI Stadium,,0,,5759,0
+FX18,272,114011,AAMI Stadium,,0,,5759,0
+FX18,272,114012,AAMI Stadium,,0,,5759,0
+FX18,272,114013,South Adelaide Football Club,,1,,8244,0
+FX19,272,114014,AAMI Stadium,,0,,1019,0
+FX19,272,114015,AAMI Stadium,,0,,1019,0
+FX19,272,114016,AAMI Stadium,,0,,1019,0
+FX19,272,114017,AAMI Stadium,,0,,1019,0
+FX19,272,114018,Seaford Shopping Centre,,1,,8245,0
+FX20,272,114019,AAMI Stadium,,0,,3088,0
+FX20,272,114020,AAMI Stadium,,0,,3088,0
+FX20,272,114021,AAMI Stadium,,0,,3088,0
+FX20,272,114022,Aberfoyle Hub,,1,,8246,0
+FX21,272,114023,AAMI Stadium,,0,,4965,0
+FX21,272,114024,AAMI Stadium,,0,,4965,0
+FX21,272,114025,AAMI Stadium,,0,,4965,0
+FX21,272,114026,Woodcroft Community Centre,,1,,8247,0
+FX22,272,114027,AAMI Stadium,,0,,4666,0
+FX22,272,114028,AAMI Stadium,,0,,4666,0
+FX22,272,114029,AAMI Stadium,,0,,4666,0
+FX22,272,114030,AAMI Stadium,,0,,4666,0
+FX22,272,114031,AAMI Stadium,,0,,4666,0
+FX22,272,114032,AAMI Stadium,,0,,4666,0
+FX22,272,114033,AAMI Stadium,,0,,4666,0
+FX22,272,114034,AAMI Stadium,,0,,4666,0
+FX22,272,114035,AAMI Stadium,,0,,4666,0
+FX22,272,114036,AAMI Stadium,,0,,4666,0
+FX22,272,114037,AAMI Stadium,,0,,4666,0
+FX22,272,114038,AAMI Stadium,,0,,4666,0
+FX22,272,114039,AAMI Stadium,,0,,4666,0
+FX22,272,114040,City,,1,,8250,0
+FX23,272,114041,AAMI Stadium,,0,,7481,0
+FX23,272,114042,Mawson Interchange,,1,,8235,0
+FXSeat,272,114043,AAMI Stadium,,0,,3569,0
+FXSeat,272,114044,AAMI Stadium,,0,,3569,0
+FXSeat,272,114045,AAMI Stadium,,0,,3569,0
+FXSeat,272,114046,AAMI Stadium,,0,,3569,0
+202,11,114047,City ,,0,GS5122,8309,0
+Tram,5005,114049,Entertainment Centre,,0,B840,7474,0
+Tram,5005,114050,Entertainment Centre,,0,B841,7365,0
+Tram,5005,114051,Entertainment Centre,,0,B842,7365,0
+Tram,5005,114052,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114053,Entertainment Centre,,0,B844,7365,0
+Tram,5005,114054,Entertainment Centre,,0,B845,7365,0
+Tram,5005,114055,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114056,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114057,Entertainment Centre,,0,B847,7365,0
+Tram,5005,114058,Entertainment Centre,,0,B848,7365,0
+Tram,5005,114059,Entertainment Centre,,0,B841,7365,0
+Tram,5005,114060,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114061,Entertainment Centre,,0,B842,7365,0
+Tram,5005,114062,Entertainment Centre,,0,B850,7365,0
+Tram,5005,114063,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114064,Entertainment Centre,,0,B851,7365,0
+Tram,5005,114065,West Tce,,0,B844,7475,0
+Tram,5005,114066,Entertainment Centre,,0,B852,7365,0
+Tram,5005,114067,Entertainment Centre,,0,BE1,7474,0
+Tram,5005,114068,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114069,West Tce,,0,B845,7475,0
+Tram,5005,114070,Entertainment Centre,,0,B854,7365,0
+Tram,5005,114071,West Tce,,0,BE2,8879,0
+Tram,5005,114072,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114073,Entertainment Centre,,0,BE5,7474,0
+Tram,5005,114074,West Tce,,0,B850,7382,0
+Tram,5005,114075,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114076,West Tce,,0,B844,7382,0
+Tram,5005,114077,Entertainment Centre,,0,B847,7365,0
+Tram,5005,114078,West Tce,,0,B845,7382,0
+Tram,5005,114079,Entertainment Centre,,0,B848,7365,0
+Tram,5005,114080,West Tce,,0,B852,7382,0
+Tram,5005,114081,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114082,West Tce,,0,B850,7382,0
+Tram,5005,114083,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114084,West Tce,,0,B844,7382,0
+Tram,5005,114085,Entertainment Centre,,0,B851,7365,0
+Tram,5005,114086,West Tce,,0,B845,7382,0
+Tram,5005,114087,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114088,West Tce,,0,B852,7382,0
+Tram,5005,114089,Entertainment Centre,,0,B854,7365,0
+Tram,5005,114090,West Tce,,0,B850,7382,0
+Tram,5005,114091,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114092,West Tce,,0,B844,7382,0
+Tram,5005,114093,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114094,West Tce,,0,B845,7382,0
+Tram,5005,114095,Entertainment Centre,,0,B847,7365,0
+Tram,5005,114096,West Tce,,0,B852,7382,0
+Tram,5005,114097,Entertainment Centre,,0,B848,7365,0
+Tram,5005,114098,West Tce,,0,B850,7382,0
+Tram,5005,114099,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114100,West Tce,,0,B844,7382,0
+Tram,5005,114101,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114102,West Tce,,0,B845,7382,0
+Tram,5005,114103,Entertainment Centre,,0,B851,7365,0
+Tram,5005,114104,West Tce,,0,B852,7382,0
+Tram,5005,114105,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114106,West Tce,,0,B850,7382,0
+Tram,5005,114107,Entertainment Centre,,0,B854,7365,0
+Tram,5005,114108,West Tce,,0,B844,7382,0
+Tram,5005,114109,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114110,West Tce,,0,B845,7382,0
+Tram,5005,114111,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114112,West Tce,,0,B852,7382,0
+Tram,5005,114113,Entertainment Centre,,0,B847,7365,0
+Tram,5005,114114,West Tce,,0,B850,7382,0
+Tram,5005,114115,Entertainment Centre,,0,B848,7365,0
+Tram,5005,114116,West Tce,,0,B844,7382,0
+Tram,5005,114117,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114118,West Tce,,0,B845,7382,0
+Tram,5005,114119,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114120,West Tce,,0,B852,7382,0
+Tram,5005,114121,Entertainment Centre,,0,B851,7365,0
+Tram,5005,114122,West Tce,,0,B850,7382,0
+Tram,5005,114123,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114124,West Tce,,0,B844,7382,0
+Tram,5005,114125,Entertainment Centre,,0,B854,7365,0
+Tram,5005,114126,West Tce,,0,B845,7382,0
+Tram,5005,114127,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114128,West Tce,,0,B852,7382,0
+Tram,5005,114129,Entertainment Centre,,0,B841,7474,0
+Tram,5005,114130,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114131,West Tce,,0,B850,7382,0
+Tram,5005,114132,Entertainment Centre,,0,B847,7365,0
+Tram,5005,114133,West Tce,,0,B844,7382,0
+Tram,5005,114134,Entertainment Centre,,0,B842,7474,0
+Tram,5005,114135,Entertainment Centre,,0,B848,7365,0
+Tram,5005,114136,Entertainment Centre,,0,B845,8878,0
+Tram,5005,114137,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114138,West Tce,,0,BE3,8879,0
+Tram,5005,114139,Entertainment Centre,,0,B852,7383,0
+Tram,5005,114140,Entertainment Centre,,0,B843,7365,0
+Tram,5005,114141,West Tce,,0,BE4,8879,0
+Tram,5005,114142,Entertainment Centre,,0,B850,7383,0
+Tram,5005,114143,Entertainment Centre,,0,B851,7365,0
+Tram,5005,114144,Entertainment Centre,,0,B844,7383,0
+Tram,5005,114145,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114146,Entertainment Centre,,0,B854,7365,0
+Tram,5005,114147,Entertainment Centre,,0,B846,7365,0
+Tram,5005,114148,Entertainment Centre,,0,B841,7365,0
+Tram,5005,114149,Entertainment Centre,,0,B840,7365,0
+Tram,5005,114150,Entertainment Centre,,0,B842,7365,0
+Tram,5005,114151,Entertainment Centre,,0,B849,7365,0
+Tram,5005,114152,Entertainment Centre,,0,B852,7365,0
+Tram,5005,114153,Entertainment Centre,,0,B850,7365,0
+Tram,5005,114154,Entertainment Centre,,0,B853,7365,0
+Tram,5005,114155,Rundle Mall,,0,B854,8880,0
+Tram,5005,114156,Rundle Mall,,0,B840,8880,0
+Tram,5005,114157,Rundle Mall,,0,B842,8880,0
+Tram,5005,114158,Rundle Mall,,0,B852,8880,0
+Tram,5005,114159,Rundle Mall,,0,B850,8880,0
+Tram,5005,114160,Rundle Mall,,0,B853,8880,0
+Tram,5005,114161,Rundle Mall,,0,B854,8880,0
+Tram,5005,114162,Rundle Mall,,0,B840,8880,0
+Tram,5005,114163,Rundle Mall,,0,B842,8880,0
+Tram,5005,114164,Rundle Mall,,0,B852,8880,0
+Tram,5005,114165,Rundle Mall,,0,B850,8880,0
+Tram,5005,114166,Rundle Mall,,0,B853,8880,0
+Tram,5005,114167,Rundle Mall,,0,B854,8880,0
+Tram,5005,114168,Rundle Mall,,0,B840,8880,0
+Tram,5005,114169,Glenelg,,1,B841,5229,0
+Tram,5005,114170,Glenelg,,1,B842,5229,0
+Tram,5005,114171,Glenelg,,1,B843,5229,0
+Tram,5005,114172,Glenelg,,1,B844,5229,0
+Tram,5005,114173,Glenelg,,1,B845,5229,0
+Tram,5005,114174,Glenelg,,1,B846,5229,0
+Tram,5005,114175,Glenelg,,1,B847,5229,0
+Tram,5005,114176,Glenelg,,1,B848,5229,0
+Tram,5005,114177,Glenelg,,1,B849,5229,0
+Tram,5005,114178,Glenelg,,1,B850,5229,0
+Tram,5005,114179,Glenelg,,1,B851,5229,0
+Tram,5005,114180,Glenelg,,1,B852,5229,0
+Tram,5005,114181,Glenelg,,1,B853,5229,0
+Tram,5005,114182,Glenelg,,1,B854,5229,0
+Tram,5005,114183,Glenelg,,1,B840,7364,0
+Tram,5005,114184,Glenelg,,1,B841,7364,0
+Tram,5005,114185,Glenelg,,1,B842,7364,0
+Tram,5005,114186,Glenelg,,1,B843,7364,0
+Tram,5005,114187,Glenelg,,1,B844,7364,0
+Tram,5005,114188,Glenelg,,1,B845,7364,0
+Tram,5005,114189,Glenelg,,1,B846,7364,0
+Tram,5005,114190,Glenelg,,1,B840,7364,0
+Tram,5005,114191,Glenelg,,1,B847,7364,0
+Tram,5005,114192,Glenelg,,1,B848,7364,0
+Tram,5005,114193,Glenelg,,1,B841,7364,0
+Tram,5005,114194,Glenelg,,1,B849,7364,0
+Tram,5005,114195,Glenelg,,1,B842,7364,0
+Tram,5005,114196,South Tce,,1,B850,7476,0
+Tram,5005,114197,Glenelg,,1,B843,7364,0
+Tram,5005,114198,South Tce,,1,B844,7477,0
+Tram,5005,114199,Glenelg,,1,B851,7364,0
+Tram,5005,114200,South Tce,,1,B845,7477,0
+Tram,5005,114201,South Tce,,1,B852,7476,0
+Tram,5005,114202,Glenelg,,1,BE1,7364,0
+Tram,5005,114203,Glenelg,,1,B853,7364,0
+Tram,5005,114204,South Tce,,1,BE2,7477,0
+Tram,5005,114205,Glenelg,,1,B854,7364,0
+Tram,5005,114206,South Tce,,1,B850,7477,0
+Tram,5005,114207,Glenelg,,1,B846,7364,0
+Tram,5005,114208,South Tce,,1,B844,7477,0
+Tram,5005,114209,Glenelg,,1,B840,7364,0
+Tram,5005,114210,South Tce,,1,B845,7477,0
+Tram,5005,114211,Glenelg,,1,B847,7364,0
+Tram,5005,114212,South Tce,,1,B852,7477,0
+Tram,5005,114213,Glenelg,,1,B848,7364,0
+Tram,5005,114214,South Tce,,1,B850,7477,0
+Tram,5005,114215,Glenelg,,1,B849,7364,0
+Tram,5005,114216,South Tce,,1,B844,7477,0
+Tram,5005,114217,Glenelg,,1,B843,7364,0
+Tram,5005,114218,South Tce,,1,B845,7477,0
+Tram,5005,114219,Glenelg,,1,B851,7364,0
+Tram,5005,114220,South Tce,,1,B852,7477,0
+Tram,5005,114221,Glenelg,,1,B853,7364,0
+Tram,5005,114222,South Tce,,1,B850,7477,0
+Tram,5005,114223,Glenelg,,1,B854,7364,0
+Tram,5005,114224,South Tce,,1,B844,7477,0
+Tram,5005,114225,Glenelg,,1,B846,7364,0
+Tram,5005,114226,South Tce,,1,B845,7477,0
+Tram,5005,114227,Glenelg,,1,B840,7364,0
+Tram,5005,114228,South Tce,,1,B852,7477,0
+Tram,5005,114229,Glenelg,,1,B847,7364,0
+Tram,5005,114230,South Tce,,1,B850,7477,0
+Tram,5005,114231,Glenelg,,1,B848,7364,0
+Tram,5005,114232,South Tce,,1,B844,7477,0
+Tram,5005,114233,Glenelg,,1,B849,7364,0
+Tram,5005,114234,South Tce,,1,B845,7477,0
+Tram,5005,114235,Glenelg,,1,B843,7364,0
+Tram,5005,114236,South Tce,,1,B852,7477,0
+Tram,5005,114237,Glenelg,,1,B851,7364,0
+Tram,5005,114238,South Tce,,1,B850,7477,0
+Tram,5005,114239,Glenelg,,1,B853,7364,0
+Tram,5005,114240,South Tce,,1,B844,7477,0
+Tram,5005,114241,Glenelg,,1,B854,7364,0
+Tram,5005,114242,South Tce,,1,B845,7477,0
+Tram,5005,114243,Glenelg,,1,B846,7364,0
+Tram,5005,114244,South Tce,,1,B852,7477,0
+Tram,5005,114245,Glenelg,,1,B840,7364,0
+Tram,5005,114246,South Tce,,1,B850,7477,0
+Tram,5005,114247,Glenelg,,1,B847,7364,0
+Tram,5005,114248,South Tce,,1,B844,7477,0
+Tram,5005,114249,Glenelg,,1,B848,7364,0
+Tram,5005,114250,South Tce,,1,B845,7477,0
+Tram,5005,114251,Glenelg,,1,B849,7364,0
+Tram,5005,114252,South Tce,,1,B852,7477,0
+Tram,5005,114253,Glenelg,,1,B843,7364,0
+Tram,5005,114254,South Tce,,1,B850,7477,0
+Tram,5005,114255,Glenelg,,1,B851,7364,0
+Tram,5005,114256,South Tce,,1,B844,7477,0
+Tram,5005,114257,Glenelg,,1,B853,7364,0
+Tram,5005,114258,South Tce,,1,B845,7477,0
+Tram,5005,114259,Glenelg,,1,B854,7364,0
+Tram,5005,114260,South Tce,,1,B852,7477,0
+Tram,5005,114261,Glenelg,,1,B846,7364,0
+Tram,5005,114262,Glenelg,,1,B841,7364,0
+Tram,5005,114263,South Tce,,1,B850,7477,0
+Tram,5005,114264,Glenelg,,1,B840,7364,0
+Tram,5005,114265,South Tce,,1,B844,7477,0
+Tram,5005,114266,Glenelg,,1,B847,7364,0
+Tram,5005,114267,Glenelg,,1,B842,7364,0
+Tram,5005,114268,Glenelg,,1,BE3,7478,0
+Tram,5005,114269,Glenelg,,1,B848,7364,0
+Tram,5005,114270,Glenelg,,1,B845,7364,0
+Tram,5005,114271,Glenelg,,1,B849,7364,0
+Tram,5005,114272,Glenelg,,1,BE4,7478,0
+Tram,5005,114273,Glenelg,,1,B852,7364,0
+Tram,5005,114274,Glenelg,,1,B843,7364,0
+Tram,5005,114275,Glenelg,,1,B850,7364,0
+Tram,5005,114276,Glenelg,,1,B851,7364,0
+Tram,5005,114277,Glenelg,,1,B844,7364,0
+Tram,5005,114278,Glenelg,,1,B853,7364,0
+Tram,5005,114279,Glenelg,,1,B854,7364,0
+Tram,5005,114280,Glenelg,,1,B846,7364,0
+Tram,5005,114281,Glenelg,,1,B841,7364,0
+Tram,5005,114282,Glenelg,,1,B840,7364,0
+Tram,5005,114283,Glenelg,,1,B842,7364,0
+Tram,5005,114284,Glenelg,,1,B849,7364,0
+Tram,5005,114285,Glenelg,,1,B852,7364,0
+Tram,5005,114286,Glenelg,,1,B850,7364,0
+Tram,5005,114287,Glenelg,,1,B853,7364,0
+Tram,5005,114288,Glenelg,,1,B854,8885,0
+Tram,5005,114289,Glenelg,,1,B840,8885,0
+Tram,5005,114290,Glenelg,,1,B842,8885,0
+Tram,5005,114291,Glenelg,,1,B852,8885,0
+Tram,5005,114292,Glenelg,,1,B850,8885,0
+Tram,5005,114293,Glenelg,,1,B853,8885,0
+Tram,5005,114294,Glenelg,,1,B854,8885,0
+Tram,5005,114295,Glenelg,,1,B840,8885,0
+Tram,5005,114296,Glenelg,,1,B842,8885,0
+Tram,5005,114297,Glenelg,,1,B852,8885,0
+Tram,5005,114298,Glenelg,,1,B850,8885,0
+Tram,5005,114299,Glenelg,,1,B853,8885,0
+Tram,5005,114300,Glenelg,,1,B854,8885,0
+Tram,5005,114301,Glenelg,,1,B840,8885,0
+Tram,5006,114302,Rundle Mall,,0,B840,9877,0
+Tram,5006,114303,Rundle Mall,,0,B841,8880,0
+Tram,5006,114304,Rundle Mall,,0,B842,8880,0
+Tram,5006,114305,Rundle Mall,,0,B843,8880,0
+Tram,5006,114306,Rundle Mall,,0,B844,8880,0
+Tram,5006,114307,Rundle Mall,,0,B845,8880,0
+Tram,5006,114308,Rundle Mall,,0,B840,8880,0
+Tram,5006,114309,Rundle Mall,,0,B841,8880,0
+Tram,5006,114310,Rundle Mall,,0,B846,8880,0
+Tram,5006,114311,Rundle Mall,,0,B842,8880,0
+Tram,5006,114312,Rundle Mall,,0,B847,8880,0
+Tram,5006,114313,Rundle Mall,,0,B848,8880,0
+Tram,5006,114314,Rundle Mall,,0,B843,8880,0
+Tram,5006,114315,Rundle Mall,,0,B849,8880,0
+Tram,5006,114316,Rundle Mall,,0,B844,8880,0
+Tram,5006,114317,Rundle Mall,,0,B850,8880,0
+Tram,5006,114318,Rundle Mall,,0,B851,8880,0
+Tram,5006,114319,Rundle Mall,,0,B852,8880,0
+Tram,5006,114320,Rundle Mall,,0,B845,8880,0
+Tram,5006,114321,Rundle Mall,,0,B840,8880,0
+Tram,5006,114322,Rundle Mall,,0,B841,8880,0
+Tram,5006,114323,Rundle Mall,,0,B853,8880,0
+Tram,5006,114324,Rundle Mall,,0,B854,8880,0
+Tram,5006,114325,Rundle Mall,,0,B846,8880,0
+Tram,5006,114326,Rundle Mall,,0,B842,8880,0
+Tram,5006,114327,Rundle Mall,,0,B847,8880,0
+Tram,5006,114328,Rundle Mall,,0,B848,8880,0
+Tram,5006,114329,Rundle Mall,,0,B843,8880,0
+Tram,5006,114330,Rundle Mall,,0,B844,8880,0
+Tram,5006,114331,Rundle Mall,,0,B851,8880,0
+Tram,5006,114332,Rundle Mall,,0,B845,8880,0
+Tram,5006,114333,Rundle Mall,,0,B841,8880,0
+Tram,5006,114334,Rundle Mall,,0,B854,8880,0
+Tram,5006,114335,Rundle Mall,,0,B846,8880,0
+Tram,5006,114336,Rundle Mall,,0,B842,8880,0
+Tram,5006,114337,Rundle Mall,,0,B847,8880,0
+Tram,5006,114338,Rundle Mall,,0,B848,8880,0
+Tram,5006,114339,Rundle Mall,,0,B843,8880,0
+Tram,5006,114340,Rundle Mall,,0,B844,8880,0
+Tram,5006,114341,Rundle Mall,,0,B851,8880,0
+Tram,5006,114342,Rundle Mall,,0,B845,8880,0
+Tram,5006,114343,Rundle Mall,,0,B841,8880,0
+Tram,5006,114344,Rundle Mall,,0,B854,8880,0
+Tram,5006,114345,Rundle Mall,,0,B846,8880,0
+Tram,5006,114346,Rundle Mall,,0,B842,8880,0
+Tram,5006,114347,Rundle Mall,,0,B847,8880,0
+Tram,5006,114348,Rundle Mall,,0,B848,8880,0
+Tram,5006,114349,Rundle Mall,,0,B843,8880,0
+Tram,5006,114350,Rundle Mall,,0,B844,8880,0
+Tram,5006,114351,Rundle Mall,,0,B851,8880,0
+Tram,5006,114352,Rundle Mall,,0,B845,8880,0
+Tram,5006,114353,Rundle Mall,,0,B841,8880,0
+Tram,5006,114354,Rundle Mall,,0,B854,8880,0
+Tram,5006,114355,Rundle Mall,,0,B846,8880,0
+Tram,5006,114356,Rundle Mall,,0,B842,8880,0
+Tram,5006,114357,Rundle Mall,,0,B847,8880,0
+Tram,5006,114358,Rundle Mall,,0,B848,8880,0
+Tram,5006,114359,Rundle Mall,,0,B843,8880,0
+Tram,5006,114360,Rundle Mall,,0,B844,8880,0
+Tram,5006,114361,Rundle Mall,,0,B851,8880,0
+Tram,5006,114362,Rundle Mall,,0,B845,8880,0
+Tram,5006,114363,Rundle Mall,,0,B841,8880,0
+Tram,5006,114364,Rundle Mall,,0,B854,8880,0
+Tram,5006,114365,Rundle Mall,,0,B846,8880,0
+Tram,5006,114366,Rundle Mall,,0,B842,8880,0
+Tram,5006,114367,Rundle Mall,,0,B847,8880,0
+Tram,5006,114368,Rundle Mall,,0,B848,8880,0
+Tram,5006,114369,Rundle Mall,,0,B843,8880,0
+Tram,5006,114370,Rundle Mall,,0,B844,8880,0
+Tram,5006,114371,Rundle Mall,,0,B840,9877,0
+Tram,5006,114372,Rundle Mall,,0,B851,8880,0
+Tram,5006,114373,Rundle Mall,,0,B849,9877,0
+Tram,5006,114374,Rundle Mall,,0,B845,8880,0
+Tram,5006,114375,Rundle Mall,,0,B850,9877,0
+Tram,5006,114376,Rundle Mall,,0,B841,8880,0
+Tram,5006,114377,Rundle Mall,,0,B852,9877,0
+Tram,5006,114378,Rundle Mall,,0,B854,8880,0
+Tram,5006,114379,Rundle Mall,,0,B853,9877,0
+Tram,5006,114380,Rundle Mall,,0,B846,8880,0
+Tram,5006,114381,Rundle Mall,,0,B842,8880,0
+Tram,5006,114382,Rundle Mall,,0,B847,8880,0
+Tram,5006,114383,Rundle Mall,,0,B848,8880,0
+Tram,5006,114384,Rundle Mall,,0,B843,8880,0
+Tram,5006,114385,Rundle Mall,,0,B844,8880,0
+Tram,5006,114386,Rundle Mall,,0,B851,8880,0
+Tram,5006,114387,Rundle Mall,,0,B845,8880,0
+Tram,5006,114388,Rundle Mall,,0,B841,8880,0
+Tram,5006,114389,Rundle Mall,,0,B854,8880,0
+Tram,5006,114390,Rundle Mall,,0,B846,8880,0
+Tram,5006,114391,Rundle Mall,,0,B847,8880,0
+Tram,5006,114392,Rundle Mall,,0,B848,8880,0
+Tram,5006,114393,Rundle Mall,,0,B843,8880,0
+Tram,5006,114394,Rundle Mall,,0,B851,8880,0
+Tram,5006,114395,Rundle Mall,,0,B845,8880,0
+Tram,5006,114396,Rundle Mall,,0,B854,8880,0
+Tram,5006,114397,Rundle Mall,,0,B847,8880,0
+Tram,5006,114398,Rundle Mall,,0,B848,8880,0
+Tram,5006,114399,Rundle Mall,,0,B843,8880,0
+Tram,5006,114400,Rundle Mall,,0,B845,8880,0
+Tram,5006,114401,Rundle Mall,,0,B854,8880,0
+Tram,5006,114402,Rundle Mall,,0,B847,8880,0
+Tram,5006,114403,Rundle Mall,,0,B848,8880,0
+Tram,5006,114404,Rundle Mall,,0,B843,8880,0
+Tram,5006,114405,Rundle Mall,,0,B845,8880,0
+Tram,5006,114406,Rundle Mall,,0,B854,8880,0
+Tram,5006,114407,Rundle Mall,,0,B847,8880,0
+Tram,5006,114408,Rundle Mall,,0,B848,8880,0
+Tram,5006,114409,Glenelg,,1,B841,5229,0
+Tram,5006,114410,Glenelg,,1,B842,5229,0
+Tram,5006,114411,Glenelg,,1,B843,5229,0
+Tram,5006,114412,Glenelg,,1,B844,5229,0
+Tram,5006,114413,Glenelg,,1,B845,5229,0
+Tram,5006,114414,Glenelg,,1,B846,5229,0
+Tram,5006,114415,Glenelg,,1,B847,5229,0
+Tram,5006,114416,Glenelg,,1,B848,5229,0
+Tram,5006,114417,Glenelg,,1,B849,5229,0
+Tram,5006,114418,Glenelg,,1,B850,5229,0
+Tram,5006,114419,Glenelg,,1,B851,5229,0
+Tram,5006,114420,Glenelg,,1,B852,5229,0
+Tram,5006,114421,Glenelg,,1,B853,5229,0
+Tram,5006,114422,Glenelg,,1,B854,5229,0
+Tram,5006,114423,Glenelg,,1,B840,8885,0
+Tram,5006,114424,Glenelg,,1,B841,8885,0
+Tram,5006,114425,Glenelg,,1,B842,8885,0
+Tram,5006,114426,Glenelg,,1,B843,8885,0
+Tram,5006,114427,Glenelg,,1,B844,8885,0
+Tram,5006,114428,Glenelg,,1,B845,8885,0
+Tram,5006,114429,Glenelg,,1,B840,8885,0
+Tram,5006,114430,Glenelg,,1,B841,8885,0
+Tram,5006,114431,Glenelg,,1,B846,8885,0
+Tram,5006,114432,Glenelg,,1,B842,8885,0
+Tram,5006,114433,Glenelg,,1,B847,8885,0
+Tram,5006,114434,Glenelg,,1,B848,8885,0
+Tram,5006,114435,Glenelg,,1,B843,8885,0
+Tram,5006,114436,Glenelg,,1,B849,8885,0
+Tram,5006,114437,Glenelg,,1,B844,8885,0
+Tram,5006,114438,Glenelg,,1,B850,8885,0
+Tram,5006,114439,Glenelg,,1,B851,8885,0
+Tram,5006,114440,Glenelg,,1,B852,8885,0
+Tram,5006,114441,Glenelg,,1,B845,8885,0
+Tram,5006,114442,Glenelg,,1,B840,8885,0
+Tram,5006,114443,Glenelg,,1,B841,8885,0
+Tram,5006,114444,Glenelg,,1,B853,8885,0
+Tram,5006,114445,Glenelg,,1,B854,8885,0
+Tram,5006,114446,Glenelg,,1,B846,8885,0
+Tram,5006,114447,Glenelg,,1,B842,8885,0
+Tram,5006,114448,Glenelg,,1,B847,8885,0
+Tram,5006,114449,Glenelg,,1,B848,8885,0
+Tram,5006,114450,Glenelg,,1,B843,8885,0
+Tram,5006,114451,Glenelg,,1,B844,8885,0
+Tram,5006,114452,Glenelg,,1,B851,8885,0
+Tram,5006,114453,Glenelg,,1,B845,8885,0
+Tram,5006,114454,Glenelg,,1,B841,8885,0
+Tram,5006,114455,Glenelg,,1,B854,8885,0
+Tram,5006,114456,Glenelg,,1,B846,8885,0
+Tram,5006,114457,Glenelg,,1,B842,8885,0
+Tram,5006,114458,Glenelg,,1,B847,8885,0
+Tram,5006,114459,Glenelg,,1,B848,8885,0
+Tram,5006,114460,Glenelg,,1,B843,8885,0
+Tram,5006,114461,Glenelg,,1,B844,8885,0
+Tram,5006,114462,Glenelg,,1,B851,8885,0
+Tram,5006,114463,Glenelg,,1,B845,8885,0
+Tram,5006,114464,Glenelg,,1,B841,8885,0
+Tram,5006,114465,Glenelg,,1,B854,8885,0
+Tram,5006,114466,Glenelg,,1,B846,8885,0
+Tram,5006,114467,Glenelg,,1,B842,8885,0
+Tram,5006,114468,Glenelg,,1,B847,8885,0
+Tram,5006,114469,Glenelg,,1,B848,8885,0
+Tram,5006,114470,Glenelg,,1,B843,8885,0
+Tram,5006,114471,Glenelg,,1,B844,8885,0
+Tram,5006,114472,Glenelg,,1,B851,8885,0
+Tram,5006,114473,Glenelg,,1,B845,8885,0
+Tram,5006,114474,Glenelg,,1,B841,8885,0
+Tram,5006,114475,Glenelg,,1,B854,8885,0
+Tram,5006,114476,Glenelg,,1,B846,8885,0
+Tram,5006,114477,Glenelg,,1,B842,8885,0
+Tram,5006,114478,Glenelg,,1,B847,8885,0
+Tram,5006,114479,Glenelg,,1,B848,8885,0
+Tram,5006,114480,Glenelg,,1,B843,8885,0
+Tram,5006,114481,Glenelg,,1,B844,8885,0
+Tram,5006,114482,Glenelg,,1,B851,8885,0
+Tram,5006,114483,Glenelg,,1,B845,8885,0
+Tram,5006,114484,Glenelg,,1,B841,8885,0
+Tram,5006,114485,Glenelg,,1,B854,8885,0
+Tram,5006,114486,Glenelg,,1,B846,8885,0
+Tram,5006,114487,Glenelg,,1,B842,8885,0
+Tram,5006,114488,Glenelg,,1,B847,8885,0
+Tram,5006,114489,Glenelg,,1,B848,8885,0
+Tram,5006,114490,Glenelg,,1,B843,8885,0
+Tram,5006,114491,Glenelg,,1,B844,8885,0
+Tram,5006,114492,Glenelg,,1,B840,8885,0
+Tram,5006,114493,Glenelg,,1,B851,8885,0
+Tram,5006,114494,Glenelg,,1,B849,8885,0
+Tram,5006,114495,Glenelg,,1,B845,8885,0
+Tram,5006,114496,Glenelg,,1,B850,8885,0
+Tram,5006,114497,Glenelg,,1,B841,8885,0
+Tram,5006,114498,Glenelg,,1,B852,8885,0
+Tram,5006,114499,Glenelg,,1,B854,8885,0
+Tram,5006,114500,Glenelg,,1,B853,8885,0
+Tram,5006,114501,Glenelg,,1,B846,8885,0
+Tram,5006,114502,Glenelg,,1,B842,8885,0
+Tram,5006,114503,Glenelg,,1,B847,8885,0
+Tram,5006,114504,Glenelg,,1,B848,8885,0
+Tram,5006,114505,Glenelg,,1,B843,8885,0
+Tram,5006,114506,Glenelg,,1,B844,8885,0
+Tram,5006,114507,Glenelg,,1,B851,8885,0
+Tram,5006,114508,Glenelg,,1,B845,8885,0
+Tram,5006,114509,Glenelg,,1,B841,8885,0
+Tram,5006,114510,Glenelg,,1,B854,8885,0
+Tram,5006,114511,Glenelg,,1,B846,8885,0
+Tram,5006,114512,Glenelg,,1,B847,8885,0
+Tram,5006,114513,Glenelg,,1,B848,8885,0
+Tram,5006,114514,Glenelg,,1,B843,8885,0
+Tram,5006,114515,Glenelg,,1,B851,8885,0
+Tram,5006,114516,Glenelg,,1,B845,8885,0
+Tram,5006,114517,Glenelg,,1,B854,8885,0
+Tram,5006,114518,Glenelg,,1,B847,8885,0
+Tram,5006,114519,Glenelg,,1,B848,8885,0
+Tram,5006,114520,Glenelg,,1,B843,8885,0
+Tram,5006,114521,Glenelg,,1,B845,8885,0
+Tram,5006,114522,Glenelg,,1,B854,8885,0
+Tram,5006,114523,Glenelg,,1,B847,8885,0
+Tram,5006,114524,Glenelg,,1,B848,8885,0
+Tram,5006,114525,Glenelg,,1,B843,8885,0
+Tram,5006,114526,Glenelg,,1,B845,8885,0
+Tram,5006,114527,Glenelg,,1,B854,8885,0
+Tram,5006,114528,Glenelg,,1,B847,8885,0
+Tram,5006,114529,Glenelg,,1,B848,8885,0
+Tram,5002,114530,Rundle Mall,,0,,8880,0
+Tram,5002,114531,Rundle Mall,,0,,8880,0
+Tram,5002,114532,Rundle Mall,,0,,8880,0
+Tram,5002,114533,Rundle Mall,,0,,8880,0
+Tram,5002,114534,Rundle Mall,,0,,8880,0
+Tram,5002,114535,Rundle Mall,,0,,8880,0
+Tram,5002,114536,Rundle Mall,,0,,8880,0
+Tram,5002,114537,Rundle Mall,,0,,8880,0
+Tram,5002,114538,Rundle Mall,,0,,8880,0
+Tram,5002,114539,Rundle Mall,,0,,8880,0
+Tram,5002,114540,Rundle Mall,,0,,8880,0
+Tram,5002,114541,Rundle Mall,,0,,8880,0
+Tram,5002,114542,Rundle Mall,,0,,8880,0
+Tram,5002,114543,Rundle Mall,,0,,8880,0
+Tram,5002,114544,Rundle Mall,,0,,8880,0
+Tram,5002,114545,Rundle Mall,,0,,8880,0
+Tram,5002,114546,Rundle Mall,,0,,8880,0
+Tram,5002,114547,Rundle Mall,,0,,8880,0
+Tram,5002,114548,Rundle Mall,,0,,8880,0
+Tram,5002,114549,Rundle Mall,,0,,8880,0
+Tram,5002,114550,Rundle Mall,,0,,8880,0
+Tram,5002,114551,Rundle Mall,,0,,8880,0
+Tram,5002,114552,Rundle Mall,,0,,8880,0
+Tram,5002,114553,Rundle Mall,,0,,8880,0
+Tram,5002,114554,Rundle Mall,,0,,8880,0
+Tram,5002,114555,Rundle Mall,,0,,8880,0
+Tram,5002,114556,Rundle Mall,,0,,8880,0
+Tram,5002,114557,Rundle Mall,,0,,8880,0
+Tram,5002,114558,Rundle Mall,,0,,8880,0
+Tram,5002,114559,Rundle Mall,,0,,8880,0
+Tram,5002,114560,Rundle Mall,,0,,8880,0
+Tram,5002,114561,Rundle Mall,,0,,8880,0
+Tram,5002,114562,Rundle Mall,,0,,8880,0
+Tram,5002,114563,Rundle Mall,,0,,8880,0
+Tram,5002,114564,Rundle Mall,,0,,8880,0
+Tram,5002,114565,Rundle Mall,,0,,8880,0
+Tram,5002,114566,Rundle Mall,,0,,8880,0
+Tram,5002,114567,Rundle Mall,,0,,8880,0
+Tram,5002,114568,Rundle Mall,,0,,8880,0
+Tram,5002,114569,Rundle Mall,,0,,8880,0
+Tram,5002,114570,Rundle Mall,,0,,8880,0
+Tram,5002,114571,Rundle Mall,,0,,8880,0
+Tram,5002,114572,Rundle Mall,,0,,8880,0
+Tram,5002,114573,Rundle Mall,,0,,8880,0
+Tram,5002,114574,Rundle Mall,,0,,8880,0
+Tram,5002,114575,Rundle Mall,,0,,8880,0
+Tram,5002,114576,Rundle Mall,,0,,8880,0
+Tram,5002,114577,Rundle Mall,,0,,8880,0
+Tram,5002,114578,Rundle Mall,,0,,8880,0
+Tram,5002,114579,Rundle Mall,,0,,8880,0
+Tram,5002,114580,Rundle Mall,,0,,8880,0
+Tram,5002,114581,Rundle Mall,,0,,8880,0
+Tram,5002,114582,Rundle Mall,,0,,8880,0
+Tram,5002,114583,Rundle Mall,,0,,8880,0
+Tram,5002,114584,Rundle Mall,,0,,8880,0
+Tram,5002,114585,Rundle Mall,,0,,8880,0
+Tram,5002,114586,Rundle Mall,,0,,8880,0
+Tram,5002,114587,Rundle Mall,,0,,8880,0
+Tram,5002,114588,Rundle Mall,,0,,8880,0
+Tram,5002,114589,Rundle Mall,,0,,8880,0
+Tram,5002,114590,Rundle Mall,,0,,8880,0
+Tram,5002,114591,Rundle Mall,,0,,8880,0
+Tram,5002,114592,Rundle Mall,,0,,8880,0
+Tram,5002,114593,Rundle Mall,,0,,8880,0
+Tram,5002,114594,Rundle Mall,,0,,8880,0
+Tram,5002,114595,Rundle Mall,,0,,8880,0
+Tram,5003,114596,Rundle Mall,,0,,8880,0
+Tram,5003,114597,Rundle Mall,,0,,8880,0
+Tram,5003,114598,Rundle Mall,,0,,8880,0
+Tram,5003,114599,Rundle Mall,,0,,8880,0
+Tram,5003,114600,Rundle Mall,,0,,8880,0
+Tram,5003,114601,Rundle Mall,,0,,8880,0
+Tram,5003,114602,Rundle Mall,,0,,8880,0
+Tram,5003,114603,Rundle Mall,,0,,8880,0
+Tram,5003,114604,Rundle Mall,,0,,8880,0
+Tram,5003,114605,Rundle Mall,,0,,8880,0
+Tram,5003,114606,Rundle Mall,,0,,8880,0
+Tram,5003,114607,Rundle Mall,,0,,8880,0
+Tram,5003,114608,Rundle Mall,,0,,8880,0
+Tram,5003,114609,Rundle Mall,,0,,8880,0
+Tram,5003,114610,Rundle Mall,,0,,8880,0
+Tram,5003,114611,Rundle Mall,,0,,8880,0
+Tram,5003,114612,Rundle Mall,,0,,8880,0
+Tram,5003,114613,Rundle Mall,,0,,8880,0
+Tram,5003,114614,Rundle Mall,,0,,8880,0
+Tram,5003,114615,Rundle Mall,,0,,8880,0
+Tram,5003,114616,Rundle Mall,,0,,8880,0
+Tram,5003,114617,Rundle Mall,,0,,8880,0
+Tram,5003,114618,Rundle Mall,,0,,8880,0
+Tram,5003,114619,Rundle Mall,,0,,8880,0
+Tram,5003,114620,Rundle Mall,,0,,8880,0
+Tram,5003,114621,Rundle Mall,,0,,8880,0
+Tram,5003,114622,Rundle Mall,,0,,8880,0
+Tram,5003,114623,Rundle Mall,,0,,8880,0
+Tram,5003,114624,Rundle Mall,,0,,8880,0
+Tram,5003,114625,Rundle Mall,,0,,8880,0
+Tram,5003,114626,Rundle Mall,,0,,8880,0
+Tram,5003,114627,Rundle Mall,,0,,8880,0
+Tram,5003,114628,Rundle Mall,,0,,8880,0
+Tram,5003,114629,Rundle Mall,,0,,8880,0
+Tram,5003,114630,Rundle Mall,,0,,8880,0
+Tram,5003,114631,Rundle Mall,,0,,8880,0
+Tram,5003,114632,Rundle Mall,,0,,8880,0
+Tram,5003,114633,Rundle Mall,,0,,8880,0
+Tram,5003,114634,Rundle Mall,,0,,8880,0
+Tram,5003,114635,Rundle Mall,,0,,8880,0
+Tram,5003,114636,Rundle Mall,,0,,8880,0
+Tram,5003,114637,Rundle Mall,,0,,8880,0
+Tram,5003,114638,Rundle Mall,,0,,8880,0
+Tram,5003,114639,Rundle Mall,,0,,8880,0
+Tram,5003,114640,Rundle Mall,,0,,8880,0
+Tram,5003,114641,Rundle Mall,,0,,8880,0
+Tram,5003,114642,Rundle Mall,,0,,8880,0
+Tram,5003,114643,Rundle Mall,,0,,8880,0
+Tram,5003,114644,Rundle Mall,,0,,8880,0
+Tram,5003,114645,Rundle Mall,,0,,8880,0
+Tram,5003,114646,Rundle Mall,,0,,8880,0
+Tram,5003,114647,Rundle Mall,,0,,8880,0
+Tram,5003,114648,Rundle Mall,,0,,8880,0
+Tram,5003,114649,Rundle Mall,,0,,8880,0
+Tram,5003,114650,Rundle Mall,,0,,8880,0
+Tram,5003,114651,Rundle Mall,,0,,8880,0
+Tram,5003,114652,Rundle Mall,,0,,8880,0
+Tram,5003,114653,Rundle Mall,,0,,8880,0
+Tram,5003,114654,Rundle Mall,,0,,8880,0
+Tram,5003,114655,Rundle Mall,,0,,8880,0
+Tram,5003,114656,Rundle Mall,,0,,8880,0
+Tram,5003,114657,Rundle Mall,,0,,8880,0
+Tram,5003,114658,Rundle Mall,,0,,8880,0
+Tram,5003,114659,Rundle Mall,,0,,8880,0
+Tram,5003,114660,Rundle Mall,,0,,8880,0
+Tram,5003,114661,Rundle Mall,,0,,8880,0
+Tram,5014,114662,Rundle Mall,,0,,8880,0
+Tram,5014,114663,Rundle Mall,,0,,8880,0
+Tram,5014,114664,Rundle Mall,,0,,8880,0
+Tram,5014,114665,Rundle Mall,,0,,8880,0
+Tram,5014,114666,Rundle Mall,,0,,8880,0
+Tram,5014,114667,Rundle Mall,,0,,8880,0
+Tram,5014,114668,Rundle Mall,,0,,8880,0
+Tram,5014,114669,Rundle Mall,,0,,8880,0
+Tram,5014,114670,Rundle Mall,,0,,8880,0
+Tram,5014,114671,Rundle Mall,,0,,8880,0
+Tram,5014,114672,Rundle Mall,,0,,8880,0
+Tram,5014,114673,Rundle Mall,,0,,8880,0
+Tram,5014,114674,Rundle Mall,,0,,8880,0
+Tram,5014,114675,Rundle Mall,,0,,8880,0
+Tram,5014,114676,Rundle Mall,,0,,8880,0
+Tram,5014,114677,Rundle Mall,,0,,8880,0
+Tram,5014,114678,Rundle Mall,,0,,8880,0
+Tram,5014,114679,Rundle Mall,,0,,8880,0
+Tram,5014,114680,Rundle Mall,,0,,8880,0
+Tram,5014,114681,Rundle Mall,,0,,8880,0
+Tram,5014,114682,Rundle Mall,,0,,8880,0
+Tram,5014,114683,Rundle Mall,,0,,8880,0
+Tram,5014,114684,Rundle Mall,,0,,8880,0
+Tram,5014,114685,Rundle Mall,,0,,8880,0
+Tram,5014,114686,Rundle Mall,,0,,8880,0
+Tram,5014,114687,Rundle Mall,,0,,8880,0
+Tram,5014,114688,Rundle Mall,,0,,8880,0
+Tram,5014,114689,Rundle Mall,,0,,8880,0
+Tram,5014,114690,Rundle Mall,,0,,8880,0
+Tram,5014,114691,Rundle Mall,,0,,8880,0
+Tram,5014,114692,Rundle Mall,,0,,8880,0
+Tram,5014,114693,Rundle Mall,,0,,8880,0
+Tram,5014,114694,Rundle Mall,,0,,8880,0
+Tram,5014,114695,Rundle Mall,,0,,8880,0
+Tram,5014,114696,Rundle Mall,,0,,8880,0
+Tram,5014,114697,Rundle Mall,,0,,8880,0
+Tram,5014,114698,Rundle Mall,,0,,8880,0
+Tram,5014,114699,Rundle Mall,,0,,8880,0
+Tram,5014,114700,Rundle Mall,,0,,8880,0
+Tram,5014,114701,Rundle Mall,,0,,8880,0
+Tram,5014,114702,Rundle Mall,,0,,8880,0
+Tram,5014,114703,Rundle Mall,,0,,8880,0
+Tram,5014,114704,Rundle Mall,,0,,8880,0
+Tram,5014,114705,Rundle Mall,,0,,8880,0
+Tram,5014,114706,Rundle Mall,,0,,8880,0
+Tram,5014,114707,Rundle Mall,,0,,8880,0
+Tram,5014,114708,Rundle Mall,,0,,8880,0
+Tram,5014,114709,Rundle Mall,,0,,8880,0
+Tram,5014,114710,Rundle Mall,,0,,8880,0
+Tram,5014,114711,Rundle Mall,,0,,8880,0
+Tram,5014,114712,Rundle Mall,,0,,8880,0
+Tram,5014,114713,Rundle Mall,,0,,8880,0
+Tram,5014,114714,Rundle Mall,,0,,8880,0
+Tram,5014,114715,Rundle Mall,,0,,8880,0
+Tram,5014,114716,Rundle Mall,,0,,8880,0
+Tram,5014,114717,Rundle Mall,,0,,8880,0
+Tram,5014,114718,Rundle Mall,,0,,8880,0
+Tram,5014,114719,Rundle Mall,,0,,8880,0
+Tram,5014,114720,Rundle Mall,,0,,8880,0
+Tram,5014,114721,Rundle Mall,,0,,8880,0
+Tram,5014,114722,Rundle Mall,,0,,8880,0
+Tram,5014,114723,Rundle Mall,,0,,8880,0
+Tram,5014,114724,Rundle Mall,,0,,8880,0
+Tram,5014,114725,Rundle Mall,,0,,8880,0
+Tram,5014,114726,Rundle Mall,,0,,8880,0
+Tram,5014,114727,Rundle Mall,,0,,8880,0
+Tram,5002,114728,Glenelg,,1,,5229,0
+Tram,5002,114729,Glenelg,,1,,5229,0
+Tram,5002,114730,Glenelg,,1,,5229,0
+Tram,5002,114731,Glenelg,,1,,5229,0
+Tram,5002,114732,Glenelg,,1,,5229,0
+Tram,5002,114733,Glenelg,,1,,9847,0
+Tram,5002,114734,Glenelg,,1,,9847,0
+Tram,5002,114735,Glenelg,,1,,5229,0
+Tram,5002,114736,Glenelg,,1,,9847,0
+Tram,5002,114737,Glenelg,,1,,9847,0
+Tram,5002,114738,Glenelg,,1,,9847,0
+Tram,5002,114739,Glenelg,,1,,9847,0
+Tram,5002,114740,Glenelg,,1,,9847,0
+Tram,5002,114741,Glenelg,,1,,9847,0
+Tram,5002,114742,Glenelg,,1,,9847,0
+Tram,5002,114743,Glenelg,,1,,9847,0
+Tram,5002,114744,Glenelg,,1,,9847,0
+Tram,5002,114745,Glenelg,,1,,9847,0
+Tram,5002,114746,Glenelg,,1,,9847,0
+Tram,5002,114747,Glenelg,,1,,9847,0
+Tram,5002,114748,Glenelg,,1,,9847,0
+Tram,5002,114749,Glenelg,,1,,9847,0
+Tram,5002,114750,Glenelg,,1,,9847,0
+Tram,5002,114751,Glenelg,,1,,9847,0
+Tram,5002,114752,Glenelg,,1,,9847,0
+Tram,5002,114753,Glenelg,,1,,9847,0
+Tram,5002,114754,Glenelg,,1,,9847,0
+Tram,5002,114755,Glenelg,,1,,9847,0
+Tram,5002,114756,Glenelg,,1,,9847,0
+Tram,5002,114757,Glenelg,,1,,9847,0
+Tram,5002,114758,Glenelg,,1,,9847,0
+Tram,5002,114759,Glenelg,,1,,9847,0
+Tram,5002,114760,Glenelg,,1,,9847,0
+Tram,5002,114761,Glenelg,,1,,9847,0
+Tram,5002,114762,Glenelg,,1,,9847,0
+Tram,5002,114763,Glenelg,,1,,9847,0
+Tram,5002,114764,Glenelg,,1,,9847,0
+Tram,5002,114765,Glenelg,,1,,9847,0
+Tram,5002,114766,Glenelg,,1,,9847,0
+Tram,5002,114767,Glenelg,,1,,9847,0
+Tram,5002,114768,Glenelg,,1,,9847,0
+Tram,5002,114769,Glenelg,,1,,9847,0
+Tram,5002,114770,Glenelg,,1,,9847,0
+Tram,5002,114771,Glenelg,,1,,9847,0
+Tram,5002,114772,Glenelg,,1,,9847,0
+Tram,5002,114773,Glenelg,,1,,9847,0
+Tram,5002,114774,Glenelg,,1,,9847,0
+Tram,5002,114775,Glenelg,,1,,9847,0
+Tram,5002,114776,Glenelg,,1,,9847,0
+Tram,5002,114777,Glenelg,,1,,9847,0
+Tram,5002,114778,Glenelg,,1,,9847,0
+Tram,5002,114779,Glenelg,,1,,9847,0
+Tram,5002,114780,Glenelg,,1,,9847,0
+Tram,5002,114781,Glenelg,,1,,9847,0
+Tram,5002,114782,Glenelg,,1,,9847,0
+Tram,5002,114783,Glenelg,,1,,9847,0
+Tram,5002,114784,Glenelg,,1,,9847,0
+Tram,5002,114785,Glenelg,,1,,9847,0
+Tram,5002,114786,Glenelg,,1,,9847,0
+Tram,5002,114787,Glenelg,,1,,9847,0
+Tram,5002,114788,Glenelg,,1,,9847,0
+Tram,5002,114789,Glenelg,,1,,9847,0
+Tram,5002,114790,Glenelg,,1,,9847,0
+Tram,5002,114791,Glenelg,,1,,9847,0
+Tram,5002,114792,Glenelg,,1,,9847,0
+Tram,5002,114793,Glenelg,,1,,9847,0
+Tram,5002,114794,Glenelg,,1,,9847,0
+Tram,5002,114795,Glenelg,,1,,9847,0
+Tram,5002,114796,Glenelg,,1,,9847,0
+Tram,5002,114797,Glenelg,,1,,9847,0
+Tram,5002,114798,Glenelg,,1,,9847,0
+Tram,5002,114799,Glenelg,,1,,9847,0
+Tram,5003,114800,Glenelg,,1,,5229,0
+Tram,5003,114801,Glenelg,,1,,5229,0
+Tram,5003,114802,Glenelg,,1,,5229,0
+Tram,5003,114803,Glenelg,,1,,5229,0
+Tram,5003,114804,Glenelg,,1,,5229,0
+Tram,5003,114805,Glenelg,,1,,9847,0
+Tram,5003,114806,Glenelg,,1,,9847,0
+Tram,5003,114807,Glenelg,,1,,5229,0
+Tram,5003,114808,Glenelg,,1,,9847,0
+Tram,5003,114809,Glenelg,,1,,9847,0
+Tram,5003,114810,Glenelg,,1,,9847,0
+Tram,5003,114811,Glenelg,,1,,9847,0
+Tram,5003,114812,Glenelg,,1,,9847,0
+Tram,5003,114813,Glenelg,,1,,9847,0
+Tram,5003,114814,Glenelg,,1,,9847,0
+Tram,5003,114815,Glenelg,,1,,9847,0
+Tram,5003,114816,Glenelg,,1,,9847,0
+Tram,5003,114817,Glenelg,,1,,9847,0
+Tram,5003,114818,Glenelg,,1,,9847,0
+Tram,5003,114819,Glenelg,,1,,9847,0
+Tram,5003,114820,Glenelg,,1,,9847,0
+Tram,5003,114821,Glenelg,,1,,9847,0
+Tram,5003,114822,Glenelg,,1,,9847,0
+Tram,5003,114823,Glenelg,,1,,9847,0
+Tram,5003,114824,Glenelg,,1,,9847,0
+Tram,5003,114825,Glenelg,,1,,9847,0
+Tram,5003,114826,Glenelg,,1,,9847,0
+Tram,5003,114827,Glenelg,,1,,9847,0
+Tram,5003,114828,Glenelg,,1,,9847,0
+Tram,5003,114829,Glenelg,,1,,9847,0
+Tram,5003,114830,Glenelg,,1,,9847,0
+Tram,5003,114831,Glenelg,,1,,9847,0
+Tram,5003,114832,Glenelg,,1,,9847,0
+Tram,5003,114833,Glenelg,,1,,9847,0
+Tram,5003,114834,Glenelg,,1,,9847,0
+Tram,5003,114835,Glenelg,,1,,9847,0
+Tram,5003,114836,Glenelg,,1,,9847,0
+Tram,5003,114837,Glenelg,,1,,9847,0
+Tram,5003,114838,Glenelg,,1,,9847,0
+Tram,5003,114839,Glenelg,,1,,9847,0
+Tram,5003,114840,Glenelg,,1,,9847,0
+Tram,5003,114841,Glenelg,,1,,9847,0
+Tram,5003,114842,Glenelg,,1,,9847,0
+Tram,5003,114843,Glenelg,,1,,9847,0
+Tram,5003,114844,Glenelg,,1,,9847,0
+Tram,5003,114845,Glenelg,,1,,9847,0
+Tram,5003,114846,Glenelg,,1,,9847,0
+Tram,5003,114847,Glenelg,,1,,9847,0
+Tram,5003,114848,Glenelg,,1,,9847,0
+Tram,5003,114849,Glenelg,,1,,9847,0
+Tram,5003,114850,Glenelg,,1,,9847,0
+Tram,5003,114851,Glenelg,,1,,9847,0
+Tram,5003,114852,Glenelg,,1,,9847,0
+Tram,5003,114853,Glenelg,,1,,9847,0
+Tram,5003,114854,Glenelg,,1,,9847,0
+Tram,5003,114855,Glenelg,,1,,9847,0
+Tram,5003,114856,Glenelg,,1,,9847,0
+Tram,5003,114857,Glenelg,,1,,9847,0
+Tram,5003,114858,Glenelg,,1,,9847,0
+Tram,5003,114859,Glenelg,,1,,9847,0
+Tram,5003,114860,Glenelg,,1,,9847,0
+Tram,5003,114861,Glenelg,,1,,9847,0
+Tram,5003,114862,Glenelg,,1,,9847,0
+Tram,5003,114863,Glenelg,,1,,9847,0
+Tram,5003,114864,Glenelg,,1,,9847,0
+Tram,5003,114865,Glenelg,,1,,9847,0
+Tram,5003,114866,Glenelg,,1,,9847,0
+Tram,5003,114867,Glenelg,,1,,9847,0
+Tram,5003,114868,Glenelg,,1,,9847,0
+Tram,5003,114869,Glenelg,,1,,9847,0
+Tram,5003,114870,Glenelg,,1,,9847,0
+Tram,5003,114871,Glenelg,,1,,9847,0
+Tram,5014,114872,Glenelg,,1,,5229,0
+Tram,5014,114873,Glenelg,,1,,5229,0
+Tram,5014,114874,Glenelg,,1,,5229,0
+Tram,5014,114875,Glenelg,,1,,5229,0
+Tram,5014,114876,Glenelg,,1,,5229,0
+Tram,5014,114877,Glenelg,,1,,9847,0
+Tram,5014,114878,Glenelg,,1,,9847,0
+Tram,5014,114879,Glenelg,,1,,5229,0
+Tram,5014,114880,Glenelg,,1,,9847,0
+Tram,5014,114881,Glenelg,,1,,9847,0
+Tram,5014,114882,Glenelg,,1,,9847,0
+Tram,5014,114883,Glenelg,,1,,9847,0
+Tram,5014,114884,Glenelg,,1,,9847,0
+Tram,5014,114885,Glenelg,,1,,9847,0
+Tram,5014,114886,Glenelg,,1,,9847,0
+Tram,5014,114887,Glenelg,,1,,9847,0
+Tram,5014,114888,Glenelg,,1,,9847,0
+Tram,5014,114889,Glenelg,,1,,9847,0
+Tram,5014,114890,Glenelg,,1,,9847,0
+Tram,5014,114891,Glenelg,,1,,9847,0
+Tram,5014,114892,Glenelg,,1,,9847,0
+Tram,5014,114893,Glenelg,,1,,9847,0
+Tram,5014,114894,Glenelg,,1,,9847,0
+Tram,5014,114895,Glenelg,,1,,9847,0
+Tram,5014,114896,Glenelg,,1,,9847,0
+Tram,5014,114897,Glenelg,,1,,9847,0
+Tram,5014,114898,Glenelg,,1,,9847,0
+Tram,5014,114899,Glenelg,,1,,9847,0
+Tram,5014,114900,Glenelg,,1,,9847,0
+Tram,5014,114901,Glenelg,,1,,9847,0
+Tram,5014,114902,Glenelg,,1,,9847,0
+Tram,5014,114903,Glenelg,,1,,9847,0
+Tram,5014,114904,Glenelg,,1,,9847,0
+Tram,5014,114905,Glenelg,,1,,9847,0
+Tram,5014,114906,Glenelg,,1,,9847,0
+Tram,5014,114907,Glenelg,,1,,9847,0
+Tram,5014,114908,Glenelg,,1,,9847,0
+Tram,5014,114909,Glenelg,,1,,9847,0
+Tram,5014,114910,Glenelg,,1,,9847,0
+Tram,5014,114911,Glenelg,,1,,9847,0
+Tram,5014,114912,Glenelg,,1,,9847,0
+Tram,5014,114913,Glenelg,,1,,9847,0
+Tram,5014,114914,Glenelg,,1,,9847,0
+Tram,5014,114915,Glenelg,,1,,9847,0
+Tram,5014,114916,Glenelg,,1,,9847,0
+Tram,5014,114917,Glenelg,,1,,9847,0
+Tram,5014,114918,Glenelg,,1,,9847,0
+Tram,5014,114919,Glenelg,,1,,9847,0
+Tram,5014,114920,Glenelg,,1,,9847,0
+Tram,5014,114921,Glenelg,,1,,9847,0
+Tram,5014,114922,Glenelg,,1,,9847,0
+Tram,5014,114923,Glenelg,,1,,9847,0
+Tram,5014,114924,Glenelg,,1,,9847,0
+Tram,5014,114925,Glenelg,,1,,9847,0
+Tram,5014,114926,Glenelg,,1,,9847,0
+Tram,5014,114927,Glenelg,,1,,9847,0
+Tram,5014,114928,Glenelg,,1,,9847,0
+Tram,5014,114929,Glenelg,,1,,9847,0
+Tram,5014,114930,Glenelg,,1,,9847,0
+Tram,5014,114931,Glenelg,,1,,9847,0
+Tram,5014,114932,Glenelg,,1,,9847,0
+Tram,5014,114933,Glenelg,,1,,9847,0
+Tram,5014,114934,Glenelg,,1,,9847,0
+Tram,5014,114935,Glenelg,,1,,9847,0
+Tram,5014,114936,Glenelg,,1,,9847,0
+Tram,5014,114937,Glenelg,,1,,9847,0
+Tram,5014,114938,Glenelg,,1,,9847,0
+Tram,5014,114939,Glenelg,,1,,9847,0
+Tram,5014,114940,Glenelg,,1,,9847,0
+Tram,5014,114941,Glenelg,,1,,9847,0
+Tram,5014,114942,Glenelg,,1,,9847,0
+Tram,5014,114943,Glenelg,,1,,9847,0

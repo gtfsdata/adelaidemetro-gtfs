@@ -359,10 +359,10 @@ G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Pa
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10C,7,G10C,Marion Centre Interchange/Blair Athol to City,"Terminates at Stop VS6 Victoria Square or stop Y2 King William Street, City.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G20,7,G20,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G20,6f8675,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
-G21,7,G21,Old Reynella Interchange to city,"via Aberfoyle Hub & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G21,007387,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
+G21,7,G21,Old Reynella Interchange to City,"via Aberfoyle Hub & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G21,007387,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
 G21H,7,G21H,Old Reynella Interchange to Aberfoyle Hub,"Terminates at Stop 54 Sandpiper Crescent, Aberfoyle Hub.",3,http://www.adelaidemetro.com.au/routes/G21,007387,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
-G21X,7,G21X,Old Reynella Interchange to city,"via Aberfoyle Hub. Express service between stop 25 Ayliffes Road & City. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21,007387,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
-G22,7,G22,Aberfoyle Hub to city,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22,e46e2c,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
+G21X,7,G21X,Old Reynella Interchange to City,"via Aberfoyle Hub. Express service between stop 25 Ayliffes Road & City. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21,007387,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
+G22,7,G22,Aberfoyle Hub to City,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22,e46e2c,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
 G30,7,G30,Blackwood Station to City,"via Main Road & Goodwood Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G30,599137,ffffff,600-601-605-694-G30
 G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,6d2262,ffffff,G40
 G40M,7,G40M,Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40,6d2262,ffffff,G40
@@ -382,7 +382,7 @@ H30,5,H30,West Lakes Centre Interchange to Paradise Interchange ,"via Military R
 H30C,5,H30C,West Lakes Centre Interchange/Paradise Interchange to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H30,EC068E,ffffff,H30-N30
 H30S,5,H30S,West Lakes Centre Interchange to Newton,"via Military Road, Henley Beach Road, City & Coorara Avenue. Terminates at Stop 30 Stradbroke Road, Newton.",3,http://www.adelaidemetro.com.au/routes/H30,EC068E,ffffff,H30-N30
 H31,5,H31,Henley Beach to Rostrevor,"via Cheadle Street, Henley Beach Road, City, Magill Road, Coorara Avenue & Reid Avenue. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H31,969485,ffffff,H31
-H31C,5,H31C,Henley Beach / Rostrevor to city,"Terminates in the City .",3,http://www.adelaidemetro.com.au/routes/H31,969485,ffffff,H31
+H31C,5,H31C,Henley Beach / Rostrevor to City,"Terminates in the City .",3,http://www.adelaidemetro.com.au/routes/H31,969485,ffffff,H31
 H32,5,H32,Henley Beach South to City,"via Henley Beach Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/H32,008A5E,ffffff,H22-H23-H24-H32-N22
 HL1,6,HL1,Hahndorf to Mount Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/HL1,fec220,000000,HL1-HL2
 HL2,6,HL2,Hahndorf to Mount Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/HL2,fec220,000000,HL1-HL2
