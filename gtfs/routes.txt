@@ -293,7 +293,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 850,6,850,Macclesfield to Aldgate ,"via Meadows, Echunga & Mylor. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/850,e91839,ffffff,850-852
 852,6,852,Strathalbyn to Mount Barker,"via Wellington Road. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/852,956e8e,ffffff,850-852
 852L,6,852L,Langhorne Creek to Cornerstone College,"Same route as 852, operating school days only from Langhorne Creek to Cornerstone College and return.",3,http://www.adelaidemetro.com.au/routes/852L,956e8e,ffffff,850-852
-860F,6,860F,Mount Barker to City,"via Hahndorf, Bridgewater & Glen Osmond Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/860,99d7db,000000,820-821-862
+860F,6,860F,Mount Barker to City,"via Hahndorf, Bridgewater & Glen Osmond Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/860,99d7db,000000,823-840F-860F-863-863F-864-864F-N864-T840-T863
 861,6,861,Glen Osmond to City,"via Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/861,f4b085,000000,861-N864
 862,6,862,Carey Gully to City,"via Greenhill Road. Service operates Saturdays only.",3,http://www.adelaidemetro.com.au/routes/862,702E66,ffffff,820-821-862
 863,6,863,Aldgate to City,"via Stirling, Crafers & Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/863,1b5257,ffffff,823-840F-860F-863-863F-864-864F-N864-T840-T863
@@ -316,21 +316,19 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 894S,6,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 900,4,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,bf2c19,ffffff,401-403-900
 99C,5,99C,Adelaide FREE City Loop Service,"Service operates every 15mins Monday-Friday, every 30mins Saturday-Sunday.",3,http://www.adelaidemetro.com.au/routes/99C,71c267,ffffff,99C
-B1,5,B1,Eden Hills to city,"via Blackwood, Belair, Mitcham and Goodwood",3,http://www.adelaidemetro.com.au/routes/B1,00937f,ffffff,BEL-B1-B1X-SB1-LS
 B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12-312
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12-312
 B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12-312
 B11,5,B11,City to UniSA Magill Campus,"via Magill Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B11,106CB5,ffffff,B10-B10X-B11-B12-312
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,B71B8B,ffffff,B10-B10X-B11-B12-312
-B1X,5,B1X,Eden Hills to city,"via Blackwood, Belair, Mitcham and Goodwood.",3,http://www.adelaidemetro.com.au/routes/B1,4b711c,ffffff,BEL-B1-B1X-SB1-LS
-BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/Belair,00937f,ffffff,BEL-B1-B1X-SB1-LS
-BLACKW,2,BLACKW,Blackwood to City,"via Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/Belair,00937f,ffffff,BEL-B1-B1X-SB1-LS
-C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1X-C2-C2X-548-N1
-C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1X-C2-C2X-548-N1
-C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1X-C2-C2X-548-N1
-C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1X-C2-C2X-548-N1
-C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1X-C2-C2X-548-N1
-C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1X-C2-C2X-548-N1
+BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/Belair,00937f,ffffff,BEL-BLACKW
+BLACKW,2,BLACKW,Blackwood to City,"via Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/Belair,00937f,ffffff,BEL-BLACKW
+C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-548-N1
+C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-548-N1
+C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-548-N1
+C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-548-N1
+C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-548-N1
+C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-548-N1
 FX1,7,FX1,Golden Grove Village to AAMI Stadium,"via Adelaide O-Bahn. Times stated are approximate. Buses from AMMI Stadium depart frequently until 1 hr after the final siren. The online timetables are for the next game only, for future games use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,
 FX10,5,FX10,Norwood Oval to AAMI Stadium,"Express to AAMI Stadium. Times stated are approximate. Buses from AMMI Stadium depart frequently until 1 hr after the final siren. The online timetables are for the next game only, for future games use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/FX10,4b711c,ffffff,
 FX11,5,FX11,UniSA Magill Campus to AAMI Stadium (Crows games only),"via Magill Rd. Times stated are approximate. Buses from AMMI Stadium depart frequently until 30 minutes after the final siren. The online timetables are for the next game only, for future games use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/FX11,4b711c,ffffff,
@@ -391,7 +389,6 @@ J1,5,J1,Glenelg Interchange to City ,"via Harbour Town Centre Interchange, Adela
 J1A,5,J1A,City to Adelaide Airport,"Terminates at Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1,c78d86,ffffff,J1-J2-162
 J2,5,J2,Harbour Town Centre Interchange to City,"via West Beach, Adelaide Airport & Sir Donald Bradman Drive. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J2,f1df00,000000,J1-J2-162
 J7,5,J7,West Lakes Centre Interchange to Marion Centre Interchange,"via Novar Gardens, Richmond, Adelaide Airport, Findon & Queen Elizabeth Hospital. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J7,008f61,ffffff,J7-374
-LS,5,LS,Lynton Shuttle Service,"Lynton Station to stop 19 Belair Road.",3,http://www.adelaidemetro.com.au/routes/Lynton Shuttle,4b711c,ffffff,BEL-B1-B1X-SB1-LS
 M44,7,M44,Marion Centre Interchange to Golden Grove Village Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,M44-M44X-M44T
 M44C,7,M44C,Marion Centre Interchange / Tea Tree Plaza Interchange to city ,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace. When travelling from Golden Grove Village Interchange M44C terminates at Stop VS1 Victoria Square, City.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,M44-M44X-M44T
 M44G,7,M44G,Marion Centre Interchange to Golden Grove Village Interchange,"Operates via Currie Street, Grenfell Street & Frome Street.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,M44-M44X-M44T
@@ -423,7 +420,6 @@ OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Cr
 RZ22,7,RZ22,Aberfoyle Park and Happy Valley Roam Zone,"will connect with G22 services and take you to your door.",3,http://www.adelaidemetro.com.au/routes/RZ22,ef6d1f,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
 RZ5,7,RZ5,Holden Hill Roam Zone Service,"Evening Roaming service after 7pm until last service. To your door or as close as we can get. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/RZ5,231f20,ffffff,503-507-RZ5
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
-SB1,5,SB1,Eden Hills to Temple Christian College,"via Blackwood, Belair, Mitcham, Goodwood and city.",3,http://www.adelaidemetro.com.au/routes/SB1,4b711c,ffffff,BEL-B1-B1X-SB1-LS
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 T721X,4,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop express service operates Monday-Friday. T721X buses operate express between stop 48 Main South Road to stop B1 Grote Street, City. No pick up or set down.",3,http://www.adelaidemetro.com.au/routes/T721X,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 T722,4,T722,Seaford Centre to City ,"via Southern Expressway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T722,530072,ffffff,722-722F-722X-T722
