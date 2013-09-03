@@ -1,42 +1,9 @@
 Adelaide Metro GTFS Release Notes
 
-Release: 19/08/2013
+Release: 03/09/2013
 
-The following is a list of changes from the previous GTFS feed:
+Please note there are no new updates in this feed. We are doing some internal testing with bus stop names for the following lines:
 
-Special Events:
-
-1) Routes 21W & 22W have been added. These routes are shuttle bus services in operation from September 6-14 for the Royal Adelaide Show.
-2) Tram trips have been modified for the period of September 6-14. Frequency has been increased due to the Royal Adelaide Show.
-3) Tram trips have been modified for September 15. There will be partial track closures throughout the day due to the City to Bay fun run.
-4) Trips added for all FX routes for AFL Round 23.
-
-Detours:
-
-1) Routes 723F, 733, 725 & 725F have been updated to reflect detours on Flaxmil Rd. Further details: http://www.adelaidemetro.com.au/Announcements/Service-updates/Flaxmill-Road-closure
-
-Service updates:
-
-1) Belair train weekday services
-2) Blackwood train weekday services
-3) Stop 45H Vaucluse Rd added to 737 route
-4) Stops F1 and F2 King William St are temporarily closed and have been removed from relevant bus services. Further details: http://www.adelaidemetro.com.au/Announcements/Service-updates/F1-F2-Victoria-Square-closed-for-approx-four-months
-5) N502 and N1 no longer service stop W1 Currie St
-6) 209F, 203 and 203F no longer service Stop 36 Bridge Rd on weekdays between 4pm-6pm, going to Tea Tree Plaza Interchange.
-7) Changed stop names along Glenloth Dr and Chandlers Hill Rd
-		- Glenloth Dr 40 changed to 39B
-		- Glenloth Dr 40A changed to 39C
-		- Glenloth Dr 40B changed to 39D
-		- Glenloth Dr 41 changed to 39E
-		- Chandlers Hill Rd 42 changed to 39F
-		- Chandlers Hill Rd 42A changed to 39G
-
-
-General ammendments:
-
-1) Stop 36 Serpentine Rd has been added to all 733 trips going to Noarlunga Centre Interchange.
-2) N721 now services Stop 64A Alexander Kelly Drive
-3) B10 and B10X routes no longer service Stop 3 North Tce on weekdays between 4pm-6pm, going to Magill.
-4) 501 route no longer servicing Stop 34C Mawson Lakes Blvd going to City.
-5) Added 15:28 196F service from Blackwood High School
-6) Added 7:27am 196 service from Stop 2 King William Rd to Blackwood High School
+3112,13004,Stop 27A Grange Rd before Milvera Tce,,-34.9064547929685, 138.510995680903,,http://www.adelaidemetro.com.au/stops/view/13004,,,,
+3113,13005,Stop 27A Grange Rd,"476 Grange Rd, Fulham Gardens",-34.9066, 138.51168,,http://www.adelaidemetro.com.au/stops/view/13005,,,,
+3115,13007,Stop 28 Grange Rd,Stop 28 Grange Rd before Westminster Ave,-34.9068257056457, 138.507062956257,,http://www.adelaidemetro.com.au/stops/view/13007,,,,
