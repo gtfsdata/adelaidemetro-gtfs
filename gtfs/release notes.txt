@@ -1,9 +1,12 @@
 Adelaide Metro GTFS Release Notes
 
-Release: 03/09/2013
+Release: 06/09/2013
 
 Please note there are no new updates in this feed. We are doing some internal testing with bus stop names for the following lines:
 
 3112,13004,Stop 27A Grange Rd before Milvera Tce,,-34.9064547929685, 138.510995680903,,http://www.adelaidemetro.com.au/stops/view/13004,,,,
 3113,13005,Stop 27A Grange Rd,"476 Grange Rd, Fulham Gardens",-34.9066, 138.51168,,http://www.adelaidemetro.com.au/stops/view/13005,,,,
 3115,13007,Stop 28 Grange Rd,Stop 28 Grange Rd before Westminster Ave,-34.9068257056457, 138.507062956257,,http://www.adelaidemetro.com.au/stops/view/13007,,,,
+3116,13008,Stop 28 Grange Rd (after Frederick Rd) - Seaton,,-34.90668, 138.50646,,http://www.adelaidemetro.com.au/stops/view/13008,,,,
+3096,12988,Stop 26 Grange Rd (before Kingborn Ave) - Seaton,433 Grange Rd,-34.9060094567777, 138.519979611898,,http://www.adelaidemetro.com.au/stops/view/12988,,,,
+3099,12991,Stop 26 Grange Rd (after Kidman Ave) - Fulham Gardens,406 Grange Rd,-34.90625, 138.5194,,http://www.adelaidemetro.com.au/stops/view/12991,,,,
