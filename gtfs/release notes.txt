@@ -29,20 +29,20 @@ Service Updates:
 
 General Amendments:
 
-1) Amendments made to a selection of 501 & 500 route trips servicing Stop 2 Hackney Rd
+1) Amendments made to a selection of 501 & 500 route trips
 		- O-Bahn buses do not service Stop 2 Hackney Rd between 8am-9:15am and 4:30pm-6:00pm weekdays.
 		- 500 routes going to Elizabeth now services Stop 50 Salisbury Hwy - North West side instead of South East.
 
 2) Trips departing Stop C1 Currie St at 8:01am, 8:31am & 9:01am for route 500 will now service Salisbury Interchange and Elizabeth Interchange
 
-3) Amendments made to H30 & H31 route trips servicing stops 2 North Tce and 10 Portrush Rd
+3) Amendments made to H30 & H31 route trips servicing stops 3 North Tce and 10 Portrush Rd
 		- H30 and H31 do not service these stops between 4pm-6pm Monday to Friday when travelling away from the city.
 
 4) Amendment made to 821 travelling from City to Stirling. Route now services Stop 30E Piccadilly Rd South West side before looping at Stop 30F then back to Stop 30E on the other side of the road.
 
 5) Amendments made to bus routes servicing Noarlunga Centre Interchange. Routes now service the correct stops at the Interchange and are aligned with the Interchange map. http://www.adelaidemetro.com.au/Timetables-Maps/Interchanges
 
-6) Amendments made to 200 and 200B routes. Routes were incorrectly servicing Stop 18C Springbank Rd south side.
+6) Amendments made to 200 and 200B routes going to city. Routes were incorrectly servicing Stop 18C Springbank Rd south side.
 
 7) Routes 745 and 745A now service Stop 85 The Parade - South side.
 
@@ -50,4 +50,4 @@ General Amendments:
 
 9) C1T route grouping modified to match C1 grouping
 
-10) We have swapped the trip directions for the following routes: B10, 683, B10C, B10X, H22, H22C, H22L, N30, RZ22. This is to accomodate some updates to the HTML timetable display for the Adelaide Metro website
+10) We have swapped the trip directions for the following routes: B10, 683, B10C, B10X, H22, H22C, H22L, N30, RZ22. This is to accommodate some updates to the HTML timetable display for the Adelaide Metro website
