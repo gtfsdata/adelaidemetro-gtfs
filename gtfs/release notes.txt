@@ -1,6 +1,6 @@
 Adelaide Metro GTFS Release Notes
 
-Release: 09/10/2013
+Release: 14/10/2013
 
 The following is a list of changes from the previous GTFS feed:
 
@@ -11,8 +11,8 @@ None.
 Detours:
 
 1) Detours at Mt Barker affecting all bus routes servicing Stop 64 Hutchinson St (both sides of the road). Detour expected to be until January 2014. More information available at http://www.adelaidemetro.com.au/Announcements/Service-updates/Hutchinson-Street-construction-bus-detour
-		-Stop 64 Cameron Rd added - this is a reinstated buses previously known as Stop 63B
-		-Stop MB Cameron Rd changed to Stop 64A Cameron Rd. There are now two stop 64A's when previously there was only one Stop MB.
+		-Stop 64A Cameron Rd added - this is a reinstated buses previously known as Stop 63B
+		-Stop MB Cameron Rd changed to Stop 64 Cameron Rd. There are now two stop 64s when previously there was only one Stop MB.
 		-All routes no longer service Stop 64 Hutchinson St
 
 2) Due to the Southern Expressway project there will be a detour for routes 743 and 744 from October 26. 743 will not be running and the 744 has a new route and trip times. More detailed information coming soon to the Adelaide Metro website news page.
@@ -50,4 +50,14 @@ General Amendments:
 
 9) C1T route grouping modified to match C1 grouping
 
-10) We have swapped the trip directions for the following routes: B10, 683, B10C, B10X, H22, H22C, H22L, N30, RZ22. This is to accommodate some updates to the HTML timetable display for the Adelaide Metro website
+10) We have swapped the trip directions for the following routes: B10, 683, B10C, B10X, H22, H22C, H22L, N30, RZ22. This is to accommodate some updates to the HTML timetable display for the Adelaide Metro website.
+
+11) Stop 26A University Dr has been added to routes G40, G40M, G10, 600, 600B & 601.
+
+12) Stop 33A Main Rd has been added to route 600.
+
+13) Stop 40 Wheatland Ave has been added to route 265.
+
+14) Stop 11 Victoria Ave added to routes 200, 200B and 200C.
+
+15) Stop 25 Shepherds Hill Rd added to route G30
