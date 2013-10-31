@@ -1,0 +1,24 @@
+Adelaide Metro GTFS Release Notes
+
+Release: 31-10-2013
+
+The following is a list of changes from the previous GTFS feed:
+
+Special Events:
+
+1) Special tram timetable and additional bus & train services will be in operation for the Adelaide Christmas Pageant on Saturday, November 9. More information coming soon to www.adelaidemetro.com.au
+
+Detours:
+
+None.
+
+Service Updates:
+
+1) Stop 9B James Schofield Dr added to routes J1, J2 & J7.
+
+General Amendments:
+
+1) Stop 27 Port Rd & Stop 30 West Lakes Blvd has been added to route 231
+2) Stop 24A Hanson Rd has been removed from routes 230, 232 & 232R
+3) 231 going to the city now services zone F at Arndale Interchange
+4) Stop 21A Belair Rd has been renamed to say "North side" instead of "West side".

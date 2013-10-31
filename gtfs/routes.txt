@@ -248,8 +248,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 740A,4,740A,Seaford Centre to Noarlunga Centre Interchange,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/740,f7afc3,000000,740-741
 741,4,741,Maslin Beach to Colonnades Centre Interchange ,"via Commercial Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/741,93a545,ffffff,740-741
 741A,4,741A,Maslin Beach to Noarlunga Centre Interchange,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/741,93a545,ffffff,740-741
-743,4,743,Hackham West Circuit,"via Noarlunga Centre Interchange. Anti-clockwise loop. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/743,692c91,ffffff,743-744
-744,4,744,Hackham West Circuit,"via Noarlunga Centre Interchange. Clockwise loop. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/744,fdf26e,000000,743-744
+744,4,744,Noarlunga Centre Interchange to Huntfield Heights,"via Majorca Road & Honeypot Road. Loop service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/744,fdf26e,000000,744
 745,4,745,Seaford Circuit anti-clockwise loop,"via Moana & Noarlunga Downs. Seaford circuit anti-clockwise loop. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/745,00a6dd,ffffff,745-747-T748
 745A,4,745A,Seaford Circuit anti-clockwise loop,"Seaford circuit anti-clockwise loop. Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/745,00a6dd,ffffff,745-747-T748
 745C,4,745C,Colonnades Centre Interchange to Seaford Centre,"Terminates at Seaford Centre.",3,http://www.adelaidemetro.com.au/routes/745,00a6dd,ffffff,745-747-T748
@@ -343,6 +342,7 @@ G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Ser
 G40M,7,G40M,Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40,7894A3,ffffff,G40
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
+GLAN,2,GLAN,Glanville to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Grange,936eb0,ffffff,OUTHA-GRNG-OSBORN
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to city,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
@@ -405,6 +405,7 @@ T842,6,T842,Nairne to City ,"buses do not stop between stop 13 Glen Osmond Road 
 T863,6,T863,Aldgate to City,"buses do not pick up or set down between South Terrace and stop 14 when travelling from the City and between stop 13 and South Terrace when travelling to the City. ",3,http://www.adelaidemetro.com.au/routes/T863,1b5257,ffffff,823-840F-860F-863-863F-864-864F-N864-T840-T863
 Tram,2,Tram,Glenelg to Entertainment Centre ,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street, North Terrace & Port Road. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/Tram,e91839,ffffff,Tram
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
+W90C,5,W90C,Marion Centre Interchange to City,"Terminates in city.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
 W91C,5,W91C,St Marys to City ,"Terminates in city.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
