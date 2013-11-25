@@ -395,6 +395,7 @@ N6,4,N6,Hallett Cove Beach to city,"via Seacliff - peak limited stop service.",3
 N7,4,N7,Woodlands Park to Tonsley,"via Mitchell Park.",3,http://www.adelaidemetro.com.au/routes/N7,4b711c,ffffff,N3-N4-N5-N6-N7-N3X
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,006c64,ffffff,721-721F-721X-T721-T721X-N721
 N864,6,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,c60845,ffffff,823-840F-860F-863-863F-864-864F-N864-T840-T863
+NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands and Goodwood.",2,http://www.adelaidemetro.com.au/routes/Noarlunga,0065a4,ffffff,NOAR-TONS
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-OSBORN-GRNG
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-OSBORN
 RZ22,7,RZ22,Aberfoyle Park and Happy Valley Roam Zone,"will connect with G22 services and take you to your door.",3,http://www.adelaidemetro.com.au/routes/RZ22,ef6d1f,ffffff,G20-G21-G21X-G22-320-N10-N21-RZ22
