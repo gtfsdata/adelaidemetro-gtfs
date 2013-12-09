@@ -1,0 +1,36 @@
+Adelaide Metro GTFS+ Release Notes
+
+Release: 09-12-2013
+
+
+The following is a list of changes from the previous GTFS feed:
+
+
+Special Events:
+
+None.
+
+Detours:
+
+None.
+
+Service Updates:
+
+1) The Noarlunga train line will be closed on weeknights and all day on weekends. There are N3 and N4 substitue bus services for passengers. More information can be found here: http://www.adelaidemetro.com.au/Announcements/Service-updates/Noarlunga-line-open-planned-works-late-night-and-weekends-substitute-bus-timetable
+
+General Amendments:
+
+1) During the December and January school holidays selected G40 services do not travel to/from Flinders Uni. We are now reflecting this in our GTFS feed. You can find specific details about which services are affected on downloadable PDF timetable: http://www.adelaidemetro.com.au/routes/G40
+2) Due to the above amendment to the G40 services, there is a new route G40C.
+
+
+Additonal notes:
+
+Please note that we have changed the URL for our GTFS feeds. From now on our feeds can be downloaded from this location:
+
+http://adelaidemetro.com.au/GTFS/google_transit.zip
+
+From Mon 2 Dec, the feed will only be available from this new location. We recommend redirecting any automated downloads you may have in place for your applications.
+
+Additionally, the feed can be downloaded from the Adelaide Metro website via the Developer Information page: http://www.adelaidemetro.com.au/Developer-Information
+ 
