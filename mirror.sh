@@ -10,7 +10,7 @@
 # To Public License, Version 2, as published by Sam Hocevar. See
 # http://sam.zoy.org/wtfpl/COPYING for more details.
 
-DATA_ZIP="http://www.transport.sa.gov.au/googletransit/google_transit.zip"
+DATA_ZIP="http://adelaidemetro.com.au/GTFS/google_transit.zip"
 DATA_ZIPFILENAME="google_transit.zip"
 
 # Create the target folder
