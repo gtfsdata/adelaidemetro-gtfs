@@ -39,7 +39,7 @@ function get_release_dates {
 mkdir -p "gtfs"
 
 # Delete old release notes from the folder
-rm -f 'gtfs/release notes*.txt'
+rm -f gtfs/release\ notes*.txt
 
 # Download data archive
 # Normally -O would be used here, but it doesn't work in combination with -N.
