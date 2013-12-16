@@ -1,0 +1,29 @@
+Adelaide Metro GTFS+ Release Notes
+
+Feed Created: 	16-12-2013
+Valid From:	16-12-2013
+Valid To:	29-03-2014
+
+
+The following is a list of changes from the previous GTFS feed:
+
+
+Special Events:
+
+1) Boxing Day
+2) New Year's Eve
+
+Detours:
+
+None.
+
+Service Updates:
+
+1) Additional bus and train services have been implemented for December 26 to accomodate Boxing Day sales. Additional services operate in early mornings and late afternoons.
+2) There is a unquie tram timetable for Boxing Day & New Year's Eve. Please note on New Year's Eve the tram will not travel through Jetty Rd, Glenelg. This means trams will terminate and start from the Brighton Rd tram stop.
+3) Additional bus and train services have been implemented for December 31 to accomodate New Year's Eve celebrations. This includes a significant amount of services operating after midnight.
+
+General Amendments:
+
+None.
+

@@ -236,9 +236,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 723F,4,723F,Colonnades Centre Interchange to City,"via Woodcroft Community Centre & South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723F,c7d6ed,000000,723F-723X-733
 723X,4,723X,Woodcroft Community Centre to City ,"via Southern Expressway. Express between stop 39 Regency Road & Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723X,e71939,ffffff,723F-723X-733
 724,4,724,Noarlunga Centre Interchange to Old Reynella Interchange ,"via O'Sullivan Beach & Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/724,6b1f7e,ffffff,724-734
-725,4,725,Noarlunga Centre Interchange to Old Reynella Interchange ,"via Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
-725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,"Does not connect with city-bound services.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
-725B,4,725B,Noarlunga Centre to Southgate Plaza,"Terminates at Southgate Plaza.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725-725F
+724A,4,724A,Colonnades to Old Reynella Interchange,,3,http://www.adelaidemetro.com.au/routes/724,6b1f7e,ffffff,724-734
+725,4,725,Noarlunga Centre Interchange to Old Reynella Interchange ,"via Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725
+725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,"Does not connect with city-bound services.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725
+725B,4,725B,Noarlunga Centre to Southgate Plaza,"Terminates at Southgate Plaza.",3,http://www.adelaidemetro.com.au/routes/725,ddb305,ffffff,725
 733,4,733,Colonnades Centre Interchange to Marion Centre Interchange ,"via Woodcroft Community Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/733,b31d15,ffffff,723F-723X-733
 733C,4,733C,Colonnades Centre Interchange to Woodcroft Community Centre,"Terminates at Woodcroft Community Centre.",3,http://www.adelaidemetro.com.au/routes/733,7bc142,ffffff,723F-723X-733
 733G,4,733G,Colonnades Centre Interchange to Marion Centre Interchange,"Terminates at Stop 33 Main South Road.",3,http://www.adelaidemetro.com.au/routes/733G,7bc142,ffffff,723F-723X-733
@@ -381,12 +382,12 @@ N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,,3,http://w
 N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,006c64,ffffff,224-224F-224X-226F-N224
 N254,7,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,006c64,ffffff,253-253X-254-254X-N254
 N262,7,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,006c64,ffffff,262-263-265-N262
-N3,4,N3,Noarlunga to city,"via Lonsdale, Seacliff and Oaklands - limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,C6006F,ffffff,N3-N4-N5-N6-N7-N3X
+N3,4,N3,Noarlunga to city,"via Lonsdale, Seacliff and Oaklands - limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,C6006F,ffffff,N3-N4-N7
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,255AAA,ffffff,H30-N30
-N4,4,N4,Noarlunga to city,"via Hallett Cove, Marino and Oaklands.",3,http://www.adelaidemetro.com.au/routes/N4,003D7D,ffffff,N3-N4-N5-N6-N7-N3X
+N4,4,N4,Noarlunga to city,"via Hallett Cove, Marino and Oaklands.",3,http://www.adelaidemetro.com.au/routes/N4,003D7D,ffffff,N3-N4-N7
 N502,7,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,D6DF23,000000,500-501-502-502X-N502
 N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via Tea Tree Plaza Interchange, Paradise Interchange & Klemzig Station. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,A0CC42,000000,541-541X-N541
-N7,4,N7,Woodlands Park to Tonsley,"via Mitchell Park.",3,http://www.adelaidemetro.com.au/routes/N7,4b711c,ffffff,N3-N4-N5-N6-N7-N3X
+N7,4,N7,Woodlands Park to Tonsley,"via Mitchell Park.",3,http://www.adelaidemetro.com.au/routes/N7,4b711c,ffffff,N3-N4-N7
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,006c64,ffffff,721-721F-721X-T721-T721X-N721
 N864,6,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,c60845,ffffff,823-840F-860F-863-863F-864-864F-N864-T840-T863
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands and Goodwood.",2,http://www.adelaidemetro.com.au/routes/Noarlunga,0065a4,ffffff,NOAR-TONS
