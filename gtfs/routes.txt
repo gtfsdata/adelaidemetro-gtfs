@@ -316,6 +316,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 894H,6,894H,Aldgate to Blackwood Station,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 894S,6,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 900,4,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,bf2c19,ffffff,401-403-900
+933,7,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/513,ef6d1f,ffffff,
 99C,5,99C,Adelaide FREE City Loop Service,"Service operates every 15mins Monday-Friday, every 30mins Saturday-Sunday.",3,http://www.adelaidemetro.com.au/routes/99C,71c267,ffffff,99C
 B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12-312
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12-312
