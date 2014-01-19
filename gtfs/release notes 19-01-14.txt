@@ -1,0 +1,318 @@
+Adelaide Metro GTFS Release Notes
+
+Feed Created: 	19-01-2014
+Valid From:	19-01-2014
+Valid To:	29-03-2014
+
+
+The following is a list of changes from the previous GTFS feed:
+
+Special Events:
+
+1) Australia Day
+2) Adelaide Metro Service Change from January 27, 2014
+
+Detours:
+
+None.
+
+Service Updates:
+
+1) On Australia Day (January 26) there is a unique tram timetable. The Noarlunga train line will also be operational - please note that the Noarlunga substitute bus services will not be operating on this day.
+
+2) The first service change of 2014 will happen on Monday January 27, 2014. This service change does NOT impact trains, Outer South and Outer North bus services. Here is a complete list of services which are changing:
+
+
+100	 - 	time changes only
+100K	 - 	time changes only
+100P	 - 	Discontinued Route
+101	 - 	time changes only
+115	 - 	time changes only
+117	 - 	time changes only
+118	 - 	time changes only
+140	 - 	time changes only
+144	 - 	time changes only
+144G	 - 	time changes only
+147	 - 	time changes only
+148	 - 	time changes only
+141	 - 	time changes only
+142	 - 	time changes only
+150	 - 	time changes only
+150B	 - 	time changes only
+150P	 - 	time changes only
+350	 - 	time changes only
+350P	 - 	time changes only
+352	 - 	time changes only
+353	 - 	time changes only
+155	 - 	time changes only
+157	 - 	time changes only
+157X	 - 	time changes only
+376	 - 	time changes only
+167	 - 	time changes only
+167C	 - 	time changes only
+168	 - 	time changes only
+169	 - 	time changes only
+170	 - 	time changes only
+172	 - 	time changes only
+171	 - 	time changes only
+171A	 - 	time changes only
+173	 - 	time changes only
+174	 - 	time changes only
+177	 - 	time changes only
+178	 - 	time changes only
+178A	 - 	time changes only
+178F	 - 	time changes only
+178S	 - 	time changes only
+179	 - 	time changes only
+179F	 - 	time changes only
+579	 - 	time changes only
+N178	 - 	time changes only
+190	 - 	time changes only
+190B	 - 	time changes only
+195	 - 	time changes only
+195F	 - 	time changes only
+196	 - 	time changes only
+196F	 - 	time changes only
+197X	 - 	time changes only
+230	 - 	time changes only
+231	 - 	Route discontinued
+231A	 - 	Route discontinued
+232	 - 	time changes only
+232R	 - 	time changes only
+281	 - 	time changes only
+281K	 - 	time changes only
+286	 - 	time changes only
+286A	 - 	time changes only
+287	 - 	time changes only
+288	 - 	time changes only
+288S	 - 	time changes only
+333	 - 	time changes only
+333B	 - 	time changes only
+333H	 - 	time changes only
+333L	 - 	time changes only
+98A	 - 	New Route
+98C	 - 	New Route
+99A	 - 	New Route
+99C	 - 	route change / time changes
+312	 - 	Route discontinued
+B10	 - 	time changes only
+B10C	 - 	time changes only
+B10X	 - 	time changes only
+B11	 - 	time changes only
+B12	 - 	time changes only
+580	 - 	time changes only
+H20	 - 	time changes only
+H20C	 - 	time changes only
+H20R	 - 	time changes only
+H21	 - 	time changes only
+H22	 - 	time changes only
+H22C	 - 	time changes only
+H22L	 - 	time changes only
+H23	 - 	time changes only
+H24	 - 	time changes only
+H32	 - 	time changes only
+N22	 - 	time changes only
+H30	 - 	time changes only
+H30C	 - 	time changes only
+H30S	 - 	time changes only
+N30	 - 	time changes only
+H33	 - 	time changes only
+H33C	 - 	time changes only
+162	 - 	time changes only
+J1	 - 	time changes only
+J1A	 - 	time changes only
+J2	 - 	time changes only
+374	 - 	Discontinued Route
+371	 - 	New Route
+372	 - 	New Route
+J7	 - 	minor route change and time changes
+J8	 - 	New Route
+W90	 - 	time changes only
+W90M	 - 	time changes only
+W91	 - 	time changes only
+W91C	 - 	time changes only
+200	 - 	time changes only
+200B	 - 	time changes only
+200C	 - 	time changes only
+202	 - 	time changes only
+202F	 - 	time changes only
+203	 - 	time changes only
+203B	 - 	time changes only
+203F	 - 	time changes only
+209F	 - 	time changes only
+N202	 - 	timepoint change
+204	 - 	time changes only
+208	 - 	time changes only
+208B	 - 	time changes only
+208N	 - 	time changes only
+528	 - 	time changes only
+235	 - 	time changes only
+237	 - 	discontinued route
+238	 - 	time changes only
+239	 - 	time changes only
+241	 - 	time changes only
+241A	 - 	time changes only
+245	 - 	time changes only
+248	 - 	time changes only
+248F	 - 	time changes only
+250	 - 	discontinued route
+251	 - 	time changes only
+251A	 - 	time changes only
+252	 - 	time changes only
+252A	 - 	time changes only
+253	 - 	time changes only
+253X	 - 	minor route change / time changes
+254	 - 	time changes only
+254A	 - 	New Route
+254X	 - 	minor route change / time changes
+N254	 - 	time changes only
+262	 - 	time changes only
+262F	 - 	New Route
+263	 - 	time changes only
+265	 - 	time changes only
+265G	 - 	time changes only
+265W	 - 	time changes only
+N262	 - 	time changes only
+271	 - 	time changes only
+273	 - 	time changes only
+300	 - 	time changes only
+300C	 - 	time changes only
+300G	 - 	time changes only
+300H	 - 	time changes only
+300J	 - 	time changes only
+300M	 - 	time changes only
+300U	 - 	time changes only
+361	 - 	time changes only
+500	 - 	time changes only
+501	 - 	time changes only
+502	 - 	time changes only
+502X	 - 	time changes only
+N502	 - 	time changes only
+503	 - 	time changes only
+507	 - 	time changes only
+RZ5	 - 	Route discontinued
+506	 - 	time changes only
+506H	 - 	time changes only
+506X	 - 	time changes only
+546	 - 	time changes only
+546X	 - 	time changes only
+541	 - 	route change / time changes
+541G	 - 	route change / time changes
+541X	 - 	route change / time changes
+N541	 - 	route change / time changes
+542	 - 	time changes only
+542X	 - 	time changes only
+543	 - 	route change / time changes
+543G	 - 	route change / time changes
+543X	 - 	route change / time changes
+545	 - 	time changes only
+545X	 - 	time changes only
+556	 - 	time changes only
+557	 - 	time changes only
+557X	 - 	time changes only
+559	 - 	time changes only
+559S	 - 	time changes only
+591A	 - 	time changes only
+591C	 - 	time changes only
+592	 - 	time changes only
+592J	 - 	discontinued route
+593A	 - 	time changes only
+593C	 - 	time changes only
+600	 - 	time changes only
+600B	 - 	time changes only
+600S	 - 	time changes only
+601	 - 	time changes only
+601B	 - 	time changes only
+605	 - 	time changes only
+694	 - 	time changes only
+G30	 - 	time changes only
+645	 - 	time changes only
+646	 - 	time changes only
+548	 - 	time changes only
+C1	 - 	minor route change / time changes only
+C1G	 - 	minor route change / time changes only
+C1T	 - 	minor route change / time changes only
+C1X	 - 	minor route change / time changes only
+C2	 - 	minor route change / time changes only
+C2X	 - 	minor route change / time changes only
+N1T	 - 	New route
+N1	 - 	minor route change / time changes only
+G10	 - 	time changes only
+G10A	 - 	time changes only
+G10B	 - 	time changes only
+G10C	 - 	time changes only
+320	 - 	time changes only
+G20	 - 	time changes only
+G20F	 - 	time changes only
+G20X	 - 	time changes only
+G21	 - 	time changes only
+G21H	 - 	time changes only
+G21X	 - 	time changes only
+G21F	 - 	time changes only
+G22	 - 	time changes only
+N10	 - 	time changes only
+N21	 - 	time changes only
+RZ22	 - 	Route discontinued
+G40	 - 	time changes only
+G40	 - 	time changes only
+G40C	 - 	time changes only
+G40M	 - 	time changes only
+M44	 - 	route change / time changes
+M44C	 - 	route change / time changes
+M44G	 - 	route change / time changes
+M44P	 - 	discontinued route
+M44T	 - 	route change / time changes
+M44X	 - 	route change / time changes
+404	 - 	time changes only
+405	 - 	time changes only
+820	 - 	time changes only
+820S	 - 	time changes only
+821	 - 	time changes only
+862	 - 	route discontinued
+823	 - 	time changes only
+840F	 - 	time changes only
+860F	 - 	route change / time changes
+863	 - 	route change / time changes
+863F	 - 	route change / time changes
+864	 - 	route change / time changes
+864F	 - 	route change / time changes
+864H	 - 	route change / time changes
+N864	 - 	route change / time changes
+T840	 - 	time changes only
+T863	 - 	time changes only
+830F	 - 	time changes only
+834	 - 	time changes only
+834A	 - 	time changes only
+835	 - 	time changes only
+835A	 - 	time changes only
+837	 - 	time changes only
+841F	 - 	time changes only
+842F	 - 	Route discontinued
+T842	 - 	Route discontinued
+842X	 - 	New route
+838	 - 	time changes only
+838H	 - 	time changes only
+839	 - 	time changes only
+839R	 - 	time changes only
+850	 - 	time changes only
+852	 - 	time changes only
+852L	 - 	time changes only
+861	 - 	time changes only
+865	 - 	time changes only
+865C	 - 	time changes only
+865S	 - 	time changes only
+866	 - 	time changes only
+866A	 - 	time changes only
+866R	 - 	time changes only
+867	 - 	time changes only
+868	 - 	time changes only
+892	 - 	time changes only
+893	 - 	time changes only
+894	 - 	time changes only
+894H	 - 	time changes only
+894S	 - 	time changes only
+Tram	 - 	time changes only
+
+General Amendments:
+
+None.
