@@ -1,6 +1,6 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	19-01-2014
+Feed Created: 	24-01-2014
 Valid From:	19-01-2014
 Valid To:	29-03-2014
 
@@ -9,8 +9,8 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) Australia Day
-2) Adelaide Metro Service Change from January 27, 2014
+1) Adelaide Metro Service Change from January 27, 2014
+2) Big Day Out - 31/01/2014
 
 Detours:
 
@@ -18,9 +18,7 @@ None.
 
 Service Updates:
 
-1) On Australia Day (January 26) there is a unique tram timetable. The Noarlunga train line will also be operational - please note that the Noarlunga substitute bus services will not be operating on this day.
-
-2) The first service change of 2014 will happen on Monday January 27, 2014. This service change does NOT impact trains, Outer South and Outer North bus services. Here is a complete list of services which are changing:
+1) The first service change of 2014 will happen on Monday January 27, 2014. This service change does NOT impact trains, Outer South and Outer North bus services. Here is a complete list of services which are changing:
 
 
 100	 - 	time changes only
@@ -313,6 +311,8 @@ T842	 - 	Route discontinued
 894S	 - 	time changes only
 Tram	 - 	time changes only
 
+2) Unique tram timetable for Big Day Out.
+
 General Amendments:
 
-None.
+Minor modifications to the end terminus of a few trips.
