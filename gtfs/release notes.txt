@@ -1,6 +1,6 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	31-01-2014
+Feed Created: 	05-02-2014
 Valid From:	28-01-2014
 Valid To:	13-04-2014
 
@@ -18,16 +18,14 @@ None.
 
 Service Updates:
 
-1) B1 Belair substitute buses set up for weekends and late night services.
-2) Belair shuttle trips created running between Mitcham and Belair on weekends.
+None.
 
 
 General Amendments:
 
-1) Missing day type (Monday, Thursday, Friday) created, to address missing trips.
-2) 734 is now servicing stop 44 Adams Road.
-3) Route 543 now services stop 47 Hazel Grove.
-4) Added missing MTWT day type to resolve missing 852 trip.
-5) Route 820s route path updated.
-6) Amendments to some stop coordinates.
-
+1) Updated all O-Bahn services to reflect the set-down and pick-up rules at Stop 2 Hackney Rd (O-Bahn buses will not service Stop 2 between 8am-9:15am & 4:30pm-6:00pm weekdays)
+2) 500-501-502 routes updated to not service Stops 29D, 29C, 29B and 29A on Sudholz Rd between 6am-7pm weekdays.
+3) O-Bahn services updated to show correct serviced stops in Grenfell St.
+4) O-Bahn services updated to show correct serviced stops at Paradise Interchange.
+5) Stop H Grenfell St removed from 167-168 routes.
+6) J1 route departing Pulteney St B2 @ 19:19 will now service Harbor Town.

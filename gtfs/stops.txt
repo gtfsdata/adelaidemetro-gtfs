@@ -1264,7 +1264,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1438,11390,Stop 47 Perseverance Rd - East side,,-34.83291,138.72606,,http://www.adelaidemetro.com.au/stops/view/11390,,,,
 1439,11391,Stop 45 Fletcher Rd - West side,,-34.83306,138.49679,,http://www.adelaidemetro.com.au/stops/view/11391,,,,
 1440,11392,Stop 43B Smart Rd - North side,,-34.832900185743,138.69611532867,,http://www.adelaidemetro.com.au/stops/view/11392,,,,
-1441,11393,Stop 42 Smart Rd - North side,,-34.83303,138.69449,,http://www.adelaidemetro.com.au/stops/view/11393,,,,
 1442,11394,Stop 45 Fletcher Rd - East side,,-34.83312,138.49692,,http://www.adelaidemetro.com.au/stops/view/11394,,,,
 1443,11395,Stop 43B Smart Rd - South side,,-34.83311,138.69594,,http://www.adelaidemetro.com.au/stops/view/11395,,,,
 1447,11398,Stop 29 Port Wakefield Rd - East side,,-34.83318,138.59913,,http://www.adelaidemetro.com.au/stops/view/11398,,,,
