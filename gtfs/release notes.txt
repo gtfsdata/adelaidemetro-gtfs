@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	05-02-2014
-Valid From:	28-01-2014
+Feed Created: 	07-02-2014
+Valid From:	01-02-2014
 Valid To:	13-04-2014
 
 
@@ -10,7 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-None.
+1) Unique tram timetable for fringe opening on Feb 14th 2014.
 
 Detours:
 
@@ -29,3 +29,4 @@ General Amendments:
 4) O-Bahn services updated to show correct serviced stops at Paradise Interchange.
 5) Stop H Grenfell St removed from 167-168 routes.
 6) J1 route departing Pulteney St B2 @ 19:19 will now service Harbor Town.
+7) Missing trips added with day type of thursday, friday only.

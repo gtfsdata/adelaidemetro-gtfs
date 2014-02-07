@@ -6318,6 +6318,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8183,17099,Stop 84A Grand Bvd - West side,,-35.18747,138.48027,,http://www.adelaidemetro.com.au/stops/view/17099,,,,
 8184,17100,Stop 84A Grand Bvd - East side,,-35.1877024312879,138.480494026019,,http://www.adelaidemetro.com.au/stops/view/17100,,,,
 8223,17105,Stop 65 Goldsmith Dr - Northern side,,-35.14456,138.49762,,http://www.adelaidemetro.com.au/stops/view/17105,,,,
+8224,17106,Stop 65 Goldsmith Dr - South side,,-35.14477,138.49751,,http://www.adelaidemetro.com.au/stops/view/17106,,,,
 8227,17107,Stop 47 Goldsmith Dr - West side,,-35.1406033887271,138.502297542289,,http://www.adelaidemetro.com.au/stops/view/17107,,,,
 100000,17109,Stop 14C Harbour Town - South side,,-34.948426,138.519353,,http://www.adelaidemetro.com.au/stops/view/17109,,,,
 100001,17110,Zone B Harbour Town Interchange,,-34.947049,138.519981,,http://www.adelaidemetro.com.au/stops/view/17110,,,,
