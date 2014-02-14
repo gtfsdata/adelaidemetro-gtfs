@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	07-02-2014
-Valid From:	01-02-2014
-Valid To:	13-04-2014
+Feed Created: 	14-02-2014
+Valid From:	14-02-2014
+Valid To:	30-04-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,23 +10,58 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) Unique tram timetable for fringe opening on Feb 14th 2014.
+1) Service changes on February 23, 2013. Effects mainly the Outer South contract area and train lines.
+
 
 Detours:
 
 None.
 
+
 Service Updates:
 
-None.
+1) Adelaide Showground Railway Station is now services by Belair, Blackwood and Noarlunga train routes as of 16 February 2014.
+
+2) This feed includes all data for the February 23, 2014 service change. This service change includes changes to the following routes:
+
+740		
+740A		
+740H		-	New Route
+741		
+741A		
+741R		-	New Route
+745		
+745A		
+745C		
+747		
+747A		
+747B		
+T748		-	Discontinued
+749		-	Discontinued
+749A		-	Discontinued
+749G		-	Discontinued
+750		
+750A		
+750B		
+750X		-	New Route
+751		
+751A		
+751W		
+752		
+752A		
+755		
+756		
+753		-	Discontinued
+754		-	Discontinued
+Seaford		-	New route
+Noarlunga	-	Discontinued/replaced with Seaford
+Grange	
+Outer Harbor		
+Osborne		
 
 
 General Amendments:
 
-1) Updated all O-Bahn services to reflect the set-down and pick-up rules at Stop 2 Hackney Rd (O-Bahn buses will not service Stop 2 between 8am-9:15am & 4:30pm-6:00pm weekdays)
-2) 500-501-502 routes updated to not service Stops 29D, 29C, 29B and 29A on Sudholz Rd between 6am-7pm weekdays.
-3) O-Bahn services updated to show correct serviced stops in Grenfell St.
-4) O-Bahn services updated to show correct serviced stops at Paradise Interchange.
-5) Stop H Grenfell St removed from 167-168 routes.
-6) J1 route departing Pulteney St B2 @ 19:19 will now service Harbor Town.
-7) Missing trips added with day type of thursday, friday only.
+1) Minor updates to O-Bahn routes to service correct zones at Paradise Interchange
+2) Stop 2A Hackney Rd removed from route route 281.
+3) Minor update to bus route 100 to terminate at a different zone at Arndale Centre Interchange
