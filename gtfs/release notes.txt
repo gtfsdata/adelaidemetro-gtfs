@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	14-02-2014
-Valid From:	14-02-2014
+Feed Created: 	24-02-2014
+Valid From:	24-02-2014
 Valid To:	30-04-2014
 
 
@@ -11,6 +11,7 @@ The following is a list of changes from the previous GTFS feed:
 Special Events:
 
 1) Service changes on February 23, 2013. Effects mainly the Outer South contract area and train lines.
+2) There will be a unquie tram timetable for February 27 to March 2. This is due to the Clipsal 500 and Soundwave events.
 
 
 Detours:
@@ -62,6 +63,4 @@ Osborne
 
 General Amendments:
 
-1) Minor updates to O-Bahn routes to service correct zones at Paradise Interchange
-2) Stop 2A Hackney Rd removed from route route 281.
-3) Minor update to bus route 100 to terminate at a different zone at Arndale Centre Interchange
+1) 273 route has been ammended to service Stop 29A Sudholz Rd on the correct side of the road.
