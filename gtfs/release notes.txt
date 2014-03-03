@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	24-02-2014
-Valid From:	24-02-2014
+Feed Created: 	03-03-2014
+Valid From:	03-03-2014
 Valid To:	30-04-2014
 
 
@@ -10,57 +10,16 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) Service changes on February 23, 2013. Effects mainly the Outer South contract area and train lines.
-2) There will be a unquie tram timetable for February 27 to March 2. This is due to the Clipsal 500 and Soundwave events.
-
+1) There is a unquie tram timetable for the Adelaide Cup on Monday, 10th March 2013.
 
 Detours:
 
 None.
 
-
 Service Updates:
 
-1) Adelaide Showground Railway Station is now services by Belair, Blackwood and Noarlunga train routes as of 16 February 2014.
-
-2) This feed includes all data for the February 23, 2014 service change. This service change includes changes to the following routes:
-
-740		
-740A		
-740H		-	New Route
-741		
-741A		
-741R		-	New Route
-745		
-745A		
-745C		
-747		
-747A		
-747B		
-T748		-	Discontinued
-749		-	Discontinued
-749A		-	Discontinued
-749G		-	Discontinued
-750		
-750A		
-750B		
-750X		-	New Route
-751		
-751A		
-751W		
-752		
-752A		
-755		
-756		
-753		-	Discontinued
-754		-	Discontinued
-Seaford		-	New route
-Noarlunga	-	Discontinued/replaced with Seaford
-Grange	
-Outer Harbor		
-Osborne		
-
+1) Route 750 has been updated to extend to Stop 84A Grand Blvd on school days only. This is for the trip departing Stop 137 Perth St at 7:48am on weekdays.
 
 General Amendments:
 
-1) 273 route has been ammended to service Stop 29A Sudholz Rd on the correct side of the road.
+1) Stop coordinates for Adelaide Showground station have been updated. We have moved the stops further north to reflect the actual station location.
