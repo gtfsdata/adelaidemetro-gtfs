@@ -23,3 +23,4 @@ Service Updates:
 General Amendments:
 
 1) Stop coordinates for Adelaide Showground station have been updated. We have moved the stops further north to reflect the actual station location.
+2) Stop H1 Grenfell St added to route 542X.
