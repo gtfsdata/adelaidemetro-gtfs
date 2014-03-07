@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	03-03-2014
-Valid From:	03-03-2014
+Feed Created: 	07-03-2014
+Valid From:	07-03-2014
 Valid To:	30-04-2014
 
 
@@ -10,7 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) There is a unquie tram timetable for the Adelaide Cup on Monday, 10th March 2013.
+1) On March 22 the Rolling Stones will be performing at Adelaide Oval. There will be several "AO" and "AOX" bus routes in operation for the event. More information is available at http://www.adelaidemetro.com.au/Announcements/Events/Special-public-transport-to-Rolling-Stones-Concert.
 
 Detours:
 
@@ -18,9 +18,8 @@ None.
 
 Service Updates:
 
-1) Route 750 has been updated to extend to Stop 84A Grand Blvd on school days only. This is for the trip departing Stop 137 Perth St at 7:48am on weekdays.
+1) We have implemented the Adelaide Oval Footy Express bus services for this year's AFL matches at Adelaide Oval. These run to a unique timetable each week. We currently have trips for up to Round 5, we will release trip data for more rounds in the coming weeks. More information is available at http://adelaidemetro.com.au/Announcements/Events/Adelaide-Oval-Footy-Express.
 
 General Amendments:
 
-1) Stop coordinates for Adelaide Showground station have been updated. We have moved the stops further north to reflect the actual station location.
-2) Stop H1 Grenfell St added to route 542X.
+1) Stop 99A Aldinga Beach Rd added to routes 751, 755 and 756. 
