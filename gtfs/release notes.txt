@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	07-03-2014
-Valid From:	07-03-2014
+Feed Created: 	19-03-2014
+Valid From:	19-03-2014
 Valid To:	30-04-2014
 
 
@@ -10,7 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) On March 22 the Rolling Stones will be performing at Adelaide Oval. There will be several "AO" and "AOX" bus routes in operation for the event. More information is available at http://www.adelaidemetro.com.au/Announcements/Events/Special-public-transport-to-Rolling-Stones-Concert.
+None.
 
 Detours:
 
@@ -18,8 +18,23 @@ None.
 
 Service Updates:
 
-1) We have implemented the Adelaide Oval Footy Express bus services for this year's AFL matches at Adelaide Oval. These run to a unique timetable each week. We currently have trips for up to Round 5, we will release trip data for more rounds in the coming weeks. More information is available at http://adelaidemetro.com.au/Announcements/Events/Adelaide-Oval-Footy-Express.
+1) We've added route AOX15 which is a new Adelaide Oval Footy Express bus. This was accidentlly left out of the previous GTFS feed.
+2) We have added times for all Adelaide Oval Footy Express buses up to Round 11.
 
 General Amendments:
 
-1) Stop 99A Aldinga Beach Rd added to routes 751, 755 and 756. 
+1) Rolling Stones concert for March 22 has been postponed to an unspecified date. We have removed all addiitonal services for this concert.
+
+2) AO10 updated to go to Stop 24A Crafers Park 'N' Ride
+
+3) AOX21 updated to service stop 29 Hanson Rd. Stop 29A Hanson Rd removed from route.
+
+4) AO17 now departs from Zone A Port Adelaide Interchange
+
+5) AO26 now departs from Zone C Glenelg Interchange
+
+6) AO27 now departs from Zone A Salisbury Interchange
+
+7) AO29 now departs from Zone A Smithfield Interchange
+
+8) AO30 now services Zone A at Seaford Interchange. The route also now terminates at Zone G Noarlunga Centre Interchange.
