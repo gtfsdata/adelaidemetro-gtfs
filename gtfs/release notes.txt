@@ -38,3 +38,5 @@ General Amendments:
 7) AO29 now departs from Zone A Smithfield Interchange
 
 8) AO30 now services Zone A at Seaford Interchange. The route also now terminates at Zone G Noarlunga Centre Interchange.
+
+9) Added missing bus stops to route 501. Specifically, it is for trips beginning from Mawson Lakes and terminating at Stop 37C Montague Rd.

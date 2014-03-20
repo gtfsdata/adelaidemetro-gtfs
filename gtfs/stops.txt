@@ -3627,7 +3627,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4015,13890,Stop 5 Goodwood Rd - West side,,-34.9527723608212,138.589669299887,,http://www.adelaidemetro.com.au/stops/view/13890,,,,
 4016,13891,Stop 6 Daly Av - West side,,-34.951839062,138.563409436,,http://www.adelaidemetro.com.au/stops/view/13891,,,,
 4017,13892,Stop 6 Daly Av - East side,,-34.9523,138.56356,,http://www.adelaidemetro.com.au/stops/view/13892,,,,
-4018,13893,Stop 5 King William St - West side,,-34.9527944794424,138.599836808367,,http://www.adelaidemetro.com.au/stops/view/13893,,,,
+4018,13893,Stop 5 King William Rd - West side,,-34.9527944794424,138.599836808367,,http://www.adelaidemetro.com.au/stops/view/13893,,,,
 4019,13894,Stop 5 Unley Rd - West side,,-34.952937,138.60757,,http://www.adelaidemetro.com.au/stops/view/13894,,,,
 4020,13895,Stop 15  Portrush Rd - East side,,-34.9532081042862,138.643601679216,,http://www.adelaidemetro.com.au/stops/view/13895,,,,
 4021,13896,Stop 7 Leah St - West side,,-34.9514802525999,138.58115704696,,http://www.adelaidemetro.com.au/stops/view/13896,,,,
