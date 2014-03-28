@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	19-03-2014
-Valid From:	19-03-2014
+Feed Created: 	28-03-2014
+Valid From:	28-03-2014
 Valid To:	30-04-2014
 
 
@@ -10,33 +10,23 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-None.
+1) AFL Football matches for Adelaide Oval. We currently bus times for up to round 11, we will release data for futher rounds in the future.
+
 
 Detours:
 
 None.
 
+
 Service Updates:
 
-1) We've added route AOX15 which is a new Adelaide Oval Footy Express bus. This was accidentlly left out of the previous GTFS feed.
-2) We have added times for all Adelaide Oval Footy Express buses up to Round 11.
+1) Detours on Faxmill Rd will have finished. Routes 723F, 733, 733C, 733G 725, 725A & 725B are now doing their normal routes as per the public timetable.
+
+2) Stop 31 Sun Valley Dr has been removed from routes 195, 195F, 196 & 196F.
+
 
 General Amendments:
 
-1) Rolling Stones concert for March 22 has been postponed to an unspecified date. We have removed all addiitonal services for this concert.
+1) Route AO17 has been updated to travel the entire length of Port Rd instead of Old Port Rd.
 
-2) AO10 updated to go to Stop 24A Crafers Park 'N' Ride
-
-3) AOX21 updated to service stop 29 Hanson Rd. Stop 29A Hanson Rd removed from route.
-
-4) AO17 now departs from Zone A Port Adelaide Interchange
-
-5) AO26 now departs from Zone C Glenelg Interchange
-
-6) AO27 now departs from Zone A Salisbury Interchange
-
-7) AO29 now departs from Zone A Smithfield Interchange
-
-8) AO30 now services Zone A at Seaford Interchange. The route also now terminates at Zone G Noarlunga Centre Interchange.
-
-9) Added missing bus stops to route 501. Specifically, it is for trips beginning from Mawson Lakes and terminating at Stop 37C Montague Rd.
+2) Route AO30 has been updated to no longer service The Parade, Seaford.
