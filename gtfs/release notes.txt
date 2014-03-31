@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	28-03-2014
-Valid From:	28-03-2014
+Feed Created: 	31-03-2014
+Valid From:	31-03-2014
 Valid To:	30-04-2014
 
 
@@ -23,6 +23,8 @@ Service Updates:
 1) Detours on Faxmill Rd will have finished. Routes 723F, 733, 733C, 733G 725, 725A & 725B are now doing their normal routes as per the public timetable.
 
 2) Stop 31 Sun Valley Dr has been removed from routes 195, 195F, 196 & 196F.
+
+3) At the start of Summer last year there was a trial for additional After Midnight buses to operate on Saturday night / early Sunday morning. The trial has now ended and it has been decided the additional services will not continue.
 
 
 General Amendments:
