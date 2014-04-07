@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	31-03-2014
-Valid From:	31-03-2014
-Valid To:	30-04-2014
+Feed Created: 	07-04-2014
+Valid From:	07-04-2014
+Valid To:	30-05-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,7 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) AFL Football matches for Adelaide Oval. We currently bus times for up to round 11, we will release data for futher rounds in the future.
+1) AFL Football matches for Adelaide Oval. We currently have bus times for up to round 11, we will release data for futher rounds in the future.
 
 
 Detours:
@@ -20,15 +20,11 @@ None.
 
 Service Updates:
 
-1) Detours on Faxmill Rd will have finished. Routes 723F, 733, 733C, 733G 725, 725A & 725B are now doing their normal routes as per the public timetable.
-
-2) Stop 31 Sun Valley Dr has been removed from routes 195, 195F, 196 & 196F.
-
-3) At the start of Summer last year there was a trial for additional After Midnight buses to operate on Saturday night / early Sunday morning. The trial has now ended and it has been decided the additional services will not continue.
+None.
 
 
 General Amendments:
 
-1) Route AO17 has been updated to travel the entire length of Port Rd instead of Old Port Rd.
+1) Routes AOX9, AO8, AO30 & AOX22 have recieved some minor trip time updates.
 
-2) Route AO30 has been updated to no longer service The Parade, Seaford.
+2) Route 200 no longer services the Clapham area. Routes 200B and 200C will still service this area.
