@@ -423,7 +423,6 @@ T721X,4,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Ma
 T722,4,T722,Seaford Centre to City ,"via Southern Expressway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T722,530072,ffffff,722-722F-722X-T722
 T840,6,T840,Mount Barker to City,"via South South Eastern Freeway. Limited stop service. Service operates Monday to Friday",3,http://www.adelaidemetro.com.au/routes/T840,fec220,000000,823-840X-T840-860F-863-863F-T863-864-864F-N864
 T863,6,T863,Aldgate to City,"via Stirling and Crafers. Limited stop service. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/T863,1b5257,ffffff,823-840X-T840-860F-863-863F-T863-864-864F-N864
-TONS,2,TONS,Tonsley to City,,2,http://www.adelaidemetro.com.au/routes/Tonsley,0065a4,ffffff,NOAR-TONS
 Tram,2,Tram,Glenelg to Entertainment Centre ,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street, North Terrace & Port Road. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/Tram,e91839,ffffff,Tram
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91

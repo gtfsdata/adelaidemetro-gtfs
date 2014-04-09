@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	07-04-2014
-Valid From:	07-04-2014
-Valid To:	30-05-2014
+Feed Created: 	09-04-2014
+Valid From:	09-04-2014
+Valid To:	31-05-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -15,7 +15,7 @@ Special Events:
 
 Detours:
 
-None.
+1) Seaford and Belair train lines will have closures over the Easter longweekend. We have removed trips for the affected dates.
 
 
 Service Updates:
