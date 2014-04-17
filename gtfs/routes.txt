@@ -132,8 +132,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 400A,4,400A,Elizabeth Interchange to Salisbury,"Terminates at Ann Street, Salsibury.",3,http://www.adelaidemetro.com.au/routes/400,a586be,ffffff,400-421
 401,4,401,Paralowie to Salisbury ,"via Bolivar Road, Burton & Waterloo Corner Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/401,ffc701,000000,401-403-900
 403,4,403,Salisbury North to Salisbury,"via Waterloo Corner Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/403,006893,ffffff,401-403-900
-404,4,404,Salisbury to Paralowie,"Anti-Clockwise Loop Service - via Parabanks Shopping Centre & Hollywood Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/404,ee891c,ffffff,404-405
-405,4,405,Salisbury to Paralowie,"Clockwise Loop Service - via Parabanks Shopping Centre & Hollywood Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/405,a8c28f,ffffff,404-405
+404,4,404,Salisbury to Paralowie,"Anti-Clockwise Loop Service - via Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/404,ee891c,ffffff,404-405
+404R,4,404R,Salisbury to Paralowie,"Anti-Clockwise Loop Service - via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/404R,ee891c,ffffff,404-405
+405,4,405,Salisbury to Paralowie,"Clockwise Loop Service - via Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/405,a8c28f,ffffff,404-405
+405R,4,405R,Salisbury to Paralowie,"Clockwise Loop Service - via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/405R,a8c28f,ffffff,404-405
 407,4,407,Waterloo Corner to Elizabeth Interchange,"via Virginia.",3,http://www.adelaidemetro.com.au/routes/407,006893,ffffff,407
 411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens. Limited services commences from UniSA Mawson Lakes Campus. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
 411B,4,411B,Mawson Interchange to Salisbury Interchange,"Terminates at Salisbury Interchange.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411

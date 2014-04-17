@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	09-04-2014
-Valid From:	09-04-2014
-Valid To:	31-05-2014
+Feed Created: 	17-04-2014
+Valid From:	17-04-2014
+Valid To:	06-07-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,21 +10,35 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) AFL Football matches for Adelaide Oval. We currently have bus times for up to round 11, we will release data for futher rounds in the future.
+1) Service changes on April 27th, 2014. Minor service change affecting 3 bus timetables in the Outer North.
+
+2) Anazac day additional services. There are additional bus services and a unique TRAM timetable.
 
 
 Detours:
 
-1) Seaford and Belair train lines will have closures over the Easter longweekend. We have removed trips for the affected dates.
+None.
 
 
 Service Updates:
 
-None.
+1) Seaford and Belair train lines will have closures over the Easter longweekend. We have removed trips for the affected dates.
+
+
+2) Service changes on April 27th, 2014. This service change includes changes to the following routes:
+
+404R	- 	New Route
+405R	-	New Route
+415	
+415H	
+415V	
+430
 
 
 General Amendments:
 
-1) Routes AOX9, AO8, AO30 & AOX22 have recieved some minor trip time updates.
+1) Stop 31 - Scott Street Pooraka - coordinates updated.
 
-2) Route 200 no longer services the Clapham area. Routes 200B and 200C will still service this area.
+2) Tram route paths amended.
+
+3) Coordinates for Stop 12 Morphett Rd OUT have been altered as they were slightly away from the tram platform.
