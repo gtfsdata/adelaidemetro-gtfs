@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	24-04-2014
-Valid From:	24-04-2014
-Valid To:	06-07-2014
+Feed Created: 	02-05-2014
+Valid From:	02-05-2014
+Valid To:	31-07-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,8 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-1) Tonsley train line is reopening on 5th May.
-
+None.
 
 
 Detours:
@@ -21,12 +20,10 @@ None.
 
 Service Updates:
 
-1) Tonsley train line is reopening on 5th May. Also includes updates to the Seaford weekday timetable
-
-
+1) Updates to timetable 743-744 on 09/05/2014.
 
 
 General Amendments:
 
-1) Correction to 404R (removed incorrect stops 38,38A and 38B Sheperdson Rd)
+1) Missing G10 trip added (Prospect Rd @ 1437)
 
