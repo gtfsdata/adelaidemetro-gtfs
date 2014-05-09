@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	02-05-2014
-Valid From:	02-05-2014
+Feed Created: 	09-05-2014
+Valid From:	09-05-2014
 Valid To:	31-07-2014
 
 
@@ -20,10 +20,9 @@ None.
 
 Service Updates:
 
-1) Updates to timetable 743-744 on 09/05/2014.
+1) We have added Adelaide Oval Footy Express trips for up to Round 22 of this year's AFL matches.
 
 
 General Amendments:
 
-1) Missing G10 trip added (Prospect Rd @ 1437)
-
+1) Updates to routes 745-747. Seaford Interchange and Stop 84G were in the incorrect sequence.
