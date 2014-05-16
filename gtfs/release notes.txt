@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	09-05-2014
-Valid From:	09-05-2014
+Feed Created: 	16-05-2014
+Valid From:	16-05-2014
 Valid To:	31-07-2014
 
 
@@ -20,9 +20,13 @@ None.
 
 Service Updates:
 
-1) We have added Adelaide Oval Footy Express trips for up to Round 22 of this year's AFL matches.
+None.
 
 
 General Amendments:
 
-1) Updates to routes 745-747. Seaford Interchange and Stop 84G were in the incorrect sequence.
+1) Stop 5A Hill St added to route 98A
+2) Stop 36 Port Rd removed from route 350
+3) Stop 64A Alexander Kelly Dr was in the wrong sequence for route 744. We have rectified this and the bus now travels through the location correctly.
+4) Several minor updates made to Adelaide Oval Footy Express routes across all games. These include additional trips and minor tweaks to times.
+5) Routes 265 and 262F now service Stop A3 King William St instead of A2 King William St. This was an error on the published timetable that had filtred through to the GTFS data.
