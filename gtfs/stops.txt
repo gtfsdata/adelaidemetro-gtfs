@@ -5875,6 +5875,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6460,16291,Stop U1 Victoria Sq - North West side,,-34.9277079698949,138.599306149146,,http://www.adelaidemetro.com.au/stops/view/16291,,,,
 6461,16292,Stop 23 Military Rd - East side,,-34.93402,138.50039,,http://www.adelaidemetro.com.au/stops/view/16292,,,,
 6462,16293,Stop 32D Brebner Dr - North side,,-34.8819947635441,138.492534339004,,http://www.adelaidemetro.com.au/stops/view/16293,,,,
+6463,16294,Stop 32D Brebner Dr - South side,,-34.8820704604748,138.492824175455,,http://www.adelaidemetro.com.au/stops/view/16294,,,,
 6464,16295,Stop 31A Trimmer Pde - South side,,-34.89324,138.49597,,http://www.adelaidemetro.com.au/stops/view/16295,,,,
 6465,16296,Stop 31A Trimmer Pde - North side,,-34.8930695221931,138.495805789424,,http://www.adelaidemetro.com.au/stops/view/16296,,,,
 6466,16297,Stop 31 Trimmer Pde - South side,,-34.89225,138.50048,,http://www.adelaidemetro.com.au/stops/view/16297,,,,
