@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	21-05-2014
-Valid From:	21-05-2014
+Feed Created: 	22-05-2014
+Valid From:	22-05-2014
 Valid To:	31-07-2014
 
 
@@ -25,4 +25,4 @@ Service Updates:
 
 General Amendments:
 
-None
+1) H30S departing at West Lakes Interchange @ 8:11am on weekdays has been changed to depart at 8:14am.
