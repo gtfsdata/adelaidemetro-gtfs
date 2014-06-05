@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	22-05-2014
-Valid From:	22-05-2014
+Feed Created: 	05-05-2014
+Valid From:	05-05-2014
 Valid To:	31-07-2014
 
 
@@ -20,9 +20,11 @@ None.
 
 Service Updates:
 
-1) H30, H30S, H30C, 288 and N30 routes have changed how they exit West Lakes Shopping Centre going to the city. These routes will now service Stop 32D Brebner Dr.
+None.
 
 
 General Amendments:
 
-1) H30S departing at West Lakes Interchange @ 8:11am on weekdays has been changed to depart at 8:14am.
+1) Route 837 has been amended to terminate at Stop 70 South Tce on the South side.
+2) Route 542X has been amended to service Stops U2 Grenfell St and T3 Grenfell St at the correct times of day.
+3) There was a missing 208B trip. Trip departs Stop 1 King William Rd at 9:05am on Mondays (other weekday trips at this time were present in our data).
