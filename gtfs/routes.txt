@@ -266,7 +266,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 755,4,755,Aldinga Beach to Seaford Centre,"via Willunga. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/755,e68e19,ffffff,750-750X-751-752-755-756
 756,4,756,Port Willunga to Seaford Centre Interchange,"via Willunga. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/756,8a8d05,ffffff,750-750X-751-752-755-756
 820,6,820,Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
-820S,6,820S,Stirling to City,"via Stop 36 Mount Barker, Stirling, Piccadilly and then continues normal 820 route. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
+820S,6,820S,City to Stirling,,3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 821,6,821,Aldgate to Glenunga High School,"via Stirling, Piccadilly,  Greenhill Road, Pembroke School, Burnside Village. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/821,00a9a7,ffffff,820-821
 823,6,823,Crafers to Cleland Wildlife Park,"via Mount Lofty. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/823,e51737,ffffff,823-840X-T840-860F-863-863F-T863-864-864F-N864
 830F,6,830F,Lobethal to City,"via Woodside, Oakbank, Balhannah, Verdun Junction & Crafers. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/830F,007cc3,ffffff,830F-834-835
