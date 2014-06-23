@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	16-06-2014
-Valid From:	16-06-2014
+Feed Created: 	23-06-2014
+Valid From:	23-06-2014
 Valid To:	31-07-2014
 
 
@@ -25,5 +25,4 @@ None.
 
 General Amendments:
 
-1) 262, 262F and 263 have received updates to reflect a rule at Stop 22 Brighton Rd. Buses do not service Stop 22 western side between 7am-10am and 2pm-7pm on weekdays.
-2) Stop 27 Port Rd removed from J8 route going to Marion. This is because the bus cannot turn onto Port Rd from Old Port Rd and safely service the stop.
+1) Stop 49 Golden Grove Rd - North West side has been decommissioned. This affects routes 548, C1, C1G, G40 and N1.
