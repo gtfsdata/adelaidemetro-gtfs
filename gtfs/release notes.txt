@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	11-07-2014
-Valid From:	11-07-2014
-Valid To:	29-09-2014
+Feed Created: 	21-07-2014
+Valid From:	21-07-2014
+Valid To:	31-10-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -20,89 +20,13 @@ None.
 
 Service Updates:
 
-1) On July 20, 2014 there will be a service change.Unless otherwise stated, it can be assumed the below routes will recieve time changes:
-
-451A
-452
-452A
-452W
-461
-462 - new route
-462C - new route
-491
-492
-492W - route removed
-493
-493T - route removed
-494
-494T - route removed
-500
-501
-502
-502X
-645
-646
-681
-681A
-682
-683
-740
-740A
-740H
-741
-741A
-741R
-750
-750A
-750X
-751
-751W
-752
-755
-756
-743
-744
-745
-745A
-745C
-747
-747A
-747B
-823
-840X
-T840
-860F
-863
-863F
-T863
-864
-864H
-864F
-N864
-830F
-834
-834A
-835
-835A
-837
-841F
-842X
-T842 - route re-introduced
-838
-838H
-839
-839R
-850
-852
-852L
-861
-Seaford - new limited stop patterns (semi-express)
-Tonsley
+None.
 
 
 General Amendments:
 
-1) Stop coordinates updated for Stop 28 Seaview Rd - West side.
-2) Stop coordinates updated for Stop 35 Jacobsen Cres (both sides).
-3) Stop 77 Coventry Rd has been decomissioned (removed) on both sides. This affects route AO29.
-4) Stop H Grenfell St removed from routes J1, J2 and 162.
+1) Stop 81 and 82 Hurling Dr coordinates changed. This affects routes 838H, 839 and 839R.
+2) Missing 645 and 681 trips have been added.
+3) Duplicate trips for 861 have been removed.
+4) Trips ending on July 19th have been removed.
+5) Calendar validity dates extended to October 31 - now includes exceptions for October school holiday trips and October 6 public holiday.
