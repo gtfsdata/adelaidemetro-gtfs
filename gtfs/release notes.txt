@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	21-07-2014
-Valid From:	21-07-2014
-Valid To:	31-10-2014
+Feed Created: 	08-08-2014
+Valid From:	08-08-2014
+Valid To:	30-11-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,7 +10,7 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-None.
+1) AFL Round 23 (Sunday, 31st August) trips have been added
 
 
 Detours:
@@ -20,13 +20,11 @@ None.
 
 Service Updates:
 
-None.
+None. 
 
 
 General Amendments:
 
-1) Stop 81 and 82 Hurling Dr coordinates changed. This affects routes 838H, 839 and 839R.
-2) Missing 645 and 681 trips have been added.
-3) Duplicate trips for 861 have been removed.
-4) Trips ending on July 19th have been removed.
-5) Calendar validity dates extended to October 31 - now includes exceptions for October school holiday trips and October 6 public holiday.
+1) Coordinates for Stop G2 Grenfell St have been changed. This affects routes 820, 820S, 830F, 840X, 841F, 860F, 861, 863, 863F, 864, 864F, 865, 928, H20, H20C, H21, H22, H23, H24, H32, N22, N864, T840, T842, T842, T863.
+
+2) Stop S1 North Tce added to route 117.
