@@ -57,6 +57,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 208B,7,208B,City to Broadview,"Terminates at stop 19 Regency Road, Broadview.",3,http://www.adelaidemetro.com.au/routes/208,85AA8E,ffffff,204-208-528
 208N,7,208N,City to Northgate,"Terminates at stop 27B Fosters Road, Northgate.",3,http://www.adelaidemetro.com.au/routes/208,85AA8E,ffffff,204-208-528
 209F,7,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,808284,ffffff,202-202F-203-203F-209F-N202
+21W,7,21W,Show Shuttle Bus,"City to Adelaide Showground.",3,http://www.adelaidemetro.com.au/routes/21W,4b711c,ffffff,21W
 222,4,222,Mawson Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/222,00a261,ffffff,222
 222R,4,222R,City to Mawson Lakes,"via Roma Mitchell Secondary College. Operates school days only.",3,http://www.adelaidemetro.com.au/routes/222,7bc142,ffffff,222
 224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,f7b2bf,000000,224-224F-224X-226F-N224
@@ -73,6 +74,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 229,4,229,Para Hills to Gepps Cross,"via Pooraka. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
 229F,4,229F,Para Hills to city,"via Pooraka & Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
 229X,4,229X,Para Hills to city ,"via Pooraka & Main North Road. Service operates express from stop 29 Main North Road to stop 4 O'Connell Street. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
+22W,7,22W,O-Bahn Show Express Bus,"via Tea Tree Plaza Interchange, Paradise Interchange and Klemzig Station to Adelaide Showground. Limited services depart from Golden Grove Village Interchange.",3,http://www.adelaidemetro.com.au/routes/22W,4b711c,ffffff,22W
 230,5,230,Port Adelaide Interchange to City,"via Addison Road & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/230,26318b,ffffff,230-232
 232,5,232,Port Adelaide Interchange to City,"via Newcastle Street & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/232,94a1a9,ffffff,230-232
 232R,5,232R,City to Rosewater,"Terminates at Stop 36 Grand Junction Road, Rosewater.",3,http://www.adelaidemetro.com.au/routes/232,94a1a9,ffffff,230-232
@@ -420,6 +422,7 @@ OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,ht
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-OSBORN-GRNG
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
 SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/Seaford,0065a4,ffffff,SEAFRD-TONS
+SHOWC,2,SHOWC,Royal Show Train Shuttle,"Adelaide Railway Station to Adelaide Showground Station.",2,http://www.adelaidemetro.com.au/routes/Show Central,4b711c,ffffff,
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 T721X,4,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop express service operates Monday-Friday. T721X buses operate express between stop 48 Main South Road to stop B1 Grote Street, City. No pick up or set down.",3,http://www.adelaidemetro.com.au/routes/T721X,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 T722,4,T722,Seaford Centre to City ,"via Southern Expressway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T722,530072,ffffff,722-722F-722X-T722
