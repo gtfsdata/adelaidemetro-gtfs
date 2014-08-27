@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	25-08-2014
-Valid From:	25-08-2014
+Feed Created: 	27-08-2014
+Valid From:	27-08-2014
 Valid To:	30-11-2014
 
 
@@ -26,3 +26,9 @@ Service Updates:
 General Amendments:
 
 1) Stop 76E Alexandrina Rd - South side added to route 838.
+
+2) Route 744 now services Stops 47 and 47A on the East side of the road - previously had it servicing the West which is incorrect.
+
+3) Some touch-ups have been made to the Royal Show Train shuttles - added a missing trip, amended the 22:14 service from Goodwood Station to Adelaide.
+
+4) Stop coordinates for Stop C1 North Tce have been updated. 
