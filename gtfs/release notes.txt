@@ -1,0 +1,32 @@
+Adelaide Metro GTFS Release Notes
+
+Feed Created: 	22-09-2014
+Valid From:	22-09-2014
+Valid To:	30-11-2014
+
+
+The following is a list of changes from the previous GTFS feed:
+
+
+Special Events:
+
+None.
+
+
+Detours:
+
+None.
+
+
+Service Updates:
+
+1) Stop 40 Old South Rd (stop code 15577) has changed co-ordinates. This affects routes 721, 721F, 721X, 722, 722F, 722X, 777, 783, N721 and T721. Affects services on the UP only.
+
+
+General Amendments:
+
+1) Timepoint changed for routes 591A and 593A. Timepoint Hail N Ride Reuben Richardson Rd / Silcock Cir (stop code 17462) has changed to Hail N Ride Reuben Richardson Rd / Rifle Range Rd (stop code 17461) to better align with timetable and dsheets.
+
+2) Stop 92 added to Park Lake Blvd. Affects route 442.
+
+3) A handful of trips have been changed to operate on school days only in preparation for the September/October School Holidays. These trips now match the public timetables and operational shifts.
