@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	22-09-2014
-Valid From:	22-09-2014
-Valid To:	30-11-2014
+Feed Created: 	29-09-2014
+Valid From:	29-09-2014
+Valid To:	31-12-2014
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -10,7 +10,22 @@ The following is a list of changes from the previous GTFS feed:
 
 Special Events:
 
-None.
+1) From October 12th, there will be a very minor service change. Here are the affected timetables:
+
+Belair
+Belair train will begin to service Millswood Railway Station. Blackwood train will be discontinued.
+
+600-601-605-G30-694
+Time changes for the 600, 601 and 605 routes. No changes to G30 or 694.
+
+404-405
+Route 405R has been removed due to council civil works resulting in the bus being unable to turn left out of Lobelia Dr. Additional 404R trips have been added to ensure the same level of frequency at The Gardens Retirement Village. Some slight time changes across the 404 and 405 routes.
+
+415-430
+Time changes.
+
+451-452-461-462
+Time changes for routes 451 and 452. Route 462 has had time changes and a slight change in route path in the Angle Vale area - does not affect the stop serviced by the route. Route 461 unchanged.
 
 
 Detours:
@@ -20,13 +35,16 @@ None.
 
 Service Updates:
 
-1) Stop 40 Old South Rd (stop code 15577) has changed co-ordinates. This affects routes 721, 721F, 721X, 722, 722F, 722X, 777, 783, N721 and T721. Affects services on the UP only.
+None.
 
 
 General Amendments:
 
-1) Timepoint changed for routes 591A and 593A. Timepoint Hail N Ride Reuben Richardson Rd / Silcock Cir (stop code 17462) has changed to Hail N Ride Reuben Richardson Rd / Rifle Range Rd (stop code 17461) to better align with timetable and dsheets.
+1) Stop 79D Peachey Rd - East side has been renamed to Stop 79D Newton Bvd - south side. This stop has always been on Newton Bvd but was misnamed.
 
-2) Stop 92 added to Park Lake Blvd. Affects route 442.
+2) Stop coordinates changed for Stops 79E & 79D on Newton Bvd - both South side only.
 
-3) A handful of trips have been changed to operate on school days only in preparation for the September/October School Holidays. These trips now match the public timetables and operational shifts.
+3) Stop coordinates change for stops 79C & 79B Peachey Rd - both East side only.
+
+4) Stops 33A and 31A Main Rd added to route 694.
+
