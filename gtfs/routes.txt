@@ -135,7 +135,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 404,4,404,Salisbury to Paralowie - Anti-clockwise loop,"Vvia Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/404,ee891c,ffffff,404-405
 404R,4,404R,Salisbury to Paralowie - Anti-clockwise loop,"Via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/404R,ee891c,ffffff,404-405
 405,4,405,Salisbury to Paralowie - Clockwise loop,"Via Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/405,a8c28f,ffffff,404-405
-405R,4,405R,Salisbury to Paralowie - Clockwise loop,"Via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/405R,a8c28f,ffffff,404-405
+405R,4,405R,Salisbury to Paralowie - Clockwise loop,"Via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/405R,a8c28f,ffffff,
 407,4,407,Waterloo Corner to Elizabeth Interchange,"via Virginia.",3,http://www.adelaidemetro.com.au/routes/407,006893,ffffff,407
 411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens. Limited services commences from UniSA Mawson Lakes Campus. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
 411B,4,411B,Mawson Interchange to Salisbury Interchange,"Terminates at Salisbury Interchange.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
@@ -362,7 +362,6 @@ HL1,6,HL1,Hahndorf to Mount Barker Township Loop,"Hahnorf loop services. Service
 HL2,6,HL2,Hahndorf to Mount Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/HL2,fec220,000000,HL1-HL2
 J1,5,J1,Glenelg Interchange to City ,"via Harbour Town Centre Interchange, Adelaide Airport & Sir Donald Bradman Drive. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J1,c78d86,ffffff,J1-J1X-J2-162
 J1A,5,J1A,City to Adelaide Airport,"Terminates at Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1,c78d86,ffffff,J1-J1X-J2-162
-J1X,5,J1X,Adelaide Airport to City,"Express between Adelaide Airport & City.  Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/J1X,c78d86,ffffff,J1-J1X-J2-162
 J2,5,J2,Harbour Town Centre Interchange to City,"via West Beach, Adelaide Airport & Sir Donald Bradman Drive. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J2,f1df00,000000,J1-J1X-J2-162
 J7,5,J7,West Lakes Centre Interchange to Marion Centre Interchange,"via Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J7,008f61,ffffff,J7-J8-371-372
 J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens Rd, Arndale Centre Interchange, Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J8,008f61,ffffff,J7-J8-371-372

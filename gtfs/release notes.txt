@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	03-10-2014
-Valid From:	03-10-2014
+Feed Created: 	09-10-2014
+Valid From:	09-10-2014
 Valid To:	31-12-2014
 
 
@@ -28,9 +28,6 @@ Time changes.
 451-452-461-462
 Time changes for routes 451 and 452. Route 462 has had time changes and a slight change in route path in the Angle Vale area - does not affect the stop serviced by the route. Route 461 unchanged.
 
-J1-J2-162-J1X
-New route J1X will operate express from the airport to the city and vice versa. No changes to routes J1, J2 and 162.
-
 
 Detours:
 
@@ -39,28 +36,10 @@ None.
 
 Service Updates:
 
-
-1) Gawler Central train has a handful of updates:
-
-- trip departing Adelaide at 7:21am on Saturdays only now operates on Sundays & public holidays as well.
-- trip departing Adelaide at 6:03am on weekdays has been extended to Gawler Central
-- trip departing Gawler to Gawler Central at 7:02am on weekdays has been removed due to the 6:03am trip extension
-- trip departing Gawler Central at 6.24am on Saturdays only now operates on Sundays & public holidays as well.
+None.
 
 
 General Amendments:
 
 
-1) Stop 79D Peachey Rd - East side has been renamed to Stop 79D Newton Bvd - south side. This stop has always been on Newton Bvd but was misnamed.
-
-2) Stop coordinates changed for Stops 79E & 79D on Newton Bvd - both South side only.
-
-3) Stop coordinates change for stops 79C & 79B Peachey Rd - both East side only.
-
-4) Stops 33A and 31A Main Rd added to route 694.
-
-5) 506 travelling from Tea Tree Plaza to the City will now only service Zone B Paradise Interchange between 7am-9am on Weekdays. All other times it will service Zone C instead.
-
-6) Some instances of route 404 was servicing stop 50P Vindana Rd and Stop 43 Martins Rd on the wrong side. This has been changed to the correct side of the road to match Shape.
-
-7) Minor updates to trips for routes 733 and 747 which travel to/from Cardijn College at certain times of the day. Changed the way the routes go to/from Cardijn College. Stop 65 Goldsmith Dr has also been renamed to "Stop School Cardijn College".
+None.
