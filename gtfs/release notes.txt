@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	09-10-2014
-Valid From:	09-10-2014
+Feed Created: 	13-10-2014
+Valid From:	13-10-2014
 Valid To:	31-12-2014
 
 
@@ -11,35 +11,21 @@ The following is a list of changes from the previous GTFS feed:
 Special Events:
 
 
-1) From October 12th, there will be a very minor service change. Here are the affected timetables:
-
-Belair
-Belair train will begin to service Millswood Railway Station. Blackwood train will be discontinued.
-
-600-601-605-G30-694
-Time changes for the 600, 601 and 605 routes. No changes to G30 or 694.
-
-404-405
-Route 405R has been removed due to council civil works resulting in the bus being unable to turn left out of Lobelia Dr. Additional 404R trips have been added to ensure the same level of frequency at The Gardens Retirement Village. Some slight time changes across the 404 and 405 routes.
-
-415-430
-Time changes.
-
-451-452-461-462
-Time changes for routes 451 and 452. Route 462 has had time changes and a slight change in route path in the Angle Vale area - does not affect the stop serviced by the route. Route 461 unchanged.
+1) A-League match at Adelaide Oval on Friday, 17 October. There will be AO/AOX services in operation for the event.
+2) Rollingstones concert at Adelaide Oval on Saturday, 25th October. There will be AO/AOX services in operation for the event. There will also be a special tram timetable for the day, as well as some additional train services.
 
 
 Detours:
+
 
 None.
 
 
 Service Updates:
 
-None.
-
+1) Removed trips that have become redundant from October 12 service changes.
+2) Stop 7 South Rd - West side has been decomissioned and removed from routes B10 and B12.
 
 General Amendments:
-
 
 None.
