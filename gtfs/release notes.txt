@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	13-10-2014
-Valid From:	13-10-2014
+Feed Created: 	20-10-2014
+Valid From:	20-10-2014
 Valid To:	31-12-2014
 
 
@@ -11,8 +11,9 @@ The following is a list of changes from the previous GTFS feed:
 Special Events:
 
 
-1) A-League match at Adelaide Oval on Friday, 17 October. There will be AO/AOX services in operation for the event.
-2) Rollingstones concert at Adelaide Oval on Saturday, 25th October. There will be AO/AOX services in operation for the event. There will also be a special tram timetable for the day, as well as some additional train services.
+1) Rollingstones concert at Adelaide Oval on Saturday, 25th October. There will be AO/AOX services in operation for the event. There will also be a special tram timetable for the day, as well as some additional train services.
+
+2) Special tram timetable for the Melbourne Cup on Tuesday, November 4th. Services will stop at Morphettville Racecourse for the event.
 
 
 Detours:
@@ -23,9 +24,17 @@ None.
 
 Service Updates:
 
-1) Removed trips that have become redundant from October 12 service changes.
-2) Stop 7 South Rd - West side has been decomissioned and removed from routes B10 and B12.
+None.
+
 
 General Amendments:
 
-None.
+1) There are two Stop 18s on Regency Rd. Previously, the 300 bus route had been assigned to Stop 18, Regency Park as a timepoint. This has been changed to Stop 18, Sefton Park. As a result, this means there are time changes along Regency Rd for the 300 bus routes, but more accurately reflects how route actually operates.
+
+2) Several bus stop spelling and grammar errors have been fixed. This includes corrections to road type labels as well (for example, Stop 27E Sir Ross Smith Av has been corrected to Stop 27E Sir Ross Smith Bvd).
+
+3) Stop 11 Victoria Av - East side has been removed from the 200 and 200B bus routes. The stop does not exist.
+
+4) Routes G10, 235 and 208B have a few trips which continue to / start from Roma Mitchell Secondary School. These trips have had additional bus stops added to them between the last two timepoints. For example, the 208B trip now displays stops serviced along Grand Junction Rd when going to the school.
+
+5) A minor change has been made to how the 254X to more accurately show how the bus enters and exits Arndale Centre Interchange. Change has been applied to services traveling from City to Port Adelaide. Data updated in shapes.txt only.
