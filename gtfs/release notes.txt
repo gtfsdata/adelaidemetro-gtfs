@@ -1,7 +1,7 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	27-10-2014
-Valid From:	27-10-2014
+Feed Created: 	31-10-2014
+Valid From:	31-10-2014
 Valid To:	31-12-2014
 
 
@@ -15,7 +15,7 @@ Special Events:
 
 2) The Outer Harbor rail line will be closed on November 1-2 due to maintainence. Trains will still operate between Adelaide and Woodville. For the Woodville to Outer Harbor portion of the line, there will be H1 and H3 substitue buses in operation. Grange trains will still operate.
 
-3) The Adelaide People's Choice Credit Union Christmas Pageant will be on Saturday, November 8th. There will be a unique tram timetable for the event. More data for additional bus and train services will be released soon.
+3) The Adelaide People's Choice Credit Union Christmas Pageant will be on Saturday, November 8th. There will be a unique tram timetable for the event. Additional train and bus services will also be in operation on the day.
 
 4) There will be a T-20 Cricket match on Wednesday, November 5th at Adelaide Oval. It's expected there will be crowds exceeding 30,000 people. There are AO/AOX services operating for the event to meet demand on public transport.
 
@@ -28,9 +28,9 @@ None.
 
 Service Updates:
 
-1) J1X is a new service that comes into operation from Monday, November 10th. This service operates express from the Airport to the city on weekdays. GTFS data has been released.
+None.
 
 
 General Amendments:
 
-1) Stop 37A Henderson Ave - East side added to route 565.
+None.
