@@ -1,8 +1,8 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	31-10-2014
-Valid From:	31-10-2014
-Valid To:	31-12-2014
+Feed Created: 	07-11-2014
+Valid From:	07-11-2014
+Valid To:	28-02-2015
 
 
 The following is a list of changes from the previous GTFS feed:
@@ -11,13 +11,7 @@ The following is a list of changes from the previous GTFS feed:
 Special Events:
 
 
-1) Special tram timetable for the Melbourne Cup on Tuesday, November 4th. Services will stop at Morphettville Racecourse for the event.
-
-2) The Outer Harbor rail line will be closed on November 1-2 due to maintainence. Trains will still operate between Adelaide and Woodville. For the Woodville to Outer Harbor portion of the line, there will be H1 and H3 substitue buses in operation. Grange trains will still operate.
-
-3) The Adelaide People's Choice Credit Union Christmas Pageant will be on Saturday, November 8th. There will be a unique tram timetable for the event. Additional train and bus services will also be in operation on the day.
-
-4) There will be a T-20 Cricket match on Wednesday, November 5th at Adelaide Oval. It's expected there will be crowds exceeding 30,000 people. There are AO/AOX services operating for the event to meet demand on public transport.
+1) The Adelaide People's Choice Credit Union Christmas Pageant will be on Saturday, November 8th. There will be a unique tram timetable for the event. Additional train and bus services will also be in operation on the day.
 
 
 Detours:
@@ -28,9 +22,9 @@ None.
 
 Service Updates:
 
-None.
+1) Feed validity extended until 28 February 2015.
 
 
 General Amendments:
 
-None.
+1) calendar_dates.txt file updated so that School Holiday only trips no longer operate during Christmas and New Year holidays (affects service ids 31, 36, 37, 46 & 47).
