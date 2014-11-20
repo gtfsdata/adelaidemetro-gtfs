@@ -1,17 +1,12 @@
 Adelaide Metro GTFS Release Notes
 
-Feed Created: 	07-11-2014
-Valid From:	07-11-2014
-Valid To:	28-02-2015
-
-
 The following is a list of changes from the previous GTFS feed:
 
 
 Special Events:
 
 
-1) The Adelaide People's Choice Credit Union Christmas Pageant will be on Saturday, November 8th. There will be a unique tram timetable for the event. Additional train and bus services will also be in operation on the day.
+None.
 
 
 Detours:
@@ -22,9 +17,15 @@ None.
 
 Service Updates:
 
-1) Feed validity extended until 28 February 2015.
+1) Adelaide Metro GTFS now contains a feed_info.txt file. This file has been implemented to better monitor changes in the GTFS via the feed_version field. The feed start and end dates are also now in this file instead of the Release Notes.
+
+2) agency_id has changed for all Hills buses. This is due to some internal requirements for the Metrocard system.
 
 
 General Amendments:
 
-1) calendar_dates.txt file updated so that School Holiday only trips no longer operate during Christmas and New Year holidays (affects service ids 31, 36, 37, 46 & 47).
+1) GTFS has been updated to reflect special operational rules for the Christmas period. This includes services not operating between Christmas Day and New Year's Day, services not operating during the December and January school holidays and special services that operate only during the holidays (i.e., G40C).
+
+2) 600, 600B, 601, 601B and 605 trips were missing for Saturday and Sunday. These have been replaced.
+
+3) Shape files (shapes.txt) for J1, J2, J7 and J8 have been improved. Specifically, the improvements are at Adelaide Airport - the shapes now more accurately travel on the roads.
