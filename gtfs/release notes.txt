@@ -6,7 +6,11 @@ The following is a list of changes from the previous GTFS feed:
 Special Events:
 
 
-None.
+1) During the period of December 22nd to January 2nd, there will be frequency reductions across all Adelaide Metro services. Please see www.adelaidemetro.com.au for more information.
+
+2) There will be additional services in operation for New Year's Eve. Many of these additional services still need to be added to the GTFS, but for the moment we have included the tram timetable and hills buses. Please see www.adelaidemetro.com.au for more information.
+
+3) Tram will be running on a unique timetable for 26th December.
 
 
 Detours:
@@ -17,15 +21,4 @@ None.
 
 Service Updates:
 
-1) Adelaide Metro GTFS now contains a feed_info.txt file. This file has been implemented to better monitor changes in the GTFS via the feed_version field. The feed start and end dates are also now in this file instead of the Release Notes.
-
-2) agency_id has changed for all Hills buses. This is due to some internal requirements for the Metrocard system.
-
-
-General Amendments:
-
-1) GTFS has been updated to reflect special operational rules for the Christmas period. This includes services not operating between Christmas Day and New Year's Day, services not operating during the December and January school holidays and special services that operate only during the holidays (i.e., G40C).
-
-2) 600, 600B, 601, 601B and 605 trips were missing for Saturday and Sunday. These have been replaced.
-
-3) Shape files (shapes.txt) for J1, J2, J7 and J8 have been improved. Specifically, the improvements are at Adelaide Airport - the shapes now more accurately travel on the roads.
+None.
