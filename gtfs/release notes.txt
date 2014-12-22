@@ -8,7 +8,7 @@ Special Events:
 
 1) During the period of December 22nd to January 2nd, there will be frequency reductions across all Adelaide Metro services. Please see www.adelaidemetro.com.au for more information.
 
-2) There will be additional services in operation for New Year's Eve. Many of these additional services still need to be added to the GTFS, but for the moment we have included the tram timetable and hills buses. Please see www.adelaidemetro.com.au for more information.
+2) There will be additional services in operation for New Year's Eve. Please see www.adelaidemetro.com.au for more information.
 
 3) Tram will be running on a unique timetable for 26th December.
 
@@ -21,4 +21,6 @@ None.
 
 Service Updates:
 
-None.
+1) Two 300H trips have been removed as they only operate during School Term.
+
+2) Added all additional services that are in operation during New Year's Eve.
