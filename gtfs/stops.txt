@@ -2737,7 +2737,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3072,12964,Stop 29 Frederick Rd - West side,,-34.9053194585546,138.5054348769,,http://www.adelaidemetro.com.au/stops/view/12964,,,,
 3073,12965,Stop 21A St Bernards Rd - West side,,-34.9052956670923,138.675386474303,,http://www.adelaidemetro.com.au/stops/view/12965,,,,
 3074,12966,Stop 207 Holbrooks Rd - East side,,-34.905411937874,138.551065848135,,http://www.adelaidemetro.com.au/stops/view/12966,,,,
-3075,12967,Stop 22 Grange Rd - North side,,-34.90536,138.53307,,http://www.adelaidemetro.com.au/stops/view/12967,,,,
+3075,12967,Stop 22 Grange Rd - North side,,-34.905428,138.531551,,http://www.adelaidemetro.com.au/stops/view/12967,,,,
 3076,12968,Stop 5A Jeffcott St - East side,,-34.9053885922022,138.59101055955,,http://www.adelaidemetro.com.au/stops/view/12968,,,,
 3077,12969,Stop 22 Grange Rd - South side,,-34.9055412492055,138.533147174996,,http://www.adelaidemetro.com.au/stops/view/12969,,,,
 3078,12970,Stop 5 Mann Rd - South West side,,-34.9056177820311,138.61151981264,,http://www.adelaidemetro.com.au/stops/view/12970,,,,

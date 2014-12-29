@@ -337,7 +337,8 @@ G21X,7,G21X,Old Reynella Interchange to City,"via Aberfoyle Hub. Express service
 G22,7,G22,Aberfoyle Hub to City,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22,e46e2c,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22-320-N10-N21
 G30,7,G30,Blackwood Station to City,"via Main Road & Goodwood Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G30,599137,ffffff,600-601-605-694-G30
 G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,7894A3,ffffff,G40
-G40M,7,G40M,Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40,7894A3,ffffff,G40
+G40C,7,G40C,Tea Tree Plaza to City,"Operates during December and January school holidays only.",3,http://www.adelaidemetro.com.au/routes/G40C,7894A3,ffffff,G40
+G40M,7,G40M,Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,7894A3,ffffff,G40
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,b45240,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,b45240,ffffff,GAWC-GAW-SALIS
 GLAN,2,GLAN,Glanville to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
