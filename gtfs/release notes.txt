@@ -1,14 +1,17 @@
 Adelaide Metro GTFS Release Notes
 
-The following is a list of changes from the previous GTFS feed:
+The following is a list of changes and upcoming events:
+
+
+Upcoming Public Holidays:
+
+January 26, 2015 - Australia Day
+March 9, 2015 - Adelaide Cup
 
 
 Special Events:
 
-
-1) During the period of December 22nd to January 2nd, there will be frequency reductions across all Adelaide Metro services. Please see www.adelaidemetro.com.au for more information.
-
-2) There will be additional services in operation for New Year's Eve. Please see www.adelaidemetro.com.au for more information.
+1) On January 26th (Australia Day), the tram will be operating to a special timetable.
 
 
 Detours:
@@ -19,6 +22,4 @@ None.
 
 Service Updates:
 
-1) Stop 22 Grange Rd - North side has changed coordinates. Route 300 now services this bus stop as it is just before Findon Rd where the bus turns off.
-
-2) Some minor updates to services for New Year's Eve - added additional trips that had been missed previously.
+1) January service changes to commence from January 25, 2015. Approx. 80 timetables will be affected by the service change. Detailed information can be found here: http://adelaidemetro.com.au/Announcements/Planned-Disruptions/Sunday-25-January-2015-Service-Changes
