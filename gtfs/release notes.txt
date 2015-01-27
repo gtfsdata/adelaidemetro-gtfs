@@ -5,21 +5,19 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-January 26, 2015 - Australia Day
 March 9, 2015 - Adelaide Cup
 
 
 Special Events:
 
-1) On January 26th (Australia Day), the tram will be operating to a special timetable.
+None.
 
 
 Detours:
-
 
 None.
 
 
 Service Updates:
 
-1) January service changes to commence from January 25, 2015. Approx. 80 timetables will be affected by the service change. Detailed information can be found here: http://adelaidemetro.com.au/Announcements/Planned-Disruptions/Sunday-25-January-2015-Service-Changes
+1) Data that has become obsolete from January 25th, 2015 has been removed from the Adelaide Metro GTFS.
