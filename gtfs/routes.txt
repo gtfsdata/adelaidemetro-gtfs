@@ -333,6 +333,29 @@ C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange.
 C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1-N1T
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1-N1T
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1-N1T
+FX1,7,FX1,Golden Grove Village to AAMI Stadium,"via Adelaide O-Bahn.",3,http://www.adelaidemetro.com.au/routes/FX1,4b711c,ffffff,
+FX10,5,FX10,Norwood Oval to AAMI Stadium,"Express to AAMI Stadium.",3,http://www.adelaidemetro.com.au/routes/FX10,4b711c,ffffff,
+FX11,5,FX11,UniSA Magill Campus to AAMI Stadium (Crows games only),"via Magill Rd.",3,http://www.adelaidemetro.com.au/routes/FX11,4b711c,ffffff,
+FX12,4,FX12,Aldgate to AAMI Stadium,"via Stirling & Crafers.",3,http://www.adelaidemetro.com.au/routes/FX12,4b711c,ffffff,
+FX13,4,FX13,Mt Barker to AAMI Stadium,"via Hahndorf & Bridgewater.",3,http://www.adelaidemetro.com.au/routes/FX13,4b711c,ffffff,
+FX14,7,FX14,Belair to AAMI Stadium,"via Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/FX14,4b711c,ffffff,
+FX15,7,FX15,Torrens Park to AAMI Stadium,"via Unley Rd.",3,http://www.adelaidemetro.com.au/routes/FX15,4b711c,ffffff,
+FX16,7,FX16,Adelaide Shores to AAMI Stadium,"via Military Road.",3,http://www.adelaidemetro.com.au/routes/FX16,4b711c,ffffff,
+FX17,7,FX17,Morphettville Depot to AAMI Stadium,"via Marion & Henley Beach Roads.",3,http://www.adelaidemetro.com.au/routes/FX17,4b711c,ffffff,
+FX18,4,FX18,South Adelaide Football Club to AAMI Stadium,"via Old Reynella, Marion & Glenelg Oval.",3,http://www.adelaidemetro.com.au/routes/FX18,4b711c,ffffff,
+FX19,4,FX19,Seaford Shopping Centre to AAMI Stadium,"via Hallett Cove, Brighton Railway Station & Glenelg Oval.",3,http://www.adelaidemetro.com.au/routes/FX19,4b711c,ffffff,
+FX2,7,FX2,St Agnes Depot to AAMI Stadium,"via Adelaide O-Bahn.",3,http://www.adelaidemetro.com.au/routes/FX2,4b711c,ffffff,
+FX20,7,FX20,Aberfoyle Hub to AAMI Stadium,"via Black Rd, Flagstaff Rd & South Rd.",3,http://www.adelaidemetro.com.au/routes/FX20,4b711c,ffffff,
+FX21,4,FX21,Woodcroft Community Centre to AAMI Stadium,"via Happy Valley & South Rd.",3,http://www.adelaidemetro.com.au/routes/FX21,4b711c,ffffff,
+FX22,5,FX22,City to AAMI Stadium,"via Port Rd.",3,http://www.adelaidemetro.com.au/routes/FX22,4b711c,ffffff,
+FX23,4,FX23,Mawson Interchange to AAMI Stadium,"via Main North Rd.",3,http://www.adelaidemetro.com.au/routes/FX23,4b711c,ffffff,
+FX3,7,FX3,Clovercrest Shopping Centre to AAMI Stadium,"via Regency Rd.",3,http://www.adelaidemetro.com.au/routes/FX3,4b711c,ffffff,
+FX4,4,FX4,Elizabeth Station to AAMI Stadium,"via Brahma Lodge.",3,http://www.adelaidemetro.com.au/routes/FX4,4b711c,ffffff,
+FX5,4,FX5,Elizabeth Oval to AAMI Stadium,"via Salisbury Highway.",3,http://www.adelaidemetro.com.au/routes/FX5,4b711c,ffffff,
+FX6,4,FX6,Salisbury North Football Club to AAMI Stadium,"via Paralowie & Hollywood Plaza.",3,http://www.adelaidemetro.com.au/routes/FX6,4b711c,ffffff,
+FX7,4,FX7,Davoren Park to AAMI Stadium,"via Smithfield, Munno Para, Para Hills Shops & Bridge Road.",3,http://www.adelaidemetro.com.au/routes/FX7,4b711c,ffffff,
+FX8,5,FX8,Alberton Oval to AAMI Stadium (Power games only),"Express to AAMI Stadium.",3,http://www.adelaidemetro.com.au/routes/FX8,4b711c,ffffff,
+FX9,5,FX9,Port Adelaide to AAMI Stadium,"via Outer Harbor.",3,http://www.adelaidemetro.com.au/routes/FX9,4b711c,ffffff,
 G10,7,G10,Marion Centre Interchange to Blair Athol ,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
@@ -378,21 +401,6 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,7,M44,Marion Centre Interchange to Golden Grove Village Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44-M44X
 M44C,7,M44C,Marion Centre Interchange / Tea Tree Plaza Interchange to city ,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace. When travelling from Golden Grove Village Interchange M44C terminates at Stop VS1 Victoria Square, City.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44-M44X
 M44T,7,M44T,Marion Centre Interchange/Golden Grove Village Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44-M44X
-N1,7,N1,After Midnight Saturday PM - Sunday AM Golden Grove Village Interchange & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N1,FBB12E,000000,C1-C1T-C1X-C2-C2X-N1-N1T
-N10,7,N10,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Goodwood Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N10,FBB12E,000000,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-N178,5,N178,After Midnight Saturday PM - Sunday AM Newton to City,"via Montacute Road & Payneham Road. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N178,FBB12E,000000,174-176-178-178X-579-N178
-N202,7,N202,After Midnight Saturday PM - Sunday AM Ingle Farm to City,"via Hampstead Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N202,7bc142,ffffff,202-202F-203-203F-209F-N202
-N21,7,N21,After Midnight Saturday PM - Sunday AM City to Aberfoyle Hub,"via Goodwood Road & Marion Centre Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N21,007387,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,,3,http://www.adelaidemetro.com.au/routes/N22,B17827,ffffff,H22-H23-H24-H32-N22
-N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,006c64,ffffff,224-224F-224X-226F-N224
-N254,7,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,006c64,ffffff,253-253X-254-254X-N254
-N262,7,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,006c64,ffffff,262-262F-263-265-N262
-N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,255AAA,ffffff,H30-X30-N30
-N502,7,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,D6DF23,000000,500-501-502-502X-N502
-N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via Tea Tree Plaza Interchange, Paradise Interchange & Klemzig Station. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,A0CC42,000000,541-541X-N541
-N542,7,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,A0CC42,ffffff,542-542X-N542-N541
-N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,006c64,ffffff,721-721F-721X-T721-T721X-N721
-N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,c60845,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/outha,936eb0,ffffff,OUTHA-OSBORN-GRNG
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,936eb0,ffffff,OUTHA-OSBORN-GRNG
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,b45240,ffffff,GAWC-GAW-SALIS
