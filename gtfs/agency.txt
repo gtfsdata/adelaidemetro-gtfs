@@ -1,7 +1,7 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
 2,Adelaide Metro (Rail Commissioner),http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 4,Adelaide Metro (SouthLink),http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
+41,Adelaide Metro (School Service - SouthLink),http://adelaidemetro.com.au/Timetables-Maps/Special-Services/School-Services,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 5,Adelaide Metro (Torrens Transit),http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 6,Adelaide Metro (Hills),http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 7,Adelaide Metro (Light City Buses),http://adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
-41,Adelaide Metro (School Service - SouthLink),http://www.adelaidemetro.com.au/Timetables-Maps/Special-Services/School-Services,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets

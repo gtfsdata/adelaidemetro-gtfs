@@ -17,11 +17,7 @@ Special Events:
 
 1) From 12th February until 15th March, additional 99A & 99C trips will be in operation due to the Fringe.
 
-2) One Direction concert at AAMI Stadium on Tuesday, February 17th. There will be FX Services traveling to the stadium.
-
-3) Soundwave music festival on 21st & 22nd February. Special Tram timetable operating during the event.
-
-4) Clipsal 500 weekend on 28th February & 1st March. Special tram timetable operating during the event.
+2) Outer Harbor and Grange train lines will be closed from late PM Friday, 6th March until Tuesday, 10th March. Substitue buses will be in operation for the duration of the closure.
 
 
 Detours:
@@ -36,4 +32,14 @@ None.
 
 General Amendments:
 
-1) 544X going to the city has been updated to not service Paradise Interchange and Klemzig Interchange.
+1) Several routes have has their termination bus stops changed. This applies to buses terminating at Golden Grove Village Interchange, Paradise Interchange and Tea Tree Plaza Interchange.
+
+2) General iImprovements have been made to routes 500, 501 and 502. Operational rules have been set up in the GTFS, including servicing Stop F Grenfell St, Stop 2 Hackney Rd & Stop 29B Sudholz Rd at certain times of the day.
+
+3) Stop 6 Tynte St (both sides) has moved/renamed to Lefevre Tce. This affected routes 98A and 98C.
+
+4) Routes 115, 117 and J8 now service Stop 30 West Lakes Bvd (South side only).
+
+5) Routes 544 and 544X now depart from Zone E at Golden Grove Village Interchange going to the city.
+
+6) Fixed issue with one Grange train trip exceeding 24hrs of operation. Issue only present in GTFS version 510. Resolved in version 511 which was released within a few hours of issue of being found.
