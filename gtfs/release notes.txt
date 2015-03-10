@@ -5,7 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-March 9, 2015 - Adelaide Cup
 April 3, 2015 - Good Friday
 April 4, 2015 - Easter Saturday (public transport running as per normal)
 April 5, 2015 - Easter Sunday (public transport running as per normal)
@@ -16,8 +15,6 @@ April 25, 2015 - Anzac Day
 Special Events:
 
 1) From 12th February until 15th March, additional 99A & 99C trips will be in operation due to the Fringe.
-
-2) Outer Harbor and Grange train lines will be closed from late PM Friday, 6th March until Tuesday, 10th March. Substitue buses will be in operation for the duration of the closure.
 
 
 Detours:
@@ -32,14 +29,4 @@ None.
 
 General Amendments:
 
-1) Several routes have has their termination bus stops changed. This applies to buses terminating at Golden Grove Village Interchange, Paradise Interchange and Tea Tree Plaza Interchange.
-
-2) General iImprovements have been made to routes 500, 501 and 502. Operational rules have been set up in the GTFS, including servicing Stop F Grenfell St, Stop 2 Hackney Rd & Stop 29B Sudholz Rd at certain times of the day.
-
-3) Stop 6 Tynte St (both sides) has moved/renamed to Lefevre Tce. This affected routes 98A and 98C.
-
-4) Routes 115, 117 and J8 now service Stop 30 West Lakes Bvd (South side only).
-
-5) Routes 544 and 544X now depart from Zone E at Golden Grove Village Interchange going to the city.
-
-6) Fixed issue with one Grange train trip exceeding 24hrs of operation. Issue only present in GTFS version 510. Resolved in version 511 which was released within a few hours of issue of being found.
+1) General amendments have been made to all O-Bahn buses (routes in the 500 series, C1, C2, M44 and G40). Most O-Bahn buses will service different stops in the city, at Paradise Interchange and at Tea Tree Plaza depending on the time of day. There are also rules in place for buses to not service Stop 2 Hackney Rd between 8am-9:15am and 4:30pm-6:00pm on weekdays.
