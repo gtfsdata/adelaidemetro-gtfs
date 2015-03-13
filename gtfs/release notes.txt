@@ -6,15 +6,17 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 April 3, 2015 - Good Friday
-April 4, 2015 - Easter Saturday (public transport running as per normal)
-April 5, 2015 - Easter Sunday (public transport running as per normal)
+April 4, 2015 - Easter Saturday
+April 5, 2015 - Easter Sunday
 April 6, 2015 - Easter Monday
 April 25, 2015 - Anzac Day
+June 8, 2015 - Queen's Birthday
 
 
 Special Events:
 
-1) From 12th February until 15th March, additional 99A & 99C trips will be in operation due to the Fringe.
+February 12 until March 15, 2015 - Additional 99A & 99C trips will be in operation due to the Fringe.
+March 20, 2015 - ICC Cricket Quater Final at Adelaide Oval
 
 
 Detours:
@@ -24,9 +26,9 @@ None.
 
 Service Updates:
 
-None.
+1) AO/AOX services
 
 
 General Amendments:
 
-1) General amendments have been made to all O-Bahn buses (routes in the 500 series, C1, C2, M44 and G40). Most O-Bahn buses will service different stops in the city, at Paradise Interchange and at Tea Tree Plaza depending on the time of day. There are also rules in place for buses to not service Stop 2 Hackney Rd between 8am-9:15am and 4:30pm-6:00pm on weekdays.
+1) Route 265 traveling away from the city was servicing Stop 14 Anzac Highway on the incorrect side of the road. This has been fixed.
