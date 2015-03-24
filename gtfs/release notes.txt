@@ -15,8 +15,7 @@ June 8, 2015 - Queen's Birthday
 
 Special Events:
 
-February 12 until March 15, 2015 - Additional 99A & 99C trips will be in operation due to the Fringe.
-March 20, 2015 - ICC Cricket Quater Final at Adelaide Oval
+None.
 
 
 Detours:
@@ -26,9 +25,9 @@ None.
 
 Service Updates:
 
-1) AO/AOX services
-
+None.
 
 General Amendments:
 
-1) Route 265 traveling away from the city was servicing Stop 14 Anzac Highway on the incorrect side of the road. This has been fixed.
+1) Some shape.txt improvements for route 755.
+2) Stop 29 Hanson Rd and Stop 32 Grand Junction Rd removed from route 252.
