@@ -15,7 +15,11 @@ June 8, 2015 - Queen's Birthday
 
 Special Events:
 
-None.
+April 5th, 2015 - AFL Round 1
+April 11th, 2015 - AFL Round 2
+April 18th, 2015 - AFL Round 3
+April 25th, 2015 - AFL Round 4
+May 3rd, 2015 - AFL Round 5
 
 
 Detours:
@@ -25,9 +29,10 @@ None.
 
 Service Updates:
 
-None.
+1) Data for AFL Round 1-5 has been released. This includes data for trains, trams and the AO/AOX buses which will be in operation.
+
 
 General Amendments:
 
-1) Some shape.txt improvements for route 755.
-2) Stop 29 Hanson Rd and Stop 32 Grand Junction Rd removed from route 252.
+1) Zone B Port Adelaide Interchange has been removed. Routes 117 and 118 no longer service this and instead terminate at Zone A.
+2) Some slight time updates to route 300C.
