@@ -29,10 +29,9 @@ None.
 
 Service Updates:
 
-1) Data for AFL Round 1-5 has been released. This includes data for trains, trams and the AO/AOX buses which will be in operation.
+None.
 
 
 General Amendments:
 
-1) Zone B Port Adelaide Interchange has been removed. Routes 117 and 118 no longer service this and instead terminate at Zone A.
-2) Some slight time updates to route 300C.
+1) Modifications made to the AO/AOX data include trip and route data.
