@@ -26,7 +26,7 @@ None.
 
 Service Updates:
 
-1) Additional Before Dawn services will be in operation for ANZAC Day in April 25th. More Before Dawn services will be added to the GTFS soon.
+1) Additional Before Dawn services will be in operation for ANZAC Day in April 25th.
 2) Unquie Tram timetable for April 19th due to the Bay to City Fun Run.
 3) School Holidays are between April 13th-April 24th. Some trips have been "turned off" for this period as they only operate on school days only. Some trips will also operate during school holiday periods only.
 4) From April 26th, there is a new tram timetable.
