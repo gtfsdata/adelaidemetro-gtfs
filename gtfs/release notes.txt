@@ -11,12 +11,20 @@ June 8, 2015 - Queen's Birthday
 
 Special Events:
 
-April 5th, 2015 - AFL Round 1
-April 11th, 2015 - AFL Round 2
-April 18th, 2015 - AFL Round 3
-April 19th, 2015 - Bay to City Fun Run
+April 25th, 2015 - ANZAC Day (Before Dawn services & march)
 April 25th, 2015 - AFL Round 4
 May 3rd, 2015 - AFL Round 5
+May 10th, 2015 - AFL Round 6
+May 16th, 2015 - AFL Round 7
+May 24th, 2015 - AFL Round 8
+May 30th, 2015 - AFL Round 9
+June 6th, 2015 AFL Round 10
+June 12th, 2015 - AFL Round 11
+June 18th, 2015 - AFL Round 12
+July 5th, 2015 - AFL Round 14
+July 9th, 2015 - AFL Round 15
+July 19th, 2015 - AFL Round 16
+July 25th, 2015 - AFL Round 17
 
 
 Detours:
@@ -26,13 +34,17 @@ None.
 
 Service Updates:
 
-1) Additional Before Dawn services will be in operation for ANZAC Day in April 25th.
-2) Unquie Tram timetable for April 19th due to the Bay to City Fun Run.
-3) School Holidays are between April 13th-April 24th. Some trips have been "turned off" for this period as they only operate on school days only. Some trips will also operate during school holiday periods only.
-4) From April 26th, there is a new tram timetable.
-5) From April 26th, the J1X will cease operations. Normal J1, J2 and 162 routes unaffected.
+1) Additional Before Dawn services will be in operation for ANZAC Day on April 25th.
+
+2) School Holidays are between April 13th-April 24th. Some trips have been "turned off" for this period as they only operate on school days only. Some trips will also operate during school holiday periods only.
+
+3) Trip data for AFL Rounds 6-17 has been added to the GTFS.
+
 
 General Amendments:
 
-1) Tram timetable data amended for April 25th due to ANZAC Day and AFL Round 4.
-2) Minor route change for route AO26.
+1) Previously it was advised the tram and J1X timetables would change on April 26th. These changes will no longer occur. Data has been reverted back to "as is" for these services.
+
+2) Updates have been made to route 744. Parts of the route were servicing stops on the incorrect side of the road.
+
+3) Stop 7 South Road (Thebarton) no longer exsists on both sides of the road. Stop removed from route B10, no other services affected.
