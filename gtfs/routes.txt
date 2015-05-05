@@ -6,12 +6,12 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 115,5,115,West Lakes Centre Interchange to City,"via Trimmer Parade & Crittenden Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/115,009290,ffffff,115-117-118
 117,5,117,Port Adelaide Interchange to City,"via Bartley Terrace, West Lakes Centre Interchange & Crittenden Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/117,e20e4f,ffffff,115-117-118
 118,5,118,Port Adelaide Interchange to City,"via Tapleys Hill Road, Crittenden Road & Grange Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/118,959ca1,ffffff,115-117-118
-140,5,140,City to Glen Osmond.,"via Portrush Road & The Parade. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/140,ffd204,000000,140-144-147-148
+140,5,140,City to Glen Osmond.,"via Portrush Road & The Parade. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/140,ffd204,000000,140-144-147
 141,5,141,Stonyfell to City,"via Hallett Road & Kensington Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/141,897967,ffffff,141-142
 142,5,142,Burnside to City,"via Glynburn Road, Tusmore Avenue & Kensington Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/142,642d8a,ffffff,141-142
-144,5,144,Glen Osmond to City,"via Portrush Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/144,7C351F,ffffff,140-144-147-148
-144G,5,144G,City to Toorak Gardens,"Terminates at stop 7 Grant Avenue.",3,http://www.adelaidemetro.com.au/routes/144,7C351F,ffffff,140-144-147-148
-147,5,147,Beaumont to City,"via Devereux Road, Burnside Village & Greenhill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/147,009DDC,ffffff,140-144-147-148
+144,5,144,Glen Osmond to City,"via Portrush Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/144,7C351F,ffffff,140-144-147
+144G,5,144G,City to Toorak Gardens,"Terminates at stop 7 Grant Avenue.",3,http://www.adelaidemetro.com.au/routes/144,7C351F,ffffff,140-144-147
+147,5,147,Beaumont to City,"via Devereux Road, Burnside Village & Greenhill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/147,009DDC,ffffff,140-144-147
 150,5,150,Osborne to City,"via Victoria Road, Fletcher Road, Port Adelaide Interchange & Port Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/150,7e3e97,ffffff,150-350-352-353
 150B,5,150B,City to Largs Bay,"Terminates at stop 48 Fletcher Road - Largs Bay.",3,http://www.adelaidemetro.com.au/routes/150,7e3e97,ffffff,150-350-352-353
 150P,5,150P,City/Largs Bay to Port Adelaide Interchange,"Terminates at Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/150,7e3e97,ffffff,150-350-352-353
@@ -249,7 +249,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 752,4,752,McLaren Flat to McLaren Vale,"via Main Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/752,5a9a98,ffffff,741-750-750X-751-752-755-756
 755,4,755,Aldinga Beach to Seaford Centre,"via Willunga. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/755,e68e19,ffffff,741-750-750X-751-752-755-756
 756,4,756,Port Willunga to Seaford Centre Interchange,"via Willunga. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/756,8a8d05,ffffff,741-750-750X-751-752-755-756
-771,4,771,Woodcroft to Aberfoyle Park High School,"School Service. Via Old Reynella & Happy Valley.",3,http://www.adelaidemetro.com.au/routes/771,006c64,ffffff,
+771,41,771,Woodcroft to Aberfoyle Park High School,"School Service. Via Old Reynella & Happy Valley.",3,http://www.adelaidemetro.com.au/routes/771,006c64,ffffff,
 820,4,820,Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 820S,4,820S,City to Stirling,,3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 821,4,821,Aldgate to Glenunga High School,"via Stirling, Piccadilly,  Greenhill Road, Pembroke School, Burnside Village. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/821,00a9a7,ffffff,820-821

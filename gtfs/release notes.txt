@@ -5,15 +5,11 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-April 25th, 2015 - ANZAC Day
 June 8, 2015 - Queen's Birthday
 
 
 Special Events:
 
-April 25th, 2015 - ANZAC Day (Before Dawn services & march)
-April 25th, 2015 - AFL Round 4
-May 3rd, 2015 - AFL Round 5
 May 10th, 2015 - AFL Round 6
 May 16th, 2015 - AFL Round 7
 May 24th, 2015 - AFL Round 8
@@ -34,17 +30,11 @@ None.
 
 Service Updates:
 
-1) Additional Before Dawn services will be in operation for ANZAC Day on April 25th.
+1) Added calandar dates/exceptions for the July school holiday period.
 
-2) School Holidays are between April 13th-April 24th. Some trips have been "turned off" for this period as they only operate on school days only. Some trips will also operate during school holiday periods only.
-
-3) Trip data for AFL Rounds 6-17 has been added to the GTFS.
+2) Routes J7, J8, 167 and 168 will now service stop 15M on Morphett Rd (both sides). Stop is located just outside of the Torrens Transit Camden Park depot.
 
 
 General Amendments:
 
-1) Previously it was advised the tram and J1X timetables would change on April 26th. These changes will no longer occur. Data has been reverted back to "as is" for these services.
-
-2) Updates have been made to route 744. Parts of the route were servicing stops on the incorrect side of the road.
-
-3) Stop 7 South Road (Thebarton) no longer exsists on both sides of the road. Stop removed from route B10, no other services affected.
+1) 300H service departing Arndale at 7:59am on Sunday morning has been removed. The trip actually commences from Glenelg at 8:57am, still heading towards Glen Osmond.

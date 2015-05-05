@@ -7552,3 +7552,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101651,18741,Stop 141 East Tce - East side,,-34.597109,138.754511,,http://www.adelaidemetro.com.au/stops/view/18741,,,,
 101652,16172,Stop 76B River Rd - East side,,-35.166833,138.501268,,http://www.adelaidemetro.com.au/stops/view/16172,,,,
 101653,16171,Stop 76B River Rd - West side,,-35.166999,138.501156,,http://www.adelaidemetro.com.au/stops/view/16171,,,,
+101656,18746,Stop 15M Morphett Rd - East side,,-34.963198,138.536905,,http://www.adelaidemetro.com.au/stops/view/18746,,,,
+101657,18747,Stop 15M Morphett Rd - West side,,-34.963115,138.536757,,http://www.adelaidemetro.com.au/stops/view/18747,,,,
