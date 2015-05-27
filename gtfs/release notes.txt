@@ -10,9 +10,6 @@ June 8, 2015 - Queen's Birthday
 
 Special Events:
 
-May 10th, 2015 - AFL Round 6
-May 16th, 2015 - AFL Round 7
-May 24th, 2015 - AFL Round 8
 May 30th, 2015 - AFL Round 9
 June 6th, 2015 AFL Round 10
 June 12th, 2015 - AFL Round 11
@@ -30,11 +27,17 @@ None.
 
 Service Updates:
 
-1) Added calandar dates/exceptions for the July school holiday period.
+1) Stop 16A Ferry Ave - West side (going to city) has been removed from routes 245, 248 and 248F. Bus stop has been decomissioned.
 
-2) Routes J7, J8, 167 and 168 will now service stop 15M on Morphett Rd (both sides). Stop is located just outside of the Torrens Transit Camden Park depot.
+2) Parent Stations have been added to all train stations along the Noarlunga and Tonsley lines. Providing testing goes well, Parent Stations will be added to all other train/tram lines.
+
+3) Feed validity dates have been extended to September 27th
 
 
 General Amendments:
 
-1) 300H service departing Arndale at 7:59am on Sunday morning has been removed. The trip actually commences from Glenelg at 8:57am, still heading towards Glen Osmond.
+1) Stop 45A Panalatinga Rd (both sides) were on the wrong side of the road. Routes 722X, 734 and 734S were also associated with the wrong stop in relation to the direction of travel. This has been corrected.
+
+2) 168 weekday inbound departing Moseley Sq at 6:26am had missing times and stops after Stop 16 Hoylake St. This has been fixed.
+
+3) Route 333 going away from Port Adelaide has been updated to service Zone A Glanville Station instead of Zone B.
