@@ -27,17 +27,10 @@ None.
 
 Service Updates:
 
-1) Stop 16A Ferry Ave - West side (going to city) has been removed from routes 245, 248 and 248F. Bus stop has been decomissioned.
+1) Stop 1 Montefiore Rd - West side has been re-introduced. Coordinates for the east side has also changed. Affects routes 273, 271, 235, 238 and 239.
 
-2) Parent Stations have been added to all train stations along the Noarlunga and Tonsley lines. Providing testing goes well, Parent Stations will be added to all other train/tram lines.
-
-3) Feed validity dates have been extended to September 27th
-
+2) Parent Stations added to Belair line.
 
 General Amendments:
 
-1) Stop 45A Panalatinga Rd (both sides) were on the wrong side of the road. Routes 722X, 734 and 734S were also associated with the wrong stop in relation to the direction of travel. This has been corrected.
-
-2) 168 weekday inbound departing Moseley Sq at 6:26am had missing times and stops after Stop 16 Hoylake St. This has been fixed.
-
-3) Route 333 going away from Port Adelaide has been updated to service Zone A Glanville Station instead of Zone B.
+None.

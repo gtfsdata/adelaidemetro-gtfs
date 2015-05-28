@@ -249,6 +249,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 752,4,752,McLaren Flat to McLaren Vale,"via Main Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/752,5a9a98,ffffff,741-750-750X-751-752-755-756
 755,4,755,Aldinga Beach to Seaford Centre,"via Willunga. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/755,e68e19,ffffff,741-750-750X-751-752-755-756
 756,4,756,Port Willunga to Seaford Centre Interchange,"Via Willunga. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/756,8a8d05,ffffff,741-750-750X-751-752-755-756
+771,41,771,Woodcroft to Aberfoyle Park High School,"School Service. Via Old Reynella & Happy Valley.",3,http://www.adelaidemetro.com.au/routes/771,006c64,ffffff,
 820,4,820,Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 820S,4,820S,City to Stirling,,3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 821,4,821,Aldgate to Glenunga High School,"via Stirling, Piccadilly,  Greenhill Road, Pembroke School, Burnside Village. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/821,00a9a7,ffffff,820-821
