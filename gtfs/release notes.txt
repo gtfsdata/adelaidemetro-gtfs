@@ -5,13 +5,11 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-June 8, 2015 - Queen's Birthday
+None.
 
 
 Special Events:
 
-May 30th, 2015 - AFL Round 9
-June 6th, 2015 AFL Round 10
 June 12th, 2015 - AFL Round 11
 June 18th, 2015 - AFL Round 12
 July 5th, 2015 - AFL Round 14
@@ -27,10 +25,10 @@ None.
 
 Service Updates:
 
-1) Stop 1 Montefiore Rd - West side has been re-introduced. Coordinates for the east side has also changed. Affects routes 273, 271, 235, 238 and 239.
+1) Parent Stations added to all remaining train and tram lines.
 
-2) Parent Stations added to Belair line.
 
 General Amendments:
 
-None.
+1) Minor updates to AFL trip data.
+2) "Cleaned" the calandar.txt and calendar_dates.txt files by removing irrelevant data (June 8th public holiday, etc).
