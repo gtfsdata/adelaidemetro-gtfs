@@ -1824,7 +1824,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2089,12003,Stop 35 Bartley Tce - South East side,,-34.86672,138.48433,,http://www.adelaidemetro.com.au/stops/view/12003,,,,
 2090,12004,Stop 38 Coulls Rd - East side,,-34.8638627516166,138.711515602307,,http://www.adelaidemetro.com.au/stops/view/12004,,,,
 2091,12005,Stop 40 Lower Athelstone Rd - North side,,-34.86385,138.70493,,http://www.adelaidemetro.com.au/stops/view/12005,,,,
-2092,12006,Stop 40 Lower Athelstone Rd - South side,,-34.8640003096112,138.704921423574,,http://www.adelaidemetro.com.au/stops/view/12006,,,,
+2092,12006,Stop 40 Lower Athelstone Rd - South side,,-34.863793,138.705579,,http://www.adelaidemetro.com.au/stops/view/12006,,,,
 2093,12007,Stop 34D Frederick Rd - East side,,-34.8660996421272,138.502886676338,,http://www.adelaidemetro.com.au/stops/view/12007,,,,
 2094,12008,Stop 29A Darley Rd - West side,,-34.8640519042798,138.661265720881,,http://www.adelaidemetro.com.au/stops/view/12008,,,,
 2095,12009,Stop 31 Torrens Rd - South side,,-34.8641847725929,138.530066829459,,http://www.adelaidemetro.com.au/stops/view/12009,,,,

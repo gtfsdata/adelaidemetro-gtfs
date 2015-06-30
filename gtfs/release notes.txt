@@ -10,8 +10,6 @@ None.
 
 Special Events:
 
-June 12th, 2015 - AFL Round 11
-June 18th, 2015 - AFL Round 12
 July 5th, 2015 - AFL Round 14
 July 9th, 2015 - AFL Round 15
 July 19th, 2015 - AFL Round 16
@@ -31,4 +29,5 @@ Service Updates:
 General Amendments:
 
 1) Minor updates to AFL trip data.
-2) "Cleaned" the calandar.txt and calendar_dates.txt files by removing irrelevant data (June 8th public holiday, etc).
+
+2) Updated stop coordinates for Stop 40 Lower Athestone Dr - South side. This affects routes AO12, 178X & 178.
