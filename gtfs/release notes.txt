@@ -10,24 +10,25 @@ None.
 
 Special Events:
 
-July 5th, 2015 - AFL Round 14
 July 9th, 2015 - AFL Round 15
 July 19th, 2015 - AFL Round 16
+July 20th, 2015 - Liverpool vs Adelaide United Football Club
 July 25th, 2015 - AFL Round 17
-
-
-Detours:
-
-None.
+August 2nd, 2015 - AFL Round 18
+August 7th, 2015 - AFL Round 19
+August 15th, 2015 - AFL Round 20
+August 22nd, 2015 - AFL Round 21
 
 
 Service Updates:
 
-1) Parent Stations added to all remaining train and tram lines.
+1) AO, AOX, Tram & Train trip data added for AFL Rounds 18-21.
+
+2) AO & AOX trip data added for Liverpool vs Adelaide United Football Club on July 20th, 2015. Game is to take place at Adelaide Oval.
 
 
 General Amendments:
 
 1) Minor updates to AFL trip data.
 
-2) Updated stop coordinates for Stop 40 Lower Athestone Dr - South side. This affects routes AO12, 178X & 178.
+2) Stop 80 Main South Rd - West side  has changed to Stop 80 Patapinda Rd - North side. The stop code number is unchanged. This affects routes 745 and 745A.

@@ -277,13 +277,13 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 864,4,864,Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/864,808083,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 864F,4,864F,Mount Barker to City,"Does not set down before Stop 14 from the City or pick up after Stop 13 to the City unless passengers are alighting.",3,http://www.adelaidemetro.com.au/routes/864,808083,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 864H,4,864H,Mount Barker to Heathfield High School,"Service operates school days only, goes from Mount Barker to Stirling then continues to Heathfield High School.",3,http://www.adelaidemetro.com.au/routes/864,808083,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
-865,4,865,Aldgate to City,"via Pomona Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-867-868
-865C,4,865C,Stirling to Crafers ,"from stop 36 Mount Barker Road via 865 route to terminus stop 24 Crafers Ramp.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-867-868
-865S,4,865S,Crafers to Stirling,"via Old Mount Barker Road and Pomona Road.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-867-868
-866,4,866,Stirling to Crafers,"via Piccadilly & Stirling East. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-867-868
-866A,4,866A,Stirling to Crafers,"Service does not stop at Piccadilly.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-867-868
-866R,4,866R,Stirling to Crafers,"Service travel via Piccadilly and Stirling East on request.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-867-868
-868,4,868,Aldgate to Stirling,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/868,a9c398,000000,865-866-867-868
+865,4,865,Aldgate to City,"via Pomona Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-868
+865C,4,865C,Stirling to Crafers ,"from stop 36 Mount Barker Road via 865 route to terminus stop 24 Crafers Ramp.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-868
+865S,4,865S,Crafers to Stirling,"via Old Mount Barker Road and Pomona Road.",3,http://www.adelaidemetro.com.au/routes/865,f37735,ffffff,865-866-868
+866,4,866,Stirling to Crafers,"via Piccadilly & Stirling East. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
+866A,4,866A,Stirling to Crafers,"Service does not stop at Piccadilly.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
+866R,4,866R,Stirling to Crafers,"Service travel via Piccadilly and Stirling East on request.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
+868,4,868,Aldgate to Stirling,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/868,a9c398,000000,865-866-868
 892,4,892,Urrbrae to Aldgate,"Via Belair Road, Upper Sturt Road & Crafers. Service operates school days only.",3,http://www.adelaidemetro.com.au/routes/892,006c64,ffffff,892-893-894
 893,4,893,Aldgate to Blackwood Station,"via Stirling, Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/893,0093d0,ffffff,892-893-894
 894,4,894,Aldgate to Blackwood Station,"via Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894

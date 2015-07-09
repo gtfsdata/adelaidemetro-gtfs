@@ -5766,7 +5766,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6360,16195,Stop 78 Patapinda Rd - East side,,-35.1809271654108,138.502952344463,,http://www.adelaidemetro.com.au/stops/view/16195,,,,
 6361,16196,Stop 78 Patapinda Rd - West side,,-35.18102,138.50276,,http://www.adelaidemetro.com.au/stops/view/16196,,,,
 6362,16197,Stop 81 Quadrant Tce - East side,,-35.1805993097476,138.471497284789,,http://www.adelaidemetro.com.au/stops/view/16197,,,,
-6363,16198,Stop 80 Main South Rd - West side,,-35.18147,138.49473,,http://www.adelaidemetro.com.au/stops/view/16198,,,,
+6363,16198,Stop 80 Patapinda Rd - North side,,-35.179766,138.497803,,http://www.adelaidemetro.com.au/stops/view/16198,,,,
 6364,16199,Stop 82 Commercial Rd - West side,,-35.1814880422381,138.476663205763,,http://www.adelaidemetro.com.au/stops/view/16199,,,,
 6365,16200,Stop 79 Patapinda Rd - North side,,-35.1826,138.49896,,http://www.adelaidemetro.com.au/stops/view/16200,,,,
 6366,16201,Stop 79 Patapinda Rd - South side,,-35.18264,138.49807,,http://www.adelaidemetro.com.au/stops/view/16201,,,,
