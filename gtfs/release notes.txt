@@ -21,9 +21,19 @@ August 22nd, 2015 - AFL Round 21
 
 Service Updates:
 
-None.
+1) Special tram timetable will now be in operation on July 20. Mainly additional services before and after the Liverpool vs Adelaide United soccer match at Adelaide Oval.
 
 
 General Amendments:
 
-1) Updates to AO/AOX trip data for Liverpool Vs Adelaide United match on July 20.
+1) Minor updates to AO/AOX trip data.
+
+2) 751C trip departing at 6:28am on weekdays from Stop 117 Rowley Rd has been added to the GTFS.
+
+3) Stop 1 Botanic Rd has been removed from route 178X.
+
+4) 171 beginning at Stop 1 Botanic Rd at 7:51am on weekdays has been changed to begin from Stop R1 North Tce at 7:53am. This is due to thru-linking with the 178X.
+
+5) 171A beginning at Stop 1 Botanic Rd at 8:23am on weekdays has changed to begin from Stop R1 North Tce at 8:25am. This is due to thru-linking with the 178X.
+
+6) Stop 45A Grant Rd had incorrect stop names. The North and South sides were labbeled incorrectly. These have now been switched.
