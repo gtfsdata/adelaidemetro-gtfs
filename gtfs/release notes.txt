@@ -5,35 +5,30 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-None.
+October 5th, 2015 - Labour Day
 
 
 Special Events:
 
-July 19th, 2015 - AFL Round 16
-July 20th, 2015 - Liverpool vs Adelaide United Football Club
 July 25th, 2015 - AFL Round 17
 August 2nd, 2015 - AFL Round 18
 August 7th, 2015 - AFL Round 19
 August 15th, 2015 - AFL Round 20
 August 22nd, 2015 - AFL Round 21
+August 30th, 2015 - AFL Round 22
 
 
 Service Updates:
 
-1) Special tram timetable will now be in operation on July 20. Mainly additional services before and after the Liverpool vs Adelaide United soccer match at Adelaide Oval.
+1) AFL Round 22 trip data now in the GTFS
+2) Feed validity extended to 13th December 2015
 
 
 General Amendments:
 
-1) Minor updates to AO/AOX trip data.
+1) Stop coordinates changed for Stop 117 Rowley Rd (both sides) and Stop 98 Oakley Rd.
 
-2) 751C trip departing at 6:28am on weekdays from Stop 117 Rowley Rd has been added to the GTFS.
+2) "Stop AM John Rice Av" changed to "Stop 53N John Rice Av"
 
-3) Stop 1 Botanic Rd has been removed from route 178X.
+3) Routes 541 and 541X have had Stop U2 Grenfell St removed. The routes were servicing the stop are the incorrect times in the GTFS.
 
-4) 171 beginning at Stop 1 Botanic Rd at 7:51am on weekdays has been changed to begin from Stop R1 North Tce at 7:53am. This is due to thru-linking with the 178X.
-
-5) 171A beginning at Stop 1 Botanic Rd at 8:23am on weekdays has changed to begin from Stop R1 North Tce at 8:25am. This is due to thru-linking with the 178X.
-
-6) Stop 45A Grant Rd had incorrect stop names. The North and South sides were labbeled incorrectly. These have now been switched.
