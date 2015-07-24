@@ -1,6 +1,8 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,RouteGroup
 100,5,100,Arndale Centre Interchange to Glen Osmond ,"via Woodville Road, Holbrooks Road, Marion Road & Cross Road. Service Operates Monday to Saturday.",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
 100B,5,100B,Arndale Centre Interchange / Urrbrae Agricultural School to Brooklyn Park,"via Kingswood, Hawthorn, Edwardstown, North Plympton & Richmond.",3,http://www.adelaidemetro.com.au/routes/100B,64b461,ffffff,100-101
+100C,51,100C,Forestville to Urrbrae Argriculture High School,"School Service. Via Netley, North Plympton, Clarence Park & Unley Park.",3,http://www.adelaidemetro.com.au/routes/100C,64b461,ffffff,
+100N,51,100N,Urrbrae Agriculture High School to Marleston,"School service. Via Cross Rd & Marion Rd.",3,http://www.adelaidemetro.com.au/routes/100N,64b461,ffffff,
 100P,5,100P,Arndale Centre Interchange to Plympton,"Terminates at Stop 184 Marion Road, Plympton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
 101,5,101,Arndale Centre Interchange to Flinders University,"via Woodville Road, Holbrooks Road & Marion Road. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/101,CB6F21,ffffff,100-101
 115,5,115,West Lakes Centre Interchange to City,"via Trimmer Parade & Crittenden Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/115,009290,ffffff,115-117-118
@@ -145,6 +147,17 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 461,4,461,Munno Para Interchange to Munno Para West,"via Mark Oliphant College. Loop Service operate Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/461,6E266D,ffffff,451-452-461-462
 462,4,462,Munno Para Centre Interchange to Angle Vale,"via Smithfield Interchange, President Ave & Angle Vale Rd. Loop service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/462,6E266D,ffffff,451-452-461-462
 462C,4,462C,Munno Para Centre Interchange to Angle Vale,"via Mark Oliphant College & St Columba College.",3,http://www.adelaidemetro.com.au/routes/462,6E266D,ffffff,451-452-461-462
+470,41,470,Parafield Gardens Primary School to Tyndale School,"School Service. Via Parafield, Paralowie & Salisbury.",3,http://www.adelaidemetro.com.au/routes/470,006c64,ffffff,
+471,41,471,Hillbank to St Columba College,"School Service. Via Elizabeth, Craigmore, Blakeview, Munno Para & Andrews Farm.",3,http://www.adelaidemetro.com.au/routes/471,006c64,ffffff,
+472,41,472,Smithfield Interchange to Roma Mitchell Secondary School,"School Service. Via Elizabeth, Hillbank, Salisbury, Para Hills & Pooraka.",3,http://www.adelaidemetro.com.au/routes/472,006c64,ffffff,
+474,41,474,Pooraka to Kildare College,"School Service. Via Ingle Farm, Valley View & Holden Hill.",3,http://www.adelaidemetro.com.au/routes/474,006c64,ffffff,
+475,41,475,Elizabeth Depot to Heritage College,"School Service. Via Davoren Park, Andrews Farm, Munno Para, Blakeview, Elizabeth, Hillbank, Salisbury, Para Vista, Gilles Plains & Oakden.",3,http://www.adelaidemetro.com.au/routes/475,006c64,ffffff,
+476,41,476,Salisbury East High School to Elizabeth Station,"School Service. Via Salisbury East, Salisbury Heights, Greenwith, Hillbank & Elizabeth.",3,http://www.adelaidemetro.com.au/routes/476,006c64,ffffff,
+477,41,477,Elizabeth Interchange to St Dominics School,"School Service. Via Elizabeth, Elizabeth Vale, Salisbury, Parafield Gardens, Green Fields, Gepps Cross, Blair Athol & Prospect.",3,http://www.adelaidemetro.com.au/routes/477,006c64,ffffff,
+479,41,479,Elizabeth Depot to Modbury Heights School,"School Service. Via Elizabeth East, Hillbank, Salisbury Heights, Para Hills & Modbury Heights.",3,http://www.adelaidemetro.com.au/routes/479,006c64,ffffff,
+481,41,481,Pooraka to Pooraka Primary & St Gabriels Primary School,"School Service. Via Ingle Farm & Gepps Cross.",3,http://www.adelaidemetro.com.au/routes/481,006c64,ffffff,
+482,41,482,Elizabeth Interchange to Roma Mitchell Secondary College,"School Service. Via Pooraka, Mawson Lakes, Green Fields, Parafield Gardens, Salisbury, Elizabeth Vale & Elizabeth South.",3,http://www.adelaidemetro.com.au/routes/482,006c64,ffffff,
+483,41,483,Our Lady of Sacred Heart College to Elizabeth Station,"School Service. Via Blair Athol, Gepps Cross, Green Fields, Parafield Gardens, Salisbury, Elizabeth Vale & Elizabeth South.",3,http://www.adelaidemetro.com.au/routes/483,006c64,ffffff,
 491,4,491,Hewett Circuit,"via Gawler Station, Willaston & Gawler Town Centre. Clockwise loop Service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/491,00aeef,ffffff,491-492-493-494
 492A,4,492A,Gawler East Circuit,"via Gawler Station & Gawler Town Centre.  Anti-Clockwise loop service. Operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/492A,e71939,ffffff,491-492A-492C-493-494
 492C,4,492C,Gawler East Circuit,"via Gawler Station & Gawler Town Centre.  Clockwise loop service. Operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/492C,e71939,ffffff,491-492A-492C-493-494
@@ -195,9 +208,56 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 601,7,601,Aberfoyle Hub to Marion Centre Interchange,"via Blackwood Station, Eve Road & Flinders University. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/601,50b947,ffffff,600-601-605-G30F
 601B,7,601B,Aberfoyle Hub to Blackwood Station,"Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/601,50b947,ffffff,600-601-605-G30F
 605,7,605,Darlington to Blackwood Station,"via Main Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/605,108d84,ffffff,600-601-605-G30F
+610,51,610,Adelaide High School to Adelaide Railway Station,"School Service. Express to Adelaide Railway Station.",3,http://www.adelaidemetro.com.au/routes/610,006c64,ffffff,
+611,51,611,Adelaide High School to City,"School Service. Adelaide High School to stop E1 King William St.",3,http://www.adelaidemetro.com.au/routes/611,006c64,ffffff,
+613,51,613,Prince Alfred College to City,"School Service. Via Bartles Rd, East Tce & North Tce.",3,http://www.adelaidemetro.com.au/routes/613,006c64,ffffff,
+616,51,616,City to Temple Christian College,"School Service. Via Grenfell St & Currie St.",3,http://www.adelaidemetro.com.au/routes/616,006c64,ffffff,
+617,51,617,Temple Christian College to City,"School Service. Via Currie St",3,http://www.adelaidemetro.com.au/routes/617,006c64,ffffff,
+619,51,619,Newton & Athlestone to Mary McKillop,"School Service.",3,http://www.adelaidemetro.com.au/routes/619,006c64,ffffff,
+622,51,622,Glen Osmond to Saint Ignatius College (Athelstone),"School Service. Via Glenunga, Toorak Gardens, Norwood, Glynde, Newton & Athelstone.",3,http://www.adelaidemetro.com.au/routes/622,006c64,ffffff,
+623,51,623,Norwood to Saint Ignatius College (Athelstone),"School Service. Via Kensington, Glynde & Newton.",3,http://www.adelaidemetro.com.au/routes/623,006c64,ffffff,
+624,51,624,Stepney to Saint Ignatius College (Athelstone),"School Service. Via St Peters, Payneham, Trinity Gardens, Kensington, Magill, Campbelltown & Paradise.",3,http://www.adelaidemetro.com.au/routes/624,006c64,ffffff,
+625,51,625,Charles Campbell Secondary School & Saint Ignatius College to Parkside,"School Service. Via Paradise, Athelstone, Marryatville, Tusmore, Linden Park, Glen Osmond, Urrbrae & Fullarton.",3,http://www.adelaidemetro.com.au/routes/625,006c64,ffffff,
+626,51,626,Charles Campbell Secondary School & Saint Ignatius College to City,"School Service. Via Paradise, Athelstone, Newton, Campbelltown, Glynde, Payneham & Stepney.",3,http://www.adelaidemetro.com.au/routes/626,006c64,ffffff,
+627,51,627,Saint Ignatius College to Glynburn,"School Service. Via Athelstone, Rostrevor, Tranmere, Firle, Payneham South, Trinity Gardens, Kensington, Tusmore & Glen Osmond.",3,http://www.adelaidemetro.com.au/routes/627,006c64,ffffff,
+628,51,628,Saint Ignatius College to Parkside,"School Service. Via Athelstone, Rostrevor, Tranmere, Firle, Payneham South, Trinity Gardens, Kensington, Tusmore & Glen Osmond, Urrbrae & Fullarton.",3,http://www.adelaidemetro.com.au/routes/628,006c64,ffffff,
+629,51,629,Saint Ignatius College to Marryatville,"School Service. Via Athelstone, Newton, Rostrevor, Magill & Kensington.",3,http://www.adelaidemetro.com.au/routes/629,006c64,ffffff,
+630,51,630,Marryatville High School to City,"School Service. Via Marryatville, Norwood, Kensington, Glynde, Campbelltown, Paradise, Athelstone, Newton, Glynde, Payneham & Stepney.",3,http://www.adelaidemetro.com.au/routes/630,006c64,ffffff,
+631,51,631,Marryatville High School to Campbelltwon,"School Service. Via Marryatville, Norwood, Kensington, Glynde, Paradise, Athelstone & Newton.",3,http://www.adelaidemetro.com.au/routes/631,006c64,ffffff,
+632,51,632,Urrbrae Agricultural High School to City,"School Service. Express to city.",3,http://www.adelaidemetro.com.au/routes/632,006c64,ffffff,
+633,51,633,Unley High School to Plympton,"School Service. Via Kingswood, Colonel Light Gardens, Daw Park & Edwardstown.",3,http://www.adelaidemetro.com.au/routes/633,006c64,ffffff,
+634,51,634,Marryatville High School to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/634,006c64,ffffff,
+635,51,635,St Peters Girls College to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/635,006c64,ffffff,
+636,51,636,Mercedes College to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/636,006c64,ffffff,
+637,51,637,Kingswood to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/637,006c64,ffffff,
+638,51,638,Norwood Morialta High School to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/638,006c64,ffffff,
+639,51,639,Norwood Morialta High School Middle Campus to Paradise,"School Service.",3,http://www.adelaidemetro.com.au/routes/639,006c64,ffffff,
 640,4,640,Marino to Marion Centre Interchange,"via Seacombe Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/640,7d0040,ffffff,640-719-720
 645,7,645,Seaview Downs to Marion Centre Interchange,"via Davenport Terrace. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/645,009b7a,ffffff,645-646
 646,7,646,Seacombe Heights to Marion Centre Interchange,"via Morphett Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/646,ea4440,ffffff,645-646
+650,51,650,Alberton to St Michael's Senior College,"School Service. Via Hendon, Seaton & Grange.",3,http://www.adelaidemetro.com.au/routes/650,006c64,ffffff,
+651,51,651,Alberton to St Michael's Senior College,"School Service. Via Semaphore, West Lakes, Tennyson & Grange.",3,http://www.adelaidemetro.com.au/routes/651,006c64,ffffff,
+652,51,652,Alberton to St Michael's Junior College,"School Service. Via Largs North, Largs Bay, Semaphore, West Lakes, Tennyson, Grange, Fulham Gardens, Kidman Park & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/652,006c64,ffffff,
+653,51,653,Alberton to St Michael's Senior College & Nazareth,"School Service. Via Largs North, Taperoo, Osborne, North Haven, Taperoo, Largs Bay, Peterhead, Seaton, Henley Beach, Fulham Gardens, Findon & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/653,006c64,ffffff,
+654,51,654,Henley Beach to Nazareth College & St Michael's Junior School,"School Service. Via West Beach, Fulham, Seaton, Findon & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/654,006c64,ffffff,
+655,51,655,St Michael's Junior College to Port Adelaide,"School Service. Via Flinders Park, Kidman Park, Henley Beach, Grange, Tennyson, West Lakes, Semaphore, Largs Bay, Largs North, Taperoo, North Haven, Outer Harbor & Osborne.",3,http://www.adelaidemetro.com.au/routes/655,006c64,ffffff,
+656,51,656,St Michael's Junior College to Henley Beach South,"School Service. Via Flinders Park, Kidman Park, Fulham Gardens, Henley Beach & West Beach.",3,http://www.adelaidemetro.com.au/routes/656,006c64,ffffff,
+657,51,657,St Michael's Senior College to Ethelton,"School Service. Via Grange, Tennyson, West Lakes & Semaphore.",3,http://www.adelaidemetro.com.au/routes/657,006c64,ffffff,
+658,51,658,St Michael's Senior College to Largs Bay,"School Service. Via Grange, Tennyson, West Lakes & Semaphore.",3,http://www.adelaidemetro.com.au/routes/658,006c64,ffffff,
+659,51,659,St Michael's Senior College to Birkenhead,"School Service. Via Largs Bay, Taperoo, North Haven, Outer Harbor, Osborne & Largs North.",3,http://www.adelaidemetro.com.au/routes/659,006c64,ffffff,
+660,51,660,St Michael's Senior College to West Lakes Centre Interchange,"School Service. Via Grange & Seaton.",3,http://www.adelaidemetro.com.au/routes/660,006c64,ffffff,
+661,51,661,Nazareth College to Delfin Island,"School Service. Via Flinders Park, Findon, Seaton, Royal Park & West Lakes.",3,http://www.adelaidemetro.com.au/routes/661,006c64,ffffff,
+662,51,662,Nazareth College to Ethelton,"School Service. Via Flinders Park, Findon, Seaton, Tennyson, West Lakes & Semaphore.",3,http://www.adelaidemetro.com.au/routes/662,006c64,ffffff,
+663,51,663,Nazareth College to Fulham,"School Service. Via Flinders Park, Fulham Gardens & Henley Beach.",3,http://www.adelaidemetro.com.au/routes/663,006c64,ffffff,
+664,51,664,Nazareth College to Alberton,"School Service. Via Semaphore, Largs Bay, Largs North, Taperoo, North Haven, Outer Harbor, Osborne & Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/664,006c64,ffffff,
+665,51,665,Seaton High School to Port Adelaide,"School Service. Via West Lakes Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/665,006c64,ffffff,
+667,51,667,Henley High School to West Lakes Centre Interchange,"School Service. Via Grange & Tennyson.",3,http://www.adelaidemetro.com.au/routes/667,006c64,ffffff,
+668,51,668,Henley High School to Port Adelaide,"School Service. Via Grange, Tennyson, West Lakes, Semaphore, Largs Bay, Largs North, Taperoo & Osborne.",3,http://www.adelaidemetro.com.au/routes/668,006c64,ffffff,
+669,51,669,Henley High School to Glenelg Interchange,"School Service. Via Henley Beach, West Beach & Glenelg North.",3,http://www.adelaidemetro.com.au/routes/669,006c64,ffffff,
+670,51,670,Marymount College & Brighton Secondary School to Findon,"School Service. Via Somerton Park, Glenelg, Glenelg North, West Beach, Henley Beach South, Fulham, Fulham Gardens & Seaton.",3,http://www.adelaidemetro.com.au/routes/670,006c64,ffffff,
+671,51,671,Fulham Gardens to Brighton Secondary School & Marymount College,"School Service. Via Seaton, Findon, Lockleys, Fulham, Henley Beach South, West Beach, Glenelg & Somerton Park.",3,http://www.adelaidemetro.com.au/routes/671,006c64,ffffff,
+672,51,672,Le Fever High School to Taperoo,"School Service. Via Semaphore, Largs Bay, Largs North, Osborne & Outer Harbor.",3,http://www.adelaidemetro.com.au/routes/672,006c64,ffffff,
+673,51,673,Fullarton to Blackwood Station,"School Service.",3,http://www.adelaidemetro.com.au/routes/639,006c64,ffffff,
 681,4,681,Hallett Cove Beach Station to Flinders University,"via Hallett Cove Centre Interchange & Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/681,005594,ffffff,681-682-683
 681A,4,681A,Hallett Cove Beach Station to Hallett Cove,"via Hallett Cove Centre Interchange. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/681,005594,ffffff,681-682-683
 682,4,682,Hallett Cove Beach Station to Sheidow Park,"via Hallett Cove Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/682,b42b32,ffffff,681-682-683
@@ -249,7 +309,21 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 752,4,752,McLaren Flat to McLaren Vale,"via Main Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/752,5a9a98,ffffff,741-750-750X-751-752-755-756
 755,4,755,Aldinga Beach to Seaford Centre,"via Willunga. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/755,e68e19,ffffff,741-750-750X-751-752-755-756
 756,4,756,Port Willunga to Seaford Centre Interchange,"Via Willunga. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/756,8a8d05,ffffff,741-750-750X-751-752-755-756
+770,41,770,Colonnades Centre Interchange to Aberfoyle Park,"School Service. Via Christies Beach, Morphett Vale & Woodcroft.",3,http://www.adelaidemetro.com.au/routes/770,006c64,ffffff,
 771,41,771,Woodcroft to Aberfoyle Park High School,"School Service. Via Old Reynella & Happy Valley.",3,http://www.adelaidemetro.com.au/routes/771,006c64,ffffff,
+772,41,772,Hallett Cove R-12 School to Old Reynella,"School Service. Via Sheidow Park, Trott Park & Reynella.",3,http://www.adelaidemetro.com.au/routes/772,006c64,ffffff,
+774,41,774,Wirreanda High School to Noarlunga Interchange,"School Service. Via Morphett Vale, Onkaparinga Hills, Hackham & Christie Downs.",3,http://www.adelaidemetro.com.au/routes/774,006c64,ffffff,
+775,41,775,Sheidow Park to Woodcroft College,"School Service. Via Morphett Vale, Hallett Cove, Sheidow Park & Trott Park.",3,http://www.adelaidemetro.com.au/routes/775,006c64,ffffff,
+776,41,776,Seaford Rise to Maslin Beach,"School Service.",3,http://www.adelaidemetro.com.au/routes/776,006c64,ffffff,
+777,41,777,Noarlunga to Sacred Heart Senior College,"School Service. Via Morphett Vale, Reynella, O'Halloran Hill, Seaview Downs, Seacliff, Brighton & Hove.",3,http://www.adelaidemetro.com.au/routes/777,006c64,ffffff,
+778,41,778,Noarlunga Interchange to Reynella East High School,"School Service. Via Christie Downs, Morphett Vale, Hackham & Old Reynella.",3,http://www.adelaidemetro.com.au/routes/778,006c64,ffffff,
+780,41,780,Woodcroft College to Flinders Medical Centre,"School Service. Via Happy Valley & O'Halloran Hill.",3,http://www.adelaidemetro.com.au/routes/780,006c64,ffffff,
+781,41,781,Brighton to Sacred Heart Senior College,"School Service. Via Hove & Somerton Park.",3,http://www.adelaidemetro.com.au/routes/781,006c64,ffffff,
+782,41,782,Noarlunga Interchange to Urrbrae High School,"School Service. Via Beach Road and Main South Road.",3,http://www.adelaidemetro.com.au/routes/782,006c64,ffffff,
+783,41,783,Urrbrae High to Old Reynella Interchange,"School Service. Via Kingswood, Hawthorn, Clarence Park, St Marys, O'Halloran Hill & Old Reynella.",3,http://www.adelaidemetro.com.au/routes/783,006c64,ffffff,
+784,41,784,Seaview High School to Sheidow Park,"School Service. Via Seacliff Park & Trott Park.",3,http://www.adelaidemetro.com.au/routes/784,006c64,ffffff,
+785,41,785,Sheidow Park to Seaview High School,"School Service. Via Trott Park & Seacliff Park.",3,http://www.adelaidemetro.com.au/routes/785,006c64,ffffff,
+786,41,786,Old Reynella to Woodcroft College,"School Service. Via Reynella East & Woodcroft.",3,http://www.adelaidemetro.com.au/routes/786,006c64,ffffff,
 820,4,820,Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 820S,4,820S,City to Stirling,,3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 821,4,821,Aldgate to Glenunga High School,"via Stirling, Piccadilly,  Greenhill Road, Pembroke School, Burnside Village. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/821,00a9a7,ffffff,820-821
@@ -270,6 +344,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 850,4,850,Macclesfield to Aldgate ,"via Meadows, Echunga & Mylor. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/850,e91839,ffffff,850-852
 852,4,852,Strathalbyn to Mount Barker,"via Wellington Road. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/852,956e8e,ffffff,850-852
 852L,4,852L,Langhorne Creek to Cornerstone College,"Operating school days only from Langhorne Creek to Cornerstone College and return.",3,http://www.adelaidemetro.com.au/routes/852L,956e8e,ffffff,850-852
+853,41,853,Mt Barker to St Francis De Sales,"School Service.",3,http://www.adelaidemetro.com.au/routes/853,006c64,ffffff,
 860F,4,860F,Mount Barker to City,"via Hahndorf, Bridgewater & Glen Osmond Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/860,99d7db,000000,823-840X-T840-T843-860F-863-T863-864-864F-N864
 861,4,861,Glen Osmond to City,"via Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/861,f4b085,000000,861-N864
 863,4,863,Aldgate to City,"via Stirling, Crafers & Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/863,1b5257,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
@@ -284,15 +359,89 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 866A,4,866A,Stirling to Crafers,"Service does not stop at Piccadilly.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
 866R,4,866R,Stirling to Crafers,"Service travel via Piccadilly and Stirling East on request.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
 868,4,868,Aldgate to Stirling,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/868,a9c398,000000,865-866-868
+870,41,870,Glenunga International High School to City,"School Service. Via Glen Osmond Rd.",3,http://www.adelaidemetro.com.au/routes/870,006c64,ffffff,
+872,41,872,Glenunga International High School to Carey Gully,"School Service. Via Glen Osmond, Burnside, Greenhill, Summertown & Uraidla.",3,http://www.adelaidemetro.com.au/routes/872,006c64,ffffff,
+873,41,873,Glenunga International High School to Mount Barker,"School Service. Via Glen Osmond, Bridgewater & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/873,006c64,ffffff,
+875,41,875,Stirling to Heathfield High School,"School Service. Via Mt Barker Rd.",3,http://www.adelaidemetro.com.au/routes/875,006c64,ffffff,
+877,41,877,Heathfield High School to Mount Barker,"School Service. Via Hahndorf.",3,http://www.adelaidemetro.com.au/routes/877,006c64,ffffff,
+878,41,878,Nairne to Heathfield High School,"School Service. Via Littlehampton & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/878,006c64,ffffff,
+879,41,879,Woodside to Heathfield High School,"School Service. Via Oakbank, Balhannah, Bridgewater & Aldgate.",3,http://www.adelaidemetro.com.au/routes/879,006c64,ffffff,
+880,41,880,Balhannah to Cornerstone College,"School Service. Via Oakbank, Woodside, Nairne & Littlehampton.",3,http://www.adelaidemetro.com.au/routes/880,006c64,ffffff,
+881,41,881,Stirling to Cornerstone College,"School Service. Via Aldgate, Bridgewater, Verdun Junction, Hahndorf & Mt Barker.",3,http://www.adelaidemetro.com.au/routes/881,006c64,ffffff,
+882,41,882,Mt Barker to Concordia College,"School Service. Via Hahndorf, Bridgewater & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/882,006c64,ffffff,
+883,41,883,Aldgate to Mitcham Girls High School,"School Service. Via Stirling, Urrbrae & Kingswood.",3,http://www.adelaidemetro.com.au/routes/883,006c64,ffffff,
+884,41,884,Urrbrae High School to Aldgate,"School Service. Via Myrtle Bank & Stirling.",3,http://www.adelaidemetro.com.au/routes/884,006c64,ffffff,
+885,41,885,Aldgate to Pembroke School,"School Service. Via Stirling, Glen Osmond, Glenunga, Toorak Gardens & Norwood.",3,http://www.adelaidemetro.com.au/routes/885,006c64,ffffff,
+886,41,886,Mount Barker to Annesley College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling, Urrbrae, Kingswood, Clarence Park & Wayville.",3,http://www.adelaidemetro.com.au/routes/886,006c64,ffffff,
+887,41,887,Mount Barker to Mercedes College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/887,006c64,ffffff,
+888,41,888,Aldgate to Concordia College,"School Service. Via Stirling & Myrtle Bank.",3,http://www.adelaidemetro.com.au/routes/888,006c64,ffffff,
+889,41,889,Hutchinson St to Waldorf School,"School Service. Via Exhibition Rd & Wellington Rd.",3,http://www.adelaidemetro.com.au/routes/889,006c64,ffffff,
+890,41,890,Nairne to Oakbank Area School,"School Service. Via Mt Barker & Littlehampton.",3,http://www.adelaidemetro.com.au/routes/890,006c64,ffffff,
 892,4,892,Urrbrae to Aldgate,"Via Belair Road, Upper Sturt Road & Crafers. Service operates school days only.",3,http://www.adelaidemetro.com.au/routes/892,006c64,ffffff,892-893-894
 893,4,893,Aldgate to Blackwood Station,"via Stirling, Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/893,0093d0,ffffff,892-893-894
 894,4,894,Aldgate to Blackwood Station,"via Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 894H,4,894H,Aldgate to Blackwood Station,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 894S,4,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894,f47320,ffffff,892-893-894
 900,4,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,bf2c19,ffffff,401-403-900
+920,71,920,Banksia Park to Tea Tree Plaza Interchange,"School Service. Via St Agnes.",3,http://www.adelaidemetro.com.au/routes/920,006c64,ffffff,
+921,71,921,Golden Grove Village Interchange School Loop Service,"School Service. Via Atlantis Dr, The Golden Way, Golden Grove Rd, Target Hill Rd & The Golden Way.",3,http://www.adelaidemetro.com.au/routes/921,006c64,ffffff,
+922,71,922,Loreto College to Surrey Downs,"School Service. Via Norwood, Beulah Park, Kensington, Campbelltown, Newton, Athelstone, Paradise, Dernancourt, Highbury & St Agnes.",3,http://www.adelaidemetro.com.au/routes/922,006c64,ffffff,
+924,71,924,Para Hills to Modbury High School,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/924,006c64,ffffff,
+926,71,926,Modbury High School to Para Hills,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/926,006c64,ffffff,
+927,71,927,Pedare College to Greenwith,"School Service. Via Golden Grove.",3,http://www.adelaidemetro.com.au/routes/927,006c64,ffffff,
+928,71,928,Saint Ignatius College to City,"School Service. Via Newton, Paradise Interchange & Klemzig Station.",3,http://www.adelaidemetro.com.au/routes/928,006c64,ffffff,
+929,71,929,The Heights High School to Fairview Park,"School Service. Via Modbury Heights, Redwood Park, Surrey Downs & Yatala Vale.",3,http://www.adelaidemetro.com.au/routes/929,006c64,ffffff,
+930,71,930,Paradise to Mawson Lakes,"School Service. Via Windsor Garden, Gilles Plains, Ingle Farm & Pooraka.",3,http://www.adelaidemetro.com.au/routes/930,006c64,ffffff,
 933,7,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/933,ef6d1f,ffffff,
+941,71,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,006c64,ffffff,
+942,71,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,006c64,ffffff,
+950,71,950,Aberfoyle Park High School to Darlington,"School Service. Via Happy Valley, Aberfoyle Park & Flagstaff Hill",3,http://www.adelaidemetro.com.au/routes/950,006c64,ffffff,
+951,71,951,City to Adelaide Secondary School of English,"School Service. Via King Willian Road to stop 17 Torrens Road.",3,http://www.adelaidemetro.com.au/routes/951,006c64,ffffff,
+952,71,952,Colonel Light Gardens to Blackwood High School,"School Service. Stop 18D Springbank Road, Colonel Light Gardens to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/952,006c64,ffffff,
+953,71,953,Blackwood High School to Aberfoyle Hub Centre Interchange,"School Service. Blacwood High School to Aberfoyle Hub Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/953,006c64,ffffff,
+954,71,954,Blackwood High School Kingswood,"School Service. Blackwood High School to stop 12 Belair Road, Kingswood.",3,http://www.adelaidemetro.com.au/routes/954,006c64,ffffff,
+955,71,955,Blackwood High School to Flinders Medical Centre,"School Service. Blackwood High School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/955,006c64,ffffff,
+956,71,956,Blackwood High School to Darlington,"School Service. Blackwood High School to stop 30 Flagstaff Hill Road, Darlington.",3,http://www.adelaidemetro.com.au/routes/956,006c64,ffffff,
+957,71,957,Cedar Avenue loop,"School Service. Stop 36 east side, Cedar Av via Kauri Pde, Wheatland St, Brighton Rd to stop 36 Cedar Av west side, then continues as route 265.",3,http://www.adelaidemetro.com.au/routes/957,006c64,ffffff,
+958,71,958,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/958,006c64,ffffff,
+959,71,959,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/959,006c64,ffffff,
+960,71,960,Cabra Dominican College to Glenelg Interchange,"School Service. Cabra Dominican College to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/960,006c64,ffffff,
+961,71,961,Cabra Dominican College to Aberfoyle Park,"School Service. Cabra Dominican College to stop 45 Oakridge Road, Aberfoyle Park.",3,http://www.adelaidemetro.com.au/routes/961,006c64,ffffff,
+962,71,962,Loreto College to North East Road,"School Service. Via Portrush Road, O.G Road to stop 11 North East Rd, Collinswood.",3,http://www.adelaidemetro.com.au/routes/962,006c64,ffffff,
+963,71,963,Tusmore to stop 11 North East Road,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road.",3,http://www.adelaidemetro.com.au/routes/963,006c64,ffffff,
+964,71,964,Stop 9 Portrush Road to stop 11 North East Road,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road",3,http://www.adelaidemetro.com.au/routes/964,006c64,ffffff,
+966,71,966,Marion Centre Interchange to Mercedes College,"School Service. Via Morphett Rd, Bray St,  Raglan Av, Mircham Girl's High, Fullarton Road to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/966,006c64,ffffff,
+967,71,967,Mercedes College to Glenelg,"School Service. Via Fullarton Rd, Mitcham Girl's High school, Belair Rd, Grange Rd, Edward St, Raglan Av, Bray St,",3,http://www.adelaidemetro.com.au/routes/967,006c64,ffffff,
+968,71,968,Clarence Gardens to Mercedes College,"School Service. Stop 14E Edward Street, Clarence Gardens to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/968,006c64,ffffff,
+969,71,969,Clarence Gardens to Mitcham Girls High School,"School Service. Stop 14E Edward Street, Clarence Gardens to Mitcham Girls High School.",3,http://www.adelaidemetro.com.au/routes/969,006c64,ffffff,
+970,71,970,Mitcham Girls High School to Glenelg Interchange,"School Service. Mitcham Girls High School to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/970,006c64,ffffff,
+971,71,971,Mitcham Girls High School to Marion Centre Interchange,"School Service. Via Raglan Avenue, Marion Road, Finniss Street to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/971,006c64,ffffff,
+972,71,972,Mitcham Girls High School to South Road 20,"School Service. Via South Road to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/972,006c64,ffffff,
+973,71,973,Pasadena High School to Marion Centre Interchange,"School Service. Pasadena High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/973,006c64,ffffff,
+974,71,974,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop E2 Currie Street, city.",3,http://www.adelaidemetro.com.au/routes/974,006c64,ffffff,
+975,71,975,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop F1 Victoria Square.",3,http://www.adelaidemetro.com.au/routes/975,006c64,ffffff,
+976,71,976,Blackwood Interchange to Sacred Heart Middle School,"School Service. Via Shepherds Hill Rd, Sturt Rd, Marion Rd, Westminster College, Daws Rd to Sacred Heart Middle School.",3,http://www.adelaidemetro.com.au/routes/976,006c64,ffffff,
+977,71,977,Sacred Heart Middle School to Flinders Medical,"School Service. Sacred Heart Middle School to Flinders Medical.",3,http://www.adelaidemetro.com.au/routes/977,006c64,ffffff,
+978,71,978,Sacred Heart College Middle School to Marion Centre Interchange,"School Service. Via Marion Road, Sturt Road and Marion Centre Interchange",3,http://www.adelaidemetro.com.au/routes/978,006c64,ffffff,
+979,71,979,Aberfoyle Hub Centre Interchange to Sacred Heart Senior College,"School Service. Via Manning rd, Sunnymeade Dr, Black Rd, Flagstaff Rd, Miller St, Diagonal Rd, Marion Centre Interchange,  Sturt Rd and King George Av.",3,http://www.adelaidemetro.com.au/routes/979,006c64,ffffff,
+980,71,980,Sacred Heart Senior College to Marion Centre Interchange,"School Service. Via Diagonal Road.",3,http://www.adelaidemetro.com.au/routes/980,006c64,ffffff,
+981,71,981,Sacred Heart Senior School to Flinders Medical Centre,"School Service. Sacred Heart Senior School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/981,006c64,ffffff,
+982,71,982,Sacred Heart Senior College to South Road stop 20,"School Service. Via Diagonal Rd, Sturt Rd, Main South Rd to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/982,006c64,ffffff,
+984,71,984,Seaview High School to Marino,"School Service. Via Seacombe Road, Brighton Road to stop 46 Newland Av.",3,http://www.adelaidemetro.com.au/routes/984,006c64,ffffff,
+985,71,985,St Dominic's to City,"School Service. Via North Adelaide.",3,http://www.adelaidemetro.com.au/routes/985,006c64,ffffff,
+986,71,986,Colonel Light Gardens to Unley High School,"School Service. Stop 14 Grange Road, Colonel Light Gardens to Unley High School.",3,http://www.adelaidemetro.com.au/routes/986,006c64,ffffff,
+987,71,987,Unley High School to stop 11A Marion Road,"School Service. Via Mitcham Girl's High School, Belair Rd, Grange Rd, Edward St, Raglan Av to stop 11A Marion Rd.",3,http://www.adelaidemetro.com.au/routes/987,006c64,ffffff,
+988,71,988,Glenelg to Highgate,"School Service. Stop 24 Brighton Road, Glenelg East to stop 165 Cross Road, Highgate.",3,http://www.adelaidemetro.com.au/routes/988,006c64,ffffff,
+989,71,989,Aberfoyle Hub Centre Interchange to Urrbrae Agricultural High School,"School Service. Cia Manning Rd, Sunnymeade Dr, Black Rd, Flagstaff Rd to stop 165 Cross Rd.",3,http://www.adelaidemetro.com.au/routes/989,006c64,ffffff,
 98A,5,98A,City & North Adelaide anti-clockwise loop,"via Town Hall, Adelaide Oval, Calvary North Adelaide Hospital, North Adelaide Library & Community Centre, Women's & Children's Hospital, Adelaide Zoo, Parliament House, State Library, Royal Adelaide Hospital & Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/98A,71c267,ffffff,98A-98C-99A-99C
 98C,5,98C,City & North Adelaide clockwise loop,"via Town Hall, Adelaide Oval, Calvary North Adelaide Hospital, North Adelaide Library & Community Centre, Women's & Children's Hospital, Adelaide Zoo, Parliament House, State Library, Royal Adelaide Hospital & Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/98C,71c267,ffffff,98A-98C-99A-99C
+990,71,990,Urrbrae Agricultural High School to Plympton,"School Service. Urrbrae Agricultural High School to stop 11 Marion Road, Plympton.",3,http://www.adelaidemetro.com.au/routes/990,006c64,ffffff,
+991,71,991,Urrbrae Agricultural High School to Marion Centre Interchange,"School Service. Urrbrae Agricultural High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/991,006c64,ffffff,
+992,71,992,Urrbrae High School to stop 11 North East Road,"School Service. Via Cross Road, Portrush Road and  North East Road.",3,http://www.adelaidemetro.com.au/routes/992,006c64,ffffff,
+993,71,993,Westminster School to stop 41  Murrays Hill Road,"School Service. Via sturt Rd, Shepherds Hill Rd, Coromandel Pde, Grand Bvd to stop 41 Murrays Hill Rd.",3,http://www.adelaidemetro.com.au/routes/993,006c64,ffffff,
+994,71,994,Arndale Centre Interchange to Ridley Grove,"School Service. Arndale Centre Interchange to Ridley Grove R-7 School.",3,http://www.adelaidemetro.com.au/routes/994,006c64,ffffff,
+995,71,995,Walkerville to Loreto College,"School Service. Via Hampstead, Klemzig, Payneham & Trinity Gardens.",3,http://www.adelaidemetro.com.au/routes/995,006c64,000000,
+996,71,996,Marion Centre Interchange to Blackwood High School,"School Service. Marion Centre Interchange to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/996,006c64,ffffff,
 99A,5,99A,City anti-clockwise loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,71c267,ffffff,98A-98C-99A-99C
 99C,5,99C,City clockwise loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,71c267,ffffff,98A-98C-99A-99C
 AO10,4,AO10,Aldgate to Adelaide Oval,"via Glen Osmond - all stops to stop 1 then express. Times stated are approximate and for this week's game only. For future games please use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/AO10,4b711c,ffffff,
@@ -323,10 +472,10 @@ AOX5,7,AOX5,Salisbury East to Adelaide Oval,"via Paradise Interchange - limited 
 AOX6,4,AOX6,Woodcroft Community Centre to Adelaide Oval,"via Main South Rd - all stops to stop 26 then express. Times stated are approximate and for this week's game only. For future games please use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/AOX6,4b711c,ffffff,
 AOX7,4,AOX7,South Adelaide Footy Club to Adelaide Oval,"via Main South Rd - all stops to stop 26 then express. Times stated are approximate and for this week's game only. For future games please use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/AOX7,4b711c,ffffff,
 AOX9,4,AOX9,Mount Barker to Adelaide Oval,"via South Eastern Freeway - all stops to stop 46 then express. Times stated are approximate and for this week's game only. For future games please use Plan My Journey.",3,http://www.adelaidemetro.com.au/routes/AOX9,4b711c,ffffff,
-B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12
-B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12
-B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B11-B12
-B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,B71B8B,ffffff,B10-B10X-B11-B12
+B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B12
+B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B12
+B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B12
+B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,B71B8B,ffffff,B10-B10X-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,00937f,ffffff,BEL
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1-N1T
 C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1-N1T
@@ -369,6 +518,10 @@ H33,5,H33,Henley Beach to Rostrevor,"via Marlborough St, Henley Beach Rd, city, 
 H33C,5,H33C,Henley Beach / Rostrevor to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H33,969485,ffffff,H33
 HL1,4,HL1,Hahndorf to Mt Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/HL1,fec220,000000,HL1-HL2
 HL2,4,HL2,Hahndorf to Mt Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/HL2,fec220,000000,HL1-HL2
+INDA,52,INDA,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDA,006c64,ffffff,
+INDB,52,INDB,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDB,006c64,ffffff,
+IndstA,72,IndstA,Marion Centre Interchange to Bedford Industries,"Industrial Service.",3,http://www.adelaidemetro.com.au/routes/IndstA,006c64,ffffff,
+IndstB,72,IndstB,Royal Society For The Blind to City,"Industrial Service. Only for Royal Society for the Blind personnel & school students.",3,http://www.adelaidemetro.com.au/routes/IndstB,006c64,ffffff,
 J1,5,J1,Glenelg Interchange to City ,"via Harbour Town Centre Interchange, Adelaide Airport & Sir Donald Bradman Drive. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J1,c78d86,ffffff,J1-J1X-J2-162
 J1A,5,J1A,City to Adelaide Airport,"Terminates at Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1,c78d86,ffffff,J1-J1X-J2-162
 J1X,5,J1X,Adelaide Airport to City,"Express between Adelaide Airport & City.  Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/J1X,c78d86,ffffff,J1-J1X-J2-162

@@ -20,15 +20,11 @@ August 30th, 2015 - AFL Round 22
 
 Service Updates:
 
-1) AFL Round 22 trip data now in the GTFS
-2) Feed validity extended to 13th December 2015
+1) School Services have now been added to our GTFS feed.Please take note of the new Agency IDs 
 
 
 General Amendments:
 
-1) Stop coordinates changed for Stop 117 Rowley Rd (both sides) and Stop 98 Oakley Rd.
+1) Some block IDs have changed due to operational reasons.
 
-2) "Stop AM John Rice Av" changed to "Stop 53N John Rice Av"
-
-3) Routes 541 and 541X have had Stop U2 Grenfell St removed. The routes were servicing the stop are the incorrect times in the GTFS.
-
+2) Some DayTypes have changed due to operational reasons.
