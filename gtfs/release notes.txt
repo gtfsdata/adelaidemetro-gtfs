@@ -1,0 +1,29 @@
+Adelaide Metro GTFS Release Notes
+
+The following is a list of changes and upcoming events:
+
+
+Upcoming Public Holidays:
+
+October 5th, 2015 - Labour Day
+
+
+Special Events:
+
+August 15th, 2015 - AFL Round 20
+August 22nd, 2015 - AFL Round 21
+August 30th, 2015 - AFL Round 22
+September 5th, 2015 - AFL Round 23
+September 20th, 2015 - City to Bay
+
+
+Service Updates:
+
+1) Tram timetables added for AFL Round 23. Bus and Train information to come soon!
+
+
+General Amendments:
+
+
+1) Minor update to shapes.txt for 300G route.
+
