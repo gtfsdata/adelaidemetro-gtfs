@@ -10,20 +10,24 @@ October 5th, 2015 - Labour Day
 
 Special Events:
 
-August 15th, 2015 - AFL Round 20
 August 22nd, 2015 - AFL Round 21
 August 30th, 2015 - AFL Round 22
 September 5th, 2015 - AFL Round 23
+September 4th, 2015 to September 13th, 2015 - Royal Adelaide Show
 September 20th, 2015 - City to Bay
 
 
 Service Updates:
 
-1) Tram timetables added for AFL Round 23. Bus and Train information to come soon!
+1) AO/AOX bus data for AFL Round 23 added for Southlink and Torrens Transit services. LCB information to come soon.
+2) Tram data for City to Bay event added in previous GTFS release.
+3) Royal Show bus and train services will be in operation from September 4th until September 13th.
+4) Stop 46 Mt Barker Rd - South side coordinates have changed.
 
 
 General Amendments:
 
 
-1) Minor update to shapes.txt for 300G route.
+1) Stop 61 Mt Barker Rd - South side removed from route T843. This route does not service this particular bus stop.
+2) Stop 41 St Vincent St - South side has been removed from routes 150 and 150B. This bus stop no longer exsists and was included in error.
 
