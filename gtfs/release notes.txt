@@ -19,15 +19,11 @@ September 20th, 2015 - City to Bay
 
 Service Updates:
 
-1) AO/AOX bus data for AFL Round 23 added for Southlink and Torrens Transit services. LCB information to come soon.
-2) Tram data for City to Bay event added in previous GTFS release.
-3) Royal Show bus and train services will be in operation from September 4th until September 13th.
-4) Stop 46 Mt Barker Rd - South side coordinates have changed.
+1) All AO/AOX trips have been added for AFL Round 23.
+5) Additional train trips that were in operation for AFL Round 21 have been removed due to industrial action.
 
 
 General Amendments:
 
-
-1) Stop 61 Mt Barker Rd - South side removed from route T843. This route does not service this particular bus stop.
-2) Stop 41 St Vincent St - South side has been removed from routes 150 and 150B. This bus stop no longer exsists and was included in error.
+None.
 
