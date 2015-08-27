@@ -36,7 +36,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 178A,5,178A,Paradise Interchange to Athlestone,"Terminates at stop 34 Gorge Road, Athelstone.",3,http://www.adelaidemetro.com.au/routes/178,B45231,ffffff,176-178-178X-579-N178
 178M,5,178M,City to Athelstone,"Terminates at stop 33M Maryvale Road, Athelstone.",3,http://www.adelaidemetro.com.au/routes/178M,B45231,ffffff,176-178-178X-579-N178
 178S,5,178S,City to Newton,"Terminates at stop 26 Montacute Road, Newton.",3,http://www.adelaidemetro.com.au/routes/178,B45231,ffffff,176-178-178X-579-N178
-178X,5,178X,Paradise Interchange to city,"via Lower Athelstone Road & Montacute Road. Express service.  Operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/178X,B45231,ffffff,176-178-178X-579-N178
+178X,5,178X,Paradise Interchange to City,"via Lower Athelstone Road & Montacute Road. Express service.  Operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/178X,B45231,ffffff,176-178-178X-579-N178
 190,5,190,Glenelg Interchange to City,"via Plympton Park, Edward Street and Unley Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/190,97ce8a,ffffff,190
 190B,5,190B,City to Mitcham Square,"Terminates at stop 12 Belair Road, Mitcham.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/190,97ce8a,ffffff,190
 195,5,195,Blackwood Station to City,"via Mitcham & Unley Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/195,FFC420,000000,195-195F-196-196F-197X
@@ -44,8 +44,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 196,5,196,Blackwood Station to City,"via Mitcham, Gloucester Avenue & Unley Road. Services operates 7 days.",3,http://www.adelaidemetro.com.au/routes/196,c60fed,ffffff,195-195F-196-196F-197X
 196F,5,196F,Blackwood Station to City,"via Mitcham & Unley Road.Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/196,c60fed,ffffff,195-195F-196-196F-197X
 197X,5,197X,Coromandel Station to City,"via Main Rd, Gloucester Ave, Mitcham & Unley Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/197X,c60fed,ffffff,195-195F-196-196F-197X
-200,7,200,Marion Centre Interchange to city ,"via Flinders Medical Centre, Eliza Place & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,a54399,ffffff,200
-200B,7,200B,Marion Centre Interchange to city ,"via Flinders Medical Centre, Strathcona Avenue & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,a54399,ffffff,200
+200,7,200,Marion Centre Interchange to City,"via Flinders Medical Centre, Eliza Place & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,a54399,ffffff,200
+200B,7,200B,Marion Centre Interchange to City,"via Flinders Medical Centre, Strathcona Avenue & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,a54399,ffffff,200
 200C,7,200C,City to Clapham,"Terminates at stop 20 Boothby Street, Clapham.",3,http://www.adelaidemetro.com.au/routes/200,a54399,ffffff,200
 202,7,202,Ingle Farm to City,"via Hampstead Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/202,9e9dc4,ffffff,202-202F-203-203F-209F-N202
 202F,7,202F,Ingle Farm to City,"via Hampstead Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/202F,7bc142,ffffff,202-202F-203-203F-209F-N202
@@ -57,7 +57,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 208B,7,208B,City to Broadview,"Terminates at stop 19 Regency Road, Broadview.",3,http://www.adelaidemetro.com.au/routes/208,85AA8E,ffffff,204-208-528
 208N,7,208N,City to Northgate,"Terminates at stop 27B Fosters Road, Northgate.",3,http://www.adelaidemetro.com.au/routes/208,85AA8E,ffffff,204-208-528
 209F,7,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,808284,ffffff,202-202F-203-203F-209F-N202
-21W,7,21W,Show Shuttle Bus,"City to Adelaide Showground.",3,http://www.adelaidemetro.com.au/routes/21W,4b711c,ffffff,21W
+21W,7,21W,Show Shuttle Bus,"City to Adelaide Showground. Service in operation for the duration of the Royal Adelaide Show only.",3,http://www.adelaidemetro.com.au/routes/21W,4b711c,ffffff,21W
 222,4,222,Mawson Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/222,00a261,ffffff,222
 222R,4,222R,City to Mawson Lakes,"via Roma Mitchell Secondary College. Operates school days only.",3,http://www.adelaidemetro.com.au/routes/222,7bc142,ffffff,222
 224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,f7b2bf,000000,224-224F-224X-226F-N224
@@ -67,13 +67,13 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 225F,4,225F,Salisbury Interchange to City,"via Mawson Interchange. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/225,f78e1e,ffffff,225-225F-225X
 225M,4,225M,Salisbury Interchange to Mawson Interchange,"Terminates at Mawson Interchange.",3,http://www.adelaidemetro.com.au/routes/225,f78e1e,ffffff,225-225F-225X
 225X,4,225X,Salisbury Interchange to City,"via Mawson Interchange. Service operates express from Mawson Interchange to stop 29 Main North Road then express to stop 4 O'Connell Street. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/225,f78e1e,ffffff,225-225F-225X
-228,4,228,Smithfield Interchange to city,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
-228F,4,228F,Smithfield Interchange to city,"via Main North Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
-228X,4,228X,Smithfield Interchange to city,"Service operates express from Mawson Interchange to stop 29 Main North Road then express to stop 4 O'Connell Street. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
+228,4,228,Smithfield Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
+228F,4,228F,Smithfield Interchange to City,"via Main North Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
+228X,4,228X,Smithfield Interchange to City,"Service operates express from Mawson Interchange to stop 29 Main North Road then express to stop 4 O'Connell Street. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X
 229,4,229,Para Hills to Gepps Cross,"via Pooraka. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
 229F,4,229F,Para Hills to city,"via Pooraka & Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
 229X,4,229X,Para Hills to city ,"via Pooraka & Main North Road. Service operates express from stop 29 Main North Road to stop 4 O'Connell Street. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,9d4948,ffffff,229-229F-229X
-22W,7,22W,O-Bahn Show Express Bus,"via Tea Tree Plaza Interchange, Paradise Interchange and Klemzig Station to Adelaide Showground. Limited services depart from Golden Grove Village Interchange.",3,http://www.adelaidemetro.com.au/routes/22W,4b711c,ffffff,22W
+22W,7,22W,O-Bahn Show Express Bus,"via Tea Tree Plaza Interchange, Paradise Interchange and Klemzig Station to Adelaide Showground. Limited services depart from Golden Grove Village Interchange. Service in operation for the duration of the Royal Adelaide Show only.",3,http://www.adelaidemetro.com.au/routes/22W,4b711c,ffffff,22W
 230,5,230,Port Adelaide Interchange to City,"via Addison Road & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/230,26318b,ffffff,230-232
 232,5,232,Port Adelaide Interchange to City,"via Newcastle Street & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/232,94a1a9,ffffff,230-232
 232R,5,232R,City to Rosewater,"Terminates at Stop 36 Grand Junction Road, Rosewater.",3,http://www.adelaidemetro.com.au/routes/232,94a1a9,ffffff,230-232

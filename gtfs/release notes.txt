@@ -10,7 +10,6 @@ October 5th, 2015 - Labour Day
 
 Special Events:
 
-August 22nd, 2015 - AFL Round 21
 August 30th, 2015 - AFL Round 22
 September 5th, 2015 - AFL Round 23
 September 4th, 2015 to September 13th, 2015 - Royal Adelaide Show
@@ -19,11 +18,12 @@ September 20th, 2015 - City to Bay
 
 Service Updates:
 
-1) All AO/AOX trips have been added for AFL Round 23.
-5) Additional train trips that were in operation for AFL Round 21 have been removed due to industrial action.
+1) Stop 2A Richmond Rd - North side has been removed from routes 167 and 168. This bus stop no longer exsists.
+2) Stop coordinates have changed for Stops 2, 3 and 3A Richmond Rd (all North side side only). Affects routes 167 and 168.
 
 
 General Amendments:
 
-None.
+1) Issue with H30 trip departing West Lakes at 3:08pm on weekdays has been resolved. Trip was shown as only servicing West Lakes and Paradise Interchange.
+2) Minor updates for AO/AOX trip data for Round 22.
 
