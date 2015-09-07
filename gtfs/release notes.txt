@@ -6,12 +6,15 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 October 5th, 2015 - Labour Day
+December 25th, 2015 - Christmas Day
+December 26th, 2015 - Boxing Day
+December 28th, 2015 - Proclamation Day
+January 1st, 2015 - New Year's Day
+
 
 
 Special Events:
 
-August 30th, 2015 - AFL Round 22
-September 5th, 2015 - AFL Round 23
 September 4th, 2015 to September 13th, 2015 - Royal Adelaide Show
 September 20th, 2015 - City to Bay
 
@@ -24,6 +27,11 @@ Service Updates:
 
 General Amendments:
 
-1) Issue with H30 trip departing West Lakes at 3:08pm on weekdays has been resolved. Trip was shown as only servicing West Lakes and Paradise Interchange.
-2) Minor updates for AO/AOX trip data for Round 22.
+1) Trams will now service Morphettville Racecourse on Saturdays between 9am and 6pm.
+2) There are some timepoint changes to routes 441 and 442. There isn't a big impact for the overall routes, however there will be some minor time differences ranging from 30seconds to 1 minutes.
+3) 734 departing Marion at 2:30pm on weekdays has had its time changed at Old Reynella. Service used to arrive at Old Reynella at 3:13pm, this has changed to 3:09pm.
+4) Some early morning 734 trips previously started at Stop 53A Adams Rd going to Colonnades. This has changed to stop 53C Adams Rd. Please see timetable for more information.
+5) Stop 28 Main South Rd - Inbound direction has been removed from all Southlink services that go to Flinders Medical Centre. This includes routes 721 and 722.
+6) Minor improvement made to J1A route map.
+7) Further minor improvements made to 300 route map.
 
