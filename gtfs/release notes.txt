@@ -6,24 +6,27 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 October 5th, 2015 - Labour Day
+December 25th, 2015 - Christmas Day
+December 26th, 2015 - Boxing Day
+December 28th, 2015 - Proclamation Day
+January 1st, 2016 - New Year's Day
+
 
 
 Special Events:
 
-August 30th, 2015 - AFL Round 22
-September 5th, 2015 - AFL Round 23
-September 4th, 2015 to September 13th, 2015 - Royal Adelaide Show
 September 20th, 2015 - City to Bay
 
 
 Service Updates:
 
-1) Stop 2A Richmond Rd - North side has been removed from routes 167 and 168. This bus stop no longer exsists.
-2) Stop coordinates have changed for Stops 2, 3 and 3A Richmond Rd (all North side side only). Affects routes 167 and 168.
+None.
 
 
 General Amendments:
 
-1) Issue with H30 trip departing West Lakes at 3:08pm on weekdays has been resolved. Trip was shown as only servicing West Lakes and Paradise Interchange.
-2) Minor updates for AO/AOX trip data for Round 22.
+1) Improved Parent Station namings.
 
+2) Added Parent Station for "Stop Tram Morphettville Racecourse" stops.
+
+3) Improved route paths for routes going through West Lakes Interchange.
