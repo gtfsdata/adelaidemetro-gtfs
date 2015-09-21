@@ -324,7 +324,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 784,41,784,Seaview High School to Sheidow Park,"School Service. Via Seacliff Park & Trott Park.",3,http://www.adelaidemetro.com.au/routes/784,006c64,ffffff,
 785,41,785,Sheidow Park to Seaview High School,"School Service. Via Trott Park & Seacliff Park.",3,http://www.adelaidemetro.com.au/routes/785,006c64,ffffff,
 786,41,786,Old Reynella to Woodcroft College,"School Service. Via Reynella East & Woodcroft.",3,http://www.adelaidemetro.com.au/routes/786,006c64,ffffff,
-820,4,820,Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
+820,4,820,Stirling & Carey Gully to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 820S,4,820S,City to Stirling,,3,http://www.adelaidemetro.com.au/routes/820,f89728,ffffff,820-821
 821,4,821,Aldgate to Glenunga High School,"via Stirling, Piccadilly,  Greenhill Road, Pembroke School, Burnside Village. Limited service operates school days only.",3,http://www.adelaidemetro.com.au/routes/821,00a9a7,ffffff,820-821
 823,4,823,Crafers to Cleland Wildlife Park,"via Mount Lofty. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/823,e51737,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864

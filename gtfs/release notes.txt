@@ -15,18 +15,18 @@ January 1st, 2016 - New Year's Day
 
 Special Events:
 
-September 20th, 2015 - City to Bay
+October 28th, 2015 - Fleetwood Mac concert at Cooper's Stadium
 
 
 Service Updates:
 
-None.
+1) Additional tram services will be in operation on October 28th, 2015 for the Fleetwood Mac concert at Cooper's Stadium.
 
 
 General Amendments:
 
-1) Improved Parent Station namings.
+1) Several improvements made to stop names. Includes improvements to road abbriviations, removing double spacing, and improvments to the "side of road" names.
 
-2) Added Parent Station for "Stop Tram Morphettville Racecourse" stops.
+2) Changed the 820 route heading to better reflect the route path.
 
-3) Improved route paths for routes going through West Lakes Interchange.
+3) Stop coordinates for Stop 21A Cashel St (both sides) changed. The coordinates have been switched.
