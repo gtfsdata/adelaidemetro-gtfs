@@ -9,37 +9,39 @@ December 25th, 2015 - Christmas Day
 December 26th, 2015 - Boxing Day
 December 28th, 2015 - Proclamation Day
 January 1st, 2016 - New Year's Day
-
+March 14th, 2016 - Adelaide Cup Day
+Marth 15th, 2016 - Good Friday
+March 28th, 2016 - Easter Monday
 
 
 Special Events:
 
 October 28th, 2015 - Fleetwood Mac concert at Cooper's Stadium
-October 9 until November 1, 2015 - Weekend Rail closures
+October 30 until November 1, 2015 - Weekend Rail closures
+November 14th, 2015 - Christmas Pageant
+
 
 Service Updates:
 
 1) Every Friday, Saturday and Sunday from October 9 - November 1 there will be rail closures on the Outer Harbor and Grange train lines. Some trips will only do a portion of their journey while other trips are removed entirely. There are substitue buses in place for the closure. Please visit www.adelaidemetro.com.au for more information.
 
+2) Rail Closure for October 23-25 has been canceled and removed from the GTFS.
+
+3) Special Tram timetable for Melbourne Cup 3rd November, 2015.
+
+4) Christmas Pageant trips added for Tram and Train routes.
+
 
 General Amendments:
 
-1) Improvements made to 228/228X map data.
+1) Route 544 no longer services stops U2 and W2 in the city.
 
-2) Stop 49/B Church St removed from route 405
+2) Stop 16A Ferry Ave has been removed
 
-3) Stop 94 Alawoona Rd - East side removed. Stop does not exist.
+3) Stop coordinates for Stop 55 Mt Barker Rd (both sides) changed.
 
-4) Stop 49/B Church St changed to 49/A for 560/560P/560B services travelling to TTP
+4) Stop coordinates for Stop 78 Patapinda Rd have changed (east side only)
 
-5) Stop 23A Seaview Rd (both sides) removed from route 300 and various school routes
+5) Stop 62 Illyarrie Ave northern side is now stop 61A Illyarrie Ave
 
-6) Stop 24 Seaview Rd has changed coordinates (both sides)
-
-7) Map data for all buses traveling on Churchill rd and Torrens Rd has been improved. Mainly at Churchill Rd/Torrens Rd intersection.
-
-8) Stopping pattern for school route 951 changed
-
-9) Timepoints added to route 989 - some minor time changes throughout route
-
-10) Going towards the city, route 225 now services Zone A Main St instead of Zone B.
+6) Stop 62A Zealand St is now stop 61B Zeland St
