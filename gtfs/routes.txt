@@ -96,6 +96,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 263,7,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,0078ae,ffffff,262-262F-263-265-N262
 265,7,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,262-262F-263-265-N262
 265B,7,265B,City to Brighton,"City to stop 36, Cedar Avenue, Brighton",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,262-262F-263-265-N262
+265G,7,265G,Marion Centre Interchange to Glenelg Interchange,"Terminates at Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,
 265W,7,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,262-262F-263-265-N262
 271,7,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,86AE61,ffffff,271-273
 273,7,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,DBB65B,000000,271-273

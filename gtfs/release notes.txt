@@ -23,25 +23,13 @@ November 14th, 2015 - Christmas Pageant
 
 Service Updates:
 
-1) Every Friday, Saturday and Sunday from October 9 - November 1 there will be rail closures on the Outer Harbor and Grange train lines. Some trips will only do a portion of their journey while other trips are removed entirely. There are substitue buses in place for the closure. Please visit www.adelaidemetro.com.au for more information.
-
-2) Rail Closure for October 23-25 has been canceled and removed from the GTFS.
-
-3) Special Tram timetable for Melbourne Cup 3rd November, 2015.
-
-4) Christmas Pageant trips added for Tram and Train routes.
+1) Christmas Pageant trips added for all bus, tram and train routes.
 
 
 General Amendments:
 
-1) Route 544 no longer services stops U2 and W2 in the city.
+1) Stop 20 Marion Rd removed from route 976.
 
-2) Stop 16A Ferry Ave has been removed
+2) Minor updates made to trip data for the October 30th rail closure.
 
-3) Stop coordinates for Stop 55 Mt Barker Rd (both sides) changed.
-
-4) Stop coordinates for Stop 78 Patapinda Rd have changed (east side only)
-
-5) Stop 62 Illyarrie Ave northern side is now stop 61A Illyarrie Ave
-
-6) Stop 62A Zealand St is now stop 61B Zeland St
+3) Minor updates to route 273. Trips going to Pradise interchange have a route change and will now service stop 29D Sudholz Rd.
