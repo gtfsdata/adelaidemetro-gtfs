@@ -16,20 +16,16 @@ March 28th, 2016 - Easter Monday
 
 Special Events:
 
-October 28th, 2015 - Fleetwood Mac concert at Cooper's Stadium
-October 30 until November 1, 2015 - Weekend Rail closures
 November 14th, 2015 - Christmas Pageant
+November 21st, 2015 - AC/DC Concert at Adelaide Oval
 
 
 Service Updates:
 
 1) Christmas Pageant trips added for all bus, tram and train routes.
+2) Special AO/AOX bus trips will be in operation for the AC/DC concert at Adelaide Oval. Train and Tram data will be added closer to the date.
 
 
 General Amendments:
 
-1) Stop 20 Marion Rd removed from route 976.
-
-2) Minor updates made to trip data for the October 30th rail closure.
-
-3) Minor updates to route 273. Trips going to Pradise interchange have a route change and will now service stop 29D Sudholz Rd.
+1) Updates to Torrens Transit trip data for Christmas Pageant.
