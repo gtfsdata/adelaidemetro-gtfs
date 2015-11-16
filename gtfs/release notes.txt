@@ -16,16 +16,15 @@ March 28th, 2016 - Easter Monday
 
 Special Events:
 
-November 14th, 2015 - Christmas Pageant
 November 21st, 2015 - AC/DC Concert at Adelaide Oval
+November 22nd, 2015 - Glenelg Christmas Pageant
 
 
 Service Updates:
 
-1) Christmas Pageant trips added for all bus, tram and train routes.
-2) Special AO/AOX bus trips will be in operation for the AC/DC concert at Adelaide Oval. Train and Tram data will be added closer to the date.
+1) Special AO/AOX bus, train and tram trips will be in operation for the AC/DC concert at Adelaide Oval.
+2) Specail tram timetable on November 22nd for Glenelg Christmas Pageant.
 
 
 General Amendments:
-
-1) Updates to Torrens Transit trip data for Christmas Pageant.
+1) Some duplicate trips removed from AO/AOX bus data that was previously released for AC/DC concert.
