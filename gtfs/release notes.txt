@@ -18,13 +18,23 @@ Special Events:
 
 November 21st, 2015 - AC/DC Concert at Adelaide Oval
 November 22nd, 2015 - Glenelg Christmas Pageant
+November 28-29, 2015 - Special Tram timetable
+December 5-6, 2015 - Special Tram timetable
 
 
 Service Updates:
 
 1) Special AO/AOX bus, train and tram trips will be in operation for the AC/DC concert at Adelaide Oval.
 2) Specail tram timetable on November 22nd for Glenelg Christmas Pageant.
+3) Speical tram timetable operating on the weekends of November 28-29 and December 5-6. This is due to multiple events happening in Adelaide on those dates, requiring increased frequency,
+4) Stop updates along Aldinga Rd:
+
+Bus stop 100 (new stop)
+Bus stop 99A changed to 101
+Bus stop 99B changed to 102
+Bus stop 100 changed to 103
 
 
 General Amendments:
-1) Some duplicate trips removed from AO/AOX bus data that was previously released for AC/DC concert.
+
+None.
