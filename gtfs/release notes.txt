@@ -17,15 +17,18 @@ March 28th, 2016 - Easter Monday
 Special Events:
 
 December 18 - Twilight Races at Morphettville Racecourse
+December 26-29 - Belair Rail Closure
+December 27-28 - Seaford Closure
+December 29-31 - Christmas Reductions
+
 
 
 Service Updates:
 
-1) Special tram timetable on December 18 for Twilight Races event at Morphettville Racecourse
-
+1) December 26-29 the Belair train line will be closed. Sub buses are in operation for the duration of the closure, please see www.adelaidemetro.com.au for further information.
+2) December 27-28 the Seaford train line will have night closures. Sub buses will be in operation, please see www.adelaidemetro.com.au for more information. Please note that January Seaford closures information will be added to the GTFS at a later date.
+3) December 29-31 there will be reduced services across bus, train and tram. Special timetables are in place for the duration. Please see www.adelaidemetro.com.au for further information.
 
 General Amendments:
 
-1) 723F departing Stop A1 King William Rd to Colonnades at 5:10pm will now service Stop D2 at 5:15pm.
-
-2) 723X departing Stop A1 King William Rd to Colonnades at 5:15pm will now service Stop D2 at 5:24pm.
+None.
