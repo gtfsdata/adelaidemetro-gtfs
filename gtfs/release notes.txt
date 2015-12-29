@@ -5,9 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-December 25th, 2015 - Christmas Day
-December 26th, 2015 - Boxing Day
-December 28th, 2015 - Proclamation Day
 January 1st, 2016 - New Year's Day
 March 14th, 2016 - Adelaide Cup Day
 Marth 15th, 2016 - Good Friday
@@ -17,19 +14,17 @@ March 28th, 2016 - Easter Monday
 Special Events:
 
 December 26-29 - Belair Rail Closure
-December 27-28 - Seaford Partial Closure
 December 29-31 - Christmas Reductions
-December 31 - Additional New Year's Eve services in operation
+December 31 - Additional New Year's Eve services
 January 2-3 - Seaford Full Closure
 January 4-25 - Seaford Partial Closure
 
 
 Service Updates:
 
-1) Data for Christmas Reductions on 31st December has been added.
-2) There will be additional services in operation for New Year's Eve on December 31st. Please see www.adelaidemetro.com.au for more information.
-3) January 2-25, 2016 there will be both full and partial Seaford trainline closures. There are sub buses in place, please see www.adelaidemetro.com.au for more information.
+None.
 
 General Amendments:
 
-1) Some minor corrections for the Christmas Reductions Data that is valid for December 29-30.
+1) N5 substitue bus trips for Seaford closure have been added.
+2) Minor updates to New Year's Eve information.

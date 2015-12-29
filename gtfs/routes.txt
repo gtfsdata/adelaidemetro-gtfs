@@ -268,6 +268,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 720,4,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,f16681,ffffff,640-719-720
 720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/720,f16681,ffffff,640-719-720
 721,4,721,Noarlunga Centre Interchange to City ,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
+721A,4,721A,Noarlunga Centre Interchange to Old Reynella Interchange,"Termintes at Old Reynella Interchange.",3,http://www.adelaidemetro.com.au/routes/721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 721F,4,721F,Noarlunga Centre Interchange to City ,"via Main South Reynella Interchange. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 721L,4,721L,Noarlunga Centre Interchange to Lonsdale Depot,"Terminates at Lonsdale Depot.",3,http://www.adelaidemetro.com.au/routes/721L,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 721R,4,721R,Flinders Medical Centre to Old Reynella Interchange,"via Main South Road.",3,http://www.adelaidemetro.com.au/routes/721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
@@ -519,9 +520,10 @@ N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,,3,http://w
 N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,006c64,ffffff,224-224F-224X-226F-N224
 N254,7,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,006c64,ffffff,253-253X-254-254X-N254
 N262,7,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,006c64,ffffff,262-262F-263-265-N262
-N3,4,N3,Noarlunga to City,"via Lonsdale, Seacliff and Oaklands - limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,C6006F,ffffff,
+N3,4,N3,Seaford to City,"via Lonsdale, Seacliff and Oaklands - limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,C6006F,ffffff,
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,255AAA,ffffff,H30-X30-N30
-N4,4,N4,Noarlunga to City,"via Hallett Cove, Marino and Oaklands.",3,http://www.adelaidemetro.com.au/routes/N4,003D7D,ffffff,
+N4,4,N4,Seaford to City,"via Hallett Cove, Marino and Oaklands.",3,http://www.adelaidemetro.com.au/routes/N4,003D7D,ffffff,
+N5,4,N5,Brighton to City,"peak express service.",3,http://www.adelaidemetro.com.au/routes/N5,00703C,ffffff,
 N502,7,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,D6DF23,000000,500-501-502-502X-N502
 N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,A0CC42,000000,541-541X-N541
 N542,7,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,A0CC42,ffffff,542-542X-N542-N541
