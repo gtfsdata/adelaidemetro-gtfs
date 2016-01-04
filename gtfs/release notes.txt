@@ -5,7 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-January 1st, 2016 - New Year's Day
+January 26th, 2016 - Australia Day
 March 14th, 2016 - Adelaide Cup Day
 Marth 15th, 2016 - Good Friday
 March 28th, 2016 - Easter Monday
@@ -13,18 +13,15 @@ March 28th, 2016 - Easter Monday
 
 Special Events:
 
-December 26-29 - Belair Rail Closure
-December 29-31 - Christmas Reductions
-December 31 - Additional New Year's Eve services
-January 2-3 - Seaford Full Closure
 January 4-25 - Seaford Partial Closure
 
 
 Service Updates:
 
-None.
+1) A general "tidy-up" of the GTFS (removed trips that are no longer valid, etc).
+2) Seaford trains will now return to service on January 26, 2016.
+
 
 General Amendments:
 
-1) N5 substitue bus trips for Seaford closure have been added.
-2) Minor updates to New Year's Eve information.
+1) 750 departing Stop 137 Perth St at 7:30am on weekdays going to Noarlunga has been changed to a 750R. This service now only travels to Seaford Interchange.
