@@ -13,15 +13,15 @@ March 28th, 2016 - Easter Monday
 
 Special Events:
 
-January 4-25 - Seaford Partial Closure
+1) Service changes on January 26th, 2016.
 
 
 Service Updates:
 
-1) A general "tidy-up" of the GTFS (removed trips that are no longer valid, etc).
-2) Seaford trains will now return to service on January 26, 2016.
+1) Special tram timetables in operation on January 20, 21, 24 and 26.
+2) Service changes on January 26th, 2016. Please see www.adelaidemetro.com.au for detailed information.
 
 
 General Amendments:
 
-1) 750 departing Stop 137 Perth St at 7:30am on weekdays going to Noarlunga has been changed to a 750R. This service now only travels to Seaford Interchange.
+None.
