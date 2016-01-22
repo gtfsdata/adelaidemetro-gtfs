@@ -18,10 +18,11 @@ Special Events:
 
 Service Updates:
 
-1) Special tram timetables in operation on January 20, 21, 24 and 26.
+1) Special tram timetables in operation on January 24 and 26.
 2) Service changes on January 26th, 2016. Please see www.adelaidemetro.com.au for detailed information.
 
 
 General Amendments:
 
-None.
+1) Updates to service change information including school day only trips, and some stopping patterns for O-Bahn services.
+2) Route T228 added to GTFS feed.
