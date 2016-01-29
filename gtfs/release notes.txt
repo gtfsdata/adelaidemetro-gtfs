@@ -5,24 +5,22 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-January 26th, 2016 - Australia Day
 March 14th, 2016 - Adelaide Cup Day
-Marth 15th, 2016 - Good Friday
+Marth 25th, 2016 - Good Friday
 March 28th, 2016 - Easter Monday
 
 
 Special Events:
 
-1) Service changes on January 26th, 2016.
+None.
 
 
 Service Updates:
 
-1) Special tram timetables in operation on January 24 and 26.
-2) Service changes on January 26th, 2016. Please see www.adelaidemetro.com.au for detailed information.
-
+None.
 
 General Amendments:
 
-1) Updates to service change information including school day only trips, and some stopping patterns for O-Bahn services.
-2) Route T228 added to GTFS feed.
+1) Slight changes to routes 235, 238, 239, 271 and 273. After January 25th, these routes no longer travel through Pulteney St or North Tce.
+
+2) Two 750 trips departing Stop 117 Rowley Rd at 22:28 towards Seaford on Saturday and Sunday have been removed. These trips should be operating as 750R (which was already in the data).
