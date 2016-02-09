@@ -6533,7 +6533,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 100210,17315,Stop 84 Somerset Gr - West side,,-34.6878849271902,138.714984887469,,http://www.adelaidemetro.com.au/stops/view/17315,,,,
 100211,17316,Stop 84 Somerset Gr - East side,,-34.6883353369109,138.714885151393,,http://www.adelaidemetro.com.au/stops/view/17316,,,,
 100221,17326,Stop 9A Hamra Dr - South side,,-34.934231543,138.541028891,,http://www.adelaidemetro.com.au/stops/view/17326,,,,
-100223,17327,Stop 10 Airport Rd - South East side,,-34.938959,138.534954,,http://www.adelaidemetro.com.au/stops/view/17327,,,,
+100223,17327,Stop 10 Adelaide Airport Rd,,-34.938959,138.534954,,http://www.adelaidemetro.com.au/stops/view/17327,,,,
 100226,17330,Stop 78 Golden Grove Rd - North West side,,-34.7707179791326,138.724087693946,,http://www.adelaidemetro.com.au/stops/view/17330,,,,
 100227,17331,Stop 78 Golden Grove Rd - South East side,,-34.7711651244944,138.724532876566,,http://www.adelaidemetro.com.au/stops/view/17331,,,,
 100228,17332,Stop 79 Golden Grove Rd - West side,,-34.7775335949993,138.724228215036,,http://www.adelaidemetro.com.au/stops/view/17332,,,,

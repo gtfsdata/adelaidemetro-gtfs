@@ -8,19 +8,23 @@ Upcoming Public Holidays:
 March 14th, 2016 - Adelaide Cup Day
 Marth 25th, 2016 - Good Friday
 March 28th, 2016 - Easter Monday
+April 25th, 2016 - Anzac Day
+June 13th, 2016 - Queen's Birthday and Volunteers' Day
 
 
 Special Events:
 
-None.
-
+February 11, 2016 to March 12, 2016 - Adelaide Fringe
+March 3, 2016 to March 6, 2016 - Clipsal 500
 
 Service Updates:
 
-None.
+1) Special Tram timetable in operation every Friday and Saturday between February 12 until March 12. Also special tram timetable operating on SUnday, March 6.
+2) Route 99C has extended operation hours for the duration of the Fringe.
+3) Calandar.txt extended to July for normal services.
+4) Additional Seaford and Gawler Central train services in operation on February 13 for the Fringe opening parade.
 
 General Amendments:
 
-1) Slight changes to routes 235, 238, 239, 271 and 273. After January 25th, these routes no longer travel through Pulteney St or North Tce.
-
-2) Two 750 trips departing Stop 117 Rowley Rd at 22:28 towards Seaford on Saturday and Sunday have been removed. These trips should be operating as 750R (which was already in the data).
+1) Updates to stopping patterns for O-Bahn routes.
+2) Updated stopping pattern of school route 653.
