@@ -19,12 +19,10 @@ March 3, 2016 to March 6, 2016 - Clipsal 500
 
 Service Updates:
 
-1) Special Tram timetable in operation every Friday and Saturday between February 12 until March 12. Also special tram timetable operating on SUnday, March 6.
-2) Route 99C has extended operation hours for the duration of the Fringe.
-3) Calandar.txt extended to July for normal services.
-4) Additional Seaford and Gawler Central train services in operation on February 13 for the Fringe opening parade.
+None.
 
 General Amendments:
 
-1) Updates to stopping patterns for O-Bahn routes.
-2) Updated stopping pattern of school route 653.
+1) Minor update to name of Stop 10 Airport Rd. Changed to Stop 10 Adelaide Airport.
+
+2) Stop V1 removed from 721, 721F, 721X, T721, 722, 722F, T722, 722X, 723F, 720 and 719 routes.
