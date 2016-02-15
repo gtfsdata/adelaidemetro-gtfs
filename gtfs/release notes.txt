@@ -16,6 +16,7 @@ Special Events:
 
 February 11, 2016 to March 12, 2016 - Adelaide Fringe
 March 3, 2016 to March 6, 2016 - Clipsal 500
+Marc 11, 2016 to March 14, 2016 - WOMAdelaide
 
 Service Updates:
 
@@ -23,6 +24,16 @@ None.
 
 General Amendments:
 
-1) Minor update to name of Stop 10 Airport Rd. Changed to Stop 10 Adelaide Airport.
+1) Stop 41 Nelson St added to routes 350, 33, 150 and N254 (Away from city direction only).
 
-2) Stop V1 removed from 721, 721F, 721X, T721, 722, 722F, T722, 722X, 723F, 720 and 719 routes.
+2) Sop V1 King William St removed from all 721, 722, 723 routes (to city direction only).
+
+3) Some 273 trips still had Y1 Pulteney St displaying. These have been removed and replaced with H2 Grenfell St.
+
+4) Added Stops 28C and 28B sargent pde to 601 route. These apply to the western side as eastern side already exsisted.
+
+5) Time adjustments to 281 on Saturday and Sunday nights at B1 North Tce away from city direction. Times now match 287 arrival time for through-link.
+
+6) Stop 78A Curits Rd (both sides) removed from routes 451, 461 and 462.
+
+7) Stop coordinates improved for Stop 78 Curtis Rd (both sides).
