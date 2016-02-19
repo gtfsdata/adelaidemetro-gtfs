@@ -24,18 +24,6 @@ None.
 
 General Amendments:
 
-1) Stop 41 Nelson St added to routes 350, 33, 150 and N254 (Away from city direction only).
+1) Updates to Tram Saturday trips for the duration of the Fringe.
 
-2) Sop V1 and X1 King William St removed from all 721, 722, 723 routes (to city direction only). Replaced with Stop W2 King William St.
-
-3) Some 273 trips still had Y1 Pulteney St displaying. These have been removed and replaced with H2 Grenfell St.
-
-4) Added Stops 28C and 28B sargent pde to 601 route. These apply to the western side as eastern side already exsisted.
-
-5) Time adjustments to 281 on Saturday and Sunday nights at B1 North Tce away from city direction. Times now match 287 arrival time for through-link.
-
-6) Stop 78A Curits Rd (both sides) removed from routes 451, 461 and 462.
-
-7) Stop coordinates improved for Stop 78 Curtis Rd (both sides).
-
-8) Routes 820, 821 and 822 now service Stop H1 Wakefield St instead of I1 (away from city direction only).
+2) Route 206 now services Stop 20 Regency Rd (north side).
