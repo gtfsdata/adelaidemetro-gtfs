@@ -16,14 +16,16 @@ Special Events:
 
 February 11, 2016 to March 12, 2016 - Adelaide Fringe
 March 3, 2016 to March 6, 2016 - Clipsal 500
-Marc 11, 2016 to March 14, 2016 - WOMAdelaide
+March 11, 2016 to March 14, 2016 - WOMAdelaide
 
 Service Updates:
 
-None.
+1) Added additional bus and train services for Clipsal 2016.
+
+2) Added special Tram timetable for Adelaide Cup 2016.
 
 General Amendments:
 
-1) Updates to Tram Saturday trips for the duration of the Fringe.
+1) Minor updates to some School route headers. Headers are now more descriptive.
 
-2) Route 206 now services Stop 20 Regency Rd (north side).
+2) Changed name for temporary stop on Hackney road. Stop name is now consistant with naming conventions for temporary stops.

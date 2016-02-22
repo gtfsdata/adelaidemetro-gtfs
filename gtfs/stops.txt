@@ -7445,7 +7445,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101396,18487,Stop 53A Lonsdale Rd - South East side,,-35.081977,138.51319,,http://www.adelaidemetro.com.au/stops/view/18487,,,,
 101397,18488,Stop 56B Windebanks Rd - South side,,-35.081226,138.584365,,http://www.adelaidemetro.com.au/stops/view/18488,,,,
 101398,18489,Stop Temp Rundle Rd - North side,,-34.92225,138.61272,,http://www.adelaidemetro.com.au/stops/view/18489,,,,
-101399,18490,Temporary WOMAdelaide stop Hackney Rd - West side,,-34.916239,138.614152,,http://www.adelaidemetro.com.au/stops/view/18490,,,,
+101399,18490,Stop Temp Hackney Rd - West side,,-34.916239,138.614152,,http://www.adelaidemetro.com.au/stops/view/18490,,,,
 101400,18491,Stop V Currie St - South side,,-34.924513,138.598942,,http://www.adelaidemetro.com.au/stops/view/18491,,,,
 101401,18492,Zone C West Lakes Interchange - East side,,-34.878386,138.491605,,http://www.adelaidemetro.com.au/stops/view/18492,,,,
 101402,18493,Zone A West Lakes Interchange - North side,,-34.87837,138.491318,,http://www.adelaidemetro.com.au/stops/view/18493,,,,
