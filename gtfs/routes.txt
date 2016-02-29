@@ -457,7 +457,7 @@ C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange.
 C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
-C500,7,C500,Clipsal O-Bahn Shuttle Service,"via Tea Tree Plaza to Rundle Road.",3,http://www.adelaidemetro.com.au/routes/C500,C39A6B,ffffff,
+C500,7,C500,Clipsal O-Bahn Shuttle Service,"via Tea Tree Plaza to Rundle Road. Service operates for the duration of the Clipsal 500, 3-6 March 2016.",3,http://www.adelaidemetro.com.au/routes/C500,C39A6B,ffffff,
 G10,7,G10,Marion Centre Interchange to Blair Athol ,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
@@ -541,7 +541,7 @@ W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bra
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
 W91C,5,W91C,St Marys to City ,"Terminates in city.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
-WOMAD,5,WOMAD,WOMAdelaide Anti-Clockwise Loop Service,,3,http://www.adelaidemetro.com.au/womad,4b711c,ffffff,
+WOMAD,5,WOMAD,WOMAdelaide Anti-Clockwise Loop Service,"Service operates for the duration of WOMAdelaide only, 11-14 March 2016.",3,http://www.adelaidemetro.com.au/womad,4b711c,ffffff,
 X30,5,X30,West Lakes Centre Interchange to Paradise Interchange,"Express between stop 8 Henley Beach Road and stop B1 Currie Street.",3,http://www.adelaidemetro.com.au/routes/X30,77BC1F,ffffff,H30-X30-N30
 X30C,5,X30C,West Lakes Centre Interchange to city,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at the city.",3,http://www.adelaidemetro.com.au/routes/X30C,77BC1F,ffffff,H30-X30-N30
 X30S,5,X30S,West Lakes Centre Interchange to Newton,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at stop 30 Stradbroke Road.",3,http://www.adelaidemetro.com.au/routes/X30S,77BC1F,ffffff,H30-X30-N30

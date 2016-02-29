@@ -20,12 +20,8 @@ March 11, 2016 to March 14, 2016 - WOMAdelaide
 
 Service Updates:
 
-1) Added additional bus and train services for Clipsal 2016.
-
-2) Added special Tram timetable for Adelaide Cup 2016.
+None.
 
 General Amendments:
 
-1) Minor updates to some School route headers. Headers are now more descriptive.
-
-2) Changed name for temporary stop on Hackney road. Stop name is now consistant with naming conventions for temporary stops.
+1) Minor updates to route 150. Specifically, trips departing North Tce R2 at 16:20, 16:50 and 17:22 on weekdays and 17:05 Sat/Sun now have stops between Port Adelaide and Stop 60 Victoria Rd.
