@@ -5,7 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-March 14th, 2016 - Adelaide Cup Day
 Marth 25th, 2016 - Good Friday
 March 28th, 2016 - Easter Monday
 April 25th, 2016 - Anzac Day
@@ -14,18 +13,16 @@ June 13th, 2016 - Queen's Birthday and Volunteers' Day
 
 Special Events:
 
-February 11, 2016 to March 12, 2016 - Adelaide Fringe
-March 3, 2016 to March 6, 2016 - Clipsal 500
-March 11, 2016 to March 14, 2016 - WOMAdelaide
-March 14th, 2016 - Adelaide Cup Day
 March 20th, 2016 - Bay to City
 
 Service Updates:
 
-1) Special tram timetable in operation for Bay to City on March 20th.
+1) O-Bahn timetable changes from March 21st. Due to tunnel extension to city the timetables have been ammeded to allow for minor trip time increases.
+
+2) We have included AO/AOX route and trip data for the AFL 2016 season. This applies to rounds 1-4 only, with more to come soon.
+
+3) AO/AOX routes in operation on March 24th for FIFA soccer match at Adlaide Oval.
 
 General Amendments:
 
-1) Route 99B now services Stop E3 Currie St.
-
-2) Route H33 now services Stop 29B East Tce - East side.
+None.
