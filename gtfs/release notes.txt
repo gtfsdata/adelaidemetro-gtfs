@@ -5,24 +5,19 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Marth 25th, 2016 - Good Friday
-March 28th, 2016 - Easter Monday
 April 25th, 2016 - Anzac Day
 June 13th, 2016 - Queen's Birthday and Volunteers' Day
 
 
 Special Events:
 
-March 20th, 2016 - Bay to City
+1) Gawler Central night closures April 5-15.
 
 Service Updates:
 
-1) O-Bahn timetable changes from March 21st. Due to tunnel extension to city the timetables have been ammeded to allow for minor trip time increases.
-
-2) We have included AO/AOX route and trip data for the AFL 2016 season. This applies to rounds 1-4 only, with more to come soon.
-
-3) AO/AOX routes in operation on March 24th for FIFA soccer match at Adlaide Oval.
+1) There will be closures on the Gawler Central train line April 5 - 15. The last trip going to the city and away from the city will not operate and be replaced by a substitue bus service (GA1, GA2).
 
 General Amendments:
 
-None.
+1) Some missing 734 trips have been added to the GTFS
+2) Minor updates for AFL Round 2 trip information.
