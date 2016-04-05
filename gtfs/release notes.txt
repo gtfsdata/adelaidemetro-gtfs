@@ -12,12 +12,13 @@ June 13th, 2016 - Queen's Birthday and Volunteers' Day
 Special Events:
 
 1) Gawler Central night closures April 5-15.
+2) Grange and Outer Harbour closure April 9-10
 
 Service Updates:
 
-1) There will be closures on the Gawler Central train line April 5 - 15. The last trip going to the city and away from the city will not operate and be replaced by a substitue bus service (GA1, GA2).
+1) Added Grange and Outer Harbour closure data.
+2) Added data for AFL Rounds 5 and 6.
 
 General Amendments:
 
-1) Some missing 734 trips have been added to the GTFS
-2) Minor updates for AFL Round 2 trip information.
+1) Minor updates for AFL Round 3 trip information.

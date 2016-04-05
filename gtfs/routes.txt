@@ -499,8 +499,8 @@ G22X,7,G22X,Aberfoyle Park to city,"Limited stop & express service. Operates Mon
 G30F,7,G30F,Blackwood Interchange to city,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,599137,ffffff,600-601-605-G30F
 G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,7894A3,ffffff,G40
 G40M,7,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,7894A3,ffffff,G40
-GA1,2,GA1,City to Gawler Central,"Train substituate service.",3,http://www.adelaidemetro.com.au/routes/GA1,f79433,ffffff,GAWC-GAW-SALIS-GA1-GA2
-GA2,2,GA2,City to Gawler Central,"Train substituate service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,58595b,ffffff,GAWC-GAW-SALIS-GA1-GA2
+GA1,4,GA1,City to Gawler Central,"Train substituate service. Operates April 5-15 only, except April 8.",3,http://www.adelaidemetro.com.au/routes/GA1,f79433,ffffff,GAWC-GAW-SALIS-GA1-GA2
+GA2,4,GA2,City to Gawler Central,"Train substituate service limited stop service.  Operates April 5-15 only, except April 8.",3,http://www.adelaidemetro.com.au/routes/GA2,58595b,ffffff,GAWC-GAW-SALIS-GA1-GA2
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,b45240,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,b45240,ffffff,GAWC-GAW-SALIS
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,936eb0,ffffff,OUTHA-OSBORN-GRNG
@@ -565,6 +565,7 @@ T843,4,T843,Mount Barker to City,"via Hahndorf and South Eastern Freeway.  Limit
 T863,4,T863,Aldgate to City,"via Stirling and Crafers. Limited stop service. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/T863,1b5257,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 TONS,2,TONS,Tonsley to City,"via Covelly Park & Goodwood. Service operates Monday to Friday.",2,http://www.adelaidemetro.com.au/routes/Tonsley,0065a4,ffffff,SEAFRD-TONS
 Tram,2,Tram,Glenelg to Entertainment Centre ,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street, North Terrace & Port Road. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/Tram,e91839,ffffff,Tram
+W1,5,W1,Woodville to City,"Train substitue service. Operates April 9-10 only.",3,http://www.adelaidemetro.com.au/routes/W1,4b711c,ffffff,G1-H1-H3-W1
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91

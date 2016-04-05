@@ -7406,6 +7406,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 101276,18367,Stop School Pasadena High School Daws Rd,,-34.992277,138.590615,,http://www.adelaidemetro.com.au/stops/view/18367,,,,
 101279,18370,Stop 29 Clark Tce - North West side,,-34.88896,138.5161,,http://www.adelaidemetro.com.au/stops/view/18370,,,,
 101280,18371,Stop 29 Clark Tce - South East side,,-34.889203,138.516045,,http://www.adelaidemetro.com.au/stops/view/18371,,,,
+101281,18372,Woodville - Train substitute temporary Stop,,-34.877569,138.53812,,http://www.adelaidemetro.com.au/stops/view/18372,,,,
 101304,18395,Zone A Main St - West side,,-34.809514,138.616863,,http://www.adelaidemetro.com.au/stops/view/18395,,,,
 101305,18396,Zone C Main St - East side,,-34.810511,138.616997,,http://www.adelaidemetro.com.au/stops/view/18396,,,,
 101306,18397,Stop 86 Springvale Dr - East side,,-34.6836615,138.71105,,http://www.adelaidemetro.com.au/stops/view/18397,,,,
