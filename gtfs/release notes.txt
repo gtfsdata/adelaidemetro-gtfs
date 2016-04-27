@@ -11,14 +11,16 @@ June 13th, 2016 - Queen's Birthday and Volunteers' Day
 
 Special Events:
 
-1) Gawler Central night closures April 5-15.
-2) Grange and Outer Harbour closure April 9-10
+1) Grange and Outer Harbour closure May 14-15
+2) ANZAC Day Before Dawn Services + Special Tram timetable
+
 
 Service Updates:
 
-1) Added Grange and Outer Harbour closure data.
-2) Added data for AFL Rounds 5 and 6.
+1) Added data for AFL Rounds 7-8.
+2) O-Bahn timetables return to normal on May 2nd.
 
 General Amendments:
 
-1) Minor updates for AFL Round 3 trip information.
+
+None.
