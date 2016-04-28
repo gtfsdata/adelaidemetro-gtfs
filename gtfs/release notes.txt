@@ -5,22 +5,20 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-April 25th, 2016 - Anzac Day
-June 13th, 2016 - Queen's Birthday and Volunteers' Day
+1) June 13th, 2016 - Queen's Birthday and Volunteers' Day
 
 
 Special Events:
 
 1) Grange and Outer Harbour closure May 14-15
-2) ANZAC Day Before Dawn Services + Special Tram timetable
+2) A-League Soccer Grand Final May 1st.
 
 
 Service Updates:
 
-1) Added data for AFL Rounds 7-8.
-2) O-Bahn timetables return to normal on May 2nd.
+1) Added data for AFL Rounds 9-10.
+2) Special tram timetable and additional train services on May 1st for A-League soccer match.
 
 General Amendments:
 
-
-None.
+1) Changes to trip times for N4 substitue service. Some trips departed at 11am when they should depart at 11pm.
