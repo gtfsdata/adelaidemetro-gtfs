@@ -479,7 +479,6 @@ B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City
 B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,B71B8B,ffffff,B10-B10X-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,00937f,ffffff,BEL
-BRTN,2,BRTN,Brighton to City,"via Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,0065a4,ffffff,SEAFRD-TONS-BRTN
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
@@ -502,7 +501,6 @@ G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Ser
 G40M,7,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,7894A3,ffffff,G40
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,b45240,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,b45240,ffffff,GAWC-GAW-SALIS
-GLAN,2,GLAN,Glanville to City,,2,http://www.adelaidemetro.com.au/routes/Outer Harbor,936eb0,ffffff,OUTHA-GRNG-GLAN-W1
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,936eb0,ffffff,OUTHA-OSBORN-GRNG
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to city,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580

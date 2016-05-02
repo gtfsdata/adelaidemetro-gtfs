@@ -10,15 +10,17 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Grange and Outer Harbour closure May 14-15
-2) A-League Soccer Grand Final May 1st.
+1) Seaford closure May 3-12
+2) Grange and Outer Harbour closure May 14-15
 
 
 Service Updates:
 
-1) Added data for AFL Rounds 9-10.
-2) Special tram timetable and additional train services on May 1st for A-League soccer match.
+None.
+
 
 General Amendments:
 
-1) Changes to trip times for N4 substitue service. Some trips departed at 11am when they should depart at 11pm.
+1) Minor updates for AFL Round 7.
+
+2) Fixed issue which displayed two sets of tram trips for 13 May 
