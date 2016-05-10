@@ -16,11 +16,19 @@ Special Events:
 
 Service Updates:
 
-None.
+
+1) Minor change to 411 trip times on Monday
+
+2) Stop 8 Port Rd - West side has been removed.
+
+3) Stop 24A Crafers Park n Ride has been split into Zones A and B.
+
+4) Stop 36 Mt Barker Rd - West side now has a zone B.
 
 
 General Amendments:
 
-1) Minor updates for AFL Round 7.
+1) Minor updates for AFL Round 8.
 
-2) Fixed issue which displayed two sets of tram trips for 13 May 
+2) Minor changes to 225 trips times on Sunday.
+
