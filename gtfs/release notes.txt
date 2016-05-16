@@ -10,25 +10,18 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Seaford closure May 3-12
-2) Grange and Outer Harbour closure May 14-15
+
+1) Grange and Outer Harbour closure July 02-03
 
 
 Service Updates:
 
 
-1) Minor change to 411 trip times on Monday
-
-2) Stop 8 Port Rd - West side has been removed.
-
-3) Stop 24A Crafers Park n Ride has been split into Zones A and B.
-
-4) Stop 36 Mt Barker Rd - West side now has a zone B.
+1) Added trip data for AFL Rounds 11-16.
+2) General "clean up" of calandar files and trip data.
 
 
 General Amendments:
 
-1) Minor updates for AFL Round 8.
-
-2) Minor changes to 225 trips times on Sunday.
+1) Minor updates for AFL Round 9.
 
