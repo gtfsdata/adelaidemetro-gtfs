@@ -14,14 +14,12 @@ Special Events:
 1) Grange and Outer Harbour closure July 02-03
 
 
-Service Updates:
-
-
-1) Added trip data for AFL Rounds 11-16.
-2) General "clean up" of calandar files and trip data.
-
-
 General Amendments:
 
-1) Minor updates for AFL Round 9.
 
+1) Added trip data for AFL Rounds 17-20.
+2) Stop 11 Port Rd going towards the city has been removed. This affects routes 150, 155 and 157.
+3) Minor updates to Southlink trips that were previously shown as not operating on Thursdays (affecting approx 8 trips).
+4) Calendar has been extended until August 6th, 2016.
+5) Stops at Glenelg Interchange (Colley Tce) have had their coordinates improved.
+6) Stop AA King William Rd has been added to routes 248, 248A and 248F. This applies to trips beginning from Stop 2 Sir Edwin Smith Ave only.
