@@ -129,7 +129,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 404,4,404,Salisbury to Paralowie - Anti-clockwise loop,"Vvia Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/404,ee891c,ffffff,404-405
 404R,4,404R,Salisbury to Paralowie - Anti-clockwise loop,"Via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/404R,ee891c,ffffff,404-405
 405,4,405,Salisbury to Paralowie - Clockwise loop,"Via Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/405,a8c28f,ffffff,404-405
-411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens. Limited services commences from UniSA Mawson Lakes Campus. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
+411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens. Limited services commence from UniSA Mawson Lakes Campus.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
 411B,4,411B,Mawson Interchange to Salisbury Interchange,"Terminates at Salisbury Interchange.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
 411U,4,411U,Salisbury to UniSA Mawson Lakes Campus,"Terminates at UniSA Mawson Lakes Campus.",3,http://www.adelaidemetro.com.au/routes/411,f0A860,ffffff,411
 415,4,415,Salisbury Interchange to Greenwith,"via Salisbury Park, Salisbury East & Target Hill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/415,bb813a,ffffff,415-430
