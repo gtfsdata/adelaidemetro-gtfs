@@ -11,11 +11,18 @@ Upcoming Public Holidays:
 Special Events:
 
 
-1) Grange and Outer Harbour closure July 02-03
-2) Tea Tree Plaza Interchange closed on Sunday, 29 May. There will be temporary bus stops located on Smart Rd.
+1) Seaford train line night closures June 17-18. Substiute bus services will be in operation for the event.
 
 
 General Amendments:
 
 
-None.
+1) Route 967 has had a slight route change towards the end of the route. The bus now travels via Brighton Rd, Anzac Highway and then Colley Tce.
+
+2) Minor improvements have been made to route 100C, specifically the trips departing Stop 8H Marion Rd at 7:43am and 7:53am on weekdays. The times throughout the trip have been modified to better reflect actual service arrival times.
+
+3) There is now an 863 trip departing Stop D1 Currie St at 23:00 on weekdays.
+
+4) Minor changes to trip data for AFL Rounds 11 and 12.
+
+5) Grange and Outer Harbour closure on 2-3 July has been cancelled.
