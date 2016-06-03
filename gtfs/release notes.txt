@@ -26,3 +26,5 @@ General Amendments:
 4) Minor changes to trip data for AFL Rounds 11 and 12.
 
 5) Grange and Outer Harbour closure on 2-3 July has been cancelled.
+
+6) Fixed minor trip time issue with N3 service departing Seaford at 22:30.
