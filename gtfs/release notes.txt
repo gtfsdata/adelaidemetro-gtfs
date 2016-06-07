@@ -17,14 +17,12 @@ Special Events:
 General Amendments:
 
 
-1) Route 967 has had a slight route change towards the end of the route. The bus now travels via Brighton Rd, Anzac Highway and then Colley Tce.
+1) Minor changes to trip data for AFL 12.
 
-2) Minor improvements have been made to route 100C, specifically the trips departing Stop 8H Marion Rd at 7:43am and 7:53am on weekdays. The times throughout the trip have been modified to better reflect actual service arrival times.
+2) Routes 870, 871, 872 and 873 have had some minor changes at Glenunga High School. These routes now service different zones at the school.
 
-3) There is now an 863 trip departing Stop D1 Currie St at 23:00 on weekdays.
+3) Stop 25 Mt Barker Rd added to routes T842 and 841F. This affects trips traveling away from the city only.
 
-4) Minor changes to trip data for AFL Rounds 11 and 12.
+4) Stop AA King William Rd added to routes 241, 241A and 245.This affects trips beginning at Stop 2 Sir Edwin Smith Blvd only.
 
-5) Grange and Outer Harbour closure on 2-3 July has been cancelled.
-
-6) Fixed minor trip time issue with N3 service departing Seaford at 22:30.
+5) Route 865 now services Stop 36 / Zone B Mt Barker Rd - East side. Stop 36 Mt Barker Rd - East side has been removed from the route.

@@ -361,7 +361,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 866A,4,866A,Stirling to Crafers,"Service does not stop at Piccadilly.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
 866R,4,866R,Stirling to Crafers,"Service travel via Piccadilly and Stirling East on request.",3,http://www.adelaidemetro.com.au/routes/866,db0662,ffffff,865-866-868
 870,41,870,Glenunga International High School to City,"School Service. Via Glen Osmond Rd.",3,http://www.adelaidemetro.com.au/routes/870,006c64,ffffff,
-871,41,871,Glenunga International High School to Aldgate,"School Service. Via Glen Osmond, Crafers & Stirling.",3,http://www.adelaidemetro.com.au/routes/871,006c64,ffffff,
+871,41,871,Aldgate to Glenunga International High School,"School Service. Via Glen Osmond, Crafers & Stirling.",3,http://www.adelaidemetro.com.au/routes/871,006c64,ffffff,
 872,41,872,Glenunga International High School to Carey Gully,"School Service. Via Glen Osmond, Burnside, Greenhill, Summertown & Uraidla.",3,http://www.adelaidemetro.com.au/routes/872,006c64,ffffff,
 873,41,873,Glenunga International High School to Mount Barker,"School Service. Via Glen Osmond, Bridgewater & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/873,006c64,ffffff,
 875,41,875,Stirling to Heathfield High School,"School Service. Via Mt Barker Rd.",3,http://www.adelaidemetro.com.au/routes/875,006c64,ffffff,
