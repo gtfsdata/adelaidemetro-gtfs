@@ -5,7 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-1) June 13th, 2016 - Queen's Birthday and Volunteers' Day
+None.
 
 
 Special Events:
@@ -17,12 +17,11 @@ Special Events:
 General Amendments:
 
 
-1) Minor changes to trip data for AFL 12.
+1) Minor changes to trip data for AFL round 14.
 
-2) Routes 870, 871, 872 and 873 have had some minor changes at Glenunga High School. These routes now service different zones at the school.
+2) Routes 894, 894H and 894S have bus stop 33L Hawthorndene Rd added to them, for trips going towards Aldgate.
 
-3) Stop 25 Mt Barker Rd added to routes T842 and 841F. This affects trips traveling away from the city only.
+3) Stop 17 Port Rd has been removed from the J8 route going towards Marion.
 
-4) Stop AA King William Rd added to routes 241, 241A and 245.This affects trips beginning at Stop 2 Sir Edwin Smith Blvd only.
+4) Trip data for AFL round 21 has been added to the GTFS.
 
-5) Route 865 now services Stop 36 / Zone B Mt Barker Rd - East side. Stop 36 Mt Barker Rd - East side has been removed from the route.
