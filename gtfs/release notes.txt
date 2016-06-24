@@ -10,18 +10,15 @@ None.
 
 Special Events:
 
-
-1) Seaford train line night closures June 17-18. Substiute bus services will be in operation for the event.
+None.
 
 
 General Amendments:
 
+1) Trip data for AFL round 22 has been added to the GTFS.
 
-1) Minor changes to trip data for AFL round 14.
+2) Bus route T2TX has been added. Route comes into operation on 11/July.
 
-2) Routes 894, 894H and 894S have bus stop 33L Hawthorndene Rd added to them, for trips going towards Aldgate.
+3) Various route shapes updated in Flinders Medical Centre and Flinders University area.
 
-3) Stop 17 Port Rd has been removed from the J8 route going towards Marion.
-
-4) Trip data for AFL round 21 has been added to the GTFS.
-
+4) Stop 17 Port Rd has been removed from the J8 route going towards Marion.
