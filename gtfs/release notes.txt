@@ -15,10 +15,6 @@ None.
 
 General Amendments:
 
-1) Trip data for AFL round 22 has been added to the GTFS.
+1) Co-ordinates for Stop 41 Euston Road, both sides, have been updated.
 
-2) Bus route T2TX has been added. Route comes into operation on 11/July.
-
-3) Various route shapes updated in Flinders Medical Centre and Flinders University area.
-
-4) Stop 17 Port Rd has been removed from the J8 route going towards Marion.
+2) Further shape data improvements made to Flinders University and Flinders Medical Centre services.

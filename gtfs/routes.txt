@@ -422,7 +422,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 974,71,974,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop E2 Currie Street, city.",3,http://www.adelaidemetro.com.au/routes/974,006c64,ffffff,
 975,71,975,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop F1 Victoria Square.",3,http://www.adelaidemetro.com.au/routes/975,006c64,ffffff,
 976,71,976,Blackwood Interchange to Sacred Heart Middle School,"School Service. Via Shepherds Hill Rd, Sturt Rd, Marion Rd, Westminster College, Daws Rd to Sacred Heart Middle School.",3,http://www.adelaidemetro.com.au/routes/976,006c64,ffffff,
-977,71,977,Sacred Heart Middle School to Flinders Medical,"School Service. Sacred Heart Middle School to Flinders Medical.",3,http://www.adelaidemetro.com.au/routes/977,006c64,ffffff,
+977,71,977,Sacred Heart Middle School to Flinders Medical,"School Service.",3,http://www.adelaidemetro.com.au/routes/977,006c64,ffffff,
 978,71,978,Sacred Heart College Middle School to Marion Centre Interchange,"School Service. Via Marion Road, Sturt Road and Marion Centre Interchange",3,http://www.adelaidemetro.com.au/routes/978,006c64,ffffff,
 979,71,979,Aberfoyle Hub Centre Interchange to Sacred Heart Senior College,"School Service. Via Manning rd, Sunnymeade Dr, Black Rd, Flagstaff Rd, Miller St, Diagonal Rd, Marion Centre Interchange,  Sturt Rd and King George Av.",3,http://www.adelaidemetro.com.au/routes/979,006c64,ffffff,
 980,71,980,Sacred Heart Senior College to Marion Centre Interchange,"School Service. Via Diagonal Road.",3,http://www.adelaidemetro.com.au/routes/980,006c64,ffffff,
