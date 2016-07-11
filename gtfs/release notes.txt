@@ -5,7 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-None.
+1) Labour Day October 3rd 2016.
 
 
 Special Events:
@@ -15,6 +15,10 @@ None.
 
 General Amendments:
 
-1) Co-ordinates for Stop 41 Euston Road, both sides, have been updated.
+1) Shape data in Mt Barker area has been improved.
 
-2) Further shape data improvements made to Flinders University and Flinders Medical Centre services.
+2) Stop co-ordinates for Dumas St Park 'n' Ride and Mt Barker Park 'n' Ride have been altered.
+
+3) Shape improvements for route N262.
+
+4) Stop 77 North Rd - South side has been changed to Stop 77 North Rd - North side, and its co-ordinates have been changed to the northern side of the road.
