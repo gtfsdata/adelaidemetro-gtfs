@@ -15,10 +15,10 @@ None.
 
 General Amendments:
 
-1) Shape data in Mt Barker area has been improved.
+1) Added a 601 trip that departs Blackwood Interchange at 15:40 going to Old Reynella. This is a school holiday only trip.
 
-2) Stop co-ordinates for Dumas St Park 'n' Ride and Mt Barker Park 'n' Ride have been altered.
+2) Stops 28 Main South Rd (both sides) and Stop 28 Sturt Rd - South side have been removed.
 
-3) Shape improvements for route N262.
+3) Stop 28 Sturt Rd - North side has changed coordinates.
 
-4) Stop 77 North Rd - South side has been changed to Stop 77 North Rd - North side, and its co-ordinates have been changed to the northern side of the road.
+4) Stop 41 Nelson Rd - West side removed from route 333.
