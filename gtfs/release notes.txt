@@ -15,10 +15,10 @@ None.
 
 General Amendments:
 
-1) Added a 601 trip that departs Blackwood Interchange at 15:40 going to Old Reynella. This is a school holiday only trip.
+1) Stop 2A Richmond Rd - South side has been removed.
 
-2) Stops 28 Main South Rd (both sides) and Stop 28 Sturt Rd - South side have been removed.
+2) Shape data improvements in Noarlunga area.
 
-3) Stop 28 Sturt Rd - North side has changed coordinates.
+3) Stop coordinates changed for all stops along Cheltenham Parade, St Clair.
 
-4) Stop 41 Nelson Rd - West side removed from route 333.
+4) Some trip day type changes.
