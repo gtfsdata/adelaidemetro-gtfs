@@ -15,10 +15,6 @@ None.
 
 General Amendments:
 
-1) Stop 2A Richmond Rd - South side has been removed.
+1) Shape data improvements in Noarlunga area.
 
-2) Shape data improvements in Noarlunga area.
-
-3) Stop coordinates changed for all stops along Cheltenham Parade, St Clair.
-
-4) Some trip day type changes.
+2) AFL Round 23 data added to GTFS.
