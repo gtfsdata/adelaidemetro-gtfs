@@ -5,7 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-1) Labour Day October 3rd 2016.
+None.
 
 
 Special Events:
@@ -15,6 +15,7 @@ None.
 
 General Amendments:
 
-1) Shape data improvements in Noarlunga area.
+1) Shape data improvements.
 
-2) AFL Round 23 data added to GTFS.
+2) Stop location improvements.
+
