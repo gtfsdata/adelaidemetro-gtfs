@@ -10,12 +10,9 @@ None.
 
 Special Events:
 
-None.
+1) Royal Adelaide Show September 2 - 11.
 
 
 General Amendments:
 
-1) Shape data improvements.
-
-2) Stop location improvements.
-
+1) Added data for the 2016 Royal Adelaide Show. There are routes 21W, 22W and Show Central, as well as two additional Seaford trips operating during the event.
