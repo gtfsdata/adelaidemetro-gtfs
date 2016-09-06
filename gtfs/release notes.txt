@@ -16,6 +16,10 @@ Special Events:
 
 General Amendments:
 
-1) Added trip data for AFL Final match on September 10.
 
-2) Added trip data for SANFL Finals on September 25.
+1) Improved shape data near Reynella Interchange.
+
+2) Improved shape data near Elizabeth Interchange.
+
+3) Added Stop 65A Frobisher Rd - South side, affecting routes 440, 441, 442, 443, 451 and 452.
+
