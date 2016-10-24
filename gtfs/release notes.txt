@@ -5,16 +5,30 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Labour Day - October 3 
-
+Christmas Day - December 25
+Christmas Day Holiday - December 26
+Proclamation Day - December 27
+New Year's Day - January 1, 2017
+New Year's Day Holiday - January 2, 2017
+Australia Day - January 26, 2017
 
 Special Events:
 
-1) Outer Harbor rail closure October 12-13.
+1) Melbourne Cup on November 1 - trams will service Morphettville Racecourse between approx. 9am until 6pm.
+2) Outer Harbor and Grange Rail Closure November 5-6. Trains only operating between Woodville to Outer Harbor/Grange. There is a W1 substitue bus service in operation for the event, running between Adelaide and Woodville. 
+
 
 
 General Amendments:
 
 
-1) Outer Harbor rail closure taking place October 12-13. Last two Outer Harbor trips departing from Adelaide and Outer Harbor railway stations have been cancelled on these days. These have been replaced by substitue bus route H1.
+1) Coordinates have changed for the following bus stops:
 
+- Stops 27A and 27B Fosters Rd (East side only)
+- Stop 45A Grant Rd - North side
+- Stop 114 Pridham Blvd
+- Stop 38C Tripoli Rd
+- Stop 66F Dutton Rd - North West side
+- Stop 42 Beovich Rd - both sides
+
+2) Added Stop 46 Smith Rd (both sides) to routes 560 and 500.
