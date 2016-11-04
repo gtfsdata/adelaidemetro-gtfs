@@ -14,14 +14,11 @@ Australia Day - January 26, 2017
 
 Special Events:
 
-1) Melbourne Cup on November 1 - trams will service Morphettville Racecourse between approx. 9am until 6pm.
-2) Outer Harbor and Grange Rail Closure November 5-6. Trains only operating between Woodville to Outer Harbor/Grange. There is a W1 substitue bus service in operation for the event, running between Adelaide and Woodville. 
-3) Maker Faire November 6.
-4) People's Choice Credit Union Christmas Pageant November 12.
+1) Outer Harbor and Grange Rail Closure November 5-6. Trains only operating between Woodville to Outer Harbor/Grange. There is a W1 substitue bus service in operation for the event, running between Adelaide and Woodville. 
+2) Maker Faire November 6.
+3) People's Choice Credit Union Christmas Pageant November 12.
 
 General Amendments:
 
 
-1) Added calandar exceptions for Tram and 98A/C during Christmas Holiday period.
-2) Tonsley train services will be in operation for the Maker Faire on November 6.
-1) Tram data for Christmas Pageant on November 12 has been added to the GTFS. Bus and train data coming soon!
+1) Bus and Tram data for Christmas Pageant on November 12 has been added to the GTFS. Train data coming soon!
