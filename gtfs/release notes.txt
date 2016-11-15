@@ -14,9 +14,14 @@ Australia Day - January 26, 2017
 
 Special Events:
 
-1) People's Choice Credit Union Christmas Pageant November 12.
+1) Glenelg Christmas Pageant on  November 20.
+2) Test Cricket Match November 24-28
 
 General Amendments:
 
 
-1) Train data for Christmas Pageant on November 12 has been added to the GTFS.
+1) AOX route data for Torrens Transit and Light City Buses add for the Test Cricket Match November 24-28. Southlink coming soon.
+
+2) Glenelg Christmas Pageant on November 20. Unquie tram timetable during the day.
+
+3) Stop 78B Sandstock Bvd has been replaced with Stop 78B Golden Grove Rd. This affects routes C2, C2X and 548 in both directions.
