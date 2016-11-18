@@ -20,8 +20,8 @@ Special Events:
 General Amendments:
 
 
-1) AOX route data for Torrens Transit and Light City Buses add for the Test Cricket Match November 24-28. Southlink coming soon.
+1) AOX route data for Torrens Transit, Light City and Southlink Buses add for the Test Cricket Match November 24-26.
 
-2) Glenelg Christmas Pageant on November 20. Unquie tram timetable during the day.
+2) Special Tram timetable for the Test Cricket match November 24-27 (no AOX buses on the 27th).
 
-3) Stop 78B Sandstock Bvd has been replaced with Stop 78B Golden Grove Rd. This affects routes C2, C2X and 548 in both directions.
+3) Some changes to calendar_dates.txt.
