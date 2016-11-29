@@ -12,16 +12,23 @@ New Year's Day - January 1, 2017
 New Year's Day Holiday - January 2, 2017
 Australia Day - January 26, 2017
 
+
 Special Events:
 
-1) Glenelg Christmas Pageant on  November 20.
-2) Test Cricket Match November 24-28
+Twilight Races - December 16
+
 
 General Amendments:
 
 
-1) AOX route data for Torrens Transit, Light City and Southlink Buses add for the Test Cricket Match November 24-26.
+1) Tram Sunday trips will be operating to a Saturday timetable on December 4, 11, 18.
 
-2) Special Tram timetable for the Test Cricket match November 24-27 (no AOX buses on the 27th).
+2) Tram will be operating to a Saturday timetable on December 26, 27
 
-3) Some changes to calendar_dates.txt.
+3) Tram will be servicing Morphettville Racecourse on December 26 - normal "race day" rules apply.
+
+4) Tram will not service Morphettville Racecourse on December 24 - no races on this day.
+
+5) Train Friday only trips will operate on all weekdays December 19-23.
+
+6) Minor changes to trip times for route T228 - there are now less timepoints in the data.
