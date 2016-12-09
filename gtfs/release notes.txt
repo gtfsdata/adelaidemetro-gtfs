@@ -16,19 +16,14 @@ Australia Day - January 26, 2017
 Special Events:
 
 Twilight Races - December 16
+BBL Cricket at Adelaide Oval - December 21
 
 
 General Amendments:
 
 
-1) Tram Sunday trips will be operating to a Saturday timetable on December 4, 11, 18.
+1) AO/X services will be operating for a BBL Cricket match on December 21.
 
-2) Tram will be operating to a Saturday timetable on December 26, 27
+2) Changes to G40 timetable during the December/January school holidays.
 
-3) Tram will be servicing Morphettville Racecourse on December 26 - normal "race day" rules apply.
-
-4) Tram will not service Morphettville Racecourse on December 24 - no races on this day.
-
-5) Train Friday only trips will operate on all weekdays December 19-23.
-
-6) Minor changes to trip times for route T228 - there are now less timepoints in the data.
+3) Some changes to school routes have been made for December 16 - the last day of school term 4.
