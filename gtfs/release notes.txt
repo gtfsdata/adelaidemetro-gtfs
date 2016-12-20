@@ -15,16 +15,14 @@ Australia Day - January 26, 2017
 
 Special Events:
 
-Twilight Races - December 16
 BBL Cricket at Adelaide Oval - December 21
-Christmas Reduced Services - December 28 - 30
+Holiday Reduced Services - December 28 - 30
+New Year's Eve 2016 - December 31
 Outer Harbor and Grange Rail closure - January 2 - 23
 
 General Amendments:
 
 
-1) Feed validity extended to 26 February 2017 - please note that future updates will change the calandar validity dates of school services, some train trips, etc.
+1) Services that are operating on New Year's Eve have been added to the GTFS.
 
-2) December 28-30 there will be reduced bus services.
-
-3) Outer Harbor and Grange rail lines will be closed January 2 - 23. These have been replaced by substitute bus services.
+2) Fixed issue where train trips had been removed for December 28-30 in error. Trains WILL be operating during the reduced service period.
