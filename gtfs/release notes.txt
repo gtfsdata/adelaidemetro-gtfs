@@ -20,4 +20,4 @@ Seaford night closures - January 2 - February 28
 General Amendments:
 
 
-1) Data for Seaford night closures added to GTFS. Midnight service departing Adelaide will not operate January 2-28 (except for selected nights when major events are taking place in the city). N3 and N4 sub buses will replace this service.
+1) Ammended calandar file for validity date of tram trips.
