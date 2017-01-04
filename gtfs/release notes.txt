@@ -5,19 +5,19 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-New Year's Day - January 1, 2017
-New Year's Day Holiday - January 2, 2017
 Australia Day - January 26, 2017
+Adelaide Cup - March 13, 2017
 
 
 Special Events:
 
-Holiday Reduced Services - December 28 - 30
-New Year's Eve 2016 - December 31
 Outer Harbor and Grange Rail closure - January 2 - 23
 Seaford night closures - January 2 - February 28
 
 General Amendments:
 
 
-1) Ammended calandar file for validity date of tram trips.
+1) Added trip data for AO routes for BBL cricket matches at Adelaide Oval on January 6 and 16.
+2) Extended feed validity period to March 19.
+3) Removed old trip data from the Christmas and New Year holiday period that is now redundant.
+4) Some minor changes to G1 and H1 timetables.
