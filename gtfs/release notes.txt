@@ -17,7 +17,6 @@ Seaford night closures - January 2 - February 28
 General Amendments:
 
 
-1) Added trip data for AO routes for BBL cricket matches at Adelaide Oval on January 6 and 16.
-2) Extended feed validity period to March 19.
-3) Removed old trip data from the Christmas and New Year holiday period that is now redundant.
-4) Some minor changes to G1 and H1 timetables.
+1) Added Stop B1 West Tce to routes 115, 117, 118, B10 and B12.
+2) Changed Transfer Type for Stop 33 Main South Rd to type "1".
+3) Added departure times for a selection of 722F trips at Stop 33 Main South Rd. We are testing ways to display connections between route 733 and 722F without changing the arrival time.
