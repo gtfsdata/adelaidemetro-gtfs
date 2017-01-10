@@ -17,6 +17,5 @@ Seaford night closures - January 2 - February 28
 General Amendments:
 
 
-1) Added Stop B1 West Tce to routes 115, 117, 118, B10 and B12.
-2) Changed Transfer Type for Stop 33 Main South Rd to type "1".
-3) Added departure times for a selection of 722F trips at Stop 33 Main South Rd. We are testing ways to display connections between route 733 and 722F without changing the arrival time.
+1) Added additional AO and AOX trips for 16 January.
+2) Special Tram timetable for Australia day added.

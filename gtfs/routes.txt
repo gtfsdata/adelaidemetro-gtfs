@@ -412,7 +412,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 963,71,963,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road.",3,http://www.adelaidemetro.com.au/routes/963,006c64,ffffff,
 964,71,964,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road",3,http://www.adelaidemetro.com.au/routes/964,006c64,ffffff,
 966,71,966,Marion Centre Interchange to Mercedes College,"School Service. Via Morphett Rd, Bray St,  Raglan Av, Mircham Girl's High, Fullarton Road to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/966,006c64,ffffff,
-967,71,967,Mercedes College to Glenelg,"School Service. Via Fullarton Rd, Mitcham Girl's High school, Belair Rd, Grange Rd, Edward St, Raglan Av, Bray St,",3,http://www.adelaidemetro.com.au/routes/967,006c64,ffffff,
 968,71,968,Clarence Gardens to Mercedes College,"School Service. Stop 14E Edward Street, Clarence Gardens to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/968,006c64,ffffff,
 969,71,969,Clarence Gardens to Mitcham Girls High School,"School Service. Stop 14E Edward Street, Clarence Gardens to Mitcham Girls High School.",3,http://www.adelaidemetro.com.au/routes/969,006c64,ffffff,
 970,71,970,Mitcham Girls High School to Glenelg Interchange,"School Service. Mitcham Girls High School to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/970,006c64,ffffff,
