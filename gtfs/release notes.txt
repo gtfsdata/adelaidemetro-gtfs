@@ -13,9 +13,10 @@ Special Events:
 
 Outer Harbor and Grange Rail closure - January 2 - 23
 Seaford night closures - January 2 - February 28
+Tour Down Under - 14 - 22 January
 
 General Amendments:
 
 
-1) Added additional AO and AOX trips for 16 January.
-2) Special Tram timetable for Australia day added.
+1) Special Tram timetables operating on January 18, January 19 and January 22 due to detours for the Tour Down Under.
+2) Some improvements to Route Descriptions in routes.txt. Further improvements to follow.
