@@ -18,5 +18,5 @@ Tour Down Under - 14 - 22 January
 General Amendments:
 
 
-1) Special Tram timetables operating on January 18, January 19 and January 22 due to detours for the Tour Down Under.
-2) Some improvements to Route Descriptions in routes.txt. Further improvements to follow.
+1) Introduction of school route 949, Elizabeth to Adeliade Secondary School of English.
+2) Some minor changes to school route trip times.
