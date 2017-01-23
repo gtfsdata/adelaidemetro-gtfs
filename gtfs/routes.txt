@@ -1,9 +1,9 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,RouteGroup
 100,5,100,Arndale Centre Interchange to Glen Osmond,"via Woodville Road, Holbrooks Road, Marion Road & Cross Road. Service operates Monday to Saturday.",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
 100B,5,100B,Arndale Centre Interchange / Urrbrae Agricultural School to Brooklyn Park,"via Kingswood, Hawthorn, Edwardstown, North Plympton & Richmond.",3,http://www.adelaidemetro.com.au/routes/100B,64b461,ffffff,100-101
-100C,51,100C,Forestville to Urrbrae Argriculture High School,"School Service. Via Netley, North Plympton, Clarence Park & Unley Park.",3,http://www.adelaidemetro.com.au/routes/100C,64b461,ffffff,
-100N,51,100N,Urrbrae Agriculture High School to Marleston,"School service. Via Cross Rd & Marion Rd.",3,http://www.adelaidemetro.com.au/routes/100N,64b461,ffffff,
-100P,5,100P,Arndale Centre Interchange to Plympton,"Terminates at Stop 184 Marion Road, Plympton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/100,64b461,ffffff,100-101
+100C,5,100C,Forestville to Urrbrae Argriculture High School,"via Netley, North Plympton, Clarence Park & Unley Park.",3,http://www.adelaidemetro.com.au/routes/100C,64b461,ffffff,100-101
+100N,5,100N,Urrbrae Agriculture High School to Marleston,"via Cross Rd & Marion Rd.",3,http://www.adelaidemetro.com.au/routes/100N,64b461,ffffff,100-101
+100P,5,100P,Arndale Centre Interchange to Plympton,"Terminates at Stop 184 Marion Road, Plympton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/100P,64b461,ffffff,100-101
 101,5,101,Arndale Centre Interchange to Flinders University,"via Woodville Road, Holbrooks Road & Marion Road. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/101,CB6F21,ffffff,100-101
 115,5,115,West Lakes Centre Interchange to City,"via Trimmer Parade & Crittenden Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/115,009290,ffffff,115-117-118
 117,5,117,Port Adelaide Interchange to City,"via Bartley Terrace, West Lakes Centre Interchange & Crittenden Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/117,e20e4f,ffffff,115-117-118
@@ -396,7 +396,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 933,7,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/933,ef6d1f,ffffff,
 941,71,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,006c64,ffffff,
 942,71,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,006c64,ffffff,
-949,7,949,Elizabeth to Adelaide Secondary School of English,"School Service. Via Salisbury, Pooraka and Blair Athol.",3,http://www.adelaidemetro.com.au/routes/949,006c64,ffffff,
+949,71,949,Elizabeth to Adelaide Secondary School of English,"School Service. Via Salisbury, Pooraka and Blair Athol.",3,http://www.adelaidemetro.com.au/routes/949,006c64,ffffff,
 950,71,950,Aberfoyle Park High School to Darlington,"School Service. Via Happy Valley, Aberfoyle Park & Flagstaff Hill",3,http://www.adelaidemetro.com.au/routes/950,006c64,ffffff,
 951,71,951,City to Adelaide Secondary School of English,"School Service. Via King Willian Road to stop 17 Torrens Road.",3,http://www.adelaidemetro.com.au/routes/951,006c64,ffffff,
 952,71,952,Colonel Light Gardens to Blackwood High School,"School Service. Stop 18D Springbank Road, Colonel Light Gardens to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/952,006c64,ffffff,
@@ -448,19 +448,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 99A,5,99A,City anti-clockwise loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,71c267,ffffff,98A-98C-99A-99C
 99C,5,99C,City clockwise loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,71c267,ffffff,98A-98C-99A-99C
 AO10,4,AO10,Aldgate to Adelaide Oval,"via Glen Osmond - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO10,4b711c,ffffff,
-AO11,5,AO11,Newton to Adelaide Oval,"via St Bernards & Magill Rds - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO11,4b711c,ffffff,
-AO12,5,AO12,Athelstone to Adelaide Oval,"via Payneham Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO12,4b711c,ffffff,
-AO13,5,AO13,Burnside to Adelaide Oval,"via Greenhill Rd - all stops to stop 5A then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO13,4b711c,ffffff,
-AO14,5,AO14,Rosslyn Park to Adelaide Oval,"via The Parade - all stops to stop 3 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO14,4b711c,ffffff,
 AO15,4,AO15,Mawson Interchange to Adelaide Oval,"via Main North Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO15,4b711c,ffffff,
-AO16,5,AO16,Rosewater to Adelaide Oval,"via Days Rd & Torrens Rd - all stops to stop 7A then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO16,4b711c,ffffff,
-AO17,5,AO17,Semaphore to Adelaide Oval,"via Port Rd - all stops to stop 21 then limited stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO17,4b711c,ffffff,
-AO18,5,AO18,West Lakes Centre Interchange to Adelaide Oval,"via Grange Rd - all stops to stop 6 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO18,4b711c,ffffff,
-AO19,5,AO19,Henley Beach to Adelaide Oval,"via Henley Beach Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO19,4b711c,ffffff,
 AO20,7,AO20,Blair Athol to Adelaide Oval,"via Prospect Rd - all stops to stop 7 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO20,4b711c,ffffff,
-AO24,5,AO24,Mitcham Square to Adelaide Oval,"via Unley Rd - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO24,4b711c,ffffff,
-AO25,5,AO25,Mitcham Square to Adelaide Oval,"via Fullarton Rd - all stops to stop 5 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO25,4b711c,ffffff,
-AO26,5,AO26,Glenelg to Adelaide Oval,"via West Beach & Sir Donald Bradman Dr - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO26,4b711c,ffffff,
 AO8,4,AO8,Hallett Cove Shops to Adelaide Oval,"via Marion Shopping Centre & South Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO8,4b711c,ffffff,
 AOX1,7,AOX1,Greenwith to Adelaide Oval,"via O-Bahn - limited stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX1,4b711c,ffffff,
 AOX15,4,AOX15,Elizabeth Shopping Centre to Adelaide Oval,"via Main North Rd - all stops to stop 29 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX15,4b711c,ffffff,
