@@ -11,11 +11,15 @@ Adelaide Cup - March 13, 2017
 
 Special Events:
 
-Outer Harbor and Grange Rail closure - January 2 - 23
 Seaford night closures - January 2 - February 28
-Tour Down Under - 14 - 22 January
 
 General Amendments:
 
 
-1) AO and AOX routes in operation for cricket match at Adelaide Oval on 26 January.
+1) Additional AO and AOX trips added for Torrens Transit routes.
+2) Boarding location changes have been implemented to begin from January 29, 2017 - for full details please visit https://www.adelaidemetro.com.au/Announcements/Planned-Disruptions/Bus-stop-boarding-changes-from-Sunday-29-January-2017
+
+Note: Additional changes that were added from the morning of 25th January, 2017
+
+3) Some changes to the J1X data.
+4) Extended the GTFS feed's date range.
