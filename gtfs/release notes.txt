@@ -1,0 +1,23 @@
+Adelaide Metro GTFS Release Notes
+
+The following is a list of changes and upcoming events:
+
+
+Upcoming Public Holidays:
+
+Adelaide Cup - March 13, 2017
+
+
+Special Events:
+
+Seaford night closures - January 2 - February 28
+
+General Amendments:
+
+1) Updates to stopping patterns for C1 and C2 routes.
+2) Minor amendments to 300 trip times along OG Rd.
+3) Re-numbering of bus stops along Grand Junction Rd.
+4) Stop 36 Bridge Rd added to route 209F (not serviced between 4pm and 7pm).
+5) Stop 22 Brighton Rd - west side is now a school route only bus stop.
+6) Stop 37 Brighton Rd - west side removed from 265 route.
+7) City stops serviced by G20X, G21X, G40 and G40M amended.
