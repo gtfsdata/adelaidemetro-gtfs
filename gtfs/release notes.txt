@@ -14,12 +14,10 @@ Anzac Day - April 25, 2017
 Special Events:
 
 1) Seaford night closures - January 2 - February 28
-2) Grange rail closure - February 14 - February 19
-3) Guns N' Roses Concert at Adelaide Oval - February 18
-4) T20 Cricket match at Adelaide Oval - February 22
-5) Adelaide Fringe 17 February - March 19
+2) T20 Cricket match at Adelaide Oval - February 22
+3) Adelaide Fringe - 17 February - March 19
+4) Clipsal 500 - March 02 - 05
 
 General Amendments:
 
-1) Updates to some AOX trips for T20 cricket match on February 22.
-2) Special tram timetable in operation on February 22.
+1) Added additional trips that will be operating during the Clipsal 500
