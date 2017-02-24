@@ -13,11 +13,14 @@ Anzac Day - April 25, 2017
 
 Special Events:
 
-1) Seaford night closures - January 2 - February 28
-2) T20 Cricket match at Adelaide Oval - February 22
-3) Adelaide Fringe - 17 February - March 19
-4) Clipsal 500 - March 02 - 05
+1) Adelaide Fringe - 17 February - March 19
+2) Clipsal 500 - March 02 - 05
+3) WOMADelaide - March 10 - 13 
+3) Adele concert at Adelaide Oval - March 13
 
 General Amendments:
 
-1) Added additional trips that will be operating during the Clipsal 500
+1) WOMADelaide Shuttle service added to GTFS
+2) AOX trips added for Adele concert at Adelaide Oval
+3) Updated C500 route description to reflect this year's dates
+4) Train route colours updated
