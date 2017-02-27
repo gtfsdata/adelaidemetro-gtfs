@@ -20,7 +20,8 @@ Special Events:
 
 General Amendments:
 
-1) WOMADelaide Shuttle service added to GTFS
-2) AOX trips added for Adele concert at Adelaide Oval
-3) Updated C500 route description to reflect this year's dates
-4) Train route colours updated
+1) Stops 1, 12 and 20 Goodwood Rd (both sides) have been removed.
+
+2) Stop 11 Goodwood Rd - East side has changed locations.
+
+3) Stop 10 North East Rd - North West side has been removed.
