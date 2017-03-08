@@ -486,7 +486,6 @@ C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange.
 C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
-C500,7,C500,Clipsal O-Bahn Shuttle Service,"via Tea Tree Plaza to Rundle Road. Service operates for the duration of the Clipsal 500, 2-5 March 2017.",3,http://www.adelaidemetro.com.au/routes/C500,C39A6B,ffffff,
 G10,7,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
