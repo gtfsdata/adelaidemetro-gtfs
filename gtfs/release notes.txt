@@ -5,7 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Adelaide Cup - March 13, 2017
 Good Friday - April 14, 2017
 Easter Monday - April 17, 2017
 Anzac Day - April 25, 2017
@@ -17,7 +16,9 @@ Special Events:
 2) WOMADelaide - March 10 - 13 
 3) Adele concert at Adelaide Oval - March 13
 4) Bay to City - March 19
+5) Grange and Outer Harbor night rail closures - March 24 - 25
 
 General Amendments:
 
-1) Added extra train services for Adele concert
+1) Added trip information for AFL Rounds 1 and 2 at Adelaide Oval. This includes AO route information, additional train trips and special tram timetables. Further games will be added to the GTFS in the near future.
+2) Outer Harbor and Grange rail closure trip information has been added.
