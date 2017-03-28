@@ -8,12 +8,15 @@ Upcoming Public Holidays:
 Good Friday - April 14, 2017
 Easter Monday - April 17, 2017
 Anzac Day - April 25, 2017
+Queen's Birthday Holiday - June 12, 2017
 
 
 Special Events:
 
-1) Grange and Outer Harbor night rail closures - March 24 - 25
+None.
 
 General Amendments:
 
-1) Updates to AO/AOX trip data for AFL Rounds 2, 6 and 7.
+1) Updates to AO/AOX trip data for AFL Round 5.
+2) Data for AFL Rounds 11 and 12 added.
+3) Updates to route 503 trip times. Specifically for trips traveling between Paradise Interchange and Tea Tree Plaza.
