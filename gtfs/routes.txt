@@ -487,7 +487,7 @@ C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange.
 C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,335C64,ffffff,C1-C1T-C1X-C2-C2X-N1
-G1,5,G1,Grange to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/G1,efa686,000000,G1
+G1,5,G1,Grange to City,"Train substitute service. Operates April 14-24.",3,http://www.adelaidemetro.com.au/routes/G1,efa686,000000,G1-H1-O1-X1
 G10,7,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,b57628,ffffff,G10-N10-N21
@@ -502,10 +502,11 @@ G22X,7,G22X,Aberfoyle Park to city,"Limited stop & express service. Operates Mon
 G30F,7,G30F,Blackwood Interchange to city,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,599137,ffffff,600-601-605-G30F
 G40,7,G40,Golden Grove Village Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,7894A3,ffffff,G40
 G40M,7,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,7894A3,ffffff,G40
+GA1,4,GA1,City to Mawson Lakes,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,f79433,ffffff,GAWC-GAW-SALIS-GA1
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,be3a34,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,be3a34,ffffff,GAWC-GAW-SALIS
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,0072ce,ffffff,OUTHA-OSBORN-GRNG
-H1,5,H1,Outer Harbor to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/H1,936eb0,ffffff,H1
+H1,5,H1,Outer Harbor to City,"Train substitute service. Operates April 14-24.",3,http://www.adelaidemetro.com.au/routes/H1,936eb0,ffffff,G1-H1-O1-X1
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to city,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
 H20R,5,H20R,Paradise Interchange to Richmond,"Terminates at stop 8G Marion Road, Richmond.",3,http://www.adelaidemetro.com.au/routes/H20,EF7F31,ffffff,H20-H21-580
@@ -538,6 +539,8 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,7,M44,Marion Centre Interchange to Golden Grove Village Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44
 M44C,7,M44C,Marion Centre Interchange to city,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44
 M44T,7,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,008DAF,ffffff,544-544X-M44
+ML1,4,ML1,City to Mawson Lakes,"Train substitute service. Operates April 14-20.",3,http://www.adelaidemetro.com.au/routes/ML1,f79433,ffffff,GAWC-GAW-SALIS-ML1-ML2
+ML2,4,ML2,City to Mawson Lakes,"Train substitute service. Express service. Operates April 14-20.",3,http://www.adelaidemetro.com.au/routes/ML2,f79433,ffffff,GAWC-GAW-SALIS-ML1-ML2
 N1,7,N1,After Midnight Saturday PM - Sunday AM Golden Grove Village Interchange & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N1,FBB12E,000000,C1-C1T-C1X-C2-C2X-N1
 N10,7,N10,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Goodwood Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N10,FBB12E,000000,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 N178,5,N178,After Midnight Saturday PM - Sunday AM Newton to City,"via Montacute Road & Payneham Road. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N178,FBB12E,000000,174-176-178-178X-579-N178
@@ -553,7 +556,7 @@ N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-
 N542,7,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,A0CC42,ffffff,542-542X-N542-N541
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,006c64,ffffff,721-721F-721X-T721-T721X-N721
 N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,c60845,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
-O1,5,O1,Osborne to City,"Train substitute service. Limited service operates Monday - Friday. Express from Woodville to City.",3,http://www.adelaidemetro.com.au/routes/O1,936eb0,ffffff,O1
+O1,5,O1,Osborne to City,"Train substitute service. Limited service operates Monday - Friday. Express from Woodville to City. Operates April 14-24.",3,http://www.adelaidemetro.com.au/routes/O1,936eb0,ffffff,G1-H1-O1-X1
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/outha,0072ce,ffffff,OUTHA-OSBORN-GRNG
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0072ce,ffffff,OUTHA-OSBORN-GRNG
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,be3a34,ffffff,GAWC-GAW-SALIS
@@ -572,7 +575,7 @@ W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bra
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,C2B49A,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
 W91C,5,W91C,St Marys to City,"Terminates in city.",3,http://www.adelaidemetro.com.au/routes/W91,0396d6,ffffff,W90-W91
-X1,5,X1,Glanville to City,"Train substitute service. Limited service operates Monday - Friday. Express from Port Adelaide to City.",3,http://www.adelaidemetro.com.au/routes/X1,936eb0,ffffff,X1
+X1,5,X1,Glanville to City,"Train substitute service. Limited service operates Monday - Friday. Express from Port Adelaide to City. Operates April 14-24.",3,http://www.adelaidemetro.com.au/routes/X1,936eb0,ffffff,G1-H1-O1-X1
 X30,5,X30,West Lakes Centre Interchange to Paradise Interchange,"Express between stop 8 Henley Beach Road and stop B1 Currie Street.",3,http://www.adelaidemetro.com.au/routes/X30,77BC1F,ffffff,H30-X30-N30
 X30C,5,X30C,West Lakes Centre Interchange to city,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at the city.",3,http://www.adelaidemetro.com.au/routes/X30C,77BC1F,ffffff,H30-X30-N30
 X30S,5,X30S,West Lakes Centre Interchange to Newton,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at stop 30 Stradbroke Road.",3,http://www.adelaidemetro.com.au/routes/X30S,77BC1F,ffffff,H30-X30-N30

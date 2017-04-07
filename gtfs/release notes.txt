@@ -18,22 +18,4 @@ Special Events:
 
 General Amendments:
 
-1) Updates to route AO16 - this route no longer travels through Pym St and Harrison Rd. Trip times adjusted accordingly.
-
-2) Added data for upcoming Outer Harbor/Grange and Gawler train lines closures.
-
-3) The following stops on Glen Osmond Road have been removed: 2, 4 and 7 (both sides for all stops)
-
-4) The following stops have had coordinate changes:
-
-Glen Osmond Road 1 inbound
-Glen Osmond Road 1 outbound
-Glen Osmond Road 6 outbound
-Unley Road 7 outbound
-Cross Road 167 eastbound
-
-5) Stop 25 Ayliffs Rd (both sides) added to all G10, G20 and G21 routes.
-
-6) Clockwise 300 trip departing Arndale at 9:08am has had a time correction. At Stop 167 Cross Rd (a timepoint), the service was listed as arriving at 10:07 but has now been changed to arrive at 10:02. This will affect times for stops between Timepoints 153/11 Portrush Rd (Burnside Village) and 17 Belair Rd.
-
-7) Additional services have been added for ANZAC Day
+1) Added missing ML1 and ML2 routes for Gawler train line closure.
