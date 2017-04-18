@@ -16,11 +16,9 @@ Special Events:
 1) Outer Harbor and Grange train lines closed 14 April - 23 April
 2) Gawler train line closed 14 April - 20 April
 3) Bowden railway station (platform heading to the city only) is closed until late October
+4) Jetty Rd, Glenelg closed April 24 - 19 May.
 
 General Amendments:
 
-1) Minor updates to AO/AOX trip data for AFL Rounds 5 and 11
-2) Added trip data for AFL Round 13
-3) Stops 8, 16, 18 on Portrush Rd (both sides) removed from routes 100, 300, 144 and 140. Please note that there were two stop 8's on Portrush Rd - the one removed was near Sprod Ave and Rothbury Ave.
-4) Stop 45 removed from route N254 - route now begins/ends at Stop 44F.
-5) Bowden Station removed from GTFS (platform heading into the city only)
+1) Swapped the inbound and outbound stops for tram Stop 5 Black Forest.
+2) Trams will not be traveling along Jetty Rd April 24 - 19 May, meaning they will not service the Jetty Rd and Mosley Square tram stops during this period.
