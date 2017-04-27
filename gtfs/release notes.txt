@@ -5,19 +5,15 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Good Friday - April 14, 2017
-Easter Monday - April 17, 2017
-Anzac Day - April 25, 2017
 Queen's Birthday Holiday - June 12, 2017
 
 
 Special Events:
 
-1) Outer Harbor and Grange train lines closed 14 April - 23 April
-2) Gawler train line closed 14 April - 20 April
-3) Bowden railway station (platform heading to the city only) is closed until late October
-4) Jetty Rd, Glenelg closed May 15 - 9 June.
+1) Bowden railway station (platform heading to the city only) is closed until late October
+2) Jetty Rd, Glenelg closed May 15 - 9 June
 
 General Amendments:
 
-1) Minor updates to ANZAC Day trip data.
+1) Minor updates to AFL Round 6 trips data (return trips for route AO14)
+2) Added trip data for AFL Rounds 15 and 16
