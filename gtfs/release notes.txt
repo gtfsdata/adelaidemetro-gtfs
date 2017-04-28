@@ -15,5 +15,6 @@ Special Events:
 
 General Amendments:
 
-1) Minor updates to AFL Round 6 trips data (return trips for route AO14)
-2) Added trip data for AFL Rounds 15 and 16
+1) G20 wasn't displaying times for serviced stops between Stop 24A Ayliffs Rd and Aberfoyle Hub (away from city trips only). This has been fixed.
+
+2) Stop 39B Martins Rd (both sides of rd) has been added to route 404R
