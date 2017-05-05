@@ -15,6 +15,8 @@ Special Events:
 
 General Amendments:
 
-1) G20 wasn't displaying times for serviced stops between Stop 24A Ayliffs Rd and Aberfoyle Hub (away from city trips only). This has been fixed.
+1) Tram data for Jetty Rd closure has changed.
 
-2) Stop 39B Martins Rd (both sides of rd) has been added to route 404R
+2) Added Tram Substitute Service (SUBTM1) to the GTFS.
+
+2) H30 and H30S routes have had their pick up/set down rules applied to journies traveling from West Lakes to Paradise.
