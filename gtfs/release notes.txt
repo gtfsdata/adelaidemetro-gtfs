@@ -15,8 +15,4 @@ Special Events:
 
 General Amendments:
 
-1) Tram data for Jetty Rd closure has changed.
-
-2) Added Tram Substitute Service (SUBTM1) to the GTFS.
-
-2) H30 and H30S routes have had their pick up/set down rules applied to journies traveling from West Lakes to Paradise.
+1) Bus detours implemented for Jetty Road closure. 
