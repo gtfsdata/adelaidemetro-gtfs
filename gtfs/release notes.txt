@@ -15,10 +15,4 @@ Special Events:
 
 General Amendments:
 
-1) Added AOX trip data for AFL Rounds 17 and 18
-
-2) B10 and B12 routes will no longer service Stop 12 Grange Rd - North side until further notice.
-
-3) Minor improvements to 300 trip data for Stage 2 of the Jetty Rd closure.
-
-4) Minor improvements to trip times for J3 route.
+1) Added missing J3 trips
