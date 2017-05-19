@@ -12,7 +12,9 @@ Special Events:
 
 1) Bowden railway station (platform heading to the city only) is closed until late October
 2) Jetty Rd, Glenelg closed May 15 - 9 June
+3) Australia Vs. Saudi Arabia soccer match at Adelaide Oval 8 June
+4) Gawler, Grange and Outer Harbor rail line closures 10 June - 12 June
 
 General Amendments:
 
-1) Added missing J3 trips
+1) Stop coordinates have changed for Stop C1 North Tce and Stop F1 Dequetteville Tce.
