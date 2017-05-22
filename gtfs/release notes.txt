@@ -17,4 +17,5 @@ Special Events:
 
 General Amendments:
 
-1) Stop coordinates have changed for Stop C1 North Tce and Stop F1 Dequetteville Tce.
+1) Stop coordinates have changed for the outbound and inbound Stop 13 Glengorie on the tram line.
+2) Stage 2 of the Jetty Rd roadworks have been brought forward to 25 May (was previously 27 May).
