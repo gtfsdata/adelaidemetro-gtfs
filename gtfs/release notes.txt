@@ -17,5 +17,5 @@ Special Events:
 
 General Amendments:
 
-1) Stop coordinates have changed for the outbound and inbound Stop 13 Glengorie on the tram line.
-2) Stage 2 of the Jetty Rd roadworks have been brought forward to 25 May (was previously 27 May).
+1) Tram trips updated to service Morphettville Racecourse at all times during the Jetty Rd closures.
+2) Added special trips for all AFL Rounds up to Round 22. Times for AFL Round 23 will be added once a game time has been announced.
