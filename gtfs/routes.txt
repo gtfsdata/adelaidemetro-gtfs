@@ -559,7 +559,6 @@ OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,ht
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0072ce,ffffff,OUTHA-OSBORN-GRNG
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,be3a34,ffffff,GAWC-GAW-SALIS
 SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,ff7f32,ffffff,SEAFRD-TONS
-SUBTM1,7,SUBTM1,Brighton Rd Tram Stop to Morphett Rd Tram Stop,"Tram Substitute Service. Operates May 15 to June 9.",3,http://www.adelaidemetro.com.au/routes/SUBTM1,b57628,ffffff,
 T228,4,T228,Smithfield Interchange to City,"via Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,efb30f,ffffff,228-228F-228X-T228
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,ad650c,ffffff,721-721F-721X-T721-T721X-N721
 T721X,4,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop express service operates Monday-Friday. T721X buses operate express between stop 48 Main South Road to stop B1 Grote Street, City. No pick up or set down.",3,http://www.adelaidemetro.com.au/routes/T721X,ad650c,ffffff,721-721F-721X-T721-T721X-N721
