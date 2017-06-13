@@ -5,16 +5,14 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Queen's Birthday Holiday - June 12, 2017
+None.
 
 
 Special Events:
 
-1) Bowden railway station (platform heading to the city only) is closed until late October
-2) Australia Vs. Saudi Arabia soccer match at Adelaide Oval 8 June
-3) Gawler, Grange and Outer Harbor rail line closures 10 June - 12 June
+1) Grange and Outer Harbor rail line night closures 13 June - 14 June
+2) Seaford rail line closure 18 June - 21 June
 
 General Amendments:
 
-1) Added Stop 22 Moseley St (both sides of the road) to the GTFS
-2) Stop 4 Goodwood Rd - East side has had its stop coordinates changed.
+1) Fixed tram exception (calandar_dates.txt) for Saturday, 17 June.
