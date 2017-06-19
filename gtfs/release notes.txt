@@ -10,9 +10,8 @@ None.
 
 Special Events:
 
-1) Grange and Outer Harbor rail line night closures 13 June - 14 June
-2) Seaford rail line closure 18 June - 21 June
+1) Seaford rail line closure 18 June - 21 June
 
 General Amendments:
 
-1) Fixed tram exception (calandar_dates.txt) for Saturday, 17 June.
+1) Routes 300 and 992 no longer service Stop 19 Portrush Rd - West side. These routes will now service Stop 19A Portrush Rd - West side (a new stop). East side remains unchanged.
