@@ -10,8 +10,9 @@ None.
 
 Special Events:
 
-1) Seaford rail line closure 18 June - 21 June
+None.
 
 General Amendments:
 
-1) Routes 300 and 992 no longer service Stop 19 Portrush Rd - West side. These routes will now service Stop 19A Portrush Rd - West side (a new stop). East side remains unchanged.
+1) Updated various stop coordinate locations for routes 98A and 98C in North Adelaide area.Does not affect trips times nor route path.
+2) Updated route maps for routes 528 (near Poole Ave),  543 (near Penny St), 557 (near perseverance Rd) and 559 and 992 (near Hancock Rd). Updates eliminate abnormal turns in the route path and better reflect real-world conditions.
