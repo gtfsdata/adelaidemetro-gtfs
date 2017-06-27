@@ -14,5 +14,5 @@ None.
 
 General Amendments:
 
-1) Updated various stop coordinate locations for routes 98A and 98C in North Adelaide area.Does not affect trips times nor route path.
-2) Updated route maps for routes 528 (near Poole Ave),  543 (near Penny St), 557 (near perseverance Rd) and 559 and 992 (near Hancock Rd). Updates eliminate abnormal turns in the route path and better reflect real-world conditions.
+1) Routes 830F, 834A and 835 now service Stop 60A Onkaparinga Valley Rd (both sides).
+2) Various bus stop coordinates have changed along Okaparinga Valley Rd. Locations have been updated to reflect their real-world coordinates.
