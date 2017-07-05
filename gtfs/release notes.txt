@@ -14,5 +14,6 @@ None.
 
 General Amendments:
 
-1) Routes 830F, 834A and 835 now service Stop 60A Onkaparinga Valley Rd (both sides).
-2) Various bus stop coordinates have changed along Okaparinga Valley Rd. Locations have been updated to reflect their real-world coordinates.
+1) Light City Buses are operating special after school trips on Friday, 7th July for various school services due to early dismissal times for end of term 2.
+2) 271 and 273 will now service Stop 3 Frome Rd - east side.
+3) Changed the stop_id and stopcode of Stop 3 Frome Rd - East side due to internal, technical reasons.
