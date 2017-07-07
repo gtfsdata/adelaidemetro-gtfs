@@ -14,6 +14,11 @@ None.
 
 General Amendments:
 
-1) Light City Buses are operating special after school trips on Friday, 7th July for various school services due to early dismissal times for end of term 2.
-2) 271 and 273 will now service Stop 3 Frome Rd - east side.
-3) Changed the stop_id and stopcode of Stop 3 Frome Rd - East side due to internal, technical reasons.
+1) Tram detours implemented from Sunday, 9 July. At certain times the tram will not service stops on Jetty Road - please see Adelaide Metro website for more information. http://www.adelaidemetro.com.au/Announcements/Planned-Disruptions/Trams-to-terminate-at-stop-15-Brighton-Road-for-SA-Water-works
+2) Have improved trip times for 737 route - ALL trips affected. Middle timepoints previously had times that did not match the public timetable.
+3) Coordinates for Stop 5 Goodwood Rd - East side have changed.
+4) Route 300 will now service Stop 26 Sturt Rd - North side.
+5) Updated 442 route path along Main Tce, Blakeview.
+6) Coordinates for Stop 87A Main Tce (both sides) have changed.
+7) Stop 88A Main Tce (both sides) has been removed.
+8) Coordinates for Stop C1 North Tce - North side have changed.
