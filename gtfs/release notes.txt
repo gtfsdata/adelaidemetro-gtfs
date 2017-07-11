@@ -14,11 +14,5 @@ None.
 
 General Amendments:
 
-1) Tram detours implemented from Sunday, 9 July. At certain times the tram will not service stops on Jetty Road - please see Adelaide Metro website for more information. http://www.adelaidemetro.com.au/Announcements/Planned-Disruptions/Trams-to-terminate-at-stop-15-Brighton-Road-for-SA-Water-works
-2) Have improved trip times for 737 route - ALL trips affected. Middle timepoints previously had times that did not match the public timetable.
-3) Coordinates for Stop 5 Goodwood Rd - East side have changed.
-4) Route 300 will now service Stop 26 Sturt Rd - North side.
-5) Updated 442 route path along Main Tce, Blakeview.
-6) Coordinates for Stop 87A Main Tce (both sides) have changed.
-7) Stop 88A Main Tce (both sides) has been removed.
-8) Coordinates for Stop C1 North Tce - North side have changed.
+1) Updates to Jetty Rd Tram closure on Thursday nights.
+2) Changes to tram operations on 6 August and 14 August (due to Jetty Rd Closures and AFL Rounds 20 and 21)
