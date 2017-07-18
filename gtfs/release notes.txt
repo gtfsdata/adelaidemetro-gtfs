@@ -14,5 +14,6 @@ None.
 
 General Amendments:
 
-1) Implemented rail closures for Grange, Outer Harbor and Gawler Central train lines. Trains have been replaced by sub buses G1, H1, GA1 and GA2. Closures take place July 22-23.
-2) Service changes will commence July 23. Most changes are in relation to timepoint locations, so very limited change to actual departure times. Torrens Transit data has been implemented, with Light City Buses and Southlink data to follow. More detailed information is avaliable on the Adelaide Metro website.
+1) Stop 39 Flockhart Ave - North West side has had its coordinates changed.
+2) Stops 16 and 17 Regency Rd (South side only) have had their coordinates changed.
+3) Some minor changes to trip data for AFL Round 18 on July 21, 2017
