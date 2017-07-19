@@ -14,6 +14,5 @@ None.
 
 General Amendments:
 
-1) Stop 39 Flockhart Ave - North West side has had its coordinates changed.
-2) Stops 16 and 17 Regency Rd (South side only) have had their coordinates changed.
-3) Some minor changes to trip data for AFL Round 18 on July 21, 2017
+1) Fixed issue with 721 and 722 trips not appearing on Saturday and Sundays from 23rd July.
+2) Fixed issue with 721R trips on weekends - trips were duplicated.
