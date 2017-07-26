@@ -14,5 +14,5 @@ None.
 
 General Amendments:
 
-1) Fixed issue with 721 and 722 trips not appearing on Saturday and Sundays from 23rd July.
-2) Fixed issue with 721R trips on weekends - trips were duplicated.
+1) Coordinates for all stops along Rm Williams Dr have been altered to better reflect their real-world locations.
+2) Updated Light City Bus trip information for July service changes. There were some delays in implementing the changes due to operational reasons. Most trip times were largely unaffected, just some intermediate timepoint changes.
