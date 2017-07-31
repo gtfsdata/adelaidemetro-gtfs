@@ -5,14 +5,16 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-None.
+Labour Day - October 2, 2017
 
 
 Special Events:
 
 None.
 
+
 General Amendments:
 
-1) Coordinates for all stops along Rm Williams Dr have been altered to better reflect their real-world locations.
-2) Updated Light City Bus trip information for July service changes. There were some delays in implementing the changes due to operational reasons. Most trip times were largely unaffected, just some intermediate timepoint changes.
+1) Trip times have changed for route 361. Weekday trips only going from Pt Adelaide to TTP. Specifically adjustments were made to the first two intermediate timepoint times only.
+2) Route 170 outbound no longer services stop 163 Cross Rd - North side.
+3) Route 782 now begins from Zone G Norlunga Interchange.
