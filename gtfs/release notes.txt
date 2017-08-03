@@ -10,11 +10,10 @@ Labour Day - October 2, 2017
 
 Special Events:
 
-None.
+Royal Adelaide Show - Setember 1 - September 10, 2017.
 
 
 General Amendments:
 
-1) Trip times have changed for route 361. Weekday trips only going from Pt Adelaide to TTP. Specifically adjustments were made to the first two intermediate timepoint times only.
-2) Route 170 outbound no longer services stop 163 Cross Rd - North side.
-3) Route 782 now begins from Zone G Norlunga Interchange.
+1) Some improvements have been made to trip data for routes 501 and 502. Data has been changed to reflect special operational conditions on Sudholz Rd.
+2) Routes 21W and 22W have been added to the GTFS. These special shuttle bus routes operate during the Royal Adelaide Show (September 1-10).
