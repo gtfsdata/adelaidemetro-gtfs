@@ -15,5 +15,5 @@ Royal Adelaide Show - Setember 1 - September 10, 2017.
 
 General Amendments:
 
-1) Some improvements have been made to trip data for routes 501 and 502. Data has been changed to reflect special operational conditions on Sudholz Rd.
-2) Routes 21W and 22W have been added to the GTFS. These special shuttle bus routes operate during the Royal Adelaide Show (September 1-10).
+1) Added trip data for AFL Round 23.
+2) Added Show Shuttle train services and additional Seaford and Gawler trips for the Royal Adelaide Show.
