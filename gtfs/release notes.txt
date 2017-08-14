@@ -10,10 +10,14 @@ Labour Day - October 2, 2017
 
 Special Events:
 
-Royal Adelaide Show - Setember 1 - September 10, 2017.
+Royal Adelaide Show - Setember 1 - September 10, 2017
+Outer Habor, Grange and Gawler rail line closures - August 19 - August 20, 2017
 
 
 General Amendments:
 
-1) Added trip data for AFL Round 23.
-2) Added Show Shuttle train services and additional Seaford and Gawler trips for the Royal Adelaide Show.
+1) Minor time amendments for AFL Round 22 trip data
+2) On August 19-20 the Outer Habor, Grange and Gawler rail lines will have closures. There are substitute buses (G1, H1, ML1 and ML2) in place for the duration of the closure.
+3) Time adjudments for school routes 637 and 638 (loading times for the first stop have been removed).
+4) Stops 3 and 8 on Glen Osmond Rd (inbound only) have had their coordinates changed.
+5) Stop 152 Portrush Rd - West side has had its coordinates changed.
