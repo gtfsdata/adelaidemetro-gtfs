@@ -11,9 +11,12 @@ Labour Day - October 2, 2017
 Special Events:
 
 Royal Adelaide Show - Setember 1 - September 10, 2017
-Outer Habor, Grange and Gawler rail line closures - August 19 - August 20, 2017
 
 
 General Amendments:
 
-1) Added a calendar_dates.txt entry for tram trips on Saturday, 26 August.
+1) Some minor trip time changes for AO routes for AFL Round 23.
+2) Improvements have been made to route geospatial data at Salisbury interchange. Further improvements are planned in the near future.
+3) Routes 502X and 500 now service the correct stop at Salisbury Interchange.
+2) Coordinates for Stop 35 Wright Rd - South side have changed.
+3) 452 trips heading to Elizabeth now service Stop 79E Newton Blvd - South side.
