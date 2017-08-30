@@ -15,4 +15,5 @@ Royal Adelaide Show - Setember 1 - September 10, 2017
 
 General Amendments:
 
-1) Service change data for the New Royal Adelaide Hospital has been implemented into our GTFS feed. Services commence from September 3rd.
+1) Some updates have been made to the data for the New Royal Adelaide Hospital service change. Updates include some minor tweaks to trip times for the J3 route, removing a handful of duplicate trips for O-Bahn routes, and adding Sunday trips for all affected Southlink Hills services.
+2) Added trips times for AO and AOX routes for the AFL Grand Final matches at Adelaide Oval (September 7 and september 9).
