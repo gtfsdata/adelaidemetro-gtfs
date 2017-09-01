@@ -428,7 +428,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 977,71,977,Sacred Heart Middle School to Flinders Medical,"School Service.",3,http://www.adelaidemetro.com.au/routes/977,006c64,ffffff,
 978,71,978,Sacred Heart College Middle School to Marion Centre Interchange,"School Service. Via Marion Road, Sturt Road and Marion Centre Interchange",3,http://www.adelaidemetro.com.au/routes/978,006c64,ffffff,
 979,71,979,Aberfoyle Hub Centre Interchange to Sacred Heart Senior College,"School Service. Via Manning rd, Sunnymeade Dr, Black Rd, Flagstaff Rd, Miller St, Diagonal Rd, Marion Centre Interchange,  Sturt Rd and King George Av.",3,http://www.adelaidemetro.com.au/routes/979,006c64,ffffff,
-97A,5,97A,Royal Adelaide Hospital Shuttle Service,,3,http://www.adelaidemetro.com.au/routes/97A,4c73ff,ffffff,97A-98A-98C-99A-99C
+97A,5,97A,Royal Adelaide Hospital Shuttle Service,"via Currie St, Grenfell St, East Tce and North Tce.",3,http://www.adelaidemetro.com.au/routes/97A,4c73ff,ffffff,97A-98A-98C-99A-99C
 980,71,980,Sacred Heart Senior College to Marion Centre Interchange,"School Service. Via Diagonal Road.",3,http://www.adelaidemetro.com.au/routes/980,006c64,ffffff,
 981,71,981,Sacred Heart Senior School to Flinders Medical Centre,"School Service. Sacred Heart Senior School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/981,006c64,ffffff,
 982,71,982,Sacred Heart Senior College to St Marys,"School Service. Via Diagonal Rd, Sturt Rd, Main South Rd to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/982,006c64,ffffff,

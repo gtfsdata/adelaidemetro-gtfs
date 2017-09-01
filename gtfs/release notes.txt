@@ -16,4 +16,6 @@ Royal Adelaide Show - Setember 1 - September 10, 2017
 General Amendments:
 
 1) Further minor improvements made for the New Royal Adelaide Hospital service change.
-2) Some minor updates for trips times for routes 611, 613, 627, 629, 630, 631, 632, 637, 638, 639, 657, 667, 668 and 669.
+2) Added tram data for AFL Finals.
+3) Minor changes to trip times for Light City Buses services for AFL Final on Thursday, 7th September
+4) Minor time changes to J1X trips departing traveling from Adelaide Airport to City.
