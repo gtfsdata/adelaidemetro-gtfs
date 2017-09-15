@@ -15,12 +15,4 @@ City to Bay Fun Run - Setpember 17, 2017
 
 General Amendments:
 
-1) Added AOX and Tram data for AFL Finals match on September 22.
-2) N262 now terminates at Zone D Marion Interchange.
-3) 248/248F now terminate at Zone B Marion Interchange.
-4) 645/646 now terminate at Zone D Marion Interchange.
-5) 600/601 now terminate at Zone A Marion Interchange.
-6) 507 departing Tea Tree Plaza at 13:33 on Monday, Thursday and Friday has been added to the GTFS.
-7) 556 departing Paradise at 13:55 on Monday, Thursday and Friday has been added to the GTFS.
-8) Addressed some minor issues with trips servicing Stop C1 North Tce in the wrong location.
-9) Jetty Rd SA Water works have been delayed until further notice. Tram timetable has been reverted back to normal.
+1) Added rail closure information for Outer Harbor, Grange and Gawler train lines.
