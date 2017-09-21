@@ -15,7 +15,6 @@ None.
 
 General Amendments:
 
-1) Minor updates to closure information for Outer Harbor, Grange and Gawler train lines.
-2) Minor updates to M44 trips.
-3) Minor updates to trips information for AO/AOX routes operating on 22 September.
-4) Additional trains operating on 24 September for SANFL Grand Final at Adelaide Oval
+1) Additional trips for 150, 171 and 190 will be operating on September 24 for the SANFL Finals Match at Adelaide Oval.
+2) AO/AOX trips will be operating on September 24 for the SANFL Finals Match at Adelaide Oval (post-match only).
+3) East Grange station temporary stops have been renamed to reflect the road they are located on (Sunset Cr) and make them consistant with other stop names.
