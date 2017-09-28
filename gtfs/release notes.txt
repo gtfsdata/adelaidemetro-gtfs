@@ -15,7 +15,4 @@ None.
 
 General Amendments:
 
-1) Done a general "tidy up" of the GTFS data by removing trips that have expired.
-2) Tram to operate to a Saturday timetable on Sunday, October 1.
-3) Stop 25 Ayliffs Rd - North side has been removed from service.
-4) Minor updates to route data for routes H1, O1 and X1.
+1) Added additional bus and train trips that are operating on October 1.
