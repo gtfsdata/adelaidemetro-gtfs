@@ -5,8 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-Labour Day - October 2, 2017
-
+None.
 
 Special Events:
 
@@ -15,4 +14,5 @@ None.
 
 General Amendments:
 
-1) Fixed issue with trips not appearing on October 2, 2017.
+1) Reset Gawler train line data to normal schedule from 16 October.
+2) All O-Bahn routes that normally operate along parts of North Tce have been detoured. This has been reflected in the GTFS feed.
