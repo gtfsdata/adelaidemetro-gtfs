@@ -14,5 +14,4 @@ None.
 
 General Amendments:
 
-1) Reset Gawler train line data to normal schedule from 16 October.
-2) All O-Bahn routes that normally operate along parts of North Tce have been detoured. This has been reflected in the GTFS feed.
+1) Routes H21, 115, 117, 118, 141 and 142 are now detouring away from North Tce.
