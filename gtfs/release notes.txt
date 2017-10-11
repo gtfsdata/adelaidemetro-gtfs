@@ -14,4 +14,16 @@ None.
 
 General Amendments:
 
-1) Routes 140, 144, 144G, 147, 150, 150B, 150P 157 and 157X are now detouring away from North Tce.
+2) Several Torrens Transit services are now servicing different stops on North Tce. Here are the affected stops:
+
+Stops F1, G1, G2, I2, I3, R2 and T2 will are closed.
+
+Buses traveling on North Tce will stop at:
+
+- Stop I1: 174, 176, 178, N178, W90, W90, H33, H30, X30, B10, 281, H21, 98c, 99c
+- Stop R1: J1, J3, 163, B10, B12, H30, H33, H32, X30, 167, 168, 170, 171, 172, W90, W91, 286, 287, 288, 98a, 99a
+- Stop T1: 170, 171, 172, 286, 287, 288, 98a, 99a
+- Stop U1: 170, 171, 172, 286, 287, 288
+- Stop G3: 174, 176, 178, N178, 281, 98c, 99c
+- Stop F2: 174, 176, 178, N178, 281
+ 
