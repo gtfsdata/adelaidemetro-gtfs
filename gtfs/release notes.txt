@@ -17,5 +17,9 @@ None.
 
 General Amendments:
 
-1) Extended the feed validity to 26 January, 2018.
+1) Stop S1 North Tce - South side has been removed from the GTFS feed.
+
+2) Stops Z1 and Z2 will not be serviced by any routes from 22 October - 5 November.
+
+3) Slight improvements to maps for routes 286, 287 and 288 when they start their trips at Stop R1 North Tce.
  
