@@ -17,9 +17,38 @@ None.
 
 General Amendments:
 
-1) Stop S1 North Tce - South side has been removed from the GTFS feed.
+1) The following school stops have been added to routes 924 and 926:
 
-2) Stops Z1 and Z2 will not be serviced by any routes from 22 October - 5 November.
+Stop School Billabong Rd / Duke Ave (afternoon trips)
+Stop School Billabong Rd / Manooka St (afternoon trips)
+Stop School Charmaine Ave / Stonehenge Bvd (afternoon trips, 926 only)
+Stop School Charmaine Ave / Vinall Rd (morning trips)
+Stop School Wright Rd / Clifton Ct (morning trips)
+Stop School Wright Rd / Doncaster Ave (afternoon trips, 926 only)
 
-3) Slight improvements to maps for routes 286, 287 and 288 when they start their trips at Stop R1 North Tce.
+
+2) Route 924 now services Zone F (instead of H) in the afternoons.
+
+
+3) The following school stop has been added to routes 960, 990, 991, 782, 783 (affects afternoon trips only):
+
+Stop School Cross Rd / South Rd
+
+
+4) Stop 35 Wright Rd North and South sides in the Para Hills area have been removed from the GTFS.
+
+
+5) Stop 29 Montague Rd - south side has had its coordinates changed
+
+
+6) Stop coordinates changed for Stops 58 and 57 John Rd (both sides)
+
+
+7) Stop coordinates changed for Stops 59 and 59A Bicentennial Dr (both sides)
+
+
+8) Stop coordinates changed for Stops 25A and 26 Main South Rd (South East side only for both stops)
+
+
+9) On Saturday, 28th October the first two tram trips traveling to the city will travel as far as South Tce, and the first two tram trips departing from the city will depart from South Tce.
  
