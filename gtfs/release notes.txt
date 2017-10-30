@@ -18,10 +18,6 @@ Special Events:
 General Amendments:
 
 
-1) On 7th November (Melbourne Cup), trams will service the Morphettville Racecourse tram stop.
+1) Various stops have been added to Mawson Rd and Battunga Rd in Meadows. Affects route 850 only (both directions).
 
-2) Stop coordinates updated for stop 44F Semaphore Rd (both sides)
-
-3) Stop coordinates updated for Stop 50 Golden Grove Rd (both sides)
-
-4) Stop coordinates updated for stop 58 Waterloo Corner Rd - North West side
+2) Some additional trips have been added to routes G2 and H1.
