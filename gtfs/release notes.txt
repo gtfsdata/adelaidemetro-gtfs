@@ -12,21 +12,10 @@ Upcoming Public Holidays:
 
 Special Events:
 
-07 November 2017 - Melbourne Cup
 18 November 2017 - Adelaide Christmas Pageant
 
 
 General Amendments:
 
 
-1) Special timetable in operation for the Christmas Pageant on 18 November
-
-2) AO/AOX buses are in operation for International Rules match at Adelaide Oval on November 12
-
-3) Additional train services will be operating on 18 November for the Christmas Pageant
-
-4) Missing weekday 222 trips have been added to the GTFS.
-
-5) Stops 25M and 26M Alawoona Ave have been renamed to "Stop Industrial".
-
-6) Stop 36 Neath Ave - East side has changed coordinates.
+1) On Friday nights in the lead up until Christmas Day, additional bus services will be operating. This applies to routes C1T and 544.
