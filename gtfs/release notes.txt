@@ -18,6 +18,6 @@ Special Events:
 General Amendments:
 
 
-1) Christmas Pageant Bus data for Southlink services has been added for 18 November.
-2) From 10pm 18 November to 4 December there will be a partial Gawler train line closure. The GTFS has been updated to reflect this. More information is avaliable here: http://www.adelaidemetro.com.au/Announcements/Planned-Disruptions/Temporary-Gawler-line-closure-Adelaide-to-Mawson-Interchange-from-18-November-2017
-3) Outer Harbor and Grange train line closures have been extended to January 2018
+1) Updates made to LCB Christmas Pageant trip times - specifically, some duplicate trips have been removed from the GTFS.
+2) Changes to Gawler Closure timetable on Saturday, 18 November.
+3) Stop 5A Anzac Highway - South side has been removed from route 265 (and is no longer active on any trips/routes. So it has been removed from the GTFS entirely).
