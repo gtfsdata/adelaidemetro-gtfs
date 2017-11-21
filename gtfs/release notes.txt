@@ -12,12 +12,14 @@ Upcoming Public Holidays:
 
 Special Events:
 
-18 November 2017 - Adelaide Christmas Pageant
+25-26 November 2017 - Glenelg Christmas Markets and Pageant
 
 
 General Amendments:
 
 
-1) Updates made to LCB Christmas Pageant trip times - specifically, some duplicate trips have been removed from the GTFS.
-2) Changes to Gawler Closure timetable on Saturday, 18 November.
-3) Stop 5A Anzac Highway - South side has been removed from route 265 (and is no longer active on any trips/routes. So it has been removed from the GTFS entirely).
+1) Detours implemented for Glenelg Street Market November 25
+2) Detours implmented for Glenelg Chrismtas Pageant November 26
+3) Extra C1T trips operating on Friday nights until Christmas have been updated. They were previously servicing Stop D1 Currie St. This has been changed stop D2 Currie St, and they will also now service Stop 1 Botanic Rd.
+4) Detours implemented for Norwood Christmas Pageant on November 25
+5) Updates to route 502 to better reflect operational rules on Sudholz Rd and London Dr - updates have been specficially applied to morning services traveling between Paradise and Salisbury between 6am and 8:11am

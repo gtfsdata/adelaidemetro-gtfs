@@ -97,7 +97,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 263,7,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,0078ae,ffffff,262-262F-263-265-N262
 263A,7,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,0078ae,ffffff,262-262F-263-265-N262
 265,7,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,262-262F-263-265-N262
-265G,7,265G,Marion Centre Interchange to Glenelg Interchange,"Terminates at Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,
 265W,7,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,ffce07,000000,262-262F-263-265-N262
 271,7,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,86AE61,ffffff,271-273
 273,7,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,DBB65B,000000,271-273
@@ -454,7 +453,6 @@ B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City
 B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,007F5A,ffffff,B10-B10X-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,B71B8B,ffffff,B10-B10X-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6cc24a,ffffff,BEL
-BRTN,2,BRTN,Brighton to City,"via Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,ff7f32,ffffff,
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,C39A6B,ffffff,C1-C1T-C1X-C2-C2X-N1
