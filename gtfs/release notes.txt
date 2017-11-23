@@ -13,13 +13,12 @@ Upcoming Public Holidays:
 Special Events:
 
 25-26 November 2017 - Glenelg Christmas Markets and Pageant
+25 November 2017 - Norwood Christmas Pageant
+2-4 December 2017 - Ashes Cricket at Adelaide oval
 
 
 General Amendments:
 
 
-1) Detours implemented for Glenelg Street Market November 25
-2) Detours implmented for Glenelg Chrismtas Pageant November 26
-3) Extra C1T trips operating on Friday nights until Christmas have been updated. They were previously servicing Stop D1 Currie St. This has been changed stop D2 Currie St, and they will also now service Stop 1 Botanic Rd.
-4) Detours implemented for Norwood Christmas Pageant on November 25
-5) Updates to route 502 to better reflect operational rules on Sudholz Rd and London Dr - updates have been specficially applied to morning services traveling between Paradise and Salisbury between 6am and 8:11am
+1) Implemented AO/AOX bus route trips for the Ashes Cricket 2-4 December at Adelaide Oval.
+2) Fixed issue with route 451 and how it services Stop 78B Peachy Rd - East side. Services traveling to Smithfield  were incorrectly displayed as West side.
