@@ -12,13 +12,13 @@ Upcoming Public Holidays:
 
 Special Events:
 
-25-26 November 2017 - Glenelg Christmas Markets and Pageant
-25 November 2017 - Norwood Christmas Pageant
 2-4 December 2017 - Ashes Cricket at Adelaide oval
 
 
 General Amendments:
 
 
-1) Implemented AO/AOX bus route trips for the Ashes Cricket 2-4 December at Adelaide Oval.
-2) Fixed issue with route 451 and how it services Stop 78B Peachy Rd - East side. Services traveling to Smithfield  were incorrectly displayed as West side.
+1) Stop 1 Botanic Rd - North side has been removed from all O-Bahn routes.
+2) The 400 going to Salisbury North now services Zone C at Salisbury Interchange.
+3) The 400 going to Elizabeth now services Zone F at Salisbury Interchange.
+4) Extra tram services in operation Dec 5-8.
