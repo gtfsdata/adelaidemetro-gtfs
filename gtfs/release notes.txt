@@ -12,13 +12,16 @@ Upcoming Public Holidays:
 
 Special Events:
 
-2-4 December 2017 - Ashes Cricket at Adelaide oval
+None.
 
 
 General Amendments:
 
 
-1) Stop 1 Botanic Rd - North side has been removed from all O-Bahn routes.
-2) The 400 going to Salisbury North now services Zone C at Salisbury Interchange.
-3) The 400 going to Elizabeth now services Zone F at Salisbury Interchange.
-4) Extra tram services in operation Dec 5-8.
+1) From December 17 there is a service change affecting several routes and trips. The GTFS has been updated to reflect the changes. Please visit our website for more information:
+
+https://www.adelaidemetro.com.au/Announcements/News/Network-changes-from-Sunday-17-December%20
+
+2) Extra train services operating on Gawler and Seaford train lines December 18-22 to cater for increased demand due to Christmas Extended trading (shopping).
+
+3) Adjustments made to routes 98A and 98C.
