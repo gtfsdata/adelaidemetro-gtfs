@@ -444,15 +444,13 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 992,71,992,Urrbrae Agricultural High School to Walkerville,"School Service. Via Cross Road, Portrush Road and  North East Road.",3,http://www.adelaidemetro.com.au/routes/992,990000,ffffff,
 993,71,993,Westminster School to Coromandel Valley,"School Service. Via sturt Rd, Shepherds Hill Rd, Coromandel Pde, Grand Bvd to stop 41 Murrays Hill Rd.",3,http://www.adelaidemetro.com.au/routes/993,990000,ffffff,
 994,71,994,Arndale Centre Interchange to Ridley Grove,"School Service. Arndale Centre Interchange to Ridley Grove R-7 School.",3,http://www.adelaidemetro.com.au/routes/994,990000,ffffff,
-995,71,995,Walkerville to Loreto College,"School Service. Via Hampstead, Klemzig, Payneham & Trinity Gardens.",3,http://www.adelaidemetro.com.au/routes/995,990000,ffffff,
 996,71,996,Marion Centre Interchange to Blackwood High School,"School Service. Marion Centre Interchange to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/996,990000,ffffff,
 997,71,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
 99A,5,99A,City Anti-Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,0033CC,ffffff,97A-98A-98C-99A-99C
 99C,5,99C,City Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,0033CC,ffffff,97A-98A-98C-99A-99C
-B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B10X-B12
-B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B10X-B12
-B10X,5,B10X,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City & Magill Road. Limited stop express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B10X-B12
-B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B10X-B12
+B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
+B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
+B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1

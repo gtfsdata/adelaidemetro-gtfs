@@ -18,10 +18,12 @@ None.
 General Amendments:
 
 
-1) From December 17 there is a service change affecting several routes and trips. The GTFS has been updated to reflect the changes. Please visit our website for more information:
+1) M44 traveling between Golden Grove and Marion will now service stop W1 Currie St
+2) There have been changes to the calandar files for routes 98A and 98C
 
-https://www.adelaidemetro.com.au/Announcements/News/Network-changes-from-Sunday-17-December%20
+The following affects routes 202, 203, 206, 208, 271, 273 and 507:
 
-2) Extra train services operating on Gawler and Seaford train lines December 18-22 to cater for increased demand due to Christmas Extended trading (shopping).
-
-3) Adjustments made to routes 98A and 98C.
+3) Stop 6 (Mann Road) outbound has been removed  
+4) Stop 12 North East Rd outbound has been removed 
+5) Stop 24 (both sides of road) and 33 (both sides of road) North East Rd have been removed
+6) Coordinate changes for Stop 34 (both sides) and 35 (outbound direction only) North East Rd
