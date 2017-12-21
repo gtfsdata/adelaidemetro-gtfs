@@ -18,16 +18,4 @@ Special Events:
 General Amendments:
 
 
-1) Implemented AO/AOX trips for a BBL match at Adelaide Oval on December 22nd.
-2) Special timetables "Christmas Reductions" in operation December 27-29.
-3) Minor changes to routes N178, N30 and N22. These routes now reflect the proper timetable.
-4) 98C now services Stop V1 Currie St instead of Stop V Currie St
-5) H30S (not H30 or X30) has been updated to display the correct service changes stops
-6) Routes 271 and 273 now service stop D2 Currie St
-7) A single 235 trip was showing Stop D1 but has been changed to stop D2 Currie St
-8) G10, G20, G21 routes now service Stop U1 King William Rd instead of U2
-9) Route 503 has been updated to service stop G2 instead of G3 Grenfell St.
-
-Difference between version 704 and 705:
-
-10) Assigned a unquie service_id to the Seaford and Gawler trainline weekday trips. These trips are valid throughout December.
+1) B1 route amended to service Stop B2 King William St instead of Stop C2 King William St.
