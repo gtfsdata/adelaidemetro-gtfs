@@ -5,17 +5,16 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-25 December 2017 - Christmas Day
-26 December 2017 - Proclamation Day
 01 January 2018 - New Year's Day
 26 January 2018 - Australia Day
 
 Special Events:
 
-1) Christmas Reduction timetables in place December 27-29.
+1) Christmas Reduction timetables - December 27-29.
+2) New Year's Eve Special Services - December 31 2017 - January 1 2018
 
 
 General Amendments:
 
 
-1) B1 route amended to service Stop B2 King William St instead of Stop C2 King William St.
+1) New Year's Eve timetables have been implemented into our GTFS feed.
