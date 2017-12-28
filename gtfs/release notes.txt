@@ -10,11 +10,13 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Christmas Reduction timetables - December 27-29.
+1) Christmas Reduction timetables - December 27-29
 2) New Year's Eve Special Services - December 31 2017 - January 1 2018
+3) Trams extension project - January 2 - 21 2018
 
 
 General Amendments:
 
 
-1) New Year's Eve timetables have been implemented into our GTFS feed.
+1) From January 2 - 21 2018, Trams will only be operating between Glenelg and Victoria Square (city). Please see www.adelaidemetro.com.au for more detailed information.
+2) "TRMSUB" substitute bus route for trams has been implemented
