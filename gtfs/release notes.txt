@@ -18,5 +18,4 @@ Special Events:
 General Amendments:
 
 
-1) From January 2 - 21 2018, Trams will only be operating between Glenelg and Victoria Square (city). Please see www.adelaidemetro.com.au for more detailed information.
-2) "TRMSUB" substitute bus route for trams has been implemented
+1) Added detours for Southlink services (with the exception of "After Midnight" routes") that are affected by the tram extension project.
