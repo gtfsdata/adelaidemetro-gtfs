@@ -17,7 +17,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 150,5,150,Osborne to City,"via Victoria Road, Fletcher Road, Port Adelaide Interchange & Port Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/150,0033CC,ffffff,150-350
 150B,5,150B,City to Largs Bay,"Terminates at stop 48 Fletcher Road - Largs Bay.",3,http://www.adelaidemetro.com.au/routes/150,0033CC,ffffff,150-350
 150P,5,150P,City/Largs Bay to Port Adelaide Interchange,"Terminates at Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/150,0033CC,ffffff,150-350
-150W,5,150W,Osborne to Woodville,"via Victoria Road, Fletcher Road, Port Adelaide Interchange & Port Road. Service terminates at Stop 21 Port Road.",3,http://www.adelaidemetro.com.au/routes/150,0033CC,ffffff,150-350
 155,5,155,West Lakes Centre Interchange to City,"via Port Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/155,0033CC,ffffff,155-157-157X-376
 157,5,157,Largs Bay to City,"via Military Road, West Lakes Centre Interchange & Port Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/157,0033CC,ffffff,155-157-157X-376
 157X,5,157X,Largs Bay to City,"Express from West Lakes Centre Interchange to City. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/157,0033CC,ffffff,155-157-157X-376
@@ -98,7 +97,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 263,7,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-262F-263-265-N262
 263A,7,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-262F-263-265-N262
 265,7,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-262F-263-265-N262
-265G,7,265G,Marion Centre Interchange to Glenelg Interchange,"Terminates at Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,
 265W,7,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-262F-263-265-N262
 271,7,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,0033CC,ffffff,271-273
 273,7,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,0033CC,ffffff,271-273
@@ -271,7 +269,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 720,4,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 721,4,721,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
-721A,4,721A,Noarlunga Centre Interchange to Old Reynella Interchange,"Termintes at Old Reynella Interchange.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721F,4,721F,Noarlunga Centre Interchange to City,"via Main South Reynella Interchange. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721L,4,721L,Noarlunga Centre Interchange to Lonsdale Depot,"Terminates at Lonsdale Depot.",3,http://www.adelaidemetro.com.au/routes/721L,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721R,4,721R,Flinders Medical Centre to Old Reynella Interchange,"via Main South Road.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
@@ -450,12 +447,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 997,71,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
 99A,5,99A,City Anti-Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,0033CC,ffffff,97A-98A-98C-99A-99C
 99C,5,99C,City Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,0033CC,ffffff,97A-98A-98C-99A-99C
-B1,5,B1,Eden Hills to City,"via Blackwood, Belair, Mitcham and Goodwood. Operates December 27-29 only.",3,http://www.adelaidemetro.com.au/routes/B1,0033CC,ffffff,BEL-B1-B1X-SB1-LS
 B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
-BRTN,2,BRTN,Brighton to City,"via Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1G,7,C1G,City to Golden Grove Village Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
