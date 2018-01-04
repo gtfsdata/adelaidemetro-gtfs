@@ -15,4 +15,5 @@ Special Events:
 General Amendments:
 
 
-1) Routes 281, 281K, 286, 287 and 288 have been updated to reflect detours for the tram extension project.
+1) Routes 190, 190B, 195, 195F, 196, 196F, 230, 232, 232R and 97A have had detours applied to them for the Tram Extension Project.
+2) AO/AOX routes have been implemented for the BBL match at Adelaide Oval on 9 January
