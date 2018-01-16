@@ -9,15 +9,10 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Trams extension project - January 2 - 21 2018
+None.
 
 
 General Amendments:
 
 
-1) Changes to route TRMSUB for January 15-21 (this route will now travel along King William St and North Tce)
-2) TRMSUB will only travel between the Entertainment Centre and ARS for most of Sunday, 21 January due to the Tour Down Under
-3) Stop 25 Ayliffs Rd - South side has been removed. Affects routes 200, 200B, 300, 300G, 961, 997, G10, G20, G20F, G21, G21F, G30F and N21
-4) Stop coordinate changes for Stop 49 Mt Barker Rd - East side
-5) 196F that departs Blackwood Station to the city at 8:40am to the city now departs at 8:47am
-6) AOX/AOX services will be in operation on January 17 for a BBL match at Adelaide Oval
+1) General clean up of old trip data (it has been removed).
