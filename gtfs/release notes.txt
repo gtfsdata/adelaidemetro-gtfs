@@ -15,4 +15,7 @@ None.
 General Amendments:
 
 
-1) General clean up of old trip data (it has been removed).
+1) Stop coordinate changes to Stops X1 King William St, X2 King William St, T1 King William St, VS3 King William St, 85 The Parade - North side, 31D Miller St - west side and 29 Morphett St - East side. 
+2) Route IndstB now services Stop E3 Currie St.
+3) Fixed an issue with route 747 where it should have been servicing Stop 85 The Parade - South side instead of the north side.
+4) Modified the "setdown/pickup" rules applied to routes 195F and 196F. Some stops in the city should have been labeled as BOTH pick up and set down but were previously listed as pick up only.
