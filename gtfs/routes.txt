@@ -29,6 +29,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 171,5,171,Mitcham Square to City,"via Fullarton Road & Princes Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/171,0033CC,ffffff,171-173
 171A,5,171A,City to Highgate,"Terminates at Stop 12 Fullarton Road, Highgate.",3,http://www.adelaidemetro.com.au/routes/171,0033CC,ffffff,171-173
 172,5,172,Kingswood to City,"via Harrow Terrace & Duthy Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/172,0033CC,ffffff,170-172
+173,5,173,Blackwood Station Interchange to City,"via Main Road, Belair Road, Blythewood Road & Fullarton Road. Service operates school days only.",3,http://www.adelaidemetro.com.au/routes/173,0033CC,ffffff,171-173
 174,5,174,Paradise Interchange to City,"via Lower North East Road & Payneham Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/174,0033CC,ffffff,174-N178
 176,5,176,Athelstone to City,"via Gorge Road, Reserve Road & Payneham Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/176,0033CC,ffffff,176-178-178X-579-N178
 176G,5,176G,City to Newton,"Terminates at stop 27 Gorge Road, Newton.",3,http://www.adelaidemetro.com.au/routes/176,0033CC,ffffff,176-178-178X-579-N178
