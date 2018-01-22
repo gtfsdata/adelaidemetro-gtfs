@@ -15,5 +15,6 @@ None.
 General Amendments:
 
 
-1) Various school day only and school holiday only trips have been implemented across all main Adelaide Metro routes.
-2) Sudholz Rd and Paradise Interchange stopping rules have been applied to routes 500, 501 and 502 (please see PDF timetable on Adelaide Metro website for detailed description of rules).
+1) Added AO/AOX route data for Australia vs England cricket match at Adelaide Oval on 26th January.
+2) Unquie tram timetable in operation on 26th January.
+3) Some route path and trip time changes for Torrens Transit school routes.
