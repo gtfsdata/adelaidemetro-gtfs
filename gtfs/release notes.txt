@@ -15,6 +15,7 @@ None.
 General Amendments:
 
 
-1) Added AO/AOX route data for Australia vs England cricket match at Adelaide Oval on 26th January.
-2) Unquie tram timetable in operation on 26th January.
-3) Some route path and trip time changes for Torrens Transit school routes.
+1) Further changes have been made to school day only services.
+2) Routes 167 and 168 no longer service stop Y1 Currie St.
+3) Routes 115, 117 and 118, when thru-linking as routes 141 and 142, will now termiante at Stop 1 Port Rd. Weekdays only.
+4) Routes 141 and 142 will now commence their trips from Stop 1 Port Rd. Weekdays only.
