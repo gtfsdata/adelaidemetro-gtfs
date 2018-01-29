@@ -5,7 +5,11 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-26 January 2018 - Australia Day
+12 March 2018 - Adelaide Cup
+30 March 2018 - Good Friday
+02 April 2018 - Easter Monday
+25 April 2018 - ANZAC Day
+
 
 Special Events:
 
@@ -15,4 +19,5 @@ None.
 General Amendments:
 
 
-1) Further changes have been made to school day only services.
+1) Route 542X travelling away from the city will now always service Stop D3 Currie St.
+2) Route 995 has been added to the GTFS.
