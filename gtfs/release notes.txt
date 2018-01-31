@@ -19,5 +19,8 @@ None.
 General Amendments:
 
 
-1) Route 542X travelling away from the city will now always service Stop D3 Currie St.
-2) Route 995 has been added to the GTFS.
+1)	Thru-link changes to routes 115,117,118,141,142 on weekends. Thru-link point is now Stop 1 Port Rd for 115-117-118 trips turning into 141 and 142 trips
+2)	Route 922 on Tuesdays will service St Ignatius College
+3)	Time changes to routes 235, 237 and 239 at Stop U2 Grenfell St
+4)	AO/AOX trip information added for BBL match at Adelaide Oval on Friday, February 2
+5)	Stop 25 South Rd – West side has been permanently removed
