@@ -19,8 +19,6 @@ None.
 General Amendments:
 
 
-1)	Thru-link changes to routes 115,117,118,141,142 on weekends. Thru-link point is now Stop 1 Port Rd for 115-117-118 trips turning into 141 and 142 trips
-2)	Route 922 on Tuesdays will service St Ignatius College
-3)	Time changes to routes 235, 237 and 239 at Stop U2 Grenfell St
-4)	AO/AOX trip information added for BBL match at Adelaide Oval on Friday, February 2
-5)	Stop 25 South Rd – West side has been permanently removed
+1) New routes 875T and 894T added to GTFS. These are Southlink routes which operate trips only on Tuesday afternoons.
+2) Blackwood High School stops have been renamed and services tweaked. Afternoon trips that service Blackwood High School will service the "pick up" stop, while morning trips service the "set down" stop.
+3) We have added stop addresses to the "stop_desc" field in stops.txt. These will match what is displayed on the Adelaide Metro website stop pages. The addresses are meant as a guide only.

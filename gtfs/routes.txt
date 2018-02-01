@@ -365,7 +365,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 871,41,871,Aldgate to Glenunga International High School,"School Service. Via Glen Osmond, Crafers & Stirling.",3,http://www.adelaidemetro.com.au/routes/871,006600,ffffff,
 872,41,872,Glenunga International High School to Carey Gully,"School Service. Via Glen Osmond, Burnside, Greenhill, Summertown & Uraidla.",3,http://www.adelaidemetro.com.au/routes/872,006600,ffffff,
 873,41,873,Glenunga International High School to Mount Barker,"School Service. Via Glen Osmond, Bridgewater & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/873,006600,ffffff,
-875,41,875,Stirling to Heathfield High School,"School Service. Via Mt Barker Rd.",3,http://www.adelaidemetro.com.au/routes/875,006600,ffffff,
+875,41,875,Stirling to Heathfield High School,"School Service. Via Mt Barker Rd.",3,http://www.adelaidemetro.com.au/routes/875,006600,ffffff,875-875T
+875T,41,875T,Heathfield High School to Summertown,"School Service. Via Mt Barker Rd. Operates Tuesdays only.",3,http://www.adelaidemetro.com.au/routes/875T,006600,ffffff,875-875T
 877,41,877,Heathfield High School to Mount Barker,"School Service. Via Hahndorf.",3,http://www.adelaidemetro.com.au/routes/877,006600,ffffff,
 878,41,878,Nairne to Heathfield High School,"School Service. Via Littlehampton & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/878,006600,ffffff,
 879,41,879,Woodside to Heathfield High School,"School Service. Via Oakbank, Balhannah, Bridgewater & Aldgate.",3,http://www.adelaidemetro.com.au/routes/879,006600,ffffff,
@@ -383,8 +384,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 892,4,892,Urrbrae to Aldgate,"Via Belair Road, Upper Sturt Road & Crafers. Service operates school days only.",3,http://www.adelaidemetro.com.au/routes/892,006600,ffffff,892-893-894
 893,4,893,Aldgate to Blackwood Station,"via Stirling, Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/893,006600,ffffff,892-893-894
 894,4,894,Aldgate to Blackwood Station,"via Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,006600,ffffff,892-893-894
-894H,4,894H,Aldgate to Blackwood Station,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,006600,ffffff,892-893-894
-894S,4,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894,006600,ffffff,892-893-894
+894H,4,894H,Aldgate to Blackwood Station,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894H,006600,ffffff,892-893-894
+894S,4,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894S,006600,ffffff,892-893-894
+894T,4,894T,Aldgate to Blackwood Station,"via Heathfield. Service operates Tuesdays only.",3,http://www.adelaidemetro.com.au/routes/894T,006600,ffffff,892-893-894
 900,4,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,7030A0,ffffff,401-403-900
 920,71,920,Banksia Park to Tea Tree Plaza Interchange,"School Service. Via St Agnes.",3,http://www.adelaidemetro.com.au/routes/920,FF8C0D,ffffff,
 921,71,921,Golden Grove Village Interchange School Loop Service,"School Service. Via Atlantis Dr, The Golden Way, Golden Grove Rd, Target Hill Rd & The Golden Way.",3,http://www.adelaidemetro.com.au/routes/921,FF8C0D,ffffff,
