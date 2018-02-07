@@ -13,12 +13,11 @@ Upcoming Public Holidays:
 
 Special Events:
 
-None.
+1) Tram night closures February 8-14.
 
 
 General Amendments:
 
 
-1) New routes 875T and 894T added to GTFS. These are Southlink routes which operate trips only on Tuesday afternoons.
-2) Blackwood High School stops have been renamed and services tweaked. Afternoon trips that service Blackwood High School will service the "pick up" stop, while morning trips service the "set down" stop.
-3) We have added stop addresses to the "stop_desc" field in stops.txt. These will match what is displayed on the Adelaide Metro website stop pages. The addresses are meant as a guide only.
+1) Tram night closures applied for February 8-14.
+2) TRMSUB route applied for February 8-14

@@ -451,34 +451,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 997,71,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
 99A,5,99A,City Anti-Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,0033CC,ffffff,97A-98A-98C-99A-99C
 99C,5,99C,City Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,0033CC,ffffff,97A-98A-98C-99A-99C
-AO1,7,AO1,Greenwith to Adelaide Oval,"via O-Bahn. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO1,FF8C0D,ffffff,
-AO10,4,AO10,Aldgate to Adelaide Oval,"via Glen Osmond - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO10,006600,ffffff,
-AO11,5,AO11,Newton to Adelaide Oval,"via St Bernards & Magill Rds - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO11,0033CC,ffffff,
-AO12,5,AO12,Athelstone to Adelaide Oval,"via Payneham Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO12,0033CC,ffffff,
-AO13,5,AO13,Burnside to Adelaide Oval,"via Greenhill Rd - all stops to stop 5A then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO13,0033CC,ffffff,
-AO14,5,AO14,Rosslyn Park to Adelaide Oval,"via The Parade - all stops to stop 3 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO14,0033CC,ffffff,
-AO15,4,AO15,Mawson Interchange to Adelaide Oval,"via Main North Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO15,7030A0,ffffff,
-AO16,5,AO16,Rosewater to Adelaide Oval,"via Days Rd & Torrens Rd - all stops to stop 7A then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO16,0033CC,ffffff,
-AO17,5,AO17,Semaphore to Adelaide Oval,"via Port Rd - all stops to stop 21 then limited stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO17,0033CC,ffffff,
-AO18,5,AO18,West Lakes Centre Interchange to Adelaide Oval,"via Grange Rd - all stops to stop 6 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO18,0033CC,ffffff,
-AO19,5,AO19,Henley Beach to Adelaide Oval,"via Henley Beach Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO19,0033CC,ffffff,
-AO2,7,AO2,St Agnes to Adelaide Oval,"via O-Bahn. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO2,FF8C0D,ffffff,
-AO20,7,AO20,Blair Athol to Adelaide Oval,"via Prospect Rd - all stops to stop 7 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO20,990000,ffffff,
-AO21,7,AO21,Aberfoyle Hub to Adelaide Oval,"via Black Rd and Goodwood Rd. Operates Crows games only. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO21,990000,ffffff,
-AO23,7,AO23,Morphettville Depot to Adelaide Oval,"via Marion Rd. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO23,990000,ffffff,
-AO24,5,AO24,Mitcham Square to Adelaide Oval,"via Unley Rd - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO24,0033CC,ffffff,
-AO25,5,AO25,Mitcham Square to Adelaide Oval,"via Fullarton Rd - all stops to stop 5 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO25,0033CC,ffffff,
-AO26,5,AO26,Glenelg to Adelaide Oval,"via West Beach & Sir Donald Bradman Dr - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO26,0033CC,ffffff,
-AO29,7,AO29,Ingle Farm to Adelaide Oval,"via Hampstead Rd and Galway Ave. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO29,FF8C0D,ffffff,
-AO3,7,AO3,Northgate to Adelaide Oval,"via Klemzig Interchange. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO3,990000,ffffff,
-AO31,7,AO31,Morphettville Depot to Adelaide Oval,"via Glenelg Oval & Anzac Highway. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO31,990000,ffffff,
-AO4,7,AO4,Hope Valley to Adelaide Oval,"via Paradise Interchange. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO4,FF8C0D,ffffff,
-AO5,7,AO5,Salisbury East to Adelaide Oval,"via Paradise Interchange. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO5,FF8C0D,ffffff,
-AO8,4,AO8,Hallett Cove Shops to Adelaide Oval,"via Marion Shopping Centre & South Rd - all stops. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO8,FFCC00,000000,
-AOX15,4,AOX15,Elizabeth Shopping Centre to Adelaide Oval,"via Main North Rd - all stops to stop 29 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX15,7030A0,ffffff,
-AOX6,4,AOX6,Woodcroft Community Centre to Adelaide Oval,"via Main South Rd - all stops to stop 26 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX6,FFCC00,000000,
-AOX7,4,AOX7,South Adelaide Footy Club to Adelaide Oval,"via Main South Rd - all stops to stop 26 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX7,FFCC00,000000,
-AOX9,4,AOX9,Mount Barker to Adelaide Oval,"via South Eastern Freeway - all stops to stop 46 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX9,006600,ffffff,
 B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
@@ -567,6 +539,7 @@ T843,4,T843,Mount Barker to City,"via Hahndorf and South Eastern Freeway.  Limit
 T863,4,T863,Aldgate to City,"via Stirling and Crafers. Limited stop service. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/T863,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 TONS,2,TONS,Tonsley to City,"via Covelly Park & Goodwood. Service operates Monday to Friday.",2,http://www.adelaidemetro.com.au/routes/tons,FF8030,ffffff,SEAFRD-TONS
 Tram,2,Tram,Glenelg to Entertainment Centre,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street, North Terrace & Port Road. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/Tram,e91839,ffffff,Tram
+TRMSUB,5,TRMSUB,Tram Substitute Service,"From Entertainment Centre to Victoria Square. Operates January 2-21, 2018.",3,http://www.adelaidemetro.com.au/routes/TRMSUB,0033CC,ffffff,
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0033CC,ffffff,W90-W91
