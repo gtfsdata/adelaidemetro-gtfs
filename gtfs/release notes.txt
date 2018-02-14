@@ -13,11 +13,14 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Tram night closures February 8-14.
-
+1) Tram night closures - February 8-14 and 19-22.
+2) Outer Harbor and Grange night closures - February 14 - March 2.
+3) Adelaide Fringe - February to March.
 
 General Amendments:
 
 
-1) Tram night closures applied for February 8-14.
-2) TRMSUB route applied for February 8-14
+1) Added additional services for the Adelaide Fringe throughout February and March. This includes new tram timetables for the period on Friday, Saturday and Sunday, additional train services on Saturdays and extra bus services on Fridays and Saturdays.
+2) Implemented night closures for the Outer Harbor and Grange train lines including substitute bus services W1 and H1.
+3) Implemented Tram night closure timetable for February 19-22.
+4) Stop 15 Churchill Rd - West side has had its stop coordinates changed.
