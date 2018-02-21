@@ -369,7 +369,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 875T,41,875T,Heathfield High School to Summertown,"School Service. Via Mt Barker Rd. Operates Tuesdays only.",3,http://www.adelaidemetro.com.au/routes/875T,006600,ffffff,875-875T
 877,41,877,Heathfield High School to Mount Barker,"School Service. Via Hahndorf.",3,http://www.adelaidemetro.com.au/routes/877,006600,ffffff,
 878,41,878,Nairne to Heathfield High School,"School Service. Via Littlehampton & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/878,006600,ffffff,
-879,41,879,Woodside to Heathfield High School,"School Service. Via Oakbank, Balhannah, Bridgewater & Aldgate.",3,http://www.adelaidemetro.com.au/routes/879,006600,ffffff,
+879,41,879,Woodside to Heathfield High School,"School Service. Via Oakbank, Balhannah, Bridgewater & Aldgate. On Tuesdays, route will travel from Heathfield High School to Lobethal.",3,http://www.adelaidemetro.com.au/routes/879,006600,ffffff,
 880,41,880,Balhannah to Cornerstone College,"School Service. Via Oakbank, Woodside, Nairne & Littlehampton.",3,http://www.adelaidemetro.com.au/routes/880,006600,ffffff,
 881,41,881,Stirling to Cornerstone College,"School Service. Via Aldgate, Bridgewater, Verdun Junction, Hahndorf & Mt Barker.",3,http://www.adelaidemetro.com.au/routes/881,006600,ffffff,
 882,41,882,Mt Barker to Concordia College,"School Service. Via Hahndorf, Bridgewater & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/882,006600,ffffff,
@@ -451,6 +451,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 997,71,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
 99A,5,99A,City Anti-Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,0033CC,ffffff,97A-98A-98C-99A-99C
 99C,5,99C,City Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,0033CC,ffffff,97A-98A-98C-99A-99C
+A500,7,A500,Adelaide 500 O-Bahn Shuttle Service,"via Tea Tree Plaza to Rundle Road. Service operates for the duration of the Adelaide 500, 1-4 March 2018.",3,http://www.adelaidemetro.com.au/routes/A500,FF8C0D,ffffff,
 B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
