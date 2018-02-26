@@ -16,21 +16,13 @@ Special Events:
 1) Tram night closures - February 8-14 and 19-22.
 2) Outer Harbor and Grange night closures - February 14 - March 2.
 3) Adelaide Fringe - February to March.
-4) Adelaide 500 1-4 March.
+4) Adelaide 500 - 1-4 March.
+5) Ed Sheeran Concert at Adelaide Oval - 7 March
 
 
 General Amendments:
 
 
-1) Implemented additional services for the Adelaide 500 event, 1-4 March 2018. Some C1, C1T and C1G trips have been replaced with "full" C1 trips to accomodate the expected extra passengers for the event.
-2) Stop coordinates have changed for Stop 77 Womma Road (both sides). Affects route 900.
-3) Route 501 which departs Stop C1 Currie St at 9:21am has had a slight time change. It now departs Klemzig Interchange at 9:38am instead of 9:39am.
-4) Stops L1 and O1 Peacock Rd have been removed. Affects routes 200, 200B, 200C, 206 and 208.
-5) G40 trips traveling to and from Golden Grove Village were shown as servicing Stop 43A Goldne Grove Rd on the wrong side. This has been corrected.
-6) Stop 26 Township Rd - West side on routes M44 and IndstA (heading towards the city) has been changed to Stop 26 Finniss St. This was previously a naming error.
-7) Stop 20 South Rd - West side has had its coordinates changed. Affects routes 719, 720, 721, 722, 721F, 722F, 723F and N721.
-8) Stop D1 Sturt St - North Side has had its coordinates changed. Affects routes 98A and 99A.
-9) Slight time modifications to weekend G10 services.
-10) Fixed minor issue where there were some duplicated Gawler Central train services displayed on Saturdays.
-11) Route 879 will now travel to Lobathal on Tuesdays.
-12) Fixed an issue where route 756 was not servicing the correct stops. Applies to a single trip operating from Noarlunga to Willunga.
+1) Implemented AO/AOX trips for the Ed Sheeran Concert at Adelaide Oval on 7 March.
+2) Some minor changes to trip day types (mostly for operational purposes only, will not affect customers).
+3) 861 departing Stop 13 Glen Osmond Rd to the city now only operates during school holidays.
