@@ -23,6 +23,5 @@ Special Events:
 General Amendments:
 
 
-1) Implemented AO/AOX trips for the Ed Sheeran Concert at Adelaide Oval on 7 March.
-2) Some minor changes to trip day types (mostly for operational purposes only, will not affect customers).
-3) 861 departing Stop 13 Glen Osmond Rd to the city now only operates during school holidays.
+1) Some minor changes to data for the AO/AOX trips for the Ed Sheeran Concert at Adelaide Oval on 7 March.
+2) Route 400 traveling to Elizabeth no longer services stop 52 Commercial Rd. Instead, it services stop 52 Brian St.
