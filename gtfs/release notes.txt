@@ -18,10 +18,12 @@ Special Events:
 3) Adelaide Fringe - February to March.
 4) Adelaide 500 - 1-4 March.
 5) Ed Sheeran Concert at Adelaide Oval - 7 March
+6) WOMADelaide - March 9-12
 
 
 General Amendments:
 
 
-1) Some minor changes to data for the AO/AOX trips for the Ed Sheeran Concert at Adelaide Oval on 7 March.
-2) Route 400 traveling to Elizabeth no longer services stop 52 Commercial Rd. Instead, it services stop 52 Brian St.
+1) Coordinates have changed for Stop 27 Stradbroke Rd (both sides).
+2) Implemented additional trips for Fringe which operate on Sunday, 11 March.
+3) Implemented WOMAD Shuttle service which operates March 9-12.
