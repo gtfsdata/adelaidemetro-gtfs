@@ -13,17 +13,14 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Tram night closures - February 8-14 and 19-22.
-2) Outer Harbor and Grange night closures - February 14 - March 2.
-3) Adelaide Fringe - February to March.
-4) Adelaide 500 - 1-4 March.
-5) Ed Sheeran Concert at Adelaide Oval - 7 March
-6) WOMADelaide - March 9-12
+1) Adelaide Fringe - February to March.
+2) Adelaide 500 - 1-4 March.
+3) Ed Sheeran Concert at Adelaide Oval - 7 March
+4) WOMADelaide - March 9-12
 
 
 General Amendments:
 
 
-1) Coordinates have changed for Stop 27 Stradbroke Rd (both sides).
-2) Implemented additional trips for Fringe which operate on Sunday, 11 March.
-3) Implemented WOMAD Shuttle service which operates March 9-12.
+1) Time changes for route 888.
+2) Between 4pm-7pm route 300 traveling in the anti-clockwise direction does not service Stop 137 Portrush Rd - west side.
