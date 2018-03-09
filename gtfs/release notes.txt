@@ -14,12 +14,13 @@ Upcoming Public Holidays:
 Special Events:
 
 1) Adelaide Fringe - February to March.
-2) Ed Sheeran Concert at Adelaide Oval - 7 March
-3) WOMADelaide - March 9-12
+2) WOMADelaide - March 9-12
 
 
 General Amendments:
 
 
-1) Time changes for all Torrens Transit AO/AOX trips for the Ed Sheeran Concert at Adelaide Oval.
-2) Tram timetable will operate to a Saturday timetable on Monday, 12 March (Adelaide Cup public Holiday).
+1) Stop coordinates have changed for Stop 35 Brighton Rd - West side
+2) Stop coordinates have changed for Stop 34A Wright Rd - North West side
+3) Grange and Outer Harbor Night closures for March have been implemented.
+4) Southlink services have had some stop changes on King William Rd - namely they will not service Stop A1, Z1 snd Z2. Services that previously started at Stop A1 now commence from Stop B1 King William St. Services that serviced stops Z1 and Z2 continuing to the Northern suburbs now service a temporary stop approx. 100m to the north.
