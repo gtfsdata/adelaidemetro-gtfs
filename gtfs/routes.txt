@@ -545,7 +545,6 @@ W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bra
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0033CC,ffffff,W90-W91
 W91C,5,W91C,St Marys to City,"Terminates in city.",3,http://www.adelaidemetro.com.au/routes/W91,0033CC,ffffff,W90-W91
-WOMAD,5,WOMAD,WOMAdelaide Anti-Clockwise Loop Service,"Service operates for the duration of WOMADelaide only, 9-12 March 2018.",3,http://www.adelaidemetro.com.au/womad,0033CC,ffffff,
 X30,5,X30,West Lakes Centre Interchange to Paradise Interchange,"Express between stop 8 Henley Beach Road and stop B1 Currie Street.",3,http://www.adelaidemetro.com.au/routes/X30,0033CC,ffffff,H30-X30-N30
 X30C,5,X30C,West Lakes Centre Interchange to City,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at the city.",3,http://www.adelaidemetro.com.au/routes/X30C,0033CC,ffffff,H30-X30-N30
 X30S,5,X30S,West Lakes Centre Interchange to Newton,"Express between stop 8 Henley Beach Road and stop B1 Currie Street. Terminates at stop 30 Stradbroke Road.",3,http://www.adelaidemetro.com.au/routes/X30S,0033CC,ffffff,H30-X30-N30
