@@ -18,4 +18,5 @@ Special Events:
 General Amendments:
 
 
-1) Stop 28 Sturt Rd - North side has been removed for all routes turning RIGHT onto Main South Rd (to go to Flidners Medical Centre).
+1) AO and AOX route data for AFL Round 1 added to the GTFS.
+2) Tram Night Closures added to GTFS for March 19-22.
