@@ -12,11 +12,12 @@ Upcoming Public Holidays:
 
 Special Events:
 
-1) Adelaide Fringe - February to March.
+None.
 
 
 General Amendments:
 
 
-1) AO and AOX route data for AFL Round 1 added to the GTFS.
+1) Trip data added for AFL Rounds 2-4.
 2) Tram Night Closures added to GTFS for March 19-22.
+3) Route 506 heading towards the city will now service Zone C Paradise Interchange. Route services Zone B Paradise Interchange between 7am-9am weekdays.
