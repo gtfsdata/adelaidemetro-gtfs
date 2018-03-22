@@ -10,14 +10,9 @@ Upcoming Public Holidays:
 25 April 2018 - ANZAC Day
 
 
-Special Events:
-
-None.
-
-
 General Amendments:
 
 
-1) Trip data added for AFL Rounds 2-4.
-2) Tram Night Closures added to GTFS for March 19-22.
-3) Route 506 heading towards the city will now service Zone C Paradise Interchange. Route services Zone B Paradise Interchange between 7am-9am weekdays.
+1) Trip data added for AFL Rounds 5.
+2) Minor improvements to route 933. Route is now shown servicing the Western and Eastern gates of The Elms Lifestyle Village.
+3) Trip data implemented for Grange, Outer Harbor and Gawler train line closures over the Easter long weekend.
