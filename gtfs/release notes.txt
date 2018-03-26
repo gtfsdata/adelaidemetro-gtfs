@@ -13,6 +13,5 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Trip data added for AFL Rounds 5.
-2) Minor improvements to route 933. Route is now shown servicing the Western and Eastern gates of The Elms Lifestyle Village.
-3) Trip data implemented for Grange, Outer Harbor and Gawler train line closures over the Easter long weekend.
+1) Minor shape updates to routes AOX16 and 720H.
+2) Extended the calandar validity dates.
