@@ -13,5 +13,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor shape updates to routes AOX16 and 720H.
-2) Extended the calandar validity dates.
+1) Updates to trip data for AFL Round 2
