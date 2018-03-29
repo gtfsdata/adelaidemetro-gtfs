@@ -13,4 +13,5 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updates to trip data for AFL Round 2
+1) Updates to 541 timetable for Saturday morning.
+2) Updates to various stop coordinates in North Eastern suburbs.
