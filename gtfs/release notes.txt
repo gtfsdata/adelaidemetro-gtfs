@@ -5,13 +5,11 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-30 March 2018 - Good Friday
-02 April 2018 - Easter Monday
 25 April 2018 - ANZAC Day
 
 
 General Amendments:
 
 
-1) Updates to 541 timetable for Saturday morning.
-2) Updates to various stop coordinates in North Eastern suburbs.
+1) Updates to various stop coordinates in North Eastern suburbs.
+2) Added data for AFL Rounds 6-9.
