@@ -143,7 +143,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 442,4,442,Smithfield Interchange to Elizabeth Interchange,"via Blakeview, Craigmore & Elizabeth Park. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/442,7030A0,ffffff,440-441-442-443
 443,4,443,Elizabeth Interchange to Munno Para Loop Service,"Limited service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/443,7030A0,ffffff,440-441-442-443
 451,4,451,Munno Para Centre Interchange to Elizabeth Interchange,"via Andrews Farm & Davoren Park Shopping Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/451,7030A0,ffffff,451-452-461-462
-451A,4,451A,Munno Para Centre Interchange to Andrews Farm,"Terminates at stop 74A Edgecombe Road, Andrews Farm.",3,http://www.adelaidemetro.com.au/routes/451,7030A0,ffffff,451-452-461-462
+451A,4,451A,Munno Para to Andrews Farm,"Terminates at Stop 74A Edgecombe Road, Andrews Farm.",3,http://www.adelaidemetro.com.au/routes/451,7030A0,ffffff,451-452-461-462
 452,4,452,Munno Para Centre Interchange to Elizabeth Interchange,"via Mark Oliphant College. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/452,7030A0,ffffff,451-452-461-462
 452W,4,452W,Munno Para Centre Interchange to Elizabeth West,"Terminates at Stop 71 Heytsbury Road.Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/452,7030A0,ffffff,451-452-461-462
 461,4,461,Munno Para Interchange to Munno Para West,"via Mark Oliphant College. Loop Service operate Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/461,7030A0,ffffff,451-452-461-462

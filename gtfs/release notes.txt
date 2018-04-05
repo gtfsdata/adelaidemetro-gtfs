@@ -11,5 +11,5 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updates to various stop coordinates in North Eastern suburbs.
-2) Added data for AFL Rounds 6-9.
+1) Updates to shape data for several routes.
+2) Further updates to stop coordinates for various bus stops.
