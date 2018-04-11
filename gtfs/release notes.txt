@@ -11,5 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updates to AO route trip times for AFL Round 4.
-2) On Friday, 13 April some school services operated by Light City Buses will operate at alternative times due to end of term early dismissals for some schools.
+1) There will be a service change on April 22, 2018 affecting all train timetables. The GTFS has been updated to reflect the time changes.
