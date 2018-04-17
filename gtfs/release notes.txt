@@ -11,5 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added tram, train and some bus services for ANZAC Day.
-2) Route 924 will now service Zone G at Tea Tree Plaza Interchange in the mornings.
+1) From 22 April, 2018 several Outer South bus routes will have timetable modifications so that they can link up with the new train timetables. These have been implemented into our GTFS feed.
