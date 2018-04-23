@@ -11,5 +11,5 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added some missing trips for route 682.
-2) Time modifications for AFL Round 2.
+1) Added data for April 29 service change. Please see www.adelaidemetro.com.au for further information.
+2) Tram timetable has changed for ANZAC Day.

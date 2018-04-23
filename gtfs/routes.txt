@@ -119,7 +119,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 333,5,333,North Haven to Port Adelaide,"via Largs Bay & Semaphore. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/333,0033CC,ffffff,333
 350,5,350,Largs Bay to West Lakes Centre Interchange,"via Port Adelaide Interchange & Royal Park. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
 350P,5,350P,West Lakes Centre Interchange to Port Adelaide Interchange,"Terminates Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
-361,7,361,Port Adelaide Interchange to Tea Tree Plaza Interchange,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361
+361,7,361,Port Adelaide to Tea Tree Plaza,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361-361X
+361X,7,361X,Port Adelaide to Tea Tree Plaza,"Express service. Operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/361X,990000,ffffff,361-361X
 371,5,371,West Lakes Centre Interchange Clockwise Loop,"via Frederick Rd, Clark Tce, Trimmer Pde & Military Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/371,0033CC,ffffff,J7-J8-371-372
 372,5,372,West Lakes Centre Interchange Anti-Clockwise Loop,"via Military Rd, Trimmer Pde, Clark Tce & Frederick Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/372,0033CC,ffffff,J7-J8-371-372
 376,5,376,West Lakes Centre Interchange to Delfin Island Anti-Clockwise Loop,"Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/376,0033CC,ffffff,155-157-157X-376
