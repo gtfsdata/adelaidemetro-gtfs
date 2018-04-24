@@ -11,5 +11,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added data for April 29 service change. Please see www.adelaidemetro.com.au for further information.
-2) Tram timetable has changed for ANZAC Day.
+1) Some further data changes implemented ahead of the April 29 service change. Please see www.adelaidemetro.com.au for further information.
+2) Added train data for AFL Rounds 6 and 7.
+3) Some minor changes to bus data for AFL Round 6.
+4) Temporary stop on King William Road has been removed. Bus services will now revert back to using Stops Z1 and Z2. Stop Z3 to remain permanently closed.
+5) Updates to school trip data.
