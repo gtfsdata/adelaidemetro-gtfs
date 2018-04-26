@@ -5,14 +5,10 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-25 April 2018 - ANZAC Day
+None.
 
 
 General Amendments:
 
 
-1) Some further data changes implemented ahead of the April 29 service change. Please see www.adelaidemetro.com.au for further information.
-2) Added train data for AFL Rounds 6 and 7.
-3) Some minor changes to bus data for AFL Round 6.
-4) Temporary stop on King William Road has been removed. Bus services will now revert back to using Stops Z1 and Z2. Stop Z3 to remain permanently closed.
-5) Updates to school trip data.
+1) Grange and Outer Harbor train line will have night closures from 29 April until 4 May.
