@@ -5,10 +5,13 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-None.
+
+1) Queen's Birthday Holiday - 11 June
 
 
 General Amendments:
 
 
-1) Grange and Outer Harbor train line will have night closures from 29 April until 4 May.
+1) Updated stops serviced by route N224 in the city.
+2) Removed expired trip data following the commencement of the April 29 service change.
+3) Extended our GTFS feed until September 28.
