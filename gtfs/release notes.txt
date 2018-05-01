@@ -12,6 +12,7 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updated stops serviced by route N224 in the city.
-2) Removed expired trip data following the commencement of the April 29 service change.
-3) Extended our GTFS feed until September 28.
+1) North Tce detours for parliament opening on 3 May, 2018 have been implemented.
+2) Seaford Night closures from May 6 have been implemented.
+3) Trip time changes for After Midnight (N1, N10, etc) services have been implemented.
+4) Some slight time changes for AO/Aox buses for AFL Round 7.
