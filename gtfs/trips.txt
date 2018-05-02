@@ -1059,6 +1059,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 155,1,418301,City,,0,418110,13033,
 155,1,418302,West Lakes,,1,418302,13602,
 155,1,418303,West Lakes,,1,418303,13601,
+155,1,418304,West Lakes,,1,418304,13601,
+155,1,418305,City,,0,418069,13033,
+155,1,418306,City,,0,418131,13033,
+155,1,418307,West Lakes,,1,418307,13601,
 155,12,419750,West Lakes,,1,419750,13600,
 155,12,419751,West Lakes,,1,419751,13600,
 155,12,419752,City,,0,419685,13033,
@@ -1066,10 +1070,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 155,11,419226,West Lakes,,1,419226,13600,
 155,11,419227,West Lakes,,1,419227,13600,
 155,11,419228,City,,0,419148,13033,
-155,1,418304,West Lakes,,1,418304,13601,
-155,1,418305,City,,0,418069,13033,
-155,1,418306,City,,0,418131,13033,
-155,1,418307,West Lakes,,1,418307,13601,
 157,1,418308,City,,0,418133,13037,
 157,1,418309,Largs North,,1,418309,13605,
 157,1,418310,City,,0,418079,13037,
@@ -1094,29 +1094,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 157,1,418329,City,,0,418158,13037,
 157,1,418330,City,,0,418160,13037,
 157,1,418331,Largs North,,1,418331,13605,
-157,1,418332,City,,0,418170,13037,
-157,1,418333,City,,0,418171,13037,
-157,1,418334,Largs North,,1,418334,13606,
-157,1,418335,City,,0,418175,13037,
-157,1,418336,Largs North,,1,418336,13606,
-157,1,418337,Largs North,,1,418337,13607,
-157,1,418338,Largs North,,1,418338,13605,
-157,1,418339,Largs North,,1,418339,13606,
-157,1,418340,City,,0,418181,13037,
-157,1,418341,City,,0,418182,13037,
-157,1,418342,Largs North,,1,418342,13606,
-157,1,418343,Largs North,,1,418343,13606,
-157,1,418344,Largs North,,1,418344,13606,
-157,1,418345,Largs North,,1,418345,13605,
-157,1,418346,City,,0,418346,13038,
-157,1,418347,City,,0,418129,13037,
-157,1,418348,Largs North,,1,418348,13605,
-157,1,418349,City,,0,418349,13038,
-157,1,418350,City,,0,418130,13037,
-157,1,418351,City,,0,418194,13037,
-157,1,418352,City,,0,418195,13037,
-157,1,418353,City,,0,418068,13037,
-157,1,418354,City,,0,418354,13038,
 157,11,419229,City,,0,419125,13037,
 157,11,419230,Largs North,,1,419230,13606,
 157,11,419231,City,,0,419126,13037,
@@ -1148,6 +1125,29 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 157,11,419257,City,,0,419155,13037,
 157,11,419258,Largs North,,1,419258,13606,
 157,11,419259,Largs North,,1,419259,13605,
+157,1,418332,City,,0,418170,13037,
+157,1,418333,City,,0,418171,13037,
+157,1,418334,Largs North,,1,418334,13606,
+157,1,418335,City,,0,418175,13037,
+157,1,418336,Largs North,,1,418336,13606,
+157,1,418337,Largs North,,1,418337,13607,
+157,1,418338,Largs North,,1,418338,13605,
+157,1,418339,Largs North,,1,418339,13606,
+157,1,418340,City,,0,418181,13037,
+157,1,418341,City,,0,418182,13037,
+157,1,418342,Largs North,,1,418342,13606,
+157,1,418343,Largs North,,1,418343,13606,
+157,1,418344,Largs North,,1,418344,13606,
+157,1,418345,Largs North,,1,418345,13605,
+157,1,418346,City,,0,418346,13038,
+157,1,418347,City,,0,418129,13037,
+157,1,418348,Largs North,,1,418348,13605,
+157,1,418349,City,,0,418349,13038,
+157,1,418350,City,,0,418130,13037,
+157,1,418351,City,,0,418194,13037,
+157,1,418352,City,,0,418195,13037,
+157,1,418353,City,,0,418068,13037,
+157,1,418354,City,,0,418354,13038,
 157,12,419753,Largs North,,1,419753,13606,
 157,12,419754,City,,0,419655,13037,
 157,12,419755,City,,0,419656,13037,
@@ -10366,6 +10366,29 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 542,11,425326,Fairview Park,,1,425326,7139,
 542,11,425327,Fairview Park,,1,425327,7139,
 542,11,425328,Fairview Park,,1,425328,7139,
+542,1,422741,Fairview Park,,1,422741,7139,
+542,1,422742,Fairview Park,,1,422742,7139,
+542,1,422743,Tea Tree Plaza,,0,422743,7137,
+542,1,422744,Fairview Park,,1,422744,7139,
+542,1,422745,Tea Tree Plaza,,0,422745,7137,
+542,1,422746,Fairview Park,,1,422746,7139,
+542,1,422747,Fairview Park,,1,422747,7139,
+542,1,422748,Tea Tree Plaza,,0,422748,7137,
+542,1,422749,Fairview Park,,1,422749,7139,
+542,1,422750,Tea Tree Plaza,,0,422750,7137,
+542,1,422751,Fairview Park,,1,422751,7139,
+542,1,422752,Tea Tree Plaza,,0,422752,7137,
+542,1,422753,Fairview Park,,1,422753,7139,
+542,1,422754,Tea Tree Plaza,,0,422754,7137,
+542,1,422755,Tea Tree Plaza,,0,422755,7137,
+542,17,422707,Fairview Park,,1,422707,7139,
+542,17,422708,Tea Tree Plaza,,0,422708,7137,
+542,3,422709,Tea Tree Plaza,,0,422709,7137,
+542,3,422710,Tea Tree Plaza,,0,422710,7137,
+542,7,422711,Fairview Park,,1,422711,7139,
+542,6,422712,Fairview Park,,1,422712,7139,
+542,18,422713,Tea Tree Plaza,,0,422713,7137,
+542,18,422714,Tea Tree Plaza,,0,422714,7137,
 542,9,422715,Fairview Park,,1,422715,7139,
 542,9,422716,Tea Tree Plaza,,0,422716,7137,
 542,1,422717,Tea Tree Plaza,,0,422717,7137,
@@ -10392,29 +10415,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 542,1,422738,Fairview Park,,1,422738,7139,
 542,1,422739,Fairview Park,,1,422739,7139,
 542,1,422740,Tea Tree Plaza,,0,422740,7137,
-542,1,422741,Fairview Park,,1,422741,7139,
-542,1,422742,Fairview Park,,1,422742,7139,
-542,1,422743,Tea Tree Plaza,,0,422743,7137,
-542,1,422744,Fairview Park,,1,422744,7139,
-542,1,422745,Tea Tree Plaza,,0,422745,7137,
-542,1,422746,Fairview Park,,1,422746,7139,
-542,1,422747,Fairview Park,,1,422747,7139,
-542,1,422748,Tea Tree Plaza,,0,422748,7137,
-542,1,422749,Fairview Park,,1,422749,7139,
-542,1,422750,Tea Tree Plaza,,0,422750,7137,
-542,1,422751,Fairview Park,,1,422751,7139,
-542,1,422752,Tea Tree Plaza,,0,422752,7137,
-542,1,422753,Fairview Park,,1,422753,7139,
-542,1,422754,Tea Tree Plaza,,0,422754,7137,
-542,1,422755,Tea Tree Plaza,,0,422755,7137,
-542,17,422707,Fairview Park,,1,422707,7139,
-542,17,422708,Tea Tree Plaza,,0,422708,7137,
-542,3,422709,Tea Tree Plaza,,0,422709,7137,
-542,3,422710,Tea Tree Plaza,,0,422710,7137,
-542,7,422711,Fairview Park,,1,422711,7139,
-542,6,422712,Fairview Park,,1,422712,7139,
-542,18,422713,Tea Tree Plaza,,0,422713,7137,
-542,18,422714,Tea Tree Plaza,,0,422714,7137,
 542X,4,422756,Fairview Park,,1,422756,13235,
 542X,17,422757,City,,0,422757,13234,
 542X,17,422758,Fairview Park,,1,422758,13235,
@@ -13720,8 +13720,17 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 750,1,417086,Colonnades,,0,417086,11365,
 750,1,417088,Colonnades,,0,417088,11362,
 750,1,417091,Colonnades,,0,417091,13613,
+750,1,417093,Colonnades,,0,417093,11362,
+750,1,417095,Colonnades,,0,417095,11365,
+750,1,417106,Sellicks Beach,,1,417106,10670,
+750,1,417109,Sellicks Beach,,1,417109,10670,
 750,1,417147,Sellicks Beach,,1,417147,10670,
 750,1,417149,Sellicks Beach,,1,417149,10670,
+750,1,417112,Sellicks Beach,,1,417112,10670,
+750,1,417115,Sellicks Beach,,1,417115,10670,
+750,1,417118,Sellicks Beach,,1,417118,10670,
+750,1,417121,Sellicks Beach,,1,417121,10670,
+750,1,417124,Sellicks Beach,,1,417124,10670,
 750,1,417127,Sellicks Beach,,1,417127,10670,
 750,1,417131,Sellicks Beach,,1,417131,10670,
 750,1,417132,Sellicks Beach,,1,417132,10670,
@@ -13731,15 +13740,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 750,1,417139,Sellicks Beach,,1,417139,10670,
 750,1,417142,Sellicks Beach,,1,417142,10670,
 750,1,417145,Sellicks Beach,,1,417145,10670,
-750,1,417093,Colonnades,,0,417093,11362,
-750,1,417095,Colonnades,,0,417095,11365,
-750,1,417106,Sellicks Beach,,1,417106,10670,
-750,1,417109,Sellicks Beach,,1,417109,10670,
-750,1,417112,Sellicks Beach,,1,417112,10670,
-750,1,417115,Sellicks Beach,,1,417115,10670,
-750,1,417118,Sellicks Beach,,1,417118,10670,
-750,1,417121,Sellicks Beach,,1,417121,10670,
-750,1,417124,Sellicks Beach,,1,417124,10670,
 750,11,234403,Colonnades,,0,234403,11381,
 750,11,234405,Colonnades,,0,234405,11381,
 750,11,234407,Colonnades,,0,234407,11382,
@@ -13790,13 +13790,13 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 750B,1,417102,Aldinga Beach,,1,417102,11373,
 750B,1,417104,Aldinga Beach,,1,417104,11373,
 750B,1,417105,Aldinga Beach,,1,417105,11784,
+750B,1,417129,Aldinga Beach,,1,417129,11385,
 750B,1,417120,Aldinga Beach,,1,417079,11373,
 750B,1,417123,Aldinga Beach,,1,417123,11385,
 750B,1,417114,Aldinga Beach,,1,417114,11385,
 750B,1,417117,Aldinga Beach,,1,417117,11385,
 750B,1,417108,Aldinga Beach,,1,417108,11373,
 750B,1,417111,Aldinga Beach,,1,417111,11385,
-750B,1,417129,Aldinga Beach,,1,417129,11385,
 750B,1,417151,Aldinga Beach,,1,417151,11373,
 750B,1,417152,Aldinga Beach,,1,417152,11373,
 750B,1,417153,Aldinga Beach,,1,417153,11373,
@@ -13882,6 +13882,11 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 750X,1,417031,Seaford,,0,417031,10672,
 751,1,417150,Aldinga Beach,,1,417150,11194,
 751,1,417148,Aldinga Beach,,1,417148,11194,
+751,1,417113,Aldinga Beach,,1,417113,13615,
+751,1,417116,Aldinga Beach,,1,417116,13615,
+751,1,417125,Aldinga Beach,,1,417125,13615,
+751,1,417122,Aldinga Beach,,1,417122,13615,
+751,1,417119,Aldinga Beach,,1,417119,11376,
 751,1,417130,Aldinga Beach,,1,417130,11194,
 751,1,417128,Aldinga Beach,,1,417128,11376,
 751,1,417136,Aldinga Beach,,1,417136,11194,
@@ -13892,11 +13897,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 751,1,417140,Aldinga Beach,,1,417140,13615,
 751,1,417141,Aldinga Beach,,1,417141,11194,
 751,1,417138,Aldinga Beach,,1,417138,11376,
-751,1,417113,Aldinga Beach,,1,417113,13615,
-751,1,417116,Aldinga Beach,,1,417116,13615,
-751,1,417125,Aldinga Beach,,1,417125,13615,
-751,1,417122,Aldinga Beach,,1,417122,13615,
-751,1,417119,Aldinga Beach,,1,417119,11376,
 751,1,417103,Aldinga Beach,,1,417103,11194,
 751,1,417110,Aldinga Beach,,1,417110,11376,
 751,1,417107,Aldinga Beach,,1,417107,13616,
@@ -13938,10 +13938,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 751,11,234406,Colonnades,,0,234406,11185,
 751,11,234404,Colonnades,,0,234404,11192,
 751,12,234524,Aldinga Beach,,1,234524,11197,
+751A,1,417098,Noarlunga,,0,417098,11187,
 751A,1,417065,Noarlunga,,0,417065,13611,
 751A,1,417066,Noarlunga,,0,417066,11187,
 751A,1,417063,Noarlunga,,0,417063,11187,
-751A,1,417098,Noarlunga,,0,417098,11187,
 751A,11,234430,Noarlunga,,0,234430,11188,
 751A,11,234428,Noarlunga,,0,234428,11380,
 751A,11,234422,Noarlunga,,0,234422,11187,
@@ -14841,73 +14841,73 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 978,45,220115,Marion,,1,220115,10147,
 978,23,427577,Marion,,1,427577,10147,
 979,21,220116,Sacred Heart Senior College,,0,220116,9682,
-97A,9701,371902,New Royal Adelaide Hospital Shuttle,,1,371902,12659,
-97A,9701,371903,New Royal Adelaide Hospital Shuttle,,1,371903,12659,
-97A,9701,371904,New Royal Adelaide Hospital Shuttle,,1,371904,12659,
-97A,9701,371905,New Royal Adelaide Hospital Shuttle,,1,371905,12659,
-97A,9701,371906,New Royal Adelaide Hospital Shuttle,,1,371906,12659,
-97A,9701,371907,New Royal Adelaide Hospital Shuttle,,1,371907,12659,
-97A,9701,371908,New Royal Adelaide Hospital Shuttle,,1,371908,12659,
-97A,9701,371909,New Royal Adelaide Hospital Shuttle,,1,371909,12659,
-97A,9701,371910,New Royal Adelaide Hospital Shuttle,,1,371910,12659,
-97A,9701,371911,New Royal Adelaide Hospital Shuttle,,1,371911,12659,
-97A,9701,371912,New Royal Adelaide Hospital Shuttle,,1,371912,12659,
-97A,9701,371913,New Royal Adelaide Hospital Shuttle,,1,371913,12659,
-97A,9701,371914,New Royal Adelaide Hospital Shuttle,,1,371914,12659,
-97A,9701,371915,New Royal Adelaide Hospital Shuttle,,1,371915,12659,
-97A,9701,371916,New Royal Adelaide Hospital Shuttle,,1,371916,12659,
-97A,9701,371917,New Royal Adelaide Hospital Shuttle,,1,371917,12659,
-97A,9701,371918,New Royal Adelaide Hospital Shuttle,,1,371918,12659,
-97A,9701,371919,New Royal Adelaide Hospital Shuttle,,1,371919,12659,
-97A,9701,371920,New Royal Adelaide Hospital Shuttle,,1,371920,12659,
-97A,9701,371921,New Royal Adelaide Hospital Shuttle,,1,371921,12659,
-97A,9701,371922,New Royal Adelaide Hospital Shuttle,,1,371922,12659,
-97A,9701,371923,New Royal Adelaide Hospital Shuttle,,1,371923,12659,
-97A,9701,371924,New Royal Adelaide Hospital Shuttle,,1,371924,12659,
-97A,9701,371925,New Royal Adelaide Hospital Shuttle,,1,371925,12659,
-97A,9701,371926,New Royal Adelaide Hospital Shuttle,,1,371926,12659,
-97A,11,373788,New Royal Adelaide Hospital Shuttle,,1,373788,12659,
-97A,11,373789,New Royal Adelaide Hospital Shuttle,,1,373789,12659,
-97A,11,373790,New Royal Adelaide Hospital Shuttle,,1,373790,12659,
-97A,11,373791,New Royal Adelaide Hospital Shuttle,,1,373791,12659,
-97A,11,373792,New Royal Adelaide Hospital Shuttle,,1,373792,12659,
-97A,11,373793,New Royal Adelaide Hospital Shuttle,,1,373793,12659,
-97A,11,373794,New Royal Adelaide Hospital Shuttle,,1,373794,12659,
-97A,11,373795,New Royal Adelaide Hospital Shuttle,,1,373795,12659,
-97A,11,373796,New Royal Adelaide Hospital Shuttle,,1,373796,12659,
-97A,11,373797,New Royal Adelaide Hospital Shuttle,,1,373797,12659,
-97A,11,373798,New Royal Adelaide Hospital Shuttle,,1,373798,12659,
-97A,11,373799,New Royal Adelaide Hospital Shuttle,,1,373799,12659,
-97A,11,373800,New Royal Adelaide Hospital Shuttle,,1,373800,12659,
-97A,11,373801,New Royal Adelaide Hospital Shuttle,,1,373801,12659,
-97A,11,373802,New Royal Adelaide Hospital Shuttle,,1,373802,12659,
-97A,11,373803,New Royal Adelaide Hospital Shuttle,,1,373803,12659,
-97A,11,373804,New Royal Adelaide Hospital Shuttle,,1,373804,12659,
-97A,11,373805,New Royal Adelaide Hospital Shuttle,,1,373805,12659,
-97A,11,373806,New Royal Adelaide Hospital Shuttle,,1,373806,12659,
-97A,11,373807,New Royal Adelaide Hospital Shuttle,,1,373807,12659,
-97A,11,373808,New Royal Adelaide Hospital Shuttle,,1,373808,12659,
-97A,12,375101,New Royal Adelaide Hospital Shuttle,,1,375101,12659,
-97A,12,375102,New Royal Adelaide Hospital Shuttle,,1,375102,12659,
-97A,12,375103,New Royal Adelaide Hospital Shuttle,,1,375103,12659,
-97A,12,375104,New Royal Adelaide Hospital Shuttle,,1,375104,12659,
-97A,12,375105,New Royal Adelaide Hospital Shuttle,,1,375105,12659,
-97A,12,375106,New Royal Adelaide Hospital Shuttle,,1,375106,12659,
-97A,12,375107,New Royal Adelaide Hospital Shuttle,,1,375107,12659,
-97A,12,375108,New Royal Adelaide Hospital Shuttle,,1,375108,12659,
-97A,12,375109,New Royal Adelaide Hospital Shuttle,,1,375109,12659,
-97A,12,375110,New Royal Adelaide Hospital Shuttle,,1,375110,12659,
-97A,12,375111,New Royal Adelaide Hospital Shuttle,,1,375111,12659,
-97A,12,375112,New Royal Adelaide Hospital Shuttle,,1,375112,12659,
-97A,12,375113,New Royal Adelaide Hospital Shuttle,,1,375113,12659,
-97A,12,375114,New Royal Adelaide Hospital Shuttle,,1,375114,12659,
-97A,12,375115,New Royal Adelaide Hospital Shuttle,,1,375115,12659,
-97A,12,375116,New Royal Adelaide Hospital Shuttle,,1,375116,12659,
-97A,12,375117,New Royal Adelaide Hospital Shuttle,,1,375117,12659,
-97A,12,375118,New Royal Adelaide Hospital Shuttle,,1,375118,12659,
-97A,12,375119,New Royal Adelaide Hospital Shuttle,,1,375119,12659,
-97A,12,375120,New Royal Adelaide Hospital Shuttle,,1,375120,12659,
-97A,12,375121,New Royal Adelaide Hospital Shuttle,,1,375121,12659,
+97A,9701,371902,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371903,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371904,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371905,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371906,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371907,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371908,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371909,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371910,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371911,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371912,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371913,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371914,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371915,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371916,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371917,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371918,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371919,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371920,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371921,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371922,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371923,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371924,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371925,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,9701,371926,New Royal Adelaide Hospital Shuttle,,1,971,12659,
+97A,11,373788,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373789,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373790,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373791,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373792,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373793,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373794,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373795,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373796,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373797,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373798,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373799,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373800,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373801,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373802,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373803,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373804,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373805,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373806,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373807,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,11,373808,New Royal Adelaide Hospital Shuttle,,1,973,12659,
+97A,12,375101,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375102,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375103,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375104,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375105,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375106,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375107,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375108,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375109,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375110,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375111,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375112,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375113,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375114,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375115,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375116,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375117,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375118,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375119,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375120,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,12,375121,New Royal Adelaide Hospital Shuttle,,1,972,12659,
 97A,9801,427897,New Royal Adelaide Hospital Shuttle,,0,427897,12659,
 97A,9801,427898,New Royal Adelaide Hospital Shuttle,,0,427898,12659,
 97A,9801,427899,New Royal Adelaide Hospital Shuttle,,0,427899,12659,
@@ -14951,161 +14951,161 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 989,21,220136,Urrbrae High School,,0,220136,8778,
 989,43,220137,Aberfoyle Hub,,1,220137,8780,
 989,44,220138,Aberfoyle Hub,,1,220138,8780,
-98A,4503,375122,City & North Adelaide Loop,,1,375122,11605,
-98A,4503,375123,City & North Adelaide Loop,,1,375123,11605,
-98A,4503,375124,City & North Adelaide Loop,,1,375124,11605,
-98A,4503,375125,City & North Adelaide Loop,,1,375125,10553,
-98A,4503,375126,City & North Adelaide Loop,,1,375126,11605,
-98A,4503,375127,City & North Adelaide Loop,,1,375127,11605,
-98A,4503,375128,City & North Adelaide Loop,,1,375128,11605,
-98A,4503,375129,City & North Adelaide Loop,,1,375129,11605,
-98A,4503,375130,City & North Adelaide Loop,,1,375130,11605,
-98A,4503,375131,City & North Adelaide Loop,,1,375131,11605,
-98A,4503,375132,City & North Adelaide Loop,,1,375132,11605,
-98A,4503,375133,City & North Adelaide Loop,,1,375133,11605,
-98A,4503,375134,City & North Adelaide Loop,,1,375134,10553,
-98A,4503,375135,City & North Adelaide Loop,,1,375135,11605,
-98A,4503,375136,City & North Adelaide Loop,,1,375136,11605,
-98A,4503,375137,City & North Adelaide Loop,,1,375137,11605,
-98A,4503,375138,City & North Adelaide Loop,,1,375138,11605,
-98A,4503,375139,City & North Adelaide Loop,,1,375139,11605,
-98A,4503,375140,City & North Adelaide Loop,,1,375140,11606,
-98A,4503,375141,City & North Adelaide Loop,,1,375141,11605,
-98A,4503,375142,City & North Adelaide Loop,,1,375142,11605,
-98A,4503,375143,City & North Adelaide Loop,,1,375143,11606,
-98A,4502,373809,City & North Adelaide Loop,,1,373809,10553,
-98A,4502,373810,City & North Adelaide Loop,,1,373810,11605,
-98A,4502,373811,City & North Adelaide Loop,,1,373811,11605,
-98A,4502,373812,City & North Adelaide Loop,,1,373812,11605,
-98A,4502,373813,City & North Adelaide Loop,,1,373813,10553,
-98A,4502,373814,City & North Adelaide Loop,,1,373814,11605,
-98A,4502,373815,City & North Adelaide Loop,,1,373815,11605,
-98A,4502,373816,City & North Adelaide Loop,,1,373816,11605,
-98A,4502,373817,City & North Adelaide Loop,,1,373817,11605,
-98A,4502,373818,City & North Adelaide Loop,,1,373818,11605,
-98A,4502,373819,City & North Adelaide Loop,,1,373819,11605,
-98A,4502,373820,City & North Adelaide Loop,,1,373820,11605,
-98A,4502,373821,City & North Adelaide Loop,,1,373821,11605,
-98A,4502,373822,City & North Adelaide Loop,,1,373822,11605,
-98A,4502,373823,City & North Adelaide Loop,,1,373823,11605,
-98A,4502,373824,City & North Adelaide Loop,,1,373824,11605,
-98A,4502,373825,City & North Adelaide Loop,,1,373825,11605,
-98A,4502,373826,City & North Adelaide Loop,,1,373826,11605,
-98A,4502,373827,City & North Adelaide Loop,,1,373827,11605,
-98A,4502,373828,City & North Adelaide Loop,,1,373828,11605,
-98A,4502,373829,City & North Adelaide Loop,,1,373829,11605,
-98A,4502,373830,City & North Adelaide Loop,,1,373830,11605,
-98A,4502,373831,City & North Adelaide Loop,,1,373831,11606,
-98A,4502,373832,City & North Adelaide Loop,,1,373832,11605,
-98A,4502,373833,City & North Adelaide Loop,,1,373833,11606,
-98A,4501,371927,City & North Adelaide Loop,,1,371928,10553,
-98A,4501,371928,City & North Adelaide Loop,,1,371929,13088,
-98A,4501,371929,City & North Adelaide Loop,,1,371932,13088,
-98A,4501,371930,City & North Adelaide Loop,,1,371931,10553,
-98A,4501,371931,City & North Adelaide Loop,,1,371933,13088,
-98A,4501,371932,City & North Adelaide Loop,,1,371934,13088,
-98A,4501,371933,City & North Adelaide Loop,,1,371935,13088,
-98A,4501,371934,City & North Adelaide Loop,,1,371936,13088,
-98A,4501,371935,City & North Adelaide Loop,,1,371937,13088,
-98A,4501,371936,City & North Adelaide Loop,,1,371938,13088,
-98A,4501,371937,City & North Adelaide Loop,,1,371939,13088,
-98A,4501,371938,City & North Adelaide Loop,,1,371940,13088,
-98A,4501,371939,City & North Adelaide Loop,,1,371941,13088,
-98A,4501,371940,City & North Adelaide Loop,,1,371942,13088,
-98A,4501,371941,City & North Adelaide Loop,,1,371943,13088,
-98A,4501,371942,City & North Adelaide Loop,,1,371944,13088,
-98A,4501,371943,City & North Adelaide Loop,,1,371945,13088,
-98A,4501,371944,City & North Adelaide Loop,,1,371946,13088,
-98A,4501,371945,City & North Adelaide Loop,,1,371947,13088,
-98A,4501,371946,City & North Adelaide Loop,,1,371948,13088,
-98A,4501,371947,City & North Adelaide Loop,,1,371949,13088,
-98A,4501,371948,City & North Adelaide Loop,,1,371950,13088,
-98A,4501,371949,City & North Adelaide Loop,,1,371951,13088,
-98A,4501,371950,City & North Adelaide Loop,,1,371952,13088,
-98A,4501,371951,City & North Adelaide Loop,,1,371953,13088,
-98A,4501,371952,City & North Adelaide Loop,,1,371952,11606,
-98A,4501,371953,City & North Adelaide Loop,,1,371953,11606,
-98A,4506,371954,City & North Adelaide Loop,,1,371954,11607,
-98A,4506,371955,City & North Adelaide Loop,,1,371955,11607,
-98A,4506,371956,City & North Adelaide Loop,,1,371956,11606,
-98A,4506,371957,City & North Adelaide Loop,,1,371957,11606,
-98C,4501,371958,City & North Adelaide Loop,,0,371958,13092,
-98C,4501,371959,City & North Adelaide Loop,,0,371959,13089,
-98C,4501,371960,City & North Adelaide Loop,,0,371960,13092,
-98C,4501,371961,City & North Adelaide Loop,,0,371961,13089,
-98C,4501,371962,City & North Adelaide Loop,,0,371962,13089,
-98C,4501,371963,City & North Adelaide Loop,,0,371963,13089,
-98C,4501,371964,City & North Adelaide Loop,,0,371964,13089,
-98C,4501,371965,City & North Adelaide Loop,,0,371965,13089,
-98C,4501,371966,City & North Adelaide Loop,,0,371966,13089,
-98C,4501,371967,City & North Adelaide Loop,,0,371967,13089,
-98C,4501,371968,City & North Adelaide Loop,,0,371968,13089,
-98C,4501,371969,City & North Adelaide Loop,,0,371969,13089,
-98C,4501,371970,City & North Adelaide Loop,,0,371970,13089,
-98C,4501,371971,City & North Adelaide Loop,,0,371971,13089,
-98C,4501,371972,City & North Adelaide Loop,,0,371972,13089,
-98C,4501,371973,City & North Adelaide Loop,,0,371973,13089,
-98C,4501,371974,City & North Adelaide Loop,,0,371974,13089,
-98C,4501,371975,City & North Adelaide Loop,,0,371975,13089,
-98C,4501,371976,City & North Adelaide Loop,,0,371976,13089,
-98C,4501,371977,City & North Adelaide Loop,,0,371977,13089,
-98C,4501,371978,City & North Adelaide Loop,,0,371978,13089,
-98C,4501,371979,City & North Adelaide Loop,,0,371979,13089,
-98C,4501,371980,City & North Adelaide Loop,,0,371980,13093,
-98C,4501,371981,City & North Adelaide Loop,,0,371981,13093,
-98C,4506,371982,City & North Adelaide Loop,,0,371982,13092,
-98C,4506,371983,City & North Adelaide Loop,,0,371983,13092,
-98C,4506,371984,City & North Adelaide Loop,,0,371984,13089,
-98C,4506,371985,City & North Adelaide Loop,,0,371985,13089,
-98C,4506,371986,City & North Adelaide Loop,,0,371986,10574,
-98C,4506,371987,City & North Adelaide Loop,,0,371987,10574,
-98C,4502,373834,City & North Adelaide Loop,,0,373834,13091,
-98C,4502,373835,City & North Adelaide Loop,,0,373835,13091,
-98C,4502,373836,City & North Adelaide Loop,,0,373836,13091,
-98C,4502,373837,City & North Adelaide Loop,,0,373837,13092,
-98C,4502,373838,City & North Adelaide Loop,,0,373838,13091,
-98C,4502,373839,City & North Adelaide Loop,,0,373839,13092,
-98C,4502,373840,City & North Adelaide Loop,,0,373840,13091,
-98C,4502,373841,City & North Adelaide Loop,,0,373841,13091,
-98C,4502,373842,City & North Adelaide Loop,,0,373842,13091,
-98C,4502,373843,City & North Adelaide Loop,,0,373843,13091,
-98C,4502,373844,City & North Adelaide Loop,,0,373844,13091,
-98C,4502,373845,City & North Adelaide Loop,,0,373845,13091,
-98C,4502,373846,City & North Adelaide Loop,,0,373846,13091,
-98C,4502,373847,City & North Adelaide Loop,,0,373847,13091,
-98C,4502,373848,City & North Adelaide Loop,,0,373848,13091,
-98C,4502,373849,City & North Adelaide Loop,,0,373849,13091,
-98C,4502,373850,City & North Adelaide Loop,,0,373850,13091,
-98C,4502,373851,City & North Adelaide Loop,,0,373851,13091,
-98C,4502,373852,City & North Adelaide Loop,,0,373852,13091,
-98C,4502,373853,City & North Adelaide Loop,,0,373853,13091,
-98C,4502,373854,City & North Adelaide Loop,,0,373854,10574,
-98C,4502,373855,City & North Adelaide Loop,,0,373855,13091,
-98C,4502,373856,City & North Adelaide Loop,,0,373856,13091,
-98C,4502,373857,City & North Adelaide Loop,,0,373857,13091,
-98C,4502,373858,City & North Adelaide Loop,,0,373858,10574,
-98C,4503,375144,City & North Adelaide Loop,,0,375144,13092,
-98C,4503,375145,City & North Adelaide Loop,,0,375145,13091,
-98C,4503,375146,City & North Adelaide Loop,,0,375146,13091,
-98C,4503,375147,City & North Adelaide Loop,,0,375147,13092,
-98C,4503,375148,City & North Adelaide Loop,,0,375148,13091,
-98C,4503,375149,City & North Adelaide Loop,,0,375149,13091,
-98C,4503,375150,City & North Adelaide Loop,,0,375150,13091,
-98C,4503,375151,City & North Adelaide Loop,,0,375151,13091,
-98C,4503,375152,City & North Adelaide Loop,,0,375152,13091,
-98C,4503,375153,City & North Adelaide Loop,,0,375153,13091,
-98C,4503,375154,City & North Adelaide Loop,,0,375154,10574,
-98C,4503,375155,City & North Adelaide Loop,,0,375155,13091,
-98C,4503,375156,City & North Adelaide Loop,,0,375156,13091,
-98C,4503,375157,City & North Adelaide Loop,,0,375157,13091,
-98C,4503,375158,City & North Adelaide Loop,,0,375158,13091,
-98C,4503,375159,City & North Adelaide Loop,,0,375159,13091,
-98C,4503,375160,City & North Adelaide Loop,,0,375160,13091,
-98C,4503,375161,City & North Adelaide Loop,,0,375161,13091,
-98C,4503,375162,City & North Adelaide Loop,,0,375162,13091,
-98C,4503,375163,City & North Adelaide Loop,,0,375163,13091,
-98C,4503,375164,City & North Adelaide Loop,,0,375164,13091,
-98C,4503,375165,City & North Adelaide Loop,,0,375165,10574,
+98A,4503,375122,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375123,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375124,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375125,City & North Adelaide Loop,,1,984,10553,
+98A,4503,375126,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375127,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375128,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375129,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375130,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375131,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375132,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375133,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375134,City & North Adelaide Loop,,1,982,10553,
+98A,4503,375135,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375136,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375137,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375138,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375139,City & North Adelaide Loop,,1,982,11605,
+98A,4503,375140,City & North Adelaide Loop,,1,982,11606,
+98A,4503,375141,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375142,City & North Adelaide Loop,,1,984,11605,
+98A,4503,375143,City & North Adelaide Loop,,1,984,11606,
+98A,4502,373809,City & North Adelaide Loop,,1,983,10553,
+98A,4502,373810,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373811,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373812,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373813,City & North Adelaide Loop,,1,985,10553,
+98A,4502,373814,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373815,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373816,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373817,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373818,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373819,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373820,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373821,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373822,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373823,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373824,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373825,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373826,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373827,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373828,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373829,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373830,City & North Adelaide Loop,,1,983,11605,
+98A,4502,373831,City & North Adelaide Loop,,1,983,11606,
+98A,4502,373832,City & North Adelaide Loop,,1,985,11605,
+98A,4502,373833,City & North Adelaide Loop,,1,985,11606,
+98A,4501,371927,City & North Adelaide Loop,,1,981,10553,
+98A,4501,371928,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371929,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371930,City & North Adelaide Loop,,1,982,10553,
+98A,4501,371931,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371932,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371933,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371934,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371935,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371936,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371937,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371938,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371939,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371940,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371941,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371942,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371943,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371944,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371945,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371946,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371947,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371948,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371949,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371950,City & North Adelaide Loop,,1,981,13088,
+98A,4501,371951,City & North Adelaide Loop,,1,982,13088,
+98A,4501,371952,City & North Adelaide Loop,,1,981,11606,
+98A,4501,371953,City & North Adelaide Loop,,1,982,11606,
+98A,4506,371954,City & North Adelaide Loop,,1,981,11607,
+98A,4506,371955,City & North Adelaide Loop,,1,982,11607,
+98A,4506,371956,City & North Adelaide Loop,,1,981,11606,
+98A,4506,371957,City & North Adelaide Loop,,1,982,11606,
+98C,4501,371958,City & North Adelaide Loop,,0,989,13092,
+98C,4501,371959,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371960,City & North Adelaide Loop,,0,987,13092,
+98C,4501,371961,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371962,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371963,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371964,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371965,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371966,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371967,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371968,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371969,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371970,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371971,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371972,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371973,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371974,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371975,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371976,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371977,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371978,City & North Adelaide Loop,,0,987,13089,
+98C,4501,371979,City & North Adelaide Loop,,0,989,13089,
+98C,4501,371980,City & North Adelaide Loop,,0,987,13093,
+98C,4501,371981,City & North Adelaide Loop,,0,989,13093,
+98C,4506,371982,City & North Adelaide Loop,,0,987,13092,
+98C,4506,371983,City & North Adelaide Loop,,0,989,13092,
+98C,4506,371984,City & North Adelaide Loop,,0,987,13089,
+98C,4506,371985,City & North Adelaide Loop,,0,989,13089,
+98C,4506,371986,City & North Adelaide Loop,,0,987,10574,
+98C,4506,371987,City & North Adelaide Loop,,0,989,10574,
+98C,4502,373834,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373835,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373836,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373837,City & North Adelaide Loop,,0,9812,13092,
+98C,4502,373838,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373839,City & North Adelaide Loop,,0,986,13092,
+98C,4502,373840,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373841,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373842,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373843,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373844,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373845,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373846,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373847,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373848,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373849,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373850,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373851,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373852,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373853,City & North Adelaide Loop,,0,986,13091,
+98C,4502,373854,City & North Adelaide Loop,,0,986,10574,
+98C,4502,373855,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373856,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373857,City & North Adelaide Loop,,0,9812,13091,
+98C,4502,373858,City & North Adelaide Loop,,0,9812,10574,
+98C,4503,375144,City & North Adelaide Loop,,0,9811,13092,
+98C,4503,375145,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375146,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375147,City & North Adelaide Loop,,0,9810,13092,
+98C,4503,375148,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375149,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375150,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375151,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375152,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375153,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375154,City & North Adelaide Loop,,0,9811,10574,
+98C,4503,375155,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375156,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375157,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375158,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375159,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375160,City & North Adelaide Loop,,0,9811,13091,
+98C,4503,375161,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375162,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375163,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375164,City & North Adelaide Loop,,0,9810,13091,
+98C,4503,375165,City & North Adelaide Loop,,0,9810,10574,
 990,44,220139,Marion Rd 11A,,1,220139,8712,
 990,43,220140,Marion Rd 11A,,1,220140,8712,
 991,44,220141,Marion,,1,220141,8758,
@@ -15119,53 +15119,53 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 996,21,220151,Blackwood High School,,0,220151,10360,
 997,21,220152,Cabra College,,0,220152,11709,
 997,21,220153,Craigburn Farm,,1,220153,11710,
-99A,1,371988,City Loop,,1,371988,10552,
-99A,1,371989,City Loop,,1,371989,13094,
-99A,1,371990,City Loop,,1,371990,13094,
-99A,1,371991,City Loop,,1,371991,13094,
-99A,1,371992,City Loop,,1,371992,13094,
-99A,1,371993,City Loop,,1,371993,13094,
-99A,1,371994,City Loop,,1,371994,13094,
-99A,1,371995,City Loop,,1,371995,13094,
-99A,1,371996,City Loop,,1,371996,13094,
-99A,1,371997,City Loop,,1,371997,13094,
-99A,1,371998,City Loop,,1,371998,13094,
-99A,1,371999,City Loop,,1,371999,13094,
-99A,1,372000,City Loop,,1,372000,13094,
-99A,1,372001,City Loop,,1,372001,13094,
-99A,1,372002,City Loop,,1,372002,13094,
-99A,1,372003,City Loop,,1,372003,13094,
-99A,1,372004,City Loop,,1,372004,13094,
-99A,1,372005,City Loop,,1,372005,13094,
-99A,1,372006,City Loop,,1,372006,13094,
-99A,1,372007,City Loop,,1,372007,13094,
-99A,1,372008,City Loop,,1,372008,13094,
-99A,1,372009,City Loop,,1,372009,13094,
-99A,1,372010,City Loop,,1,372010,10569,
-99C,1,372011,City Loop,,0,372011,13096,
-99C,1,372012,City Loop,,0,372012,13097,
-99C,1,372013,City Loop,,0,372013,13097,
-99C,1,372014,City Loop,,0,372014,13097,
-99C,1,372015,City Loop,,0,372015,13097,
-99C,1,372016,City Loop,,0,372016,13097,
-99C,1,372017,City Loop,,0,372017,13097,
-99C,1,372018,City Loop,,0,372018,13097,
-99C,1,372019,City Loop,,0,372019,13097,
-99C,1,372020,City Loop,,0,372020,13097,
-99C,1,372021,City Loop,,0,372021,13097,
-99C,1,372022,City Loop,,0,372022,13097,
-99C,1,372023,City Loop,,0,372023,13097,
-99C,1,372024,City Loop,,0,372024,13097,
-99C,1,372025,City Loop,,0,372025,13097,
-99C,1,372026,City Loop,,0,372026,13097,
-99C,1,372027,City Loop,,0,372027,13097,
-99C,1,372028,City Loop,,0,372028,13097,
-99C,1,372029,City Loop,,0,372029,13097,
-99C,1,372030,City Loop,,0,372030,13097,
-99C,1,372031,City Loop,,0,372031,13097,
-99C,1,372032,City Loop,,0,372032,13097,
-99C,1,372033,City Loop,,0,372033,13097,
-99C,1,372034,City Loop,,0,372034,10568,
+99A,1,371988,City Loop,,1,991,10552,
+99A,1,371989,City Loop,,1,991,13094,
+99A,1,371990,City Loop,,1,991,13094,
+99A,1,371991,City Loop,,1,991,13094,
+99A,1,371992,City Loop,,1,991,13094,
+99A,1,371993,City Loop,,1,991,13094,
+99A,1,371994,City Loop,,1,991,13094,
+99A,1,371995,City Loop,,1,991,13094,
+99A,1,371996,City Loop,,1,991,13094,
+99A,1,371997,City Loop,,1,991,13094,
+99A,1,371998,City Loop,,1,991,13094,
+99A,1,371999,City Loop,,1,991,13094,
+99A,1,372000,City Loop,,1,991,13094,
+99A,1,372001,City Loop,,1,991,13094,
+99A,1,372002,City Loop,,1,991,13094,
+99A,1,372003,City Loop,,1,991,13094,
+99A,1,372004,City Loop,,1,991,13094,
+99A,1,372005,City Loop,,1,991,13094,
+99A,1,372006,City Loop,,1,991,13094,
+99A,1,372007,City Loop,,1,991,13094,
+99A,1,372008,City Loop,,1,991,13094,
+99A,1,372009,City Loop,,1,991,13094,
+99A,1,372010,City Loop,,1,991,10569,
+99C,1,372011,City Loop,,0,992,13096,
+99C,1,372012,City Loop,,0,992,13097,
+99C,1,372013,City Loop,,0,992,13097,
+99C,1,372014,City Loop,,0,992,13097,
+99C,1,372015,City Loop,,0,992,13097,
+99C,1,372016,City Loop,,0,992,13097,
+99C,1,372017,City Loop,,0,992,13097,
+99C,1,372018,City Loop,,0,992,13097,
+99C,1,372019,City Loop,,0,992,13097,
+99C,1,372020,City Loop,,0,992,13097,
+99C,1,372021,City Loop,,0,992,13097,
+99C,1,372022,City Loop,,0,992,13097,
+99C,1,372023,City Loop,,0,992,13097,
+99C,1,372024,City Loop,,0,992,13097,
+99C,1,372025,City Loop,,0,992,13097,
+99C,1,372026,City Loop,,0,992,13097,
+99C,1,372027,City Loop,,0,992,13097,
+99C,1,372028,City Loop,,0,992,13097,
+99C,1,372029,City Loop,,0,992,13097,
+99C,1,372030,City Loop,,0,992,13097,
+99C,1,372031,City Loop,,0,992,13097,
+99C,1,372032,City Loop,,0,992,13097,
+99C,1,372033,City Loop,,0,992,13097,
+99C,1,372034,City Loop,,0,992,10568,
 AO1,259,414763,Adelaide Oval,,0,414763,12358,
 AO1,259,414764,Adelaide Oval,,0,414764,12389,
 AO1,259,414765,Adelaide Oval,,0,414765,12358,
@@ -15271,6 +15271,8 @@ AO1,257,413850,Greenwith,,1,413850,12359,
 AO1,257,413851,Greenwith,,1,413851,12359,
 AO1,257,413852,Greenwith,,1,413852,12359,
 AO1,257,413853,Greenwith,,1,413853,12359,
+AO10,257,413955,Aldgate,,1,413955,10783,
+AO10,257,413956,Aldgate,,1,413956,10783,
 AO10,258,414540,Adelaide Oval,,0,414540,10751,
 AO10,258,414541,Adelaide Oval,,0,414541,10751,
 AO10,258,414542,Adelaide Oval,,0,414542,10751,
@@ -15281,16 +15283,6 @@ AO10,258,414546,Aldgate,,1,414546,10783,
 AO10,258,414547,Aldgate,,1,414547,10783,
 AO10,258,414548,Aldgate,,1,414548,10783,
 AO10,258,414549,Aldgate,,1,414549,10783,
-AO10,257,413947,Adelaide Oval,,0,413947,10751,
-AO10,257,413948,Adelaide Oval,,0,413948,10751,
-AO10,257,413949,Adelaide Oval,,0,413949,10751,
-AO10,257,413950,Adelaide Oval,,0,413950,10751,
-AO10,257,413951,Aldgate,,1,413951,10783,
-AO10,257,413952,Aldgate,,1,413952,10783,
-AO10,257,413953,Aldgate,,1,413953,10783,
-AO10,257,413954,Aldgate,,1,413954,10783,
-AO10,257,413955,Aldgate,,1,413955,10783,
-AO10,257,413956,Aldgate,,1,413956,10783,
 AO10,259,414891,Adelaide Oval,,0,414891,10751,
 AO10,259,414892,Adelaide Oval,,0,414892,10751,
 AO10,259,414893,Adelaide Oval,,0,414893,10751,
@@ -15301,6 +15293,14 @@ AO10,259,414897,Aldgate,,1,414897,10783,
 AO10,259,414898,Aldgate,,1,414898,10783,
 AO10,259,414899,Aldgate,,1,414899,10783,
 AO10,259,414900,Aldgate,,1,414900,10783,
+AO10,257,413947,Adelaide Oval,,0,413947,10751,
+AO10,257,413948,Adelaide Oval,,0,413948,10751,
+AO10,257,413949,Adelaide Oval,,0,413949,10751,
+AO10,257,413950,Adelaide Oval,,0,413950,10751,
+AO10,257,413951,Aldgate,,1,413951,10783,
+AO10,257,413952,Aldgate,,1,413952,10783,
+AO10,257,413953,Aldgate,,1,413953,10783,
+AO10,257,413954,Aldgate,,1,413954,10783,
 AO11,259,414901,Adelaide Oval,,0,414901,11795,
 AO11,259,414902,Adelaide Oval,,0,414902,11795,
 AO11,259,414903,Adelaide Oval,,0,414903,11795,
@@ -15319,24 +15319,6 @@ AO11,259,414915,Newton,,1,414915,11796,
 AO11,259,414916,Newton,,1,414916,11796,
 AO11,259,414917,Newton,,1,414917,11796,
 AO11,259,414918,Newton,,1,414918,11796,
-AO11,257,413957,Adelaide Oval,,0,413957,11795,
-AO11,257,413958,Adelaide Oval,,0,413958,11795,
-AO11,257,413959,Adelaide Oval,,0,413959,11795,
-AO11,257,413960,Adelaide Oval,,0,413960,11795,
-AO11,257,413961,Adelaide Oval,,0,413961,11795,
-AO11,257,413962,Adelaide Oval,,0,413962,11795,
-AO11,257,413963,Adelaide Oval,,0,413963,11795,
-AO11,257,413964,Adelaide Oval,,0,413964,11795,
-AO11,257,413965,Adelaide Oval,,0,413965,11795,
-AO11,257,413966,Newton,,1,413966,11796,
-AO11,257,413967,Newton,,1,413967,11796,
-AO11,257,413968,Newton,,1,413968,11796,
-AO11,257,413969,Newton,,1,413969,11796,
-AO11,257,413970,Newton,,1,413970,11796,
-AO11,257,413971,Newton,,1,413971,11796,
-AO11,257,413972,Newton,,1,413972,11796,
-AO11,257,413973,Newton,,1,413973,11796,
-AO11,257,413974,Newton,,1,413974,11796,
 AO11,258,414550,Adelaide Oval,,0,414550,11795,
 AO11,258,414551,Adelaide Oval,,0,414551,11795,
 AO11,258,414552,Adelaide Oval,,0,414552,11795,
@@ -15355,20 +15337,24 @@ AO11,258,414564,Newton,,1,414564,11796,
 AO11,258,414565,Newton,,1,414565,11796,
 AO11,258,414566,Newton,,1,414566,11796,
 AO11,258,414567,Newton,,1,414567,11796,
-AO12,258,414568,Adelaide Oval,,0,414568,10061,
-AO12,258,414569,Adelaide Oval,,0,414569,10061,
-AO12,258,414570,Adelaide Oval,,0,414570,10061,
-AO12,258,414571,Adelaide Oval,,0,414571,10061,
-AO12,258,414572,Adelaide Oval,,0,414572,10061,
-AO12,258,414573,Adelaide Oval,,0,414573,10061,
-AO12,258,414574,Adelaide Oval,,0,414574,10061,
-AO12,258,414575,Athelstone,,1,414575,11358,
-AO12,258,414576,Athelstone,,1,414576,11358,
-AO12,258,414577,Athelstone,,1,414577,11358,
-AO12,258,414578,Athelstone,,1,414578,11358,
-AO12,258,414579,Athelstone,,1,414579,11358,
-AO12,258,414580,Athelstone,,1,414580,11358,
-AO12,258,414581,Athelstone,,1,414581,11358,
+AO11,257,413957,Adelaide Oval,,0,413957,11795,
+AO11,257,413958,Adelaide Oval,,0,413958,11795,
+AO11,257,413959,Adelaide Oval,,0,413959,11795,
+AO11,257,413960,Adelaide Oval,,0,413960,11795,
+AO11,257,413961,Adelaide Oval,,0,413961,11795,
+AO11,257,413962,Adelaide Oval,,0,413962,11795,
+AO11,257,413963,Adelaide Oval,,0,413963,11795,
+AO11,257,413964,Adelaide Oval,,0,413964,11795,
+AO11,257,413965,Adelaide Oval,,0,413965,11795,
+AO11,257,413966,Newton,,1,413966,11796,
+AO11,257,413967,Newton,,1,413967,11796,
+AO11,257,413968,Newton,,1,413968,11796,
+AO11,257,413969,Newton,,1,413969,11796,
+AO11,257,413970,Newton,,1,413970,11796,
+AO11,257,413971,Newton,,1,413971,11796,
+AO11,257,413972,Newton,,1,413972,11796,
+AO11,257,413973,Newton,,1,413973,11796,
+AO11,257,413974,Newton,,1,413974,11796,
 AO12,257,413975,Adelaide Oval,,0,413975,10061,
 AO12,257,413976,Adelaide Oval,,0,413976,10061,
 AO12,257,413977,Adelaide Oval,,0,413977,10061,
@@ -15383,6 +15369,20 @@ AO12,257,413985,Athelstone,,1,413985,11358,
 AO12,257,413986,Athelstone,,1,413986,11358,
 AO12,257,413987,Athelstone,,1,413987,11358,
 AO12,257,413988,Athelstone,,1,413988,11358,
+AO12,258,414568,Adelaide Oval,,0,414568,10061,
+AO12,258,414569,Adelaide Oval,,0,414569,10061,
+AO12,258,414570,Adelaide Oval,,0,414570,10061,
+AO12,258,414571,Adelaide Oval,,0,414571,10061,
+AO12,258,414572,Adelaide Oval,,0,414572,10061,
+AO12,258,414573,Adelaide Oval,,0,414573,10061,
+AO12,258,414574,Adelaide Oval,,0,414574,10061,
+AO12,258,414575,Athelstone,,1,414575,11358,
+AO12,258,414576,Athelstone,,1,414576,11358,
+AO12,258,414577,Athelstone,,1,414577,11358,
+AO12,258,414578,Athelstone,,1,414578,11358,
+AO12,258,414579,Athelstone,,1,414579,11358,
+AO12,258,414580,Athelstone,,1,414580,11358,
+AO12,258,414581,Athelstone,,1,414581,11358,
 AO12,259,414919,Adelaide Oval,,0,414919,10061,
 AO12,259,414920,Adelaide Oval,,0,414920,10061,
 AO12,259,414921,Adelaide Oval,,0,414921,10061,
@@ -15409,18 +15409,6 @@ AO13,259,414941,Burnside,,1,414941,11359,
 AO13,259,414942,Burnside,,1,414942,11359,
 AO13,259,414943,Burnside,,1,414943,11359,
 AO13,259,414944,Burnside,,1,414944,11359,
-AO13,257,413989,Adelaide Oval,,0,413989,10064,
-AO13,257,413990,Adelaide Oval,,0,413990,10064,
-AO13,257,413991,Adelaide Oval,,0,413991,10064,
-AO13,257,413992,Adelaide Oval,,0,413992,10064,
-AO13,257,413993,Adelaide Oval,,0,413993,10064,
-AO13,257,413994,Adelaide Oval,,0,413994,10064,
-AO13,257,413995,Burnside,,1,413995,11359,
-AO13,257,413996,Burnside,,1,413996,11359,
-AO13,257,413997,Burnside,,1,413997,11359,
-AO13,257,413998,Burnside,,1,413998,11359,
-AO13,257,413999,Burnside,,1,413999,11359,
-AO13,257,414000,Burnside,,1,414000,11359,
 AO13,258,414582,Adelaide Oval,,0,414582,10064,
 AO13,258,414583,Adelaide Oval,,0,414583,10064,
 AO13,258,414584,Adelaide Oval,,0,414584,10064,
@@ -15433,30 +15421,18 @@ AO13,258,414590,Burnside,,1,414590,11359,
 AO13,258,414591,Burnside,,1,414591,11359,
 AO13,258,414592,Burnside,,1,414592,11359,
 AO13,258,414593,Burnside,,1,414593,11359,
-AO14,258,414594,Adelaide Oval,,0,414594,10056,
-AO14,258,414595,Adelaide Oval,,0,414595,10056,
-AO14,258,414596,Adelaide Oval,,0,414596,10056,
-AO14,258,414597,Adelaide Oval,,0,414597,10056,
-AO14,258,414598,Adelaide Oval,,0,414598,10056,
-AO14,258,414599,Adelaide Oval,,0,414599,10056,
-AO14,258,414600,Adelaide Oval,,0,414600,10056,
-AO14,258,414601,Adelaide Oval,,0,414601,10056,
-AO14,258,414602,Adelaide Oval,,0,414602,10056,
-AO14,258,414603,Adelaide Oval,,0,414603,10056,
-AO14,258,414604,Adelaide Oval,,0,414604,10056,
-AO14,258,414605,Adelaide Oval,,0,414605,10056,
-AO14,258,414606,Rosslyn Park,,1,414606,10761,
-AO14,258,414607,Rosslyn Park,,1,414607,10761,
-AO14,258,414608,Rosslyn Park,,1,414608,10761,
-AO14,258,414609,Rosslyn Park,,1,414609,10761,
-AO14,258,414610,Rosslyn Park,,1,414610,10761,
-AO14,258,414611,Rosslyn Park,,1,414611,10761,
-AO14,258,414612,Rosslyn Park,,1,414612,10761,
-AO14,258,414613,Rosslyn Park,,1,414613,10761,
-AO14,258,414614,Rosslyn Park,,1,414614,10761,
-AO14,258,414615,Rosslyn Park,,1,414615,10761,
-AO14,258,414616,Rosslyn Park,,1,414616,10761,
-AO14,258,414617,Rosslyn Park,,1,414617,10761,
+AO13,257,413989,Adelaide Oval,,0,413989,10064,
+AO13,257,413990,Adelaide Oval,,0,413990,10064,
+AO13,257,413991,Adelaide Oval,,0,413991,10064,
+AO13,257,413992,Adelaide Oval,,0,413992,10064,
+AO13,257,413993,Adelaide Oval,,0,413993,10064,
+AO13,257,413994,Adelaide Oval,,0,413994,10064,
+AO13,257,413995,Burnside,,1,413995,11359,
+AO13,257,413996,Burnside,,1,413996,11359,
+AO13,257,413997,Burnside,,1,413997,11359,
+AO13,257,413998,Burnside,,1,413998,11359,
+AO13,257,413999,Burnside,,1,413999,11359,
+AO13,257,414000,Burnside,,1,414000,11359,
 AO14,257,414001,Adelaide Oval,,0,414001,10056,
 AO14,257,414002,Adelaide Oval,,0,414002,10056,
 AO14,257,414003,Adelaide Oval,,0,414003,10056,
@@ -15481,6 +15457,30 @@ AO14,257,414021,Rosslyn Park,,1,414021,10761,
 AO14,257,414022,Rosslyn Park,,1,414022,10761,
 AO14,257,414023,Rosslyn Park,,1,414023,10761,
 AO14,257,414024,Rosslyn Park,,1,414024,10761,
+AO14,258,414594,Adelaide Oval,,0,414594,10056,
+AO14,258,414595,Adelaide Oval,,0,414595,10056,
+AO14,258,414596,Adelaide Oval,,0,414596,10056,
+AO14,258,414597,Adelaide Oval,,0,414597,10056,
+AO14,258,414598,Adelaide Oval,,0,414598,10056,
+AO14,258,414599,Adelaide Oval,,0,414599,10056,
+AO14,258,414600,Adelaide Oval,,0,414600,10056,
+AO14,258,414601,Adelaide Oval,,0,414601,10056,
+AO14,258,414602,Adelaide Oval,,0,414602,10056,
+AO14,258,414603,Adelaide Oval,,0,414603,10056,
+AO14,258,414604,Adelaide Oval,,0,414604,10056,
+AO14,258,414605,Adelaide Oval,,0,414605,10056,
+AO14,258,414606,Rosslyn Park,,1,414606,10761,
+AO14,258,414607,Rosslyn Park,,1,414607,10761,
+AO14,258,414608,Rosslyn Park,,1,414608,10761,
+AO14,258,414609,Rosslyn Park,,1,414609,10761,
+AO14,258,414610,Rosslyn Park,,1,414610,10761,
+AO14,258,414611,Rosslyn Park,,1,414611,10761,
+AO14,258,414612,Rosslyn Park,,1,414612,10761,
+AO14,258,414613,Rosslyn Park,,1,414613,10761,
+AO14,258,414614,Rosslyn Park,,1,414614,10761,
+AO14,258,414615,Rosslyn Park,,1,414615,10761,
+AO14,258,414616,Rosslyn Park,,1,414616,10761,
+AO14,258,414617,Rosslyn Park,,1,414617,10761,
 AO14,259,414945,Adelaide Oval,,0,414945,10056,
 AO14,259,414946,Adelaide Oval,,0,414946,10056,
 AO14,259,414947,Adelaide Oval,,0,414947,10056,
@@ -16084,35 +16084,24 @@ AO5,257,413909,Salisbury East,,1,413909,12369,
 AO5,257,413910,Salisbury East,,1,413910,12369,
 AO5,257,413911,Salisbury East,,1,413911,12369,
 AO5,257,413912,Salisbury East,,1,413912,12369,
-AO8,258,414521,Adelaide Oval,,0,414521,10749,
-AO8,258,414522,Adelaide Oval,,0,414522,10749,
-AO8,258,414523,Adelaide Oval,,0,414523,10749,
-AO8,258,414524,Hallett Cove,,1,414524,11356,
-AO8,258,414525,Hallett Cove,,1,414525,11356,
-AO8,258,414526,Hallett Cove,,1,414526,11356,
 AO8,259,414872,Adelaide Oval,,0,414872,10749,
 AO8,259,414873,Adelaide Oval,,0,414873,10749,
 AO8,259,414874,Adelaide Oval,,0,414874,10749,
 AO8,259,414875,Hallett Cove,,1,414875,11356,
 AO8,259,414876,Hallett Cove,,1,414876,11356,
 AO8,259,414877,Hallett Cove,,1,414877,11356,
+AO8,258,414521,Adelaide Oval,,0,414521,10749,
+AO8,258,414522,Adelaide Oval,,0,414522,10749,
+AO8,258,414523,Adelaide Oval,,0,414523,10749,
+AO8,258,414524,Hallett Cove,,1,414524,11356,
+AO8,258,414525,Hallett Cove,,1,414525,11356,
+AO8,258,414526,Hallett Cove,,1,414526,11356,
 AO8,257,413928,Adelaide Oval,,0,413928,10749,
 AO8,257,413929,Adelaide Oval,,0,413929,10749,
 AO8,257,413930,Adelaide Oval,,0,413930,10749,
 AO8,257,413931,Hallett Cove,,1,413931,11356,
 AO8,257,413932,Hallett Cove,,1,413932,11356,
 AO8,257,413933,Hallett Cove,,1,413933,11356,
-AOX15,257,414025,Adelaide Oval,,0,414025,10753,
-AOX15,257,414026,Adelaide Oval,,0,414026,10753,
-AOX15,257,414027,Adelaide Oval,,0,414027,10753,
-AOX15,257,414028,Adelaide Oval,,0,414028,10753,
-AOX15,257,414029,Adelaide Oval,,0,414029,10753,
-AOX15,257,414030,Elizabeth Shopping Centre,,1,414030,10785,
-AOX15,257,414031,Elizabeth Shopping Centre,,1,414031,10785,
-AOX15,257,414032,Elizabeth Shopping Centre,,1,414032,10785,
-AOX15,257,414033,Elizabeth Shopping Centre,,1,414033,10785,
-AOX15,257,414034,Elizabeth Shopping Centre,,1,414034,10785,
-AOX15,257,414035,Elizabeth Shopping Centre,,1,414035,10785,
 AOX15,258,414618,Adelaide Oval,,0,414618,10753,
 AOX15,258,414619,Adelaide Oval,,0,414619,10753,
 AOX15,258,414620,Adelaide Oval,,0,414620,10753,
@@ -16124,6 +16113,17 @@ AOX15,258,414625,Elizabeth Shopping Centre,,1,414625,10785,
 AOX15,258,414626,Elizabeth Shopping Centre,,1,414626,10785,
 AOX15,258,414627,Elizabeth Shopping Centre,,1,414627,10785,
 AOX15,258,414628,Elizabeth Shopping Centre,,1,414628,10785,
+AOX15,257,414025,Adelaide Oval,,0,414025,10753,
+AOX15,257,414026,Adelaide Oval,,0,414026,10753,
+AOX15,257,414027,Adelaide Oval,,0,414027,10753,
+AOX15,257,414028,Adelaide Oval,,0,414028,10753,
+AOX15,257,414029,Adelaide Oval,,0,414029,10753,
+AOX15,257,414030,Elizabeth Shopping Centre,,1,414030,10785,
+AOX15,257,414031,Elizabeth Shopping Centre,,1,414031,10785,
+AOX15,257,414032,Elizabeth Shopping Centre,,1,414032,10785,
+AOX15,257,414033,Elizabeth Shopping Centre,,1,414033,10785,
+AOX15,257,414034,Elizabeth Shopping Centre,,1,414034,10785,
+AOX15,257,414035,Elizabeth Shopping Centre,,1,414035,10785,
 AOX15,259,414969,Adelaide Oval,,0,414969,10753,
 AOX15,259,414970,Adelaide Oval,,0,414970,10753,
 AOX15,259,414971,Adelaide Oval,,0,414971,10753,
@@ -16180,19 +16180,6 @@ AOX7,257,413924,South Adelaide Footy Club,,1,413924,10780,
 AOX7,257,413925,South Adelaide Footy Club,,1,413925,10780,
 AOX7,257,413926,South Adelaide Footy Club,,1,413926,10780,
 AOX7,257,413927,South Adelaide Footy Club,,1,413927,10780,
-AOX9,258,414527,Adelaide Oval,,0,414527,10750,
-AOX9,258,414528,Adelaide Oval,,0,414528,10750,
-AOX9,258,414529,Adelaide Oval,,0,414529,10750,
-AOX9,258,414530,Adelaide Oval,,0,414530,10750,
-AOX9,258,414531,Adelaide Oval,,0,414531,10750,
-AOX9,258,414532,Adelaide Oval,,0,414532,10750,
-AOX9,258,414533,Mt Barker,,1,414533,10782,
-AOX9,258,414534,Mt Barker,,1,414534,10782,
-AOX9,258,414535,Mt Barker,,1,414535,10782,
-AOX9,258,414536,Mt Barker,,1,414536,10782,
-AOX9,258,414537,Mt Barker,,1,414537,10782,
-AOX9,258,414538,Mt Barker,,1,414538,10782,
-AOX9,258,414539,Mt Barker,,1,414539,10782,
 AOX9,259,414878,Adelaide Oval,,0,414878,10750,
 AOX9,259,414879,Adelaide Oval,,0,414879,10750,
 AOX9,259,414880,Adelaide Oval,,0,414880,10750,
@@ -16206,6 +16193,19 @@ AOX9,259,414887,Mt Barker,,1,414887,10782,
 AOX9,259,414888,Mt Barker,,1,414888,10782,
 AOX9,259,414889,Mt Barker,,1,414889,10782,
 AOX9,259,414890,Mt Barker,,1,414890,10782,
+AOX9,258,414527,Adelaide Oval,,0,414527,10750,
+AOX9,258,414528,Adelaide Oval,,0,414528,10750,
+AOX9,258,414529,Adelaide Oval,,0,414529,10750,
+AOX9,258,414530,Adelaide Oval,,0,414530,10750,
+AOX9,258,414531,Adelaide Oval,,0,414531,10750,
+AOX9,258,414532,Adelaide Oval,,0,414532,10750,
+AOX9,258,414533,Mt Barker,,1,414533,10782,
+AOX9,258,414534,Mt Barker,,1,414534,10782,
+AOX9,258,414535,Mt Barker,,1,414535,10782,
+AOX9,258,414536,Mt Barker,,1,414536,10782,
+AOX9,258,414537,Mt Barker,,1,414537,10782,
+AOX9,258,414538,Mt Barker,,1,414538,10782,
+AOX9,258,414539,Mt Barker,,1,414539,10782,
 AOX9,257,413934,Adelaide Oval,,0,413934,10750,
 AOX9,257,413935,Adelaide Oval,,0,413935,10750,
 AOX9,257,413936,Adelaide Oval,,0,413936,10750,
@@ -17948,7 +17948,6 @@ G40M,1,424164,Tea Tree Plaza,,1,424164,13498,
 G40M,1,424165,Tea Tree Plaza,,1,424165,13498,
 G40M,1,424166,Tea Tree Plaza,,1,424166,13498,
 G40M,1,424167,Tea Tree Plaza,,1,424167,13498,
-GAW,1,415500,Gawler,,1,415500,6488,1
 GAW,1,415386,City,,0,415386,6483,1
 GAW,1,415388,City,,0,415388,6484,1
 GAW,1,415390,City,,0,415390,6483,1
@@ -17957,6 +17956,7 @@ GAW,1,415394,City,,0,415394,6485,1
 GAW,1,415396,City,,0,415396,6486,1
 GAW,1,415398,City,,0,415398,6485,1
 GAW,1,415400,City,,0,415400,6485,1
+GAW,1,415500,Gawler,,1,415500,6488,1
 GAW,1,415402,City,,0,415402,6485,1
 GAW,1,415404,City,,0,415404,6485,1
 GAW,1,415406,City,,0,415406,6485,1
@@ -18054,13 +18054,6 @@ GAWC,1,415409,City,,0,415409,6493,1
 GAWC,1,415407,City,,0,415407,6493,1
 GAWC,1,415405,City,,0,415405,6493,1
 GAWC,1,415403,City,,0,415403,6493,1
-GAWC,1,415401,City,,0,415401,6493,1
-GAWC,1,415399,City,,0,415399,6493,1
-GAWC,1,415397,City,,0,415397,6493,1
-GAWC,1,415395,City,,0,415395,6493,1
-GAWC,1,415391,City,,0,415391,6494,1
-GAWC,1,415389,City,,0,415389,6494,1
-GAWC,1,415387,City,,0,415387,6494,1
 GAWC,1,415501,Gawler Central,,1,415501,6498,1
 GAWC,1,415502,Gawler Central,,1,415502,3886,1
 GAWC,1,415503,Gawler Central,,1,415503,3886,1
@@ -18213,6 +18206,13 @@ GAWC,12,415649,Gawler Central,,1,415649,3886,1
 GAWC,12,415650,Gawler Central,,1,415650,3886,1
 GAWC,12,415651,Gawler Central,,1,415651,3886,1
 GAWC,12,415652,Gawler Central,,1,415652,3886,1
+GAWC,1,415401,City,,0,415401,6493,1
+GAWC,1,415399,City,,0,415399,6493,1
+GAWC,1,415397,City,,0,415397,6493,1
+GAWC,1,415395,City,,0,415395,6493,1
+GAWC,1,415391,City,,0,415391,6494,1
+GAWC,1,415389,City,,0,415389,6494,1
+GAWC,1,415387,City,,0,415387,6494,1
 GAWC,1,415381,City,,0,415381,3883,1
 GAWC,1,415382,City,,0,415382,3883,1
 GAWC,1,415383,City,,0,415383,3883,1
@@ -18236,6 +18236,26 @@ GRNG,1,415759,Grange,,1,415759,1198,1
 GRNG,1,415761,Grange,,1,415761,1198,1
 GRNG,1,415753,Grange,,1,415753,1198,1
 GRNG,1,415749,Grange,,1,415749,1198,1
+GRNG,1,415745,Grange,,1,415745,1198,1
+GRNG,9001,415732,City,,0,415732,1196,1
+GRNG,1,415740,Grange,,1,415740,1198,1
+GRNG,1,415726,City,,0,415726,1196,1
+GRNG,1,415729,City,,0,415729,1196,1
+GRNG,9001,415735,City,,0,415735,1196,1
+GRNG,1,415693,City,,0,415693,1196,1
+GRNG,1,415695,City,,0,415695,1196,1
+GRNG,1,415697,City,,0,415697,1196,1
+GRNG,1,415699,City,,0,415699,1196,1
+GRNG,1,415701,City,,0,415701,1196,1
+GRNG,1,415703,City,,0,415703,1196,1
+GRNG,1,415705,City,,0,415705,1196,1
+GRNG,1,415708,City,,0,415708,1196,1
+GRNG,1,415711,City,,0,415711,1196,1
+GRNG,1,415714,City,,0,415714,1196,1
+GRNG,1,415717,City,,0,415717,1196,1
+GRNG,1,415719,City,,0,415719,1196,1
+GRNG,1,415721,City,,0,415721,1196,1
+GRNG,1,415723,City,,0,415723,1196,1
 GRNG,1,415763,Grange,,1,415763,1198,1
 GRNG,1,415765,Grange,,1,415765,1198,1
 GRNG,1,415767,Grange,,1,415767,1198,1
@@ -18260,34 +18280,6 @@ GRNG,1,415807,Grange,,1,415807,1198,1
 GRNG,1,415809,Grange,,1,415809,1198,1
 GRNG,1,415812,Grange,,1,415812,1198,1
 GRNG,1,415815,Grange,,1,415815,1198,1
-GRNG,1,415745,Grange,,1,415745,1198,1
-GRNG,9001,415732,City,,0,415732,1196,1
-GRNG,1,415740,Grange,,1,415740,1198,1
-GRNG,1,415726,City,,0,415726,1196,1
-GRNG,1,415729,City,,0,415729,1196,1
-GRNG,9001,415735,City,,0,415735,1196,1
-GRNG,1,415711,City,,0,415711,1196,1
-GRNG,1,415714,City,,0,415714,1196,1
-GRNG,1,415717,City,,0,415717,1196,1
-GRNG,1,415719,City,,0,415719,1196,1
-GRNG,1,415721,City,,0,415721,1196,1
-GRNG,1,415723,City,,0,415723,1196,1
-GRNG,1,415677,City,,0,415677,1196,1
-GRNG,1,415679,City,,0,415679,1196,1
-GRNG,1,415681,City,,0,415681,1196,1
-GRNG,1,415683,City,,0,415683,1196,1
-GRNG,1,415685,City,,0,415685,1196,1
-GRNG,1,415687,City,,0,415687,1196,1
-GRNG,1,415689,City,,0,415689,1196,1
-GRNG,1,415691,City,,0,415691,1196,1
-GRNG,1,415693,City,,0,415693,1196,1
-GRNG,1,415695,City,,0,415695,1196,1
-GRNG,1,415697,City,,0,415697,1196,1
-GRNG,1,415699,City,,0,415699,1196,1
-GRNG,1,415701,City,,0,415701,1196,1
-GRNG,1,415703,City,,0,415703,1196,1
-GRNG,1,415705,City,,0,415705,1196,1
-GRNG,1,415708,City,,0,415708,1196,1
 GRNG,1,415818,Grange,,1,415818,1198,1
 GRNG,9001,415821,Grange,,1,415821,1198,1
 GRNG,11,415824,City,,0,415824,1196,1
@@ -18349,14 +18341,6 @@ GRNG,12,415993,Grange,,1,415993,1198,1
 GRNG,12,415996,Grange,,1,415996,1198,1
 GRNG,12,415999,Grange,,1,415999,1198,1
 GRNG,12,416002,Grange,,1,416002,1198,1
-GRNG,1,415671,City,,0,415671,1196,1
-GRNG,1,415673,City,,0,415673,1196,1
-GRNG,1,415675,City,,0,415675,1196,1
-GRNG,1,415667,City,,0,415667,1196,1
-GRNG,1,415663,City,,0,415663,1196,1
-GRNG,1,415659,City,,0,415659,1196,1
-GRNG,1,415656,City,,0,415656,1196,1
-GRNG,1,415654,City,,0,415654,1196,1
 GRNG,12,416005,Grange,,1,416005,1198,1
 GRNG,12,416008,Grange,,1,416008,1198,1
 GRNG,12,416011,Grange,,1,416011,1198,1
@@ -18365,6 +18349,22 @@ GRNG,12,416017,Grange,,1,416017,1198,1
 GRNG,12,416020,Grange,,1,416020,1198,1
 GRNG,12,416023,Grange,,1,416023,1198,1
 GRNG,12,416026,Grange,,1,416026,1198,1
+GRNG,1,415671,City,,0,415671,1196,1
+GRNG,1,415673,City,,0,415673,1196,1
+GRNG,1,415675,City,,0,415675,1196,1
+GRNG,1,415667,City,,0,415667,1196,1
+GRNG,1,415663,City,,0,415663,1196,1
+GRNG,1,415677,City,,0,415677,1196,1
+GRNG,1,415679,City,,0,415679,1196,1
+GRNG,1,415681,City,,0,415681,1196,1
+GRNG,1,415683,City,,0,415683,1196,1
+GRNG,1,415685,City,,0,415685,1196,1
+GRNG,1,415687,City,,0,415687,1196,1
+GRNG,1,415689,City,,0,415689,1196,1
+GRNG,1,415691,City,,0,415691,1196,1
+GRNG,1,415659,City,,0,415659,1196,1
+GRNG,1,415656,City,,0,415656,1196,1
+GRNG,1,415654,City,,0,415654,1196,1
 GRNG,12,416029,Grange,,1,416029,1198,1
 GRNG,12,416032,Grange,,1,416032,1198,1
 GRNG,12,416035,Grange,,1,416035,1198,1
@@ -20010,15 +20010,15 @@ NOAR,1,416061,City,,0,416061,10710,1
 OSBORN,1,415662,City,,0,415662,10733,1
 OSBORN,1,415666,City,,0,415666,10733,1
 OSBORN,1,415670,City,,0,415670,10733,1
+OSBORN,1,415801,Osborne,,1,415801,10734,1
+OSBORN,1,415798,Osborne,,1,415798,10734,1
+OSBORN,1,415795,Osborne,,1,415795,10734,1
+OSBORN,1,415792,Osborne,,1,415792,10734,1
 OSBORN,1,415713,City,,0,415713,10733,1
 OSBORN,1,415716,City,,0,415716,10733,1
 OSBORN,1,415707,City,,0,415707,10733,1
 OSBORN,1,415710,City,,0,415710,10733,1
 OSBORN,1,415746,Osborne,,1,415746,10734,1
-OSBORN,1,415801,Osborne,,1,415801,10734,1
-OSBORN,1,415798,Osborne,,1,415798,10734,1
-OSBORN,1,415795,Osborne,,1,415795,10734,1
-OSBORN,1,415792,Osborne,,1,415792,10734,1
 OSBORN,1,415750,Osborne,,1,415750,10734,1
 OSBORN,1,415754,Osborne,,1,415754,10734,1
 OSBORN,2572,427610,City,,0,427610,10975,1
@@ -20031,33 +20031,6 @@ OUTHA,1,415762,Outer Harbor,,1,415762,10732,1
 OUTHA,1,415760,Outer Harbor,,1,415760,10732,1
 OUTHA,1,415743,Outer Harbor,,1,415743,10732,1
 OUTHA,1,415758,Outer Harbor,,1,415758,10732,1
-OUTHA,1,415778,Outer Harbor,,1,415778,10732,1
-OUTHA,1,415776,Outer Harbor,,1,415776,10732,1
-OUTHA,1,415774,Outer Harbor,,1,415774,10732,1
-OUTHA,1,415772,Outer Harbor,,1,415772,10732,1
-OUTHA,1,415770,Outer Harbor,,1,415770,10732,1
-OUTHA,1,415768,Outer Harbor,,1,415768,10732,1
-OUTHA,1,415766,Outer Harbor,,1,415766,10732,1
-OUTHA,1,415764,Outer Harbor,,1,415764,10732,1
-OUTHA,1,415793,Outer Harbor,,1,415793,10732,1
-OUTHA,1,415796,Outer Harbor,,1,415796,10732,1
-OUTHA,1,415790,Outer Harbor,,1,415790,10732,1
-OUTHA,1,415788,Outer Harbor,,1,415788,10732,1
-OUTHA,1,415786,Outer Harbor,,1,415786,10732,1
-OUTHA,1,415784,Outer Harbor,,1,415784,10732,1
-OUTHA,1,415782,Outer Harbor,,1,415782,10732,1
-OUTHA,1,415780,Outer Harbor,,1,415780,10732,1
-OUTHA,1,415799,Outer Harbor,,1,415799,10732,1
-OUTHA,1,415802,Outer Harbor,,1,415802,10732,1
-OUTHA,1,415806,Outer Harbor,,1,415806,10732,1
-OUTHA,1,415804,Outer Harbor,,1,415804,10732,1
-OUTHA,1,415816,Outer Harbor,,1,415816,10732,1
-OUTHA,1,415817,Outer Harbor,,1,415817,10732,1
-OUTHA,1,415813,Outer Harbor,,1,415813,10732,1
-OUTHA,1,415814,Outer Harbor,,1,415814,10732,1
-OUTHA,1,415810,Outer Harbor,,1,415810,10732,1
-OUTHA,1,415811,Outer Harbor,,1,415811,10732,1
-OUTHA,1,415808,Outer Harbor,,1,415808,10732,1
 OUTHA,1,415747,Outer Harbor,,1,415747,10732,1
 OUTHA,1,415741,Outer Harbor,,1,415741,10732,1
 OUTHA,9001,415733,City,,0,415733,10731,1
@@ -20085,14 +20058,65 @@ OUTHA,1,415700,City,,0,415700,10731,1
 OUTHA,1,415698,City,,0,415698,10731,1
 OUTHA,1,415696,City,,0,415696,10731,1
 OUTHA,1,415694,City,,0,415694,10731,1
-OUTHA,1,415692,City,,0,415692,10731,1
-OUTHA,1,415690,City,,0,415690,10731,1
-OUTHA,1,415688,City,,0,415688,10731,1
-OUTHA,1,415686,City,,0,415686,10731,1
-OUTHA,1,415684,City,,0,415684,10731,1
-OUTHA,1,415682,City,,0,415682,10731,1
-OUTHA,1,415680,City,,0,415680,10731,1
-OUTHA,1,415678,City,,0,415678,10731,1
+OUTHA,1,415793,Outer Harbor,,1,415793,10732,1
+OUTHA,1,415796,Outer Harbor,,1,415796,10732,1
+OUTHA,1,415790,Outer Harbor,,1,415790,10732,1
+OUTHA,1,415788,Outer Harbor,,1,415788,10732,1
+OUTHA,1,415786,Outer Harbor,,1,415786,10732,1
+OUTHA,1,415784,Outer Harbor,,1,415784,10732,1
+OUTHA,1,415782,Outer Harbor,,1,415782,10732,1
+OUTHA,1,415780,Outer Harbor,,1,415780,10732,1
+OUTHA,1,415778,Outer Harbor,,1,415778,10732,1
+OUTHA,1,415776,Outer Harbor,,1,415776,10732,1
+OUTHA,1,415774,Outer Harbor,,1,415774,10732,1
+OUTHA,1,415772,Outer Harbor,,1,415772,10732,1
+OUTHA,1,415770,Outer Harbor,,1,415770,10732,1
+OUTHA,1,415768,Outer Harbor,,1,415768,10732,1
+OUTHA,1,415766,Outer Harbor,,1,415766,10732,1
+OUTHA,1,415764,Outer Harbor,,1,415764,10732,1
+OUTHA,1,415799,Outer Harbor,,1,415799,10732,1
+OUTHA,1,415802,Outer Harbor,,1,415802,10732,1
+OUTHA,1,415806,Outer Harbor,,1,415806,10732,1
+OUTHA,1,415804,Outer Harbor,,1,415804,10732,1
+OUTHA,1,415816,Outer Harbor,,1,415816,10732,1
+OUTHA,1,415817,Outer Harbor,,1,415817,10732,1
+OUTHA,1,415813,Outer Harbor,,1,415813,10732,1
+OUTHA,1,415814,Outer Harbor,,1,415814,10732,1
+OUTHA,1,415810,Outer Harbor,,1,415810,10732,1
+OUTHA,1,415811,Outer Harbor,,1,415811,10732,1
+OUTHA,1,415808,Outer Harbor,,1,415808,10732,1
+OUTHA,11,415840,City,,0,415840,10731,1
+OUTHA,11,415841,City,,0,415841,10731,1
+OUTHA,11,415837,City,,0,415837,10731,1
+OUTHA,11,415838,City,,0,415838,10731,1
+OUTHA,11,415834,City,,0,415834,10731,1
+OUTHA,11,415835,City,,0,415835,10731,1
+OUTHA,11,415831,City,,0,415831,10731,1
+OUTHA,11,415832,City,,0,415832,10731,1
+OUTHA,11,415828,City,,0,415828,10731,1
+OUTHA,11,415829,City,,0,415829,10731,1
+OUTHA,11,415825,City,,0,415825,10731,1
+OUTHA,11,415826,City,,0,415826,10731,1
+OUTHA,9001,415822,Outer Harbor,,1,415822,10732,1
+OUTHA,11,415823,City,,0,415823,10731,1
+OUTHA,1,415819,Outer Harbor,,1,415819,10732,1
+OUTHA,9001,415820,Outer Harbor,,1,415820,10732,1
+OUTHA,12,416027,Outer Harbor,,1,416027,10732,1
+OUTHA,12,416028,Outer Harbor,,1,416028,10732,1
+OUTHA,12,416024,Outer Harbor,,1,416024,10732,1
+OUTHA,12,416025,Outer Harbor,,1,416025,10732,1
+OUTHA,12,416021,Outer Harbor,,1,416021,10732,1
+OUTHA,12,416022,Outer Harbor,,1,416022,10732,1
+OUTHA,12,416018,Outer Harbor,,1,416018,10732,1
+OUTHA,12,416019,Outer Harbor,,1,416019,10732,1
+OUTHA,12,416015,Outer Harbor,,1,416015,10732,1
+OUTHA,12,416016,Outer Harbor,,1,416016,10732,1
+OUTHA,12,416012,Outer Harbor,,1,416012,10732,1
+OUTHA,12,416013,Outer Harbor,,1,416013,10732,1
+OUTHA,12,416009,Outer Harbor,,1,416009,10732,1
+OUTHA,12,416010,Outer Harbor,,1,416010,10732,1
+OUTHA,12,416006,Outer Harbor,,1,416006,10732,1
+OUTHA,12,416007,Outer Harbor,,1,416007,10732,1
 OUTHA,12,416003,Outer Harbor,,1,416003,10732,1
 OUTHA,12,416004,Outer Harbor,,1,416004,10732,1
 OUTHA,12,416000,Outer Harbor,,1,416000,10732,1
@@ -20203,27 +20227,19 @@ OUTHA,11,415846,City,,0,415846,10731,1
 OUTHA,11,415847,City,,0,415847,10731,1
 OUTHA,11,415843,City,,0,415843,10731,1
 OUTHA,11,415844,City,,0,415844,10731,1
-OUTHA,11,415840,City,,0,415840,10731,1
-OUTHA,11,415841,City,,0,415841,10731,1
-OUTHA,11,415837,City,,0,415837,10731,1
-OUTHA,11,415838,City,,0,415838,10731,1
-OUTHA,11,415834,City,,0,415834,10731,1
-OUTHA,11,415835,City,,0,415835,10731,1
-OUTHA,11,415831,City,,0,415831,10731,1
-OUTHA,11,415832,City,,0,415832,10731,1
-OUTHA,11,415828,City,,0,415828,10731,1
-OUTHA,11,415829,City,,0,415829,10731,1
-OUTHA,11,415825,City,,0,415825,10731,1
-OUTHA,11,415826,City,,0,415826,10731,1
-OUTHA,9001,415822,Outer Harbor,,1,415822,10732,1
-OUTHA,11,415823,City,,0,415823,10731,1
-OUTHA,1,415819,Outer Harbor,,1,415819,10732,1
-OUTHA,9001,415820,Outer Harbor,,1,415820,10732,1
 OUTHA,1,415672,City,,0,415672,10731,1
 OUTHA,1,415676,City,,0,415676,10731,1
 OUTHA,1,415674,City,,0,415674,10731,1
 OUTHA,1,415668,City,,0,415668,13570,1
 OUTHA,1,415664,City,,0,415664,13570,1
+OUTHA,1,415692,City,,0,415692,10731,1
+OUTHA,1,415690,City,,0,415690,10731,1
+OUTHA,1,415688,City,,0,415688,10731,1
+OUTHA,1,415686,City,,0,415686,10731,1
+OUTHA,1,415684,City,,0,415684,10731,1
+OUTHA,1,415682,City,,0,415682,10731,1
+OUTHA,1,415680,City,,0,415680,10731,1
+OUTHA,1,415678,City,,0,415678,10731,1
 OUTHA,1,415655,City,,0,415655,10731,1
 OUTHA,1,415657,City,,0,415657,13570,1
 OUTHA,1,415660,City,,0,415660,13570,1
@@ -20237,30 +20253,14 @@ OUTHA,12,416033,Outer Harbor,,1,416033,10732,1
 OUTHA,12,416034,Outer Harbor,,1,416034,10732,1
 OUTHA,12,416030,Outer Harbor,,1,416030,10732,1
 OUTHA,12,416031,Outer Harbor,,1,416031,10732,1
-OUTHA,12,416027,Outer Harbor,,1,416027,10732,1
-OUTHA,12,416028,Outer Harbor,,1,416028,10732,1
-OUTHA,12,416024,Outer Harbor,,1,416024,10732,1
-OUTHA,12,416025,Outer Harbor,,1,416025,10732,1
-OUTHA,12,416021,Outer Harbor,,1,416021,10732,1
-OUTHA,12,416022,Outer Harbor,,1,416022,10732,1
-OUTHA,12,416018,Outer Harbor,,1,416018,10732,1
-OUTHA,12,416019,Outer Harbor,,1,416019,10732,1
-OUTHA,12,416015,Outer Harbor,,1,416015,10732,1
-OUTHA,12,416016,Outer Harbor,,1,416016,10732,1
-OUTHA,12,416012,Outer Harbor,,1,416012,10732,1
-OUTHA,12,416013,Outer Harbor,,1,416013,10732,1
-OUTHA,12,416009,Outer Harbor,,1,416009,10732,1
-OUTHA,12,416010,Outer Harbor,,1,416010,10732,1
-OUTHA,12,416006,Outer Harbor,,1,416006,10732,1
-OUTHA,12,416007,Outer Harbor,,1,416007,10732,1
 OUTHA,9101,427616,Outer Harbor,,1,427616,11848,1
 OUTHA,9101,427617,Outer Harbor,,1,427617,11848,1
 OUTHA,9101,427626,Woodville,,0,427626,11849,1
 OUTHA,9101,427627,Woodville,,0,427627,11849,1
 OUTHA,9101,427628,Woodville,,0,427628,11849,1
 OUTHA,9101,427629,Woodville,,0,427629,11849,1
-SALIS,1,415393,City,,0,415393,3817,1
 SALIS,1,415454,Salisbury,,1,415454,1244,1
+SALIS,1,415393,City,,0,415393,3817,1
 SEAFRD,1,416043,City,,0,416043,10623,1
 SEAFRD,1,416044,City,,0,416044,10623,1
 SEAFRD,1,416045,City,,0,416045,10623,1
@@ -20350,6 +20350,22 @@ SEAFRD,1,416172,Seaford,,1,416172,10852,1
 SEAFRD,1,416173,Seaford,,1,416173,10624,1
 SEAFRD,1,416175,Seaford,,1,416175,10852,1
 SEAFRD,1,416176,Seaford,,1,416176,10624,1
+SEAFRD,1,416178,Seaford,,1,416178,10852,1
+SEAFRD,1,416179,Seaford,,1,416179,10624,1
+SEAFRD,1,416181,Seaford,,1,416181,10852,1
+SEAFRD,1,416182,Seaford,,1,416182,10624,1
+SEAFRD,1,416184,Seaford,,1,416184,10852,1
+SEAFRD,1,416185,Seaford,,1,416185,10624,1
+SEAFRD,1,416187,Seaford,,1,416187,10852,1
+SEAFRD,1,416188,Seaford,,1,416188,10624,1
+SEAFRD,1,416190,Seaford,,1,416190,10852,1
+SEAFRD,1,416191,Seaford,,1,416191,10624,1
+SEAFRD,1,416193,Seaford,,1,416193,10852,1
+SEAFRD,1,416194,Seaford,,1,416194,10624,1
+SEAFRD,1,416196,Seaford,,1,416196,10852,1
+SEAFRD,1,416197,Seaford,,1,416197,10624,1
+SEAFRD,1,416199,Seaford,,1,416199,10852,1
+SEAFRD,1,416200,Seaford,,1,416200,10624,1
 SEAFRD,1,416224,Seaford,,1,416224,13574,1
 SEAFRD,1,416225,Seaford,,1,416225,10624,1
 SEAFRD,1,416226,Seaford,,1,416226,10624,1
@@ -20506,22 +20522,6 @@ SEAFRD,1,416202,Seaford,,1,416202,10719,1
 SEAFRD,1,416203,Seaford,,1,416203,10720,1
 SEAFRD,1,416221,Seaford,,1,416221,10719,1
 SEAFRD,1,416222,Seaford,,1,416222,10720,1
-SEAFRD,1,416178,Seaford,,1,416178,10852,1
-SEAFRD,1,416179,Seaford,,1,416179,10624,1
-SEAFRD,1,416181,Seaford,,1,416181,10852,1
-SEAFRD,1,416182,Seaford,,1,416182,10624,1
-SEAFRD,1,416184,Seaford,,1,416184,10852,1
-SEAFRD,1,416185,Seaford,,1,416185,10624,1
-SEAFRD,1,416187,Seaford,,1,416187,10852,1
-SEAFRD,1,416188,Seaford,,1,416188,10624,1
-SEAFRD,1,416190,Seaford,,1,416190,10852,1
-SEAFRD,1,416191,Seaford,,1,416191,10624,1
-SEAFRD,1,416193,Seaford,,1,416193,10852,1
-SEAFRD,1,416194,Seaford,,1,416194,10624,1
-SEAFRD,1,416196,Seaford,,1,416196,10852,1
-SEAFRD,1,416197,Seaford,,1,416197,10624,1
-SEAFRD,1,416199,Seaford,,1,416199,10852,1
-SEAFRD,1,416200,Seaford,,1,416200,10624,1
 SEAFRD,1,416205,Seaford,,1,416205,13573,1
 SEAFRD,1,416206,Seaford,,1,416206,10719,1
 SEAFRD,1,416207,Seaford,,1,416207,10720,1
@@ -20692,6 +20692,8 @@ TONS,1,416220,Tonsley,,1,416220,9947,1
 TONS,1,416216,Tonsley,,1,416216,9947,1
 TONS,1,416212,Tonsley,,1,416212,9947,1
 TONS,1,416208,Tonsley,,1,416208,9947,1
+TONS,1,416223,Tonsley,,1,416223,9947,1
+TONS,1,416204,Tonsley,,1,416204,9947,1
 TONS,1,416201,Tonsley,,1,416201,9947,1
 TONS,1,416198,Tonsley,,1,416198,9947,1
 TONS,1,416195,Tonsley,,1,416195,9947,1
@@ -20700,8 +20702,6 @@ TONS,1,416189,Tonsley,,1,416189,9947,1
 TONS,1,416186,Tonsley,,1,416186,9947,1
 TONS,1,416183,Tonsley,,1,416183,9947,1
 TONS,1,416180,Tonsley,,1,416180,9947,1
-TONS,1,416223,Tonsley,,1,416223,9947,1
-TONS,1,416204,Tonsley,,1,416204,9947,1
 TONS,1,416177,Tonsley,,1,416177,9947,1
 TONS,1,416174,Tonsley,,1,416174,9947,1
 TONS,1,416171,Tonsley,,1,416171,9947,1
