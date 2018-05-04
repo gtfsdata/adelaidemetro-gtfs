@@ -12,4 +12,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Changed block data for routes 97A, 98A, 98C, 99A and 99C.
+1) Added special train and tram timetable data for AFL Rounds 8 and 9.
