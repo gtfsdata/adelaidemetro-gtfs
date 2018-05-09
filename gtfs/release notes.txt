@@ -12,4 +12,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added special train and tram timetable data for AFL Rounds 8 and 9.
+1) Various stop coordinates have changed.
