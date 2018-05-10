@@ -12,4 +12,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Various stop coordinates have changed.
+1) Added trip data for AFL Rounds 11-17.
