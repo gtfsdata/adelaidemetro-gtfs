@@ -42,7 +42,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 190B,5,190B,City to Mitcham Square,"Terminates at stop 12 Belair Road, Mitcham.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/190,0033CC,ffffff,190
 195,5,195,Blackwood Station to City,"via Mitcham & Unley Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/195,0033CC,ffffff,195-195F-196-196F-197X
 195F,5,195F,Blackwood Station to City,"via Mitcham & Unley Road.Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/195,0033CC,ffffff,195-195F-196-196F-197X
-196,5,196,Blackwood Station to City,"via Mitcham, Gloucester Avenue & Unley Road. Services operates 7 days.",3,http://www.adelaidemetro.com.au/routes/196,0033CC,ffffff,195-195F-196-196F-197X
+196,5,196,Blackwood Station to City,"via Mitcham, Gloucester Avenue & Unley Road.",3,http://www.adelaidemetro.com.au/routes/196,0033CC,ffffff,195-195F-196-196F-197X
 196F,5,196F,Blackwood Station to City,"via Mitcham & Unley Road.Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/196,0033CC,ffffff,195-195F-196-196F-197X
 197X,5,197X,Coromandel Station to City,"via Main Rd, Gloucester Ave, Mitcham & Unley Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/197X,0033CC,ffffff,195-195F-196-196F-197X
 200,7,200,Marion Centre Interchange to City,"via Flinders Medical Centre, Eliza Place & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
@@ -131,7 +131,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 404,4,404,Salisbury to Paralowie Anti-Clockwise Loop,"Vvia Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/404,7030A0,ffffff,404-405
 404R,4,404R,Salisbury to Paralowie Anti-Clockwise Loop,"Via Parafield Gardens & Rundle Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/404R,7030A0,ffffff,404-405
 405,4,405,Salisbury to Paralowie Clockwise Loop,"Via Parafield Gardens. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/405,7030A0,ffffff,404-405
-411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens. Limited services commence from UniSA Mawson Lakes Campus.",3,http://www.adelaidemetro.com.au/routes/411,7030A0,ffffff,411
+411,4,411,Salisbury to Mawson Interchange,"via Salisbury Interchange, Paralowie & Parafield Gardens.",3,http://www.adelaidemetro.com.au/routes/411,7030A0,ffffff,411
 411B,4,411B,Mawson Interchange to Salisbury Interchange,"Terminates at Salisbury Interchange.",3,http://www.adelaidemetro.com.au/routes/411,7030A0,ffffff,411
 411U,4,411U,Salisbury to UniSA Mawson Lakes Campus,"Terminates at UniSA Mawson Lakes Campus.",3,http://www.adelaidemetro.com.au/routes/411,7030A0,ffffff,411
 415,4,415,Salisbury Interchange to Greenwith,"via Salisbury Park, Salisbury East & Target Hill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/415,7030A0,ffffff,415-430
@@ -191,8 +191,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 546,7,546,City to Para Hills,"via O-Bahn & Tea Tree Plaza Interchange. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
 546X,7,546X,Para Hills to City,"via O-Bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
 548,7,548,Greenwith & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/548,FF8C0D,ffffff,548-591A-591C
-556,7,556,Tea Tree Plaza Interchange to City,"via Tolley Road. Peak hour services extend to and from the City. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/556,FF8C0D,ffffff,556-557-557X-559
-557,7,557,Tea Tree Plaza Interchange to City,"via North East Road. Peak hour services extend to and from the City. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
+556,7,556,Tea Tree Plaza Interchange to City,"via Tolley Road.",3,http://www.adelaidemetro.com.au/routes/556,FF8C0D,ffffff,556-557-557X-559
+557,7,557,Tea Tree Plaza Interchange to City,"via North East Road.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
 557S,7,557S,Paradise Interchange to St Agnes,"Terminates at stop 47 North East Rd, St Agnes.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
 557X,7,557X,Tea Tree Plaza Interchange to City,"via North East Road, Paradise Interchange & O-Bahn. Express between Paradise Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/557X,FF8C0D,ffffff,556-557-557X-559
 559,7,559,Tea Tree Plaza Interchange to Paradise Interchange,"via Hancock Road & Dernancourt. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/559,FF8C0D,ffffff,556-557-557X-559
@@ -269,7 +269,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 683,4,683,Hallett Cove Beach Station to Hallett Cove South,"Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/683,FFCC00,000000,681-682-683
 719,4,719,Flinders University to City,"via South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/719,FFCC00,000000,640-719-720
 720,4,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
-720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
+720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 721,4,721,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721F,4,721F,Noarlunga Centre Interchange to City,"via Main South Reynella Interchange. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721L,4,721L,Noarlunga Centre Interchange to Lonsdale Depot,"Terminates at Lonsdale Depot.",3,http://www.adelaidemetro.com.au/routes/721L,FFCC00,000000,721-721F-721X-T721-T721X-N721
@@ -283,7 +283,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 723X,4,723X,Woodcroft Community Centre to City,"via Southern Expressway. Express between stop 39 Regency Road & Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723X,FFCC00,000000,723F-723X-733
 724,4,724,Noarlunga Centre Interchange to Old Reynella Interchange,"via O'Sullivan Beach & Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/724,FFCC00,000000,724-734
 725,4,725,Noarlunga Centre Interchange to Old Reynella Interchange,"via Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
-725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,"Does not connect with city-bound services.",3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
+725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,,3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
 733,4,733,Colonnades Centre Interchange to Marion Centre Interchange,"via Woodcroft Community Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/733,FFCC00,000000,723F-723X-733
 733G,4,733G,Colonnades Centre Interchange to O'Halloran Hill,"Terminates at Stop 33 Main South Road.",3,http://www.adelaidemetro.com.au/routes/733G,FFCC00,000000,723F-723X-733
 734,4,734,Colonnades Centre Interchange to Marion Centre Interchange,"via O'Sullivan Beach, Southgate Plaza & Trott Park. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/734,FFCC00,000000,724-734
@@ -304,7 +304,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 750C,4,750C,Colonnades Centre Interchange to Seaford Centre,"Terminates at Seaford Centre.",3,http://www.adelaidemetro.com.au/routes/750C,FFCC00,000000,741-750-750X-751-752-755-756
 750R,4,750R,Sellicks Beach to Seaford Interchange,"Terminates at Seaford Interchange.",3,http://www.adelaidemetro.com.au/routes/750R,FFCC00,000000,741-750-750X-751-752-755-756
 750X,4,750X,Sellicks Beach to Noarlunga Centre Interchange,"Express from Aldinga Shopping Centre to Seaford Interchange.",3,http://www.adelaidemetro.com.au/routes/750X,FFCC00,000000,741-750-750X-751-752-755-756
-751,4,751,Aldinga Shopping Centre to Colonnades Centre Interchange,"via Main Road.  Service operates 7 days.  Selected services depart from Noarlunga Hospital.",3,http://www.adelaidemetro.com.au/routes/751,FFCC00,000000,741-750-750X-751-752-755-756
+751,4,751,Aldinga Shopping Centre to Colonnades Centre Interchange,"via Main Road.",3,http://www.adelaidemetro.com.au/routes/751,FFCC00,000000,741-750-750X-751-752-755-756
 751A,4,751A,Aldinga Shopping Centre to Noarlunga Centre Interchange,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/751A,FFCC00,000000,741-750-750X-751-752-755-756
 751C,4,751C,Aldinga Shopping Centre to Seaford Centre,"Terminates at Seaford Centre.",3,http://www.adelaidemetro.com.au/routes/751C,FFCC00,000000,741-750-750X-751-752-755-756
 751H,4,751H,Aldinga Shopping Centre to Noarlunga Hospital,"Terminates at Noarlunga Hospital.",3,http://www.adelaidemetro.com.au/routes/751H,FFCC00,000000,741-750-750X-751-752-755-756
@@ -516,7 +516,7 @@ H21,5,H21,City to Paradise Interchange,"via Reserve Road, Glynburn Road & The Pa
 H22,5,H22,Henley Beach South to Wattle Park,"via Pierson Street, Henley Beach Road, City, The Parade & Penfold Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H22,0033CC,ffffff,H22-H23-H24-H32-N22
 H22C,5,H22C,Wattle Park to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H22,0033CC,ffffff,H22-H23-H24-H32-N22
 H22L,5,H22L,Wattle Park to Lockleys,"Terminates at stop 12 Pierson Street, Lockleys.",3,http://www.adelaidemetro.com.au/routes/H22,0033CC,ffffff,H22-H23-H24-H32-N22
-H23,5,H23,City to Auldana,"via The Parade & Kensington Road. Services operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/H23,0033CC,ffffff,H22-H23-H24-H32-N22
+H23,5,H23,City to Auldana,"via The Parade & Kensington Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/H23,0033CC,ffffff,H22-H23-H24-H32-N22
 H24,5,H24,City to Auldana,"via The Parade. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/H24,0033CC,ffffff,H22-H23-H24-H32-N22
 H30,5,H30,West Lakes Centre Interchange to Paradise Interchange,"via Military Road, Henley Beach Road, City, Coorara Avenue & Stradbroke Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H30,0033CC,ffffff,H30-X30-N30
 H30C,5,H30C,West Lakes Centre Interchange/Paradise Interchange to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H30,0033CC,ffffff,H30-X30-N30
@@ -524,8 +524,8 @@ H30S,5,H30S,West Lakes Centre Interchange to Newton,"via Military Road, Henley B
 H32,5,H32,Henley Beach South to City,"via Henley Beach Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/H32,0033CC,ffffff,H22-H23-H24-H32-N22
 H33,5,H33,Henley Beach to Rostrevor,"via Marlborough St, Henley Beach Rd, city, Magill Rd, Coorara Ave & Reid Ave.",3,http://www.adelaidemetro.com.au/routes/H33,0033CC,ffffff,H33
 H33C,5,H33C,Henley Beach / Rostrevor to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H33,0033CC,ffffff,H33
-HL1,4,HL1,Hahndorf to Mt Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/HL1,006600,ffffff,HL1-HL2
-HL2,4,HL2,Hahndorf to Mt Barker Township Loop,"Hahnorf loop services. Service operates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/HL2,006600,ffffff,HL1-HL2
+HL1,4,HL1,Hahndorf to Mt Barker Township Loop,"Hahndorf loop services. Operates Fridays only, excluding public holidays.",3,http://www.adelaidemetro.com.au/routes/HL1,006600,ffffff,HL1-HL2
+HL2,4,HL2,Hahndorf to Mt Barker Township Loop,"Hahndorf loop services. Operates Fridays only, excluding public holidays.",3,http://www.adelaidemetro.com.au/routes/HL2,006600,ffffff,HL1-HL2
 INDA,52,INDA,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDA,0033CC,ffffff,
 INDB,52,INDB,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDB,0033CC,ffffff,
 IndstA,72,IndstA,Marion Centre Interchange to Bedford Industries,"Industrial Service.",3,http://www.adelaidemetro.com.au/routes/IndstA,990000,ffffff,

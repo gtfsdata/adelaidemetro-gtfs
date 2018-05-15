@@ -11,5 +11,27 @@ Upcoming Public Holidays:
 
 General Amendments:
 
+1) Implemented Seaford train night closures (including N4 Sub bus route). Please see www.adelaidemetro.com.au for more detailed information
 
-1) Added trip data for AFL Rounds 11-17.
+2) Stop coordinates have changed for the following stops:
+
+- Stop H1 Morphett St - east side 
+- Stop K1 Morphett St - east side
+- Stop R1 West Tce - west side
+- Stop 62 Marie Clark Dr – north side
+- Stop 62 Marie Clark Dr – south side
+- Stop 61A Marie Clark Dr – north side
+- Stop 61A Marie Clark Dr – south side
+- Stop 65 The Golden Way – north west side
+- Stop 66 The Golden Way – north west side
+- Stop 67 The Golden Way – south east side
+- Stop 79 Golden Grove Rd – east side
+- Stop 79 Golden Grove Rd – west side
+- Stop 28 Sudholz Rd – south west side
+- Stop 25 Fosters Rd – west side
+- Stop 33G Park Way – south east side
+- Stop 34C Mawson Lakes Bvd – north side
+
+3) Stop 67B The Golden Way - South East side has been added to the GTFS
+
+4) Routes 591A and 591C have a new Hail n Ride "node/stop" at Halcyon Ave and Bushmills St
