@@ -11,8 +11,5 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented Seaford train night closures (including N4 Sub bus route) - changes from the previous feed! Please see www.adelaidemetro.com.au for more detailed information.
-
-2) Fixed an issue regarding Stop 73 Midway Road in route 228. The 228 was servicing the incorrect side of the road.
-
-3) Fixed an issue where additional train and AO/AOX route trips were appearing on 20 May when they should only be valid for 3 June.
+1) Added tram data for AFL Rounds 11, 12 and 13.
+2) Stop coordinates have changed for several stops across the Network.
