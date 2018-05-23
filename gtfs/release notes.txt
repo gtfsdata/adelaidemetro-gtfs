@@ -11,5 +11,18 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added tram data for AFL Rounds 11, 12 and 13.
-2) Stop coordinates have changed for several stops across the Network.
+1) Added school stops along Milne Road for routes 922 and 929 (approx. 6 stops across both directions of travel)
+2) Stop coordinates have changed for the following stops:
+
+Stop 5 Glen Osmond Rd - South East side
+Stop 1 George St - East side
+Stop 50A Waterloo Cnr Rd – NE side
+Stop 53 Waterloo Cnr Rd – SW side
+Stop 53 Waterloo Cnr Rd – NE side
+Stop 54 Waterloo Cnr Rd – SW side
+Stop 55 Waterloo Cnr Rd – SW side
+Stop 55 Waterloo Cnr Rd – NE side
+Stop 43 Roopena St (both sides)
+Stop 212 Findon Rd - East side
+
+3) Implemented Grange, Outer Harbor and Belair Saturday night closures (26 May 2018), including sub buses.
