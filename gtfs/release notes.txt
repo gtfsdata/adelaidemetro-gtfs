@@ -11,16 +11,22 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added Tram data for AFL Rounds 14 and 15.
+
+1) Minor changes to trip times for AO routes for AFL Rounds 12, 13 and 14. Only for Light City Buses services.
 
 2) Stop coordinates have changed for the following stops:
 
-Stop 32 Morphett Rd - East side
-Stop 4 King William Rd - West side
-Stop 25G Grand Junction Rd - North side
-Stop 28 Churchill Rd North (both sides)
-Stop 29 Churchill Rd North (both sides)
-Stop 23 Grange Rd (both sides)
+Stop 36 Neath Ave – east side
+Stop 15 Churchill Rd – west side
+Stop 18 Churchill Rd – west side
+Stop 32 Days Rd – east side
+Stop 33 Days Rd – east side
+Stop 36B Bedford St – (both sides)
+Stop 31A Glenroy St – (both sides)
+Stop 29C Park Ave – south side
+Stops at Roma Mitchell Secondary College
 
 
-3) Implemented Seaford train night closures for June 15-16 (including N4 sub bus).
+3) Fixed issue with route 506 servicing incorrect stop at Paradise Interchange at certain times of day.
+
+4) Fixed route maps/shapes for buses going through Roma Mitchell Secondary College.
