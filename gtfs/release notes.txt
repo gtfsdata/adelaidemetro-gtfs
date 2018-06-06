@@ -12,24 +12,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordinates have changed for the following stops:
+1) Some time changes for Mondays for routes 625, 626, 627 and 629.
 
-- Stop 53N John Rice Ave – both sides
-- Stop 30 Montague Rd – south side
-- Stop 29C Park Ave – south side
-- Stop 29A Annette St – south side
-- Stop 34G Grand Junction Rd – north side
-- Stop 29A Hanson Rd – west side
-- Stop 35B Jetty Rd – south side
-- Stop 54 Milne Rd – south side
-- Stop 12 Prospect Rd – east side
-- Stop 20 Prospect Rd – east side
-- Stop 44 Scholefield Rd – north side
+2) Route 629 extended to Stop 4 Kensington Rd - previously only traveled to Stop 7 Kensington Rd.
 
-2) Stop 43 Scholefield Rd – east side has been removed
-
-3) Weekday 300 anti-clockwise trip departing Arndale at 8:15am had a timepoint at stop 17A O.G. Rd of 10:40. This has been changed to 10:35 as per LCB's request.
-
-4) Minor time adjustments for route 164 on Thursdays.
-
-5) Minor time adjustments for route AO31 for AFL Rounds 12, 13 and 14.
+3) Data has been implemented for a Tram closure haapening June 15-17. Line closed between South Tce and Glenelg. TRMSUB bus route to replace tram trips.
