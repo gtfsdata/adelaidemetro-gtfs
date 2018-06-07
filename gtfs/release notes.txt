@@ -12,8 +12,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Some time changes for Mondays for routes 625, 626, 627 and 629.
-
-2) Route 629 extended to Stop 4 Kensington Rd - previously only traveled to Stop 7 Kensington Rd.
-
-3) Data has been implemented for a Tram closure haapening June 15-17. Line closed between South Tce and Glenelg. TRMSUB bus route to replace tram trips.
+1) Stop coordinates have changed for Stop 25 Finniss St - North West side.

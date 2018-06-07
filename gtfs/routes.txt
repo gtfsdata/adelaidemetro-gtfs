@@ -492,7 +492,7 @@ C1X,7,C1X,Golden Grove Village Interchange and Paradise Interchange to City,"via
 C2,7,C2,Greenwith to City,"via Golden Grove Village Interchange & O-Bahn.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 G10,7,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
-G10A,7,G10A,Blair Athol to Daw Park,"Terminates at stop 18 Goodwood Road, Daw Park.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
+G10A,7,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10C,7,G10C,Marion Centre Interchange/Blair Athol to City,"Terminates at Stop VS6 Victoria Square or stop Y2 King William Street, City.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G20,7,G20,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G20,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
