@@ -6,10 +6,12 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-1) Queen's Birthday Holiday - 11 June
+None.
 
 
 General Amendments:
 
 
-1) Stop coordinates have changed for Stop 25 Finniss St - North West side.
+1) Stop D2 Currie St has been removed. Routes W90, W91, 167, 168, 271, 273 and 235 (when not through-linking) now service Stop D1 Currie St.
+
+2) Tram closure for 15-17 June has been cancelled and services have resumed as normal.
