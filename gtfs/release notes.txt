@@ -12,8 +12,4 @@ None.
 General Amendments:
 
 
-1) Stop coordinates have changed for Stop 26 Hampstead Rd (both sides).
-
-2) Added AO/AOX route data and additional train services for AFL matches, up to Round 22.
-
-3) Tram data for AFL Rounds 16 and 17 has been added.
+1) Seaford closure data implemented for July 13-14
