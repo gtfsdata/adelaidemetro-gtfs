@@ -12,4 +12,28 @@ None.
 General Amendments:
 
 
-1) Seaford closure data implemented for July 13-14
+1) Stop coordinates have changed for the following stops:
+
+- Stop 35A Grand Blvd (both sides)
+- Stop 152 Portrush Rd - West side
+- Stop 56B Windebanks Rd (both sides)
+- Stop School Alison Ave
+- Stop 30 Briens Rd
+- Stop 31 Briens Rd
+- Stop 29 Main Rd (Blackwood)
+- Stop 39 Main North Rd - West side
+- Stop 37 Main North Rd - East side
+- Stop 33A Main North Rd - West side
+- Stop 29C Marion Rd (both sides)
+- School stops on Fullarton Rd outside Urrbrae High School (these have also been renamed)
+- Stop 9A Churchill Rd - East side
+- Stop 11 Churchill Rd - East side
+- Stop 12 Churchill Rd - East side
+- Stop 17 Churchill Rd - East side
+- Stop 22 Churchill Rd - East side
+- Stop 23 Churchill Rd - West side
+- Stop 21 Churchill Rd - West side
+- Stop 20 Churchill Rd - West side
+
+
+2) Added some previously missing school stops on Oaklands Rd (north side) and Fairfield Rd (both sides).
