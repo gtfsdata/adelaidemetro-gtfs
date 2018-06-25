@@ -218,7 +218,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 613,51,613,Prince Alfred College to City,"School Service. Via Bartles Rd, East Tce & North Tce.",3,http://www.adelaidemetro.com.au/routes/613,0033CC,ffffff,
 616,51,616,City to Temple Christian College,"School Service. Via Grenfell St & Currie St.",3,http://www.adelaidemetro.com.au/routes/616,0033CC,ffffff,
 617,51,617,Temple Christian College to City,"School Service. Via Currie St",3,http://www.adelaidemetro.com.au/routes/617,0033CC,ffffff,
-619,51,619,Newton & Athlestone to Mary McKillop,"School Service.",3,http://www.adelaidemetro.com.au/routes/619,0033CC,ffffff,
+619,51,619,Newton to Mary McKillop,"School Service.",3,http://www.adelaidemetro.com.au/routes/619,0033CC,ffffff,
 622,51,622,Glen Osmond to Saint Ignatius College (Athelstone),"School Service. Via Glenunga, Toorak Gardens, Norwood, Glynde, Newton & Athelstone.",3,http://www.adelaidemetro.com.au/routes/622,0033CC,ffffff,
 623,51,623,Norwood to Saint Ignatius College (Athelstone),"School Service. Via Kensington, Glynde & Newton.",3,http://www.adelaidemetro.com.au/routes/623,0033CC,ffffff,
 624,51,624,Stepney to Saint Ignatius College (Athelstone),"School Service. Via St Peters, Payneham, Trinity Gardens, Kensington, Magill, Campbelltown & Paradise.",3,http://www.adelaidemetro.com.au/routes/624,0033CC,ffffff,
@@ -244,13 +244,13 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 651,51,651,Alberton to St Michael's Senior College,"School Service. Via Semaphore, West Lakes, Tennyson & Grange.",3,http://www.adelaidemetro.com.au/routes/651,0033CC,ffffff,
 652,51,652,Alberton to St Michael's Junior College,"School Service. Via Largs North, Largs Bay, Semaphore, West Lakes, Tennyson, Grange, Fulham Gardens, Kidman Park & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/652,0033CC,ffffff,
 653,51,653,Alberton to St Michael's Senior College & Nazareth,"School Service. Via Largs North, Taperoo, Osborne, North Haven, Taperoo, Largs Bay, Peterhead, Seaton, Henley Beach, Fulham Gardens, Findon & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/653,0033CC,ffffff,
-654,51,654,Henley Beach to Nazareth College & St Michael's Junior College,"School Service. Via West Beach, Fulham, Seaton, Findon & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/654,0033CC,ffffff,
+654,51,654,Henley Beach to St Michael's Junior College,"School Service. Via West Beach, Fulham, Seaton, Findon, Nazareth College and Flinders Park.",3,http://www.adelaidemetro.com.au/routes/654,0033CC,ffffff,
 655,51,655,St Michael's Junior College to Port Adelaide,"School Service. Via Flinders Park, Kidman Park, Henley Beach, Grange, Tennyson, West Lakes, Semaphore, Largs Bay, Largs North, Taperoo, North Haven, Outer Harbor & Osborne.",3,http://www.adelaidemetro.com.au/routes/655,0033CC,ffffff,
 656,51,656,St Michael's Junior College to Henley Beach South,"School Service. Via Flinders Park, Kidman Park, Fulham Gardens, Henley Beach & West Beach.",3,http://www.adelaidemetro.com.au/routes/656,0033CC,ffffff,
 657,51,657,St Michael's Senior College to Queenstown,"School Service. Via Grange, Tennyson & West Lakes.",3,http://www.adelaidemetro.com.au/routes/657,0033CC,ffffff,
 658,51,658,St Michael's Senior College to Largs Bay,"School Service. Via Grange, Tennyson, West Lakes & Semaphore.",3,http://www.adelaidemetro.com.au/routes/658,0033CC,ffffff,
 659,51,659,St Michael's Senior College to Birkenhead,"School Service. Via Largs Bay, Taperoo, North Haven, Outer Harbor, Osborne & Largs North.",3,http://www.adelaidemetro.com.au/routes/659,0033CC,ffffff,
-660,51,660,St Michael's Senior College to West Lakes Centre Interchange,"School Service. Via Grange & Seaton.",3,http://www.adelaidemetro.com.au/routes/660,0033CC,ffffff,
+660,51,660,St Michael's Senior College to West Lakes,"School Service. Via Grange & Seaton.",3,http://www.adelaidemetro.com.au/routes/660,0033CC,ffffff,
 661,51,661,Nazareth College to Delfin Island,"School Service. Via Flinders Park, Findon, Seaton, Royal Park & West Lakes.",3,http://www.adelaidemetro.com.au/routes/661,0033CC,ffffff,
 662,51,662,Nazareth College to Ethelton,"School Service. Via Flinders Park, Findon, Seaton, Tennyson, West Lakes & Semaphore.",3,http://www.adelaidemetro.com.au/routes/662,0033CC,ffffff,
 663,51,663,Nazareth College to Fulham,"School Service. Via Flinders Park, Fulham Gardens & Henley Beach.",3,http://www.adelaidemetro.com.au/routes/663,0033CC,ffffff,
@@ -551,7 +551,7 @@ N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson In
 N254,7,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,990000,ffffff,253-253X-254-254X-N254
 N262,7,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,990000,ffffff,262-262F-263-265-N262
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,0033CC,ffffff,H30-X30-N30
-N4,4,N4,Brighton to Adelaide,"Train substitute service. Operates on 13-14 July.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N4
+N4,4,N4,Brighton to Adelaide,"Train substitute service. Operates 13-14 July.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N4
 N502,7,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,FF8C0D,ffffff,500-501-502-502X-N502
 N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,FF8C0D,ffffff,541-541X-N541
 N542,7,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,FF8C0D,ffffff,542-542X-N542-N541
