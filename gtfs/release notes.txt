@@ -12,4 +12,16 @@ None.
 General Amendments:
 
 
-1) Removed outdated/expired trip data from the feed.
+1) From July 23, there will be some minor changes to the Seaford and Belair train lines. Please see www.adelaidemetro.com.au for more detailed information.
+
+2) Stop coordinates for various stops in the Lobethal area have been updated.
+
+3) Stop 15 South Rd - West side (Ridleyton/Croydon area) has changed coordinates.
+
+4) Have updated route paths of 251, 252, 253, 254 and N254 to reflect changes on South Rd.
+
+5) Stop 50 Ladywood Rd - West side has changed coordinates.
+
+6) Stop 68 Lovelock Dr (both sides) has been removed.
+
+7) Stop 67 Lovelock Dr (both sides) has changed coordinates.
