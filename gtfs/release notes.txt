@@ -11,7 +11,8 @@ None.
 
 General Amendments:
 
+1) Stop 27 Main South Rd - North West side is no longer serviced by routes T721 and T722.
 
-1) Trip data changes for AFL Round 17 (12 July).
+2) New tram timetables have been implemented from July 29, 2018. Due to the extension of our tram network, routes are now labeled as FESTVL, GLNELG and BTANIC. Please see www.adelaidemetro.com.au for more information.
 
-2) Coordinates have changed for Stops 24 and 28 Hampstead Rd - East side.
+3) Route 97A will be decommissioned from July 29 due to the tram extension opening.

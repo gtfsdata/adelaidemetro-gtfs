@@ -110,9 +110,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 288S,5,288S,City to Seaton,"Terminates at stop 28B Tapleys Hill Road, Seaton.",3,http://www.adelaidemetro.com.au/routes/288,0033CC,ffffff,286-287-288
 300,7,300,Suburban Connector,"via Regency Road, Burnside Village, Cross Road, Flinders University, Flinders Medical Centre, Marion Centre Interchange, Glenelg Interchange, Harbour Town, Henley Beach, Queen Elizabeth Hospital & Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 300C,7,300C,Suburban Connector,"Terminates Stop 165 Cross Road, Urrbrae.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300G,7,300G,Suburban Connector,"Terminates at Mosley Street, Glenelg.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300H,7,300H,Suburban Connector,"Terminates at Stop 161 Portrush Road, Glen Osmond.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300J,7,300J,Suburban Connector,"Terminates at Stop 132 OG Road, Klemzig.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300G,7,300G,Suburban Connector,"Terminates at Colley Tce, Glenelg.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300H,7,300H,Suburban Connector,"Terminates at Stop 19 Portrush Road, Glen Osmond.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300J,7,300J,Suburban Connector,"Terminates at Stop 17 O.G. Road, Klemzig.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 300M,7,300M,Suburban Connector,"Terminates at Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 300U,7,300U,Suburban Connector,"Terminates at Flinders University.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 320,7,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
@@ -178,7 +178,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 528,7,528,Northgate to City,"via Klemzig Station & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/528,FF8C0D,ffffff,206-208-528
 541,7,541,Golden Grove Interchange & Fairview Park to City,"via Hancock Road, Tea Tree Plaza & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/541,FF8C0D,ffffff,541-541X-N541
 541G,7,541G,City to Golden Grove Interchange,"via O-Bahn, Tea Tree Plaza, & Fairview Park.",3,http://www.adelaidemetro.com.au/routes/541G,FF8C0D,ffffff,541-541X-N541
-541X,7,541X,Golden GroveInterchange to City,"via Fairview Park, Hancock Rd, Tea Tree Plaza Interchange. Express between Tea Tree Plaza Interchange and City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/541X,FF8C0D,ffffff,541-541X-N541
+541X,7,541X,Golden Grove Interchange to City,"via Fairview Park, Hancock Rd, Tea Tree Plaza Interchange. Express between Tea Tree Plaza Interchange and City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/541X,FF8C0D,ffffff,541-541X-N541
 542,7,542,Fairview Park to Tea Tree Plaza Interchange,"via Tea Tree Gully. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/542,FF8C0D,ffffff,542-542X-N542
 542X,7,542X,Fairview Park to City,"via Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/542X,FF8C0D,ffffff,542-542X-N542
 543,7,543,Surrey Downs to Tea Tee Plaza Interchange,"via Grenfell Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/543,FF8C0D,ffffff,543-543X
@@ -295,8 +295,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 745,4,745,Seaford Circuit Anti-clockwise Loop,"via Moana & Noarlunga Downs. Seaford circuit anti-clockwise loop. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/745,FFCC00,000000,745-747
 745A,4,745A,Seaford Circuit Anti-clockwise Loop,"Seaford circuit anti-clockwise loop. Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/745,FFCC00,000000,745-747
 745C,4,745C,Colonnades Centre Interchange to Seaford Centre,"Terminates at Seaford Centre.",3,http://www.adelaidemetro.com.au/routes/745,FFCC00,000000,745-747
-747,4,747,Seaford Circuit Clockwise loop,"via Noarlunga Downs & Moana. Seaford circuit clockwise loop. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/747,FFCC00,000000,745-747
-747A,4,747A,Seaford Circuit Clockwise loop,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/747,FFCC00,000000,745-747
+747,4,747,Seaford Circuit Clockwise Loop,"via Noarlunga Downs & Moana. Seaford circuit clockwise loop. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/747,FFCC00,000000,745-747
+747A,4,747A,Seaford Circuit Clockwise Loop,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/747,FFCC00,000000,745-747
 747B,4,747B,Colonnades Centre Interchange to Seaford Rise,"Terminates at Seaford Rise.",3,http://www.adelaidemetro.com.au/routes/747,FFCC00,000000,745-747
 750,4,750,Sellicks Beach to Colonnades Centre Interchange,"via Old Coach. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/750,FFCC00,000000,741-750-750X-751-752-755-756
 750A,4,750A,Sellicks Beach to Noarlunga,"Terminates at Noarlunga Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/750A,FFCC00,000000,741-750-750X-751-752-755-756
@@ -485,12 +485,14 @@ B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Ro
 B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
 B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
+BTANIC,2,BTANIC,Botanic Gardens to Entertainment Centre,"via North Tce & Port Rd. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/BTANIC,ffa300,000000,GLNELG-BTANIC-FESTVL
 C1,7,C1,Elizabeth Interchange to City,"via Golden Grove Road, Tea Tree Plaza Interchange & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1G,7,C1G,City to Golden Grove Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C1X,7,C1X,Golden Grove Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2,7,C2,Greenwith to City,"via Golden Grove Interchange & O-Bahn.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
 C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,C1-C1T-C1X-C2-C2X-N1
+FESTVL,2,FESTVL,Glenelg to Festival Plaza,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St & King William Rd. Service operates weekends & Adelaide Oval special event days only.",0,http://www.adelaidemetro.com.au/routes/FESTVL,0072ce,ffffff,GLNELG-BTANIC-FESTVL
 G10,7,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10A,7,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
@@ -508,6 +510,7 @@ G40M,7,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
+GLNELG,2,GLNELG,Glenelg to Royal Adelaide Hospital,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St, North Tce & Port Rd. Limited peak trams service the Entertainment Centre. Service operates 7 days",0,http://www.adelaidemetro.com.au/routes/GLNELG,CB2C30,ffffff,GLNELG-BTANIC-FESTVL
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,0033CC,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H20,0033CC,ffffff,H20-H21-580
