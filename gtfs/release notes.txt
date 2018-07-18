@@ -11,6 +11,4 @@ None.
 
 General Amendments:
 
-1) Feed extended to 25 November (school holiday timetable for October will be set up after the July school holidays have finished).
-
-2) Brighton Rd cutbacks for late July - mid August have been set up for tram routes. Please see www.adelaidemetro.com.au/ for more detailed information.
+1) Implemented Pick Up / Set Down rules for H30, H30S and H33 routes. Between approx. 4pm and 6pm on weekdays these routes do not set down between Stop I1 North Tce and Stop 8A Portrush Rd when traveling away from the city. Stop 3 North Tce is also not serviced between this time on weekdays traveling away from the city.
