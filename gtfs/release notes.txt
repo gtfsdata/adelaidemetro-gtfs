@@ -12,4 +12,10 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Fixed issue with BTANIC tram route not displaying correctly on Mondays, Tuesdays, and Wednesdays throughout most of August.
+1) Due to signalling issues the tram extension on North Tce has been delayed. Please see www.adelaidemetro.com.au for further information.
+
+In our GTFS we have changed the new tram routes (GLNELG, BTANIC, FESTVL) to commence service from August 12, but this is not a confirmed date and may change in the coming weeks. The old "Tram" route will continue to be used until further notice.
+
+2) Implemented tram timetables for AFL Rounds 20 and 21.
+
+3) Route W90 and W91 no longer utilise Stop 6 Leader St as a timepoint stop when traveling South towards Marion Centre Interchange and St Marys. Slight time adjustments will be present in all relevant trips.
