@@ -12,14 +12,8 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Added AO/AOX bus route data for AFL Round 23.
+1) Have implemented shape updates for buses traveling near/at the intersection of South Rd and Port Rd.
 
-2) Stop coordinates have changed for the following bus stops:
+2) Stop coordinates have changed for Stop 9 Port Rd - South West side
 
-- Stop 27 Main South Rd (both sides)
-- Stop 26 Main South Rd (both sides)
-- Stop 25A Main South Rd - South East side
-- Stop 27 Sturt Rd - South side
-- Stop 31 Sturt Rd – south side
-- Stop 224 Woodville Rd – east side
-- Stop 23 South Rd – west side
+3) Implemented Sunday night closures for the Gawler Central train service. Please see www.adelaidemetro.com.au for further information.
