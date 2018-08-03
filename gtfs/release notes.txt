@@ -12,8 +12,8 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Have implemented shape updates for buses traveling near/at the intersection of South Rd and Port Rd.
+1) Stops 11 and 9 South Rd (both sides) have been removed.
 
-2) Stop coordinates have changed for Stop 9 Port Rd - South West side
+2) Cordinates for Stops 8 and 10 South Rd (both sides) have changed.
 
-3) Implemented Sunday night closures for the Gawler Central train service. Please see www.adelaidemetro.com.au for further information.
+3) Have updated shape data for routes B10 and B12 when they travel on South Rd.
