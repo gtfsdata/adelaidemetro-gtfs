@@ -12,8 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Stops 11 and 9 South Rd (both sides) have been removed.
-
-2) Cordinates for Stops 8 and 10 South Rd (both sides) have changed.
-
-3) Have updated shape data for routes B10 and B12 when they travel on South Rd.
+1) Added tram scheduled in for AFL Round 22 and 23 on August 19 and 24 respectively.
