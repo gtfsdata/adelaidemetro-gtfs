@@ -12,20 +12,6 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Minor improvements to shape data for the following routes:
+1) Minor improvements to shape data for routes entering and exiting Harbour Town.
 
-- 286
-- 286A
-- 287
-- 288
-- 288S
-- INDB
-- 652
-- 653
-- 654
-- 661
-- 662
-- 663
-- 664
-
-2) Changed calendar validity dates for trips affected by the Gawler Sunday night closures (also removed entries from calendar_dates.txt since they're no longer needed)
+2) Stop coordinates have changed for Stop B2 North Tce - North side
