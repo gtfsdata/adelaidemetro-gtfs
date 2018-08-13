@@ -12,6 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Minor improvements to shape data for routes entering and exiting Harbour Town.
-
-2) Stop coordinates have changed for Stop B2 North Tce - North side
+1) Updated shape data for 254X route.
