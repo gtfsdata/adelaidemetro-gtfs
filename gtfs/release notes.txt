@@ -12,4 +12,8 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Updated shape data for 254X route.
+1) Fixed an issue with 541 route where some stops along the route were not being serviced. Specifically trips traveling between Golden Grove Village and City.
+
+2) Some minor trip time adjustments for route M44.
+
+3) Brighton Rd cutbacks for the Tram have been extended to 31 August 2018.

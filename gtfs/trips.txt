@@ -9975,7 +9975,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 541,1,422616,City,,0,422616,13226,
 541,1,422617,Tea Tree Plaza,,0,422617,3256,
 541,1,422618,Fairview Park,,1,422618,3259,
-541,1,422619,City,,0,422619,13226,
+541,1,422619,City,,0,422619,13701,
 541,1,422620,Tea Tree Plaza,,0,422620,3256,
 541,1,422621,Fairview Park,,1,422621,3259,
 541,1,422622,City,,0,422622,13225,
@@ -20975,475 +20975,6 @@ Tram,3003,217548,Glenelg,,1,217548,7364,1
 Tram,3003,217549,Glenelg,,1,217549,7364,1
 Tram,3003,217550,Glenelg,,1,217550,7364,1
 Tram,3003,217551,Glenelg,,1,217551,7364,1
-Tram,2723,442027,Entertainment Centre,,0,442027,7365,1
-Tram,2723,442028,Entertainment Centre,,0,442028,7365,1
-Tram,2723,442029,Entertainment Centre,,0,442029,7365,1
-Tram,2723,442030,Entertainment Centre,,0,442030,7365,1
-Tram,2723,442031,Entertainment Centre,,0,442031,7365,1
-Tram,2723,442032,Entertainment Centre,,0,442032,7365,1
-Tram,2723,442033,Entertainment Centre,,0,442033,7365,1
-Tram,2723,442034,Entertainment Centre,,0,442034,7365,1
-Tram,2723,442035,Entertainment Centre,,0,442035,7365,1
-Tram,2723,442036,Entertainment Centre,,0,442036,7365,1
-Tram,2723,442037,Entertainment Centre,,0,442037,7365,1
-Tram,2723,442038,Entertainment Centre,,0,442038,7365,1
-Tram,2723,442039,Entertainment Centre,,0,442039,7365,1
-Tram,2723,442040,Entertainment Centre,,0,442040,7365,1
-Tram,2723,442041,Entertainment Centre,,0,442041,7365,1
-Tram,2723,442042,Entertainment Centre,,0,442042,7365,1
-Tram,2723,442043,Entertainment Centre,,0,442043,7365,1
-Tram,2723,442044,Entertainment Centre,,0,442044,7365,1
-Tram,2723,442045,Entertainment Centre,,0,442045,7365,1
-Tram,2723,442046,Entertainment Centre,,0,442046,7365,1
-Tram,2723,442047,Entertainment Centre,,0,442047,7365,1
-Tram,2723,442048,Entertainment Centre,,0,442048,7365,1
-Tram,2723,442049,Entertainment Centre,,0,442049,7365,1
-Tram,2723,442050,Entertainment Centre,,0,442050,7365,1
-Tram,2723,442051,Entertainment Centre,,0,442051,7365,1
-Tram,2723,442052,Entertainment Centre,,0,442052,7365,1
-Tram,2723,442053,Entertainment Centre,,0,442053,7365,1
-Tram,2723,442054,Entertainment Centre,,0,442054,7365,1
-Tram,2723,442055,Entertainment Centre,,0,442055,7365,1
-Tram,2723,442056,Entertainment Centre,,0,442056,7365,1
-Tram,2723,442057,Entertainment Centre,,0,442057,7365,1
-Tram,2723,442058,Entertainment Centre,,0,442058,7365,1
-Tram,2723,442059,Entertainment Centre,,0,442059,7365,1
-Tram,2723,442060,Entertainment Centre,,0,442060,7365,1
-Tram,2723,442061,Entertainment Centre,,0,442061,7365,1
-Tram,2723,442062,Entertainment Centre,,0,442062,7365,1
-Tram,2723,442063,Entertainment Centre,,0,442063,7365,1
-Tram,2723,442064,Entertainment Centre,,0,442064,7365,1
-Tram,2723,442065,Entertainment Centre,,0,442065,7365,1
-Tram,2723,442066,Entertainment Centre,,0,442066,7365,1
-Tram,2723,442067,Entertainment Centre,,0,442067,7365,1
-Tram,2723,442068,Entertainment Centre,,0,442068,7365,1
-Tram,2723,442069,Entertainment Centre,,0,442069,7365,1
-Tram,2723,442070,Entertainment Centre,,0,442070,7365,1
-Tram,2723,442071,Entertainment Centre,,0,442071,7365,1
-Tram,2723,442072,Entertainment Centre,,0,442072,7365,1
-Tram,2723,442073,Entertainment Centre,,0,442073,7365,1
-Tram,2723,442074,Entertainment Centre,,0,442074,7365,1
-Tram,2723,442075,Entertainment Centre,,0,442075,7365,1
-Tram,2723,442076,Entertainment Centre,,0,442076,8878,1
-Tram,2723,442077,Entertainment Centre,,0,442077,7365,1
-Tram,2723,442078,Entertainment Centre,,0,442078,7365,1
-Tram,2723,442079,Entertainment Centre,,0,442079,7365,1
-Tram,2723,442080,Entertainment Centre,,0,442080,7365,1
-Tram,2723,442081,Entertainment Centre,,0,442081,7365,1
-Tram,2723,442082,Entertainment Centre,,0,442082,7365,1
-Tram,2723,442083,Entertainment Centre,,0,442083,7365,1
-Tram,2723,442084,Entertainment Centre,,0,442084,7365,1
-Tram,2723,442085,Entertainment Centre,,0,442085,7365,1
-Tram,2723,442086,Entertainment Centre,,0,442086,7474,1
-Tram,2723,442087,Entertainment Centre,,0,442087,7474,1
-Tram,2723,442088,Entertainment Centre,,0,442088,7365,1
-Tram,2723,442089,Entertainment Centre,,0,442089,7474,1
-Tram,2723,442090,Entertainment Centre,,0,442090,7474,1
-Tram,2723,442091,Entertainment Centre,,0,442091,7365,1
-Tram,2723,442092,Entertainment Centre,,0,442092,7474,1
-Tram,2723,442093,Entertainment Centre,,0,442093,7474,1
-Tram,2723,442094,Entertainment Centre,,0,442094,7365,1
-Tram,2723,442095,Entertainment Centre,,0,442095,7474,1
-Tram,2723,442096,Entertainment Centre,,0,442096,7474,1
-Tram,2723,442097,Entertainment Centre,,0,442097,7365,1
-Tram,2723,442098,Entertainment Centre,,0,442098,7474,1
-Tram,2723,442099,Entertainment Centre,,0,442099,7474,1
-Tram,2723,442100,Entertainment Centre,,0,442100,7365,1
-Tram,2723,442101,Entertainment Centre,,0,442101,7365,1
-Tram,2723,442102,Entertainment Centre,,0,442102,7365,1
-Tram,2723,442103,Entertainment Centre,,0,442103,8637,1
-Tram,2723,442104,Entertainment Centre,,0,442104,8637,1
-Tram,2723,442105,Entertainment Centre,,0,442105,8637,1
-Tram,2723,442106,Entertainment Centre,,0,442106,8637,1
-Tram,2723,442107,Entertainment Centre,,0,442107,8637,1
-Tram,2723,442108,Entertainment Centre,,0,442108,8637,1
-Tram,2723,442109,Entertainment Centre,,0,442109,8637,1
-Tram,2723,442110,Entertainment Centre,,0,442110,8637,1
-Tram,2723,442111,Entertainment Centre,,0,442111,8637,1
-Tram,2723,442112,Entertainment Centre,,0,442112,8637,1
-Tram,2723,442113,Entertainment Centre,,0,442113,8637,1
-Tram,2723,442114,Entertainment Centre,,0,442114,8637,1
-Tram,2723,442115,Entertainment Centre,,0,442115,8637,1
-Tram,2723,442116,Glenelg,,1,442116,5229,1
-Tram,2723,442117,Glenelg,,1,442117,5229,1
-Tram,2723,442118,Glenelg,,1,442118,5229,1
-Tram,2723,442119,Glenelg,,1,442119,5229,1
-Tram,2723,442120,Glenelg,,1,442120,5229,1
-Tram,2723,442121,Glenelg,,1,442121,5229,1
-Tram,2723,442122,Glenelg,,1,442122,7364,1
-Tram,2723,442123,Glenelg,,1,442123,5229,1
-Tram,2723,442124,Glenelg,,1,442124,7364,1
-Tram,2723,442125,Glenelg,,1,442125,7364,1
-Tram,2723,442126,Glenelg,,1,442126,7364,1
-Tram,2723,442127,Glenelg,,1,442127,5229,1
-Tram,2723,442128,Glenelg,,1,442128,7364,1
-Tram,2723,442129,Glenelg,,1,442129,7364,1
-Tram,2723,442130,Glenelg,,1,442130,7364,1
-Tram,2723,442131,Glenelg,,1,442131,7364,1
-Tram,2723,442132,Glenelg,,1,442132,7364,1
-Tram,2723,442133,Glenelg,,1,442133,7364,1
-Tram,2723,442134,Glenelg,,1,442134,7364,1
-Tram,2723,442135,Glenelg,,1,442135,7364,1
-Tram,2723,442136,Glenelg,,1,442136,7364,1
-Tram,2723,442137,Glenelg,,1,442137,7364,1
-Tram,2723,442138,Glenelg,,1,442138,7364,1
-Tram,2723,442139,Glenelg,,1,442139,5229,1
-Tram,2723,442140,Glenelg,,1,442140,7364,1
-Tram,2723,442141,Glenelg,,1,442141,7364,1
-Tram,2723,442142,Glenelg,,1,442142,5229,1
-Tram,2723,442143,Glenelg,,1,442143,7364,1
-Tram,2723,442144,Glenelg,,1,442144,7364,1
-Tram,2723,442145,Glenelg,,1,442145,5229,1
-Tram,2723,442146,Glenelg,,1,442146,7364,1
-Tram,2723,442147,Glenelg,,1,442147,7364,1
-Tram,2723,442148,Glenelg,,1,442148,5229,1
-Tram,2723,442149,Glenelg,,1,442149,7364,1
-Tram,2723,442150,Glenelg,,1,442150,7364,1
-Tram,2723,442151,Glenelg,,1,442151,5229,1
-Tram,2723,442152,Glenelg,,1,442152,7364,1
-Tram,2723,442153,Glenelg,,1,442153,5229,1
-Tram,2723,442154,Glenelg,,1,442154,7364,1
-Tram,2723,442155,Glenelg,,1,442155,5229,1
-Tram,2723,442156,Glenelg,,1,442156,7364,1
-Tram,2723,442157,Glenelg,,1,442157,5229,1
-Tram,2723,442158,Glenelg,,1,442158,7364,1
-Tram,2723,442159,Glenelg,,1,442159,5229,1
-Tram,2723,442160,Glenelg,,1,442160,7364,1
-Tram,2723,442161,Glenelg,,1,442161,5229,1
-Tram,2723,442162,Glenelg,,1,442162,7364,1
-Tram,2723,442163,Glenelg,,1,442163,5229,1
-Tram,2723,442164,Glenelg,,1,442164,7364,1
-Tram,2723,442165,Glenelg,,1,442165,7364,1
-Tram,2723,442166,Glenelg,,1,442166,7364,1
-Tram,2723,442167,Glenelg,,1,442167,7364,1
-Tram,2723,442168,Glenelg,,1,442168,7364,1
-Tram,2723,442169,South Tce,,1,442169,7476,1
-Tram,2723,442170,South Tce,,1,442170,7476,1
-Tram,2723,442171,Glenelg,,1,442171,7364,1
-Tram,2723,442172,South Tce,,1,442172,7476,1
-Tram,2723,442173,South Tce,,1,442173,7476,1
-Tram,2723,442174,Glenelg,,1,442174,7364,1
-Tram,2723,442175,South Tce,,1,442175,7476,1
-Tram,2723,442176,South Tce,,1,442176,7476,1
-Tram,2723,442177,Glenelg,,1,442177,7364,1
-Tram,2723,442178,South Tce,,1,442178,7476,1
-Tram,2723,442179,South Tce,,1,442179,7476,1
-Tram,2723,442180,Glenelg,,1,442180,7364,1
-Tram,2723,442181,South Tce,,1,442181,7476,1
-Tram,2723,442182,South Tce,,1,442182,7476,1
-Tram,2723,442183,Glenelg,,1,442183,7364,1
-Tram,2723,442184,South Tce,,1,442184,7476,1
-Tram,2723,442185,Glenelg,,1,442185,7364,1
-Tram,2723,442186,Glenelg,,1,442186,7364,1
-Tram,2723,442187,Glenelg,,1,442187,7364,1
-Tram,2723,442188,Glenelg,,1,442188,7364,1
-Tram,2723,442189,Glenelg,,1,442189,7364,1
-Tram,2723,442190,Glenelg,,1,442190,7364,1
-Tram,2723,442191,Glenelg,,1,442191,7364,1
-Tram,2723,442192,Glenelg,,1,442192,7364,1
-Tram,2723,442193,Glenelg,,1,442193,7364,1
-Tram,2723,442194,Glenelg,,1,442194,7364,1
-Tram,2723,442195,Brighton Rd,,1,442195,10266,1
-Tram,2723,442196,Brighton Rd,,1,442196,10266,1
-Tram,2723,442197,Brighton Rd,,1,442197,10266,1
-Tram,2723,442198,Brighton Rd,,1,442198,10266,1
-Tram,2723,442199,Brighton Rd,,1,442199,10266,1
-Tram,2723,442200,Brighton Rd,,1,442200,10266,1
-Tram,2723,442201,Brighton Rd,,1,442201,10266,1
-Tram,2723,442202,Brighton Rd,,1,442202,10266,1
-Tram,2723,442203,Brighton Rd,,1,442203,10266,1
-Tram,2723,442204,Brighton Rd,,1,442204,10266,1
-Tram,2723,442205,Brighton Rd,,1,442205,10266,1
-Tram,2723,442206,Brighton Rd,,1,442206,10266,1
-Tram,2723,442207,Brighton Rd,,1,442207,10266,1
-Tram,2723,442208,Brighton Rd,,1,442208,10266,1
-Tram,2723,442209,Brighton Rd,,1,442209,10266,1
-Tram,2723,442210,Brighton Rd,,1,442210,10266,1
-Tram,2723,442211,Brighton Rd,,1,442211,10266,1
-Tram,2723,442212,Brighton Rd,,1,442212,10266,1
-Tram,2723,442213,Brighton Rd,,1,442213,10266,1
-Tram,2723,442214,Brighton Rd,,1,442214,10266,1
-Tram,2723,442215,Brighton Rd,,1,442215,10266,1
-Tram,2723,442216,Brighton Rd,,1,442216,10266,1
-Tram,2723,442217,Brighton Rd,,1,442217,10266,1
-Tram,2723,442218,Brighton Rd,,1,442218,10266,1
-Tram,2723,442219,Brighton Rd,,1,442219,10266,1
-Tram,2723,442220,Brighton Rd,,1,442220,10266,1
-Tram,2723,442221,Brighton Rd,,1,442221,10266,1
-Tram,2723,442222,Brighton Rd,,1,442222,10266,1
-Tram,2723,442223,Brighton Rd,,1,442223,10266,1
-Tram,2733,442224,Entertainment Centre,,0,442224,7474,1
-Tram,2733,442225,Entertainment Centre,,0,442225,7365,1
-Tram,2733,442226,Entertainment Centre,,0,442226,7365,1
-Tram,2733,442227,Entertainment Centre,,0,442227,7365,1
-Tram,2733,442228,Entertainment Centre,,0,442228,7365,1
-Tram,2733,442229,Entertainment Centre,,0,442229,7365,1
-Tram,2733,442230,Entertainment Centre,,0,442230,7365,1
-Tram,2733,442231,Entertainment Centre,,0,442231,7365,1
-Tram,2733,442232,Entertainment Centre,,0,442232,7365,1
-Tram,2733,442233,Entertainment Centre,,0,442233,7365,1
-Tram,2733,442234,Entertainment Centre,,0,442234,7365,1
-Tram,2733,442235,Entertainment Centre,,0,442235,7365,1
-Tram,2733,442236,Entertainment Centre,,0,442236,7365,1
-Tram,2733,442237,Entertainment Centre,,0,442237,7365,1
-Tram,2733,442238,Entertainment Centre,,0,442238,7365,1
-Tram,2733,442239,Entertainment Centre,,0,442239,7365,1
-Tram,2733,442240,Entertainment Centre,,0,442240,7365,1
-Tram,2733,442241,Entertainment Centre,,0,442241,7365,1
-Tram,2733,442242,Entertainment Centre,,0,442242,7365,1
-Tram,2733,442243,Entertainment Centre,,0,442243,7365,1
-Tram,2733,442244,Entertainment Centre,,0,442244,7365,1
-Tram,2733,442245,Entertainment Centre,,0,442245,7365,1
-Tram,2733,442246,Entertainment Centre,,0,442246,7365,1
-Tram,2733,442247,Entertainment Centre,,0,442247,7365,1
-Tram,2733,442248,Entertainment Centre,,0,442248,7365,1
-Tram,2733,442249,Entertainment Centre,,0,442249,7365,1
-Tram,2733,442250,Entertainment Centre,,0,442250,7365,1
-Tram,2733,442251,Entertainment Centre,,0,442251,7365,1
-Tram,2733,442252,Entertainment Centre,,0,442252,7365,1
-Tram,2733,442253,Entertainment Centre,,0,442253,7365,1
-Tram,2733,442254,Entertainment Centre,,0,442254,7365,1
-Tram,2733,442255,Entertainment Centre,,0,442255,7365,1
-Tram,2733,442256,Entertainment Centre,,0,442256,7365,1
-Tram,2733,442257,Entertainment Centre,,0,442257,7365,1
-Tram,2733,442258,Entertainment Centre,,0,442258,7365,1
-Tram,2733,442259,Entertainment Centre,,0,442259,7365,1
-Tram,2733,442260,Entertainment Centre,,0,442260,7365,1
-Tram,2733,442261,Entertainment Centre,,0,442261,7365,1
-Tram,2733,442262,Entertainment Centre,,0,442262,7365,1
-Tram,2733,442263,Entertainment Centre,,0,442263,7365,1
-Tram,2733,442264,Entertainment Centre,,0,442264,7365,1
-Tram,2733,442265,Entertainment Centre,,0,442265,7365,1
-Tram,2733,442266,Entertainment Centre,,0,442266,7365,1
-Tram,2733,442267,Entertainment Centre,,0,442267,7365,1
-Tram,2733,442268,Entertainment Centre,,0,442268,7365,1
-Tram,2733,442269,Entertainment Centre,,0,442269,7365,1
-Tram,2733,442270,Entertainment Centre,,0,442270,7365,1
-Tram,2733,442271,Entertainment Centre,,0,442271,7365,1
-Tram,2733,442272,Entertainment Centre,,0,442272,7365,1
-Tram,2733,442273,Entertainment Centre,,0,442273,7365,1
-Tram,2733,442274,Entertainment Centre,,0,442274,7365,1
-Tram,2733,442275,Entertainment Centre,,0,442275,7365,1
-Tram,2733,442276,Entertainment Centre,,0,442276,7365,1
-Tram,2733,442277,Entertainment Centre,,0,442277,7365,1
-Tram,2733,442278,Entertainment Centre,,0,442278,7365,1
-Tram,2733,442279,Entertainment Centre,,0,442279,7365,1
-Tram,2733,442280,Entertainment Centre,,0,442280,7365,1
-Tram,2733,442281,Entertainment Centre,,0,442281,7365,1
-Tram,2733,442282,Entertainment Centre,,0,442282,7365,1
-Tram,2733,442283,Entertainment Centre,,0,442283,7365,1
-Tram,2733,442284,Entertainment Centre,,0,442284,7365,1
-Tram,2733,442285,Entertainment Centre,,0,442285,7365,1
-Tram,2733,442286,Entertainment Centre,,0,442286,7365,1
-Tram,2733,442287,Entertainment Centre,,0,442287,7365,1
-Tram,2733,442288,Entertainment Centre,,0,442288,7365,1
-Tram,2733,442289,Entertainment Centre,,0,442289,7365,1
-Tram,2733,442290,Entertainment Centre,,0,442290,7365,1
-Tram,2733,442291,Entertainment Centre,,0,442291,7365,1
-Tram,2733,442292,Entertainment Centre,,0,442292,7474,1
-Tram,2733,442293,Entertainment Centre,,0,442293,7365,1
-Tram,2733,442294,Entertainment Centre,,0,442294,7474,1
-Tram,2733,442295,Entertainment Centre,,0,442295,7365,1
-Tram,2733,442296,Entertainment Centre,,0,442296,7474,1
-Tram,2733,442297,Entertainment Centre,,0,442297,7365,1
-Tram,2733,442298,Entertainment Centre,,0,442298,7474,1
-Tram,2733,442299,Entertainment Centre,,0,442299,7365,1
-Tram,2733,442300,Entertainment Centre,,0,442300,7474,1
-Tram,2733,442301,Entertainment Centre,,0,442301,7365,1
-Tram,2733,442302,Entertainment Centre,,0,442302,7474,1
-Tram,2733,442303,Entertainment Centre,,0,442303,7365,1
-Tram,2733,442304,Entertainment Centre,,0,442304,7365,1
-Tram,2733,442305,Entertainment Centre,,0,442305,7365,1
-Tram,2733,442306,Entertainment Centre,,0,442306,7365,1
-Tram,2733,442307,Entertainment Centre,,0,442307,7365,1
-Tram,2733,442308,Entertainment Centre,,0,442308,7365,1
-Tram,2733,442309,Entertainment Centre,,0,442309,7365,1
-Tram,2733,442310,Entertainment Centre,,0,442310,7365,1
-Tram,2733,442311,Entertainment Centre,,0,442311,7365,1
-Tram,2733,442312,Entertainment Centre,,0,442312,7365,1
-Tram,2733,442313,Entertainment Centre,,0,442313,7365,1
-Tram,2733,442314,Entertainment Centre,,0,442314,7365,1
-Tram,2733,442315,Entertainment Centre,,0,442315,7365,1
-Tram,2733,442316,Entertainment Centre,,0,442316,7365,1
-Tram,2733,442317,Entertainment Centre,,0,442317,7365,1
-Tram,2733,442318,Entertainment Centre,,0,442318,7365,1
-Tram,2733,442319,Entertainment Centre,,0,442319,7365,1
-Tram,2733,442320,Entertainment Centre,,0,442320,7365,1
-Tram,2733,442321,Entertainment Centre,,0,442321,7365,1
-Tram,2733,442322,Entertainment Centre,,0,442322,7365,1
-Tram,2733,442323,Entertainment Centre,,0,442323,7365,1
-Tram,2733,442324,Entertainment Centre,,0,442324,7365,1
-Tram,2733,442325,Entertainment Centre,,0,442325,7365,1
-Tram,2733,442326,Entertainment Centre,,0,442326,7365,1
-Tram,2733,442327,Entertainment Centre,,0,442327,7365,1
-Tram,2733,442328,Entertainment Centre,,0,442328,7365,1
-Tram,2733,442329,Entertainment Centre,,0,442329,7365,1
-Tram,2733,442330,Entertainment Centre,,0,442330,7365,1
-Tram,2733,442331,Entertainment Centre,,0,442331,7474,1
-Tram,2733,442332,Entertainment Centre,,0,442332,7474,1
-Tram,2733,442333,Entertainment Centre,,0,442333,8878,1
-Tram,2733,442334,Entertainment Centre,,0,442334,7365,1
-Tram,2733,442335,Entertainment Centre,,0,442335,7474,1
-Tram,2733,442336,Entertainment Centre,,0,442336,7474,1
-Tram,2733,442337,Entertainment Centre,,0,442337,7474,1
-Tram,2733,442338,Entertainment Centre,,0,442338,7365,1
-Tram,2733,442339,Entertainment Centre,,0,442339,7474,1
-Tram,2733,442340,Entertainment Centre,,0,442340,7474,1
-Tram,2733,442341,Entertainment Centre,,0,442341,7474,1
-Tram,2733,442342,Entertainment Centre,,0,442342,7365,1
-Tram,2733,442343,Entertainment Centre,,0,442343,7474,1
-Tram,2733,442344,Entertainment Centre,,0,442344,7474,1
-Tram,2733,442345,Entertainment Centre,,0,442345,7474,1
-Tram,2733,442346,Entertainment Centre,,0,442346,7365,1
-Tram,2733,442347,Entertainment Centre,,0,442347,7365,1
-Tram,2733,442348,Entertainment Centre,,0,442348,7365,1
-Tram,2733,442349,Entertainment Centre,,0,442349,7365,1
-Tram,2733,442350,Entertainment Centre,,0,442350,7365,1
-Tram,2733,442351,Glenelg,,1,442351,5229,1
-Tram,2733,442352,Glenelg,,1,442352,5229,1
-Tram,2733,442353,Glenelg,,1,442353,5229,1
-Tram,2733,442354,Glenelg,,1,442354,5229,1
-Tram,2733,442355,Glenelg,,1,442355,5229,1
-Tram,2733,442356,Glenelg,,1,442356,5229,1
-Tram,2733,442357,Glenelg,,1,442357,5229,1
-Tram,2733,442358,Glenelg,,1,442358,7364,1
-Tram,2733,442359,Glenelg,,1,442359,5229,1
-Tram,2733,442360,Glenelg,,1,442360,7364,1
-Tram,2733,442361,Glenelg,,1,442361,5229,1
-Tram,2733,442362,Glenelg,,1,442362,7364,1
-Tram,2733,442363,Glenelg,,1,442363,5229,1
-Tram,2733,442364,Glenelg,,1,442364,5229,1
-Tram,2733,442365,Glenelg,,1,442365,7364,1
-Tram,2733,442366,Glenelg,,1,442366,5229,1
-Tram,2733,442367,Glenelg,,1,442367,5229,1
-Tram,2733,442368,Glenelg,,1,442368,7364,1
-Tram,2733,442369,Glenelg,,1,442369,5229,1
-Tram,2733,442370,Glenelg,,1,442370,7364,1
-Tram,2733,442371,Glenelg,,1,442371,5229,1
-Tram,2733,442372,Glenelg,,1,442372,7364,1
-Tram,2733,442373,Glenelg,,1,442373,5229,1
-Tram,2733,442374,Glenelg,,1,442374,7364,1
-Tram,2733,442375,Glenelg,,1,442375,5229,1
-Tram,2733,442376,Glenelg,,1,442376,7364,1
-Tram,2733,442377,Glenelg,,1,442377,7364,1
-Tram,2733,442378,Glenelg,,1,442378,7364,1
-Tram,2733,442379,Glenelg,,1,442379,7364,1
-Tram,2733,442380,Glenelg,,1,442380,7364,1
-Tram,2733,442381,Glenelg,,1,442381,7364,1
-Tram,2733,442382,Glenelg,,1,442382,7364,1
-Tram,2733,442383,Glenelg,,1,442383,7364,1
-Tram,2733,442384,Glenelg,,1,442384,7364,1
-Tram,2733,442385,Glenelg,,1,442385,7364,1
-Tram,2733,442386,Glenelg,,1,442386,7364,1
-Tram,2733,442387,Glenelg,,1,442387,7364,1
-Tram,2733,442388,Glenelg,,1,442388,7364,1
-Tram,2733,442389,Glenelg,,1,442389,7364,1
-Tram,2733,442390,Glenelg,,1,442390,7364,1
-Tram,2733,442391,Glenelg,,1,442391,7364,1
-Tram,2733,442392,Glenelg,,1,442392,7364,1
-Tram,2733,442393,Glenelg,,1,442393,7364,1
-Tram,2733,442394,Glenelg,,1,442394,7364,1
-Tram,2733,442395,Glenelg,,1,442395,7364,1
-Tram,2733,442396,Glenelg,,1,442396,7364,1
-Tram,2733,442397,Glenelg,,1,442397,7364,1
-Tram,2733,442398,Glenelg,,1,442398,7364,1
-Tram,2733,442399,Glenelg,,1,442399,7364,1
-Tram,2733,442400,Glenelg,,1,442400,7364,1
-Tram,2733,442401,Glenelg,,1,442401,7364,1
-Tram,2733,442402,Glenelg,,1,442402,7364,1
-Tram,2733,442403,Glenelg,,1,442403,7364,1
-Tram,2733,442404,Glenelg,,1,442404,7364,1
-Tram,2733,442405,Glenelg,,1,442405,7364,1
-Tram,2733,442406,Glenelg,,1,442406,7364,1
-Tram,2733,442407,Glenelg,,1,442407,7364,1
-Tram,2733,442408,Glenelg,,1,442408,7364,1
-Tram,2733,442409,Glenelg,,1,442409,7364,1
-Tram,2733,442410,Glenelg,,1,442410,7364,1
-Tram,2733,442411,Glenelg,,1,442411,7364,1
-Tram,2733,442412,Glenelg,,1,442412,7364,1
-Tram,2733,442413,Glenelg,,1,442413,7364,1
-Tram,2733,442414,Glenelg,,1,442414,7364,1
-Tram,2733,442415,Glenelg,,1,442415,7364,1
-Tram,2733,442416,Glenelg,,1,442416,7364,1
-Tram,2733,442417,Glenelg,,1,442417,7364,1
-Tram,2733,442418,Glenelg,,1,442418,7364,1
-Tram,2733,442419,Glenelg,,1,442419,7364,1
-Tram,2733,442420,Glenelg,,1,442420,7364,1
-Tram,2733,442421,Glenelg,,1,442421,7364,1
-Tram,2733,442422,Glenelg,,1,442422,7364,1
-Tram,2733,442423,Glenelg,,1,442423,7364,1
-Tram,2733,442424,Glenelg,,1,442424,7364,1
-Tram,2733,442425,Glenelg,,1,442425,7364,1
-Tram,2733,442426,Glenelg,,1,442426,7364,1
-Tram,2733,442427,Glenelg,,1,442427,7364,1
-Tram,2733,442428,Glenelg,,1,442428,7364,1
-Tram,2733,442429,Glenelg,,1,442429,7364,1
-Tram,2733,442430,Glenelg,,1,442430,7364,1
-Tram,2733,442431,Glenelg,,1,442431,7364,1
-Tram,2733,442432,Glenelg,,1,442432,7364,1
-Tram,2733,442433,Glenelg,,1,442433,7364,1
-Tram,2733,442434,Glenelg,,1,442434,7364,1
-Tram,2733,442435,Glenelg,,1,442435,5229,1
-Tram,2733,442436,Glenelg,,1,442436,7364,1
-Tram,2733,442437,Glenelg,,1,442437,7364,1
-Tram,2733,442438,Glenelg,,1,442438,7364,1
-Tram,2733,442439,Glenelg,,1,442439,7364,1
-Tram,2733,442440,Glenelg,,1,442440,7364,1
-Tram,2733,442441,Glenelg,,1,442441,7364,1
-Tram,2733,442442,Glenelg,,1,442442,7364,1
-Tram,2733,442443,Glenelg,,1,442443,7364,1
-Tram,2733,442444,Glenelg,,1,442444,7364,1
-Tram,2733,442445,Glenelg,,1,442445,7364,1
-Tram,2733,442446,Glenelg,,1,442446,7364,1
-Tram,2733,442447,Glenelg,,1,442447,7364,1
-Tram,2733,442448,Glenelg,,1,442448,7364,1
-Tram,2733,442449,Glenelg,,1,442449,7364,1
-Tram,2733,442450,Glenelg,,1,442450,7364,1
-Tram,2733,442451,Glenelg,,1,442451,7364,1
-Tram,2733,442452,Glenelg,,1,442452,7364,1
-Tram,2733,442453,South Tce,,1,442453,7476,1
-Tram,2733,442454,Glenelg,,1,442454,7364,1
-Tram,2733,442455,South Tce,,1,442455,7476,1
-Tram,2733,442456,Glenelg,,1,442456,7364,1
-Tram,2733,442457,South Tce,,1,442457,7476,1
-Tram,2733,442458,South Tce,,1,442458,7476,1
-Tram,2733,442459,Glenelg,,1,442459,7364,1
-Tram,2733,442460,South Tce,,1,442460,7476,1
-Tram,2733,442461,South Tce,,1,442461,7476,1
-Tram,2733,442462,Glenelg,,1,442462,7364,1
-Tram,2733,442463,South Tce,,1,442463,7476,1
-Tram,2733,442464,South Tce,,1,442464,7476,1
-Tram,2733,442465,Glenelg,,1,442465,7364,1
-Tram,2733,442466,South Tce,,1,442466,7476,1
-Tram,2733,442467,Glenelg,,1,442467,7364,1
-Tram,2733,442468,Glenelg,,1,442468,7364,1
-Tram,2733,442469,Glenelg,,1,442469,7364,1
-Tram,2733,442470,Glenelg,,1,442470,7364,1
-Tram,2733,442471,Glenelg,,1,442471,7364,1
-Tram,2733,442472,Glenelg,,1,442472,7364,1
-Tram,2733,442473,Glenelg,,1,442473,7364,1
-Tram,2733,442474,Glenelg,,1,442474,7364,1
-Tram,2733,442475,Glenelg,,1,442475,7364,1
-Tram,2733,442476,Glenelg,,1,442476,7364,1
-Tram,2733,442477,Glenelg,,1,442477,7364,1
-Tram,2733,442478,Glenelg,,1,442478,7364,1
-Tram,2733,442479,Glenelg,,1,442479,7364,1
-Tram,2733,442480,Glenelg,,1,442480,7364,1
-Tram,2733,442481,Glenelg,,1,442481,7364,1
-Tram,2733,442482,Glenelg,,1,442482,7364,1
-Tram,2733,442483,Glenelg,,1,442483,7364,1
-Tram,2733,442484,Glenelg,,1,442484,7364,1
-Tram,2733,442485,Glenelg,,1,442485,7364,1
-Tram,2733,442486,Glenelg,,1,442486,7364,1
-Tram,2733,442487,Glenelg,,1,442487,7364,1
-Tram,2733,442488,Glenelg,,1,442488,7364,1
-Tram,2733,442489,Glenelg,,1,442489,7364,1
-Tram,2733,442490,Glenelg,,1,442490,7364,1
-Tram,2733,442491,Glenelg,,1,442491,7364,1
-Tram,2733,442492,Glenelg,,1,442492,7364,1
-Tram,2733,442493,Glenelg,,1,442493,7364,1
-Tram,2733,442494,Glenelg,,1,442494,7364,1
-Tram,2733,442495,Glenelg,,1,442495,7364,1
 Tram,8005,438126,Glenelg,,1,438126,7364,1
 Tram,8005,438127,Glenelg,,1,438127,7364,1
 Tram,8005,438128,Glenelg,,1,438128,7364,1
@@ -21713,6 +21244,611 @@ Tram,8006,438391,Glenelg,,1,438391,7364,1
 Tram,8006,438392,Glenelg,,1,438392,7364,1
 Tram,8006,438393,Glenelg,,1,438393,7364,1
 Tram,8006,438394,Glenelg,,1,438394,7364,1
+Tram,2723,442027,Entertainment Centre,,0,442027,7365,1
+Tram,2723,442028,Entertainment Centre,,0,442028,7365,1
+Tram,2723,442029,Entertainment Centre,,0,442029,7365,1
+Tram,2723,442030,Entertainment Centre,,0,442030,7365,1
+Tram,2723,442031,Entertainment Centre,,0,442031,7365,1
+Tram,2723,442032,Entertainment Centre,,0,442032,7365,1
+Tram,2723,442033,Entertainment Centre,,0,442033,7365,1
+Tram,2723,442034,Entertainment Centre,,0,442034,7365,1
+Tram,2723,442035,Entertainment Centre,,0,442035,7365,1
+Tram,2723,442036,Entertainment Centre,,0,442036,7365,1
+Tram,2723,442037,Entertainment Centre,,0,442037,7365,1
+Tram,2723,442038,Entertainment Centre,,0,442038,7365,1
+Tram,2723,442039,Entertainment Centre,,0,442039,7365,1
+Tram,2723,442040,Entertainment Centre,,0,442040,7365,1
+Tram,2723,442041,Entertainment Centre,,0,442041,7365,1
+Tram,2723,442042,Entertainment Centre,,0,442042,7365,1
+Tram,2723,442043,Entertainment Centre,,0,442043,7365,1
+Tram,2723,442044,Entertainment Centre,,0,442044,7365,1
+Tram,2723,442045,Entertainment Centre,,0,442045,7365,1
+Tram,2723,442046,Entertainment Centre,,0,442046,7365,1
+Tram,2723,442047,Entertainment Centre,,0,442047,7365,1
+Tram,2723,442048,Entertainment Centre,,0,442048,7365,1
+Tram,2723,442049,Entertainment Centre,,0,442049,7365,1
+Tram,2723,442050,Entertainment Centre,,0,442050,7365,1
+Tram,2723,442051,Entertainment Centre,,0,442051,7365,1
+Tram,2723,442052,Entertainment Centre,,0,442052,7365,1
+Tram,2723,442053,Entertainment Centre,,0,442053,7365,1
+Tram,2723,442054,Entertainment Centre,,0,442054,7365,1
+Tram,2723,442055,Entertainment Centre,,0,442055,7365,1
+Tram,2723,442056,Entertainment Centre,,0,442056,7365,1
+Tram,2723,442057,Entertainment Centre,,0,442057,7365,1
+Tram,2723,442058,Entertainment Centre,,0,442058,7365,1
+Tram,2723,442059,Entertainment Centre,,0,442059,7365,1
+Tram,2723,442060,Entertainment Centre,,0,442060,7365,1
+Tram,2723,442061,Entertainment Centre,,0,442061,7365,1
+Tram,2723,442062,Entertainment Centre,,0,442062,7365,1
+Tram,2723,442063,Entertainment Centre,,0,442063,7365,1
+Tram,2723,442064,Entertainment Centre,,0,442064,7365,1
+Tram,2723,442065,Entertainment Centre,,0,442065,7365,1
+Tram,2723,442066,Entertainment Centre,,0,442066,7365,1
+Tram,2723,442067,Entertainment Centre,,0,442067,7365,1
+Tram,2723,442068,Entertainment Centre,,0,442068,7365,1
+Tram,2723,442069,Entertainment Centre,,0,442069,7365,1
+Tram,2723,442070,Entertainment Centre,,0,442070,7365,1
+Tram,2723,442071,Entertainment Centre,,0,442071,7365,1
+Tram,2723,442072,Entertainment Centre,,0,442072,7365,1
+Tram,2723,442073,Entertainment Centre,,0,442073,7365,1
+Tram,2723,442074,Entertainment Centre,,0,442074,7365,1
+Tram,2723,442075,Entertainment Centre,,0,442075,7365,1
+Tram,2723,442076,Entertainment Centre,,0,442076,8878,1
+Tram,2723,442077,Entertainment Centre,,0,442077,7365,1
+Tram,2723,442078,Entertainment Centre,,0,442078,7365,1
+Tram,2723,442079,Entertainment Centre,,0,442079,7365,1
+Tram,2723,442080,Entertainment Centre,,0,442080,7365,1
+Tram,2723,442081,Entertainment Centre,,0,442081,7365,1
+Tram,2723,442082,Entertainment Centre,,0,442082,7365,1
+Tram,2723,442083,Entertainment Centre,,0,442083,7365,1
+Tram,2723,442084,Entertainment Centre,,0,442084,7365,1
+Tram,2723,442085,Entertainment Centre,,0,442085,7365,1
+Tram,2723,442086,Entertainment Centre,,0,442086,7474,1
+Tram,2723,442087,Entertainment Centre,,0,442087,7474,1
+Tram,2723,442088,Entertainment Centre,,0,442088,7365,1
+Tram,2723,442089,Entertainment Centre,,0,442089,7474,1
+Tram,2723,442090,Entertainment Centre,,0,442090,7474,1
+Tram,2723,442091,Entertainment Centre,,0,442091,7365,1
+Tram,2723,442092,Entertainment Centre,,0,442092,7474,1
+Tram,2723,442093,Entertainment Centre,,0,442093,7474,1
+Tram,2723,442094,Entertainment Centre,,0,442094,7365,1
+Tram,2723,442095,Entertainment Centre,,0,442095,7474,1
+Tram,2723,442096,Entertainment Centre,,0,442096,7474,1
+Tram,2723,442097,Entertainment Centre,,0,442097,7365,1
+Tram,2723,442098,Entertainment Centre,,0,442098,7474,1
+Tram,2723,442099,Entertainment Centre,,0,442099,7474,1
+Tram,2723,442100,Entertainment Centre,,0,442100,7365,1
+Tram,2723,442101,Entertainment Centre,,0,442101,7365,1
+Tram,2723,442102,Entertainment Centre,,0,442102,7365,1
+Tram,2723,442103,Entertainment Centre,,0,442103,8637,1
+Tram,2723,442104,Entertainment Centre,,0,442104,8637,1
+Tram,2723,442105,Entertainment Centre,,0,442105,8637,1
+Tram,2723,442106,Entertainment Centre,,0,442106,8637,1
+Tram,2723,442107,Entertainment Centre,,0,442107,8637,1
+Tram,2723,442108,Entertainment Centre,,0,442108,8637,1
+Tram,2723,442109,Entertainment Centre,,0,442109,8637,1
+Tram,2723,442110,Entertainment Centre,,0,442110,8637,1
+Tram,2723,442111,Entertainment Centre,,0,442111,8637,1
+Tram,2723,442112,Entertainment Centre,,0,442112,8637,1
+Tram,2723,442113,Entertainment Centre,,0,442113,8637,1
+Tram,2723,442114,Entertainment Centre,,0,442114,8637,1
+Tram,2723,442115,Entertainment Centre,,0,442115,8637,1
+Tram,2723,442116,Glenelg,,1,442116,5229,1
+Tram,2723,442117,Glenelg,,1,442117,5229,1
+Tram,2723,442118,Glenelg,,1,442118,5229,1
+Tram,2723,442119,Glenelg,,1,442119,5229,1
+Tram,2723,442120,Glenelg,,1,442120,5229,1
+Tram,2723,442121,Glenelg,,1,442121,5229,1
+Tram,2723,442122,Glenelg,,1,442122,7364,1
+Tram,2723,442123,Glenelg,,1,442123,5229,1
+Tram,2723,442124,Glenelg,,1,442124,7364,1
+Tram,2723,442125,Glenelg,,1,442125,7364,1
+Tram,2723,442126,Glenelg,,1,442126,7364,1
+Tram,2723,442127,Glenelg,,1,442127,5229,1
+Tram,2723,442128,Glenelg,,1,442128,7364,1
+Tram,2723,442129,Glenelg,,1,442129,7364,1
+Tram,2723,442130,Glenelg,,1,442130,7364,1
+Tram,2723,442131,Glenelg,,1,442131,7364,1
+Tram,2723,442132,Glenelg,,1,442132,7364,1
+Tram,2723,442133,Glenelg,,1,442133,7364,1
+Tram,2723,442134,Glenelg,,1,442134,7364,1
+Tram,2723,442135,Glenelg,,1,442135,7364,1
+Tram,2723,442136,Glenelg,,1,442136,7364,1
+Tram,2723,442137,Glenelg,,1,442137,7364,1
+Tram,2723,442138,Glenelg,,1,442138,7364,1
+Tram,2723,442139,Glenelg,,1,442139,5229,1
+Tram,2723,442140,Glenelg,,1,442140,7364,1
+Tram,2723,442141,Glenelg,,1,442141,7364,1
+Tram,2723,442142,Glenelg,,1,442142,5229,1
+Tram,2723,442143,Glenelg,,1,442143,7364,1
+Tram,2723,442144,Glenelg,,1,442144,7364,1
+Tram,2723,442145,Glenelg,,1,442145,5229,1
+Tram,2723,442146,Glenelg,,1,442146,7364,1
+Tram,2723,442147,Glenelg,,1,442147,7364,1
+Tram,2723,442148,Glenelg,,1,442148,5229,1
+Tram,2723,442149,Glenelg,,1,442149,7364,1
+Tram,2723,442150,Glenelg,,1,442150,7364,1
+Tram,2723,442151,Glenelg,,1,442151,5229,1
+Tram,2723,442152,Glenelg,,1,442152,7364,1
+Tram,2723,442153,Glenelg,,1,442153,5229,1
+Tram,2723,442154,Glenelg,,1,442154,7364,1
+Tram,2723,442155,Glenelg,,1,442155,5229,1
+Tram,2723,442156,Glenelg,,1,442156,7364,1
+Tram,2723,442157,Glenelg,,1,442157,5229,1
+Tram,2723,442158,Glenelg,,1,442158,7364,1
+Tram,2723,442159,Glenelg,,1,442159,5229,1
+Tram,2723,442160,Glenelg,,1,442160,7364,1
+Tram,2723,442161,Glenelg,,1,442161,5229,1
+Tram,2723,442162,Glenelg,,1,442162,7364,1
+Tram,2723,442163,Glenelg,,1,442163,5229,1
+Tram,2723,442164,Glenelg,,1,442164,7364,1
+Tram,2723,442165,Glenelg,,1,442165,7364,1
+Tram,2723,442166,Glenelg,,1,442166,7364,1
+Tram,2723,442167,Glenelg,,1,442167,7364,1
+Tram,2723,442168,Glenelg,,1,442168,7364,1
+Tram,2723,442169,South Tce,,1,442169,7476,1
+Tram,2723,442170,South Tce,,1,442170,7476,1
+Tram,2723,442171,Glenelg,,1,442171,7364,1
+Tram,2723,442172,South Tce,,1,442172,7476,1
+Tram,2723,442173,South Tce,,1,442173,7476,1
+Tram,2723,442174,Glenelg,,1,442174,7364,1
+Tram,2723,442175,South Tce,,1,442175,7476,1
+Tram,2723,442176,South Tce,,1,442176,7476,1
+Tram,2723,442177,Glenelg,,1,442177,7364,1
+Tram,2723,442178,South Tce,,1,442178,7476,1
+Tram,2723,442179,South Tce,,1,442179,7476,1
+Tram,2723,442180,Glenelg,,1,442180,7364,1
+Tram,2723,442181,South Tce,,1,442181,7476,1
+Tram,2723,442182,South Tce,,1,442182,7476,1
+Tram,2723,442183,Glenelg,,1,442183,7364,1
+Tram,2723,442184,South Tce,,1,442184,7476,1
+Tram,2723,442185,Glenelg,,1,442185,7364,1
+Tram,2723,442186,Glenelg,,1,442186,7364,1
+Tram,2723,442187,Glenelg,,1,442187,7364,1
+Tram,2723,442188,Glenelg,,1,442188,7364,1
+Tram,2723,442189,Glenelg,,1,442189,7364,1
+Tram,2723,442190,Glenelg,,1,442190,7364,1
+Tram,2723,442191,Glenelg,,1,442191,7364,1
+Tram,2723,442192,Glenelg,,1,442192,7364,1
+Tram,2723,442193,Glenelg,,1,442193,7364,1
+Tram,2723,442194,Glenelg,,1,442194,7364,1
+Tram,2723,442195,Brighton Rd,,1,442195,10266,1
+Tram,2723,442196,Brighton Rd,,1,442196,10266,1
+Tram,2723,442197,Brighton Rd,,1,442197,10266,1
+Tram,2723,442198,Brighton Rd,,1,442198,10266,1
+Tram,2723,442199,Brighton Rd,,1,442199,10266,1
+Tram,2723,442200,Brighton Rd,,1,442200,10266,1
+Tram,2723,442201,Brighton Rd,,1,442201,10266,1
+Tram,2723,442202,Brighton Rd,,1,442202,10266,1
+Tram,2723,442203,Brighton Rd,,1,442203,10266,1
+Tram,2723,442204,Brighton Rd,,1,442204,10266,1
+Tram,2723,442205,Brighton Rd,,1,442205,10266,1
+Tram,2723,442206,Brighton Rd,,1,442206,10266,1
+Tram,2723,442207,Brighton Rd,,1,442207,10266,1
+Tram,2723,442208,Brighton Rd,,1,442208,10266,1
+Tram,2723,442209,Brighton Rd,,1,442209,10266,1
+Tram,2723,442210,Brighton Rd,,1,442210,10266,1
+Tram,2723,442211,Brighton Rd,,1,442211,10266,1
+Tram,2723,442212,Brighton Rd,,1,442212,10266,1
+Tram,2723,442213,Brighton Rd,,1,442213,10266,1
+Tram,2723,442214,Brighton Rd,,1,442214,10266,1
+Tram,2723,442215,Brighton Rd,,1,442215,10266,1
+Tram,2723,442216,Brighton Rd,,1,442216,10266,1
+Tram,2723,442217,Brighton Rd,,1,442217,10266,1
+Tram,2723,442218,Brighton Rd,,1,442218,10266,1
+Tram,2723,442219,Brighton Rd,,1,442219,10266,1
+Tram,2723,442220,Brighton Rd,,1,442220,10266,1
+Tram,2723,442221,Brighton Rd,,1,442221,10266,1
+Tram,2723,442222,Brighton Rd,,1,442222,10266,1
+Tram,2723,442223,Brighton Rd,,1,442223,10266,1
+Tram,8003,442496,Entertainment Centre,,0,442496,7365,1
+Tram,8003,442497,Entertainment Centre,,0,442497,7365,1
+Tram,8003,442498,Entertainment Centre,,0,442498,7365,1
+Tram,8003,442499,Entertainment Centre,,0,442499,7365,1
+Tram,8003,442500,Entertainment Centre,,0,442500,7365,1
+Tram,8003,442501,Entertainment Centre,,0,442501,7365,1
+Tram,8003,442502,Entertainment Centre,,0,442502,7365,1
+Tram,8003,442503,Entertainment Centre,,0,442503,7365,1
+Tram,8003,442504,Entertainment Centre,,0,442504,7365,1
+Tram,8003,442505,Entertainment Centre,,0,442505,7365,1
+Tram,8003,442506,Entertainment Centre,,0,442506,7365,1
+Tram,8003,442507,Entertainment Centre,,0,442507,7365,1
+Tram,8003,442508,Entertainment Centre,,0,442508,7365,1
+Tram,8003,442509,Entertainment Centre,,0,442509,7365,1
+Tram,8003,442510,Entertainment Centre,,0,442510,7365,1
+Tram,8003,442511,Entertainment Centre,,0,442511,7365,1
+Tram,8003,442512,Entertainment Centre,,0,442512,7365,1
+Tram,8003,442513,Entertainment Centre,,0,442513,7365,1
+Tram,8003,442514,Entertainment Centre,,0,442514,7365,1
+Tram,8003,442515,Entertainment Centre,,0,442515,7365,1
+Tram,8003,442516,Entertainment Centre,,0,442516,7365,1
+Tram,8003,442517,Entertainment Centre,,0,442517,7365,1
+Tram,8003,442518,Entertainment Centre,,0,442518,7365,1
+Tram,8003,442519,Entertainment Centre,,0,442519,7365,1
+Tram,8003,442520,Entertainment Centre,,0,442520,7365,1
+Tram,8003,442521,Entertainment Centre,,0,442521,7365,1
+Tram,8003,442522,Entertainment Centre,,0,442522,7365,1
+Tram,8003,442523,Entertainment Centre,,0,442523,7365,1
+Tram,8003,442524,Entertainment Centre,,0,442524,7365,1
+Tram,8003,442525,Entertainment Centre,,0,442525,7365,1
+Tram,8003,442526,Entertainment Centre,,0,442526,7365,1
+Tram,8003,442527,Entertainment Centre,,0,442527,7365,1
+Tram,8003,442528,Entertainment Centre,,0,442528,7365,1
+Tram,8003,442529,Entertainment Centre,,0,442529,7365,1
+Tram,8003,442530,Entertainment Centre,,0,442530,7365,1
+Tram,8003,442531,Entertainment Centre,,0,442531,7365,1
+Tram,8003,442532,Entertainment Centre,,0,442532,7365,1
+Tram,8003,442533,Entertainment Centre,,0,442533,7365,1
+Tram,8003,442534,Entertainment Centre,,0,442534,7365,1
+Tram,8003,442535,Entertainment Centre,,0,442535,7365,1
+Tram,8003,442536,Entertainment Centre,,0,442536,7365,1
+Tram,8003,442537,Entertainment Centre,,0,442537,7365,1
+Tram,8003,442538,Entertainment Centre,,0,442538,7365,1
+Tram,8003,442539,Entertainment Centre,,0,442539,7365,1
+Tram,8003,442540,Entertainment Centre,,0,442540,7365,1
+Tram,8003,442541,Entertainment Centre,,0,442541,7365,1
+Tram,8003,442542,Entertainment Centre,,0,442542,7365,1
+Tram,8003,442543,Entertainment Centre,,0,442543,7365,1
+Tram,8003,442544,Entertainment Centre,,0,442544,7365,1
+Tram,8003,442545,Entertainment Centre,,0,442545,7365,1
+Tram,8003,442546,Entertainment Centre,,0,442546,7365,1
+Tram,8003,442547,Entertainment Centre,,0,442547,8637,1
+Tram,8003,442548,Entertainment Centre,,0,442548,8637,1
+Tram,8003,442549,Entertainment Centre,,0,442549,8637,1
+Tram,8003,442550,Entertainment Centre,,0,442550,8637,1
+Tram,8003,442551,Entertainment Centre,,0,442551,8637,1
+Tram,8003,442552,Entertainment Centre,,0,442552,8637,1
+Tram,8003,442553,Entertainment Centre,,0,442553,8637,1
+Tram,8003,442554,Entertainment Centre,,0,442554,8637,1
+Tram,8003,442555,Entertainment Centre,,0,442555,8637,1
+Tram,8003,442556,Entertainment Centre,,0,442556,8637,1
+Tram,8003,442557,Entertainment Centre,,0,442557,8637,1
+Tram,8003,442558,Entertainment Centre,,0,442558,8637,1
+Tram,8003,442559,Entertainment Centre,,0,442559,8637,1
+Tram,8003,442560,Glenelg,,1,442560,5229,1
+Tram,8003,442561,Glenelg,,1,442561,5229,1
+Tram,8003,442562,Glenelg,,1,442562,5229,1
+Tram,8003,442563,Glenelg,,1,442563,5229,1
+Tram,8003,442564,Glenelg,,1,442564,5229,1
+Tram,8003,442565,Glenelg,,1,442565,5229,1
+Tram,8003,442566,Glenelg,,1,442566,7364,1
+Tram,8003,442567,Glenelg,,1,442567,5229,1
+Tram,8003,442568,Glenelg,,1,442568,7364,1
+Tram,8003,442569,Glenelg,,1,442569,7364,1
+Tram,8003,442570,Glenelg,,1,442570,7364,1
+Tram,8003,442571,Glenelg,,1,442571,5229,1
+Tram,8003,442572,Glenelg,,1,442572,7364,1
+Tram,8003,442573,Glenelg,,1,442573,7364,1
+Tram,8003,442574,Glenelg,,1,442574,7364,1
+Tram,8003,442575,Glenelg,,1,442575,7364,1
+Tram,8003,442576,Glenelg,,1,442576,7364,1
+Tram,8003,442577,Glenelg,,1,442577,7364,1
+Tram,8003,442578,Glenelg,,1,442578,7364,1
+Tram,8003,442579,Glenelg,,1,442579,7364,1
+Tram,8003,442580,Glenelg,,1,442580,7364,1
+Tram,8003,442581,Glenelg,,1,442581,7364,1
+Tram,8003,442582,Glenelg,,1,442582,7364,1
+Tram,8003,442583,Glenelg,,1,442583,7364,1
+Tram,8003,442584,Glenelg,,1,442584,7364,1
+Tram,8003,442585,Glenelg,,1,442585,7364,1
+Tram,8003,442586,Glenelg,,1,442586,7364,1
+Tram,8003,442587,Glenelg,,1,442587,7364,1
+Tram,8003,442588,Glenelg,,1,442588,7364,1
+Tram,8003,442589,Glenelg,,1,442589,7364,1
+Tram,8003,442590,Glenelg,,1,442590,7364,1
+Tram,8003,442591,Glenelg,,1,442591,7364,1
+Tram,8003,442592,Glenelg,,1,442592,7364,1
+Tram,8003,442593,Glenelg,,1,442593,7364,1
+Tram,8003,442594,Glenelg,,1,442594,7364,1
+Tram,8003,442595,Glenelg,,1,442595,7364,1
+Tram,8003,442596,Glenelg,,1,442596,7364,1
+Tram,8003,442597,Glenelg,,1,442597,7364,1
+Tram,8003,442598,Glenelg,,1,442598,7364,1
+Tram,8003,442599,Glenelg,,1,442599,7364,1
+Tram,8003,442600,Glenelg,,1,442600,7364,1
+Tram,8003,442601,Glenelg,,1,442601,7364,1
+Tram,8003,442602,Glenelg,,1,442602,7364,1
+Tram,8003,442603,Glenelg,,1,442603,7364,1
+Tram,8003,442604,Glenelg,,1,442604,7364,1
+Tram,8003,442605,Glenelg,,1,442605,7364,1
+Tram,8003,442606,Glenelg,,1,442606,7364,1
+Tram,8003,442607,Glenelg,,1,442607,7364,1
+Tram,8003,442608,Glenelg,,1,442608,7364,1
+Tram,8003,442609,Glenelg,,1,442609,7364,1
+Tram,8003,442610,Glenelg,,1,442610,7364,1
+Tram,8003,442611,Brighton Rd,,1,442611,10266,1
+Tram,8003,442612,Brighton Rd,,1,442612,10266,1
+Tram,8003,442613,Brighton Rd,,1,442613,10266,1
+Tram,8003,442614,Brighton Rd,,1,442614,10266,1
+Tram,8003,442615,Brighton Rd,,1,442615,10266,1
+Tram,8003,442616,Brighton Rd,,1,442616,10266,1
+Tram,8003,442617,Brighton Rd,,1,442617,10266,1
+Tram,8003,442618,Brighton Rd,,1,442618,10266,1
+Tram,8003,442619,Brighton Rd,,1,442619,10266,1
+Tram,8003,442620,Brighton Rd,,1,442620,10266,1
+Tram,8003,442621,Brighton Rd,,1,442621,10266,1
+Tram,8003,442622,Brighton Rd,,1,442622,10266,1
+Tram,8003,442623,Brighton Rd,,1,442623,10266,1
+Tram,8003,442624,Brighton Rd,,1,442624,10266,1
+Tram,8003,442625,Brighton Rd,,1,442625,10266,1
+Tram,8003,442626,Brighton Rd,,1,442626,10266,1
+Tram,8003,442627,Brighton Rd,,1,442627,10266,1
+Tram,8003,442628,Brighton Rd,,1,442628,10266,1
+Tram,8003,442629,Brighton Rd,,1,442629,10266,1
+Tram,8003,442630,Brighton Rd,,1,442630,10266,1
+Tram,8003,442631,Brighton Rd,,1,442631,10266,1
+Tram,2733,442632,Entertainment Centre,,0,442632,7474,1
+Tram,2733,442633,Entertainment Centre,,0,442633,8637,1
+Tram,2733,442634,Entertainment Centre,,0,442634,8637,1
+Tram,2733,442635,Entertainment Centre,,0,442635,8637,1
+Tram,2733,442636,Entertainment Centre,,0,442636,8637,1
+Tram,2733,442637,Entertainment Centre,,0,442637,7365,1
+Tram,2733,442638,Entertainment Centre,,0,442638,7365,1
+Tram,2733,442639,Entertainment Centre,,0,442639,7365,1
+Tram,2733,442640,Entertainment Centre,,0,442640,7365,1
+Tram,2733,442641,Entertainment Centre,,0,442641,7365,1
+Tram,2733,442642,Entertainment Centre,,0,442642,7365,1
+Tram,2733,442643,Entertainment Centre,,0,442643,7365,1
+Tram,2733,442644,Entertainment Centre,,0,442644,7365,1
+Tram,2733,442645,Entertainment Centre,,0,442645,7365,1
+Tram,2733,442646,Entertainment Centre,,0,442646,7365,1
+Tram,2733,442647,Entertainment Centre,,0,442647,7365,1
+Tram,2733,442648,Entertainment Centre,,0,442648,7365,1
+Tram,2733,442649,Entertainment Centre,,0,442649,7365,1
+Tram,2733,442650,Entertainment Centre,,0,442650,7365,1
+Tram,2733,442651,Entertainment Centre,,0,442651,7365,1
+Tram,2733,442652,Entertainment Centre,,0,442652,7365,1
+Tram,2733,442653,Entertainment Centre,,0,442653,7365,1
+Tram,2733,442654,Entertainment Centre,,0,442654,7365,1
+Tram,2733,442655,Entertainment Centre,,0,442655,7365,1
+Tram,2733,442656,Entertainment Centre,,0,442656,7365,1
+Tram,2733,442657,Entertainment Centre,,0,442657,7365,1
+Tram,2733,442658,Entertainment Centre,,0,442658,7365,1
+Tram,2733,442659,Entertainment Centre,,0,442659,7365,1
+Tram,2733,442660,Entertainment Centre,,0,442660,7365,1
+Tram,2733,442661,Entertainment Centre,,0,442661,7365,1
+Tram,2733,442662,Entertainment Centre,,0,442662,7365,1
+Tram,2733,442663,Entertainment Centre,,0,442663,7365,1
+Tram,2733,442664,Entertainment Centre,,0,442664,7365,1
+Tram,2733,442665,Entertainment Centre,,0,442665,7365,1
+Tram,2733,442666,Entertainment Centre,,0,442666,7365,1
+Tram,2733,442667,Entertainment Centre,,0,442667,7365,1
+Tram,2733,442668,Entertainment Centre,,0,442668,7365,1
+Tram,2733,442669,Entertainment Centre,,0,442669,7365,1
+Tram,2733,442670,Entertainment Centre,,0,442670,7365,1
+Tram,2733,442671,Entertainment Centre,,0,442671,7365,1
+Tram,2733,442672,Entertainment Centre,,0,442672,7365,1
+Tram,2733,442673,Entertainment Centre,,0,442673,7365,1
+Tram,2733,442674,Entertainment Centre,,0,442674,7365,1
+Tram,2733,442675,Entertainment Centre,,0,442675,7365,1
+Tram,2733,442676,Entertainment Centre,,0,442676,7365,1
+Tram,2733,442677,Entertainment Centre,,0,442677,7365,1
+Tram,2733,442678,Entertainment Centre,,0,442678,7365,1
+Tram,2733,442679,Entertainment Centre,,0,442679,7365,1
+Tram,2733,442680,Entertainment Centre,,0,442680,7365,1
+Tram,2733,442681,Entertainment Centre,,0,442681,7365,1
+Tram,2733,442682,Entertainment Centre,,0,442682,7365,1
+Tram,2733,442683,Entertainment Centre,,0,442683,7365,1
+Tram,2733,442684,Entertainment Centre,,0,442684,7365,1
+Tram,2733,442685,Entertainment Centre,,0,442685,7365,1
+Tram,2733,442686,Entertainment Centre,,0,442686,7365,1
+Tram,2733,442687,Entertainment Centre,,0,442687,7365,1
+Tram,2733,442688,Entertainment Centre,,0,442688,7365,1
+Tram,2733,442689,Entertainment Centre,,0,442689,7365,1
+Tram,2733,442690,Entertainment Centre,,0,442690,7365,1
+Tram,2733,442691,Entertainment Centre,,0,442691,7365,1
+Tram,2733,442692,Entertainment Centre,,0,442692,7365,1
+Tram,2733,442693,Entertainment Centre,,0,442693,7365,1
+Tram,2733,442694,Entertainment Centre,,0,442694,7365,1
+Tram,2733,442695,Entertainment Centre,,0,442695,7365,1
+Tram,2733,442696,Entertainment Centre,,0,442696,7365,1
+Tram,2733,442697,Entertainment Centre,,0,442697,7365,1
+Tram,2733,442698,Entertainment Centre,,0,442698,7365,1
+Tram,2733,442699,Entertainment Centre,,0,442699,7365,1
+Tram,2733,442700,Entertainment Centre,,0,442700,7474,1
+Tram,2733,442701,Entertainment Centre,,0,442701,7365,1
+Tram,2733,442702,Entertainment Centre,,0,442702,7474,1
+Tram,2733,442703,Entertainment Centre,,0,442703,7365,1
+Tram,2733,442704,Entertainment Centre,,0,442704,7474,1
+Tram,2733,442705,Entertainment Centre,,0,442705,7365,1
+Tram,2733,442706,Entertainment Centre,,0,442706,7474,1
+Tram,2733,442707,Entertainment Centre,,0,442707,7365,1
+Tram,2733,442708,Entertainment Centre,,0,442708,7474,1
+Tram,2733,442709,Entertainment Centre,,0,442709,7365,1
+Tram,2733,442710,Entertainment Centre,,0,442710,7474,1
+Tram,2733,442711,Entertainment Centre,,0,442711,7365,1
+Tram,2733,442712,Entertainment Centre,,0,442712,7365,1
+Tram,2733,442713,Entertainment Centre,,0,442713,7365,1
+Tram,2733,442714,Entertainment Centre,,0,442714,7365,1
+Tram,2733,442715,Entertainment Centre,,0,442715,7365,1
+Tram,2733,442716,Entertainment Centre,,0,442716,7365,1
+Tram,2733,442717,Entertainment Centre,,0,442717,7365,1
+Tram,2733,442718,Entertainment Centre,,0,442718,7365,1
+Tram,2733,442719,Entertainment Centre,,0,442719,7365,1
+Tram,2733,442720,Entertainment Centre,,0,442720,7365,1
+Tram,2733,442721,Entertainment Centre,,0,442721,7365,1
+Tram,2733,442722,Entertainment Centre,,0,442722,7365,1
+Tram,2733,442723,Entertainment Centre,,0,442723,7365,1
+Tram,2733,442724,Entertainment Centre,,0,442724,7365,1
+Tram,2733,442725,Entertainment Centre,,0,442725,7365,1
+Tram,2733,442726,Entertainment Centre,,0,442726,7365,1
+Tram,2733,442727,Entertainment Centre,,0,442727,7365,1
+Tram,2733,442728,Entertainment Centre,,0,442728,7365,1
+Tram,2733,442729,Entertainment Centre,,0,442729,7365,1
+Tram,2733,442730,Entertainment Centre,,0,442730,7365,1
+Tram,2733,442731,Entertainment Centre,,0,442731,7365,1
+Tram,2733,442732,Entertainment Centre,,0,442732,7365,1
+Tram,2733,442733,Entertainment Centre,,0,442733,7365,1
+Tram,2733,442734,Entertainment Centre,,0,442734,7365,1
+Tram,2733,442735,Entertainment Centre,,0,442735,7365,1
+Tram,2733,442736,Entertainment Centre,,0,442736,7365,1
+Tram,2733,442737,Entertainment Centre,,0,442737,7365,1
+Tram,2733,442738,Entertainment Centre,,0,442738,7365,1
+Tram,2733,442739,Entertainment Centre,,0,442739,7474,1
+Tram,2733,442740,Entertainment Centre,,0,442740,7474,1
+Tram,2733,442741,Entertainment Centre,,0,442741,8878,1
+Tram,2733,442742,Entertainment Centre,,0,442742,7365,1
+Tram,2733,442743,Entertainment Centre,,0,442743,7474,1
+Tram,2733,442744,Entertainment Centre,,0,442744,7474,1
+Tram,2733,442745,Entertainment Centre,,0,442745,7474,1
+Tram,2733,442746,Entertainment Centre,,0,442746,7365,1
+Tram,2733,442747,Entertainment Centre,,0,442747,7474,1
+Tram,2733,442748,Entertainment Centre,,0,442748,7474,1
+Tram,2733,442749,Entertainment Centre,,0,442749,7474,1
+Tram,2733,442750,Entertainment Centre,,0,442750,7365,1
+Tram,2733,442751,Entertainment Centre,,0,442751,7474,1
+Tram,2733,442752,Entertainment Centre,,0,442752,7474,1
+Tram,2733,442753,Entertainment Centre,,0,442753,7474,1
+Tram,2733,442754,Entertainment Centre,,0,442754,7365,1
+Tram,2733,442755,Entertainment Centre,,0,442755,7365,1
+Tram,2733,442756,Entertainment Centre,,0,442756,7365,1
+Tram,2733,442757,Entertainment Centre,,0,442757,7365,1
+Tram,2733,442758,Entertainment Centre,,0,442758,7365,1
+Tram,2733,442759,Brighton Rd,,1,442759,11424,1
+Tram,2733,442760,Brighton Rd,,1,442760,11424,1
+Tram,2733,442761,Brighton Rd,,1,442761,11424,1
+Tram,2733,442762,Brighton Rd,,1,442762,11424,1
+Tram,2733,442763,Glenelg,,1,442763,5229,1
+Tram,2733,442764,Glenelg,,1,442764,5229,1
+Tram,2733,442765,Glenelg,,1,442765,5229,1
+Tram,2733,442766,Glenelg,,1,442766,7364,1
+Tram,2733,442767,Glenelg,,1,442767,5229,1
+Tram,2733,442768,Glenelg,,1,442768,7364,1
+Tram,2733,442769,Glenelg,,1,442769,5229,1
+Tram,2733,442770,Glenelg,,1,442770,7364,1
+Tram,2733,442771,Glenelg,,1,442771,5229,1
+Tram,2733,442772,Glenelg,,1,442772,5229,1
+Tram,2733,442773,Glenelg,,1,442773,7364,1
+Tram,2733,442774,Glenelg,,1,442774,5229,1
+Tram,2733,442775,Glenelg,,1,442775,5229,1
+Tram,2733,442776,Glenelg,,1,442776,7364,1
+Tram,2733,442777,Glenelg,,1,442777,5229,1
+Tram,2733,442778,Glenelg,,1,442778,7364,1
+Tram,2733,442779,Glenelg,,1,442779,5229,1
+Tram,2733,442780,Glenelg,,1,442780,7364,1
+Tram,2733,442781,Glenelg,,1,442781,5229,1
+Tram,2733,442782,Glenelg,,1,442782,7364,1
+Tram,2733,442783,Glenelg,,1,442783,5229,1
+Tram,2733,442784,Glenelg,,1,442784,7364,1
+Tram,2733,442785,Glenelg,,1,442785,7364,1
+Tram,2733,442786,Glenelg,,1,442786,7364,1
+Tram,2733,442787,Glenelg,,1,442787,7364,1
+Tram,2733,442788,Glenelg,,1,442788,7364,1
+Tram,2733,442789,Glenelg,,1,442789,7364,1
+Tram,2733,442790,Glenelg,,1,442790,7364,1
+Tram,2733,442791,Glenelg,,1,442791,7364,1
+Tram,2733,442792,Glenelg,,1,442792,7364,1
+Tram,2733,442793,Glenelg,,1,442793,7364,1
+Tram,2733,442794,Glenelg,,1,442794,7364,1
+Tram,2733,442795,Glenelg,,1,442795,7364,1
+Tram,2733,442796,Glenelg,,1,442796,7364,1
+Tram,2733,442797,Glenelg,,1,442797,7364,1
+Tram,2733,442798,Glenelg,,1,442798,7364,1
+Tram,2733,442799,Glenelg,,1,442799,7364,1
+Tram,2733,442800,Glenelg,,1,442800,7364,1
+Tram,2733,442801,Glenelg,,1,442801,7364,1
+Tram,2733,442802,Glenelg,,1,442802,7364,1
+Tram,2733,442803,Glenelg,,1,442803,7364,1
+Tram,2733,442804,Glenelg,,1,442804,7364,1
+Tram,2733,442805,Glenelg,,1,442805,7364,1
+Tram,2733,442806,Glenelg,,1,442806,7364,1
+Tram,2733,442807,Glenelg,,1,442807,7364,1
+Tram,2733,442808,Glenelg,,1,442808,7364,1
+Tram,2733,442809,Glenelg,,1,442809,7364,1
+Tram,2733,442810,Glenelg,,1,442810,7364,1
+Tram,2733,442811,Glenelg,,1,442811,7364,1
+Tram,2733,442812,Glenelg,,1,442812,7364,1
+Tram,2733,442813,Glenelg,,1,442813,7364,1
+Tram,2733,442814,Glenelg,,1,442814,7364,1
+Tram,2733,442815,Glenelg,,1,442815,7364,1
+Tram,2733,442816,Glenelg,,1,442816,7364,1
+Tram,2733,442817,Glenelg,,1,442817,7364,1
+Tram,2733,442818,Glenelg,,1,442818,7364,1
+Tram,2733,442819,Glenelg,,1,442819,7364,1
+Tram,2733,442820,Glenelg,,1,442820,7364,1
+Tram,2733,442821,Glenelg,,1,442821,7364,1
+Tram,2733,442822,Glenelg,,1,442822,7364,1
+Tram,2733,442823,Glenelg,,1,442823,7364,1
+Tram,2733,442824,Glenelg,,1,442824,7364,1
+Tram,2733,442825,Glenelg,,1,442825,7364,1
+Tram,2733,442826,Glenelg,,1,442826,7364,1
+Tram,2733,442827,Glenelg,,1,442827,7364,1
+Tram,2733,442828,Glenelg,,1,442828,7364,1
+Tram,2733,442829,Glenelg,,1,442829,7364,1
+Tram,2733,442830,Glenelg,,1,442830,7364,1
+Tram,2733,442831,Glenelg,,1,442831,7364,1
+Tram,2733,442832,Glenelg,,1,442832,7364,1
+Tram,2733,442833,Glenelg,,1,442833,7364,1
+Tram,2733,442834,Glenelg,,1,442834,7364,1
+Tram,2733,442835,Glenelg,,1,442835,7364,1
+Tram,2733,442836,Glenelg,,1,442836,7364,1
+Tram,2733,442837,Glenelg,,1,442837,7364,1
+Tram,2733,442838,Glenelg,,1,442838,7364,1
+Tram,2733,442839,Glenelg,,1,442839,7364,1
+Tram,2733,442840,Glenelg,,1,442840,7364,1
+Tram,2733,442841,Glenelg,,1,442841,7364,1
+Tram,2733,442842,Glenelg,,1,442842,7364,1
+Tram,2733,442843,Glenelg,,1,442843,5229,1
+Tram,2733,442844,Glenelg,,1,442844,7364,1
+Tram,2733,442845,Glenelg,,1,442845,7364,1
+Tram,2733,442846,Glenelg,,1,442846,7364,1
+Tram,2733,442847,Glenelg,,1,442847,7364,1
+Tram,2733,442848,Glenelg,,1,442848,7364,1
+Tram,2733,442849,Glenelg,,1,442849,7364,1
+Tram,2733,442850,Glenelg,,1,442850,7364,1
+Tram,2733,442851,Glenelg,,1,442851,7364,1
+Tram,2733,442852,Glenelg,,1,442852,7364,1
+Tram,2733,442853,Glenelg,,1,442853,7364,1
+Tram,2733,442854,Glenelg,,1,442854,7364,1
+Tram,2733,442855,Glenelg,,1,442855,7364,1
+Tram,2733,442856,Glenelg,,1,442856,7364,1
+Tram,2733,442857,Glenelg,,1,442857,7364,1
+Tram,2733,442858,Glenelg,,1,442858,7364,1
+Tram,2733,442859,Glenelg,,1,442859,7364,1
+Tram,2733,442860,Glenelg,,1,442860,7364,1
+Tram,2733,442861,South Tce,,1,442861,7476,1
+Tram,2733,442862,Glenelg,,1,442862,7364,1
+Tram,2733,442863,South Tce,,1,442863,7476,1
+Tram,2733,442864,Glenelg,,1,442864,7364,1
+Tram,2733,442865,South Tce,,1,442865,7476,1
+Tram,2733,442866,South Tce,,1,442866,7476,1
+Tram,2733,442867,Glenelg,,1,442867,7364,1
+Tram,2733,442868,South Tce,,1,442868,7476,1
+Tram,2733,442869,South Tce,,1,442869,7476,1
+Tram,2733,442870,Glenelg,,1,442870,7364,1
+Tram,2733,442871,South Tce,,1,442871,7476,1
+Tram,2733,442872,South Tce,,1,442872,7476,1
+Tram,2733,442873,Glenelg,,1,442873,7364,1
+Tram,2733,442874,South Tce,,1,442874,7476,1
+Tram,2733,442875,Glenelg,,1,442875,7364,1
+Tram,2733,442876,Glenelg,,1,442876,7364,1
+Tram,2733,442877,Glenelg,,1,442877,7364,1
+Tram,2733,442878,Glenelg,,1,442878,7364,1
+Tram,2733,442879,Glenelg,,1,442879,7364,1
+Tram,2733,442880,Glenelg,,1,442880,7364,1
+Tram,2733,442881,Glenelg,,1,442881,7364,1
+Tram,2733,442882,Glenelg,,1,442882,7364,1
+Tram,2733,442883,Glenelg,,1,442883,7364,1
+Tram,2733,442884,Glenelg,,1,442884,7364,1
+Tram,2733,442885,Glenelg,,1,442885,7364,1
+Tram,2733,442886,Glenelg,,1,442886,7364,1
+Tram,2733,442887,Glenelg,,1,442887,7364,1
+Tram,2733,442888,Glenelg,,1,442888,7364,1
+Tram,2733,442889,Glenelg,,1,442889,7364,1
+Tram,2733,442890,Glenelg,,1,442890,7364,1
+Tram,2733,442891,Glenelg,,1,442891,7364,1
+Tram,2733,442892,Glenelg,,1,442892,7364,1
+Tram,2733,442893,Glenelg,,1,442893,7364,1
+Tram,2733,442894,Glenelg,,1,442894,7364,1
+Tram,2733,442895,Glenelg,,1,442895,7364,1
+Tram,2733,442896,Glenelg,,1,442896,7364,1
+Tram,2733,442897,Glenelg,,1,442897,7364,1
+Tram,2733,442898,Glenelg,,1,442898,7364,1
+Tram,2733,442899,Glenelg,,1,442899,7364,1
+Tram,2733,442900,Glenelg,,1,442900,7364,1
+Tram,2733,442901,Glenelg,,1,442901,7364,1
+Tram,2733,442902,Glenelg,,1,442902,7364,1
+Tram,2733,442903,Glenelg,,1,442903,7364,1
 W90,11,374257,Marion,,1,374257,13174,
 W90,11,374258,Marion,,1,374258,13175,
 W90,11,374259,Paradise,,0,374259,13169,
