@@ -58,6 +58,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 208B,7,208B,City to Broadview,"Terminates at stop 19 Regency Road, Broadview.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
 208N,7,208N,City to Northgate,"Terminates at stop 27B Fosters Road, Northgate.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
 209F,7,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,990000,ffffff,202-202F-203-203F-209F-N202
+21W,5,21W,Show Shuttle Bus,"City to Adelaide Showground. Service in operation 31 August - 09 September only for the duration of the Royal Adelaide Show.",3,http://www.adelaidemetro.com.au/routes/21W,0033CC,ffffff,21W-22W
 222,4,222,Mawson Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
 222R,4,222R,City to Mawson Lakes,"via Roma Mitchell Secondary College. Operates school days only.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
 224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
@@ -73,6 +74,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 229,4,229,Para Hills to Gepps Cross,"via Pooraka. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/229,7030A0,ffffff,229-229F-229X
 229F,4,229F,Para Hills to City,"via Pooraka & Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,7030A0,ffffff,229-229F-229X
 229X,4,229X,Para Hills to City,"via Pooraka & Main North Road. Service operates express from stop 29 Main North Road to stop 4 O'Connell Street. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/229,7030A0,ffffff,229-229F-229X
+22W,7,22W,O-Bahn Show Express Bus,"via Tea Tree Plaza Interchange, Paradise Interchange and Klemzig Station to Adelaide Showground. Limited services depart from Golden Grove Interchange. Service in operation 31 August - 09 September only for the duration of the Royal Adelaide Show.",3,http://www.adelaidemetro.com.au/routes/22W,FF8C0D,ffffff,21W-22W
 230,5,230,Port Adelaide Interchange to City,"via Addison Road & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/230,0033CC,ffffff,230-232
 232,5,232,Port Adelaide Interchange to City,"via Newcastle Street & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/232,0033CC,ffffff,230-232
 232R,5,232R,City to Rosewater,"Terminates at Stop 36 Grand Junction Road, Rosewater.",3,http://www.adelaidemetro.com.au/routes/232,0033CC,ffffff,230-232
@@ -466,7 +468,6 @@ AO19,5,AO19,Henley Beach to Adelaide Oval,"via Henley Beach Rd - all stops. Time
 AO2,7,AO2,St Agnes to Adelaide Oval,"via O-Bahn. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO2,FF8C0D,ffffff,
 AO20,7,AO20,Blair Athol to Adelaide Oval,"via Prospect Rd - all stops to stop 7 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO20,990000,ffffff,
 AO21,7,AO21,Aberfoyle Hub to Adelaide Oval,"via Black Rd and Goodwood Rd. Operates Crows games only. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO21,990000,ffffff,
-AO22,7,AO22,Aberfoyle Hub to Adelaide Oval,"via Happy Valley Dr and Goodwood Rd. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO22,990000,ffffff,
 AO23,7,AO23,Morphettville Depot to Adelaide Oval,"via Marion Rd. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO23,990000,ffffff,
 AO24,5,AO24,Mitcham Square to Adelaide Oval,"via Unley Rd - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO24,0033CC,ffffff,
 AO25,5,AO25,Mitcham Square to Adelaide Oval,"via Fullarton Rd - all stops to stop 5 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO25,0033CC,ffffff,
@@ -562,6 +563,7 @@ OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,ht
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 SALIS,2,SALIS,Salisbury to City,,2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS
 SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,SEAFRD-NOAR-TONS
+SHOWC,2,SHOWC,Adelaide Showground Train Shuttle,"Adelaide Railway Station to Adelaide Showground Station. Service in operation 31 August - 09 September only for the duration of the Royal Adelaide Show.",2,http://www.adelaidemetro.com.au/routes/showc,1C1F2A,ffffff,SHOWC
 T228,4,T228,Smithfield Interchange to City,"via Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,7030A0,ffffff,228-228F-228X-T228
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 T721X,4,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop express service operates Monday-Friday. T721X buses operate express between stop 48 Main South Road to stop B1 Grote Street, City. No pick up or set down.",3,http://www.adelaidemetro.com.au/routes/T721X,FFCC00,000000,721-721F-721X-T721-T721X-N721

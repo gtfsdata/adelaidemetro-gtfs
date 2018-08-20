@@ -12,8 +12,11 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Fixed an issue with 541 route where some stops along the route were not being serviced. Specifically trips traveling between Golden Grove Village and City.
+1) Added services for the Royal Adelaide Show (August 31 - 09 September)
 
-2) Some minor trip time adjustments for route M44.
+- 21W is the city shuttle service
+- 22W is the O-Bahn shuttle service
+- SHOWC is a train service traveling between Adelaide and Goodwood (via the Showgrounds)
+- All Seaford trains will service the Adelaide Showground station after 8:30am until last service, with the exception of selected peak services.
 
-3) Brighton Rd cutbacks for the Tram have been extended to 31 August 2018.
+2) For the duration of the Royal Adelaide Show, all normal bus routes that service Stop V1 Currie St will be redirected to Stop V2 Currie St. Stop V1 Currie St is utilised exclusively by the 21W.
