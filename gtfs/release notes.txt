@@ -12,6 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Changes to tram Jetty Road cutbacks. The cutbacks will now finish on 21 August, with services resuming as normal from August 22.
-
-2) Minor changes to AO route trip data for AFL Round 23.
+1) Minor trip time adjustments to routes 200B, 248 and 254X
