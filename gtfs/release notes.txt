@@ -12,4 +12,6 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Minor trip time adjustments to routes 200B, 248 and 254X
+1) Changed coordinates of Bowden station; both inbound and outbound stops as well as the parent station.
+
+2) Route 985 has been updated to service Stop E1 King William St instead of Stop F1.
