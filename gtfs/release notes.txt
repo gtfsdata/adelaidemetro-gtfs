@@ -12,6 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Changed coordinates of Bowden station; both inbound and outbound stops as well as the parent station.
-
-2) Route 985 has been updated to service Stop E1 King William St instead of Stop F1.
+1) Some 98A trips were missing from operation for August 31 - September 9. These have been added back into the GTFS.
