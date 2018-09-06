@@ -12,4 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Some 98A trips were missing from operation for August 31 - September 9. These have been added back into the GTFS.
+1) Updated the calandar files.
