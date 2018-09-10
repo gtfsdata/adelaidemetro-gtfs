@@ -12,4 +12,5 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Updated the calandar files.
+1) Removed expired data for Royal Adelaide Show (this event has now finished).
+2) Tram timetable for City to Bay has been implemented.
