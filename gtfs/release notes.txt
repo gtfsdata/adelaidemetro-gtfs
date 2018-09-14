@@ -12,5 +12,6 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Removed expired data for Royal Adelaide Show (this event has now finished).
-2) Tram timetable for City to Bay has been implemented.
+1) Implemented Seaford train line Closure for September 29 - October 1. Please see www.adelaidemetro.com.au for more information.
+
+2) Extended calendar validity to December.
