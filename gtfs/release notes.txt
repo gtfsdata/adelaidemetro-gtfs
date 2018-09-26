@@ -12,8 +12,4 @@ Labour Day - October 1
 General Amendments:
 
 
-1) Implemented AO/AOX trips for the SANFL Grand Final on Sunday, 23 September.
-
-2) T721 and T722 no longer service Stop 27 Main South Rd (both sides of road).
-
-3) Gawler Central train night closures have been extended, though closure times have changed.
+1) Minor updates to school holiday trip times.
