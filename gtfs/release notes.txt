@@ -6,10 +6,12 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-Labour Day - October 1
+None.
 
 
 General Amendments:
 
 
-1) Minor updates to school holiday trip times.
+1) Implemented tram closures for October 5-7.
+
+2) Implemented Seaford closures for October 6.
