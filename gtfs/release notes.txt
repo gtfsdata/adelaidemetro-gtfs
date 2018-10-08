@@ -12,6 +12,4 @@ None.
 General Amendments:
 
 
-1) Implemented tram closures for October 5-7.
-
-2) Implemented Seaford closures for October 6.
+1) Implemented service change data. Several trips and routes are changing from October 14. Please see www.adelaidemetro.com.au/ for more detailed information.
