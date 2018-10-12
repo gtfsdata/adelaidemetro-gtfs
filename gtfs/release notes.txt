@@ -12,6 +12,6 @@ None.
 General Amendments:
 
 
-1) General improvements to trip data for October 14 service change.
+1) Further improvements to trip data for October 14 service change.
 
-2) Updates to shape data (shapes.txt) for October 14 service change.
+2) Changes to tram timetable from Saturday, 13 October implemented.
