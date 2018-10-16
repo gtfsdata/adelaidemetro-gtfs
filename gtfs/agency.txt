@@ -5,6 +5,3 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency
 5,Adelaide Metro (Torrens Transit),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 51,Adelaide Metro (School Service - Torrens Transit),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
 52,Adelaide Metro (Industrial Service - Torrens Transit),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
-7,Adelaide Metro (Light City Buses),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
-71,Adelaide Metro (School Service - Light City Buses),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets
-72,Adelaide Metro (Industrial Service - Light City Buses),http://www.adelaidemetro.com.au/,Australia/Adelaide,EN,1300 311 108,http://www.adelaidemetro.com.au/Tickets

@@ -24,7 +24,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 157,5,157,Largs Bay to City,"via Military Road, West Lakes Centre Interchange & Port Road.  Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/157,0033CC,ffffff,155-157-157X-376
 157X,5,157X,Largs Bay to City,"Express from West Lakes Centre Interchange to City. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/157,0033CC,ffffff,155-157-157X-376
 163,5,163,West Beach to City,"via Rio Vista Avenue & Sir Donald Bradman Dr. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/163,0033CC,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-164,5,164,Harbour Town to City,"via Sir Donald Bradmand Dr. Service operates Thursday and weekends.",3,http://www.adelaidemetro.com.au/routes/164,0033CC,ffffff,
 167,5,167,Glenelg Interchange to City,"via Glenelg North, Mooringe Avenue Road & Richmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/167,0033CC,ffffff,167-168
 167C,5,167C,City to Camden Park,"Terminates at Stop 15 Mooringe Avenue, Camden Park.",3,http://www.adelaidemetro.com.au/routes/167,0033CC,ffffff,167-168
 168,5,168,Glenelg Interchange to City,"via Glenelg North, Harvey Avenue & Richmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/168,0033CC,ffffff,167-168
@@ -48,19 +47,19 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 196,5,196,Blackwood Station to City,"via Mitcham, Gloucester Avenue & Unley Road.",3,http://www.adelaidemetro.com.au/routes/196,0033CC,ffffff,195-195F-196-196F-197X
 196F,5,196F,Blackwood Station to City,"via Mitcham & Unley Road.Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/196,0033CC,ffffff,195-195F-196-196F-197X
 197X,5,197X,Coromandel Station to City,"via Main Rd, Gloucester Ave, Mitcham & Unley Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/197X,0033CC,ffffff,195-195F-196-196F-197X
-200,7,200,Marion Centre Interchange to City,"via Flinders Medical Centre, Eliza Place & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
-200B,7,200B,Marion Centre Interchange to City,"via Flinders Medical Centre, Strathcona Avenue & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
-200C,7,200C,City to Clapham,"Terminates at stop 20 Boothby Street, Clapham.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
-202,7,202,Ingle Farm to City,"via Hampstead Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/202,990000,ffffff,202-202F-203-203F-209F-N202
-202F,7,202F,Ingle Farm to City,"via Hampstead Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/202F,990000,ffffff,202-202F-203-203F-209F-N202
-203,7,203,Tea Tree Plaza Interchange to City,"via Hampstead Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
-203B,7,203B,City to Ingle Farm,"Terminates at stop 47 Baldock Road, Ingle Farm.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
-203F,7,203F,Tea Tree Plaza Interchange to City,"via Hampstead Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
-206,7,206,Northgate to City,"via East Parkway & Galway Avenue. Service operates Monay-Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/206,990000,ffffff,206-208-528
-208,7,208,Paradise Interchange to City,"via Northgate & Galway Avenue. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
-208B,7,208B,City to Broadview,"Terminates at stop 19 Regency Road, Broadview.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
-208N,7,208N,City to Northgate,"Terminates at stop 27B Fosters Road, Northgate.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
-209F,7,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,990000,ffffff,202-202F-203-203F-209F-N202
+200,5,200,Marion Centre Interchange to City,"via Flinders Medical Centre, Eliza Place & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
+200B,5,200B,Marion Centre Interchange to City,"via Flinders Medical Centre, Strathcona Avenue & King William Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
+200C,5,200C,City to Clapham,"Terminates at stop 20 Boothby Street, Clapham.",3,http://www.adelaidemetro.com.au/routes/200,990000,ffffff,200
+202,5,202,Ingle Farm to City,"via Hampstead Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/202,990000,ffffff,202-202F-203-203F-209F-N202
+202F,5,202F,Ingle Farm to City,"via Hampstead Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/202F,990000,ffffff,202-202F-203-203F-209F-N202
+203,5,203,Tea Tree Plaza Interchange to City,"via Hampstead Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
+203B,5,203B,City to Ingle Farm,"Terminates at stop 47 Baldock Road, Ingle Farm.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
+203F,5,203F,Tea Tree Plaza Interchange to City,"via Hampstead Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/203,990000,ffffff,202-202F-203-203F-209F-N202
+206,5,206,Northgate to City,"via East Parkway & Galway Avenue. Service operates Monay-Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/206,990000,ffffff,206-208-528
+208,5,208,Paradise Interchange to City,"via Northgate & Galway Avenue. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
+208B,5,208B,City to Broadview,"Terminates at stop 19 Regency Road, Broadview.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
+208N,5,208N,City to Northgate,"Terminates at stop 27B Fosters Road, Northgate.",3,http://www.adelaidemetro.com.au/routes/208,990000,ffffff,206-208-528
+209F,5,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,990000,ffffff,202-202F-203-203F-209F-N202
 222,4,222,Mawson Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
 222R,4,222R,City to Mawson Lakes,"via Roma Mitchell Secondary College. Operates school days only.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
 224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
@@ -79,31 +78,31 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 230,5,230,Port Adelaide Interchange to City,"via Addison Road & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/230,0033CC,ffffff,230-232
 232,5,232,Port Adelaide Interchange to City,"via Newcastle Street & Arndale Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/232,0033CC,ffffff,230-232
 232R,5,232R,City to Rosewater,"Terminates at Stop 36 Grand Junction Road, Rosewater.",3,http://www.adelaidemetro.com.au/routes/232,0033CC,ffffff,230-232
-235,7,235,Kilburn to City,"via Churchill Road.",3,http://www.adelaidemetro.com.au/routes/235,0033CC,ffffff,235-238-239
-238,7,238,UniSA Mawson Lakes Campus to City,"via Mawson Lakes Boulevard, Montague Road & Churchill Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/238,0033CC,ffffff,235-238-239
-239,7,239,Arndale Centre Interchange to City,"via Coker Street, Days Road, Grand Junction Road & Churchill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/239,0033CC,ffffff,235-238-239
-241,7,241,Marion Centre Interchange to City,"via Oaklands Road & Everard Avenue. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/241,990000,ffffff,241-245-248-248F
-241A,7,241A,City to Oaklands Park,"Terminates at Stop 24 Oaklands Road, Oaklands Park.",3,http://www.adelaidemetro.com.au/routes/241,990000,ffffff,241-245-248-248F
-245,7,245,Hove to City,"via Plympton. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/245,990000,ffffff,241-245-248-248F
-248,7,248,Marion Centre Interchange to City,"via Hendrie Street & Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/248,990000,ffffff,241-245-248-248F
-248A,7,248A,City to Oaklands Park,"Service terminates at stop 24 Oaklands Rd. Limited service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/248A,990000,ffffff,241-245-248-248F
-248F,7,248F,Marion Centre Interchange to City,"via Hendrie Street & Anzac Highway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/248F,990000,ffffff,241-245-248-248F
-251,7,251,Mansfield Park to City,"via Liberty Grove, Arndale Centre Interchange and Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/251,990000,ffffff,251-252
-251A,7,251A,Mansfield Park to Arndale Centre Interchange,"Terminates at Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/251,990000,ffffff,251-252
-252,7,252,Port Adelaide Interchange to City,"via Liberty Grove, Arndale Centre Interchange and Hawker Street. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/252,990000,ffffff,251-252
-252A,7,252A,Port Adelaide Interchange to Arndale Centre Interchange,"Terminates at Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/252,990000,ffffff,251-252
-253,7,253,Mansfield Park to City,"via Arndale Centre Interchange & Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/253,990000,ffffff,253-253X-254-254X-N254
-253X,7,253X,Mansfield Park to City,"via Arndale Centre Interchange. Express between Arndale Centre Interchange & stop 2 King William Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/253,990000,ffffff,253-253X-254-254X-N254
-254,7,254,Port Adelaide Interchange to City,"via Arndale Centre Interchange & Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
-254X,7,254X,Port Adelaide Interchange to City,"via Arndale Centre Interchange. Express between Arndale Centre Interchange & stop 2 King William Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
-262,7,262,Marion Centre Interchange to City,"via Sturt Road, Brighton Road and Anzac Highway. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262,990000,ffffff,262-263-265-N262
-262F,7,262F,Brighton to City,"via Sturt Road, Brighton Road and Anzac Highway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262F,990000,ffffff,
-263,7,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-263-265-N262
-263A,7,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-263-265-N262
-265,7,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
-265W,7,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
-271,7,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,0033CC,ffffff,271-273
-273,7,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,0033CC,ffffff,271-273
+235,5,235,Kilburn to City,"via Churchill Road.",3,http://www.adelaidemetro.com.au/routes/235,0033CC,ffffff,235-238-239
+238,5,238,UniSA Mawson Lakes Campus to City,"via Mawson Lakes Boulevard, Montague Road & Churchill Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/238,0033CC,ffffff,235-238-239
+239,5,239,Arndale Centre Interchange to City,"via Coker Street, Days Road, Grand Junction Road & Churchill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/239,0033CC,ffffff,235-238-239
+241,5,241,Marion Centre Interchange to City,"via Oaklands Road & Everard Avenue. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/241,990000,ffffff,241-245-248-248F
+241A,5,241A,City to Oaklands Park,"Terminates at Stop 24 Oaklands Road, Oaklands Park.",3,http://www.adelaidemetro.com.au/routes/241,990000,ffffff,241-245-248-248F
+245,5,245,Hove to City,"via Plympton. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/245,990000,ffffff,241-245-248-248F
+248,5,248,Marion Centre Interchange to City,"via Hendrie Street & Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/248,990000,ffffff,241-245-248-248F
+248A,5,248A,City to Oaklands Park,"Service terminates at stop 24 Oaklands Rd. Limited service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/248A,990000,ffffff,241-245-248-248F
+248F,5,248F,Marion Centre Interchange to City,"via Hendrie Street & Anzac Highway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/248F,990000,ffffff,241-245-248-248F
+251,5,251,Mansfield Park to City,"via Liberty Grove, Arndale Centre Interchange and Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/251,990000,ffffff,251-252
+251A,5,251A,Mansfield Park to Arndale Centre Interchange,"Terminates at Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/251,990000,ffffff,251-252
+252,5,252,Port Adelaide Interchange to City,"via Liberty Grove, Arndale Centre Interchange and Hawker Street. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/252,990000,ffffff,251-252
+252A,5,252A,Port Adelaide Interchange to Arndale Centre Interchange,"Terminates at Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/252,990000,ffffff,251-252
+253,5,253,Mansfield Park to City,"via Arndale Centre Interchange & Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/253,990000,ffffff,253-253X-254-254X-N254
+253X,5,253X,Mansfield Park to City,"via Arndale Centre Interchange. Express between Arndale Centre Interchange & stop 2 King William Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/253,990000,ffffff,253-253X-254-254X-N254
+254,5,254,Port Adelaide Interchange to City,"via Arndale Centre Interchange & Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
+254X,5,254X,Port Adelaide Interchange to City,"via Arndale Centre Interchange. Express between Arndale Centre Interchange & stop 2 King William Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
+262,5,262,Marion Centre Interchange to City,"via Sturt Road, Brighton Road and Anzac Highway. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262,990000,ffffff,262-263-265-N262
+262F,5,262F,Brighton to City,"via Sturt Road, Brighton Road and Anzac Highway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262F,990000,ffffff,
+263,5,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-263-265-N262
+263A,5,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-263-265-N262
+265,5,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
+265W,5,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
+271,5,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,0033CC,ffffff,271-273
+273,5,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,0033CC,ffffff,271-273
 281,5,281,Paradise Interchange to City,"via McLauchlan Road and Walkerville Terrace. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/281,0033CC,ffffff,281
 281K,5,281K,City to Klemzig,"Terminates at stop 17 O.G Road, Klemzig.",3,http://www.adelaidemetro.com.au/routes/281,0033CC,ffffff,281
 286,5,286,Henley Beach to City,"via Cheadle St, Valetta Rd & Ashley St.",3,http://www.adelaidemetro.com.au/routes/286,0033CC,ffffff,286-287-288
@@ -111,19 +110,19 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 287,5,287,Henley Beach to City,"via Marlborough Street, Valetta Road & Ashley Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/287,0033CC,ffffff,286-287-288
 288,5,288,West Lakes Centre Interchange to City,"via Tapleys Hill Road, Valetta Road & Ashley Street. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/288,0033CC,ffffff,286-287-288
 288S,5,288S,City to Seaton,"Terminates at stop 28B Tapleys Hill Road, Seaton.",3,http://www.adelaidemetro.com.au/routes/288,0033CC,ffffff,286-287-288
-300,7,300,Suburban Connector,"via Regency Road, Burnside Village, Cross Road, Flinders University, Flinders Medical Centre, Marion Centre Interchange, Glenelg Interchange, Harbour Town, Henley Beach, Queen Elizabeth Hospital & Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300C,7,300C,Suburban Connector,"Terminates Stop 165 Cross Road, Urrbrae.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300G,7,300G,Suburban Connector,"Terminates at Colley Tce, Glenelg.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300H,7,300H,Suburban Connector,"Terminates at Stop 19 Portrush Road, Glen Osmond.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300J,7,300J,Suburban Connector,"Terminates at Stop 17 O.G. Road, Klemzig.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300M,7,300M,Suburban Connector,"Terminates at Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-300U,7,300U,Suburban Connector,"Terminates at Flinders University.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
-320,7,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+300,5,300,Suburban Connector,"via Regency Road, Burnside Village, Cross Road, Flinders University, Flinders Medical Centre, Marion Centre Interchange, Glenelg Interchange, Harbour Town, Henley Beach, Queen Elizabeth Hospital & Arndale Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300C,5,300C,Suburban Connector,"Terminates Stop 165 Cross Road, Urrbrae.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300G,5,300G,Suburban Connector,"Terminates at Colley Tce, Glenelg.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300H,5,300H,Suburban Connector,"Terminates at Stop 19 Portrush Road, Glen Osmond.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300J,5,300J,Suburban Connector,"Terminates at Stop 17 O.G. Road, Klemzig.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300M,5,300M,Suburban Connector,"Terminates at Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+300U,5,300U,Suburban Connector,"Terminates at Flinders University.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
+320,5,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 333,5,333,North Haven to Port Adelaide,"via Largs Bay & Semaphore. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/333,0033CC,ffffff,333
 350,5,350,Largs Bay to West Lakes Centre Interchange,"via Port Adelaide Interchange & Royal Park. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
 350P,5,350P,West Lakes Centre Interchange to Port Adelaide Interchange,"Terminates Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
-361,7,361,Port Adelaide to Tea Tree Plaza,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361-361X
-361X,7,361X,Port Adelaide to Tea Tree Plaza,"Express service. Operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/361X,990000,ffffff,361-361X
+361,5,361,Port Adelaide to Tea Tree Plaza,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361-361X
+361X,5,361X,Port Adelaide to Tea Tree Plaza,"Express service. Operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/361X,990000,ffffff,361-361X
 371,5,371,West Lakes Centre Interchange Clockwise Loop,"via Frederick Rd, Clark Tce, Trimmer Pde & Military Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/371,0033CC,ffffff,J7-J8-371-372
 372,5,372,West Lakes Centre Interchange Anti-Clockwise Loop,"via Military Rd, Trimmer Pde, Clark Tce & Frederick Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/372,0033CC,ffffff,J7-J8-371-372
 376,5,376,West Lakes Centre Interchange to Delfin Island Anti-Clockwise Loop,"Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/376,0033CC,ffffff,155-157-157X-376
@@ -169,39 +168,37 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 492C,4,492C,Gawler East Circuit,"via Gawler Station & Gawler Town Centre.  Clockwise loop service. Operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/492C,7030A0,ffffff,491-492-493-494
 493,4,493,Gawler South Circuit,"via Gawler Station, STARplex, Tambelin Station & Gawler Town Centre. Clockwise loop Service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/493,7030A0,ffffff,491-492-493-494
 494,4,494,Gawler South Circuit,"via Gawler Station, Tambelin Station, STARplex & Gawler Town Centre. Anti-clockwise loop Service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/494,7030A0,ffffff,491-492-493-494
-500,7,500,Elizabeth Interchange to City,"via Salisbury Interchange, Bridge Road and O-Bahn. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/500,FF8C0D,ffffff,500-501-502-502X-N502
-501,7,501,Mawson Interchange to City,"via Montague Road and O-Bahn. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/501,FF8C0D,ffffff,500-501-502-502X-N502
-502,7,502,Salisbury Interchange to City,"via Bridge Road and O-Bahn. Limited stop service. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/502,FF8C0D,ffffff,500-501-502-502X-N502
-502X,7,502X,Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates express between stop 28 Sudholz Road and City (no pick up or set down). Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/502X,FF8C0D,ffffff,500-501-502-502X-N502
-503,7,503,Tea Tree Plaza Interchange to City,"via Valiant Road.",3,http://www.adelaidemetro.com.au/routes/503,FF8C0D,ffffff,503-507
-506,7,506,Tea Tree Plaza Interchange to City,"via Para Hills, Paradise Interchange and O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/506,FF8C0D,ffffff,506-506X-546-546X
-506H,7,506H,Paradise Interchange to Modbury North,"Terminates at stop 64 Kelly Road, Modbury North.",3,http://www.adelaidemetro.com.au/routes/506,FF8C0D,ffffff,506-506X-546-546X
-506X,7,506X,Tea Tree Plaza Interchange to City,"via Para Hills & O-Bahn. Express between Paradise Interchange & City. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/506X,FF8C0D,ffffff,506-506X-546-546X
-507,7,507,Tea Tree Plaza Interchange to City,"via St Agnes, Modbury, Holden Hill, Gilles Plains, Hillcrest, Paradise, Klemzig, Hackney, Adelaide.",3,http://www.adelaidemetro.com.au/routes/507,FF8C0D,ffffff,503-507
-528,7,528,Northgate to City,"via Klemzig Station & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/528,FF8C0D,ffffff,206-208-528
+500,5,500,Elizabeth Interchange to City,"via Salisbury Interchange, Bridge Road and O-Bahn. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/500,FF8C0D,ffffff,500-501-502-502X-N502
+501,5,501,Mawson Interchange to City,"via Montague Road and O-Bahn. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/501,FF8C0D,ffffff,500-501-502-502X-N502
+502,5,502,Salisbury Interchange to City,"via Bridge Road and O-Bahn. Limited stop service. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/502,FF8C0D,ffffff,500-501-502-502X-N502
+502X,5,502X,Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates express between stop 28 Sudholz Road and City (no pick up or set down). Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/502X,FF8C0D,ffffff,500-501-502-502X-N502
+503,5,503,Tea Tree Plaza Interchange to City,"via Valiant Road.",3,http://www.adelaidemetro.com.au/routes/503,FF8C0D,ffffff,503-507
+506,5,506,Tea Tree Plaza Interchange to City,"via Para Hills, Paradise Interchange and O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/506,FF8C0D,ffffff,506-506X-546-546X
+506H,5,506H,Paradise Interchange to Modbury North,"Terminates at stop 64 Kelly Road, Modbury North.",3,http://www.adelaidemetro.com.au/routes/506,FF8C0D,ffffff,506-506X-546-546X
+507,5,507,Tea Tree Plaza Interchange to City,"via St Agnes, Modbury, Holden Hill, Gilles Plains, Hillcrest, Paradise, Klemzig, Hackney, Adelaide.",3,http://www.adelaidemetro.com.au/routes/507,FF8C0D,ffffff,503-507
+528,5,528,Northgate to City,"via Klemzig Station & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/528,FF8C0D,ffffff,206-208-528
 530,5,530,Firle to City,"via Stradbroke Rd, Paradise Interchange & O-Bahn. Service operates Monday-Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/530,FF8C0D,ffffff,H30-X30-530-N30
 540,5,540,Tea Tree Plaza Interchange to City,"via O-Bahn. Service oeprates Monday-Friday",3,http://www.adelaidemetro.com.au/routes/540,FF8C0D,ffffff,540-541-541X-N541
-541,7,541,Golden Grove Interchange & Fairview Park to City,"via Hancock Road, Tea Tree Plaza & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/541,FF8C0D,ffffff,540-541-541X-N541
-541G,7,541G,City to Golden Grove Interchange,"via O-Bahn, Tea Tree Plaza, & Fairview Park.",3,http://www.adelaidemetro.com.au/routes/541G,FF8C0D,ffffff,540-541-541X-N541
-541X,7,541X,Golden Grove Interchange to City,"via Fairview Park, Hancock Rd, Tea Tree Plaza Interchange. Express between Tea Tree Plaza Interchange and City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/541X,FF8C0D,ffffff,540-541-541X-N541
-542,7,542,Fairview Park to Tea Tree Plaza Interchange,"via Tea Tree Gully. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/542,FF8C0D,ffffff,542-542X-N542
-542X,7,542X,Fairview Park to City,"via Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/542X,FF8C0D,ffffff,542-542X-N542
-543,7,543,Surrey Downs to Tea Tee Plaza Interchange,"via Grenfell Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/543,FF8C0D,ffffff,543-543X
-543G,7,543G,Tea Tree Plaza Interchange to Redwood Park,"Terminates at stop 58A Grenfell Road, Redwood Park.",3,http://www.adelaidemetro.com.au/routes/543G,FF8C0D,ffffff,543-543X
-543X,7,543X,Surrey Downs to City,"via Grenfell Road, Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/543X,FF8C0D,ffffff,543-543X
-544,7,544,Golden Grove Interchange to City,"via Ladywood Road, Tea Tree Plaza Interchange & O-Bahn.  Limited service operates to city Monday to Friday & from city Sunday & public holidays.",3,http://www.adelaidemetro.com.au/routes/544,FF8C0D,ffffff,544-544X-M44
-544X,7,544X,Golden Grove Interchange to City,"via Ladywood Road, Tea Tree Plaza Interchange & O-Bahn.  Express service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/544X,FF8C0D,ffffff,544-544X-M44
-545,7,545,Golden Grove Interchange to Tea Tree Plaza Interchange,"via McIntyre Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/545,FF8C0D,ffffff,545-545X
-545X,7,545X,Golden Grove Interchange to City,"via Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/545X,FF8C0D,ffffff,545-545X
-546,7,546,City to Para Hills,"via O-Bahn & Tea Tree Plaza Interchange. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
-546X,7,546X,Para Hills to City,"via O-Bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
-548,7,548,Greenwith & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/548,FF8C0D,ffffff,548-591A-591C
-556,7,556,Tea Tree Plaza Interchange to City,"via Tolley Road.",3,http://www.adelaidemetro.com.au/routes/556,FF8C0D,ffffff,556-557-557X-559
-557,7,557,Tea Tree Plaza Interchange to City,"via North East Road.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
-557S,7,557S,Paradise Interchange to St Agnes,"Terminates at stop 47 North East Rd, St Agnes.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
-557X,7,557X,Tea Tree Plaza Interchange to City,"via North East Road, Paradise Interchange & O-Bahn. Express between Paradise Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/557X,FF8C0D,ffffff,556-557-557X-559
-559,7,559,Tea Tree Plaza Interchange to Paradise Interchange,"via Hancock Road & Dernancourt. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/559,FF8C0D,ffffff,556-557-557X-559
-559S,7,559S,Paradise Interchange to St Agnes,"Terminates at Stop 44 Smart Road, St Agnes.",3,http://www.adelaidemetro.com.au/routes/559,FF8C0D,ffffff,556-557-557X-559
+541,5,541,Golden Grove Interchange & Fairview Park to City,"via Hancock Road, Tea Tree Plaza & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/541,FF8C0D,ffffff,540-541-541X-N541
+541G,5,541G,City to Golden Grove Interchange,"via O-Bahn, Tea Tree Plaza, & Fairview Park.",3,http://www.adelaidemetro.com.au/routes/541G,FF8C0D,ffffff,540-541-541X-N541
+541X,5,541X,Golden Grove Interchange to City,"via Fairview Park, Hancock Rd, Tea Tree Plaza Interchange. Express between Tea Tree Plaza Interchange and City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/541X,FF8C0D,ffffff,540-541-541X-N541
+542,5,542,Fairview Park to Tea Tree Plaza Interchange,"via Tea Tree Gully. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/542,FF8C0D,ffffff,542-542X-N542
+542X,5,542X,Fairview Park to City,"via Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/542X,FF8C0D,ffffff,542-542X-N542
+543,5,543,Surrey Downs to Tea Tee Plaza Interchange,"via Grenfell Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/543,FF8C0D,ffffff,543-543X
+543G,5,543G,Tea Tree Plaza Interchange to Redwood Park,"Terminates at stop 58A Grenfell Road, Redwood Park.",3,http://www.adelaidemetro.com.au/routes/543G,FF8C0D,ffffff,543-543X
+543X,5,543X,Surrey Downs to City,"via Grenfell Road, Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/543X,FF8C0D,ffffff,543-543X
+544,5,544,Golden Grove Interchange to City,"via Ladywood Road, Tea Tree Plaza Interchange & O-Bahn.  Limited service operates to city Monday to Friday & from city Sunday & public holidays.",3,http://www.adelaidemetro.com.au/routes/544,FF8C0D,ffffff,544-544X-M44
+544X,5,544X,Golden Grove Interchange to City,"via Ladywood Road, Tea Tree Plaza Interchange & O-Bahn.  Express service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/544X,FF8C0D,ffffff,544-544X-M44
+545,5,545,Golden Grove Interchange to Tea Tree Plaza Interchange,"via McIntyre Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/545,FF8C0D,ffffff,545-545X
+545X,5,545X,Golden Grove Interchange to City,"via Tea Tree Plaza Interchange & O-bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/545X,FF8C0D,ffffff,545-545X
+546,5,546,City to Para Hills,"via O-Bahn & Tea Tree Plaza Interchange. Service operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
+546X,5,546X,Para Hills to City,"via O-Bahn. Express between Tea Tree Plaza Interchange & City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/546,FF8C0D,ffffff,506-506X-546-546X
+548,5,548,Greenwith & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/548,FF8C0D,ffffff,548-591A-591C
+556,5,556,Tea Tree Plaza Interchange to City,"via Tolley Road.",3,http://www.adelaidemetro.com.au/routes/556,FF8C0D,ffffff,556-557-557X-559
+557,5,557,Tea Tree Plaza Interchange to City,"via North East Road.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
+557S,5,557S,Paradise Interchange to St Agnes,"Terminates at stop 47 North East Rd, St Agnes.",3,http://www.adelaidemetro.com.au/routes/557,FF8C0D,ffffff,556-557-557X-559
+559,5,559,Tea Tree Plaza Interchange to Paradise Interchange,"via Hancock Road & Dernancourt. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/559,FF8C0D,ffffff,556-557-557X-559
+559S,5,559S,Paradise Interchange to St Agnes,"Terminates at Stop 44 Smart Road, St Agnes.",3,http://www.adelaidemetro.com.au/routes/559,FF8C0D,ffffff,556-557-557X-559
 560,4,560,Elizabeth Interchange to Tea Tree Plaza Interchange,"via Lyell McEwin Hospital, Salisbury Interchange & Ingle Farm. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/560,7030A0,ffffff,560-565
 560A,4,560A,Elizabeth Interchange / 38A Bridge Rd to Salisbury Interchange,"Terminates at Salisbury Interchange.",3,http://www.adelaidemetro.com.au/routes/560,7030A0,ffffff,560-565
 560B,4,560B,Elizabeth Interchange to Ingle Farm,"Terminates at stop 38A Bridge Road.",3,http://www.adelaidemetro.com.au/routes/560,7030A0,ffffff,560-565
@@ -209,16 +206,16 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 578,5,578,Newton & Athelstone to City,"via Gorge Rd, Lower Athelstone Rd, Paradise Interchange & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/578,FF8C0D,ffffff,176-178-178X-578-579-N178
 579,5,579,Athelstone to Paradise Interchange,"via Gorge Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/579,0033CC,ffffff,176-178-178X-579-N178
 580,5,580,Keswick to Paradise Interchange,"via St Bernards Road & Greenhill Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/580,0033CC,ffffff,H20-H21-580
-591A,7,591A,Golden Grove Interchange to Greenwith,"Anti-clockwise loop.",3,http://www.adelaidemetro.com.au/routes/591,FF8C0D,ffffff,548-591A-591C
-591C,7,591C,Golden Grove Interchange to Greenwith,"Clockwise loop.",3,http://www.adelaidemetro.com.au/routes/591,FF8C0D,ffffff,548-591A-591C
-600,7,600,Old Reynella Interchange to Marion Centre Interchange,"via Aberfoyle Hub, Blackwood Station & Flinders University. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
-600A,7,600A,Old Reynella Interchange / Marion Centre Interchange to Aberfoyle Hub,"Terminates at Aberfoyle Hub.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
-600B,7,600B,Aberfoyle Hub/Marion Centre Interchange to Blackwood Station,"Terminates at Blackwood Station.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
-600S,7,600S,Blackwood Station to Bedford Park,"Terminates at stop 26 Sturt Road, Bedford Park.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
-601,7,601,Old Reynella Interchange to Marion Centre Interchange,"via Aberfoyle Hub, Blackwood Station, Eve Road & Flinders University. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
-601A,7,601A,Marion Centre Interchange to Aberfoyle Hub,"Terminates at Aberfoyle Hub.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
-601B,7,601B,Old Reynella Interchange to Blackwood Station,"Service operates Monday-Saturday. Terminates at Blackwood Station.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
-605,7,605,Darlington to Blackwood Station,"via Main Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/605,990000,ffffff,600-601-605-G30F
+591A,5,591A,Golden Grove Interchange to Greenwith,"Anti-clockwise loop.",3,http://www.adelaidemetro.com.au/routes/591,FF8C0D,ffffff,548-591A-591C
+591C,5,591C,Golden Grove Interchange to Greenwith,"Clockwise loop.",3,http://www.adelaidemetro.com.au/routes/591,FF8C0D,ffffff,548-591A-591C
+600,5,600,Old Reynella Interchange to Marion Centre Interchange,"via Aberfoyle Hub, Blackwood Station & Flinders University. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
+600A,5,600A,Old Reynella Interchange / Marion Centre Interchange to Aberfoyle Hub,"Terminates at Aberfoyle Hub.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
+600B,5,600B,Aberfoyle Hub/Marion Centre Interchange to Blackwood Station,"Terminates at Blackwood Station.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
+600S,5,600S,Blackwood Station to Bedford Park,"Terminates at stop 26 Sturt Road, Bedford Park.",3,http://www.adelaidemetro.com.au/routes/600,990000,ffffff,600-601-605-G30F
+601,5,601,Old Reynella Interchange to Marion Centre Interchange,"via Aberfoyle Hub, Blackwood Station, Eve Road & Flinders University. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
+601A,5,601A,Marion Centre Interchange to Aberfoyle Hub,"Terminates at Aberfoyle Hub.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
+601B,5,601B,Old Reynella Interchange to Blackwood Station,"Service operates Monday-Saturday. Terminates at Blackwood Station.",3,http://www.adelaidemetro.com.au/routes/601,990000,ffffff,600-601-605-G30F
+605,5,605,Darlington to Blackwood Station,"via Main Road. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/605,990000,ffffff,600-601-605-G30F
 610,51,610,Adelaide High School to Adelaide Railway Station,"School Service. Express to Adelaide Railway Station.",3,http://www.adelaidemetro.com.au/routes/610,0033CC,ffffff,
 611,51,611,Adelaide High School to City,"School Service. Adelaide High School to stop E1 King William St.",3,http://www.adelaidemetro.com.au/routes/611,0033CC,ffffff,
 613,51,613,Prince Alfred College to City,"School Service. Via Bartles Rd, East Tce & North Tce.",3,http://www.adelaidemetro.com.au/routes/613,0033CC,ffffff,
@@ -244,8 +241,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 638,51,638,Norwood Morialta High School to City,"School Service.",3,http://www.adelaidemetro.com.au/routes/638,0033CC,ffffff,
 639,51,639,Norwood Morialta High School Middle Campus to Paradise,"School Service.",3,http://www.adelaidemetro.com.au/routes/639,0033CC,ffffff,
 640,4,640,Marino to Marion Centre Interchange,"via Seacombe Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/640,FFCC00,000000,640-719-720
-645,7,645,Seaview Downs to Marion Centre Interchange,"via Davenport Terrace. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/645,990000,ffffff,645-646
-646,7,646,Seacombe Heights to Marion Centre Interchange,"via Morphett Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/646,990000,ffffff,645-646
+645,5,645,Seaview Downs to Marion Centre Interchange,"via Davenport Terrace. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/645,990000,ffffff,645-646
+646,5,646,Seacombe Heights to Marion Centre Interchange,"via Morphett Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/646,990000,ffffff,645-646
 650,51,650,Alberton to St Michael's Senior College,"School Service. Via Hendon, Seaton & Grange.",3,http://www.adelaidemetro.com.au/routes/650,0033CC,ffffff,
 651,51,651,Alberton to St Michael's Senior College,"School Service. Via Semaphore, West Lakes, Tennyson & Grange.",3,http://www.adelaidemetro.com.au/routes/651,0033CC,ffffff,
 652,51,652,Alberton to St Michael's Junior College,"School Service. Via Largs North, Largs Bay, Semaphore, West Lakes, Tennyson, Grange, Fulham Gardens, Kidman Park & Flinders Park.",3,http://www.adelaidemetro.com.au/routes/652,0033CC,ffffff,
@@ -395,95 +392,90 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 894S,4,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894S,006600,ffffff,892-893-894
 894T,4,894T,Aldgate to Blackwood Station,"via Heathfield. Service operates Tuesdays only.",3,http://www.adelaidemetro.com.au/routes/894T,006600,ffffff,892-893-894
 900,4,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,7030A0,ffffff,401-403-900
-920,71,920,Banksia Park to Tea Tree Plaza Interchange,"School Service. Via St Agnes.",3,http://www.adelaidemetro.com.au/routes/920,FF8C0D,ffffff,
-921,71,921,Golden Grove Interchange School Loop Service,"School Service. Via Atlantis Dr, The Golden Way, Golden Grove Rd, Target Hill Rd & The Golden Way.",3,http://www.adelaidemetro.com.au/routes/921,FF8C0D,ffffff,
-922,71,922,Loreto College to Surrey Downs,"School Service. Via Norwood, Beulah Park, Kensington, Campbelltown, Newton, Athelstone, Paradise, Dernancourt, Highbury & St Agnes.",3,http://www.adelaidemetro.com.au/routes/922,FF8C0D,ffffff,
-924,71,924,Para Hills to Modbury High School,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/924,FF8C0D,ffffff,
-926,71,926,Modbury High School to Para Hills,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/926,FF8C0D,ffffff,
-928,71,928,Saint Ignatius College to City,"School Service. Via Newton, Paradise Interchange & Klemzig Station.",3,http://www.adelaidemetro.com.au/routes/928,FF8C0D,ffffff,
-929,71,929,The Heights High School to Fairview Park,"School Service. Via Modbury Heights, Redwood Park, Surrey Downs & Yatala Vale.",3,http://www.adelaidemetro.com.au/routes/929,FF8C0D,ffffff,
-930,71,930,Paradise to Mawson Lakes,"School Service. Via Windsor Garden, Gilles Plains, Ingle Farm & Pooraka.",3,http://www.adelaidemetro.com.au/routes/930,FF8C0D,ffffff,
-933,7,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/933,FF8C0D,ffffff,
-941,71,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,FF8C0D,ffffff,
-942,71,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,FF8C0D,ffffff,
-949,71,949,Elizabeth to Adelaide Secondary School of English,"School Service. Via Salisbury, Pooraka and Blair Athol.",3,http://www.adelaidemetro.com.au/routes/949,990000,ffffff,
-950,71,950,Aberfoyle Park High School to Darlington,"School Service. Via Happy Valley, Aberfoyle Park & Flagstaff Hill",3,http://www.adelaidemetro.com.au/routes/950,990000,ffffff,
-951,71,951,City to Adelaide Secondary School of English,"School Service. Via King Willian Road to stop 17 Torrens Road.",3,http://www.adelaidemetro.com.au/routes/951,990000,ffffff,
-952,71,952,Colonel Light Gardens to Blackwood High School,"School Service. Stop 18D Springbank Road, Colonel Light Gardens to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/952,990000,ffffff,
-953,71,953,Blackwood High School to Aberfoyle Hub Centre Interchange,"School Service. Blacwood High School to Aberfoyle Hub Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/953,990000,ffffff,
-954,71,954,Blackwood High School Kingswood,"School Service. Blackwood High School to stop 12 Belair Road, Kingswood.",3,http://www.adelaidemetro.com.au/routes/954,990000,ffffff,
-955,71,955,Blackwood High School to Flinders Medical Centre,"School Service. Blackwood High School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/955,990000,ffffff,
-956,71,956,Blackwood High School to Darlington,"School Service. Blackwood High School to stop 30 Flagstaff Hill Road, Darlington.",3,http://www.adelaidemetro.com.au/routes/956,990000,ffffff,
-957,71,957,Cedar Avenue Loop,"School Service. Stop 36 east side, Cedar Av via Kauri Pde, Wheatland St, Brighton Rd to stop 36 Cedar Av west side, then continues as route 265.",3,http://www.adelaidemetro.com.au/routes/957,990000,ffffff,
-958,71,958,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/958,990000,ffffff,
-959,71,959,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/959,990000,ffffff,
-960,71,960,Cabra Dominican College to Glenelg Interchange,"School Service. Cabra Dominican College to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/960,990000,ffffff,
-961,71,961,Cabra Dominican College to Aberfoyle Park,"School Service. Cabra Dominican College to stop 45 Oakridge Road, Aberfoyle Park.",3,http://www.adelaidemetro.com.au/routes/961,990000,ffffff,
-962,71,962,Loreto College to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Rd, Collinswood.",3,http://www.adelaidemetro.com.au/routes/962,990000,ffffff,
-963,71,963,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road.",3,http://www.adelaidemetro.com.au/routes/963,990000,ffffff,
-964,71,964,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road",3,http://www.adelaidemetro.com.au/routes/964,990000,ffffff,
-966,71,966,Marion Centre Interchange to Mercedes College,"School Service. Via Morphett Rd, Bray St,  Raglan Av, Mircham Girl's High, Fullarton Road to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/966,990000,ffffff,
-967,71,967,Mercedes College to Glenelg,"School Service. Via Fullarton Rd, Mitcham Girl's High school, Belair Rd, Grange Rd, Edward St, Raglan Av, Bray St,",3,http://www.adelaidemetro.com.au/routes/967,990000,ffffff,
-968,71,968,Clarence Gardens to Mercedes College,"School Service. Stop 14E Edward Street, Clarence Gardens to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/968,990000,ffffff,
-969,71,969,Clarence Gardens to Mitcham Girls High School,"School Service. Stop 14E Edward Street, Clarence Gardens to Mitcham Girls High School.",3,http://www.adelaidemetro.com.au/routes/969,990000,ffffff,
-970,71,970,Mitcham Girls High School to Glenelg Interchange,"School Service. Mitcham Girls High School to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/970,990000,ffffff,
-971,71,971,Mitcham Girls High School to Marion Centre Interchange,"School Service. Via Raglan Avenue, Marion Road, Finniss Street to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/971,990000,ffffff,
-972,71,972,Mitcham Girls High School to South Road 20,"School Service. Via South Road to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/972,990000,ffffff,
-973,71,973,Pasadena High School to Marion Centre Interchange,"School Service. Pasadena High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/973,990000,ffffff,
-974,71,974,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop E2 Currie Street, city.",3,http://www.adelaidemetro.com.au/routes/974,990000,ffffff,
-975,71,975,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop F1 Victoria Square.",3,http://www.adelaidemetro.com.au/routes/975,990000,ffffff,
-976,71,976,Blackwood Interchange to Sacred Heart Middle School,"School Service. Via Shepherds Hill Rd, Sturt Rd, Marion Rd, Westminster College, Daws Rd to Sacred Heart Middle School.",3,http://www.adelaidemetro.com.au/routes/976,990000,ffffff,
-977,71,977,Sacred Heart Middle School to Flinders Medical,"School Service.",3,http://www.adelaidemetro.com.au/routes/977,990000,ffffff,
-978,71,978,Sacred Heart College Middle School to Marion Centre Interchange,"School Service. Via Marion Road, Sturt Road and Marion Centre Interchange",3,http://www.adelaidemetro.com.au/routes/978,990000,ffffff,
-979,71,979,Aberfoyle Hub Centre Interchange to Sacred Heart Senior College,"School Service. Via Manning rd, Sunnymeade Dr, Black Rd, Flagstaff Rd, Miller St, Diagonal Rd, Marion Centre Interchange,  Sturt Rd and King George Av.",3,http://www.adelaidemetro.com.au/routes/979,990000,ffffff,
+920,51,920,Banksia Park to Tea Tree Plaza Interchange,"School Service. Via St Agnes.",3,http://www.adelaidemetro.com.au/routes/920,FF8C0D,ffffff,
+921,51,921,Golden Grove Interchange School Loop Service,"School Service. Via Atlantis Dr, The Golden Way, Golden Grove Rd, Target Hill Rd & The Golden Way.",3,http://www.adelaidemetro.com.au/routes/921,FF8C0D,ffffff,
+922,51,922,Loreto College to Surrey Downs,"School Service. Via Norwood, Beulah Park, Kensington, Campbelltown, Newton, Athelstone, Paradise, Dernancourt, Highbury & St Agnes.",3,http://www.adelaidemetro.com.au/routes/922,FF8C0D,ffffff,
+924,51,924,Para Hills to Modbury High School,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/924,FF8C0D,ffffff,
+926,51,926,Modbury High School to Para Hills,"School Service. Via Modbury North.",3,http://www.adelaidemetro.com.au/routes/926,FF8C0D,ffffff,
+928,51,928,Saint Ignatius College to City,"School Service. Via Newton, Paradise Interchange & Klemzig Station.",3,http://www.adelaidemetro.com.au/routes/928,FF8C0D,ffffff,
+929,51,929,The Heights High School to Fairview Park,"School Service. Via Modbury Heights, Redwood Park, Surrey Downs & Yatala Vale.",3,http://www.adelaidemetro.com.au/routes/929,FF8C0D,ffffff,
+930,51,930,Paradise to Mawson Lakes,"School Service. Via Windsor Garden, Gilles Plains, Ingle Farm & Pooraka.",3,http://www.adelaidemetro.com.au/routes/930,FF8C0D,ffffff,
+933,5,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/933,FF8C0D,ffffff,
+941,51,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,FF8C0D,ffffff,
+942,51,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,FF8C0D,ffffff,
+949,51,949,Elizabeth to Adelaide Secondary School of English,"School Service. Via Salisbury, Pooraka and Blair Athol.",3,http://www.adelaidemetro.com.au/routes/949,990000,ffffff,
+950,51,950,Aberfoyle Park High School to Darlington,"School Service. Via Happy Valley, Aberfoyle Park & Flagstaff Hill",3,http://www.adelaidemetro.com.au/routes/950,990000,ffffff,
+951,51,951,City to Adelaide Secondary School of English,"School Service. Via King Willian Road to stop 17 Torrens Road.",3,http://www.adelaidemetro.com.au/routes/951,990000,ffffff,
+952,51,952,Colonel Light Gardens to Blackwood High School,"School Service. Stop 18D Springbank Road, Colonel Light Gardens to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/952,990000,ffffff,
+953,51,953,Blackwood High School to Aberfoyle Hub Centre Interchange,"School Service. Blacwood High School to Aberfoyle Hub Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/953,990000,ffffff,
+954,51,954,Blackwood High School Kingswood,"School Service. Blackwood High School to stop 12 Belair Road, Kingswood.",3,http://www.adelaidemetro.com.au/routes/954,990000,ffffff,
+955,51,955,Blackwood High School to Flinders Medical Centre,"School Service. Blackwood High School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/955,990000,ffffff,
+956,51,956,Blackwood High School to Darlington,"School Service. Blackwood High School to stop 30 Flagstaff Hill Road, Darlington.",3,http://www.adelaidemetro.com.au/routes/956,990000,ffffff,
+957,51,957,Cedar Avenue Loop,"School Service. Stop 36 east side, Cedar Av via Kauri Pde, Wheatland St, Brighton Rd to stop 36 Cedar Av west side, then continues as route 265.",3,http://www.adelaidemetro.com.au/routes/957,990000,ffffff,
+958,51,958,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/958,990000,ffffff,
+959,51,959,Brighton Secondary School to Marion Centre Interchange,"School Service. Brighton Secondary School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/959,990000,ffffff,
+960,51,960,Cabra Dominican College to Glenelg Interchange,"School Service. Cabra Dominican College to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/960,990000,ffffff,
+961,51,961,Cabra Dominican College to Aberfoyle Park,"School Service. Cabra Dominican College to stop 45 Oakridge Road, Aberfoyle Park.",3,http://www.adelaidemetro.com.au/routes/961,990000,ffffff,
+962,51,962,Loreto College to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Rd, Collinswood.",3,http://www.adelaidemetro.com.au/routes/962,990000,ffffff,
+963,51,963,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road.",3,http://www.adelaidemetro.com.au/routes/963,990000,ffffff,
+964,51,964,St Ignatius College Junior School to Walkerville,"School Service. Via Portrush Road, O.G Road to stop 11 North East Road",3,http://www.adelaidemetro.com.au/routes/964,990000,ffffff,
+966,51,966,Marion Centre Interchange to Mercedes College,"School Service. Via Morphett Rd, Bray St,  Raglan Av, Mircham Girl's High, Fullarton Road to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/966,990000,ffffff,
+967,51,967,Mercedes College to Glenelg,"School Service. Via Fullarton Rd, Mitcham Girl's High school, Belair Rd, Grange Rd, Edward St, Raglan Av, Bray St,",3,http://www.adelaidemetro.com.au/routes/967,990000,ffffff,
+968,51,968,Clarence Gardens to Mercedes College,"School Service. Stop 14E Edward Street, Clarence Gardens to Mercedes College.",3,http://www.adelaidemetro.com.au/routes/968,990000,ffffff,
+969,51,969,Clarence Gardens to Mitcham Girls High School,"School Service. Stop 14E Edward Street, Clarence Gardens to Mitcham Girls High School.",3,http://www.adelaidemetro.com.au/routes/969,990000,ffffff,
+970,51,970,Mitcham Girls High School to Glenelg Interchange,"School Service. Mitcham Girls High School to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/970,990000,ffffff,
+971,51,971,Mitcham Girls High School to Marion Centre Interchange,"School Service. Via Raglan Avenue, Marion Road, Finniss Street to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/971,990000,ffffff,
+972,51,972,Mitcham Girls High School to South Road 20,"School Service. Via South Road to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/972,990000,ffffff,
+973,51,973,Pasadena High School to Marion Centre Interchange,"School Service. Pasadena High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/973,990000,ffffff,
+974,51,974,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop E2 Currie Street, city.",3,http://www.adelaidemetro.com.au/routes/974,990000,ffffff,
+975,51,975,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop F1 Victoria Square.",3,http://www.adelaidemetro.com.au/routes/975,990000,ffffff,
+976,51,976,Blackwood Interchange to Sacred Heart Middle School,"School Service. Via Shepherds Hill Rd, Sturt Rd, Marion Rd, Westminster College, Daws Rd to Sacred Heart Middle School.",3,http://www.adelaidemetro.com.au/routes/976,990000,ffffff,
+977,51,977,Sacred Heart Middle School to Flinders Medical,"School Service.",3,http://www.adelaidemetro.com.au/routes/977,990000,ffffff,
+978,51,978,Sacred Heart College Middle School to Marion Centre Interchange,"School Service. Via Marion Road, Sturt Road and Marion Centre Interchange",3,http://www.adelaidemetro.com.au/routes/978,990000,ffffff,
+979,51,979,Aberfoyle Hub Centre Interchange to Sacred Heart Senior College,"School Service. Via Manning rd, Sunnymeade Dr, Black Rd, Flagstaff Rd, Miller St, Diagonal Rd, Marion Centre Interchange,  Sturt Rd and King George Av.",3,http://www.adelaidemetro.com.au/routes/979,990000,ffffff,
 97A,5,97A,Royal Adelaide Hospital Shuttle Service,"via Currie St, Grenfell St, East Tce and North Tce.",3,http://www.adelaidemetro.com.au/routes/97A,0033CC,ffffff,97A-98A-98C-99A-99C
-980,71,980,Sacred Heart Senior College to Marion Centre Interchange,"School Service. Via Diagonal Road.",3,http://www.adelaidemetro.com.au/routes/980,990000,ffffff,
-981,71,981,Sacred Heart Senior School to Flinders Medical Centre,"School Service. Sacred Heart Senior School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/981,990000,ffffff,
-982,71,982,Sacred Heart Senior College to St Marys,"School Service. Via Diagonal Rd, Sturt Rd, Main South Rd to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/982,990000,ffffff,
-984,71,984,Seaview High School to Marino,"School Service. Via Seacombe Road, Brighton Road to stop 46 Newland Av.",3,http://www.adelaidemetro.com.au/routes/984,990000,ffffff,
-985,71,985,St Dominic's to City,"School Service. Via North Adelaide.",3,http://www.adelaidemetro.com.au/routes/985,990000,ffffff,
-986,71,986,Colonel Light Gardens to Unley High School,"School Service. Stop 14 Grange Road, Colonel Light Gardens to Unley High School.",3,http://www.adelaidemetro.com.au/routes/986,990000,ffffff,
-987,71,987,Unley High School to Plympton,"School Service. Via Mitcham Girl's High School, Belair Rd, Grange Rd, Edward St, Raglan Av to stop 11A Marion Rd.",3,http://www.adelaidemetro.com.au/routes/987,990000,ffffff,
-988,71,988,Glenelg to Highgate,"School Service. Stop 24 Brighton Road, Glenelg East to stop 165 Cross Road, Highgate.",3,http://www.adelaidemetro.com.au/routes/988,990000,ffffff,
-989,71,989,Aberfoyle Hub Centre Interchange to Urrbrae Agricultural High School,"School Service. Cia Manning Rd, Sunnymeade Dr, Black Rd, Flagstaff Rd to stop 165 Cross Rd.",3,http://www.adelaidemetro.com.au/routes/989,990000,ffffff,
+980,51,980,Sacred Heart Senior College to Marion Centre Interchange,"School Service. Via Diagonal Road.",3,http://www.adelaidemetro.com.au/routes/980,990000,ffffff,
+981,51,981,Sacred Heart Senior School to Flinders Medical Centre,"School Service. Sacred Heart Senior School to Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/981,990000,ffffff,
+982,51,982,Sacred Heart Senior College to St Marys,"School Service. Via Diagonal Rd, Sturt Rd, Main South Rd to stop 20 South Rd, Clovelly Park.",3,http://www.adelaidemetro.com.au/routes/982,990000,ffffff,
+984,51,984,Seaview High School to Marino,"School Service. Via Seacombe Road, Brighton Road to stop 46 Newland Av.",3,http://www.adelaidemetro.com.au/routes/984,990000,ffffff,
+985,51,985,St Dominic's to City,"School Service. Via North Adelaide.",3,http://www.adelaidemetro.com.au/routes/985,990000,ffffff,
+986,51,986,Colonel Light Gardens to Unley High School,"School Service. Stop 14 Grange Road, Colonel Light Gardens to Unley High School.",3,http://www.adelaidemetro.com.au/routes/986,990000,ffffff,
+987,51,987,Unley High School to Plympton,"School Service. Via Mitcham Girl's High School, Belair Rd, Grange Rd, Edward St, Raglan Av to stop 11A Marion Rd.",3,http://www.adelaidemetro.com.au/routes/987,990000,ffffff,
+988,51,988,Glenelg to Highgate,"School Service. Stop 24 Brighton Road, Glenelg East to stop 165 Cross Road, Highgate.",3,http://www.adelaidemetro.com.au/routes/988,990000,ffffff,
+989,51,989,Aberfoyle Hub Centre Interchange to Urrbrae Agricultural High School,"School Service. Cia Manning Rd, Sunnymeade Dr, Black Rd, Flagstaff Rd to stop 165 Cross Rd.",3,http://www.adelaidemetro.com.au/routes/989,990000,ffffff,
 98A,5,98A,City & North Adelaide Anti-Clockwise Loop,"via Town Hall, Adelaide Oval, Calvary North Adelaide Hospital, North Adelaide Library & Community Centre, Women's & Children's Hospital, Adelaide Zoo, Parliament House, State Library, Royal Adelaide Hospital & Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/98A,0033CC,ffffff,97A-98A-98C-99A-99C
 98C,5,98C,City & North Adelaide Clockwise Loop,"via Town Hall, Adelaide Oval, Calvary North Adelaide Hospital, North Adelaide Library & Community Centre, Women's & Children's Hospital, Adelaide Zoo, Parliament House, State Library, Royal Adelaide Hospital & Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/98C,0033CC,ffffff,97A-98A-98C-99A-99C
-990,71,990,Urrbrae Agricultural High School to Plympton,"School Service. Urrbrae Agricultural High School to stop 11 Marion Road, Plympton.",3,http://www.adelaidemetro.com.au/routes/990,990000,ffffff,
-991,71,991,Urrbrae Agricultural High School to Marion Centre Interchange,"School Service. Urrbrae Agricultural High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/991,990000,ffffff,
-992,71,992,Urrbrae Agricultural High School to Walkerville,"School Service. Via Cross Road, Portrush Road and  North East Road.",3,http://www.adelaidemetro.com.au/routes/992,990000,ffffff,
-993,71,993,Westminster School to Coromandel Valley,"School Service. Via sturt Rd, Shepherds Hill Rd, Coromandel Pde, Grand Bvd to stop 41 Murrays Hill Rd.",3,http://www.adelaidemetro.com.au/routes/993,990000,ffffff,
-994,71,994,Arndale Centre Interchange to Ridley Grove,"School Service. Arndale Centre Interchange to Ridley Grove R-7 School.",3,http://www.adelaidemetro.com.au/routes/994,990000,ffffff,
-995,71,995,Collinswood to Marryatville High School,"School Service. Via Hampstead, Klemzig, Payneham & Trinity Gardens.",3,http://www.adelaidemetro.com.au/routes/995,990000,ffffff,
-996,71,996,Marion Centre Interchange to Blackwood High School,"School Service. Marion Centre Interchange to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/996,990000,ffffff,
-997,71,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
+990,51,990,Urrbrae Agricultural High School to Plympton,"School Service. Urrbrae Agricultural High School to stop 11 Marion Road, Plympton.",3,http://www.adelaidemetro.com.au/routes/990,990000,ffffff,
+991,51,991,Urrbrae Agricultural High School to Marion Centre Interchange,"School Service. Urrbrae Agricultural High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/991,990000,ffffff,
+992,51,992,Urrbrae Agricultural High School to Walkerville,"School Service. Via Cross Road, Portrush Road and  North East Road.",3,http://www.adelaidemetro.com.au/routes/992,990000,ffffff,
+993,51,993,Westminster School to Coromandel Valley,"School Service. Via sturt Rd, Shepherds Hill Rd, Coromandel Pde, Grand Bvd to stop 41 Murrays Hill Rd.",3,http://www.adelaidemetro.com.au/routes/993,990000,ffffff,
+994,51,994,Arndale Centre Interchange to Ridley Grove,"School Service. Arndale Centre Interchange to Ridley Grove R-7 School.",3,http://www.adelaidemetro.com.au/routes/994,990000,ffffff,
+995,51,995,Collinswood to Marryatville High School,"School Service. Via Hampstead, Klemzig, Payneham & Trinity Gardens.",3,http://www.adelaidemetro.com.au/routes/995,990000,ffffff,
+996,51,996,Marion Centre Interchange to Blackwood High School,"School Service. Marion Centre Interchange to Blackwood High School.",3,http://www.adelaidemetro.com.au/routes/996,990000,ffffff,
+997,51,997,Craigburn Farm to Cabra College,"School Service. Going to Cabra College, service continues as G30F from Blackwood Station. Cabra College students can alight at Stop 9 Goodwood Rd.",3,http://www.adelaidemetro.com.au/routes/997,990000,ffffff,G30F
 99A,5,99A,City Anti-Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99A,0033CC,ffffff,97A-98A-98C-99A-99C
 99C,5,99C,City Clockwise Loop,"via Town Hall, Rundle Mall, State Library & Museums, Royal Adelaide Hospital and Adelaide Central Market.",3,http://www.adelaidemetro.com.au/routes/99C,0033CC,ffffff,97A-98A-98C-99A-99C
-B10,5,B10,West Lakes Centre Interchange to Magill,"via Frederick Road, Grange Road, City and Magill Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
-B10C,5,B10C,West Lakes Centre Interchange/Magill to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/B10,0033CC,ffffff,B10-B12
-B12,5,B12,West Lakes Centre Interchange to City,"via Military Road and Grange Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/B12,0033CC,ffffff,B10-B12
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
 BTANIC,2,BTANIC,Botanic Gardens to Entertainment Centre,"via North Tce & Port Rd. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/BTANIC,ffa300,000000,GLNELG-BTANIC-FESTVL
-C1,7,C1,Golden Grove Interchange to City,"via O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-C1G,7,C1G,City to Golden Grove Interchange,"via O-Bahn, Paradise Interchange & Tea Tree Plaza Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,
-C1T,7,C1T,City to Tea Tree Plaza Interchange,"via O-Bahn & Paradise Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,
-C1X,7,C1X,Golden Grove Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-C2,7,C2,Greenwith to City,"via Golden Grove Interchange & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-C2X,7,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
+C1,5,C1,Golden Grove Interchange to City,"via O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
+C1X,5,C1X,Golden Grove Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
+C2,5,C2,Greenwith to City,"via Golden Grove Interchange & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
+C2X,5,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 FESTVL,2,FESTVL,Glenelg to Festival Plaza,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St & King William Rd. Service operates weekends & Adelaide Oval special event days only.",0,http://www.adelaidemetro.com.au/routes/FESTVL,0072ce,ffffff,GLNELG-BTANIC-FESTVL
-G10,7,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
-G10A,7,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
-G10B,7,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
-G10C,7,G10C,Marion Centre Interchange/Blair Athol to City,"Terminates at Stop VS6 Victoria Square or stop Y2 King William Street, City.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
-G20,7,G20,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G20,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G20F,7,G20F,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G20F,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G20X,7,G20X,City to Aberfoyle Hub,"via Flagstaff Road. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G20X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G21,7,G21,Aberfoyle Hub to City,"via Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G21,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G21F,7,G21F,Aberfoyle Hub to City,"via Goodwood Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21F,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G21X,7,G21X,Aberfoyle Hub to City,"Express service between stop 25 Ayliffes Road & City. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G22X,7,G22X,Aberfoyle Park to City,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
-G30F,7,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
-G40,7,G40,Golden Grove Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
-G40M,7,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
+G10,5,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
+G10A,5,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
+G10B,5,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
+G10C,5,G10C,Marion Centre Interchange/Blair Athol to City,"Terminates at Stop VS6 Victoria Square or stop Y2 King William Street, City.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
+G20,5,G20,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G20,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G20F,5,G20F,Aberfoyle Hub to City,"via Flagstaff Road & Goodwood Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G20F,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G20X,5,G20X,City to Aberfoyle Hub,"via Flagstaff Road. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G20X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G21,5,G21,Aberfoyle Hub to City,"via Goodwood Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G21,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G21F,5,G21F,Aberfoyle Hub to City,"via Goodwood Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21F,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G21X,5,G21X,Aberfoyle Hub to City,"Express service between stop 25 Ayliffes Road & City. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G21X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G22X,5,G22X,Aberfoyle Park to City,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
+G40,5,G40,Golden Grove Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
+G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
@@ -508,36 +500,34 @@ HL1,4,HL1,Hahndorf to Mt Barker Township Loop,"Hahndorf loop services. Operates 
 HL2,4,HL2,Hahndorf to Mt Barker Township Loop,"Hahndorf loop services. Operates Fridays only, excluding public holidays.",3,http://www.adelaidemetro.com.au/routes/HL2,006600,ffffff,HL1-HL2
 INDA,52,INDA,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDA,0033CC,ffffff,
 INDB,52,INDB,Phoenix Society to City,"Industrial Service. For Phoenix Society personnel only.",3,http://www.adelaidemetro.com.au/routes/INDB,0033CC,ffffff,
-IndstA,72,IndstA,Marion Centre Interchange to Bedford Industries,"Industrial Service.",3,http://www.adelaidemetro.com.au/routes/IndstA,990000,ffffff,
-IndstB,72,IndstB,Royal Society For The Blind to City,"Industrial Service. Only for Royal Society for the Blind personnel & school students.",3,http://www.adelaidemetro.com.au/routes/IndstB,FF8C0D,ffffff,
+IndstA,52,IndstA,Marion Centre Interchange to Bedford Industries,"Industrial Service.",3,http://www.adelaidemetro.com.au/routes/IndstA,990000,ffffff,
+IndstB,52,IndstB,Royal Society For The Blind to City,"Industrial Service. Only for Royal Society for the Blind personnel & school students.",3,http://www.adelaidemetro.com.au/routes/IndstB,FF8C0D,ffffff,
 J1,5,J1,Elizabeth Interchange to Adelaide Airport and Glenelg,"via Lyell McEwin Hospital, Golden Grove Interchange, Tea Tree Plaza Interchange, O-Bahn, city, Sir Donald Bradman Dr and Harbour Town. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1A,5,J1A,Elizabeth Interchange to Adelaide Airport,"Terminates at Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1A,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1G,5,J1G,Glenelg to Golden Grove Interchange,"Terminates at Golden Grove Interchange.",3,http://www.adelaidemetro.com.au/routes/J1G,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-J1H,5,J1H,City to Harbour Town,"via Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1H,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1T,5,J1T,Adelaide Airport to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza.",3,http://www.adelaidemetro.com.au/routes/J1T,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1X,5,J1X,City to Adelaide Airport,"via Sir Donald Bradman Dr. Limited stop service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/J1X,0033CC,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J2,5,J2,Greenwith to Adelaide Airport & Harbour Town,"via Golden Grove Interchange, Tea Tree Plaza Interchange, O-Bahn, city and Sir Donald Bradman Dr. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J2,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J2G,5,J2G,Greenwith to Glenelg,"Continues to Glenelg via Tapleys Hill Rd.",3,http://www.adelaidemetro.com.au/routes/J2G,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-J3,5,J3,Glenelg Interchange to City,"via Adelaide Airport & Sir Donald Bradman Dr. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J3,0033CC,ffffff,
 J7,5,J7,West Lakes Centre Interchange to Marion Centre Interchange,"via Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J7,0033CC,ffffff,J7-J8-371-372
 J7M,5,J7M,West Lakes Centre Interchange / Marion Centre Interchange to Camden Park,"Terminates at stop 15 Mooringe Avenue.",3,http://www.adelaidemetro.com.au/routes/J7M,0033CC,ffffff,J7-J8-371-372
 J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens Rd, Arndale Centre Interchange, Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J8,0033CC,ffffff,J7-J8-371-372
-M44,7,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-M44C,7,M44C,Marion Centre Interchange to City,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-M44T,7,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-N1,7,N1,After Midnight Saturday PM - Sunday AM Golden Grove Interchange & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-N10,7,N10,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Goodwood Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N10,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
+M44C,5,M44C,Marion Centre Interchange to City,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
+M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
+N1,5,N1,After Midnight Saturday PM - Sunday AM Golden Grove Interchange & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
+N10,5,N10,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Goodwood Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N10,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 N178,5,N178,After Midnight Saturday PM - Sunday AM Newton to City,"via Montacute Road & Payneham Road. Service operates Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N178,0033CC,ffffff,174-176-178-178X-579-N178
-N202,7,N202,After Midnight Saturday PM - Sunday AM Ingle Farm to City,"via Hampstead Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N202,990000,ffffff,202-202F-203-203F-209F-N202
-N21,7,N21,After Midnight Saturday PM - Sunday AM City to Aberfoyle Hub,"via Goodwood Road & Marion Centre Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N21,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+N202,5,N202,After Midnight Saturday PM - Sunday AM Ingle Farm to City,"via Hampstead Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N202,990000,ffffff,202-202F-203-203F-209F-N202
+N21,5,N21,After Midnight Saturday PM - Sunday AM City to Aberfoyle Hub,"via Goodwood Road & Marion Centre Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N21,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,"via The Parade. Service operates Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N22,0033CC,ffffff,H22-H23-H24-H32-N22
 N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,7030A0,ffffff,224-224F-224X-226F-N224
-N254,7,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,990000,ffffff,253-253X-254-254X-N254
-N262,7,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,990000,ffffff,262-263-265-N262
+N254,5,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,990000,ffffff,253-253X-254-254X-N254
+N262,5,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,990000,ffffff,262-263-265-N262
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,0033CC,ffffff,H30-X30-530-N30
-N502,7,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,FF8C0D,ffffff,500-501-502-502X-N502
-N541,7,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,FF8C0D,ffffff,540-541-541X-N541
-N542,7,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,FF8C0D,ffffff,542-542X-N542-N541
+N502,5,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,FF8C0D,ffffff,500-501-502-502X-N502
+N541,5,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,FF8C0D,ffffff,540-541-541X-N541
+N542,5,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,FF8C0D,ffffff,542-542X-N542-N541
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS

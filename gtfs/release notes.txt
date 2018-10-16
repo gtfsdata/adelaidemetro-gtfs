@@ -12,6 +12,10 @@ None.
 General Amendments:
 
 
-1) Further improvements to trip data for October 14 service change.
+1) Routes 167 and 168 now service stops T2 Grenfell St, and V3 and X1 Currie St when leaving the city.
 
-2) Changes to tram timetable from Saturday, 13 October implemented.
+2) Routes 115, 117 and 118 now service stops V1, W1 and X1 Currie St when leaving the city.
+
+3) All Light City Buses routes have been moved to the Torrens Transit agency.
+
+4) GLNELG and FESTVL tram routes will not be operating through Jetty Rd on 21 October due to a street party.
