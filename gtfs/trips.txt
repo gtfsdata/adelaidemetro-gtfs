@@ -19,8 +19,6 @@ N542,51,175789,Tea Tree Plaza,,0,175789,11315,
 N542,51,175790,Tea Tree Plaza,,0,175790,11315,
 N542,51,175791,Tea Tree Plaza,,0,175791,11315,
 N542,51,175792,Tea Tree Plaza,,0,175792,11315,
-Tram,1,217022,Entertainment Centre,,0,217022,7365,1
-Tram,1,217134,Glenelg,,1,217134,7364,1
 830F,21,223673,City,,0,223673,10907,
 834A,44,223680,Lobethal,,1,223680,10906,
 835,21,223684,Mt Barker,,0,223684,10910,
@@ -3169,48 +3167,48 @@ T843,12,370020,Mt Barker,,1,370020,12994,
 196,31,371447,Blackwood,,1,371447,9889,
 196F,31,371462,City,,0,371462,12115,
 H33C,31,372566,City,,0,372566,13150,
-97A,11,373788,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373789,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373790,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373791,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373792,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373793,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373794,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373795,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373796,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373797,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373798,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373799,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373800,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373801,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373802,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373803,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373804,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373805,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373806,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373807,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,11,373808,New Royal Adelaide Hospital Shuttle,,1,973,12659,
-97A,12,375101,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375102,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375103,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375104,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375105,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375106,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375107,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375108,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375109,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375110,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375111,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375112,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375113,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375114,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375115,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375116,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375117,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375118,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375119,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375120,New Royal Adelaide Hospital Shuttle,,1,972,12659,
-97A,12,375121,New Royal Adelaide Hospital Shuttle,,1,972,12659,
+97A,4002,373788,New Royal Adelaide Hospital Shuttle,,1,373788,12659,
+97A,4002,373789,New Royal Adelaide Hospital Shuttle,,1,373789,12659,
+97A,4002,373790,New Royal Adelaide Hospital Shuttle,,1,373790,12659,
+97A,4002,373791,New Royal Adelaide Hospital Shuttle,,1,373791,12659,
+97A,4002,373792,New Royal Adelaide Hospital Shuttle,,1,373792,12659,
+97A,4002,373793,New Royal Adelaide Hospital Shuttle,,1,373793,12659,
+97A,4002,373794,New Royal Adelaide Hospital Shuttle,,1,373794,12659,
+97A,4002,373795,New Royal Adelaide Hospital Shuttle,,1,373795,12659,
+97A,4002,373796,New Royal Adelaide Hospital Shuttle,,1,373796,12659,
+97A,4002,373797,New Royal Adelaide Hospital Shuttle,,1,373797,12659,
+97A,4002,373798,New Royal Adelaide Hospital Shuttle,,1,373798,12659,
+97A,4002,373799,New Royal Adelaide Hospital Shuttle,,1,373799,12659,
+97A,4002,373800,New Royal Adelaide Hospital Shuttle,,1,373800,12659,
+97A,4002,373801,New Royal Adelaide Hospital Shuttle,,1,373801,12659,
+97A,4002,373802,New Royal Adelaide Hospital Shuttle,,1,373802,12659,
+97A,4002,373803,New Royal Adelaide Hospital Shuttle,,1,373803,12659,
+97A,4002,373804,New Royal Adelaide Hospital Shuttle,,1,373804,12659,
+97A,4002,373805,New Royal Adelaide Hospital Shuttle,,1,373805,12659,
+97A,4002,373806,New Royal Adelaide Hospital Shuttle,,1,373806,12659,
+97A,4002,373807,New Royal Adelaide Hospital Shuttle,,1,373807,12659,
+97A,4002,373808,New Royal Adelaide Hospital Shuttle,,1,373808,12659,
+97A,4003,375101,New Royal Adelaide Hospital Shuttle,,1,375101,12659,
+97A,4003,375102,New Royal Adelaide Hospital Shuttle,,1,375102,12659,
+97A,4003,375103,New Royal Adelaide Hospital Shuttle,,1,375103,12659,
+97A,4003,375104,New Royal Adelaide Hospital Shuttle,,1,375104,12659,
+97A,4003,375105,New Royal Adelaide Hospital Shuttle,,1,375105,12659,
+97A,4003,375106,New Royal Adelaide Hospital Shuttle,,1,375106,12659,
+97A,4003,375107,New Royal Adelaide Hospital Shuttle,,1,375107,12659,
+97A,4003,375108,New Royal Adelaide Hospital Shuttle,,1,375108,12659,
+97A,4003,375109,New Royal Adelaide Hospital Shuttle,,1,375109,12659,
+97A,4003,375110,New Royal Adelaide Hospital Shuttle,,1,375110,12659,
+97A,4003,375111,New Royal Adelaide Hospital Shuttle,,1,375111,12659,
+97A,4003,375112,New Royal Adelaide Hospital Shuttle,,1,375112,12659,
+97A,4003,375113,New Royal Adelaide Hospital Shuttle,,1,375113,12659,
+97A,4003,375114,New Royal Adelaide Hospital Shuttle,,1,375114,12659,
+97A,4003,375115,New Royal Adelaide Hospital Shuttle,,1,375115,12659,
+97A,4003,375116,New Royal Adelaide Hospital Shuttle,,1,375116,12659,
+97A,4003,375117,New Royal Adelaide Hospital Shuttle,,1,375117,12659,
+97A,4003,375118,New Royal Adelaide Hospital Shuttle,,1,375118,12659,
+97A,4003,375119,New Royal Adelaide Hospital Shuttle,,1,375119,12659,
+97A,4003,375120,New Royal Adelaide Hospital Shuttle,,1,375120,12659,
+97A,4003,375121,New Royal Adelaide Hospital Shuttle,,1,375121,12659,
 601,31,378093,Old Reynella,,1,378093,11705,
 864F,21,382080,City,,0,382080,12982,
 864F,21,382081,Mt Barker,,1,382081,12983,
@@ -8415,7 +8413,7 @@ T863,3,444641,City,,0,444641,12995,
 178,1,459662,Paradise,,1,459662,13834,
 178,18,459663,City,,0,459282,12095,
 178,3,459664,City,,0,459283,12095,
-178,1,459665,Newton (continues to Paradise),,1,463354,13880,
+178,1,459665,Paradise,,1,463354,13880,
 178,7,459666,City,,0,459666,13635,
 178,7,459667,Paradise,,1,459667,13835,
 178,6,459668,City,,0,459668,13635,
@@ -8423,15 +8421,15 @@ T863,3,444641,City,,0,444641,12995,
 178,1,459670,City,,0,459286,12094,
 178,1,459671,City,,0,459287,12094,
 178,1,459672,City,,0,459288,12094,
-178,1,459673,Newton (continues to Paradise),,1,463358,13880,
+178,1,459673,Paradise,,1,463358,13880,
 178,1,459674,City,,0,459290,12094,
 178,1,459675,City,,0,459291,12094,
 178,1,459676,City,,0,459676,13635,
 178,1,459677,City,,0,459292,12094,
 178,1,459678,City,,0,459293,12094,
 178,1,459679,City,,0,459294,12094,
-178,1,459680,Newton (continues to Paradise),,1,463367,13880,
-178,1,459681,Newton (continues to Paradise),,1,463368,13881,
+178,1,459680,Paradise,,1,463367,13880,
+178,1,459681,Paradise,,1,463368,13881,
 178,1,459682,Paradise,,1,459682,13834,
 178,1,459683,Paradise,,1,459683,13834,
 178,1,459684,Paradise,,1,459684,13834,
@@ -10667,32 +10665,32 @@ T863,3,444641,City,,0,444641,12995,
 300M,1,461914,Marion,,1,461914,12229,
 300M,9,461915,Marion,,1,461915,12229,
 300M,17,461916,Marion,,1,461916,12229,
-300U,1,461917,Marion (continues to Flinders University),,1,464053,12231,
-300U,1,461918,Marion (continues to Flinders University),,1,464054,12231,
-300U,1,461919,Marion (continues to Flinders University),,1,464061,12231,
-300U,1,461920,Marion (continues to Flinders University),,1,464079,12231,
-300U,1,461921,Marion (continues to Flinders University),,1,464097,12231,
-300U,1,461922,Marion (continues to Flinders University),,1,464099,12231,
-300U,1,461923,Marion (continues to Flinders University),,1,464105,12231,
-300U,9,461924,Marion (continues to Flinders University),,1,464110,12231,
-300U,17,461925,Marion (continues to Flinders University),,1,464111,12231,
-300U,14,461926,Marion (continues to Flinders University),,1,464114,12231,
-300U,6,461927,Marion (continues to Flinders University),,1,464115,12231,
-300U,4,461928,Marion (continues to Flinders University),,1,464116,12231,
-300U,1,461929,Marion (continues to Flinders University),,1,464122,12231,
-300U,1,461930,Marion (continues to Flinders University),,1,464131,12231,
-300U,1,461931,Marion (continues to Flinders University),,1,464134,12231,
-300U,1,461932,Marion (continues to Flinders University),,1,464136,12231,
-300U,1,461933,Marion (continues to Flinders University),,1,464137,12231,
-300U,1,461934,Marion (continues to Flinders University),,1,464150,12231,
-300U,1,461935,Marion (continues to Flinders University),,1,464151,12231,
-300U,1,461936,Marion (continues to Flinders University),,1,464152,12231,
-300U,18,461937,Marion (continues to Flinders University),,1,464162,12231,
-300U,3,461938,Marion (continues to Flinders University),,1,464164,12231,
-300U,9,461939,Marion (continues to Flinders University),,1,464174,12231,
-300U,17,461940,Marion (continues to Flinders University),,1,464176,12231,
-300U,1,461941,Marion (continues to Flinders University),,1,464184,12231,
-300U,1,461942,Marion (continues to Flinders University),,1,464188,12231,
+300U,1,461917, Flinders University (continues to Goodwood Rd),,1,464053,12231,
+300U,1,461918, Flinders University (continues to Goodwood Rd),,1,464054,12231,
+300U,1,461919, Flinders University (continues to Goodwood Rd),,1,464061,12231,
+300U,1,461920, Flinders University (continues to Goodwood Rd),,1,464079,12231,
+300U,1,461921, Flinders University (continues to Goodwood Rd),,1,464097,12231,
+300U,1,461922, Flinders University (continues to Goodwood Rd),,1,464099,12231,
+300U,1,461923, Flinders University (continues to Goodwood Rd),,1,464105,12231,
+300U,9,461924, Flinders University (continues to Goodwood Rd),,1,464110,12231,
+300U,17,461925, Flinders University (continues to Goodwood Rd),,1,464111,12231,
+300U,14,461926, Flinders University (continues to Goodwood Rd),,1,464114,12231,
+300U,6,461927, Flinders University (continues to Goodwood Rd),,1,464115,12231,
+300U,4,461928, Flinders University (continues to Goodwood Rd),,1,464116,12231,
+300U,1,461929, Flinders University (continues to Goodwood Rd),,1,464122,12231,
+300U,1,461930, Flinders University (continues to Goodwood Rd),,1,464131,12231,
+300U,1,461931, Flinders University (continues to Goodwood Rd),,1,464134,12231,
+300U,1,461932, Flinders University (continues to Goodwood Rd),,1,464136,12231,
+300U,1,461933, Flinders University (continues to Goodwood Rd),,1,464137,12231,
+300U,1,461934, Flinders University (continues to Goodwood Rd),,1,464150,12231,
+300U,1,461935, Flinders University (continues to Goodwood Rd),,1,464151,12231,
+300U,1,461936, Flinders University (continues to Goodwood Rd),,1,464152,12231,
+300U,18,461937, Flinders University (continues to Goodwood Rd),,1,464162,12231,
+300U,3,461938, Flinders University (continues to Goodwood Rd),,1,464164,12231,
+300U,9,461939, Flinders University (continues to Goodwood Rd),,1,464174,12231,
+300U,17,461940, Flinders University (continues to Goodwood Rd),,1,464176,12231,
+300U,1,461941, Flinders University (continues to Goodwood Rd),,1,464184,12231,
+300U,1,461942, Flinders University (continues to Goodwood Rd),,1,464188,12231,
 320,1,461943,Marion,,0,461943,8069,
 320,1,461944,Marion,,0,461944,8069,
 320,1,461945,Marion,,0,461945,8069,
@@ -11189,7 +11187,7 @@ T863,3,444641,City,,0,444641,12995,
 506,1,462437,Tea Tree Plaza,,1,462437,3246,
 506,1,462438,Paradise,,0,462438,3240,
 506,1,462439,Paradise,,0,462439,3240,
-506,1,462440,Para Hills,,1,463108,679,
+506,1,462440,Tea Tree Plaza,,1,463108,679,
 506,1,462441,Tea Tree Plaza,,1,462441,3246,
 506,1,462442,Tea Tree Plaza,,1,462442,3246,
 506,1,462443,Paradise,,0,462443,3240,
@@ -11202,7 +11200,7 @@ T863,3,444641,City,,0,444641,12995,
 506,1,462450,City,,0,462450,13569,
 506,1,462451,Paradise,,0,462451,3240,
 506,1,462452,Paradise,,0,462452,3240,
-506,1,462453,Para Hills,,1,463109,679,
+506,1,462453,Tea Tree Plaza,,1,463109,679,
 506,1,462454,Paradise,,0,462454,3240,
 506,1,462455,Paradise,,0,462455,3240,
 506,1,462456,Paradise,,0,462456,4140,
@@ -11263,10 +11261,10 @@ T863,3,444641,City,,0,444641,12995,
 506,9,462511,City,,0,462511,13215,
 506,17,462512,Tea Tree Plaza,,1,462512,13217,
 506,17,462513,City,,0,462513,13215,
-506,1,462514,Para Hills,,1,463110,679,
+506,1,462514,Tea Tree Plaza,,1,463110,679,
 506,1,462515,City,,0,462515,13569,
 506,1,462516,Tea Tree Plaza,,1,462516,13217,
-506,1,462517,Para Hills,,1,463111,679,
+506,1,462517,Tea Tree Plaza,,1,463111,679,
 506,18,462518,Paradise,,0,462518,3240,
 506,3,462519,Paradise,,0,462519,3240,
 506,1,462520,Paradise,,0,462520,3240,
@@ -11277,7 +11275,7 @@ T863,3,444641,City,,0,444641,12995,
 506,1,462525,City,,0,462525,13215,
 506,1,462526,Tea Tree Plaza,,1,462526,13218,
 506,1,462527,Paradise,,0,462527,3240,
-506,1,462528,Para Hills,,1,463113,679,
+506,1,462528,Tea Tree Plaza,,1,463113,679,
 506,1,462529,City,,0,462529,13569,
 506,1,462530,City,,0,462530,13215,
 506,7,462531,Tea Tree Plaza,,1,462531,13217,
@@ -11409,16 +11407,16 @@ T863,3,444641,City,,0,444641,12995,
 528,18,462657,Northgate,,1,462657,13644,
 528,3,462658,Northgate,,1,462658,13644,
 530,1,462659,City,,0,462659,13928,
-530,1,462660,Paradise (continues to Firle),,1,464750,13931,
+530,1,462660,Firle,,1,464750,13931,
 530,1,462661,City,,0,462661,13928,
 530,1,462662,City,,0,462662,13928,
-530,1,462663,Paradise (continues to Firle),,1,465504,13931,
+530,1,462663,Firle,,1,465504,13931,
 530,1,462664,City,,0,462664,13928,
-530,1,462665,Paradise (continues to Firle),,1,465506,13931,
-530,1,462666,Paradise (continues to Firle),,1,465507,13931,
+530,1,462665,Firle,,1,465506,13931,
+530,1,462666,Firle,,1,465507,13931,
 530,1,462667,City,,0,462667,13928,
-530,1,462668,Paradise (continues to Firle),,1,465510,13931,
-530,1,462669,Paradise (continues to Firle),,1,464771,13931,
+530,1,462668,Firle,,1,465510,13931,
+530,1,462669,Firle,,1,464771,13931,
 530,1,462670,City,,0,462670,13928,
 540,1,462671,City,,0,462671,13750,
 540,1,462672,City,,0,462672,13750,
@@ -11850,13 +11848,13 @@ T863,3,444641,City,,0,444641,12995,
 545X,1,463098,City,,0,463098,13244,
 545X,1,463099,Golden Grove,,1,463099,13246,
 545X,1,463100,Golden Grove,,1,463100,13246,
-546,1,463101,Tea Tree Plaza,,1,462455,13247,
-546,9,463102,Tea Tree Plaza,,1,462476,13247,
-546,17,463103,Tea Tree Plaza,,1,462478,13247,
-546,1,463104,Tea Tree Plaza,,1,462534,13247,
-546,4,463105,Tea Tree Plaza,,1,462536,13247,
-546,1,463106,Tea Tree Plaza,,1,462556,13247,
-546,8,463107,Tea Tree Plaza,,1,462558,13247,
+546,1,463101,Para Hills,,1,462455,13247,
+546,9,463102,Para Hills,,1,462476,13247,
+546,17,463103,Para Hills,,1,462478,13247,
+546,1,463104,Para Hills,,1,462534,13247,
+546,4,463105,Para Hills,,1,462536,13247,
+546,1,463106,Para Hills,,1,462556,13247,
+546,8,463107,Para Hills,,1,462558,13247,
 546X,1,463108,City,,0,463108,13248,
 546X,1,463109,City,,0,463109,13248,
 546X,1,463110,City,,0,463110,13248,
@@ -12102,20 +12100,20 @@ T863,3,444641,City,,0,444641,12995,
 559S,1,463350,St Agnes,,1,463350,13262,
 559S,9,463351,St Agnes,,1,463351,12296,
 559S,17,463352,St Agnes,,1,463352,12296,
-578,1,463353,Paradise (continues to Athelstone),,1,459637,13765,
+578,1,463353,Athelstone,,1,459637,13765,
 578,1,463354,City,,0,463354,13763,
-578,1,463355,Paradise (continues to Athelstone),,1,459670,13765,
-578,1,463356,Paradise (continues to Athelstone),,1,459671,13766,
-578,1,463357,Paradise (continues to Athelstone),,1,459672,13765,
+578,1,463355,Athelstone,,1,459670,13765,
+578,1,463356,Athelstone,,1,459671,13766,
+578,1,463357,Athelstone,,1,459672,13765,
 578,1,463358,City,,0,463358,13763,
-578,1,463359,Paradise (continues to Athelstone),,1,459674,13765,
-578,1,463360,Paradise (continues to Athelstone),,1,459675,13765,
+578,1,463359,Athelstone,,1,459674,13765,
+578,1,463360,Athelstone,,1,459675,13765,
 578,1,463361,City,,0,463361,13764,
 578,1,463362,City,,0,463362,13764,
-578,1,463363,Paradise (continues to Athelstone),,1,459677,13765,
+578,1,463363,Athelstone,,1,459677,13765,
 578,1,463364,Athelstone,,1,463364,13767,
-578,1,463365,Paradise (continues to Athelstone),,1,459678,13765,
-578,1,463366,Paradise (continues to Athelstone),,1,459679,13765,
+578,1,463365,Athelstone,,1,459678,13765,
+578,1,463366,Athelstone,,1,459679,13765,
 578,1,463367,City,,0,463367,13763,
 578,1,463368,City,,0,463368,13763,
 579,9,463369,Athelstone,,1,463369,8146,
@@ -12276,8 +12274,7 @@ T863,3,444641,City,,0,444641,12995,
 636,43,463525,City,,1,463525,8869,
 636,43,463526,City,,1,463526,8869,
 636,44,463527,City,,1,463527,8869,
-636,48,463528,City,,1,463528,8869,
-636,23,463529,City,,1,463529,8869,
+636,44,463528,City,,1,463528,8869,
 637,44,463530,City,,1,463530,11600,
 637,43,463531,City,,1,463531,11600,
 638,43,463532,City,,1,463532,8833,
@@ -12590,31 +12587,31 @@ T863,3,444641,City,,0,444641,12995,
 978,21,463839,Marion,,1,463839,10147,
 978,21,463840,Marion,,1,463840,10147,
 979,21,463841,Sacred Heart Senior College,,0,463841,9682,
-97A,1,463842,New Royal Adelaide Hospital Shuttle,,1,463842,12659,
-97A,1,463843,New Royal Adelaide Hospital Shuttle,,1,463843,12659,
-97A,1,463844,New Royal Adelaide Hospital Shuttle,,1,463844,12659,
-97A,1,463845,New Royal Adelaide Hospital Shuttle,,1,463845,12659,
-97A,1,463846,New Royal Adelaide Hospital Shuttle,,1,463846,12659,
-97A,1,463847,New Royal Adelaide Hospital Shuttle,,1,463847,12659,
-97A,1,463848,New Royal Adelaide Hospital Shuttle,,1,463848,12659,
-97A,1,463849,New Royal Adelaide Hospital Shuttle,,1,463849,12659,
-97A,1,463850,New Royal Adelaide Hospital Shuttle,,1,463850,12659,
-97A,1,463851,New Royal Adelaide Hospital Shuttle,,1,463851,12659,
-97A,1,463852,New Royal Adelaide Hospital Shuttle,,1,463852,12659,
-97A,1,463853,New Royal Adelaide Hospital Shuttle,,1,463853,12659,
-97A,1,463854,New Royal Adelaide Hospital Shuttle,,1,463854,12659,
-97A,1,463855,New Royal Adelaide Hospital Shuttle,,1,463855,12659,
-97A,1,463856,New Royal Adelaide Hospital Shuttle,,1,463856,12659,
-97A,1,463857,New Royal Adelaide Hospital Shuttle,,1,463857,12659,
-97A,1,463858,New Royal Adelaide Hospital Shuttle,,1,463858,12659,
-97A,1,463859,New Royal Adelaide Hospital Shuttle,,1,463859,12659,
-97A,1,463860,New Royal Adelaide Hospital Shuttle,,1,463860,12659,
-97A,1,463861,New Royal Adelaide Hospital Shuttle,,1,463861,12659,
-97A,1,463862,New Royal Adelaide Hospital Shuttle,,1,463862,12659,
-97A,1,463863,New Royal Adelaide Hospital Shuttle,,1,463863,12659,
-97A,1,463864,New Royal Adelaide Hospital Shuttle,,1,463864,12659,
-97A,1,463865,New Royal Adelaide Hospital Shuttle,,1,463865,12659,
-97A,1,463866,New Royal Adelaide Hospital Shuttle,,1,463866,12659,
+97A,4001,463842,New Royal Adelaide Hospital Shuttle,,1,463842,12659,
+97A,4001,463843,New Royal Adelaide Hospital Shuttle,,1,463843,12659,
+97A,4001,463844,New Royal Adelaide Hospital Shuttle,,1,463844,12659,
+97A,4001,463845,New Royal Adelaide Hospital Shuttle,,1,463845,12659,
+97A,4001,463846,New Royal Adelaide Hospital Shuttle,,1,463846,12659,
+97A,4001,463847,New Royal Adelaide Hospital Shuttle,,1,463847,12659,
+97A,4001,463848,New Royal Adelaide Hospital Shuttle,,1,463848,12659,
+97A,4001,463849,New Royal Adelaide Hospital Shuttle,,1,463849,12659,
+97A,4001,463850,New Royal Adelaide Hospital Shuttle,,1,463850,12659,
+97A,4001,463851,New Royal Adelaide Hospital Shuttle,,1,463851,12659,
+97A,4001,463852,New Royal Adelaide Hospital Shuttle,,1,463852,12659,
+97A,4001,463853,New Royal Adelaide Hospital Shuttle,,1,463853,12659,
+97A,4001,463854,New Royal Adelaide Hospital Shuttle,,1,463854,12659,
+97A,4001,463855,New Royal Adelaide Hospital Shuttle,,1,463855,12659,
+97A,4001,463856,New Royal Adelaide Hospital Shuttle,,1,463856,12659,
+97A,4001,463857,New Royal Adelaide Hospital Shuttle,,1,463857,12659,
+97A,4001,463858,New Royal Adelaide Hospital Shuttle,,1,463858,12659,
+97A,4001,463859,New Royal Adelaide Hospital Shuttle,,1,463859,12659,
+97A,4001,463860,New Royal Adelaide Hospital Shuttle,,1,463860,12659,
+97A,4001,463861,New Royal Adelaide Hospital Shuttle,,1,463861,12659,
+97A,4001,463862,New Royal Adelaide Hospital Shuttle,,1,463862,12659,
+97A,4001,463863,New Royal Adelaide Hospital Shuttle,,1,463863,12659,
+97A,4001,463864,New Royal Adelaide Hospital Shuttle,,1,463864,12659,
+97A,4001,463865,New Royal Adelaide Hospital Shuttle,,1,463865,12659,
+97A,4001,463866,New Royal Adelaide Hospital Shuttle,,1,463866,12659,
 980,27,463867,Marion,,1,463867,8764,
 980,26,463868,Marion,,1,463868,8764,
 981,26,463869,Flinders Medical Centre,,1,463869,8724,
@@ -12806,15 +12803,15 @@ G10,1,464054,Blair Athol,,0,464054,13937,
 G10,1,464055,Blair Athol,,0,464055,13938,
 G10,1,464056,Blair Athol,,0,464056,12235,
 G10,1,464057,Blair Athol,,0,464057,12235,
-G10,1,464058,Flinders (continues to Marion),,1,461866,12240,
-G10,9,464059,Flinders (continues to Marion),,1,461867,12240,
-G10,17,464060,Flinders (continues to Marion),,1,461868,12240,
+G10,1,464058,Marion (continues to Glenelg),,1,461866,12240,
+G10,9,464059,Marion (continues to Glenelg),,1,461867,12240,
+G10,17,464060,Marion (continues to Glenelg),,1,461868,12240,
 G10,1,464061,Blair Athol,,0,464061,13937,
 G10,1,464062,Blair Athol,,0,464062,13938,
 G10,1,464063,Blair Athol,,0,464063,13937,
-G10,1,464064,Flinders (continues to Marion),,1,461869,12240,
-G10,1,464065,Flinders (continues to Marion),,1,461870,12240,
-G10,1,464066,Flinders (continues to Marion),,1,461872,12240,
+G10,1,464064,Marion (continues to Glenelg),,1,461869,12240,
+G10,1,464065,Marion (continues to Glenelg),,1,461870,12240,
+G10,1,464066,Marion (continues to Glenelg),,1,461872,12240,
 G10,1,464067,Blair Athol,,0,464067,13937,
 G10,9,464068,Blair Athol,,0,464068,13939,
 G10,9,464069,Marion,,1,464069,12239,
@@ -12832,58 +12829,58 @@ G10,1,464080,Blair Athol,,0,464080,12235,
 G10,1,464081,Blair Athol,,0,464081,12236,
 G10,1,464082,Marion,,1,464082,12239,
 G10,1,464083,Blair Athol,,0,464083,12235,
-G10,1,464084,Flinders (continues to Marion),,1,461873,12240,
+G10,1,464084,Marion (continues to Glenelg),,1,461873,12240,
 G10,1,464085,Blair Athol,,0,464085,12235,
 G10,1,464086,Blair Athol,,0,464086,12236,
 G10,1,464087,Blair Athol,,0,464087,12236,
 G10,1,464088,Blair Athol,,0,464088,13938,
-G10,1,464089,Flinders (continues to Marion),,1,461874,12240,
+G10,1,464089,Marion (continues to Glenelg),,1,461874,12240,
 G10,1,464090,Blair Athol,,0,464090,13938,
-G10,1,464091,Flinders (continues to Marion),,1,461875,12240,
-G10,1,464092,Flinders (continues to Marion),,1,461876,12240,
+G10,1,464091,Marion (continues to Glenelg),,1,461875,12240,
+G10,1,464092,Marion (continues to Glenelg),,1,461876,12240,
 G10,1,464093,Blair Athol,,0,464093,13937,
-G10,1,464094,Flinders (continues to Marion),,1,461877,12240,
+G10,1,464094,Marion (continues to Glenelg),,1,461877,12240,
 G10,1,464095,Blair Athol,,0,464095,13937,
-G10,1,464096,Flinders (continues to Marion),,1,461878,12240,
+G10,1,464096,Marion (continues to Glenelg),,1,461878,12240,
 G10,1,464097,Blair Athol,,0,464097,13937,
 G10,1,464098,Blair Athol,,0,464098,13937,
 G10,1,464099,Blair Athol,,0,464099,13937,
-G10,1,464100,Flinders (continues to Marion),,1,461879,12240,
+G10,1,464100,Marion (continues to Glenelg),,1,461879,12240,
 G10,1,464101,Blair Athol,,0,464101,13937,
 G10,1,464102,Marion,,1,464102,12239,
 G10,1,464103,Blair Athol,,0,464103,13938,
-G10,1,464104,Flinders (continues to Marion),,1,461880,12240,
+G10,1,464104,Marion (continues to Glenelg),,1,461880,12240,
 G10,1,464105,Blair Athol,,0,464105,13937,
 G10,1,464106,Marion,,1,464106,12241,
-G10,53,464107,Flinders (continues to Marion),,1,461881,12240,
-G10,3,464108,Flinders (continues to Marion),,1,461882,12240,
-G10,17,464109,Flinders (continues to Marion),,1,461883,12240,
+G10,53,464107,Marion (continues to Glenelg),,1,461881,12240,
+G10,3,464108,Marion (continues to Glenelg),,1,461882,12240,
+G10,17,464109,Marion (continues to Glenelg),,1,461883,12240,
 G10,9,464110,Blair Athol,,0,464110,13937,
 G10,17,464111,Blair Athol,,0,464111,13937,
 G10,1,464112,Blair Athol,,0,464112,13937,
-G10,1,464113,Flinders (continues to Marion),,1,461884,12240,
+G10,1,464113,Marion (continues to Glenelg),,1,461884,12240,
 G10,14,464114,Blair Athol,,0,464114,13937,
 G10,6,464115,Blair Athol,,0,464115,13937,
 G10,4,464116,Blair Athol,,0,464116,13937,
-G10,1,464117,Flinders (continues to Marion),,1,461885,12240,
+G10,1,464117,Marion (continues to Glenelg),,1,461885,12240,
 G10,1,464118,Marion,,1,464118,12239,
 G10,1,464119,Blair Athol,,0,464119,13938,
 G10,1,464120,Blair Athol,,0,464120,13938,
-G10,1,464121,Flinders (continues to Marion),,1,461886,12240,
+G10,1,464121,Marion (continues to Glenelg),,1,461886,12240,
 G10,1,464122,Blair Athol,,0,464122,13937,
-G10,1,464123,Flinders (continues to Marion),,1,461887,12240,
+G10,1,464123,Marion (continues to Glenelg),,1,461887,12240,
 G10,1,464124,Marion,,1,464124,12239,
 G10,1,464125,Blair Athol,,0,464125,13938,
 G10,18,464126,Blair Athol,,0,464126,13937,
 G10,3,464127,Blair Athol,,0,464127,13937,
-G10,1,464128,Flinders (continues to Marion),,1,461850,12240,
+G10,1,464128,Marion (continues to Glenelg),,1,461850,12240,
 G10,9,464129,Blair Athol,,0,464129,13938,
 G10,17,464130,Blair Athol,,0,464130,13938,
 G10,1,464131,Blair Athol,,0,464131,13937,
 G10,1,464132,Blair Athol,,0,464132,12236,
-G10,1,464133,Flinders (continues to Marion),,1,461888,12240,
+G10,1,464133,Marion (continues to Glenelg),,1,461888,12240,
 G10,1,464134,Blair Athol,,0,464134,13937,
-G10,1,464135,Flinders (continues to Marion),,1,461889,12240,
+G10,1,464135,Marion (continues to Glenelg),,1,461889,12240,
 G10,1,464136,Blair Athol,,0,464136,13937,
 G10,1,464137,Blair Athol,,0,464137,13937,
 G10,1,464138,Blair Athol,,0,464138,13938,
@@ -12892,8 +12889,8 @@ G10,1,464140,Blair Athol,,0,464140,13938,
 G10,1,464141,Blair Athol,,0,464141,12236,
 G10,1,464142,Marion,,1,464142,12239,
 G10,1,464143,Blair Athol,,0,464143,13939,
-G10,7,464144,Flinders (continues to Marion),,1,461890,12240,
-G10,6,464145,Flinders (continues to Marion),,1,461891,12240,
+G10,7,464144,Marion (continues to Glenelg),,1,461890,12240,
+G10,6,464145,Marion (continues to Glenelg),,1,461891,12240,
 G10,7,464146,Blair Athol,,0,464146,13939,
 G10,7,464147,Marion,,1,464147,12239,
 G10,6,464148,Blair Athol,,0,464148,13939,
@@ -12902,13 +12899,13 @@ G10,1,464150,Blair Athol,,0,464150,13937,
 G10,1,464151,Blair Athol,,0,464151,13937,
 G10,1,464152,Blair Athol,,0,464152,13937,
 G10,18,464153,Blair Athol,,0,464153,13938,
-G10,18,464154,Flinders (continues to Marion),,1,461892,12240,
+G10,18,464154,Marion (continues to Glenelg),,1,461892,12240,
 G10,3,464155,Blair Athol,,0,464155,13938,
-G10,3,464156,Flinders (continues to Marion),,1,461893,12240,
+G10,3,464156,Marion (continues to Glenelg),,1,461893,12240,
 G10,1,464157,Blair Athol,,0,464157,13938,
 G10,1,464158,Blair Athol,,0,464158,13937,
 G10,1,464159,Blair Athol,,0,464159,13938,
-G10,1,464160,Flinders (continues to Marion),,1,461894,12240,
+G10,1,464160,Marion (continues to Glenelg),,1,461894,12240,
 G10,1,464161,Blair Athol,,0,464161,13938,
 G10,18,464162,Blair Athol,,0,464162,13937,
 G10,18,464163,Blair Athol,,0,464163,13938,
@@ -12923,9 +12920,9 @@ G10,9,464171,Marion,,1,464171,12239,
 G10,17,464172,Blair Athol,,0,464172,13937,
 G10,17,464173,Marion,,1,464173,12239,
 G10,9,464174,Blair Athol,,0,464174,13937,
-G10,9,464175,Flinders (continues to Marion),,1,461895,12240,
+G10,9,464175,Marion (continues to Glenelg),,1,461895,12240,
 G10,17,464176,Blair Athol,,0,464176,13937,
-G10,17,464177,Flinders (continues to Marion),,1,461896,12240,
+G10,17,464177,Marion (continues to Glenelg),,1,461896,12240,
 G10,1,464178,Blair Athol,,0,464178,13937,
 G10,1,464179,Blair Athol,,0,464179,12235,
 G10,7,464180,Blair Athol,,0,464180,13937,
@@ -12952,15 +12949,15 @@ G10,3,464200,Blair Athol,,0,464200,13938,
 G10,3,464201,Marion,,1,464201,12239,
 G10,1,464202,Blair Athol,,0,464202,13641,
 G10,1,464203,Blair Athol,,0,464203,13937,
-G10,1,464204,Flinders (continues to Marion),,1,461897,12240,
+G10,1,464204,Marion (continues to Glenelg),,1,461897,12240,
 G10,1,464205,Blair Athol,,0,464205,13938,
 G10,1,464206,Marion,,1,464206,12239,
 G10,18,464207,Blair Athol,,0,464207,13938,
-G10,18,464208,Flinders (continues to Marion),,1,461898,12240,
+G10,18,464208,Marion (continues to Glenelg),,1,461898,12240,
 G10,18,464209,Blair Athol,,0,464209,13938,
 G10,18,464210,Marion,,1,464210,12239,
 G10,3,464211,Blair Athol,,0,464211,13938,
-G10,3,464212,Flinders (continues to Marion),,1,461899,12240,
+G10,3,464212,Marion (continues to Glenelg),,1,461899,12240,
 G10,7,464213,Blair Athol,,0,464213,13937,
 G10,6,464214,Blair Athol,,0,464214,13937,
 G10,18,464215,Blair Athol,,0,464215,12235,
@@ -13036,39 +13033,39 @@ G10C,1,464284,City,,1,464284,12246,
 G10C,1,464285,City,,1,464285,12246,
 G10C,1,464286,City,,1,464286,12246,
 G20,1,464287,Aberfoyle Hub,,1,464287,12249,
-G20,1,464288,St Marys (continues to City),,0,464055,12248,
-G20,1,464289,St Marys (continues to City),,0,464072,12248,
-G20,9,464290,St Marys (continues to City),,0,464271,12248,
-G20,17,464291,St Marys (continues to City),,0,464272,12248,
+G20,1,464288,City,,0,464055,12248,
+G20,1,464289,City,,0,464072,12248,
+G20,9,464290,City,,0,464271,12248,
+G20,17,464291,City,,0,464272,12248,
 G20,1,464292,Aberfoyle Hub,,1,464292,12249,
 G20,1,464293,Aberfoyle Hub,,1,464293,12249,
 G20,9,464294,Aberfoyle Hub,,1,464294,12249,
 G20,17,464295,Aberfoyle Hub,,1,464295,12249,
-G20,1,464296,St Marys (continues to City),,0,464090,12248,
-G20,1,464297,St Marys (continues to City),,0,464103,12248,
-G20,1,464298,St Marys (continues to City),,0,464119,12248,
+G20,1,464296,City,,0,464090,12248,
+G20,1,464297,City,,0,464103,12248,
+G20,1,464298,City,,0,464119,12248,
 G20,1,464299,Aberfoyle Hub,,1,464299,12251,
 G20,1,464300,Aberfoyle Hub,,1,464300,12249,
 G20,1,464301,Aberfoyle Hub,,1,464301,12249,
-G20,9,464302,St Marys (continues to City),,0,464129,12248,
-G20,17,464303,St Marys (continues to City),,0,464130,12248,
-G20,1,464304,St Marys (continues to City),,0,464140,12248,
+G20,9,464302,City,,0,464129,12248,
+G20,17,464303,City,,0,464130,12248,
+G20,1,464304,City,,0,464140,12248,
 G20,1,464305,Aberfoyle Hub,,1,464305,12249,
 G20,1,464306,Aberfoyle Hub,,1,464306,12249,
 G20,1,464307,Aberfoyle Hub,,1,464307,12249,
 G20,1,464308,Aberfoyle Hub,,1,464308,12249,
-G20,1,464309,St Marys (continues to City),,0,464161,12248,
-G20,18,464310,St Marys (continues to City),,0,464163,12248,
+G20,1,464309,City,,0,464161,12248,
+G20,18,464310,City,,0,464163,12248,
 G20,18,464311,Aberfoyle Hub,,1,464311,12249,
-G20,3,464312,St Marys (continues to City),,0,464165,12248,
+G20,3,464312,City,,0,464165,12248,
 G20,3,464313,Aberfoyle Hub,,1,464313,12249,
-G20,1,464314,St Marys (continues to City),,0,464168,12248,
+G20,1,464314,City,,0,464168,12248,
 G20,1,464315,Aberfoyle Hub,,1,464315,12249,
 G20,7,464316,Aberfoyle Hub,,1,464316,12249,
 G20,6,464317,Aberfoyle Hub,,1,464317,12249,
-G20,3,464318,St Marys (continues to City),,0,464200,12248,
-G20,1,464319,St Marys (continues to City),,0,464205,12248,
-G20,18,464320,St Marys (continues to City),,0,464209,12248,
+G20,3,464318,City,,0,464200,12248,
+G20,1,464319,City,,0,464205,12248,
+G20,18,464320,City,,0,464209,12248,
 G20,18,464321,Aberfoyle Hub,,1,464321,12249,
 G20,3,464322,Aberfoyle Hub,,1,464322,12249,
 G20,1,464323,Aberfoyle Hub,,1,464323,12249,
@@ -13097,26 +13094,26 @@ G20X,18,464345,Aberfoyle Hub,,1,464345,12255,
 G20X,3,464346,Aberfoyle Hub,,1,464346,12255,
 G20X,1,464347,Aberfoyle Hub,,1,464347,12255,
 G21,1,464348,Aberfoyle Hub,,1,464348,12257,
-G21,1,464349,St Marys (continues to City),,0,464062,12256,
-G21,1,464350,St Marys (continues to City),,0,464088,12256,
+G21,1,464349,City,,0,464062,12256,
+G21,1,464350,City,,0,464088,12256,
 G21,1,464351,Aberfoyle Hub,,1,464351,12257,
 G21,1,464352,Aberfoyle Hub,,1,464352,12257,
 G21,1,464353,Aberfoyle Hub,,1,464353,12257,
-G21,1,464354,St Marys (continues to City),,0,464120,12256,
-G21,1,464355,St Marys (continues to City),,0,464125,12256,
+G21,1,464354,City,,0,464120,12256,
+G21,1,464355,City,,0,464125,12256,
 G21,9,464356,Aberfoyle Hub,,1,464356,12257,
 G21,17,464357,Aberfoyle Hub,,1,464357,12257,
-G21,1,464358,St Marys (continues to City),,0,464138,12256,
-G21,1,464359,St Marys (continues to City),,0,464139,12256,
+G21,1,464358,City,,0,464138,12256,
+G21,1,464359,City,,0,464139,12256,
 G21,1,464360,Aberfoyle Hub,,1,464360,12257,
 G21,1,464361,Aberfoyle Hub,,1,464361,12257,
 G21,1,464362,Aberfoyle Hub,,1,464362,12257,
-G21,1,464363,St Marys (continues to City),,0,464159,12256,
+G21,1,464363,City,,0,464159,12256,
 G21,1,464364,Aberfoyle Hub,,1,464364,12257,
 G21,1,464365,Aberfoyle Hub,,1,464365,12257,
 G21,1,464366,Aberfoyle Hub,,1,464366,12257,
 G21,1,464367,Aberfoyle Hub,,1,464367,12257,
-G21,1,464368,St Marys (continues to City),,0,464198,12256,
+G21,1,464368,City,,0,464198,12256,
 G21F,1,464369,Aberfoyle Hub,,1,464369,12261,
 G21F,1,464370,City,,0,464370,12260,
 G21F,1,464371,City,,0,464371,12260,
@@ -13460,10 +13457,10 @@ H30,3,464708,West Lakes,,0,464708,13133,
 H30,17,464709,West Lakes,,0,464709,13133,
 H30,1,464710,West Lakes,,0,464710,13133,
 H30,1,464711,West Lakes,,0,464711,13134,
-H30,1,464712,Paradise Interchange,,1,464712,13691,
+H30,1,464712,Paradise,,1,464712,13691,
 H30,1,464713,West Lakes,,0,464713,13134,
 H30,1,464714,West Lakes,,0,464714,13134,
-H30,1,464715,Paradise Interchange,,1,464715,13691,
+H30,1,464715,Paradise,,1,464715,13691,
 H30,1,464716,West Lakes,,0,464716,13134,
 H30,18,464717,Paradise,,1,464717,13130,
 H30,3,464718,Paradise,,1,464718,13130,
@@ -13484,7 +13481,7 @@ H30,1,464732,Paradise,,1,464732,13130,
 H30,1,464733,Paradise,,1,464733,13130,
 H30,1,464734,West Lakes,,0,464734,13133,
 H30,1,464735,West Lakes,,0,464735,13133,
-H30,1,464736,Paradise Interchange,,1,464736,13693,
+H30,1,464736,Paradise,,1,464736,13693,
 H30,1,464737,West Lakes,,0,464737,13133,
 H30,1,464738,Paradise,,1,464738,13130,
 H30,1,464739,West Lakes,,0,464739,13133,
@@ -13497,9 +13494,9 @@ H30,1,464745,Paradise,,1,464745,13130,
 H30,1,464746,Paradise,,1,464746,13130,
 H30,1,464747,West Lakes,,0,464747,13133,
 H30,1,464748,West Lakes,,0,464748,13133,
-H30,1,464749,Firle (continues to Paradise),,1,462659,13829,
+H30,1,464749,Paradise,,1,462659,13829,
 H30,1,464750,West Lakes,,0,464750,13133,
-H30,1,464751,Firle (continues to Paradise),,1,462661,13829,
+H30,1,464751,Paradise,,1,462661,13829,
 H30,1,464752,West Lakes,,0,464752,13133,
 H30,1,464753,West Lakes,,0,464753,13134,
 H30,1,464754,Paradise,,1,464754,13132,
@@ -13507,11 +13504,11 @@ H30,1,464755,West Lakes,,0,464755,13133,
 H30,1,464756,West Lakes,,0,464756,13133,
 H30,1,464757,West Lakes,,0,464757,13134,
 H30,1,464758,Paradise,,1,464758,13130,
-H30,1,464759,Paradise Interchange,,1,464759,13691,
+H30,1,464759,Paradise,,1,464759,13691,
 H30,1,464760,West Lakes,,0,464760,13133,
 H30,1,464761,West Lakes,,0,464761,13133,
 H30,1,464762,Paradise,,1,464762,13130,
-H30,1,464763,Firle (continues to Paradise),,1,462667,13830,
+H30,1,464763,Paradise,,1,462667,13830,
 H30,1,464764,Paradise,,1,464764,13130,
 H30,1,464765,West Lakes,,0,464765,13133,
 H30,1,464766,Paradise,,1,464766,13130,
@@ -13529,8 +13526,8 @@ H30,1,464777,West Lakes,,0,464777,13134,
 H30,1,464778,Paradise,,1,464778,13130,
 H30,1,464779,Paradise,,1,464779,13130,
 H30,1,464780,West Lakes,,0,464780,13133,
-H30,7,464781,Paradise Interchange,,1,464781,13694,
-H30,6,464782,Paradise Interchange,,1,464782,13694,
+H30,7,464781,Paradise,,1,464781,13694,
+H30,6,464782,Paradise,,1,464782,13694,
 H30,1,464783,Paradise,,1,464783,13130,
 H30,1,464784,Paradise,,1,464784,13130,
 H30C,21,464785,City,,0,464785,13826,
@@ -14221,7 +14218,7 @@ W91C,1,465469,City,,0,465469,13176,
 W91C,1,465470,City,,0,465470,13176,
 W91C,1,465471,City,,0,465471,13176,
 W91C,1,465472,City,,0,465472,13176,
-W91C,1,465473,Goodwood,,0,465473,13177,
+W91C,1,465473,City,,0,465473,13177,
 W91C,1,465474,City,,0,465474,13176,
 W91C,6,465475,City,,0,465475,13176,
 W91C,1,465476,City,,0,465476,13176,
@@ -14251,9 +14248,9 @@ X30,1,465499,West Lakes,,0,465499,13181,
 X30,21,465500,West Lakes,,0,465500,13182,
 X30,21,465501,West Lakes,,0,465501,13182,
 X30,1,465502,West Lakes,,0,465502,13181,
-X30,1,465503,Firle (continues to Paradise),,1,462662,13823,
+X30,1,465503,Paradise,,1,462662,13823,
 X30,1,465504,West Lakes,,0,465504,13181,
-X30,1,465505,Firle (continues to Paradise),,1,462664,13823,
+X30,1,465505,Paradise,,1,462664,13823,
 X30,1,465506,West Lakes,,0,465506,13181,
 X30,1,465507,West Lakes,,0,465507,13181,
 X30,1,465508,West Lakes,,0,465508,13181,
@@ -14262,7 +14259,7 @@ X30,1,465510,West Lakes,,0,465510,13181,
 X30,1,465511,Paradise,,1,465511,13184,
 X30,7,465512,West Lakes,,0,465512,13181,
 X30,6,465513,West Lakes,,0,465513,13181,
-X30,1,465514,Firle (continues to Paradise),,1,462670,13823,
+X30,1,465514,Paradise,,1,462670,13823,
 X30C,1,465515,City,,1,465515,13185,
 X30C,1,465516,City,,1,465516,13185,
 X30C,1,465517,City,,1,465517,13185,
@@ -16714,60 +16711,60 @@ G10B,11,467962,City,,1,468020,12243,
 G10B,11,467963,City,,1,467996,12243,
 G10B,11,467964,City,,1,467998,12243,
 G20,11,467965,Aberfoyle Hub,,1,467965,12250,
-G20,11,467966,St Marys (continues to City),,0,467852,12248,
+G20,11,467966,City,,0,467852,12248,
 G20,11,467967,Aberfoyle Hub,,1,467967,12249,
 G20,11,467968,Aberfoyle Hub,,1,467968,12249,
-G20,11,467969,St Marys (continues to City),,0,467854,12248,
+G20,11,467969,City,,0,467854,12248,
 G20,11,467970,Aberfoyle Hub,,1,467970,12249,
-G20,11,467971,St Marys (continues to City),,0,467855,12248,
+G20,11,467971,City,,0,467855,12248,
 G20,11,467972,Aberfoyle Hub,,1,467972,12249,
-G20,11,467973,St Marys (continues to City),,0,467862,12248,
+G20,11,467973,City,,0,467862,12248,
 G20,11,467974,Aberfoyle Hub,,1,467974,12249,
-G20,11,467975,St Marys (continues to City),,0,467870,12248,
-G20,11,467976,St Marys (continues to City),,0,467877,12248,
+G20,11,467975,City,,0,467870,12248,
+G20,11,467976,City,,0,467877,12248,
 G20,11,467977,Aberfoyle Hub,,1,467977,12249,
-G20,11,467978,St Marys (continues to City),,0,467884,12248,
-G20,11,467979,St Marys (continues to City),,0,467889,12248,
-G20,11,467980,St Marys (continues to City),,0,467891,12248,
+G20,11,467978,City,,0,467884,12248,
+G20,11,467979,City,,0,467889,12248,
+G20,11,467980,City,,0,467891,12248,
 G20,11,467981,Aberfoyle Hub,,1,467981,12249,
 G20,11,467982,Aberfoyle Hub,,1,467982,12249,
-G20,11,467983,St Marys (continues to City),,0,467895,12248,
-G20,11,467984,St Marys (continues to City),,0,467897,12248,
-G20,11,467985,St Marys (continues to City),,0,467901,12248,
-G20,11,467986,St Marys (continues to City),,0,467911,12248,
+G20,11,467983,City,,0,467895,12248,
+G20,11,467984,City,,0,467897,12248,
+G20,11,467985,City,,0,467901,12248,
+G20,11,467986,City,,0,467911,12248,
 G20,11,467987,Aberfoyle Hub,,1,467987,12249,
-G20,11,467988,St Marys (continues to City),,0,467914,12248,
+G20,11,467988,City,,0,467914,12248,
 G20,11,467989,Aberfoyle Hub,,1,467989,12249,
 G20,11,467990,Aberfoyle Hub,,1,467990,12249,
 G20,11,467991,Aberfoyle Hub,,1,467991,12249,
 G20,11,467992,Aberfoyle Hub,,1,467992,12249,
 G20,11,467993,Aberfoyle Hub,,1,467993,12249,
-G20,11,467994,St Marys (continues to City),,0,467924,12248,
-G20,11,467995,St Marys (continues to City),,0,467927,12248,
+G20,11,467994,City,,0,467924,12248,
+G20,11,467995,City,,0,467927,12248,
 G20,11,467996,Aberfoyle Hub,,1,467996,12249,
-G20,11,467997,St Marys (continues to City),,0,467930,12248,
+G20,11,467997,City,,0,467930,12248,
 G20,11,467998,Aberfoyle Hub,,1,467998,12249,
 G21,11,467999,Aberfoyle Hub,,1,467999,12257,
-G21,11,468000,St Marys (continues to City),,0,467858,12256,
+G21,11,468000,City,,0,467858,12256,
 G21,11,468001,Aberfoyle Hub,,1,468001,12257,
-G21,11,468002,St Marys (continues to City),,0,467860,12256,
+G21,11,468002,City,,0,467860,12256,
 G21,11,468003,Aberfoyle Hub,,1,468003,12257,
-G21,11,468004,St Marys (continues to City),,0,467866,12256,
-G21,11,468005,St Marys (continues to City),,0,467868,12256,
+G21,11,468004,City,,0,467866,12256,
+G21,11,468005,City,,0,467868,12256,
 G21,11,468006,Aberfoyle Hub,,1,468006,12257,
-G21,11,468007,St Marys (continues to City),,0,467875,12256,
-G21,11,468008,St Marys (continues to City),,0,467880,12256,
+G21,11,468007,City,,0,467875,12256,
+G21,11,468008,City,,0,467880,12256,
 G21,11,468009,Aberfoyle Hub,,1,468009,12257,
 G21,11,468010,Aberfoyle Hub,,1,468010,12257,
 G21,11,468011,Aberfoyle Hub,,1,468011,12257,
-G21,11,468012,St Marys (continues to City),,0,467887,12256,
-G21,11,468013,St Marys (continues to City),,0,467899,12256,
-G21,11,468014,St Marys (continues to City),,0,467903,12256,
-G21,11,468015,St Marys (continues to City),,0,467905,12256,
+G21,11,468012,City,,0,467887,12256,
+G21,11,468013,City,,0,467899,12256,
+G21,11,468014,City,,0,467903,12256,
+G21,11,468015,City,,0,467905,12256,
 G21,11,468016,Aberfoyle Hub,,1,468016,12257,
 G21,11,468017,Aberfoyle Hub,,1,468017,12257,
-G21,11,468018,St Marys (continues to City),,0,467909,12256,
-G21,11,468019,St Marys (continues to City),,0,467922,12256,
+G21,11,468018,City,,0,467909,12256,
+G21,11,468019,City,,0,467922,12256,
 G21,11,468020,Aberfoyle Hub,,1,468020,12257,
 H20,11,468021,Glenelg,,0,468021,13108,
 H20,11,468022,Paradise,,1,468022,13848,
@@ -19473,56 +19470,56 @@ G10B,12,470721,City,,1,470772,12243,
 G10B,12,470722,City,,1,470751,12243,
 G10B,12,470723,City,,1,470775,12243,
 G10B,12,470724,City,,1,470754,12243,
-G20,12,470725,St Marys (continues to City),,0,470624,12248,
+G20,12,470725,City,,0,470624,12248,
 G20,12,470726,Aberfoyle Hub,,1,470726,12249,
 G20,12,470727,Aberfoyle Hub,,1,470727,12249,
-G20,12,470728,St Marys (continues to City),,0,470629,12248,
-G20,12,470729,St Marys (continues to City),,0,470631,12248,
+G20,12,470728,City,,0,470629,12248,
+G20,12,470729,City,,0,470631,12248,
 G20,12,470730,Aberfoyle Hub,,1,470730,12250,
-G20,12,470731,St Marys (continues to City),,0,470633,12248,
-G20,12,470732,St Marys (continues to City),,0,470635,12248,
+G20,12,470731,City,,0,470633,12248,
+G20,12,470732,City,,0,470635,12248,
 G20,12,470733,Aberfoyle Hub,,1,470733,12249,
-G20,12,470734,St Marys (continues to City),,0,470639,12248,
+G20,12,470734,City,,0,470639,12248,
 G20,12,470735,Aberfoyle Hub,,1,470735,12249,
 G20,12,470736,Aberfoyle Hub,,1,470736,12249,
-G20,12,470737,St Marys (continues to City),,0,470641,12248,
+G20,12,470737,City,,0,470641,12248,
 G20,12,470738,Aberfoyle Hub,,1,470738,12249,
 G20,12,470739,Aberfoyle Hub,,1,470739,12249,
 G20,12,470740,Aberfoyle Hub,,1,470740,12249,
-G20,12,470741,St Marys (continues to City),,0,470648,12248,
-G20,12,470742,St Marys (continues to City),,0,470650,12248,
+G20,12,470741,City,,0,470648,12248,
+G20,12,470742,City,,0,470650,12248,
 G20,12,470743,Aberfoyle Hub,,1,470743,12249,
 G20,12,470744,Aberfoyle Hub,,1,470744,12249,
-G20,12,470745,St Marys (continues to City),,0,470661,12248,
+G20,12,470745,City,,0,470661,12248,
 G20,12,470746,Aberfoyle Hub,,1,470746,12249,
-G20,12,470747,St Marys (continues to City),,0,470675,12248,
+G20,12,470747,City,,0,470675,12248,
 G20,12,470748,Aberfoyle Hub,,1,470748,12249,
-G20,12,470749,St Marys (continues to City),,0,470680,12248,
-G20,12,470750,St Marys (continues to City),,0,470682,12248,
+G20,12,470749,City,,0,470680,12248,
+G20,12,470750,City,,0,470682,12248,
 G20,12,470751,Aberfoyle Hub,,1,470751,12249,
-G20,12,470752,St Marys (continues to City),,0,470688,12248,
-G20,12,470753,St Marys (continues to City),,0,470691,12248,
+G20,12,470752,City,,0,470688,12248,
+G20,12,470753,City,,0,470691,12248,
 G20,12,470754,Aberfoyle Hub,,1,470754,12249,
 G21,12,470755,Aberfoyle Hub,,1,470755,12258,
 G21,12,470756,Aberfoyle Hub,,1,470756,12257,
-G21,12,470757,St Marys (continues to City),,0,470638,12256,
-G21,12,470758,St Marys (continues to City),,0,470644,12256,
+G21,12,470757,City,,0,470638,12256,
+G21,12,470758,City,,0,470644,12256,
 G21,12,470759,Aberfoyle Hub,,1,470759,12257,
-G21,12,470760,St Marys (continues to City),,0,470652,12256,
-G21,12,470761,St Marys (continues to City),,0,470654,12256,
-G21,12,470762,St Marys (continues to City),,0,470656,12256,
+G21,12,470760,City,,0,470652,12256,
+G21,12,470761,City,,0,470654,12256,
+G21,12,470762,City,,0,470656,12256,
 G21,12,470763,Aberfoyle Hub,,1,470763,12257,
 G21,12,470764,Aberfoyle Hub,,1,470764,12257,
-G21,12,470765,St Marys (continues to City),,0,470663,12256,
+G21,12,470765,City,,0,470663,12256,
 G21,12,470766,Aberfoyle Hub,,1,470766,12257,
 G21,12,470767,Aberfoyle Hub,,1,470767,12257,
-G21,12,470768,St Marys (continues to City),,0,470667,12256,
-G21,12,470769,St Marys (continues to City),,0,470670,12256,
+G21,12,470768,City,,0,470667,12256,
+G21,12,470769,City,,0,470670,12256,
 G21,12,470770,Aberfoyle Hub,,1,470770,12257,
-G21,12,470771,St Marys (continues to City),,0,470673,12256,
+G21,12,470771,City,,0,470673,12256,
 G21,12,470772,Aberfoyle Hub,,1,470772,12257,
-G21,12,470773,St Marys (continues to City),,0,470679,12256,
-G21,12,470774,St Marys (continues to City),,0,470686,12256,
+G21,12,470773,City,,0,470679,12256,
+G21,12,470774,City,,0,470686,12256,
 G21,12,470775,Aberfoyle Hub,,1,470775,12257,
 H20,12,470776,Glenelg,,0,470776,13108,
 H20,12,470777,Paradise,,1,470777,13848,
@@ -21455,3 +21452,363 @@ GLNELG,3103,472789,Brighton Rd,,1,472789,13675,1
 GLNELG,3103,472790,Brighton,,1,472790,13679,1
 GLNELG,3103,472791,Brighton Rd,,1,472791,13675,1
 GLNELG,3103,472792,Brighton Rd,,1,472792,13675,1
+GLNELG,3202,472793,Entertainment Centre,,0,472793,13673,1
+GLNELG,3202,472794,Entertainment Centre,,0,472794,13676,1
+GLNELG,3202,472795,Royal Adelaide Hospital,,0,472795,13671,1
+GLNELG,3202,472796,Entertainment Centre,,0,472796,13676,1
+BTANIC,3202,472797,Entertainment Centre,,0,472797,13669,1
+GLNELG,3202,472798,Royal Adelaide Hospital,,0,472798,13671,1
+GLNELG,3202,472799,Entertainment Centre,,0,472799,13676,1
+BTANIC,3202,472800,Entertainment Centre,,0,472800,13669,1
+GLNELG,3202,472801,Royal Adelaide Hospital,,0,472801,13671,1
+GLNELG,3202,472802,Entertainment Centre,,0,472802,13676,1
+BTANIC,3202,472803,Entertainment Centre,,0,472803,13669,1
+GLNELG,3202,472804,Royal Adelaide Hospital,,0,472804,13671,1
+BTANIC,3202,472805,Entertainment Centre,,0,472805,13669,1
+GLNELG,3202,472806,Royal Adelaide Hospital,,0,472806,13671,1
+BTANIC,3202,472807,Entertainment Centre,,0,472807,13669,1
+GLNELG,3202,472808,Royal Adelaide Hospital,,0,472808,13671,1
+BTANIC,3202,472809,Entertainment Centre,,0,472809,13669,1
+GLNELG,3202,472810,Royal Adelaide Hospital,,0,472810,13671,1
+BTANIC,3202,472811,Entertainment Centre,,0,472811,13669,1
+GLNELG,3202,472812,Royal Adelaide Hospital,,0,472812,13671,1
+BTANIC,3202,472813,Entertainment Centre,,0,472813,13669,1
+GLNELG,3202,472814,Royal Adelaide Hospital,,0,472814,13671,1
+BTANIC,3202,472815,Entertainment Centre,,0,472815,13669,1
+GLNELG,3202,472816,Royal Adelaide Hospital,,0,472816,13671,1
+BTANIC,3202,472817,Entertainment Centre,,0,472817,13669,1
+GLNELG,3202,472818,Royal Adelaide Hospital,,0,472818,13671,1
+BTANIC,3202,472819,Entertainment Centre,,0,472819,13669,1
+GLNELG,3202,472820,Royal Adelaide Hospital,,0,472820,13671,1
+BTANIC,3202,472821,Entertainment Centre,,0,472821,13669,1
+GLNELG,3202,472822,Royal Adelaide Hospital,,0,472822,13671,1
+BTANIC,3202,472823,Entertainment Centre,,0,472823,13669,1
+GLNELG,3202,472824,Royal Adelaide Hospital,,0,472824,13686,1
+BTANIC,3202,472825,Entertainment Centre,,0,472825,13669,1
+GLNELG,3202,472826,Royal Adelaide Hospital,,0,472826,13686,1
+BTANIC,3202,472827,Entertainment Centre,,0,472827,13669,1
+GLNELG,3202,472828,Royal Adelaide Hospital,,0,472828,13686,1
+BTANIC,3202,472829,Entertainment Centre,,0,472829,13669,1
+GLNELG,3202,472830,Royal Adelaide Hospital,,0,472830,13686,1
+BTANIC,3202,472831,Entertainment Centre,,0,472831,13669,1
+GLNELG,3202,472832,Royal Adelaide Hospital,,0,472832,13686,1
+BTANIC,3202,472833,Entertainment Centre,,0,472833,13669,1
+GLNELG,3202,472834,Royal Adelaide Hospital,,0,472834,13686,1
+BTANIC,3202,472835,Entertainment Centre,,0,472835,13669,1
+GLNELG,3202,472836,Royal Adelaide Hospital,,0,472836,13686,1
+BTANIC,3202,472837,Entertainment Centre,,0,472837,13669,1
+GLNELG,3202,472838,Royal Adelaide Hospital,,0,472838,13686,1
+BTANIC,3202,472839,Entertainment Centre,,0,472839,13669,1
+GLNELG,3202,472840,Royal Adelaide Hospital,,0,472840,13686,1
+BTANIC,3202,472841,Entertainment Centre,,0,472841,13669,1
+GLNELG,3202,472842,Royal Adelaide Hospital,,0,472842,13686,1
+BTANIC,3202,472843,Entertainment Centre,,0,472843,13669,1
+GLNELG,3202,472844,Royal Adelaide Hospital,,0,472844,13686,1
+BTANIC,3202,472845,Entertainment Centre,,0,472845,13669,1
+GLNELG,3202,472846,Royal Adelaide Hospital,,0,472846,13686,1
+BTANIC,3202,472847,Entertainment Centre,,0,472847,13669,1
+GLNELG,3202,472848,Royal Adelaide Hospital,,0,472848,13686,1
+BTANIC,3202,472849,Entertainment Centre,,0,472849,13669,1
+GLNELG,3202,472850,Royal Adelaide Hospital,,0,472850,13686,1
+BTANIC,3202,472851,Entertainment Centre,,0,472851,13669,1
+GLNELG,3202,472852,Royal Adelaide Hospital,,0,472852,13686,1
+BTANIC,3202,472853,Entertainment Centre,,0,472853,13669,1
+GLNELG,3202,472854,Royal Adelaide Hospital,,0,472854,13686,1
+BTANIC,3202,472855,Entertainment Centre,,0,472855,13669,1
+GLNELG,3202,472856,Royal Adelaide Hospital,,0,472856,13686,1
+BTANIC,3202,472857,Entertainment Centre,,0,472857,13669,1
+GLNELG,3202,472858,Royal Adelaide Hospital,,0,472858,13686,1
+BTANIC,3202,472859,Entertainment Centre,,0,472859,13669,1
+GLNELG,3202,472860,Royal Adelaide Hospital,,0,472860,13686,1
+BTANIC,3202,472861,Entertainment Centre,,0,472861,13669,1
+GLNELG,3202,472862,Royal Adelaide Hospital,,0,472862,13686,1
+BTANIC,3202,472863,Entertainment Centre,,0,472863,13669,1
+GLNELG,3202,472864,Royal Adelaide Hospital,,0,472864,13686,1
+BTANIC,3202,472865,Entertainment Centre,,0,472865,13669,1
+GLNELG,3202,472866,Royal Adelaide Hospital,,0,472866,13686,1
+BTANIC,3202,472867,Entertainment Centre,,0,472867,13669,1
+GLNELG,3202,472868,Royal Adelaide Hospital,,0,472868,13686,1
+BTANIC,3202,472869,Entertainment Centre,,0,472869,13669,1
+GLNELG,3202,472870,Royal Adelaide Hospital,,0,472870,13686,1
+BTANIC,3202,472871,Entertainment Centre,,0,472871,13669,1
+GLNELG,3202,472872,Royal Adelaide Hospital,,0,472872,13686,1
+BTANIC,3202,472873,Entertainment Centre,,0,472873,13669,1
+GLNELG,3202,472874,Royal Adelaide Hospital,,0,472874,13686,1
+BTANIC,3202,472875,Entertainment Centre,,0,472875,13669,1
+GLNELG,3202,472876,Royal Adelaide Hospital,,0,472876,13686,1
+BTANIC,3202,472877,Entertainment Centre,,0,472877,13669,1
+GLNELG,3202,472878,Royal Adelaide Hospital,,0,472878,13686,1
+BTANIC,3202,472879,Entertainment Centre,,0,472879,13669,1
+GLNELG,3202,472880,Royal Adelaide Hospital,,0,472880,13686,1
+BTANIC,3202,472881,Entertainment Centre,,0,472881,13669,1
+GLNELG,3202,472882,Royal Adelaide Hospital,,0,472882,13686,1
+BTANIC,3202,472883,Entertainment Centre,,0,472883,13669,1
+GLNELG,3202,472884,Royal Adelaide Hospital,,0,472884,13686,1
+BTANIC,3202,472885,Entertainment Centre,,0,472885,13669,1
+GLNELG,3202,472886,Royal Adelaide Hospital,,0,472886,13686,1
+BTANIC,3202,472887,Entertainment Centre,,0,472887,13669,1
+GLNELG,3202,472888,Royal Adelaide Hospital,,0,472888,13686,1
+BTANIC,3202,472889,Entertainment Centre,,0,472889,13669,1
+GLNELG,3202,472890,Royal Adelaide Hospital,,0,472890,13686,1
+BTANIC,3202,472891,Entertainment Centre,,0,472891,13669,1
+GLNELG,3202,472892,Royal Adelaide Hospital,,0,472892,13686,1
+BTANIC,3202,472893,Entertainment Centre,,0,472893,13669,1
+GLNELG,3202,472894,Royal Adelaide Hospital,,0,472894,13686,1
+BTANIC,3202,472895,Entertainment Centre,,0,472895,13669,1
+GLNELG,3202,472896,Royal Adelaide Hospital,,0,472896,13686,1
+BTANIC,3202,472897,Entertainment Centre,,0,472897,13669,1
+GLNELG,3202,472898,Royal Adelaide Hospital,,0,472898,13686,1
+BTANIC,3202,472899,Entertainment Centre,,0,472899,13669,1
+GLNELG,3202,472900,Royal Adelaide Hospital,,0,472900,13686,1
+BTANIC,3202,472901,Entertainment Centre,,0,472901,13669,1
+GLNELG,3202,472902,Royal Adelaide Hospital,,0,472902,13686,1
+BTANIC,3202,472903,Entertainment Centre,,0,472903,13669,1
+GLNELG,3202,472904,Royal Adelaide Hospital,,0,472904,13686,1
+BTANIC,3202,472905,Entertainment Centre,,0,472905,13669,1
+GLNELG,3202,472906,Royal Adelaide Hospital,,0,472906,13686,1
+BTANIC,3202,472907,Entertainment Centre,,0,472907,13669,1
+GLNELG,3202,472908,Royal Adelaide Hospital,,0,472908,13686,1
+BTANIC,3202,472909,Entertainment Centre,,0,472909,13669,1
+GLNELG,3202,472910,Royal Adelaide Hospital,,0,472910,13686,1
+BTANIC,3202,472911,Entertainment Centre,,0,472911,13669,1
+GLNELG,3202,472912,Royal Adelaide Hospital,,0,472912,13686,1
+BTANIC,3202,472913,Entertainment Centre,,0,472913,13669,1
+GLNELG,3202,472914,Royal Adelaide Hospital,,0,472914,13686,1
+BTANIC,3202,472915,Entertainment Centre,,0,472915,13669,1
+GLNELG,3202,472916,Royal Adelaide Hospital,,0,472916,13686,1
+BTANIC,3202,472917,Entertainment Centre,,0,472917,13669,1
+GLNELG,3202,472918,Royal Adelaide Hospital,,0,472918,13686,1
+BTANIC,3202,472919,Entertainment Centre,,0,472919,13669,1
+GLNELG,3202,472920,Royal Adelaide Hospital,,0,472920,13686,1
+BTANIC,3202,472921,Entertainment Centre,,0,472921,13669,1
+GLNELG,3202,472922,Royal Adelaide Hospital,,0,472922,13686,1
+BTANIC,3202,472923,Entertainment Centre,,0,472923,13669,1
+GLNELG,3202,472924,Royal Adelaide Hospital,,0,472924,13686,1
+BTANIC,3202,472925,Entertainment Centre,,0,472925,13669,1
+GLNELG,3202,472926,Royal Adelaide Hospital,,0,472926,13671,1
+BTANIC,3202,472927,Entertainment Centre,,0,472927,13669,1
+GLNELG,3202,472928,Royal Adelaide Hospital,,0,472928,13671,1
+BTANIC,3202,472929,Entertainment Centre,,0,472929,13669,1
+GLNELG,3202,472930,Royal Adelaide Hospital,,0,472930,13671,1
+BTANIC,3202,472931,Entertainment Centre,,0,472931,13669,1
+GLNELG,3202,472932,Royal Adelaide Hospital,,0,472932,13671,1
+BTANIC,3202,472933,Entertainment Centre,,0,472933,13669,1
+GLNELG,3202,472934,Royal Adelaide Hospital,,0,472934,13671,1
+BTANIC,3202,472935,Entertainment Centre,,0,472935,13669,1
+GLNELG,3202,472936,Royal Adelaide Hospital,,0,472936,13671,1
+BTANIC,3202,472937,Entertainment Centre,,0,472937,13669,1
+GLNELG,3202,472938,Royal Adelaide Hospital,,0,472938,13671,1
+BTANIC,3202,472939,Entertainment Centre,,0,472939,13669,1
+GLNELG,3202,472940,Royal Adelaide Hospital,,0,472940,13671,1
+BTANIC,3202,472941,Entertainment Centre,,0,472941,13669,1
+GLNELG,3202,472942,Royal Adelaide Hospital,,0,472942,13671,1
+BTANIC,3202,472943,Entertainment Centre,,0,472943,13669,1
+GLNELG,3202,472944,Royal Adelaide Hospital,,0,472944,13671,1
+BTANIC,3202,472945,Entertainment Centre,,0,472945,13669,1
+GLNELG,3202,472946,Royal Adelaide Hospital,,0,472946,13671,1
+BTANIC,3202,472947,Entertainment Centre,,0,472947,13669,1
+GLNELG,3202,472948,Royal Adelaide Hospital,,0,472948,13671,1
+BTANIC,3202,472949,Entertainment Centre,,0,472949,13669,1
+GLNELG,3202,472950,Royal Adelaide Hospital,,0,472950,13671,1
+BTANIC,3202,472951,Entertainment Centre,,0,472951,13669,1
+GLNELG,3202,472952,Royal Adelaide Hospital,,0,472952,13671,1
+BTANIC,3202,472953,Entertainment Centre,,0,472953,13669,1
+GLNELG,3202,472954,Royal Adelaide Hospital,,0,472954,13671,1
+BTANIC,3202,472955,Entertainment Centre,,0,472955,13669,1
+GLNELG,3202,472956,Royal Adelaide Hospital,,0,472956,13671,1
+BTANIC,3202,472957,Entertainment Centre,,0,472957,13669,1
+GLNELG,3202,472958,Royal Adelaide Hospital,,0,472958,13671,1
+BTANIC,3202,472959,Entertainment Centre,,0,472959,13669,1
+GLNELG,3202,472960,Royal Adelaide Hospital,,0,472960,13671,1
+BTANIC,3202,472961,Entertainment Centre,,0,472961,13669,1
+GLNELG,3202,472962,Royal Adelaide Hospital,,0,472962,13671,1
+BTANIC,3202,472963,Entertainment Centre,,0,472963,13669,1
+GLNELG,3202,472964,Royal Adelaide Hospital,,0,472964,13671,1
+BTANIC,3202,472965,Entertainment Centre,,0,472965,13669,1
+GLNELG,3202,472966,Glenelg,,1,472966,13680,1
+GLNELG,3202,472967,Glenelg,,1,472967,13680,1
+GLNELG,3202,472968,Glenelg,,1,472968,13680,1
+GLNELG,3202,472969,Glenelg,,1,472969,13680,1
+GLNELG,3202,472970,Glenelg,,1,472970,13680,1
+GLNELG,3202,472971,Glenelg,,1,472971,13680,1
+GLNELG,3202,472972,Glenelg,,1,472972,13680,1
+BTANIC,3202,472973,Botanic Gardens,,1,472973,13670,1
+GLNELG,3202,472974,Glenelg,,1,472974,13680,1
+BTANIC,3202,472975,Botanic Gardens,,1,472975,13670,1
+GLNELG,3202,472976,Glenelg,,1,472976,13680,1
+GLNELG,3202,472977,Glenelg,,1,472977,13680,1
+GLNELG,3202,472978,Glenelg,,1,472978,13680,1
+GLNELG,3202,472979,Glenelg,,1,472979,13680,1
+GLNELG,3202,472980,Glenelg,,1,472980,13672,1
+BTANIC,3202,472981,Botanic Gardens,,1,472981,13670,1
+GLNELG,3202,472982,Glenelg,,1,472982,13680,1
+GLNELG,3202,472983,Glenelg,,1,472983,13672,1
+BTANIC,3202,472984,Botanic Gardens,,1,472984,13670,1
+BTANIC,3202,472985,Botanic Gardens,,1,472985,13670,1
+GLNELG,3202,472986,Glenelg,,1,472986,13680,1
+GLNELG,3202,472987,Glenelg,,1,472987,13672,1
+BTANIC,3202,472988,Botanic Gardens,,1,472988,13670,1
+GLNELG,3202,472989,Glenelg,,1,472989,13672,1
+BTANIC,3202,472990,Botanic Gardens,,1,472990,13670,1
+GLNELG,3202,472991,Glenelg,,1,472991,13688,1
+BTANIC,3202,472992,Botanic Gardens,,1,472992,13670,1
+GLNELG,3202,472993,Glenelg,,1,472993,13688,1
+BTANIC,3202,472994,Botanic Gardens,,1,472994,13670,1
+GLNELG,3202,472995,Glenelg,,1,472995,13688,1
+BTANIC,3202,472996,Botanic Gardens,,1,472996,13670,1
+GLNELG,3202,472997,Glenelg,,1,472997,13688,1
+BTANIC,3202,472998,Botanic Gardens,,1,472998,13670,1
+GLNELG,3202,472999,Glenelg,,1,472999,13688,1
+BTANIC,3202,473000,Botanic Gardens,,1,473000,13670,1
+GLNELG,3202,473001,Glenelg,,1,473001,13688,1
+BTANIC,3202,473002,Botanic Gardens,,1,473002,13670,1
+GLNELG,3202,473003,Glenelg,,1,473003,13688,1
+BTANIC,3202,473004,Botanic Gardens,,1,473004,13670,1
+GLNELG,3202,473005,Glenelg,,1,473005,13688,1
+BTANIC,3202,473006,Botanic Gardens,,1,473006,13670,1
+GLNELG,3202,473007,Glenelg,,1,473007,13688,1
+BTANIC,3202,473008,Botanic Gardens,,1,473008,13670,1
+GLNELG,3202,473009,Glenelg,,1,473009,13688,1
+BTANIC,3202,473010,Botanic Gardens,,1,473010,13670,1
+GLNELG,3202,473011,Glenelg,,1,473011,13688,1
+BTANIC,3202,473012,Botanic Gardens,,1,473012,13670,1
+GLNELG,3202,473013,Glenelg,,1,473013,13688,1
+BTANIC,3202,473014,Botanic Gardens,,1,473014,13670,1
+GLNELG,3202,473015,Glenelg,,1,473015,13688,1
+BTANIC,3202,473016,Botanic Gardens,,1,473016,13670,1
+GLNELG,3202,473017,Glenelg,,1,473017,13688,1
+BTANIC,3202,473018,Botanic Gardens,,1,473018,13670,1
+GLNELG,3202,473019,Glenelg,,1,473019,13688,1
+BTANIC,3202,473020,Botanic Gardens,,1,473020,13670,1
+GLNELG,3202,473021,Glenelg,,1,473021,13688,1
+BTANIC,3202,473022,Botanic Gardens,,1,473022,13670,1
+GLNELG,3202,473023,Glenelg,,1,473023,13688,1
+BTANIC,3202,473024,Botanic Gardens,,1,473024,13670,1
+GLNELG,3202,473025,Glenelg,,1,473025,13688,1
+BTANIC,3202,473026,Botanic Gardens,,1,473026,13670,1
+GLNELG,3202,473027,Glenelg,,1,473027,13688,1
+BTANIC,3202,473028,Botanic Gardens,,1,473028,13670,1
+GLNELG,3202,473029,Glenelg,,1,473029,13688,1
+BTANIC,3202,473030,Botanic Gardens,,1,473030,13670,1
+GLNELG,3202,473031,Glenelg,,1,473031,13688,1
+BTANIC,3202,473032,Botanic Gardens,,1,473032,13670,1
+GLNELG,3202,473033,Glenelg,,1,473033,13688,1
+BTANIC,3202,473034,Botanic Gardens,,1,473034,13670,1
+GLNELG,3202,473035,Glenelg,,1,473035,13688,1
+BTANIC,3202,473036,Botanic Gardens,,1,473036,13670,1
+GLNELG,3202,473037,Glenelg,,1,473037,13688,1
+BTANIC,3202,473038,Botanic Gardens,,1,473038,13670,1
+GLNELG,3202,473039,Glenelg,,1,473039,13688,1
+BTANIC,3202,473040,Botanic Gardens,,1,473040,13670,1
+GLNELG,3202,473041,Glenelg,,1,473041,13688,1
+BTANIC,3202,473042,Botanic Gardens,,1,473042,13670,1
+GLNELG,3202,473043,Glenelg,,1,473043,13688,1
+BTANIC,3202,473044,Botanic Gardens,,1,473044,13670,1
+GLNELG,3202,473045,Glenelg,,1,473045,13688,1
+BTANIC,3202,473046,Botanic Gardens,,1,473046,13670,1
+GLNELG,3202,473047,Glenelg,,1,473047,13688,1
+BTANIC,3202,473048,Botanic Gardens,,1,473048,13670,1
+GLNELG,3202,473049,Glenelg,,1,473049,13688,1
+BTANIC,3202,473050,Botanic Gardens,,1,473050,13670,1
+GLNELG,3202,473051,Glenelg,,1,473051,13688,1
+BTANIC,3202,473052,Botanic Gardens,,1,473052,13670,1
+GLNELG,3202,473053,Glenelg,,1,473053,13688,1
+BTANIC,3202,473054,Botanic Gardens,,1,473054,13670,1
+GLNELG,3202,473055,Glenelg,,1,473055,13688,1
+BTANIC,3202,473056,Botanic Gardens,,1,473056,13670,1
+GLNELG,3202,473057,Glenelg,,1,473057,13688,1
+BTANIC,3202,473058,Botanic Gardens,,1,473058,13670,1
+GLNELG,3202,473059,Glenelg,,1,473059,13688,1
+BTANIC,3202,473060,Botanic Gardens,,1,473060,13670,1
+GLNELG,3202,473061,Glenelg,,1,473061,13688,1
+BTANIC,3202,473062,Botanic Gardens,,1,473062,13670,1
+GLNELG,3202,473063,Glenelg,,1,473063,13688,1
+BTANIC,3202,473064,Botanic Gardens,,1,473064,13670,1
+GLNELG,3202,473065,Glenelg,,1,473065,13688,1
+BTANIC,3202,473066,Botanic Gardens,,1,473066,13670,1
+GLNELG,3202,473067,Glenelg,,1,473067,13688,1
+BTANIC,3202,473068,Botanic Gardens,,1,473068,13670,1
+GLNELG,3202,473069,Glenelg,,1,473069,13688,1
+BTANIC,3202,473070,Botanic Gardens,,1,473070,13670,1
+GLNELG,3202,473071,Glenelg,,1,473071,13688,1
+BTANIC,3202,473072,Botanic Gardens,,1,473072,13670,1
+GLNELG,3202,473073,Glenelg,,1,473073,13688,1
+BTANIC,3202,473074,Botanic Gardens,,1,473074,13670,1
+GLNELG,3202,473075,Glenelg,,1,473075,13688,1
+BTANIC,3202,473076,Botanic Gardens,,1,473076,13670,1
+GLNELG,3202,473077,Glenelg,,1,473077,13688,1
+BTANIC,3202,473078,Botanic Gardens,,1,473078,13670,1
+GLNELG,3202,473079,Glenelg,,1,473079,13688,1
+BTANIC,3202,473080,Botanic Gardens,,1,473080,13670,1
+GLNELG,3202,473081,Glenelg,,1,473081,13688,1
+BTANIC,3202,473082,Botanic Gardens,,1,473082,13670,1
+GLNELG,3202,473083,Glenelg,,1,473083,13688,1
+BTANIC,3202,473084,Botanic Gardens,,1,473084,13670,1
+GLNELG,3202,473085,Glenelg,,1,473085,13688,1
+BTANIC,3202,473086,Botanic Gardens,,1,473086,13670,1
+GLNELG,3202,473087,Glenelg,,1,473087,13688,1
+BTANIC,3202,473088,Botanic Gardens,,1,473088,13670,1
+GLNELG,3202,473089,Glenelg,,1,473089,13688,1
+BTANIC,3202,473090,Botanic Gardens,,1,473090,13670,1
+GLNELG,3202,473091,Glenelg,,1,473091,13688,1
+BTANIC,3202,473092,Botanic Gardens,,1,473092,13670,1
+GLNELG,3202,473093,Glenelg,,1,473093,13688,1
+BTANIC,3202,473094,Botanic Gardens,,1,473094,13670,1
+GLNELG,3202,473095,Glenelg,,1,473095,13688,1
+BTANIC,3202,473096,Botanic Gardens,,1,473096,13670,1
+GLNELG,3202,473097,Glenelg,,1,473097,13672,1
+BTANIC,3202,473098,Botanic Gardens,,1,473098,13670,1
+GLNELG,3202,473099,Glenelg,,1,473099,13672,1
+GLNELG,3202,473100,Glenelg,,1,473100,13672,1
+BTANIC,3202,473101,Botanic Gardens,,1,473101,13670,1
+BTANIC,3202,473102,Botanic Gardens,,1,473102,13670,1
+GLNELG,3202,473103,Glenelg,,1,473103,13672,1
+BTANIC,3202,473104,Botanic Gardens,,1,473104,13670,1
+GLNELG,3202,473105,Glenelg,,1,473105,13672,1
+BTANIC,3202,473106,Botanic Gardens,,1,473106,13670,1
+GLNELG,3202,473107,Glenelg,,1,473107,13672,1
+BTANIC,3202,473108,Botanic Gardens,,1,473108,13670,1
+GLNELG,3202,473109,Glenelg,,1,473109,13672,1
+BTANIC,3202,473110,Botanic Gardens,,1,473110,13670,1
+GLNELG,3202,473111,Glenelg,,1,473111,13672,1
+BTANIC,3202,473112,Botanic Gardens,,1,473112,13670,1
+GLNELG,3202,473113,Glenelg,,1,473113,13672,1
+GLNELG,3202,473114,Glenelg,,1,473114,13674,1
+GLNELG,3202,473115,Glenelg,,1,473115,13672,1
+BTANIC,3202,473116,Botanic Gardens,,1,473116,13670,1
+GLNELG,3202,473117,Glenelg,,1,473117,13674,1
+GLNELG,3202,473118,Glenelg,,1,473118,13672,1
+BTANIC,3202,473119,Botanic Gardens,,1,473119,13670,1
+GLNELG,3202,473120,Glenelg,,1,473120,13672,1
+BTANIC,3202,473121,Botanic Gardens,,1,473121,13670,1
+GLNELG,3202,473122,Glenelg,,1,473122,13672,1
+BTANIC,3202,473123,Botanic Gardens,,1,473123,13670,1
+GLNELG,3202,473124,Glenelg,,1,473124,13672,1
+BTANIC,3202,473125,Botanic Gardens,,1,473125,13670,1
+GLNELG,3202,473126,Glenelg,,1,473126,13672,1
+BTANIC,3202,473127,Botanic Gardens,,1,473127,13670,1
+GLNELG,3202,473128,Glenelg,,1,473128,13672,1
+BTANIC,3202,473129,Botanic Gardens,,1,473129,13670,1
+GLNELG,3202,473130,Glenelg,,1,473130,13672,1
+BTANIC,3202,473131,Botanic Gardens,,1,473131,13670,1
+GLNELG,3202,473132,Glenelg,,1,473132,13672,1
+BTANIC,3202,473133,Botanic Gardens,,1,473133,13670,1
+GLNELG,3202,473134,Glenelg,,1,473134,13672,1
+BTANIC,3202,473135,Botanic Gardens,,1,473135,13670,1
+GLNELG,3202,473136,Glenelg,,1,473136,13672,1
+BTANIC,3202,473137,Botanic Gardens,,1,473137,13670,1
+GLNELG,3202,473138,Glenelg,,1,473138,13672,1
+BTANIC,3202,473139,Botanic Gardens,,1,473139,13670,1
+GLNELG,3202,473140,Glenelg,,1,473140,13672,1
+BTANIC,3202,473141,Botanic Gardens,,1,473141,13670,1
+GLNELG,3202,473142,Glenelg,,1,473142,13672,1
+BTANIC,3202,473143,Botanic Gardens,,1,473143,13670,1
+GLNELG,3202,473144,Glenelg,,1,473144,13672,1
+BTANIC,3202,473145,Botanic Gardens,,1,473145,13670,1
+GLNELG,3202,473146,Glenelg,,1,473146,13672,1
+BTANIC,3202,473147,Botanic Gardens,,1,473147,13670,1
+GLNELG,3202,473148,Glenelg,,1,473148,13672,1
+GLNELG,3202,473149,Glenelg,,1,473149,13674,1
+GLNELG,3202,473150,Glenelg,,1,473150,13672,1
+GLNELG,3202,473151,Glenelg,,1,473151,13674,1
+GLNELG,3202,473152,Glenelg,,1,473152,13674,1

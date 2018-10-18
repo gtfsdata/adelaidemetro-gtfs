@@ -12,10 +12,12 @@ None.
 General Amendments:
 
 
-1) Routes 167 and 168 now service stops T2 Grenfell St, and V3 and X1 Currie St when leaving the city.
+1) On Sunday, October 21, the trams will not be operating through Jetty Rd Glenelg. All trams will terminate at Brighton Rd (except for the BTANIC trams which do not go to Glenelg).
 
-2) Routes 115, 117 and 118 now service stops V1, W1 and X1 Currie St when leaving the city.
+2) On Saturday, October 27, the FESTVL tram will not operate due to the Moon Lantern Festival. Service replaced with extra GLNELG trips.
 
-3) All Light City Buses routes have been moved to the Torrens Transit agency.
+3) Updates made to Trip Headsigns for routes 578, 530, 178, H30/X30, W91C, G20/G21, 300U, G10, 506 and 546.
 
-4) GLNELG and FESTVL tram routes will not be operating through Jetty Rd on 21 October due to a street party.
+4) Inbound 578 trips were previously shown as servicing Zone A Paradise Interchange. This has changed to Zone B.
+
+5) Route 97A will cease operations from 26 October.
