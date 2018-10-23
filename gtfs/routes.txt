@@ -96,7 +96,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 254,5,254,Port Adelaide Interchange to City,"via Arndale Centre Interchange & Hawker Street. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
 254X,5,254X,Port Adelaide Interchange to City,"via Arndale Centre Interchange. Express between Arndale Centre Interchange & stop 2 King William Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/254,990000,ffffff,253-253X-254-254X-N254
 262,5,262,Marion Centre Interchange to City,"via Sturt Road, Brighton Road and Anzac Highway. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262,990000,ffffff,262-263-265-N262
-262F,5,262F,Brighton to City,"via Sturt Road, Brighton Road and Anzac Highway. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/262F,990000,ffffff,
 263,5,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-263-265-N262
 263A,5,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-263-265-N262
 265,5,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262

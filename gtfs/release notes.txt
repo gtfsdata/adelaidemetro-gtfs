@@ -12,12 +12,8 @@ None.
 General Amendments:
 
 
-1) On Sunday, October 21, the trams will not be operating through Jetty Rd Glenelg. All trams will terminate at Brighton Rd (except for the BTANIC trams which do not go to Glenelg).
+1) Adjusted bus stop coordinates on East Parkway, affecting route 206 only.
 
-2) On Saturday, October 27, the FESTVL tram will not operate due to the Moon Lantern Festival. Service replaced with extra GLNELG trips.
+2) Route 163 was previously shown as servicing Stop D2 Currie St. This has been corrected to Stop D3 Currie St.
 
-3) Updates made to Trip Headsigns for routes 578, 530, 178, H30/X30, W91C, G20/G21, 300U, G10, 506 and 546.
-
-4) Inbound 578 trips were previously shown as servicing Zone A Paradise Interchange. This has changed to Zone B.
-
-5) Route 97A will cease operations from 26 October.
+3) Stop coordinates for Stop 32C Sportsmans Dr - East side have been updated.
