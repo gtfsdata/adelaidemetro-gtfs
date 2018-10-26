@@ -12,8 +12,6 @@ None.
 General Amendments:
 
 
-1) Adjusted bus stop coordinates on East Parkway, affecting route 206 only.
+1) Between 1 - 8 November and 21 - 28 November there will be night closures on all train lines. Substitue services will operate in place of train services. Please see www.adelaidemetro.com.au/ for further information.
 
-2) Route 163 was previously shown as servicing Stop D2 Currie St. This has been corrected to Stop D3 Currie St.
-
-3) Stop coordinates for Stop 32C Sportsmans Dr - East side have been updated.
+2) Minor updates to setdown and pick up rules for routes 202F, 203F, 195F and 196F.
