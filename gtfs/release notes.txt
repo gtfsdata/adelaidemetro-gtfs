@@ -12,6 +12,8 @@ None.
 General Amendments:
 
 
-1) Between 1 - 8 November and 21 - 28 November there will be night closures on all train lines. Substitue services will operate in place of train services. Please see www.adelaidemetro.com.au/ for further information.
+1) Updated stop coordinates for Stop 10 South Rd - East side (Hindmarsh). Stop has moved approx. 25 meters North.
 
-2) Minor updates to setdown and pick up rules for routes 202F, 203F, 195F and 196F.
+2) Fixed issue with routes 750B and 751 so that they service Stop 116B Heathersay Ave.
+
+3) GA1 and GA2 routes have been added to the GTFS.
