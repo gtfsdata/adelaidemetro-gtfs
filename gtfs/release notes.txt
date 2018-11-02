@@ -12,8 +12,12 @@ None.
 General Amendments:
 
 
-1) Updated stop coordinates for Stop 10 South Rd - East side (Hindmarsh). Stop has moved approx. 25 meters North.
+1) Some minor updates to GLNELG trip times, namely the last few trips operating on weeknights.
 
-2) Fixed issue with routes 750B and 751 so that they service Stop 116B Heathersay Ave.
+2) Fixed issue where route 745 was displayed servicing the incorrect side of the road at Stop 85 The Parade.
 
-3) GA1 and GA2 routes have been added to the GTFS.
+3) Implemented additional trains for Credit Union Christmas Pageant on November 10.
+
+4) Implemented special tram route operations for the Credit Union Christmas Pageant on November 10.
+
+5) Implemented special tram route operations for Remembrance Day on November 11.
