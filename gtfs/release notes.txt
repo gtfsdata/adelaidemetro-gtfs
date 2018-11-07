@@ -12,4 +12,4 @@ None.
 General Amendments:
 
 
-1) Added new trips for routes GA1 and GA2 traveling from Gawler Central to Adelaide on weeknights and weekends during the night train closures. Trips depart Gawler Central (stop 101 Cowan St) at 19:55 and 20:25 for both routes.
+1) Implemented detours for Torrens Transit services on November 10 for the Christmas Pageant.
