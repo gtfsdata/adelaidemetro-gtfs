@@ -12,4 +12,4 @@ None.
 General Amendments:
 
 
-1) Implemented detours for Torrens Transit services on November 10 for the Christmas Pageant.
+1) Implemented detours for Southlink services on November 10 for the Credit Union Christmas Pageant. All services have now been updated to reflect detours and additional trips operating for the event.
