@@ -12,4 +12,6 @@ None.
 General Amendments:
 
 
-1) Implemented detours for Southlink services on November 10 for the Credit Union Christmas Pageant. All services have now been updated to reflect detours and additional trips operating for the event.
+1) Implemented changes to G40 route for the December/January school holiday period.
+
+2) Extended GTFS feed to February 2019, including public holiday timetables.
