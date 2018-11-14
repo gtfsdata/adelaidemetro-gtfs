@@ -6,12 +6,34 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-None.
+20181225 - Christmas Day
+20181226 - Proclamation Day
+20190101 - New Year's Day
+20190128 - Australia Day Holiday
+20190311 - Adelaide Cup
+20190419 - Good Friday
+20190422 - Easter Monday
+20190425 - Anzac Day
+20190610 - Queen's Birthday
+20191007 - Labour Day
+20191225 - Christmas Day
+20191226 - Proclamation Day
+20200101 - New Year's Day
 
 
 General Amendments:
 
 
-1) Implemented changes to G40 route for the December/January school holiday period.
+1) Implemented changes to calendar and calendar_dates.txt files to extend school day trips to February 2019, but also took into account the December/January school holiday period.
 
-2) Extended GTFS feed to February 2019, including public holiday timetables.
+2) Implemented calendar exceptions to routes 98A and 98C for December and January public holidays.
+
+3) Stop coordinates have changed for Stop 24A Main South Rd (both sides)
+
+4) Stop 25 Main South Rd - East side has been removed.
+
+5) Stop coordinates have changes for Stop 64B Playford Blvd - East side
+
+6) Route 163 now services Stop X1 Currie St. It no longer services Stop Y1 Currie St.
+
+7) Special tram timetable in operation on November 25 due to the Glenelg Christmas Pageant.
