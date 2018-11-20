@@ -24,6 +24,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) East-bound Sturt Rd services which previously turned RIGHT onto Main South Rd to service the Royal Adelaide Hospital will now turn into Laffer Dr.
-
-2) The 864 route which departs Stop B2 West Tce at 9:30pm has changed its depature time to 9:35pm. This applies to weekdays, Saturdays and Sundays.
+1) Added train closure data for December 1 and December 2. All trains will not be operating on these two days, but have been replaced by bus substitute services.
