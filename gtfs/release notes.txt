@@ -24,4 +24,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added train closure data for December 1 and December 2. All trains will not be operating on these two days, but have been replaced by bus substitute services.
+1) On December 6-10 there will be a special tram timetables in place due to Test Cricket matches at Adelaide Oval.
+
+2) On December 15 there will be a special tram timetable in place due to the Glenelg Christmas Pageant. From first service until the afternoon no trams will operate along Jetty Rd. Also, on this day there are no races at Morphettville Racecourse so the trams will not service the Racecourse tram stop.
