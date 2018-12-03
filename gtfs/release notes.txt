@@ -24,10 +24,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Changes to rail closures have been implemented. There are now night closures from 2-7 December and 10-14 December. All Day closures to occure on December 8-9.
+1) Stop co-ordinates have changed for stop 42 Reservoir Road (both sides).
 
-2) Stop coordinates have changes for Stop 39 Commercial Rd - East side.
-
-3) Implemented 751R trip which commences from Noarlunga Hospital at 8:31am on weekdays.
-
-4) 877 now operates at 14:40 on Tuesdays.
+2) Tram timetables have been updated for the duration of the Test Cricket matches (6th to 10th of December).
