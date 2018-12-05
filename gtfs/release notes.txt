@@ -24,6 +24,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop co-ordinates have changed for stop 42 Reservoir Road (both sides).
+1) Added additional sub bus trips for this Saturday and Sunday. These have been added to accommodate the Test Cricket match at Adelaide Oval.
 
-2) Tram timetables have been updated for the duration of the Test Cricket matches (6th to 10th of December).
+2) Alterations have been made in preparation for December/January school holidays. This includes changing the validity for some trips during the period.
+
+3) Fixed issue with route 835A. This route now services Stop 64 Hutchinson St - West side (instead of the East side)
