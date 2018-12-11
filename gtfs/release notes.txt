@@ -24,8 +24,12 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added additional sub bus trips for this Saturday and Sunday. These have been added to accommodate the Test Cricket match at Adelaide Oval.
+1) Additional 544 and 540 trips operating on Friday nights in the lead up to Christmas.
 
-2) Alterations have been made in preparation for December/January school holidays. This includes changing the validity for some trips during the period.
+2) Stops 12 (both sides) and 17 (inbound only) Payneham Rd have had their coordinates changed.
 
-3) Fixed issue with route 835A. This route now services Stop 64 Hutchinson St - West side (instead of the East side)
+3) Stops 13A (both sides) and 11 (both sides) Payneham Rd have been removed from the GTFS.
+
+4) Buses will no longer service Stop 25 Hampstead Rd - East side between 7am and 7pm on weekdays.
+
+5) Train trips were mistakenly removed entirely for December 25 and December 26. These have been added back into the GTFS.
