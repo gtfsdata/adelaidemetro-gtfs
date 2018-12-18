@@ -24,12 +24,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Additional 544 and 540 trips operating on Friday nights in the lead up to Christmas.
+1) Implemented Festive Season timetables for December 24 - January 4. New Year's Eve timetables will be implemented soon!
 
-2) Stops 12 (both sides) and 17 (inbound only) Payneham Rd have had their coordinates changed.
-
-3) Stops 13A (both sides) and 11 (both sides) Payneham Rd have been removed from the GTFS.
-
-4) Buses will no longer service Stop 25 Hampstead Rd - East side between 7am and 7pm on weekdays.
-
-5) Train trips were mistakenly removed entirely for December 25 and December 26. These have been added back into the GTFS.
+2) Implemented AO/AOX timetables for BBL match on December 23.
