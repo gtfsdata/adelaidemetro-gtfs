@@ -99,6 +99,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 263,5,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-263-265-N262
 263A,5,263A,City to Warradale,"terminates at stop 38 Dunrobin Road, Warradale. Limited service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-263-265-N262
 265,5,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
+265G,5,265G,Marion Centre Interchange to Glenelg Interchange,"Terminates at Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,
 265W,5,265W,City to Somerton Park,"Terminates at stop 28 Whyte Street, Somerton Park. Operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
 271,5,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,0033CC,ffffff,271-273
 273,5,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,0033CC,ffffff,271-273
@@ -117,6 +118,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 300M,5,300M,Suburban Connector,"Terminates at Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 300U,5,300U,Suburban Connector,"Terminates at Flinders University.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 320,5,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+320G,5,320G,Aberfoyle Hub to Glenelg,"via Flinders Medical Centre and Marion Centre interchange",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 333,5,333,North Haven to Port Adelaide,"via Largs Bay & Semaphore. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/333,0033CC,ffffff,333
 350,5,350,Largs Bay to West Lakes Centre Interchange,"via Port Adelaide Interchange & Royal Park. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
 350P,5,350P,West Lakes Centre Interchange to Port Adelaide Interchange,"Terminates Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,150-350
@@ -273,6 +275,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 720,4,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 721,4,721,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
+721A,4,721A,Noarlunga Centre Interchange to Old Reynella Interchange,"Termintes at Old Reynella Interchange.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721F,4,721F,Noarlunga Centre Interchange to City,"via Main South Reynella Interchange. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721L,4,721L,Noarlunga Centre Interchange to Lonsdale Depot,"Terminates at Lonsdale Depot.",3,http://www.adelaidemetro.com.au/routes/721L,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721R,4,721R,Flinders Medical Centre to Old Reynella Interchange,"via Main South Road.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
@@ -540,7 +543,7 @@ J2G,5,J2G,Greenwith to Glenelg,"Continues to Glenelg via Tapleys Hill Rd.",3,htt
 J7,5,J7,West Lakes Centre Interchange to Marion Centre Interchange,"via Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J7,0033CC,ffffff,J7-J8-371-372
 J7M,5,J7M,West Lakes Centre Interchange / Marion Centre Interchange to Camden Park,"Terminates at stop 15 Mooringe Avenue.",3,http://www.adelaidemetro.com.au/routes/J7M,0033CC,ffffff,J7-J8-371-372
 J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens Rd, Arndale Centre Interchange, Queen Elizabeth Hospital, Findon Rd, Adelaide Airport, Marion Rd & Morphett Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/J8,0033CC,ffffff,J7-J8-371-372
-M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
+M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44C,5,M44C,Marion Centre Interchange to City,"When travelling from Marion Centre Interchange M44C terminates at Stop I2 North Terrace.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 N1,5,N1,After Midnight Saturday PM - Sunday AM Golden Grove Interchange & Tea Tree Plaza Interchange to City,"via Golden Grove Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1

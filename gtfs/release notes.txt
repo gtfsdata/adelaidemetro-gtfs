@@ -24,6 +24,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented Festive Season timetables for December 24 - January 4. New Year's Eve timetables will be implemented soon!
+1) Implemented New Year's Eve timetables for buses (December 31).
 
-2) Implemented AO/AOX timetables for BBL match on December 23.
+2) Implemented additional O-Bahn services for Boxing Day (December 26)
