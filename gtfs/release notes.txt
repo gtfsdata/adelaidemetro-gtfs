@@ -24,6 +24,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added Train and Tram New Year's Eve trips to the GTFS.
-
-2) Added some missing 682, 751A and 751B trips to the GTFS for New Year's Eve and the "Festival Season" timetable (December 24 to January 4).
+1) Removed some duplicated trips that were shown as operating on New Year's Eve.
