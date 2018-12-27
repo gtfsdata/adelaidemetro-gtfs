@@ -6,8 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20181225 - Christmas Day
-20181226 - Proclamation Day
 20190101 - New Year's Day
 20190128 - Australia Day Holiday
 20190311 - Adelaide Cup
@@ -24,4 +22,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Removed some duplicated trips that were shown as operating on New Year's Eve.
+1) Added some missing H21 trips for the "Festive Holiday timetables" and New Year's Eve.
+
+2) Added AO/AOX trip data for BBL match at Adelaide Oval on January 6.
