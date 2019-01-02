@@ -6,7 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190101 - New Year's Day
 20190128 - Australia Day Holiday
 20190311 - Adelaide Cup
 20190419 - Good Friday
@@ -22,6 +21,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added some missing H21 trips for the "Festive Holiday timetables" and New Year's Eve.
+1) Stop coordinates have changed for Stop 14 Prospect Rd - West side and Stops 43 and 42B Kings Rd (both sides).
 
-2) Added AO/AOX trip data for BBL match at Adelaide Oval on January 6.
+2) Shape data for routes 411, 411B and 411U updated so that they now travel on the correct path of Kings Rd - there were some developments on the road in recent months.
+
+3) Minor changes to tram timetables for January 6 (due to BBL match at Adelaide Oval).
