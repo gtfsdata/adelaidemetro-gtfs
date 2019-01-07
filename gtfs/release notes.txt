@@ -21,8 +21,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordinates have changed for Stop 14 Prospect Rd - West side and Stops 43 and 42B Kings Rd (both sides).
+1) Added AO/AOX trips for a BBL match at Adelaide Oval on January 11.
 
-2) Shape data for routes 411, 411B and 411U updated so that they now travel on the correct path of Kings Rd - there were some developments on the road in recent months.
-
-3) Minor changes to tram timetables for January 6 (due to BBL match at Adelaide Oval).
+2) Special tram timetable operating on January 11.

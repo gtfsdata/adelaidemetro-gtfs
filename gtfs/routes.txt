@@ -531,7 +531,6 @@ IndstA,52,IndstA,Marion Centre Interchange to Bedford Industries,"Industrial Ser
 IndstB,52,IndstB,Royal Society For The Blind to City,"Industrial Service. Only for Royal Society for the Blind personnel & school students.",3,http://www.adelaidemetro.com.au/routes/IndstB,FF8C0D,ffffff,
 J1,5,J1,Elizabeth Interchange to Adelaide Airport and Glenelg,"via Lyell McEwin Hospital, Golden Grove Interchange, Tea Tree Plaza Interchange, O-Bahn, city, Sir Donald Bradman Dr and Harbour Town. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/J1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1A,5,J1A,Elizabeth Interchange to Adelaide Airport,"Terminates at Adelaide Airport.",3,http://www.adelaidemetro.com.au/routes/J1A,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
-J1C,5,J1C,Glenelg to City,"via Harbour Town Centre Interchange, Adelaide Airport & Sir Donald Bradman Drive.",3,http://www.adelaidemetro.com.au/routes/J1,0033CC,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1G,5,J1G,Glenelg to Golden Grove Interchange,"Terminates at Golden Grove Interchange.",3,http://www.adelaidemetro.com.au/routes/J1G,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1T,5,J1T,Adelaide Airport to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza.",3,http://www.adelaidemetro.com.au/routes/J1T,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 J1X,5,J1X,City to Adelaide Airport,"via Sir Donald Bradman Dr. Limited stop service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/J1X,0033CC,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
