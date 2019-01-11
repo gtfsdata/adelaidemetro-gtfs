@@ -21,6 +21,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trips for a BBL match at Adelaide Oval on January 21.
-
-2) Added Belair partial closure data for January 16-24.
+1) Added special tram timetables for 15, 18, 19, 21 and 26 of January. Timetables have been implemented due to the Tour Down Under, cricket matches at Adelaide Oval and Australia Day parade.
