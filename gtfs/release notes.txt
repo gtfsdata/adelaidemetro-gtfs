@@ -21,4 +21,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added special tram timetables for 15, 18, 19, 21 and 26 of January. Timetables have been implemented due to the Tour Down Under, cricket matches at Adelaide Oval and Australia Day parade.
+1) Implemented bus data for the 27 January 2018 service changes. Please see www.adelaidemetro.com.au for more detailed information. Train data changes will be added to our feed shortly.
