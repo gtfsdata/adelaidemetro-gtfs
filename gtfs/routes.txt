@@ -62,10 +62,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 209F,5,209F,Tea Tree Plaza Interchange to City,"via Ingle Farm & Main North Road. Limited stop service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/209F,990000,ffffff,202-202F-203-203F-209F-N202
 222,4,222,Mawson Interchange to City,"via Main North Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
 222R,4,222R,City to Mawson Interchange,"via Roma Mitchell Secondary College. Operates school days only.",3,http://www.adelaidemetro.com.au/routes/222,7030A0,ffffff,222
-224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
-224F,4,224F,Elizabeth Interchange to City,"via Mawson Interchange. Service operates Monday-Friday days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
-224M,4,224M,Elizabeth Interchange to Mawson Interchange,"terminates at Mawson Interchange.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
-224X,4,224X,Elizabeth Interchange to City,"via Mawson Interchange. Service operates express from Mawson Interchange to stop 29 Main North Road then express to Stop 4 O'Connell Street. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-226F-N224
+224,4,224,Elizabeth Interchange to City,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-N224
+224F,4,224F,Elizabeth Interchange to City,"via Mawson Interchange. Service operates Monday-Friday days.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-N224
+224M,4,224M,Elizabeth Interchange to Mawson Interchange,"terminates at Mawson Interchange.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-N224
+224X,4,224X,Elizabeth Interchange to City,"via Mawson Interchange. Service operates express from Mawson Interchange to stop 29 Main North Road then express to Stop 4 O'Connell Street. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/224,7030A0,ffffff,224-224F-224X-N224
 225,4,225,Salisbury Interchange to Gepps Cross,"via Mawson Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/225,7030A0,ffffff,225-225F-225X
 225F,4,225F,Salisbury Interchange to City,"via Mawson Interchange. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/225,7030A0,ffffff,225-225F-225X
 225M,4,225M,Salisbury Interchange to Mawson Interchange,"Terminates at Mawson Interchange.",3,http://www.adelaidemetro.com.au/routes/225,7030A0,ffffff,225-225F-225X
@@ -549,7 +549,7 @@ N178,5,N178,After Midnight Saturday PM - Sunday AM Newton to City,"via Montacute
 N202,5,N202,After Midnight Saturday PM - Sunday AM Ingle Farm to City,"via Hampstead Road. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N202,990000,ffffff,202-202F-203-203F-209F-N202
 N21,5,N21,After Midnight Saturday PM - Sunday AM City to Aberfoyle Hub,"via Goodwood Road & Marion Centre Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N21,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,"via The Parade. Service operates Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N22,0033CC,ffffff,H22-H23-H24-H32-N22
-N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,7030A0,ffffff,224-224F-224X-226F-N224
+N224,4,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,7030A0,ffffff,224-224F-224X-N224
 N254,5,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,990000,ffffff,253-253X-254-254X-N254
 N262,5,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,990000,ffffff,262-263-265-N262
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,0033CC,ffffff,H30-X30-530-N30

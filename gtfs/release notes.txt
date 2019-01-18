@@ -21,4 +21,10 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented bus data for the 27 January 2018 service changes. Please see www.adelaidemetro.com.au for more detailed information. Train data changes will be added to our feed shortly.
+1) Implemented changes to Grange/Outer Harbor train line for January 27 service changes.
+
+2) Removed route 350P from service as of January 27.
+
+3) Modified route and trip times of school route 875 and 875T.
+
+4) Updated school routes servicing Heathfield High School so that they service the proper Zones/Stops located at the school grounds.
