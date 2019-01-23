@@ -21,10 +21,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trip data for the BBL match at Adelaide Oval on February 3.
-
-2) Unquie tram timetables in operation on February 3 due to BBL match at Adelaide Oval.
-
-3) Minor adjustments to trip data for school bus routes, namely changes to daytypes.
-
-4) Added Stop 78 Golden Grove Rd - South side to route 548.
+1) Fixed issue where Grange and Outer Harbor trains were not displaying on January 28.
