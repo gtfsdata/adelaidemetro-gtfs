@@ -21,4 +21,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Fixed issue where Grange and Outer Harbor trains were not displaying on January 28.
+1) Further adjustments made to trip daytypes in preparation for the January 27 service changes. These changes have been made for operational purposes only and shouldn't affect customer's overall search results.
