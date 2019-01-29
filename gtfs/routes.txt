@@ -119,8 +119,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 300U,5,300U,Suburban Connector,"Terminates at Flinders University.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 320,5,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 333,5,333,North Haven to Port Adelaide,"via Largs Bay & Semaphore. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/333,0033CC,ffffff,150-333
-350,5,350,Largs Bay to West Lakes Centre Interchange,"via Port Adelaide Interchange & Royal Park. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,350
-350P,5,350P,West Lakes Centre Interchange to Port Adelaide Interchange,"Terminates Commercial Road, Port Adelaide.",3,http://www.adelaidemetro.com.au/routes/350,0033CC,ffffff,350
 361,5,361,Port Adelaide to Tea Tree Plaza,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361-361X
 361X,5,361X,Port Adelaide to Tea Tree Plaza,"Express service. Operates Monday - Friday.",3,http://www.adelaidemetro.com.au/routes/361X,990000,ffffff,361-361X
 371,5,371,West Lakes Centre Interchange Clockwise Loop,"via Frederick Rd, Clark Tce, Trimmer Pde & Military Rd. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/371,0033CC,ffffff,J7-J8-371-372
@@ -275,7 +273,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 720H,4,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 721,4,721,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721F,4,721F,Noarlunga Centre Interchange to City,"via Main South Reynella Interchange. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,FFCC00,000000,721-721F-721X-T721-T721X-N721
-721L,4,721L,Noarlunga Centre Interchange to Lonsdale Depot,"Terminates at Lonsdale Depot.",3,http://www.adelaidemetro.com.au/routes/721L,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721R,4,721R,Flinders Medical Centre to Old Reynella Interchange,"via Main South Road.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721X,4,721X,Noarlunga Centre Interchange to City,"Express between stop 40 Panalatinga Road & stop B1 Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721X,FFCC00,000000,721-721F-721X-T721-T721X-N721
 722,4,722,Noarlunga Centre Interchange to City,"via Old Reynella Interchange & Flinders Medical Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/722,FFCC00,000000,722-722F-722X-T722
@@ -284,7 +281,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 722X,4,722X,Noarlunga Centre Interchange to City,"via Southern Expressway. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/722X,FFCC00,000000,722-722F-722X-T722
 723F,4,723F,Colonnades Centre Interchange to City,"via Woodcroft Community Centre & South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723F,FFCC00,000000,723F-723X-733
 723X,4,723X,Woodcroft Community Centre to City,"via Southern Expressway. Express between stop 39 Regency Road & Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723X,FFCC00,000000,723F-723X-733
-724,4,724,Noarlunga Centre Interchange to Old Reynella Interchange,"via O'Sullivan Beach & Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/724,FFCC00,000000,724-734
 725,4,725,Noarlunga Centre Interchange to Old Reynella Interchange,"via Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
 725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,,3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
 733,4,733,Colonnades Centre Interchange to Marion Centre Interchange,"via Woodcroft Community Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/733,FFCC00,000000,723F-723X-733
@@ -339,7 +335,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 834,4,834,Verdun to Lobethal,"via Onkaparinga Valley Rd, Nairne Rd and Woodside. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/834,006600,ffffff,830F-834-835
 834A,4,834A,Lobethal to Verdun,"operates via Onkaparinga Valley Rd, bypassing Nairne and Riverview Rd.",3,http://www.adelaidemetro.com.au/routes/834,006600,ffffff,830F-834-835
 835,4,835,Lobethal to Mount Barker,"via Woodside, Oakbank, Verdun & Hahndorf. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/835,006600,ffffff,830F-834-835
-835A,4,835A,Lobethal to Mount Barker,"same as route 835 except continues via Onkaparinga Valley Road bypassing Nairne and Riverview Roads at Woodside.",3,http://www.adelaidemetro.com.au/routes/835,006600,ffffff,830F-834-835
+835A,4,835A,Lobethal to Mount Barker,"operates via Onkaparinga Valley Road bypassing Nairne and Riverview Road.",3,http://www.adelaidemetro.com.au/routes/835,006600,ffffff,830F-834-835
 837,4,837,Nairne to Mount Barker,"via Littlehampton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/837,006600,ffffff,837-841F-842X-T842
 838,4,838,Mount Barker East Clockwise Loop Service,"Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
 838H,4,838H,Mount Barker East Clockwise Loop Service,"Detours onto Victoria Road, Wellington Road, Hurling Drive & Albert Road.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
@@ -501,7 +497,6 @@ G21X,5,G21X,Aberfoyle Hub to City,"Express service between stop 25 Ayliffes Road
 G22X,5,G22X,Aberfoyle Park to City,"Limited stop & express service. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G22X,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
 G40,5,G40,Golden Grove Interchange to Flinders University,"via City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
-G40C,5,G40C,Tea Tree Plaza to City,"Operates during December and January school holidays only.",3,http://www.adelaidemetro.com.au/routes/G40C,FF8C0D,ffffff,G40
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS
