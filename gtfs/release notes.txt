@@ -20,14 +20,14 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added missing 682 trips to the GTFS.
+1) Adjusted stop setdown/pickup rules for route 636.
 
-2) Fixed issue where a single H33 trip was servicing Stop 3 North Tce - North side at 4:04pm on weekdays - this route does not service Stop 3 between 4pm - 6pm weekdays.
+2) Stop coordinates have changes for Stop D2 Grote St.
 
-3) Fixed issue where route 451 was servicing the incorrect stops on Curtis Rd.
+3) Adjustments have been made to weekday trip times for routes 140 and 147. Specifically:
 
-4) Fixed issue where routes 830F, 835, 834 and 879 were servicing the incorrect stops on Main St, Lobethal.
-
-5) Some improvements have been made to the block data for routes 98A/C and 99A/C.
-
-6) Extended GTFS calendar validity dates to July 7, 2019.
+	•	140 departing Currie St B2 at 15:50
+	•	147 departing Currie St B2 at 13:29
+	•	147 departing Currie St B2 at 14:29
+	•	147 departing Currie St B2 at 16:36 (start time also changed)
+	•	147 departing Currie St B2 at 16:54 (start time also changed)
