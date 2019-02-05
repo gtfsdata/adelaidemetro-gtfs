@@ -19,15 +19,10 @@ Upcoming Public Holidays:
 
 General Amendments:
 
+1) Implemented AO/AOX trip data for BBL match at Adelaide Oval on February 9
 
-1) Adjusted stop setdown/pickup rules for route 636.
+2) Made adjustments to routes entering Woodcroft Community Centre - including identifying which Zone at Woodcroft buses service.
 
-2) Stop coordinates have changes for Stop D2 Grote St.
+3) Route 225X no longer services Stop 37 Main North Rd (both directions of travel)
 
-3) Adjustments have been made to weekday trip times for routes 140 and 147. Specifically:
-
-	•	140 departing Currie St B2 at 15:50
-	•	147 departing Currie St B2 at 13:29
-	•	147 departing Currie St B2 at 14:29
-	•	147 departing Currie St B2 at 16:36 (start time also changed)
-	•	147 departing Currie St B2 at 16:54 (start time also changed)
+4) Made several minor improvements to shape data.

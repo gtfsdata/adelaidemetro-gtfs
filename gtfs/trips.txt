@@ -3240,6 +3240,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 190,7,459835,City,,0,460499,13839,
 190,6,459836,City,,0,460501,13839,
 190,1,459837,City,,0,460503,13839,
+190,3,515965,City,,0,515966,13839,
 190,11,466263,City,,0,466566,13839,
 190,11,466264,City,,0,466533,13840,
 190,11,466265,City,,0,466567,13839,
@@ -3312,7 +3313,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 190,12,469263,City,,0,469540,13839,
 190,12,469264,City,,0,469541,13839,
 190,12,469265,City,,0,469510,13839,
-190,3,515965,City,,0,515966,13839,
 190B,1,459838,Mitcham,,1,459838,9803,
 190B,1,459839,Mitcham,,1,459839,9803,
 190B,1,459840,Mitcham,,1,459840,9803,
@@ -3550,6 +3550,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 200,1,460018,City,,0,460401,9759,
 200,1,460019,City,,0,460402,9759,
 200,1,460020,City,,0,460386,7867,
+200,6,515971,Marion,,1,515971,13189,
+200,17,515972,Marion,,1,515972,13189,
+200,6,515977,City,,0,515979,13188,
+200,17,515978,City,,0,515980,13188,
 200,11,466331,City,,0,466466,9759,
 200,11,466332,City,,0,466468,9759,
 200,11,466333,City,,0,466510,13188,
@@ -3648,10 +3652,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 200,12,469338,City,,0,469477,9759,
 200,12,469339,City,,0,469478,9759,
 200,12,469340,City,,0,469479,13188,
-200,6,515971,Marion,,1,515971,13189,
-200,17,515972,Marion,,1,515972,13189,
-200,6,515977,City,,0,515979,13188,
-200,17,515978,City,,0,515980,13188,
 200B,1,460021,City,,0,460371,13190,
 200B,1,460022,City,,0,460372,13190,
 200B,6,460023,Marion,,1,460023,13192,
@@ -3962,6 +3962,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 203,1,460234,City,,0,460916,14078,
 203,1,460235,Tea Tree Plaza,,1,460235,13890,
 203,1,460236,City,,0,460833,14078,
+203,6,515976,City,,0,515975,10398,
 203,11,466433,City,,0,466666,12581,
 203,11,466434,City,,0,466667,12581,
 203,11,466435,Tea Tree Plaza,,1,466435,13890,
@@ -4015,11 +4016,11 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 203,12,469410,City,,0,469652,10398,
 203,12,469411,City,,0,469622,12581,
 203,12,469412,City,,0,469412,12584,
-203,6,515976,City,,0,515975,10398,
 203B,1,460237,Ingle Farm,,1,460237,13891,
 203B,7,460238,Ingle Farm,,1,460238,13891,
 203B,1,460239,Ingle Farm,,1,460239,13891,
 203B,1,460240,Ingle Farm,,1,460240,13891,
+203B,6,515968,Ingle Farm,,1,515968,13891,
 203B,11,466460,Ingle Farm,,1,466460,13891,
 203B,11,466461,Ingle Farm,,1,466461,13891,
 203B,11,466462,Ingle Farm,,1,466462,13891,
@@ -4030,7 +4031,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 203B,12,469415,Ingle Farm,,1,469415,13891,
 203B,12,469416,Ingle Farm,,1,469416,13891,
 203B,12,469417,Ingle Farm,,1,469417,13891,
-203B,6,515968,Ingle Farm,,1,515968,13891,
 203F,1,460241,Tea Tree Plaza,,1,460241,13892,
 203F,53,460242,Tea Tree Plaza,,1,460242,13892,
 203F,3,460243,Tea Tree Plaza,,1,460243,13892,
@@ -4158,6 +4158,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 208,1,460368,City,,0,460098,12332,
 208,1,460369,City,,0,460099,12334,
 208,1,460370,City,,0,460060,12332,
+208,6,515969,City,,0,515971,12334,
+208,17,515970,City,,0,515972,12334,
 208,11,466465,City,,0,466382,12332,
 208,11,466466,Paradise,,1,466466,13894,
 208,11,466467,City,,0,466383,12332,
@@ -4244,8 +4246,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 208,12,469456,City,,0,469336,12641,
 208,12,469457,City,,0,469354,12334,
 208,12,469458,City,,0,469355,12334,
-208,6,515969,City,,0,515971,12334,
-208,17,515970,City,,0,515972,12334,
 208B,1,460371,Broadview,,1,460371,13949,
 208B,1,460372,Broadview,,1,460372,13949,
 208B,1,460373,Broadview,,1,460373,13949,
@@ -4297,6 +4297,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 208N,1,460400,Northgate,,1,460400,13896,
 208N,1,460401,Northgate,,1,460401,13896,
 208N,1,460402,Northgate,,1,460402,13896,
+208N,6,515979,Northgate,,1,515979,13896,
+208N,17,515980,Northgate,,1,515980,13896,
 208N,11,466520,Northgate,,1,466520,13647,
 208N,11,466521,Northgate,,1,466521,13647,
 208N,11,466522,Northgate,,1,466522,13647,
@@ -4321,8 +4323,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 208N,12,469477,Northgate,,1,469477,13647,
 208N,12,469478,Northgate,,1,469478,13647,
 208N,12,469479,Northgate,,1,469479,13647,
-208N,6,515979,Northgate,,1,515979,13896,
-208N,17,515980,Northgate,,1,515980,13896,
 209F,1,460403,Tea Tree Plaza,,1,460403,12593,
 209F,1,460404,Tea Tree Plaza,,1,460404,12593,
 209F,1,460405,Tea Tree Plaza,,1,460405,12593,
@@ -5210,6 +5210,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 230,6,460501,Port Adelaide,,1,460501,13897,
 230,6,460502,City,,0,459890,13072,
 230,1,460503,Port Adelaide,,1,460503,13897,
+230,3,515966,Port Adelaide,,1,515966,13897,
 230,11,466532,City,,0,466301,13072,
 230,11,466533,Port Adelaide,,1,466533,13897,
 230,11,466534,City,,0,466302,13072,
@@ -5275,7 +5276,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 230,12,469508,City,,0,469281,13072,
 230,12,469509,City,,0,469282,13072,
 230,12,469510,Port Adelaide,,1,469510,13897,
-230,3,515966,Port Adelaide,,1,515966,13897,
 232,1,460504,Port Adelaide,,1,460504,13898,
 232,1,460505,Port Adelaide,,1,460505,13898,
 232,1,460506,City,,0,459842,13074,
@@ -5510,6 +5510,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 235,1,460671,City,,0,461483,12166,
 235,18,460672,Kilburn,,1,460672,13197,
 235,3,460673,Kilburn,,1,460673,13197,
+235,17,515960,Kilburn,,1,515960,13197,
 235,11,466600,Kilburn,,1,466600,13197,
 235,11,466601,City,,0,466971,12166,
 235,11,466602,Kilburn,,1,466602,13197,
@@ -5595,7 +5596,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 235,12,469580,City,,0,469893,12166,
 235,12,469581,City,,0,469894,12166,
 235,12,469582,City,,0,469895,12166,
-235,17,515960,Kilburn,,1,515960,13197,
 238,7,460674,City,,0,461502,12169,
 238,6,460675,City,,0,461503,12169,
 238,1,460676,Mawson Lakes,,1,460676,13199,
@@ -5644,6 +5644,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 239,1,460721,Arndale,,1,460721,13198,
 239,1,460722,City,,0,461487,12171,
 239,1,460723,Arndale,,1,460723,13198,
+239,3,515903,City,,0,515904,12171,
 239,11,466644,City,,0,466938,12171,
 239,11,466645,Arndale,,1,466645,13198,
 239,11,466646,Arndale,,1,466646,13198,
@@ -5686,7 +5687,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 239,12,469600,City,,0,469861,12171,
 239,12,469601,Arndale,,1,469601,13198,
 239,12,469602,City,,0,469863,12171,
-239,3,515903,City,,0,515904,12171,
 241,7,460724,Marion,,1,460724,12175,
 241,6,460725,Marion,,1,460725,12175,
 241,1,460726,Marion,,1,460726,12175,
@@ -5752,6 +5752,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 241,17,460786,Marion,,1,460786,12175,
 241,17,460787,City,,0,460150,12173,
 241,31,433418,City,,0,473153,4736,
+241,6,515967,City,,0,515968,12173,
+241,6,515973,City,,0,515974,12173,
 241,11,466666,Marion,,1,466666,12175,
 241,11,466667,Marion,,1,466667,12175,
 241,11,466668,Marion,,1,466668,12175,
@@ -5794,8 +5796,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 241,12,469620,Marion,,1,469620,12175,
 241,12,469621,Marion,,1,469621,12175,
 241,12,469622,Marion,,1,469622,12175,
-241,6,515967,City,,0,515968,12173,
-241,6,515973,City,,0,515974,12173,
 241A,1,460788,Warradale,,1,460788,10468,
 241A,1,460789,Oaklands Park,,1,460789,9040,
 241A,1,460790,Warradale,,1,460790,10468,
@@ -6090,6 +6090,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 251,21,461019,Mansfield Park,,1,461019,12597,
 251,1,461020,City,,0,461331,12595,
 251,9,461021,Mansfield Park,,1,461021,12597,
+251,17,515961,Mansfield Park,,1,515961,12597,
 251,11,466723,Mansfield Park,,1,466723,12596,
 251,11,466724,City,,0,466724,12594,
 251,11,466725,Mansfield Park,,1,466725,12596,
@@ -6187,7 +6188,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 251,12,469701,Mansfield Park,,1,469701,5550,
 251,12,469702,Mansfield Park,,1,469702,5550,
 251,31,473159,Mansfield Park,,1,473159,12596,
-251,17,515961,Mansfield Park,,1,515961,12597,
 251A,1,461022,Arndale,,0,461022,5552,
 251A,1,461023,Arndale,,0,461023,5552,
 251A,1,461024,Arndale,,0,461024,5552,
@@ -6294,6 +6294,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 253,1,461080,Mansfield Park,,1,461080,12602,
 253,1,461081,City,,0,461420,12601,
 253,1,461082,Mansfield Park,,1,461082,12602,
+253,6,515963,City,,0,515964,12601,
 253,11,466805,Mansfield Park,,1,466805,12602,
 253,11,466806,City,,0,466908,12601,
 253,11,466807,Mansfield Park,,1,466807,12602,
@@ -6345,7 +6346,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 253,12,469737,Mansfield Park,,1,469737,12602,
 253,12,469738,City,,0,469833,12601,
 253,12,469739,City,,0,469834,12601,
-253,6,515963,City,,0,515964,12601,
 253X,1,461083,Mansfield Park,,1,461083,12199,
 253X,1,461084,Mansfield Park,,1,461084,12199,
 253X,1,461085,Mansfield Park,,1,461085,12199,
@@ -6418,6 +6418,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 254,1,461153,Port Adelaide,,1,461153,12604,
 254,1,461154,City,,0,461334,12603,
 254,1,461155,City,,0,461333,12603,
+254,17,515900,City,,0,515899,12603,
 254,11,466831,City,,0,466871,12603,
 254,11,466832,City,,0,466872,12603,
 254,11,466833,City,,0,466907,12603,
@@ -6493,7 +6494,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 254,12,469772,City,,0,469804,12603,
 254,12,469773,City,,0,469805,12603,
 254,12,469774,City,,0,469806,12603,
-254,17,515900,City,,0,515899,12603,
 254X,1,461156,Port Adelaide,,1,461156,12201,
 254X,1,461157,City,,0,461157,12337,
 254X,1,461158,City,,0,461158,12337,
@@ -6591,8 +6591,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 262,21,461253,City,,0,463783,13912,
 262,9,461254,City,,0,461021,13910,
 262,31,427654,City,,0,427654,12203,
-262,31,473155,City,,0,473155,13913,
 262,17,515962,City,,0,515961,13910,
+262,31,473155,City,,0,473155,13913,
 263,1,461255,City,,0,460921,13915,
 263,9,461256,Marion,,1,461256,13917,
 263,17,461257,Marion,,1,461257,13917,
@@ -6760,6 +6760,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 265,1,461350,City,,0,461079,13920,
 265,1,461351,City,,0,461140,13920,
 265,7,461352,City,,0,460944,13919,
+265,6,515964,Marion,,1,515964,13923,
 265,11,466906,City,,0,466805,13919,
 265,11,466907,Marion,,1,466907,13923,
 265,11,466908,Marion,,1,466908,13923,
@@ -6869,7 +6870,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 265,12,469828,City,,0,469736,13919,
 265,12,469829,City,,0,469737,13919,
 265,12,469830,Marion,,1,469830,13923,
-265,6,515964,Marion,,1,515964,13923,
+265W,17,515899,Somerton Park,,1,515899,11658,
 265W,1,461416,Somerton Park,,1,461416,11658,
 265W,1,461417,Somerton Park,,1,461417,11658,
 265W,1,461418,Somerton Park,,1,461418,11658,
@@ -6883,7 +6884,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 265W,12,469832,Somerton Park,,1,469832,11658,
 265W,12,469833,Somerton Park,,1,469833,11658,
 265W,12,469834,Somerton Park,,1,469834,11658,
-265W,17,515899,Somerton Park,,1,515899,11658,
+271,3,515904,Tea Tree Plaza,,1,515904,13610,
 271,11,466938,Tea Tree Plaza,,1,466938,13610,
 271,11,466939,City,,0,466646,10210,
 271,11,466940,Tea Tree Plaza,,1,466940,13610,
@@ -7012,7 +7013,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 271,12,469861,Tea Tree Plaza,,1,469861,13610,
 271,12,469862,City,,0,469601,10210,
 271,12,469863,Tea Tree Plaza,,1,469863,13610,
-271,3,515904,Tea Tree Plaza,,1,515904,13610,
+273,17,515959,City,,0,515960,10207,
 273,1,461489,Paradise,,1,461489,13645,
 273,1,461490,Paradise,,1,461490,13645,
 273,1,461491,City,,0,460576,10207,
@@ -7169,7 +7170,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 273,12,469893,Paradise,,1,469893,13645,
 273,12,469894,Paradise,,1,469894,13645,
 273,12,469895,Paradise,,1,469895,13645,
-273,17,515959,City,,0,515960,10207,
+281,3,515920,Paradise,,1,515920,13079,
+281,17,515921,Paradise,,1,515921,13079,
+281,3,515916,Paradise,,1,515916,13079,
 281,11,467004,City,,0,467060,12539,
 281,11,467005,City,,0,467062,12540,
 281,11,467006,City,,0,467064,12539,
@@ -7345,9 +7348,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 281,12,469935,Paradise,,1,469935,13079,
 281,12,469936,City,,0,470003,12539,
 281,12,469937,Paradise,,1,469937,13079,
-281,3,515920,Paradise,,1,515920,13079,
-281,17,515921,Paradise,,1,515921,13079,
-281,3,515916,Paradise,,1,515916,13079,
 281K,11,467050,Klemzig,,1,467050,13080,
 281K,11,467051,Klemzig,,1,467051,13080,
 281K,11,467052,Klemzig,,1,467052,13080,
@@ -7366,6 +7366,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 281K,12,469943,Klemzig,,1,469943,13080,
 281K,12,469944,Klemzig,,1,469944,13080,
 281K,12,469945,Klemzig,,1,469945,13080,
+286,17,515917,City,,0,515917,13868,
+286,3,515918,City,,0,515920,13867,
+286,17,515919,City,,0,515921,13867,
 286,1,461669,City,,0,461582,13867,
 286,1,461670,Henley Beach,,1,461670,13869,
 286,1,461671,City,,0,461584,13867,
@@ -7435,12 +7438,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 286,1,461736,Henley Beach,,1,461736,13869,
 286,27,472432,City,,0,472432,12129,
 286,26,472433,City,,0,472433,12129,
-286,17,515917,City,,0,515917,13868,
-286,3,515918,City,,0,515920,13867,
-286,17,515919,City,,0,515921,13867,
 286A,21,461737,Underdale,,1,461737,9998,
 286A,21,461738,Underdale,,1,461738,9998,
 286A,21,461739,Underdale,,1,461739,9998,
+287,3,515915,City,,0,515916,13870,
 287,1,461740,City,,0,461592,13870,
 287,1,461741,City,,0,461595,13870,
 287,18,461742,City,,0,461596,13870,
@@ -7579,7 +7580,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 287,12,470002,City,,0,469935,13870,
 287,12,470003,Henley Beach,,1,470003,13872,
 287,12,470004,City,,0,469937,13870,
-287,3,515915,City,,0,515916,13870,
 288,1,461754,West Lakes,,1,461754,13877,
 288,1,461755,City,,0,461755,13873,
 288,1,461756,City,,0,461756,13873,
@@ -7635,6 +7635,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 288S,1,461806,Seaton,,1,461806,13878,
 288S,1,461807,Seaton,,1,461807,13878,
 288S,1,461808,Seaton,,1,461808,13878,
+300,17,515902,Arndale,,1,515902,12215,
 300,1,461809,Arndale,,1,461809,12216,
 300,1,461810,Arndale,,1,461810,12215,
 300,1,461811,Arndale,,0,461811,12635,
@@ -7720,7 +7721,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 300,12,470010,Arndale,,0,470010,12636,
 300,12,470011,Arndale,,0,470011,12636,
 300,12,470012,Arndale,,0,470012,12636,
-300,17,515902,Arndale,,1,515902,12215,
 300C,21,461864,Highgate,,0,461864,12218,
 300C,21,461865,Highgate,,0,461865,12218,
 300G,1,461866,Glenelg,,0,461866,12219,
@@ -7876,6 +7876,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 300U,1,461941,Flinders University (continues to Goodwood Rd),,1,464184,12231,
 300U,1,461942,Flinders University (continues to Goodwood Rd),,1,464188,12231,
 320,31,427569,Aberfoyle Hub,,1,427569,8070,
+320,17,515909,Marion,,0,515909,8069,
 320,1,461943,Marion,,0,461943,8069,
 320,9,461944,Marion,,0,461944,8069,
 320,1,461945,Marion,,0,461945,8069,
@@ -7960,7 +7961,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 320,12,470068,Aberfoyle Hub,,1,470068,8070,
 320,12,470069,Aberfoyle Hub,,1,470069,8070,
 320,12,470070,Marion,,0,470070,8069,
-320,17,515909,Marion,,0,515909,8069,
 333,1,512516,Port Adelaide,,0,512516,13853,
 333,1,512517,North Haven,,1,512517,13856,
 333,1,512518,North Haven,,1,512518,13856,
@@ -9550,6 +9550,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 493,1,510278,Gawler,,0,510278,10884,
 494,1,510279,Gawler,,1,510279,10885,
 494,1,510280,Gawler,,1,510280,10885,
+500,17,515910,Elizabeth,,1,515910,13203,
 500,1,462127,Elizabeth,,1,462127,13779,
 500,7,462128,Elizabeth,,1,462128,13203,
 500,6,462129,Elizabeth,,1,462129,13203,
@@ -9561,12 +9562,14 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 500,1,462135,City,,0,458337,13784,
 500,1,462136,Elizabeth,,1,462136,13779,
 500,1,462137,City,,0,458345,13784,
-500,17,515910,Elizabeth,,1,515910,13203,
 501,31,427560,City,,0,427560,13977,
 501,21,427561,City,,0,427561,13485,
 501,23,427562,Mawson Lakes,,1,427562,13487,
 501,48,427563,Mawson Lakes,,1,427563,10479,
 501,31,422091,Mawson Lakes,,1,422091,10479,
+501,6,515954,Paradise,,0,515954,11261,
+501,6,515955,Mawson Lakes,,1,515955,13206,
+501,43,515891,Mawson Lakes,,1,515891,10479,
 501,1,462138,Mawson Lakes,,1,462138,10479,
 501,1,462139,Paradise,,0,462139,11261,
 501,1,462140,Mawson Lakes,,1,462140,10479,
@@ -9634,10 +9637,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 501,1,462207,City,,0,458347,13785,
 501,45,471276,Mawson Lakes,,1,471276,13489,
 501,31,471277,Mawson Lakes,,1,471277,13206,
-501,43,515891,Mawson Lakes,,1,515891,10479,
-501,6,515954,Paradise,,0,515954,11261,
-501,6,515955,Mawson Lakes,,1,515955,13206,
 502,21,427559,City,,0,458284,13484,
+502,17,515956,Paradise,,0,515956,12644,
+502,17,515957,Salisbury,,1,515957,8350,
 502,1,462208,Salisbury,,1,462208,8350,
 502,1,462209,Paradise,,0,462209,12644,
 502,1,462210,Salisbury,,1,462210,8350,
@@ -9887,8 +9889,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 502,12,470164,Paradise,,0,470164,12644,
 502,12,470165,Salisbury,,1,470165,8350,
 502,12,470166,Paradise,,0,470166,12644,
-502,17,515956,Paradise,,0,515956,12644,
-502,17,515957,Salisbury,,1,515957,8350,
 502X,1,462331,City,,0,462331,13790,
 502X,1,462332,City,,0,462332,13790,
 502X,9,462333,City,,0,462333,13790,
@@ -9899,6 +9899,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 502X,1,462338,Salisbury,,1,462338,13648,
 502X,1,462339,Salisbury,,1,462339,13648,
 502X,1,462340,City,,0,462340,13790,
+503,6,515958,Paradise,,0,515958,12276,
+503,3,515952,Paradise,,0,515952,12276,
+503,17,515953,Paradise,,0,515953,12276,
 503,1,462341,Tea Tree Plaza,,1,462341,12280,
 503,1,462342,Paradise,,0,462342,12276,
 503,9,462343,Paradise,,0,462343,12276,
@@ -10050,9 +10053,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 503,11,467342,Tea Tree Plaza,,1,467342,12280,
 503,11,467343,Tea Tree Plaza,,1,467343,12280,
 503,11,467344,Paradise,,0,467344,12276,
-503,6,515958,Paradise,,0,515958,12276,
-503,3,515952,Paradise,,0,515952,12276,
-503,17,515953,Paradise,,0,515953,12276,
+506,6,515948,City,,0,515948,13215,
+506,6,515949,Paradise,,0,515949,3240,
+506,17,515950,Tea Tree Plaza,,1,515950,3246,
+506,6,515951,Tea Tree Plaza,,1,515951,13218,
 506,7,462430,Paradise,,0,462430,3240,
 506,1,462431,Paradise,,0,462431,3240,
 506,1,462432,Paradise,,0,462432,3240,
@@ -10323,15 +10327,16 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 506,12,470255,Tea Tree Plaza,,1,470255,3246,
 506,12,470256,Tea Tree Plaza,,1,470256,3246,
 506,12,470257,Tea Tree Plaza,,1,470257,3246,
-506,6,515948,City,,0,515948,13215,
-506,6,515949,Paradise,,0,515949,3240,
-506,17,515950,Tea Tree Plaza,,1,515950,3246,
-506,6,515951,Tea Tree Plaza,,1,515951,13218,
 506H,1,462571,Modbury North,,1,462571,6411,
 506H,1,462572,Modbury North,,1,462572,6411,
 506H,1,462573,Modbury North,,1,462573,6411,
 506H,11,467414,Modbury North,,1,467414,6411,
 506H,11,467415,Modbury North,,1,467415,6411,
+507,17,515943,Paradise,,0,515943,683,
+507,6,515944,Paradise,,0,515944,683,
+507,6,515945,Paradise,,0,515945,683,
+507,6,515946,Tea Tree Plaza,,1,515946,685,
+507,17,515947,Tea Tree Plaza,,1,515947,685,
 507,6,462574,Paradise,,0,462574,683,
 507,1,462575,Tea Tree Plaza,,1,462575,685,
 507,9,462576,Tea Tree Plaza,,1,462576,685,
@@ -10443,11 +10448,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 507,12,470276,Paradise,,0,470276,683,
 507,12,470277,Tea Tree Plaza,,1,470277,685,
 507,12,470278,Paradise,,0,470278,683,
-507,17,515943,Paradise,,0,515943,683,
-507,6,515944,Paradise,,0,515944,683,
-507,6,515945,Paradise,,0,515945,683,
-507,6,515946,Tea Tree Plaza,,1,515946,685,
-507,17,515947,Tea Tree Plaza,,1,515947,685,
 528,1,462641,City,,0,462641,13223,
 528,1,462642,City,,0,462642,13223,
 528,1,462643,City,,0,462643,13223,
@@ -10796,6 +10796,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 541X,7,512727,City,,0,512727,13759,
 541X,6,512728,City,,0,512728,13759,
 541X,1,512729,City,,0,512729,13758,
+542,6,515942,Tea Tree Plaza,,0,515942,7137,
 542,1,462844,Tea Tree Plaza,,0,462844,7137,
 542,7,462845,Tea Tree Plaza,,0,462845,7137,
 542,1,462846,Fairview Park,,1,462846,7139,
@@ -10908,7 +10909,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 542,11,467539,Fairview Park,,1,467539,7139,
 542,11,467540,Tea Tree Plaza,,0,467540,7137,
 542,11,467541,Fairview Park,,1,467541,7139,
-542,6,515942,Tea Tree Plaza,,0,515942,7137,
 542X,1,462895,Fairview Park,,1,462895,13236,
 542X,1,462896,Fairview Park,,1,462896,13235,
 542X,1,462897,City,,0,462897,13234,
@@ -10942,6 +10942,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 542X,18,462927,Fairview Park,,1,462927,13235,
 542X,3,462928,City,,0,462928,13234,
 542X,3,462929,Fairview Park,,1,462929,13235,
+543,17,515940,Tea Tree Plaza,,0,515940,10452,
+543,17,515941,Surrey Downs,,1,515941,10454,
 543,1,462930,Surrey Downs,,1,462930,10454,
 543,1,462931,Tea Tree Plaza,,0,462931,10452,
 543,1,462932,Surrey Downs,,1,462932,10454,
@@ -11032,8 +11034,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 543,12,470389,Tea Tree Plaza,,0,470389,10452,
 543,12,470390,Surrey Downs,,1,470390,10454,
 543,12,470391,Tea Tree Plaza,,0,470391,10452,
-543,17,515940,Tea Tree Plaza,,0,515940,10452,
-543,17,515941,Surrey Downs,,1,515941,10454,
 543G,1,462977,Redwood Park,,1,462977,10527,
 543G,7,462978,Redwood Park,,1,462978,10527,
 543G,6,462979,Redwood Park,,1,462979,10527,
@@ -11225,6 +11225,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 545X,1,463098,City,,0,463098,13244,
 545X,1,463099,Golden Grove,,1,463099,13246,
 545X,1,463100,Golden Grove,,1,463100,13246,
+546,6,515928,Para Hills,,1,462534,13247,
 546,1,463101,Para Hills,,1,462455,13247,
 546,9,463102,Para Hills,,1,462476,13247,
 546,17,463103,Para Hills,,1,462478,13247,
@@ -11232,7 +11233,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 546,4,463105,Para Hills,,1,462536,13247,
 546,1,463106,Para Hills,,1,462556,13247,
 546,8,463107,Para Hills,,1,462558,13247,
-546,6,515928,Para Hills,,1,462534,13247,
 546X,1,463108,City,,0,463108,13248,
 546X,1,463109,City,,0,463109,13248,
 546X,1,463110,City,,0,463110,13248,
@@ -11358,6 +11358,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 548,12,514774,Golden Grove,,1,514906,11274,
 548,12,514775,Golden Grove,,1,514907,11274,
 548,12,514776,Tea Tree Plaza,,0,514776,11273,
+556,6,515930,Tea Tree Plaza,,1,515930,13255,
+556,17,515931,Tea Tree Plaza,,1,515931,12304,
+556,17,515932,Tea Tree Plaza,,1,515932,13255,
 556,7,463178,Tea Tree Plaza,,1,463178,12304,
 556,6,463179,Tea Tree Plaza,,1,463179,12304,
 556,1,463180,Paradise,,0,463180,12298,
@@ -11478,9 +11481,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 556,12,470476,Paradise,,0,470476,12298,
 556,12,470477,Tea Tree Plaza,,1,470477,12304,
 556,12,470478,Tea Tree Plaza,,1,470478,12304,
-556,6,515930,Tea Tree Plaza,,1,515930,13255,
-556,17,515931,Tea Tree Plaza,,1,515931,12304,
-556,17,515932,Tea Tree Plaza,,1,515932,13255,
 557,1,463245,Tea Tree Plaza,,1,463245,12286,
 557,7,463246,Paradise,,0,463246,12283,
 557,6,463247,Paradise,,0,463247,12283,
@@ -11623,6 +11623,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 557S,1,463321,Ridgehaven,,1,463321,12289,
 557S,11,467690,Ridgehaven,,1,467690,12289,
 557S,12,470508,Ridgehaven,,1,470508,12289,
+559,3,515929,Tea Tree Plaza,,1,515929,12295,
 559,1,463322,Tea Tree Plaza,,1,463322,12295,
 559,1,463323,Tea Tree Plaza,,1,463323,12295,
 559,1,463324,Tea Tree Plaza,,1,463324,12295,
@@ -11646,7 +11647,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 559,1,463343,City,,0,463343,13261,
 559,1,463344,Tea Tree Plaza,,1,463344,12295,
 559,1,463345,Paradise,,0,463345,12294,
-559,3,515929,Tea Tree Plaza,,1,515929,12295,
 559S,1,463346,St Agnes,,1,463346,12296,
 559S,1,463347,St Agnes,,1,463347,13262,
 559S,1,463348,St Agnes,,1,463348,12296,
@@ -12003,8 +12003,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 619,21,463499,Mary MacKillop,,0,463499,11335,
 622,21,463500,St Ignatius College,,1,463500,8805,
 623,21,463501,St Ignatius College,,1,463501,11596,
-624,44,463502,Loreto College,,0,463502,8832,
 624,43,515890,Loreto College,,0,515890,8832,
+624,44,463502,Loreto College,,0,463502,8832,
 625,26,463503,Greenhill Rd,,1,463503,11597,
 625,27,463504,Greenhill Rd,,1,463504,11597,
 626,26,463505,City,,1,463505,11598,
@@ -12014,9 +12014,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 628,21,463510,Glen Osmond,,1,463510,8831,
 629,27,463511,Norwood,,1,463511,8836,
 629,26,463513,Norwood,,1,463513,8836,
+630,23,515892,City,,1,515892,8852,
 630,23,463514,City,,1,463514,8852,
 630,45,463515,City,,1,463515,8852,
-630,23,515892,City,,1,515892,8852,
 631,23,463516,Campbelltown,,1,463516,8850,
 632,44,463517,City,,1,463517,8858,
 632,43,463518,City,,1,463518,8858,
@@ -12024,8 +12024,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 633,43,463520,Stop 15 Marion Rd,,1,463520,8854,
 634,45,463521,City,,1,463521,8817,
 634,23,463522,City,,1,463522,8817,
-635,44,463524,City,,1,463524,8859,
 635,43,515893,City,,1,515893,8859,
+635,44,463524,City,,1,463524,8859,
 636,21,463527,City,,1,463527,8869,
 636,21,463528,City,,1,463528,8869,
 637,44,463530,City,,1,463530,11600,
@@ -12048,6 +12048,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 640,1,507580,Marion,,0,507580,8279,
 640,1,507581,Marino,,1,507581,8280,
 640,1,507582,Marino,,1,507582,8280,
+645,6,515911,Marion,,0,515911,4807,
+645,6,515912,Seaview Downs,,1,515912,4808,
 645,1,463540,Seaview Downs,,1,463540,4808,
 645,1,463541,Marion,,0,463541,4807,
 645,1,463542,Seaview Downs,,1,463542,4808,
@@ -12185,8 +12187,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 645,12,470545,Marion,,0,470545,4807,
 645,12,470546,Seaview Downs,,1,470546,4808,
 645,12,470547,Marion,,0,470547,4807,
-645,6,515911,Marion,,0,515911,4807,
-645,6,515912,Seaview Downs,,1,515912,4808,
+646,17,515913,Marion,,0,515913,5734,
+646,17,515914,Seacombe Heights,,1,515914,5735,
+646,3,516122,Marion,,0,516122,5734,
+646,3,516123,Seacombe Heights,,1,516123,5735,
 646,1,463619,Seacombe Heights,,1,463619,5735,
 646,1,463620,Marion,,0,463620,5734,
 646,53,463621,Seacombe Heights,,1,463621,5735,
@@ -12227,8 +12231,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 646,1,463656,Seacombe Heights,,1,463656,5735,
 646,1,463657,Marion,,0,463657,5734,
 646,7,463658,Marion,,0,463658,5734,
-646,7,463659,Seacombe Heights,,1,463659,5735,
-646,7,463660,Marion,,0,463660,5734,
+646,19,463659,Seacombe Heights,,1,463659,5735,
+646,19,463660,Marion,,0,463660,5734,
 646,6,463661,Marion,,0,463661,5734,
 646,9,463662,Seacombe Heights,,1,463662,5735,
 646,9,463663,Marion,,0,463663,5734,
@@ -12343,8 +12347,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 646,11,467798,Seacombe Heights,,1,467798,5735,
 646,11,467799,Marion,,0,467799,5734,
 646,11,467800,Seaview Downs,,1,467800,10533,
-646,17,515913,Marion,,0,515913,5734,
-646,17,515914,Seacombe Heights,,1,515914,5735,
 650,21,463713,St Michaels Senior,,0,463713,8813,
 651,21,463714,St Michaels Jr,,1,463714,8818,
 652,45,463715,St Michael's Junior College,,1,463715,8837,
@@ -12357,8 +12359,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 657,21,463722,Queenstown,,1,463722,11781,
 658,21,463723,Stop 45D Military Rd,,1,463723,8845,
 659,21,463724,Birkenhead,,1,463724,8851,
-660,45,463725,West Lakes,,1,463725,8824,
 660,23,515894,West Lakes,,1,515894,8824,
+660,45,463725,West Lakes,,1,463725,8824,
 661,21,463726,Delfin Island,,1,463726,8820,
 662,21,463727,Ethelton,,1,463727,8819,
 663,21,463728,Henley Beach South,,1,463728,8823,
@@ -12374,6 +12376,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 672,23,463739,North Haven,,1,463739,8829,
 672,45,463740,North Haven,,1,463740,8829,
 673,21,463741,Blackwood,,1,463741,11604,
+681,31,515982,Hallett Cove Beach Station,,1,515982,9238,
 681,1,507583,Flinders University,,0,507583,9237,
 681,1,507584,Hallett Cove Beach Station,,1,507584,9238,
 681,1,507585,Flinders University,,0,507585,9237,
@@ -12472,7 +12475,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 681,12,508890,Hallett Cove Beach,,1,508890,7079,
 681,12,508891,Hallett Cove Beach,,1,508891,7079,
 681,12,508892,Hallett Cove Beach,,1,508892,7079,
-681,31,515982,Hallett Cove Beach Station,,1,515982,9238,
 681A,12,508893,Aroona Rd 47,,0,508893,9236,
 681A,12,508894,Aroona Rd 47,,0,508894,9236,
 681A,12,508895,Aroona Rd 47,,0,508895,9236,
@@ -12510,6 +12512,18 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 681A,1,507654,Aroona Rd 47,,0,507654,9236,
 681A,1,507655,Aroona Rd 47,,0,507655,9236,
 681A,3,507656,Aroona Rd 47,,0,507656,9236,
+682,1,515983,Sheidow Park,,0,515983,851,
+682,1,515984,Sheidow Park,,0,515984,851,
+682,1,515985,Sheidow Park,,0,515985,851,
+682,1,515986,Sheidow Park,,0,515986,851,
+682,11,515987,Sheidow Park,,0,515987,851,
+682,11,515988,Sheidow Park,,0,515988,851,
+682,11,515989,Sheidow Park,,0,515989,851,
+682,11,515990,Sheidow Park,,0,515990,851,
+682,12,515991,Sheidow Park,,0,515991,851,
+682,12,515992,Sheidow Park,,0,515992,851,
+682,12,515993,Sheidow Park,,0,515993,851,
+682,12,515994,Sheidow Park,,0,515994,851,
 682,1,507657,Hallett Cove Beach,,1,507657,855,
 682,1,507658,Sheidow Park,,0,507658,851,
 682,1,507659,Hallett Cove Beach,,1,507659,855,
@@ -12628,18 +12642,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 682,12,508930,Sheidow Park,,0,508930,851,
 682,12,508931,Hallett Cove Beach,,1,508931,855,
 682,12,508932,Hallett Cove Beach,,1,508932,855,
-682,1,515983,Sheidow Park,,0,515983,851,
-682,1,515984,Sheidow Park,,0,515984,851,
-682,1,515985,Sheidow Park,,0,515985,851,
-682,1,515986,Sheidow Park,,0,515986,851,
-682,11,515987,Sheidow Park,,0,515987,851,
-682,11,515988,Sheidow Park,,0,515988,851,
-682,11,515989,Sheidow Park,,0,515989,851,
-682,11,515990,Sheidow Park,,0,515990,851,
-682,12,515991,Sheidow Park,,0,515991,851,
-682,12,515992,Sheidow Park,,0,515992,851,
-682,12,515993,Sheidow Park,,0,515993,851,
-682,12,515994,Sheidow Park,,0,515994,851,
 683,12,508933,Hallett Cove Beach,,1,508933,10070,
 683,12,508934,Hallett Cove South,,0,508934,10071,
 683,12,508935,Hallett Cove Beach,,1,508935,10070,
@@ -13419,6 +13421,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 725,11,508725,Old Reynella,,0,508725,9953,
 725,11,508726,Old Reynella,,0,508726,9953,
 725A,12,509097,Old Reynella,,0,509097,9956,
+733,31,515981,Marion,,0,515981,10151,
 733,12,509098,Marion,,0,509098,10151,
 733,12,509099,Noarlunga,,1,509099,10163,
 733,12,509100,Marion,,0,509100,10151,
@@ -13552,7 +13555,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 733,1,508219,Colonnades,,1,508219,10154,
 733,7,508220,Colonnades,,1,508220,10156,
 733,6,508221,Colonnades,,1,508221,10156,
-733,31,515981,Marion,,0,515981,10151,
 733G,1,508222,O'Halloran Hill,,0,508222,10157,
 733G,12,509123,O'Halloran Hill,,0,509123,10169,
 733G,12,509124,O'Halloran Hill,,0,509124,10130,
@@ -15032,7 +15034,8 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 921,21,463744,Golden Grove Interchange,,1,463744,8754,
 922,21,463745,Hancock Rd,,1,463745,8721,
 922,21,463747,Hancock Rd to Loreto College,,0,463747,11689,
-924,28,463748,Para Hills,,1,463748,8716,
+924,26,516121,Para Hills,,1,516121,8716,
+924,52,463748,Para Hills,,1,463748,8716,
 924,24,463749,Para Hills,,1,463749,8716,
 924,27,463750,Modbury High School,,0,463750,8714,
 924,26,463751,Modbury High School,,0,463751,8714,
@@ -15070,10 +15073,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 951,21,463783,Adelaide Secondary School of English,,0,463783,9933,
 951,45,463784,City,,1,463784,11476,
 951,23,463785,City,,1,463785,11476,
+952,43,515895,Belair Rd 19,,1,515895,8760,
 952,50,463786,Belair Rd 19,,1,463786,8760,
 952,26,463787,Belair Rd 19,,1,463787,8760,
 952,21,463788,Blackwood High School,,0,463788,8761,
-952,43,515895,Belair Rd 19,,1,515895,8760,
 953,26,463789,Aberfoyle Hub,,1,463789,9397,
 954,26,463790,Belair Rd 12,,1,463790,8706,
 954,27,463791,Belair Rd 12,,1,463791,8706,
@@ -15306,10 +15309,11 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 990,44,463958,Plympton,,1,463958,8712,
 991,43,463959,Marion,,1,463959,8758,
 991,44,463960,Marion,,1,463960,8758,
+992,23,516124,Walkerville,,1,516124,8705,
 992,43,463961,Walkerville,,1,463961,8705,
-992,44,463962,Walkerville,,1,463962,8705,
-993,27,463963,Coromandel Valley,,1,463963,8775,
+992,48,463962,Walkerville,,1,463962,8705,
 993,26,515896,Coromandel Valley,,1,515896,8775,
+993,27,463963,Coromandel Valley,,1,463963,8775,
 994,21,463964,Arndale,,1,463964,8699,
 994,21,463965,Woodville Gardens School,,0,463965,8700,
 995,21,463966,Marryatville High School,,0,463966,8702,
@@ -15370,162 +15374,132 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 99C,5,464022,City Loop,,0,992,13097,
 99C,5,464023,City Loop,,0,992,13097,
 99C,5,464024,City Loop,,0,992,13097,
-AO1,279,515733,Greenwith,,1,515733,12359,
-AO1,279,515734,Adelaide Oval,,0,515734,12358,
-AO1,279,515735,Greenwith,,1,515735,12359,
-AO1,279,515736,Adelaide Oval,,0,515736,12358,
-AO1,279,515737,Adelaide Oval,,0,515737,12358,
-AO1,279,515738,Greenwith,,1,515738,12359,
-AO1,279,515739,Greenwith,,1,515739,12359,
-AO1,279,515740,Greenwith,,1,515740,12359,
-AO1,279,515741,Adelaide Oval,,0,515741,12358,
-AO1,279,515742,Greenwith,,1,515742,12359,
-AO1,279,515743,Greenwith,,1,515743,12359,
-AO10,279,515873,Adelaide Oval,,0,515873,10751,
-AO10,279,515874,Adelaide Oval,,0,515874,10751,
-AO10,279,515875,Adelaide Oval,,0,515875,10751,
-AO10,279,515876,Aldgate,,1,515876,10783,
-AO10,279,515877,Aldgate,,1,515877,10783,
-AO10,279,515878,Aldgate,,1,515878,10783,
-AO11,279,515744,Adelaide Oval,,0,515744,11795,
-AO11,279,515745,Newton,,1,515745,11796,
-AO11,279,515746,Newton,,1,515746,11796,
-AO11,279,515747,Adelaide Oval,,0,515747,11795,
-AO11,279,515748,Newton,,1,515748,11796,
-AO11,279,515749,Adelaide Oval,,0,515749,11795,
-AO11,279,515750,Newton,,1,515750,11796,
-AO11,279,515751,Adelaide Oval,,0,515751,11795,
-AO12,279,515752,Athelstone,,1,515752,11358,
-AO12,279,515753,Athelstone,,1,515753,11358,
-AO12,279,515754,Adelaide Oval,,0,515754,10061,
-AO12,279,515755,Athelstone,,1,515755,11358,
-AO12,279,515756,Adelaide Oval,,0,515756,10061,
-AO12,279,515757,Adelaide Oval,,0,515757,10061,
-AO13,279,515758,Burnside,,1,515758,11359,
-AO13,279,515759,Adelaide Oval,,0,515759,10064,
-AO13,279,515760,Burnside,,1,515760,11359,
-AO13,279,515761,Burnside,,1,515761,11359,
-AO13,279,515762,Adelaide Oval,,0,515762,10064,
-AO13,279,515763,Adelaide Oval,,0,515763,10064,
-AO14,279,515764,Adelaide Oval,,0,515764,10056,
-AO14,279,515765,Rosslyn Park,,1,515765,10761,
-AO14,279,515766,Adelaide Oval,,0,515766,10056,
-AO14,279,515767,Adelaide Oval,,0,515767,10056,
-AO14,279,515768,Adelaide Oval,,0,515768,10056,
-AO14,279,515769,Adelaide Oval,,0,515769,10056,
-AO14,279,515770,Rosslyn Park,,1,515770,10761,
-AO14,279,515771,Rosslyn Park,,1,515771,10761,
-AO14,279,515772,Rosslyn Park,,1,515772,10761,
-AO14,279,515773,Rosslyn Park,,1,515773,10761,
-AO15,279,515883,Adelaide Oval,,0,515883,10752,
-AO15,279,515884,Adelaide Oval,,0,515884,10752,
-AO15,279,515885,Adelaide Oval,,0,515885,10752,
-AO15,279,515886,Mawson Lakes,,1,515886,10784,
-AO15,279,515887,Mawson Lakes,,1,515887,10784,
-AO15,279,515888,Mawson Lakes,,1,515888,10784,
-AO16,279,515774,Rosewater,,1,515774,12371,
-AO16,279,515775,Rosewater,,1,515775,12371,
-AO16,279,515776,Adelaide Oval,,0,515776,12370,
-AO16,279,515777,Adelaide Oval,,0,515777,12370,
-AO17,279,515778,Adelaide Oval,,0,515778,12377,
-AO17,279,515779,Semaphore,,1,515779,12378,
-AO17,279,515780,Semaphore,,1,515780,12378,
-AO17,279,515781,Adelaide Oval,,0,515781,12377,
-AO18,279,515782,Adelaide Oval,,0,515782,10737,
-AO18,279,515783,West Lakes,,1,515783,10764,
-AO18,279,515784,West Lakes,,1,515784,10764,
-AO18,279,515785,Adelaide Oval,,0,515785,10737,
-AO18,279,515786,West Lakes,,1,515786,10764,
-AO18,279,515787,Adelaide Oval,,0,515787,10737,
-AO19,279,515788,Adelaide Oval,,0,515788,10738,
-AO19,279,515789,Henley Beach,,1,515789,10765,
-AO19,279,515790,Henley Beach,,1,515790,10765,
-AO19,279,515791,Adelaide Oval,,0,515791,10738,
-AO19,279,515792,Adelaide Oval,,0,515792,10738,
-AO19,279,515793,Adelaide Oval,,0,515793,10738,
-AO19,279,515794,Henley Beach,,1,515794,10765,
-AO19,279,515795,Henley Beach,,1,515795,10765,
-AO2,279,515796,Adelaide Oval,,0,515796,12361,
-AO2,279,515797,St Agnes Depot,,1,515797,12363,
-AO2,279,515798,St Agnes Depot,,1,515798,12363,
-AO2,279,515799,St Agnes Depot,,1,515799,12363,
-AO2,279,515800,St Agnes Depot,,1,515800,12363,
-AO2,279,515801,Adelaide Oval,,0,515801,12361,
-AO2,279,515802,Adelaide Oval,,0,515802,12361,
-AO2,279,515803,Adelaide Oval,,0,515803,12361,
-AO2,279,515804,St Agnes Depot,,1,515804,12363,
-AO2,279,515805,Adelaide Oval,,0,515805,12361,
-AO2,279,515806,Adelaide Oval,,0,515806,12361,
-AO20,279,515807,Adelaide Oval,,0,515807,10742,
-AO20,279,515808,Adelaide Oval,,0,515808,10742,
-AO20,279,515809,Blair Athol,,1,515809,10774,
-AO20,279,515810,Blair Athol,,1,515810,10774,
-AO21,279,515811,Aberfoyle Hub,,1,515811,12382,
-AO21,279,515812,Adelaide Oval,,0,515812,12381,
-AO21,279,515813,Adelaide Oval,,0,515813,12381,
-AO21,279,515814,Aberfoyle Hub,,1,515814,12382,
-AO23,279,515815,Adelaide Oval,,0,515815,12383,
-AO23,279,515816,Morphettville Depot,,1,515816,12384,
-AO23,279,515817,Morphettville Depot,,1,515817,12384,
-AO23,279,515818,Adelaide Oval,,0,515818,12383,
-AO24,279,515819,Mitcham Square,,1,515819,10766,
-AO24,279,515820,Mitcham Square,,1,515820,10766,
-AO24,279,515821,Mitcham Square,,1,515821,10766,
-AO24,279,515822,Adelaide Oval,,0,515822,10058,
-AO24,279,515823,Adelaide Oval,,0,515823,10058,
-AO24,279,515824,Adelaide Oval,,0,515824,10058,
-AO25,279,515825,Adelaide Oval,,0,515825,13519,
-AO25,279,515826,Mitcham Square,,1,515826,10767,
-AO25,279,515827,Mitcham Square,,1,515827,10767,
-AO25,279,515828,Adelaide Oval,,0,515828,13519,
-AO26,279,515829,Adelaide Oval,,0,515829,10059,
-AO26,279,515830,Glenelg,,1,515830,10768,
-AO26,279,515831,Glenelg,,1,515831,10768,
-AO26,279,515832,Glenelg,,1,515832,10768,
-AO26,279,515833,Adelaide Oval,,0,515833,10059,
-AO26,279,515834,Adelaide Oval,,0,515834,10059,
-AO29,279,515835,Ingle Farm,,1,515835,12388,
-AO29,279,515836,Adelaide Oval,,0,515836,12387,
-AO29,279,515837,Ingle Farm,,1,515837,12388,
-AO29,279,515838,Adelaide Oval,,0,515838,12387,
-AO3,279,515839,Adelaide Oval,,0,515839,12364,
-AO3,279,515840,Northgate,,1,515840,12365,
-AO3,279,515841,Adelaide Oval,,0,515841,12364,
-AO3,279,515842,Northgate,,1,515842,12365,
-AO31,279,515843,Morphettville Depot,,1,515843,12386,
-AO31,279,515844,Adelaide Oval,,0,515844,12385,
-AO31,279,515845,Adelaide Oval,,0,515845,12385,
-AO31,279,515846,Morphettville Depot,,1,515846,12386,
-AO4,279,515847,Adelaide Oval,,0,515847,12366,
-AO4,279,515848,Hope Valley,,1,515848,12367,
-AO4,279,515849,Hope Valley,,1,515849,12367,
-AO4,279,515850,Adelaide Oval,,0,515850,12366,
-AO5,279,515851,Salisbury East,,1,515851,12369,
-AO5,279,515852,Adelaide Oval,,0,515852,12368,
-AO5,279,515853,Salisbury East,,1,515853,12369,
-AO5,279,515854,Adelaide Oval,,0,515854,12368,
-AO8,279,515863,Adelaide Oval,,0,515863,10749,
-AO8,279,515864,Adelaide Oval,,0,515864,10749,
-AO8,279,515865,Hallett Cove,,1,515865,11356,
-AO8,279,515866,Hallett Cove,,1,515866,11356,
-AOX15,279,515879,Adelaide Oval,,0,515879,10753,
-AOX15,279,515880,Adelaide Oval,,0,515880,10753,
-AOX15,279,515881,Elizabeth Shopping Centre,,1,515881,10785,
-AOX15,279,515882,Elizabeth Shopping Centre,,1,515882,10785,
-AOX6,279,515855,Adelaide Oval,,0,515855,10747,
-AOX6,279,515856,Adelaide Oval,,0,515856,10747,
-AOX6,279,515857,Woodcroft,,1,515857,10779,
-AOX6,279,515858,Woodcroft,,1,515858,10779,
-AOX7,279,515859,Adelaide Oval,,0,515859,11423,
-AOX7,279,515860,Adelaide Oval,,0,515860,11423,
-AOX7,279,515861,South Adelaide Footy Club,,1,515861,10780,
-AOX7,279,515862,South Adelaide Footy Club,,1,515862,10780,
-AOX9,279,515867,Adelaide Oval,,0,515867,10750,
-AOX9,279,515868,Adelaide Oval,,0,515868,10750,
-AOX9,279,515869,Adelaide Oval,,0,515869,10750,
-AOX9,279,515870,Mt Barker,,1,515870,10782,
-AOX9,279,515871,Mt Barker,,1,515871,10782,
-AOX9,279,515872,Mt Barker,,1,515872,10782,
+AO1,280,515995,Adelaide Oval,,0,515995,12358,
+AO1,280,515996,Adelaide Oval,,0,515996,12358,
+AO1,280,515997,Greenwith,,1,515997,12359,
+AO1,280,515998,Adelaide Oval,,0,515998,12358,
+AO1,280,515999,Greenwith,,1,515999,12359,
+AO1,280,516000,Greenwith,,1,516000,12359,
+AO1,280,516001,Greenwith,,1,516001,12359,
+AO1,280,516002,Greenwith,,1,516002,12359,
+AO1,280,516003,Greenwith,,1,516003,12359,
+AO10,280,516110,Adelaide Oval,,0,516110,10751,
+AO10,280,516111,Adelaide Oval,,0,516111,10751,
+AO10,280,516112,Aldgate,,1,516112,10783,
+AO10,280,516113,Aldgate,,1,516113,10783,
+AO11,280,516004,Adelaide Oval,,0,516004,11795,
+AO11,280,516005,Adelaide Oval,,0,516005,11795,
+AO11,280,516006,Newton,,1,516006,11796,
+AO11,280,516007,Newton,,1,516007,11796,
+AO11,280,516008,Newton,,1,516008,11796,
+AO11,280,516009,Adelaide Oval,,0,516009,11795,
+AO12,280,516010,Adelaide Oval,,0,516010,10061,
+AO12,280,516011,Athelstone,,1,516011,11358,
+AO12,280,516012,Adelaide Oval,,0,516012,10061,
+AO12,280,516013,Athelstone,,1,516013,11358,
+AO13,280,516014,Adelaide Oval,,0,516014,10064,
+AO13,280,516015,Burnside,,1,516015,11359,
+AO13,280,516016,Adelaide Oval,,0,516016,10064,
+AO13,280,516017,Burnside,,1,516017,11359,
+AO14,280,516018,Adelaide Oval,,0,516018,10056,
+AO14,280,516019,Rosslyn Park,,1,516019,10761,
+AO14,280,516020,Rosslyn Park,,1,516020,10761,
+AO14,280,516021,Rosslyn Park,,1,516021,10761,
+AO14,280,516022,Adelaide Oval,,0,516022,10056,
+AO14,280,516023,Adelaide Oval,,0,516023,10056,
+AO14,280,516024,Adelaide Oval,,0,516024,10056,
+AO14,280,516025,Rosslyn Park,,1,516025,10761,
+AO15,280,516117,Adelaide Oval,,0,516117,10752,
+AO15,280,516118,Adelaide Oval,,0,516118,10752,
+AO15,280,516119,Mawson Lakes,,1,516119,10784,
+AO15,280,516120,Mawson Lakes,,1,516120,10784,
+AO16,280,516026,Adelaide Oval,,0,516026,12370,
+AO16,280,516027,Rosewater,,1,516027,12371,
+AO16,280,516028,Adelaide Oval,,0,516028,12370,
+AO16,280,516029,Rosewater,,1,516029,12371,
+AO17,280,516030,Semaphore,,1,516030,12378,
+AO17,280,516031,Semaphore,,1,516031,12378,
+AO17,280,516032,Adelaide Oval,,0,516032,12377,
+AO17,280,516033,Adelaide Oval,,0,516033,12377,
+AO18,280,516034,Adelaide Oval,,0,516034,10737,
+AO18,280,516035,Adelaide Oval,,0,516035,10737,
+AO18,280,516036,West Lakes,,1,516036,10764,
+AO18,280,516037,West Lakes,,1,516037,10764,
+AO19,280,516038,Adelaide Oval,,0,516038,10738,
+AO19,280,516039,Henley Beach,,1,516039,10765,
+AO19,280,516040,Henley Beach,,1,516040,10765,
+AO19,280,516041,Adelaide Oval,,0,516041,10738,
+AO19,280,516042,Adelaide Oval,,0,516042,10738,
+AO19,280,516043,Henley Beach,,1,516043,10765,
+AO2,280,516044,St Agnes Depot,,1,516044,12363,
+AO2,280,516045,St Agnes Depot,,1,516045,12363,
+AO2,280,516046,St Agnes Depot,,1,516046,12363,
+AO2,280,516047,St Agnes Depot,,1,516047,12363,
+AO2,280,516048,Adelaide Oval,,0,516048,12361,
+AO2,280,516049,Adelaide Oval,,0,516049,12361,
+AO2,280,516050,Adelaide Oval,,0,516050,12361,
+AO2,280,516051,Adelaide Oval,,0,516051,12361,
+AO2,280,516052,Adelaide Oval,,0,516052,12361,
+AO20,280,516053,Adelaide Oval,,0,516053,10742,
+AO20,280,516054,Blair Athol,,1,516054,10774,
+AO20,280,516055,Blair Athol,,1,516055,10774,
+AO20,280,516056,Adelaide Oval,,0,516056,10742,
+AO21,280,516057,Adelaide Oval,,0,516057,12381,
+AO21,280,516058,Aberfoyle Hub,,1,516058,12382,
+AO21,280,516059,Aberfoyle Hub,,1,516059,12382,
+AO21,280,516060,Adelaide Oval,,0,516060,12381,
+AO23,280,516061,Morphettville Depot,,1,516061,12384,
+AO23,280,516062,Adelaide Oval,,0,516062,12383,
+AO23,280,516063,Adelaide Oval,,0,516063,12383,
+AO23,280,516064,Morphettville Depot,,1,516064,12384,
+AO24,280,516065,Mitcham Square,,1,516065,10766,
+AO24,280,516066,Mitcham Square,,1,516066,10766,
+AO24,280,516067,Adelaide Oval,,0,516067,10058,
+AO24,280,516068,Adelaide Oval,,0,516068,10058,
+AO25,280,516069,Mitcham Square,,1,516069,10767,
+AO25,280,516070,Adelaide Oval,,0,516070,13519,
+AO25,280,516071,Mitcham Square,,1,516071,10767,
+AO25,280,516072,Adelaide Oval,,0,516072,13519,
+AO26,280,516073,Adelaide Oval,,0,516073,10059,
+AO26,280,516074,Glenelg,,1,516074,10768,
+AO26,280,516075,Adelaide Oval,,0,516075,10059,
+AO26,280,516076,Glenelg,,1,516076,10768,
+AO29,280,516077,Adelaide Oval,,0,516077,12387,
+AO29,280,516078,Ingle Farm,,1,516078,12388,
+AO29,280,516079,Ingle Farm,,1,516079,12388,
+AO29,280,516080,Adelaide Oval,,0,516080,12387,
+AO3,280,516081,Adelaide Oval,,0,516081,12364,
+AO3,280,516082,Adelaide Oval,,0,516082,12364,
+AO3,280,516083,Northgate,,1,516083,12365,
+AO3,280,516084,Northgate,,1,516084,12365,
+AO31,280,516085,Adelaide Oval,,0,516085,12385,
+AO31,280,516086,Morphettville Depot,,1,516086,12386,
+AO31,280,516087,Adelaide Oval,,0,516087,12385,
+AO31,280,516088,Morphettville Depot,,1,516088,12386,
+AO4,280,516089,Adelaide Oval,,0,516089,12366,
+AO4,280,516090,Adelaide Oval,,0,516090,12366,
+AO4,280,516091,Hope Valley,,1,516091,12367,
+AO4,280,516092,Hope Valley,,1,516092,12367,
+AO5,280,516093,Adelaide Oval,,0,516093,12368,
+AO5,280,516094,Adelaide Oval,,0,516094,12368,
+AO5,280,516095,Salisbury East,,1,516095,12369,
+AO5,280,516096,Salisbury East,,1,516096,12369,
+AO8,280,516103,Adelaide Oval,,0,516103,10749,
+AO8,280,516104,Hallett Cove,,1,516104,11356,
+AO8,280,516105,Hallett Cove,,1,516105,11356,
+AOX15,280,516114,Adelaide Oval,,0,516114,10753,
+AOX15,280,516115,Elizabeth Shopping Centre,,1,516115,10785,
+AOX15,280,516116,Elizabeth Shopping Centre,,1,516116,10785,
+AOX6,280,516097,Adelaide Oval,,0,516097,10747,
+AOX6,280,516098,Woodcroft,,1,516098,10779,
+AOX6,280,516099,Woodcroft,,1,516099,10779,
+AOX7,280,516100,Adelaide Oval,,0,516100,11423,
+AOX7,280,516101,South Adelaide Footy Club,,1,516101,10780,
+AOX7,280,516102,South Adelaide Footy Club,,1,516102,10780,
+AOX9,280,516106,Adelaide Oval,,0,516106,10750,
+AOX9,280,516107,Adelaide Oval,,0,516107,10750,
+AOX9,280,516108,Mt Barker,,1,516108,10782,
+AOX9,280,516109,Mt Barker,,1,516109,10782,
 BEL,8501,415145,City,,0,415145,10960,1
 BEL,8501,415146,City,,0,415146,10960,1
 BEL,8501,415147,City,,0,415147,10960,1
@@ -15762,112 +15736,6 @@ BEL,8503,415380,Belair,,1,415380,10961,1
 BEL,8501,437280,City,,0,437280,10960,1
 BEL,8502,437281,City,,0,437281,10960,1
 BEL,8503,437282,City,,0,437282,10960,1
-BTANIC,3403,515365,Entertainment Centre,,0,515365,13669,1
-BTANIC,3403,515368,Entertainment Centre,,0,515368,13669,1
-BTANIC,3403,515371,Entertainment Centre,,0,515371,13669,1
-BTANIC,3403,515373,Entertainment Centre,,0,515373,13669,1
-BTANIC,3403,515375,Entertainment Centre,,0,515375,13669,1
-BTANIC,3403,515377,Entertainment Centre,,0,515377,13669,1
-BTANIC,3403,515379,Entertainment Centre,,0,515379,13669,1
-BTANIC,3403,515381,Entertainment Centre,,0,515381,13669,1
-BTANIC,3403,515383,Entertainment Centre,,0,515383,13669,1
-BTANIC,3403,515385,Entertainment Centre,,0,515385,13669,1
-BTANIC,3403,515387,Entertainment Centre,,0,515387,13669,1
-BTANIC,3403,515389,Entertainment Centre,,0,515389,13669,1
-BTANIC,3403,515391,Entertainment Centre,,0,515391,13669,1
-BTANIC,3403,515393,Entertainment Centre,,0,515393,13669,1
-BTANIC,3403,515395,Entertainment Centre,,0,515395,13669,1
-BTANIC,3403,515397,Entertainment Centre,,0,515397,13669,1
-BTANIC,3403,515399,Entertainment Centre,,0,515399,13669,1
-BTANIC,3403,515401,Entertainment Centre,,0,515401,13669,1
-BTANIC,3403,515403,Entertainment Centre,,0,515403,13669,1
-BTANIC,3403,515405,Entertainment Centre,,0,515405,13669,1
-BTANIC,3403,515407,Entertainment Centre,,0,515407,13669,1
-BTANIC,3403,515409,Entertainment Centre,,0,515409,13669,1
-BTANIC,3403,515411,Entertainment Centre,,0,515411,13669,1
-BTANIC,3403,515413,Entertainment Centre,,0,515413,13669,1
-BTANIC,3403,515415,Entertainment Centre,,0,515415,13669,1
-BTANIC,3403,515417,Entertainment Centre,,0,515417,13669,1
-BTANIC,3403,515419,Entertainment Centre,,0,515419,13669,1
-BTANIC,3403,515421,Entertainment Centre,,0,515421,13669,1
-BTANIC,3403,515423,Entertainment Centre,,0,515423,13669,1
-BTANIC,3403,515425,Entertainment Centre,,0,515425,13669,1
-BTANIC,3403,515427,Entertainment Centre,,0,515427,13669,1
-BTANIC,3403,515429,Entertainment Centre,,0,515429,13669,1
-BTANIC,3403,515431,Entertainment Centre,,0,515431,13669,1
-BTANIC,3403,515433,Entertainment Centre,,0,515433,13669,1
-BTANIC,3403,515435,Entertainment Centre,,0,515435,13669,1
-BTANIC,3403,515437,Entertainment Centre,,0,515437,13669,1
-BTANIC,3403,515439,Entertainment Centre,,0,515439,13669,1
-BTANIC,3403,515441,Entertainment Centre,,0,515441,13669,1
-BTANIC,3403,515443,Entertainment Centre,,0,515443,13669,1
-BTANIC,3403,515445,Entertainment Centre,,0,515445,13669,1
-BTANIC,3403,515447,Entertainment Centre,,0,515447,13669,1
-BTANIC,3403,515449,Entertainment Centre,,0,515449,13669,1
-BTANIC,3403,515451,Entertainment Centre,,0,515451,13669,1
-BTANIC,3403,515453,Entertainment Centre,,0,515453,13669,1
-BTANIC,3403,515455,Entertainment Centre,,0,515455,13669,1
-BTANIC,3403,515457,Entertainment Centre,,0,515457,13669,1
-BTANIC,3403,515459,Entertainment Centre,,0,515459,13669,1
-BTANIC,3403,515461,Entertainment Centre,,0,515461,13669,1
-BTANIC,3403,515463,Entertainment Centre,,0,515463,13669,1
-BTANIC,3403,515465,Entertainment Centre,,0,515465,13669,1
-BTANIC,3403,515467,Entertainment Centre,,0,515467,13669,1
-BTANIC,3403,515469,Entertainment Centre,,0,515469,13669,1
-BTANIC,3403,515471,Entertainment Centre,,0,515471,13669,1
-BTANIC,3403,515473,Entertainment Centre,,0,515473,13669,1
-BTANIC,3403,515475,Entertainment Centre,,0,515475,13669,1
-BTANIC,3403,515478,Entertainment Centre,,0,515478,13669,1
-BTANIC,3403,515482,Entertainment Centre,,0,515482,13669,1
-BTANIC,3403,515485,Entertainment Centre,,0,515485,13669,1
-BTANIC,3403,515488,Entertainment Centre,,0,515488,13669,1
-BTANIC,3403,515490,Entertainment Centre,,0,515490,13669,1
-BTANIC,3403,515493,Entertainment Centre,,0,515493,13669,1
-BTANIC,3403,515495,Entertainment Centre,,0,515495,13669,1
-BTANIC,3403,515497,Entertainment Centre,,0,515497,13669,1
-BTANIC,3403,515499,Entertainment Centre,,0,515499,13669,1
-BTANIC,3403,515501,Entertainment Centre,,0,515501,13669,1
-BTANIC,3403,515503,Entertainment Centre,,0,515503,13669,1
-BTANIC,3403,515505,Entertainment Centre,,0,515505,13669,1
-BTANIC,3403,515507,Entertainment Centre,,0,515507,13669,1
-BTANIC,3403,515509,Entertainment Centre,,0,515509,13669,1
-BTANIC,3403,515511,Entertainment Centre,,0,515511,13669,1
-BTANIC,3403,515513,Entertainment Centre,,0,515513,13669,1
-BTANIC,3403,515515,Entertainment Centre,,0,515515,13669,1
-BTANIC,3403,515517,Entertainment Centre,,0,515517,13669,1
-BTANIC,3403,515519,Entertainment Centre,,0,515519,13669,1
-BTANIC,3403,515521,Entertainment Centre,,0,515521,13669,1
-BTANIC,3403,515523,Entertainment Centre,,0,515523,13669,1
-BTANIC,3403,515525,Entertainment Centre,,0,515525,13669,1
-BTANIC,3403,515527,Entertainment Centre,,0,515527,13669,1
-BTANIC,3403,515529,Entertainment Centre,,0,515529,13669,1
-BTANIC,3403,515531,Entertainment Centre,,0,515531,13669,1
-BTANIC,3403,515533,Entertainment Centre,,0,515533,13669,1
-BTANIC,3403,515535,Entertainment Centre,,0,515535,13669,1
-BTANIC,3403,515539,Entertainment Centre,,0,515539,13669,1
-BTANIC,3403,515537,Entertainment Centre,,0,515537,13669,1
-BTANIC,3403,515547,Botanic Gardens,,1,515547,13670,1
-BTANIC,3403,515549,Botanic Gardens,,1,515549,13670,1
-BTANIC,3403,515558,Botanic Gardens,,1,515558,13670,1
-BTANIC,3403,515559,Botanic Gardens,,1,515559,13670,1
-BTANIC,3403,515555,Botanic Gardens,,1,515555,13670,1
-BTANIC,3403,515562,Botanic Gardens,,1,515562,13670,1
-BTANIC,3403,515564,Botanic Gardens,,1,515564,13670,1
-BTANIC,3403,515566,Botanic Gardens,,1,515566,13670,1
-BTANIC,3403,515568,Botanic Gardens,,1,515568,13670,1
-BTANIC,3403,515570,Botanic Gardens,,1,515570,13670,1
-BTANIC,3403,515572,Botanic Gardens,,1,515572,13670,1
-BTANIC,3403,515574,Botanic Gardens,,1,515574,13670,1
-BTANIC,3403,515576,Botanic Gardens,,1,515576,13670,1
-BTANIC,3403,515578,Botanic Gardens,,1,515578,13670,1
-BTANIC,3403,515580,Botanic Gardens,,1,515580,13670,1
-BTANIC,3403,515582,Botanic Gardens,,1,515582,13670,1
-BTANIC,3403,515584,Botanic Gardens,,1,515584,13670,1
-BTANIC,3403,515586,Botanic Gardens,,1,515586,13670,1
-BTANIC,3403,515588,Botanic Gardens,,1,515588,13670,1
-BTANIC,3403,515590,Botanic Gardens,,1,515590,13670,1
-BTANIC,3403,515592,Botanic Gardens,,1,515592,13670,1
-BTANIC,3403,515594,Botanic Gardens,,1,515594,13670,1
 BTANIC,3003,472418,Botanic Gardens,,1,472418,13670,1
 BTANIC,3003,472357,Botanic Gardens,,1,472357,13670,1
 BTANIC,3003,472359,Botanic Gardens,,1,472359,13670,1
@@ -16388,68 +16256,6 @@ BTANIC,3003,472349,Botanic Gardens,,1,472349,13670,1
 BTANIC,3003,472351,Botanic Gardens,,1,472351,13670,1
 BTANIC,3003,472353,Botanic Gardens,,1,472353,13670,1
 BTANIC,3003,472355,Botanic Gardens,,1,472355,13670,1
-BTANIC,3403,515725,Botanic Gardens,,1,515725,13670,1
-BTANIC,3403,515596,Botanic Gardens,,1,515596,13670,1
-BTANIC,3403,515598,Botanic Gardens,,1,515598,13670,1
-BTANIC,3403,515600,Botanic Gardens,,1,515600,13670,1
-BTANIC,3403,515602,Botanic Gardens,,1,515602,13670,1
-BTANIC,3403,515604,Botanic Gardens,,1,515604,13670,1
-BTANIC,3403,515606,Botanic Gardens,,1,515606,13670,1
-BTANIC,3403,515608,Botanic Gardens,,1,515608,13670,1
-BTANIC,3403,515610,Botanic Gardens,,1,515610,13670,1
-BTANIC,3403,515612,Botanic Gardens,,1,515612,13670,1
-BTANIC,3403,515614,Botanic Gardens,,1,515614,13670,1
-BTANIC,3403,515616,Botanic Gardens,,1,515616,13670,1
-BTANIC,3403,515618,Botanic Gardens,,1,515618,13670,1
-BTANIC,3403,515620,Botanic Gardens,,1,515620,13670,1
-BTANIC,3403,515622,Botanic Gardens,,1,515622,13670,1
-BTANIC,3403,515624,Botanic Gardens,,1,515624,13670,1
-BTANIC,3403,515626,Botanic Gardens,,1,515626,13670,1
-BTANIC,3403,515628,Botanic Gardens,,1,515628,13670,1
-BTANIC,3403,515630,Botanic Gardens,,1,515630,13670,1
-BTANIC,3403,515632,Botanic Gardens,,1,515632,13670,1
-BTANIC,3403,515634,Botanic Gardens,,1,515634,13670,1
-BTANIC,3403,515636,Botanic Gardens,,1,515636,13670,1
-BTANIC,3403,515638,Botanic Gardens,,1,515638,13670,1
-BTANIC,3403,515640,Botanic Gardens,,1,515640,13670,1
-BTANIC,3403,515642,Botanic Gardens,,1,515642,13670,1
-BTANIC,3403,515644,Botanic Gardens,,1,515644,13670,1
-BTANIC,3403,515646,Botanic Gardens,,1,515646,13670,1
-BTANIC,3403,515649,Botanic Gardens,,1,515649,13670,1
-BTANIC,3403,515652,Botanic Gardens,,1,515652,13670,1
-BTANIC,3403,515655,Botanic Gardens,,1,515655,13670,1
-BTANIC,3403,515658,Botanic Gardens,,1,515658,13670,1
-BTANIC,3403,515661,Botanic Gardens,,1,515661,13670,1
-BTANIC,3403,515664,Botanic Gardens,,1,515664,13670,1
-BTANIC,3403,515666,Botanic Gardens,,1,515666,13670,1
-BTANIC,3403,515668,Botanic Gardens,,1,515668,13670,1
-BTANIC,3403,515670,Botanic Gardens,,1,515670,13670,1
-BTANIC,3403,515672,Botanic Gardens,,1,515672,13670,1
-BTANIC,3403,515674,Botanic Gardens,,1,515674,13670,1
-BTANIC,3403,515676,Botanic Gardens,,1,515676,13670,1
-BTANIC,3403,515678,Botanic Gardens,,1,515678,13670,1
-BTANIC,3403,515681,Botanic Gardens,,1,515681,13670,1
-BTANIC,3403,515682,Botanic Gardens,,1,515682,13670,1
-BTANIC,3403,515684,Botanic Gardens,,1,515684,13670,1
-BTANIC,3403,515686,Botanic Gardens,,1,515686,13670,1
-BTANIC,3403,515688,Botanic Gardens,,1,515688,13670,1
-BTANIC,3403,515690,Botanic Gardens,,1,515690,13670,1
-BTANIC,3403,515692,Botanic Gardens,,1,515692,13670,1
-BTANIC,3403,515696,Botanic Gardens,,1,515696,13670,1
-BTANIC,3403,515699,Botanic Gardens,,1,515699,13670,1
-BTANIC,3403,515701,Botanic Gardens,,1,515701,13670,1
-BTANIC,3403,515703,Botanic Gardens,,1,515703,13670,1
-BTANIC,3403,515705,Botanic Gardens,,1,515705,13670,1
-BTANIC,3403,515707,Botanic Gardens,,1,515707,13670,1
-BTANIC,3403,515709,Botanic Gardens,,1,515709,13670,1
-BTANIC,3403,515711,Botanic Gardens,,1,515711,13670,1
-BTANIC,3403,515713,Botanic Gardens,,1,515713,13670,1
-BTANIC,3403,515715,Botanic Gardens,,1,515715,13670,1
-BTANIC,3403,515717,Botanic Gardens,,1,515717,13670,1
-BTANIC,3403,515719,Botanic Gardens,,1,515719,13670,1
-BTANIC,3403,515721,Botanic Gardens,,1,515721,13670,1
-BTANIC,3403,515723,Botanic Gardens,,1,515723,13670,1
-BTANIC,3403,515727,Botanic Gardens,,1,515727,13670,1
 C1,1,512916,City,,0,512916,13930,
 C1,1,512917,City,,0,512917,13930,
 C1X,1,512918,City,,0,512918,13932,
@@ -16479,61 +16285,6 @@ C2X,1,512941,Golden Grove,,1,512941,13936,
 C2X,7,512942,Golden Grove,,1,512942,13936,
 C2X,6,512943,Golden Grove,,1,512943,13936,
 C2X,1,512944,Greenwith,,1,512791,13935,
-FESTVL,3403,515595,Glenelg,,1,515595,13682,1
-FESTVL,3403,515591,Glenelg,,1,515591,13682,1
-FESTVL,3403,515484,Festival Plaza,,0,515484,13681,1
-FESTVL,3403,515587,Glenelg,,1,515587,13682,1
-FESTVL,3403,515583,Glenelg,,1,515583,13682,1
-FESTVL,3403,515579,Glenelg,,1,515579,13682,1
-FESTVL,3403,515575,Glenelg,,1,515575,13682,1
-FESTVL,3403,515571,Glenelg,,1,515571,13682,1
-FESTVL,3403,515567,Glenelg,,1,515567,13682,1
-FESTVL,3403,515563,Glenelg,,1,515563,13682,1
-FESTVL,3403,515536,Festival Plaza,,0,515536,13681,1
-FESTVL,3403,515532,Festival Plaza,,0,515532,13681,1
-FESTVL,3403,515528,Festival Plaza,,0,515528,13681,1
-FESTVL,3403,515524,Festival Plaza,,0,515524,13681,1
-FESTVL,3403,515520,Festival Plaza,,0,515520,13681,1
-FESTVL,3403,515516,Festival Plaza,,0,515516,13681,1
-FESTVL,3403,515512,Festival Plaza,,0,515512,13681,1
-FESTVL,3403,515508,Festival Plaza,,0,515508,13681,1
-FESTVL,3403,515504,Festival Plaza,,0,515504,13681,1
-FESTVL,3403,515500,Festival Plaza,,0,515500,13681,1
-FESTVL,3403,515496,Festival Plaza,,0,515496,13681,1
-FESTVL,3403,515491,Festival Plaza,,0,515491,13681,1
-FESTVL,3403,515492,Festival Plaza,,0,515492,13681,1
-FESTVL,3403,515486,Festival Plaza,,0,515486,13681,1
-FESTVL,3403,515487,Festival Plaza,,0,515487,13681,1
-FESTVL,3403,515479,Festival Plaza,,0,515479,13681,1
-FESTVL,3403,515480,Festival Plaza,,0,515480,13681,1
-FESTVL,3403,515481,Festival Plaza,,0,515481,13681,1
-FESTVL,3403,515476,Festival Plaza,,0,515476,13681,1
-FESTVL,3403,515474,Festival Plaza,,0,515474,13681,1
-FESTVL,3403,515470,Festival Plaza,,0,515470,13681,1
-FESTVL,3403,515466,Festival Plaza,,0,515466,13681,1
-FESTVL,3403,515462,Festival Plaza,,0,515462,13681,1
-FESTVL,3403,515458,Festival Plaza,,0,515458,13681,1
-FESTVL,3403,515454,Festival Plaza,,0,515454,13681,1
-FESTVL,3403,515450,Festival Plaza,,0,515450,13681,1
-FESTVL,3403,515446,Festival Plaza,,0,515446,13681,1
-FESTVL,3403,515442,Festival Plaza,,0,515442,13681,1
-FESTVL,3403,515438,Festival Plaza,,0,515438,13681,1
-FESTVL,3403,515434,Festival Plaza,,0,515434,13681,1
-FESTVL,3403,515430,Festival Plaza,,0,515430,13681,1
-FESTVL,3403,515426,Festival Plaza,,0,515426,13681,1
-FESTVL,3403,515422,Festival Plaza,,0,515422,13681,1
-FESTVL,3403,515418,Festival Plaza,,0,515418,13681,1
-FESTVL,3403,515414,Festival Plaza,,0,515414,13681,1
-FESTVL,3403,515410,Festival Plaza,,0,515410,13681,1
-FESTVL,3403,515406,Festival Plaza,,0,515406,13681,1
-FESTVL,3403,515402,Festival Plaza,,0,515402,13681,1
-FESTVL,3403,515398,Festival Plaza,,0,515398,13681,1
-FESTVL,3403,515394,Festival Plaza,,0,515394,13681,1
-FESTVL,3403,515390,Festival Plaza,,0,515390,13681,1
-FESTVL,3403,515386,Festival Plaza,,0,515386,13681,1
-FESTVL,3403,515382,Festival Plaza,,0,515382,13681,1
-FESTVL,3403,515378,Festival Plaza,,0,515378,13681,1
-FESTVL,3403,515374,Festival Plaza,,0,515374,13681,1
 FESTVL,3003,472354,Glenelg,,1,472354,13682,1
 FESTVL,3003,472350,Glenelg,,1,472350,13682,1
 FESTVL,3003,472346,Glenelg,,1,472346,13682,1
@@ -16694,37 +16445,6 @@ FESTVL,3003,472370,Glenelg,,1,472370,13682,1
 FESTVL,3003,472366,Glenelg,,1,472366,13682,1
 FESTVL,3003,472362,Glenelg,,1,472362,13682,1
 FESTVL,3003,472358,Glenelg,,1,472358,13682,1
-FESTVL,3403,515728,Glenelg,,1,515728,13682,1
-FESTVL,3403,515724,Glenelg,,1,515724,13682,1
-FESTVL,3403,515720,Glenelg,,1,515720,13682,1
-FESTVL,3403,515716,Glenelg,,1,515716,13682,1
-FESTVL,3403,515712,Glenelg,,1,515712,13682,1
-FESTVL,3403,515708,Glenelg,,1,515708,13682,1
-FESTVL,3403,515704,Glenelg,,1,515704,13682,1
-FESTVL,3403,515693,Glenelg,,1,515693,13682,1
-FESTVL,3403,515689,Glenelg,,1,515689,13682,1
-FESTVL,3403,515685,Glenelg,,1,515685,13682,1
-FESTVL,3403,515660,Glenelg,,1,515660,13682,1
-FESTVL,3403,515680,Glenelg,,1,515680,13682,1
-FESTVL,3403,515677,Glenelg,,1,515677,13682,1
-FESTVL,3403,515673,Glenelg,,1,515673,13682,1
-FESTVL,3403,515669,Glenelg,,1,515669,13682,1
-FESTVL,3403,515665,Glenelg,,1,515665,13682,1
-FESTVL,3403,515648,Glenelg,,1,515648,13682,1
-FESTVL,3403,515654,Glenelg,,1,515654,13682,1
-FESTVL,3403,515643,Glenelg,,1,515643,13682,1
-FESTVL,3403,515639,Glenelg,,1,515639,13682,1
-FESTVL,3403,515635,Glenelg,,1,515635,13682,1
-FESTVL,3403,515631,Glenelg,,1,515631,13682,1
-FESTVL,3403,515627,Glenelg,,1,515627,13682,1
-FESTVL,3403,515623,Glenelg,,1,515623,13682,1
-FESTVL,3403,515619,Glenelg,,1,515619,13682,1
-FESTVL,3403,515615,Glenelg,,1,515615,13682,1
-FESTVL,3403,515611,Glenelg,,1,515611,13682,1
-FESTVL,3403,515607,Glenelg,,1,515607,13682,1
-FESTVL,3403,515603,Glenelg,,1,515603,13682,1
-FESTVL,3403,515599,Glenelg,,1,515599,13682,1
-FESTVL,3403,515698,Glenelg,,1,515698,13682,1
 G10,1,464052,Marion,,1,464052,12239,
 G10,1,464053,Blair Athol,,0,464053,13937,
 G10,1,464054,Blair Athol,,0,464054,13937,
@@ -17359,6 +17079,7 @@ G21,11,468017,Aberfoyle Hub,,1,468017,12257,
 G21,11,468018,City,,0,467909,12256,
 G21,11,468019,City,,0,467922,12256,
 G21,11,468020,Aberfoyle Hub,,1,468020,12257,
+G21F,17,515933,Aberfoyle Hub,,1,515933,12261,
 G21F,9,464369,Aberfoyle Hub,,1,464369,12261,
 G21F,1,464370,City,,0,464370,12260,
 G21F,1,464371,City,,0,464371,12260,
@@ -17367,7 +17088,6 @@ G21F,1,464373,City,,0,464373,12260,
 G21F,1,464374,City,,0,464374,12259,
 G21F,7,464375,City,,0,464375,12259,
 G21F,6,464376,City,,0,464376,12259,
-G21F,17,515933,Aberfoyle Hub,,1,515933,12261,
 G21X,1,464377,City,,0,464377,12262,
 G21X,18,464378,Aberfoyle Hub,,1,464378,12263,
 G21X,3,464379,Aberfoyle Hub,,1,464379,12263,
@@ -17376,6 +17096,7 @@ G21X,3,464381,Aberfoyle Hub,,1,464381,12263,
 G21X,1,464382,Aberfoyle Hub,,1,464382,12263,
 G21X,1,464383,City,,0,464383,12262,
 G21X,1,464384,Aberfoyle Hub,,1,464384,12263,
+G22X,6,515922,Aberfoyle Hub,,1,515922,11297,
 G22X,9,464385,Aberfoyle Hub,,1,464385,11297,
 G22X,17,464386,Aberfoyle Hub,,1,464386,11297,
 G22X,1,464387,City,,0,464387,12264,
@@ -17397,7 +17118,6 @@ G22X,1,464402,City,,0,464402,12264,
 G22X,7,464403,Aberfoyle Hub,,1,464403,11297,
 G22X,6,464404,Aberfoyle Hub,,1,464404,11297,
 G22X,1,464405,Aberfoyle Hub,,1,464405,11297,
-G22X,6,515922,Aberfoyle Hub,,1,515922,11297,
 G30F,9,512945,Blackwood,,1,512945,12343,
 G30F,17,512946,Blackwood,,1,512946,12343,
 G30F,1,512947,Blackwood,,1,512947,12343,
@@ -17733,80 +17453,6 @@ GLAN,8501,515062,Glanville,,1,515062,9102,1
 GLAN,8501,515066,Glanville,,1,515066,9102,1
 GLAN,8501,515070,Glanville,,1,515070,9102,1
 GLAN,8501,515074,Glanville,,1,515074,9102,1
-GLNELG,3403,515376,Royal Adelaide Hospital,,0,515376,13671,1
-GLNELG,3403,515380,Royal Adelaide Hospital,,0,515380,13671,1
-GLNELG,3403,515384,Royal Adelaide Hospital,,0,515384,13671,1
-GLNELG,3403,515388,Royal Adelaide Hospital,,0,515388,13671,1
-GLNELG,3403,515392,Royal Adelaide Hospital,,0,515392,13671,1
-GLNELG,3403,515396,Royal Adelaide Hospital,,0,515396,13671,1
-GLNELG,3403,515400,Royal Adelaide Hospital,,0,515400,13671,1
-GLNELG,3403,515404,Royal Adelaide Hospital,,0,515404,13671,1
-GLNELG,3403,515408,Royal Adelaide Hospital,,0,515408,13671,1
-GLNELG,3403,515412,Royal Adelaide Hospital,,0,515412,13671,1
-GLNELG,3403,515416,Royal Adelaide Hospital,,0,515416,13671,1
-GLNELG,3403,515420,Royal Adelaide Hospital,,0,515420,13671,1
-GLNELG,3403,515424,Royal Adelaide Hospital,,0,515424,13671,1
-GLNELG,3403,515428,Royal Adelaide Hospital,,0,515428,13671,1
-GLNELG,3403,515432,Royal Adelaide Hospital,,0,515432,13671,1
-GLNELG,3403,515436,Royal Adelaide Hospital,,0,515436,13671,1
-GLNELG,3403,515372,Royal Adelaide Hospital,,0,515372,13671,1
-GLNELG,3403,515369,Royal Adelaide Hospital,,0,515369,13671,1
-GLNELG,3403,515370,Entertainment Centre,,0,515370,13676,1
-GLNELG,3403,515366,Royal Adelaide Hospital,,0,515366,13671,1
-GLNELG,3403,515367,Entertainment Centre,,0,515367,13676,1
-GLNELG,3403,515361,Entertainment Centre,,0,515361,13673,1
-GLNELG,3403,515362,Entertainment Centre,,0,515362,13676,1
-GLNELG,3403,515363,Royal Adelaide Hospital,,0,515363,13671,1
-GLNELG,3403,515364,Entertainment Centre,,0,515364,13676,1
-GLNELG,3403,515440,Royal Adelaide Hospital,,0,515440,13671,1
-GLNELG,3403,515444,Royal Adelaide Hospital,,0,515444,13671,1
-GLNELG,3403,515448,Royal Adelaide Hospital,,0,515448,13671,1
-GLNELG,3403,515452,Royal Adelaide Hospital,,0,515452,13671,1
-GLNELG,3403,515456,Royal Adelaide Hospital,,0,515456,13671,1
-GLNELG,3403,515460,Royal Adelaide Hospital,,0,515460,13671,1
-GLNELG,3403,515464,Royal Adelaide Hospital,,0,515464,13671,1
-GLNELG,3403,515468,Royal Adelaide Hospital,,0,515468,13671,1
-GLNELG,3403,515472,Royal Adelaide Hospital,,0,515472,13671,1
-GLNELG,3403,515477,Royal Adelaide Hospital,,0,515477,13671,1
-GLNELG,3403,515483,Royal Adelaide Hospital,,0,515483,13671,1
-GLNELG,3403,515489,Royal Adelaide Hospital,,0,515489,13671,1
-GLNELG,3403,515494,Royal Adelaide Hospital,,0,515494,13671,1
-GLNELG,3403,515498,Royal Adelaide Hospital,,0,515498,13671,1
-GLNELG,3403,515502,Royal Adelaide Hospital,,0,515502,13671,1
-GLNELG,3403,515506,Royal Adelaide Hospital,,0,515506,13671,1
-GLNELG,3403,515510,Royal Adelaide Hospital,,0,515510,13671,1
-GLNELG,3403,515514,Royal Adelaide Hospital,,0,515514,13671,1
-GLNELG,3403,515518,Royal Adelaide Hospital,,0,515518,13671,1
-GLNELG,3403,515522,Royal Adelaide Hospital,,0,515522,13671,1
-GLNELG,3403,515526,Royal Adelaide Hospital,,0,515526,13671,1
-GLNELG,3403,515530,Royal Adelaide Hospital,,0,515530,13671,1
-GLNELG,3403,515534,Royal Adelaide Hospital,,0,515534,13671,1
-GLNELG,3403,515556,Glenelg,,1,515556,13680,1
-GLNELG,3403,515557,Glenelg,,1,515557,13672,1
-GLNELG,3403,515560,Glenelg,,1,515560,13680,1
-GLNELG,3403,515561,Glenelg,,1,515561,13672,1
-GLNELG,3403,515565,Glenelg,,1,515565,13672,1
-GLNELG,3403,515569,Glenelg,,1,515569,13672,1
-GLNELG,3403,515550,Glenelg,,1,515550,13680,1
-GLNELG,3403,515551,Glenelg,,1,515551,13680,1
-GLNELG,3403,515552,Glenelg,,1,515552,13680,1
-GLNELG,3403,515553,Glenelg,,1,515553,13680,1
-GLNELG,3403,515554,Glenelg,,1,515554,13672,1
-GLNELG,3403,515548,Glenelg,,1,515548,13680,1
-GLNELG,3403,515538,Royal Adelaide Hospital,,0,515538,13671,1
-GLNELG,3403,515540,Glenelg,,1,515540,13680,1
-GLNELG,3403,515541,Glenelg,,1,515541,13680,1
-GLNELG,3403,515542,Glenelg,,1,515542,13680,1
-GLNELG,3403,515543,Glenelg,,1,515543,13680,1
-GLNELG,3403,515544,Glenelg,,1,515544,13680,1
-GLNELG,3403,515545,Glenelg,,1,515545,13680,1
-GLNELG,3403,515546,Glenelg,,1,515546,13680,1
-GLNELG,3403,515573,Glenelg,,1,515573,13672,1
-GLNELG,3403,515577,Glenelg,,1,515577,13672,1
-GLNELG,3403,515581,Glenelg,,1,515581,13672,1
-GLNELG,3403,515585,Glenelg,,1,515585,13672,1
-GLNELG,3403,515589,Glenelg,,1,515589,13672,1
-GLNELG,3403,515593,Glenelg,,1,515593,13672,1
 GLNELG,3003,472360,Glenelg,,1,472360,13672,1
 GLNELG,3003,472364,Glenelg,,1,472364,13672,1
 GLNELG,3003,472368,Glenelg,,1,472368,13672,1
@@ -18273,76 +17919,6 @@ GLNELG,3003,472344,Glenelg,,1,472344,13672,1
 GLNELG,3003,472348,Glenelg,,1,472348,13672,1
 GLNELG,3003,472352,Glenelg,,1,472352,13672,1
 GLNELG,3003,472356,Glenelg,,1,472356,13672,1
-GLNELG,3403,515726,Glenelg,,1,515726,13672,1
-GLNELG,3403,515597,Glenelg,,1,515597,13672,1
-GLNELG,3403,515601,Glenelg,,1,515601,13672,1
-GLNELG,3403,515605,Glenelg,,1,515605,13672,1
-GLNELG,3403,515609,Glenelg,,1,515609,13672,1
-GLNELG,3403,515613,Glenelg,,1,515613,13672,1
-GLNELG,3403,515617,Glenelg,,1,515617,13672,1
-GLNELG,3403,515621,Glenelg,,1,515621,13672,1
-GLNELG,3403,515625,Glenelg,,1,515625,13672,1
-GLNELG,3403,515629,Glenelg,,1,515629,13672,1
-GLNELG,3403,515633,Glenelg,,1,515633,13672,1
-GLNELG,3403,515637,Glenelg,,1,515637,13672,1
-GLNELG,3403,515641,Glenelg,,1,515641,13672,1
-GLNELG,3403,515656,Glenelg,,1,515656,13680,1
-GLNELG,3403,515657,Glenelg,,1,515657,13672,1
-GLNELG,3403,515662,Glenelg,,1,515662,13680,1
-GLNELG,3403,515663,Glenelg,,1,515663,13672,1
-GLNELG,3403,515659,Glenelg,,1,515659,13680,1
-GLNELG,3403,515653,Glenelg,,1,515653,13680,1
-GLNELG,3403,515650,Glenelg,,1,515650,13680,1
-GLNELG,3403,515651,Glenelg,,1,515651,13672,1
-GLNELG,3403,515647,Glenelg,,1,515647,13680,1
-GLNELG,3403,515645,Glenelg,,1,515645,13672,1
-GLNELG,3403,515667,Glenelg,,1,515667,13672,1
-GLNELG,3403,515671,Glenelg,,1,515671,13672,1
-GLNELG,3403,515675,Glenelg,,1,515675,13672,1
-GLNELG,3403,515679,Glenelg,,1,515679,13672,1
-GLNELG,3403,515683,Glenelg,,1,515683,13672,1
-GLNELG,3403,515687,Glenelg,,1,515687,13672,1
-GLNELG,3403,515691,Glenelg,,1,515691,13672,1
-GLNELG,3403,515694,Glenelg,,1,515694,13674,1
-GLNELG,3403,515695,Glenelg,,1,515695,13672,1
-GLNELG,3403,515702,Glenelg,,1,515702,13672,1
-GLNELG,3403,515700,Glenelg,,1,515700,13672,1
-GLNELG,3403,515697,Glenelg,,1,515697,13674,1
-GLNELG,3403,515706,Glenelg,,1,515706,13672,1
-GLNELG,3403,515710,Glenelg,,1,515710,13672,1
-GLNELG,3403,515714,Glenelg,,1,515714,13672,1
-GLNELG,3403,515718,Glenelg,,1,515718,13672,1
-GLNELG,3403,515722,Glenelg,,1,515722,13672,1
-GLNELG,3403,515729,Glenelg,,1,515729,13674,1
-GLNELG,3403,515730,Glenelg,,1,515730,13672,1
-GLNELG,3403,515731,Glenelg,,1,515731,13674,1
-GLNELG,3403,515732,Glenelg,,1,515732,13674,1
-GRNG,8503,515353,Grange,,1,515353,1198,1
-GRNG,8503,515356,Grange,,1,515356,1198,1
-GRNG,8503,515359,Grange,,1,515359,1198,1
-GRNG,8503,515329,Grange,,1,515329,1198,1
-GRNG,8503,515332,Grange,,1,515332,1198,1
-GRNG,8503,515335,Grange,,1,515335,1198,1
-GRNG,8503,515338,Grange,,1,515338,1198,1
-GRNG,8503,515341,Grange,,1,515341,1198,1
-GRNG,8503,515344,Grange,,1,515344,1198,1
-GRNG,8503,515347,Grange,,1,515347,1198,1
-GRNG,8503,515350,Grange,,1,515350,1198,1
-GRNG,8502,515283,Grange,,1,515283,1198,1
-GRNG,8502,515286,Grange,,1,515286,1198,1
-GRNG,8502,515289,Grange,,1,515289,1198,1
-GRNG,8502,515292,Grange,,1,515292,1198,1
-GRNG,8502,515295,Grange,,1,515295,1198,1
-GRNG,8502,515298,Grange,,1,515298,1198,1
-GRNG,8502,515304,Grange,,1,515304,1198,1
-GRNG,8502,515301,Grange,,1,515301,1198,1
-GRNG,8503,515308,Grange,,1,515308,1198,1
-GRNG,8503,515311,Grange,,1,515311,1198,1
-GRNG,8503,515314,Grange,,1,515314,1198,1
-GRNG,8503,515317,Grange,,1,515317,1198,1
-GRNG,8503,515320,Grange,,1,515320,1198,1
-GRNG,8503,515323,Grange,,1,515323,1198,1
-GRNG,8503,515326,Grange,,1,515326,1198,1
 GRNG,8501,515075,Grange,,1,515075,1198,1
 GRNG,8501,515060,Grange,,1,515060,1198,1
 GRNG,8501,515071,Grange,,1,515071,1198,1
@@ -18457,6 +18033,35 @@ GRNG,8502,515271,Grange,,1,515271,1198,1
 GRNG,8502,515274,Grange,,1,515274,1198,1
 GRNG,8502,515277,Grange,,1,515277,1198,1
 GRNG,8502,515280,Grange,,1,515280,1198,1
+GRNG,8503,515353,Grange,,1,515353,1198,1
+GRNG,8503,515356,Grange,,1,515356,1198,1
+GRNG,8503,515359,Grange,,1,515359,1198,1
+GRNG,8503,515329,Grange,,1,515329,1198,1
+GRNG,8503,515332,Grange,,1,515332,1198,1
+GRNG,8503,515335,Grange,,1,515335,1198,1
+GRNG,8503,515338,Grange,,1,515338,1198,1
+GRNG,8503,515341,Grange,,1,515341,1198,1
+GRNG,8503,515344,Grange,,1,515344,1198,1
+GRNG,8503,515347,Grange,,1,515347,1198,1
+GRNG,8503,515350,Grange,,1,515350,1198,1
+GRNG,8502,515283,Grange,,1,515283,1198,1
+GRNG,8502,515286,Grange,,1,515286,1198,1
+GRNG,8502,515289,Grange,,1,515289,1198,1
+GRNG,8502,515292,Grange,,1,515292,1198,1
+GRNG,8502,515295,Grange,,1,515295,1198,1
+GRNG,8502,515298,Grange,,1,515298,1198,1
+GRNG,8502,515304,Grange,,1,515304,1198,1
+GRNG,8502,515301,Grange,,1,515301,1198,1
+GRNG,8503,515308,Grange,,1,515308,1198,1
+GRNG,8503,515311,Grange,,1,515311,1198,1
+GRNG,8503,515314,Grange,,1,515314,1198,1
+GRNG,8503,515317,Grange,,1,515317,1198,1
+GRNG,8503,515320,Grange,,1,515320,1198,1
+GRNG,8503,515323,Grange,,1,515323,1198,1
+GRNG,8503,515326,Grange,,1,515326,1198,1
+H20,3,515937,Glenelg,,0,515937,13108,
+H20,17,515938,Glenelg,,0,515938,13108,
+H20,17,515939,Paradise,,1,515939,13848,
 H20,1,464471,Glenelg,,0,464471,13109,
 H20,1,464472,Glenelg,,0,464472,13109,
 H20,1,464473,Glenelg,,0,464473,13108,
@@ -18588,9 +18193,6 @@ H20,12,470801,Glenelg,,0,470801,13108,
 H20,12,470802,Glenelg,,0,470802,13108,
 H20,12,470803,Paradise,,1,470803,13848,
 H20,12,470804,Glenelg,,0,470804,13108,
-H20,3,515937,Glenelg,,0,515937,13108,
-H20,17,515938,Glenelg,,0,515938,13108,
-H20,17,515939,Paradise,,1,515939,13848,
 H20C,45,464546,City,,0,464546,13113,
 H20C,23,464547,City,,0,464547,13113,
 H20C,1,464548,City,,0,464548,13113,
@@ -18599,6 +18201,7 @@ H20C,1,464551,City,,0,464551,13113,
 H20C,1,464552,City,,1,464552,13112,
 H20R,1,464553,Richmond,,0,464553,13114,
 H20R,1,464554,Richmond,,0,464554,13114,
+H21,6,515907,City,,0,515907,13115,
 H21,3,464555,Paradise,,1,464555,13847,
 H21,1,464556,City,,0,464556,13115,
 H21,1,464557,City,,0,464557,13115,
@@ -18642,7 +18245,7 @@ H21,8,464595,Paradise,,1,464595,13847,
 H21,9,464596,City,,0,464596,13115,
 H21,4,464597,Paradise,,1,464597,13847,
 H21,1,464598,Paradise,,1,464598,13847,
-H21,6,515907,City,,0,515907,13115,
+H22,6,515908,Wattle Park,,0,515908,13844,
 H22,1,464599,Wattle Park,,0,464599,13844,
 H22,1,464600,Henley Beach South,,1,464600,13121,
 H22,1,464601,Wattle Park,,0,464601,13844,
@@ -18790,7 +18393,6 @@ H22,11,468091,Wattle Park,,0,468091,13845,
 H22,11,468092,Wattle Park,,0,468092,13844,
 H22,11,468093,Wattle Park,,0,468093,13845,
 H22,11,468094,Wattle Park,,0,468094,13845,
-H22,6,515908,Wattle Park,,0,515908,13844,
 H22C,1,464666,City,,1,464666,13123,
 H22C,1,464667,City,,1,464667,13123,
 H22C,11,468095,City,,1,468095,13123,
@@ -18842,6 +18444,9 @@ H24,3,464696,Auldana,,1,464696,13832,
 H24,1,464697,Auldana,,1,464697,13832,
 H24,1,464698,Auldana,,1,464698,13832,
 H24,1,464699,City,,0,464699,13128,
+H30,17,515934,West Lakes,,0,515934,13134,
+H30,17,515935,West Lakes,,0,515935,13133,
+H30,17,515936,Paradise,,1,515936,13130,
 H30,1,464700,West Lakes,,0,464700,13133,
 H30,1,464701,Paradise,,1,464701,13130,
 H30,9,464702,West Lakes,,0,464702,13134,
@@ -19027,9 +18632,6 @@ H30,11,468153,West Lakes,,0,468153,13135,
 H30,11,468154,Paradise,,1,468154,13130,
 H30,11,468155,Paradise,,1,468155,13130,
 H30,11,468156,West Lakes,,0,468156,13133,
-H30,17,515934,West Lakes,,0,515934,13134,
-H30,17,515935,West Lakes,,0,515935,13133,
-H30,17,515936,Paradise,,1,515936,13130,
 H30C,21,464785,City,,0,464785,13826,
 H30C,1,464786,City,,1,464846,12558,
 H30C,53,464787,City,,1,464847,12558,
@@ -19091,6 +18693,8 @@ H30S,11,468170,Rostrevor,,1,468170,13137,
 H30S,11,468171,Rostrevor,,1,468171,13137,
 H30S,11,468172,Rostrevor,,1,468172,13137,
 H30S,11,468173,Rostrevor,,1,468173,13137,
+H32,6,515905,Henley Beach South,,1,515905,13140,
+H32,17,515906,Henley Beach South,,1,515906,13140,
 H32,1,464813,City,,0,464813,13139,
 H32,1,464814,City,,0,464814,13139,
 H32,1,464815,Henley Beach South,,1,464815,13140,
@@ -19109,8 +18713,6 @@ H32,1,464828,Henley Beach South,,1,464828,13140,
 H32,9,464829,Henley Beach South,,1,464829,13140,
 H32,1,464830,Henley Beach South,,1,464830,13140,
 H32,1,464831,City,,0,464831,13139,
-H32,6,515905,Henley Beach South,,1,515905,13140,
-H32,17,515906,Henley Beach South,,1,515906,13140,
 H33,1,464834,Rostrevor,,1,464834,13145,
 H33,1,464835,Henley Beach,,0,464835,13141,
 H33,1,464836,Rostrevor,,1,464836,13145,
@@ -19744,6 +19346,11 @@ J8,1,465161,Marion,,1,465161,12580,
 J8,1,465162,West Lakes,,0,465162,12579,
 J8,1,465163,Marion,,1,465163,12580,
 J8,1,465165,West Lakes,,0,465165,12579,
+M44,17,515923,Marion,,0,515923,13292,
+M44,17,515924,Marion,,0,515924,13291,
+M44,3,515925,Golden Grove,,1,515925,13289,
+M44,17,515926,Golden Grove,,1,515926,13287,
+M44,17,515927,Golden Grove,,1,515927,13287,
 M44,1,465166,Marion,,0,465166,13294,
 M44,1,465167,Marion,,0,465167,13295,
 M44,1,465168,Marion,,0,465168,13295,
@@ -20040,11 +19647,6 @@ M44,12,471130,Marion,,0,471130,13291,
 M44,12,471131,Golden Grove,,1,471131,13287,
 M44,12,471132,Marion,,0,471132,13291,
 M44,12,471133,Golden Grove,,1,471133,13287,
-M44,17,515923,Marion,,0,515923,13292,
-M44,17,515924,Marion,,0,515924,13291,
-M44,3,515925,Golden Grove,,1,515925,13289,
-M44,17,515926,Golden Grove,,1,515926,13287,
-M44,17,515927,Golden Grove,,1,515927,13287,
 M44C,1,465310,City,,1,465310,13297,
 M44C,1,465311,City,,1,465311,13297,
 M44C,1,465312,City,,1,465312,13297,
@@ -20372,6 +19974,27 @@ OUTHA,8502,515192,City,,0,515192,10731,1
 OUTHA,8502,515194,City,,0,515194,10731,1
 OUTHA,8502,515195,City,,0,515195,10731,1
 OUTHA,8503,515196,City,,0,515196,10731,1
+OUTHA,8503,515360,Outer Harbor,,1,515360,10732,1
+OUTHA,8503,515357,Outer Harbor,,1,515357,10732,1
+OUTHA,8503,515358,Outer Harbor,,1,515358,10732,1
+OUTHA,8503,515354,Outer Harbor,,1,515354,10732,1
+OUTHA,8503,515355,Outer Harbor,,1,515355,10732,1
+OUTHA,8503,515351,Outer Harbor,,1,515351,10732,1
+OUTHA,8503,515352,Outer Harbor,,1,515352,10732,1
+OUTHA,8503,515348,Outer Harbor,,1,515348,10732,1
+OUTHA,8503,515349,Outer Harbor,,1,515349,10732,1
+OUTHA,8503,515345,Outer Harbor,,1,515345,10732,1
+OUTHA,8503,515346,Outer Harbor,,1,515346,10732,1
+OUTHA,8503,515342,Outer Harbor,,1,515342,10732,1
+OUTHA,8503,515343,Outer Harbor,,1,515343,10732,1
+OUTHA,8503,515339,Outer Harbor,,1,515339,10732,1
+OUTHA,8503,515340,Outer Harbor,,1,515340,10732,1
+OUTHA,8503,515336,Outer Harbor,,1,515336,10732,1
+OUTHA,8503,515337,Outer Harbor,,1,515337,10732,1
+OUTHA,8503,515333,Outer Harbor,,1,515333,10732,1
+OUTHA,8503,515334,Outer Harbor,,1,515334,10732,1
+OUTHA,8503,515330,Outer Harbor,,1,515330,10732,1
+OUTHA,8503,515331,Outer Harbor,,1,515331,10732,1
 OUTHA,8503,515327,Outer Harbor,,1,515327,10732,1
 OUTHA,8503,515328,Outer Harbor,,1,515328,10732,1
 OUTHA,8503,515324,Outer Harbor,,1,515324,10732,1
@@ -20403,27 +20026,6 @@ OUTHA,8502,515287,Outer Harbor,,1,515287,10732,1
 OUTHA,8502,515288,Outer Harbor,,1,515288,10732,1
 OUTHA,8502,515284,Outer Harbor,,1,515284,10732,1
 OUTHA,8502,515285,Outer Harbor,,1,515285,10732,1
-OUTHA,8503,515351,Outer Harbor,,1,515351,10732,1
-OUTHA,8503,515352,Outer Harbor,,1,515352,10732,1
-OUTHA,8503,515348,Outer Harbor,,1,515348,10732,1
-OUTHA,8503,515349,Outer Harbor,,1,515349,10732,1
-OUTHA,8503,515345,Outer Harbor,,1,515345,10732,1
-OUTHA,8503,515346,Outer Harbor,,1,515346,10732,1
-OUTHA,8503,515342,Outer Harbor,,1,515342,10732,1
-OUTHA,8503,515343,Outer Harbor,,1,515343,10732,1
-OUTHA,8503,515339,Outer Harbor,,1,515339,10732,1
-OUTHA,8503,515340,Outer Harbor,,1,515340,10732,1
-OUTHA,8503,515336,Outer Harbor,,1,515336,10732,1
-OUTHA,8503,515337,Outer Harbor,,1,515337,10732,1
-OUTHA,8503,515333,Outer Harbor,,1,515333,10732,1
-OUTHA,8503,515334,Outer Harbor,,1,515334,10732,1
-OUTHA,8503,515330,Outer Harbor,,1,515330,10732,1
-OUTHA,8503,515331,Outer Harbor,,1,515331,10732,1
-OUTHA,8503,515360,Outer Harbor,,1,515360,10732,1
-OUTHA,8503,515357,Outer Harbor,,1,515357,10732,1
-OUTHA,8503,515358,Outer Harbor,,1,515358,10732,1
-OUTHA,8503,515354,Outer Harbor,,1,515354,10732,1
-OUTHA,8503,515355,Outer Harbor,,1,515355,10732,1
 SALIS,8501,415393,City,,0,415393,3817,1
 SALIS,8501,415454,Salisbury,,1,415454,1244,1
 SEAFRD,8501,416062,City,,0,416062,10717,1
@@ -21137,6 +20739,7 @@ W91C,1,513346,City,,0,513346,13176,
 W91C,1,513347,City,,0,513347,13176,
 W91C,1,513348,City,,0,513348,13176,
 W91C,1,513349,City,,0,513349,13177,
+X30,3,515889,Paradise,,1,515889,13184,
 X30,1,465488,Paradise,,1,465488,13184,
 X30,1,465489,West Lakes,,0,465489,13181,
 X30,17,465490,West Lakes,,0,465490,13181,
@@ -21164,7 +20767,6 @@ X30,1,465511,Paradise,,1,465511,13184,
 X30,7,465512,West Lakes,,0,465512,13181,
 X30,6,465513,West Lakes,,0,465513,13181,
 X30,1,465514,Paradise,,1,462670,13823,
-X30,3,515889,Paradise,,1,515889,13184,
 X30C,1,465515,City,,1,465515,13185,
 X30C,1,465516,City,,1,465516,13185,
 X30C,1,465517,City,,1,465517,13185,
