@@ -19,10 +19,14 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented AO/AOX trip data for BBL match at Adelaide Oval on February 9
+1) Implemented special tram timetables for Friday and Saturday nights due to the Fringe Festival.
 
-2) Made adjustments to routes entering Woodcroft Community Centre - including identifying which Zone at Woodcroft buses service.
+2) Implemented additional O-Bahn trips for the Fringe, operating on Friday and Saturday nights.
 
-3) Route 225X no longer services Stop 37 Main North Rd (both directions of travel)
+3) Updated stop coordinates for Stop 1A Frome St (both sides)
 
-4) Made several minor improvements to shape data.
+4) Updated stop coordinates for Stop 1 Victoria Dr (both sides)
+
+5) Implemented an early dismissal school service for route 922 on Tuesdays.
+
+6) Added some additional trips for the Superloop Adelaide 500 on 28 February and 1 March. More trips will be added for 2 and 3 March very soon!
