@@ -19,14 +19,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented special tram timetables for Friday and Saturday nights due to the Fringe Festival.
-
-2) Implemented additional O-Bahn trips for the Fringe, operating on Friday and Saturday nights.
-
-3) Updated stop coordinates for Stop 1A Frome St (both sides)
-
-4) Updated stop coordinates for Stop 1 Victoria Dr (both sides)
-
-5) Implemented an early dismissal school service for route 922 on Tuesdays.
-
-6) Added some additional trips for the Superloop Adelaide 500 on 28 February and 1 March. More trips will be added for 2 and 3 March very soon!
+1) Implemented additional trips for the Superloop Adelaide 500 on 28 February for 2 and 3 March.
