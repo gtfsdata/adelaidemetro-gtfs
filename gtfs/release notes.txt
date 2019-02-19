@@ -19,4 +19,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented additional trips for the Superloop Adelaide 500 on 28 February for 2 and 3 March.
+1) Implemented WOMAD shuttle trips for March 8 - 11.
+
+2) Fixed issue where Zone A and Zone B at Stop 2 King William Rd - West side were being serviced at the incorrect times.
