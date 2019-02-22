@@ -19,6 +19,5 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Corrected route description for WOMAD route.
-
-2) Removed duplicated 540 trips that were operating during the Superloop Adelaide 500.  
+1) Some minor updates have been made to shape files.
+2) Fixed trip header for route 580. 
