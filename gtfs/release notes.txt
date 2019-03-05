@@ -19,5 +19,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Some minor updates have been made to shape files.
-2) Fixed trip header for route 580. 
+1) Stop 12 Chitral Tce (both sides) has been removed.
+
+2) Implemented special Tonsley Sunday timetable for March 24th. These trips are operating due to the Science Alive! Tonsley and Tonsley Open Day events.
