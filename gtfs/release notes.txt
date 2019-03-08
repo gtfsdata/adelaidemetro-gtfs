@@ -19,6 +19,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Stop 12 Chitral Tce (both sides) has been removed.
+1) Some daytype changes have been made to trips for operational purposes.
 
-2) Implemented special Tonsley Sunday timetable for March 24th. These trips are operating due to the Science Alive! Tonsley and Tonsley Open Day events.
+2) 150 services which depart and travel to the Australian Submarine Corp. have had a route change. They now travel to Veitch Rd.
+
+3) Route 725A has been removed. One trip was incorrectly labelled as a 725A, it should have been 725. Trips was 725 departing Noarlugna at 10:52pm on Sundays.

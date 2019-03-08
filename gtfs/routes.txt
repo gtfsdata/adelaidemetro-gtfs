@@ -282,7 +282,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 723F,4,723F,Colonnades Centre Interchange to City,"via Woodcroft Community Centre & South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723F,FFCC00,000000,723F-723X-733
 723X,4,723X,Woodcroft Community Centre to City,"via Southern Expressway. Express between stop 39 Regency Road & Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723X,FFCC00,000000,723F-723X-733
 725,4,725,Noarlunga Centre Interchange to Old Reynella Interchange,"via Southgate Plaza. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
-725A,4,725A,Noarlunga Centre Interchange to Old Reynella Interchange,,3,http://www.adelaidemetro.com.au/routes/725,FFCC00,000000,725
 733,4,733,Colonnades Centre Interchange to Marion Centre Interchange,"via Woodcroft Community Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/733,FFCC00,000000,723F-723X-733
 733G,4,733G,Colonnades Centre Interchange to O'Halloran Hill,"Terminates at Stop 33 Main South Road.",3,http://www.adelaidemetro.com.au/routes/733G,FFCC00,000000,723F-723X-733
 734,4,734,Colonnades Centre Interchange to Marion Centre Interchange,"via O'Sullivan Beach, Southgate Plaza & Trott Park. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/734,FFCC00,000000,734
