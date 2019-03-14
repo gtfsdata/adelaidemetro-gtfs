@@ -6,7 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190311 - Adelaide Cup
 20190419 - Good Friday
 20190422 - Easter Monday
 20190425 - Anzac Day
@@ -19,8 +18,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Some daytype changes have been made to trips for operational purposes.
+1) Further daytype changes have been made to trips for operational purposes.
 
-2) 150 services which depart and travel to the Australian Submarine Corp. have had a route change. They now travel to Veitch Rd.
-
-3) Route 725A has been removed. One trip was incorrectly labelled as a 725A, it should have been 725. Trips was 725 departing Noarlugna at 10:52pm on Sundays.
+2) Added AO/AOX trip data and train trips for AFL Round 1. More trip data for further rounds will be added soon.
