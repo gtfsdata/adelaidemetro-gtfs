@@ -18,6 +18,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added AO/AOX trip data and train trips for AFL Rounds 2-5.
+1) Added tram timetables for AFL Rounds 2-4.
 
-2) Special tram timetables implemented for AFL Round 1.
+2) Made some minor improvements to shape data for train routes OSBORN and GAWC.
