@@ -18,6 +18,11 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added tram timetables for AFL Rounds 2-4.
 
-2) Made some minor improvements to shape data for train routes OSBORN and GAWC.
+1) Added timetables for AFL Rounds 6-8.
+
+2) Some minor adjustments have been made to timetables for AFL Rounds 2-5. This includes removing one AO14 service for Port Power matches (not including the Showdown match), and removing some train services when there are rail closures on the Seaford line.
+
+3) Stop coordinates have changed for Stop F3 Grenfell St - North side.
+
+4) Stop 79T Curtis Rd (both sides) has been removed.
