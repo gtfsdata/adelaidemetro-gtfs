@@ -19,10 +19,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added timetables for AFL Rounds 6-8.
+1) Added AO/AOX timetables for AFL Rounds 9-10.
 
-2) Some minor adjustments have been made to timetables for AFL Rounds 2-5. This includes removing one AO14 service for Port Power matches (not including the Showdown match), and removing some train services when there are rail closures on the Seaford line.
+2) Added AO/AOX timetables for the AFLW Grand Final on March 31 (these services operate after the game only).
 
-3) Stop coordinates have changed for Stop F3 Grenfell St - North side.
-
-4) Stop 79T Curtis Rd (both sides) has been removed.
+3) Converted a single 722A trip to operate as route 722. Trip traveled from Noarlunga to Old Reynella Interchange at 22:51 on Sundays.
