@@ -19,8 +19,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX timetables for AFL Rounds 9-10.
-
-2) Added AO/AOX timetables for the AFLW Grand Final on March 31 (these services operate after the game only).
-
-3) Converted a single 722A trip to operate as route 722. Trip traveled from Noarlunga to Old Reynella Interchange at 22:51 on Sundays.
+1) Minor update to coordinates for Stops D3 Currie St - North side and Stop 10 South Rd - West side.
