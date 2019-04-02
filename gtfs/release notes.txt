@@ -19,4 +19,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor update to coordinates for Stops D3 Currie St - North side and Stop 10 South Rd - West side.
+1) Time adjustments to trip data for AFL Round 3
