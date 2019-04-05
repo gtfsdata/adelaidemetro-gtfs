@@ -19,6 +19,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added Seaford train closure timetables (including substitute bus service) for 13 April to 6 May. Please see www.adelaidemetro.com.au for more information.
+1) Added special tram timetables for AFL Rounds 5-7.
 
-2) Added additional bus services for ANZAC Day 2019.
+2) Fixed issue where the incorrect date range was displayed in calendar.txt for ANZAC Day additional bus services.
+
+3) Fixed issue where routes 98A and 98C were not active during Easter public holidays (except for Good Friday when they do not operate).
