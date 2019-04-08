@@ -19,8 +19,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added special tram timetables for AFL Rounds 5-7.
+1) Minor changes to trip daytypes for operational reasons.
 
-2) Fixed issue where the incorrect date range was displayed in calendar.txt for ANZAC Day additional bus services.
-
-3) Fixed issue where routes 98A and 98C were not active during Easter public holidays (except for Good Friday when they do not operate).
+2) Some 106 trips have been changed in the GTFS to operate only during school term.
