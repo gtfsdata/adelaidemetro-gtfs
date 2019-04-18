@@ -19,16 +19,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Trip time updates for route 475. Namely the morning service.
-
-2) Stop Y2 North Tce has been added to routes N3, N3X and N4 as a set down only stop.
-
-3) Goodwood Railway Station will be closed from first service Saturday 20 April to last service 22 April. This affect Belair train only (due to Seaford train closure).
-
-4) Implemented stop changes along Marion Rd - please see this url for more detailed information: https://adelaidemetro.com.au/Announcements/Service-Updates/Marion-Road-Bus-Stop-Management-Plan
-
-5) Stop B1 is now serviced by routes 144 and 147.
-
-6) Added additional Seaford train and connecting substitute bus services for AFL Rounds 5 and 7.
-
-7) Route N4 now services Stop 7 Leah St and Stop 1 ANZAC Highway. Route no longer services Stop 5 Leader St and Stop 2 Goodwood Rd.
+1) Implemented ANZAC Day detours in the city, including both train and tram services.
