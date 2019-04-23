@@ -6,7 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190419 - Good Friday
 20190422 - Easter Monday
 20190425 - Anzac Day
 20190610 - Queen's Birthday
@@ -19,4 +18,12 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented ANZAC Day detours in the city, including both train and tram services.
+1) Some minor adjustments have been made to trip data for ANZAC Day.
+
+2) Added route N4T to the GTFS.
+
+3) From 28 April 2019 there will be some adjustments to trip times for route 734. Namely, a timepoint has changed from Stop 53A Adams Rd to 45 Adams Rd.
+
+4) A single 461 trip will operate to a different schedule from 28 April 2019.
+
+5) Trip time changes for routes 777 and 922.
