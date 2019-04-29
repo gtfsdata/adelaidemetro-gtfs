@@ -6,7 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190425 - Anzac Day
 20190610 - Queen's Birthday
 20191007 - Labour Day
 20191225 - Christmas Day
@@ -17,4 +16,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Removed various bus stops on Main North Road. More information can be found here: https://adelaidemetro.com.au/Announcements/Service-Updates/Bus-timetable-changes-from-Sunday-28-April
+1) Changed stop coordinates for Oaklands Railway Station.
+
+2) Minor change to times for a single 222 trip - service operates Saturday at 22:39 from Mawson Lakes. Previous time was listed as 22:49 departure.
+
+3) Extended feed validity dates to September.
