@@ -16,8 +16,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Changed stop coordinates for Oaklands Railway Station.
-
-2) Minor change to times for a single 222 trip - service operates Saturday at 22:39 from Mawson Lakes. Previous time was listed as 22:49 departure.
-
-3) Extended feed validity dates to September.
+1) Added trip data for AFL matches up to Round 16.
