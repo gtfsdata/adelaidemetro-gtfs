@@ -16,4 +16,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added trip data for AFL matches up to Round 16.
+1) Added tram data for AFL Round 9.
+
+2) Stop 111 Regency Rd - North side has been removed.
