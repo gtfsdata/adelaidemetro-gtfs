@@ -16,6 +16,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added tram data for AFL Round 9.
+1) Minor route change for school route 889.
 
-2) Stop 111 Regency Rd - North side has been removed.
+2) Removed expired data from the GTFS.
