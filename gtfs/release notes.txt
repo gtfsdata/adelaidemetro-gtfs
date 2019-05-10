@@ -16,6 +16,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor route change for school route 889.
+1) Stop coordindates have changed for Stop 21 Henley Beach Rd - North side.
 
-2) Removed expired data from the GTFS.
+2) School routes 656 and 663 no longer travel on Coral Sea Rd. They now travel on Henley Beach Rd.
+
+3) Removed some duplicated trips that were displayed for tram routes GLNELG and FESTVL on Sunday 19 May.
