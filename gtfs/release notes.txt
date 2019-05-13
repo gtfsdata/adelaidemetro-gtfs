@@ -16,8 +16,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordindates have changed for Stop 21 Henley Beach Rd - North side.
-
-2) School routes 656 and 663 no longer travel on Coral Sea Rd. They now travel on Henley Beach Rd.
-
-3) Removed some duplicated trips that were displayed for tram routes GLNELG and FESTVL on Sunday 19 May.
+1) Added trip data for AFL Rounds 17 and 18.
