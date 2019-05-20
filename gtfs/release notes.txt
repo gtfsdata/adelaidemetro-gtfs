@@ -6,7 +6,7 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190610 - Queen's Birthday
+20190610 - Queen's Birthday Holiday
 20191007 - Labour Day
 20191225 - Christmas Day
 20191226 - Proclamation Day
@@ -16,4 +16,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added trip data for AFL Rounds 17 and 18.
+1) Minor trip time adjustments have been made to routes AO1 and AO2 for AFL Round 10.
+
+2) Minor adjustments have been made to entries in "stop_desc" in stops.txt
