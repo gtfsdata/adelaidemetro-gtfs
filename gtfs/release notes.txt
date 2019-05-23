@@ -16,6 +16,10 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor trip time adjustments have been made to routes AO1 and AO2 for AFL Round 10.
+1) Minor improvements have been made to shape data in shapes.txt
 
-2) Minor adjustments have been made to entries in "stop_desc" in stops.txt
+2) Fixed issue with route 100C servicing stop 12 Marion Rd on the incorrect side of the road.
+
+3) Fixed issue with route 506 terminating at Stop 52 Nelson Rd on the incorrect side of the road.
+
+4) Coordinates have changed for Stop Wistow Wellington Rd for routes 852 and 852L.
