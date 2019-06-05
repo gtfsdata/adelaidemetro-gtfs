@@ -16,4 +16,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented stop coordinate changes for Oaklands railway station.
+1) Some minor changes to AO/AOX trip times for AFL Round 13 on June 13.
+
+2) Stop coordinates have changed for Stop 14 Portrush Rd - East side.
