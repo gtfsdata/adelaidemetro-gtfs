@@ -16,6 +16,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Some minor changes to AO/AOX trip times for AFL Round 13 on June 13.
+1) Implemented Tonsley Station closure. From last service June 28, Tonsley station will be closed due to the Flinders Link project. Please see www.adelaidemetro.com.au/ for more information.
 
-2) Stop coordinates have changed for Stop 14 Portrush Rd - East side.
+2) Stop coordinates have changed for several bus stops in the Mawson Lakes area.
