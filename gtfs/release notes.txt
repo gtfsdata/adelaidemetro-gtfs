@@ -6,7 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20190610 - Queen's Birthday Holiday
 20191007 - Labour Day
 20191225 - Christmas Day
 20191226 - Proclamation Day
@@ -16,4 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented further King William Road, Unley detours. Please visit www.adelaidemetro.com.au/ for more detailed information.
+1) Implemented further changes for the King William Road, Unley detours. Please visit www.adelaidemetro.com.au/ for more detailed information.
+
+2) Added trip data for AFL Rounds 19 and 20.
