@@ -15,6 +15,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented further changes for the King William Road, Unley detours. Please visit www.adelaidemetro.com.au/ for more detailed information.
+1) Added night closure data for Grange, Outer Harbor and Belair train lines. Please visit www.adelaidemetro.com.au for more detailed information.
 
-2) Added trip data for AFL Rounds 19 and 20.
+2) Improved shape data for route 600.
+
+3) Some minor updates to AO/AOX trip data for AFL Round 14 and 15.
