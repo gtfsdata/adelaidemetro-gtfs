@@ -15,8 +15,14 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added night closure data for Grange, Outer Harbor and Belair train lines. Please visit www.adelaidemetro.com.au for more detailed information.
+1) Added tram line closure data for July. Please see www.adelaidemetro.com.au/ for more detailed information about the three week tram closures in the Adelaide CBD.
 
-2) Improved shape data for route 600.
+2) Removed stop 53A States Road (both sides)
 
-3) Some minor updates to AO/AOX trip data for AFL Round 14 and 15.
+3) Changed coordinates for Stop 53 States Road (both sides)
+
+4) Changed coordinates for Stop 3 Hackney Road (east side)
+
+5) Changed coordinates for Stop 27 Sturt Rd - south side.
+
+6) Minor changes to trip data for route AO1 on Saturday, 29 June.
