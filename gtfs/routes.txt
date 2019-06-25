@@ -335,10 +335,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 835,4,835,Lobethal to Mount Barker,"via Woodside, Oakbank, Verdun & Hahndorf. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/835,006600,ffffff,830F-834-835
 835A,4,835A,Lobethal to Mount Barker,"operates via Onkaparinga Valley Road bypassing Nairne and Riverview Road.",3,http://www.adelaidemetro.com.au/routes/835,006600,ffffff,830F-834-835
 837,4,837,Nairne to Mount Barker,"via Littlehampton. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/837,006600,ffffff,837-841F-842X-T842
-838,4,838,Mount Barker East Clockwise Loop Service,"Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
-838H,4,838H,Mount Barker East Clockwise Loop Service,"Detours onto Victoria Road, Wellington Road, Hurling Drive & Albert Road.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
-839,4,839,Mount Barker West Clockwise Loop Service,"Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/839,006600,ffffff,838-839
-839R,4,839R,Mount Barker West Clockwise Loop Service,"From Stop 64 Hutchinson Street, Mount Barker setting down as required via a combination of routes 838H and 839.",3,http://www.adelaidemetro.com.au/routes/839,006600,ffffff,838-839
+838,4,838,Mount Barker East Clockwise Loop Service,"via Mount Barker Dutton Rd Park 'n' Ride, Bald Hills Rd, Exhibition Rd & Hutchinson St. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
+838H,4,838H,Mount Barker East Clockwise Loop Service,"via Victoria Rd, Hurling Dr and Albert Rd. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/838,006600,ffffff,838-839
+839,4,839,Mount Barker West Clockwise Loop Service,"via Hutchinson St, Hurling Dr and Dumas St. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/839,006600,ffffff,838-839
+839R,4,839R,Mount Barker West Clockwise Loop Service,"from Mount Barker Dutton Rd Park 'n' Ride setting down as required via a combination of routes 838H and 839. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/839,006600,ffffff,838-839
 840X,4,840X,Mount Barker to City,"via South Eastern Freeway. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/840X,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 841F,4,841F,Nairne to City,"via Woodside, Littlehampton, Mount Barker, Hahndorf & South Eastern Freeway. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/841,006600,ffffff,837-841F-842X-T842
 842X,4,842X,Nairne to City,"via Mount Barker. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/842X,006600,ffffff,837-841F-842X-T842
