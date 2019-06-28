@@ -478,6 +478,7 @@ AOX7,4,AOX7,South Adelaide Footy Club to Adelaide Oval,"via Main South Rd - all 
 AOX9,4,AOX9,Mount Barker to Adelaide Oval,"via South Eastern Freeway - all stops to stop 46 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX9,006600,ffffff,
 B1,5,B1,Belair to City,"Train substitute service. Operates 23 - 30 June, excluding Friday and Saturday.",3,http://www.adelaidemetro.com.au/routes/B1,0033CC,ffffff,B1
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
+BRTN,2,BRTN,Brighton to City,"via Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,
 BTANIC,2,BTANIC,Botanic Gardens to Entertainment Centre,"via North Tce & Port Rd. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/BTANIC,ffa300,000000,GLNELG-BTANIC-FESTVL
 BTGSUB,5,BTGSUB,Botanic Gardens Loop Tram Substitute Service,"From Botanic Gardens to Royal Adelaide Hospital.",3,http://www.adelaidemetro.com.au/routes/BTGSUB,0033CC,ffffff,TRMSUB-FVLSUB-BTGSUB
 C1,5,C1,Golden Grove Interchange to City,"via O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
@@ -554,6 +555,7 @@ N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange t
 N502,5,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,FF8C0D,ffffff,500-501-502-502X-N502
 N541,5,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,FF8C0D,ffffff,540-541-541X-N541
 N542,5,N542,Fairview Park Tea Tree Plaza Interchange,"via Tea Tree Gully.  Set down only as a continuation of route N541.  Operates on request. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N542,FF8C0D,ffffff,542-542X-N542-N541
+N7,4,N7,Tonsley to Woodlands Park,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N7,FFCC00,000000,N7
 N721,4,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS
