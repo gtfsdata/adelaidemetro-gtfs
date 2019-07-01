@@ -15,14 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Further updates have been made to data for the July tram line closure. Specifically, there are special timetables in operation for AFL games.
-
-2) After the initial tram CBD closure, the City South tram stop will remain closed for approx. 1 week (to be confirmed). This has been implemented into our GTFS.
-
-3) During the July tram closure, routes 98A, 98C, 99A and 99C will detour around King William St. This has been implemented into our GTFS.
-
-4) Stop coordinates have changed for Zone E Elizabeth City Centre, Stop 9 Walkerville Tce - South East side and Stop 37 Graves St (both sides).
-
-5) Stop 36 Graves St (both sides) has been removed.
-
-6) Tonsley Trains for AFL Round 15 on 29 June have been cancelled. These have been replaced with N7 sub buses which will connect with Seaford trains at Woodlands Park station. There are also Brighton trains in operation to replace sections of the Seaford line normally serviced by the Tonsley Train.
+1) Stop coordinates have changed for Stop 17 Payneham Road - South East side.
