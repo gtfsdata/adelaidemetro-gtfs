@@ -15,4 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordinates have changed for Stop 17 Payneham Road - South East side.
+1) Implemented changes to detours for route 200, 200B, 200C, 206, 208, 208B, 208N.
+
+2) Added additional trips for Tonsley train for AFL Rounds 16 and 17.
