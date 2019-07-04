@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented changes to detours for route 200, 200B, 200C, 206, 208, 208B, 208N.
+1) Minor updates to detours for routes 98A, 98C, 99A and 99C.
 
-2) Added additional trips for Tonsley train for AFL Rounds 16 and 17.
+2) Route T721 now services Stop 43 Old South Road (both sides).
