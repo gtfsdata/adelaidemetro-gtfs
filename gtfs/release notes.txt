@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor updates to detours for routes 98A, 98C, 99A and 99C.
+1) Fixed issue with Tonsley trips that operate on AFL game days.
 
-2) Route T721 now services Stop 43 Old South Road (both sides).
+2) Added AO/AOX trip times for AFL Rounds 21 and 22.
