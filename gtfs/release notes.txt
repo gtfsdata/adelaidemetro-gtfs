@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Fixed issue with Tonsley trips that operate on AFL game days.
+1) Amended entries in calendar.txt and calendar_dates.txt to simplify the validity of trip data.
 
-2) Added AO/AOX trip times for AFL Rounds 21 and 22.
+2) Stop G3 Wakefield St - North side is closed until August 2020 due to building works. Routes 170, 171 and 172 will now service Stop G2 Wakefield St - North side instead.
