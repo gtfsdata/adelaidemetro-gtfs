@@ -374,7 +374,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 883,41,883,Aldgate to Mitcham Girls High School,"School Service. Via Stirling, Urrbrae & Kingswood.",3,http://www.adelaidemetro.com.au/routes/883,006600,ffffff,
 884,41,884,Urrbrae High School to Aldgate,"School Service. Via Myrtle Bank & Stirling.",3,http://www.adelaidemetro.com.au/routes/884,006600,ffffff,
 885,41,885,Aldgate to Pembroke School,"School Service. Via Stirling, Glen Osmond, Glenunga, Toorak Gardens & Norwood.",3,http://www.adelaidemetro.com.au/routes/885,006600,ffffff,
-886,41,886,Mount Barker to Annesley College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling, Urrbrae, Kingswood, Clarence Park & Wayville.",3,http://www.adelaidemetro.com.au/routes/886,006600,ffffff,
+886,41,886,Mount Barker to Cabra Dominican College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling, Urrbrae, Kingswood & Clarence Park.",3,http://www.adelaidemetro.com.au/routes/886,006600,ffffff,
 887,41,887,Mount Barker to Mercedes College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/887,006600,ffffff,
 888,41,888,Aldgate to Concordia College,"School Service. Via Stirling & Myrtle Bank.",3,http://www.adelaidemetro.com.au/routes/888,006600,ffffff,
 889,41,889,Hutchinson St to Waldorf School,"School Service. Via Exhibition Rd & Wellington Rd.",3,http://www.adelaidemetro.com.au/routes/889,006600,ffffff,
