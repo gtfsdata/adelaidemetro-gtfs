@@ -15,6 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Minor improvements to shape data for routes 208N and 619.
-
-2) Route 886 has been changed to no longer service Annesley College. The bus now terminates and begins its trip at Cabra College. There have been some trip time adjustments as well.
+1) Added stop F1 Wakefield St - North side to routes 200, 200B and 200C. This only applies during the CBD tram closure.
