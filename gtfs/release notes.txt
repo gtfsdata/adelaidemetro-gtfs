@@ -15,4 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added stop F1 Wakefield St - North side to routes 200, 200B and 200C. This only applies during the CBD tram closure.
+1) Some changes to AO trip data for AFL Round 18 on July 19.
+
+2) On Saturday, July 20 there will be detours for Eastbound traffic on North Tce, affecting routes 287, 281, 281K, BTGSUB and TRMSUB. Detours are from 6am - 6pm. The GTFS has been updated to accomodate the detours. More details can be found here: https://adelaidemetro.com.au/Announcements/Service-Updates/North-Terrace-closed-between-West-Terrace-and-King-William-St-Eastbound-only

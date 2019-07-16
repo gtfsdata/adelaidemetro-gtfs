@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Adelaide Metro,http://www.adelaidemetro.com.au/,EN,20190711,20190927,891
+Adelaide Metro,http://www.adelaidemetro.com.au/,EN,20190716,20190927,892
