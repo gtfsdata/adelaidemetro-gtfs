@@ -15,8 +15,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented trip data for routes 21W and 22W for the Royal Adelaide Show.
+1) Updates to school route 482. School route now travels via Mawson Lakes Blvd, Montague Rd and Bridge Rd when traveling to Roma Mitchell Secondary School. On the reverse, the route travels express from Roma Mitchell to Stop 37A Montague Rd.
 
-2) Coordinates have changed for Stops Stop 71 Fordingbridge Rd - South side and Stop 5 Unley Road - West side.
+2) Changes to Tram timetables on July 27 and August 3.
 
-3) The GTFS calendar files have been extended to November 30, 2019. This includes implementing exception dates for school holidays and the Labour Day public holiday on 7 October.
+3) Tram timetables have been added for AFL Rounds 21 and 22.

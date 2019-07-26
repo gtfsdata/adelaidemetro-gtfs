@@ -480,13 +480,11 @@ AOX7,4,AOX7,South Adelaide Footy Club to Adelaide Oval,"via Main South Rd - all 
 AOX9,4,AOX9,Mount Barker to Adelaide Oval,"via South Eastern Freeway - all stops to stop 46 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AOX9,006600,ffffff,
 BEL,2,BEL,Belair to City,"via Blackwood, Torrens Park, Mitcham & Goodwood.",2,http://www.adelaidemetro.com.au/routes/bel,6BC04B,ffffff,BEL
 BTANIC,2,BTANIC,Botanic Gardens to Entertainment Centre,"via North Tce & Port Rd. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/BTANIC,ffa300,000000,GLNELG-BTANIC-FESTVL
-BTGSUB,5,BTGSUB,Botanic Gardens Loop Tram Substitute Service,"From Botanic Gardens to Royal Adelaide Hospital. Operates July 7 to July 23.",3,http://www.adelaidemetro.com.au/routes/BTGSUB,0033CC,ffffff,TRMSUB-FVLSUB-BTGSUB
 C1,5,C1,Golden Grove Interchange to City,"via O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 C1X,5,C1X,Golden Grove Interchange and Paradise Interchange to City,"via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C1X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 C2,5,C2,Greenwith to City,"via Golden Grove Interchange & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 C2X,5,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Limited stop & express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 FESTVL,2,FESTVL,Glenelg to Festival Plaza,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St & King William Rd. Service operates weekends & Adelaide Oval special event days only.",0,http://www.adelaidemetro.com.au/routes/FESTVL,0072ce,ffffff,GLNELG-BTANIC-FESTVL
-FVLSUB,5,FVLSUB,Festival Plaza Tram Substitute Service,"From South Tce to Festival Plaza. Operates July 7 to July 23.",3,http://www.adelaidemetro.com.au/routes/FVLSUB,0033CC,ffffff,TRMSUB-FVLSUB-BTGSUB
 G10,5,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10A,5,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10B,5,G10B,Blair Athol to Bedford Park,"Terminates at stop 26 Main South Road.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
@@ -569,7 +567,6 @@ T842,4,T842,Nairne to City,"via Mount Barker.  Limited stop service. Service ope
 T843,4,T843,Mount Barker to City,"via Hahndorf and South Eastern Freeway.  Limited stop service. Operates Saturday, Sunday and Public Holidays only.",3,http://www.adelaidemetro.com.au/routes/T843,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 T863,4,T863,Aldgate to City,"via Stirling and Crafers. Limited stop service. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/T863,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 TONS,2,TONS,Covelly Park to City,"via Goodwood. Service operates Monday to Friday.",2,http://www.adelaidemetro.com.au/routes/tons,FF8030,ffffff,SEAFRD-NOAR-TONS
-TRMSUB,5,TRMSUB,Glenelg Tram Substitute Service,"From South Tce to Entertainment Centre. Operates July 7 to July 23.",3,http://www.adelaidemetro.com.au/routes/TRMSUB,0033CC,ffffff,TRMSUB-FVLSUB-BTGSUB
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W90M,5,W90M,Marion Centre Interchange / Paradise Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0033CC,ffffff,W90-W91
