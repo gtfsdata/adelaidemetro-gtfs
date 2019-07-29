@@ -15,8 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updates to school route 482. School route now travels via Mawson Lakes Blvd, Montague Rd and Bridge Rd when traveling to Roma Mitchell Secondary School. On the reverse, the route travels express from Roma Mitchell to Stop 37A Montague Rd.
+1) Minor updates to tram trips operating on August 10.
 
-2) Changes to Tram timetables on July 27 and August 3.
-
-3) Tram timetables have been added for AFL Rounds 21 and 22.
+2) Removed Stop Y2 Pulteney St from GTFS.
