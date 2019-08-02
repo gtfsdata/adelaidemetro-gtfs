@@ -15,8 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) City South tram stop will be open from 31 July.
-
-2) Implemented AO route trip data for AFL Round 23.
-
-3) Stops 55, 57, 58 Strathalbyn Rd (all sides) have had their coordinates changed.
+1) Updated coordinates for Stop 94 Alawoona Road.
