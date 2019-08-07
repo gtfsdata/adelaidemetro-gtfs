@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updated coordinates for City South tram stop.
+1) Improvements made to coordinates for bus stops located on Old Coach Road.
 
-2) Some minor changes to AO trip data for AFL Round 21.
+2) Improvements made to shape data for various routes.
