@@ -15,6 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Improvements made to coordinates for bus stops located on Old Coach Road.
-
-2) Improvements made to shape data for various routes.
+1) Added train data for Royal Adelaide Show. This includes route SHOWC and express Seaford trains servicing Adelaide Showgrounds Station during the Royal Adelaide Show.
