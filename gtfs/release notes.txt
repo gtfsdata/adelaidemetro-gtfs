@@ -1,0 +1,20 @@
+Adelaide Metro GTFS Release Notes
+
+The following is a list of changes and upcoming events:
+
+
+Upcoming Public Holidays:
+
+
+20191007 - Labour Day
+20191225 - Christmas Day
+20191226 - Proclamation Day
+20200101 - New Year's Day
+
+
+General Amendments:
+
+
+1) A single trip for route 566 has been added on Sunday mornings departing from Golden Grove Village.
+
+2) Changes have been made to tram timetables for the City to Bay event on 15th September.
