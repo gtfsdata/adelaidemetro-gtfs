@@ -1,0 +1,31 @@
+Adelaide Metro GTFS Release Notes
+
+The following is a list of changes and upcoming events:
+
+
+Upcoming Public Holidays:
+
+
+20191225 - Christmas Day
+20191226 - Proclamation Day
+20200101 - New Year's Day
+20200127 - Australia Day Public Holiday
+20200309 - Adelaide Cup
+
+
+General Amendments:
+
+
+1) Implemented reduced Festive Season timetables. More information can be found here: https://www.adelaidemetro.com.au/Announcements/Service-Updates/Reduced-bus-and-tram-services-during-the-festive-season
+
+2) Added timetables for New Year's Eve (except for Tram timetables which will be uploaded soon). More information can be found here: https://www.adelaidemetro.com.au/Announcements/Service-Updates/Travel-FREE-on-New-Year-s-Eve-2019
+
+3) Added AO/AOX trip data for a BBL match happening at Adelaide Oval on 23 December.
+
+4) Implemented special tram timetable for Friday, December 20. Trams will service Morphettville Racecourse for the Twilight Races on this day.
+
+5) Trams operating on Saturday, December 21 will not service Morphetville Racecourse (there are no races on this day).
+
+
+
+Please note: There will be further amendments to bus data in our GTFS for the Festival Season and New Year's Eve. While the trips have been finalised, there may be some changes to which shapes/stops the trips are associated with.
