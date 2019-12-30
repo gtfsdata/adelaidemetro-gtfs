@@ -6,8 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20191225 - Christmas Day
-20191226 - Proclamation Day
 20200101 - New Year's Day
 20200127 - Australia Day Public Holiday
 20200309 - Adelaide Cup
@@ -16,4 +14,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Improvements have been made to the bus trip data for New Year's Eve.
+1) Implemented a change for school route 878. Route now travels express along the South Eastern Freeway between Stirling and Littlehampton.
+
+2) There are changes to tram timetables on January 19 due to the Tour Down Under event.
