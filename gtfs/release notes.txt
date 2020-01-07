@@ -13,4 +13,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Removed old/expired data from the GTFS feed.
+1) There will be night closures on the Gawler train lines from 13-25 January. This has been reflected in our GTFS (along with GA1 sub buses).
+
+2) There will be night closures on the Grange and Outer Harbor train lines from 17-18 January. This has been reflected in our GTFS (along with G1 and H1 sub buses).
