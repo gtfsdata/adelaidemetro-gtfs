@@ -13,6 +13,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented detours for route G10 on 20th January. Please visit this webpage for more detailed information: https://adelaidemetro.com.au/Announcements/Service-Updates/G10-detouring-for-the-TourRIFIC-Prospect-Street-Party
-
-2) Implemented AO/AOX services for BBL matches on 22nd January and 26th January at Adelaide Oval.
+1) Implemented tram timetable changes for January 24th and January 25th.
