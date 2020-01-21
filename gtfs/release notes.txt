@@ -13,6 +13,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented tram timetable changes for January 26th.
-
-2) Fixed issue where 721F, 722F and 723F buses were not shown as setting down only at stops along West Tce when traveling away from the city.
+1) Implemented minor changes to school route 481.
