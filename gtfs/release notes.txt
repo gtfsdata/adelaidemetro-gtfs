@@ -13,4 +13,12 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented minor changes to school route 481.
+1) Implemented minor changes to school route 873.
+
+2) Added AO/AOX trip data for T20 match on 2nd February.
+
+3) Special tram timetables implemented for 5th February.
+
+4) Coordinates changed for Stop 11 Anzac Highway - South side.
+
+5) Coordinates changed for Stop 48 Sunnymeade Dr - South side.
