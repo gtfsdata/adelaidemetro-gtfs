@@ -6,19 +6,15 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20200127 - Australia Day Public Holiday
 20200309 - Adelaide Cup
+20200410 - Good Friday
+20200413 - Easter Monday
+20200608 - Queen's Birthday
 
 
 General Amendments:
 
 
-1) Implemented minor changes to school route 873.
+1) Changes have been made to the special tram timetables on 5th February.
 
-2) Added AO/AOX trip data for T20 match on 2nd February.
-
-3) Special tram timetables implemented for 5th February.
-
-4) Coordinates changed for Stop 11 Anzac Highway - South side.
-
-5) Coordinates changed for Stop 48 Sunnymeade Dr - South side.
+2) Extended calendar validty to July 2020.
