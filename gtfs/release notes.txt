@@ -15,4 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stops 50 and 51 Milne Road (on route 203 and 209F) have been renumbered to Stop 50A and 51A.
+1) Added AO/AOX trip data for the BBL Finals match at Adelaide Oval on February 1st.
+
+2) Some minor adjustments to AO2 trip times for February 2nd.
