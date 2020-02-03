@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trip data for the BBL Finals match at Adelaide Oval on February 1st.
+1) Adjustments have been made to timetables for trams operating on February 5th.
 
-2) Some minor adjustments to AO2 trip times for February 2nd.
+2) Routes N1, N502, N864 and N541 now service Stop E1 Currie St.
