@@ -15,6 +15,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Adjustments have been made to timetables for trams operating on February 5th.
+1) Implemented detours for route 506 at Valley View.
 
-2) Routes N1, N502, N864 and N541 now service Stop E1 Currie St.
+2) Implemented special tram timetables from 14 February to 14 March, including a new ADLOOP tram route.
