@@ -15,6 +15,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented detours for route 506 at Valley View.
+1) Implemented additional Friday, Saturday and Sunday bus trips that will operate during the Fringe and Superloop Adelaide 500 events.
 
-2) Implemented special tram timetables from 14 February to 14 March, including a new ADLOOP tram route.
+2) 506 detours now have a temporary stop located on Wright Rd.
+
+3) Implemented School Stop for Cabra College on Cross Road.
