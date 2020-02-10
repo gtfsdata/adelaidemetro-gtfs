@@ -15,8 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented additional Friday, Saturday and Sunday bus trips that will operate during the Fringe and Superloop Adelaide 500 events.
-
-2) 506 detours now have a temporary stop located on Wright Rd.
-
-3) Implemented School Stop for Cabra College on Cross Road.
+1) Implemented Grange partial closure trips into the GTFS. Please visit this URL for more detailed information: https://www.adelaidemetro.com.au/Announcements/Service-Updates/Partial-Grange-rail-line-closure-Tuesday-11-February-to-Sunday-16-February
