@@ -14,5 +14,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-
-1) Implemented Grange partial closure trips into the GTFS. Please visit this URL for more detailed information: https://www.adelaidemetro.com.au/Announcements/Service-Updates/Partial-Grange-rail-line-closure-Tuesday-11-February-to-Sunday-16-February
+1) Implemented road closures for the Superloop Adelaide 500 (Sat 15th February - Sunday 23rd February).
