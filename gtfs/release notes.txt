@@ -14,4 +14,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented road closures for the Superloop Adelaide 500 (Sat 15th February - Sunday 23rd February).
+1) Implemented AO/AOX trips for the Queen concert at Adelaide Oval on 26 February
+
+2) Minor updates to route 493.
+
+3) Removed duplicated 540 and 544 trips that are opertaing on  22 and 23 February.
