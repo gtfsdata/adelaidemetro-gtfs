@@ -14,8 +14,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented AO/AOX trips for the Queen concert at Adelaide Oval on 26 February
-
-2) Minor updates to route 493.
-
-3) Removed duplicated 540 and 544 trips that are opertaing on  22 and 23 February.
+1) Updated coordinates for stops along Military Road (primarily in the Semaphore area).
