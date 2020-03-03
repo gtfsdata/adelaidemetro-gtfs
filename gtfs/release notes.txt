@@ -14,6 +14,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Stop 28 Main South Road - East side has reopened.
-
-2) Added WOMAD route. Route operates 6-9 March 2020.
+1) Added AO/AOX trip data for the first three rounds of AFL at Adelaide Oval.
