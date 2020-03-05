@@ -14,4 +14,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added AO/AOX trip data for the first three rounds of AFL at Adelaide Oval.
+1) Added additional train trips that will operate on AFL game days at Adelaide Oval. Only Rounds 1-3 have been included so far.
+
+2) Implemented train closures (including sub bus data) for 6th March.
