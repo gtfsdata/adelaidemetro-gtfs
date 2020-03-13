@@ -13,19 +13,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added additional tram trips that will operate on AFL game days at Adelaide Oval. Only Rounds 1-3 have been included so far.
-
-2) Implemented train closures (including sub bus data) for Gawler and Seaford closures.
-		
-	Gawler closure takes place on these dates:
-
-		•	Monday 16 – Friday 20 March, 
-		•	Sunday 22 March – Friday 27 March, 
-		•	Sunday 29 March – Friday 3 April, 
-		•	Sunday 5 – Thursday 9 April  
-
-	Seaford closure takes place on Saturday 28 March
-
-3) Added stop 42 Mt Barker Rd to route 865 heading (was missing for trips heading towards the city).
-
-4) We have changed the way we display our block_IDs in the GTFS. It now reflects operational data.
+1) Added Seaford closure information for Sunday, 29 March (including sub bus data).
