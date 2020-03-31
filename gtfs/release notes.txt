@@ -8,9 +8,14 @@ Upcoming Public Holidays:
 
 20200410 - Good Friday
 20200413 - Easter Monday
+20200425 - ANZAC Day
 20200608 - Queen's Birthday
 
 
 General Amendments:
 
-1) Added Seaford closure information for Sunday, 29 March (including sub bus data).
+1) Removed data that has expired.
+
+2) Removed AO/AOX route data as the AFL season has been postponed until further notice due to COVID-19.
+
+3) Sunday/public holiday timetables will operate on 25th April.
