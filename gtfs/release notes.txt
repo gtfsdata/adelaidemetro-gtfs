@@ -15,10 +15,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) After Midnight (route N***) routes have been removed from the GTFS until further notice.
-
-2) Routes 98A, 98C, 99A and 99C will no longer be in service after Saturday, 4th April.
-
-3) Tram routes will no longer service the Morphetville Racecourse tram stop until further notice.
-
-4) J1X will no longer be in service after Friday, 3rd April.
+1) Implemented closures for the Seaford and Gawler train lines.
