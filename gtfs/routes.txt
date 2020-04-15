@@ -368,7 +368,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 878,41,878,Nairne to Heathfield High School,"School Service. Via Littlehampton & Hahndorf.",3,http://www.adelaidemetro.com.au/routes/878,006600,ffffff,
 879,41,879,Woodside to Heathfield High School,"School Service. Via Oakbank, Balhannah, Bridgewater & Aldgate. On Tuesdays, route will travel from Heathfield High School to Lobethal.",3,http://www.adelaidemetro.com.au/routes/879,006600,ffffff,
 880,41,880,Balhannah to Cornerstone College,"School Service. Via Oakbank, Woodside, Nairne & Littlehampton.",3,http://www.adelaidemetro.com.au/routes/880,006600,ffffff,
-881,41,881,Stirling to Cornerstone College,"School Service. Via Aldgate, Bridgewater, Verdun Junction, Hahndorf & Mt Barker.",3,http://www.adelaidemetro.com.au/routes/881,006600,ffffff,
+881,41,881,Crafers to Cornerstone College,"School Service. Via Stirling, Aldgate, Bridgewater, Verdun Junction, Hahndorf & Mt Barker.",3,http://www.adelaidemetro.com.au/routes/881,006600,ffffff,
 882,41,882,Mt Barker to Concordia College,"School Service. Via Hahndorf, Bridgewater & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/882,006600,ffffff,
 883,41,883,Aldgate to Mitcham Girls High School,"School Service. Via Stirling, Urrbrae & Kingswood.",3,http://www.adelaidemetro.com.au/routes/883,006600,ffffff,
 884,41,884,Urrbrae High School to Aldgate,"School Service. Via Myrtle Bank & Stirling.",3,http://www.adelaidemetro.com.au/routes/884,006600,ffffff,
@@ -504,8 +504,7 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44C,5,M44C,Marion Centre Interchange to City,"Terminates at Stop H1 Grenfell St, city. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-N3,4,N3,Seaford to Brighton,"Train substitute limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,N3-N4
-N4,4,N4,Seaford to Brighton,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N3-N4
+N4,4,N4,Seaford to Brighton,"Train substitute service. Operates April 20-23 only.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N4
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA

@@ -6,8 +6,6 @@ The following is a list of changes and upcoming events:
 Upcoming Public Holidays:
 
 
-20200410 - Good Friday
-20200413 - Easter Monday
 20200425 - ANZAC Day
 20200608 - Queen's Birthday
 
@@ -15,4 +13,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updated trip block information for school holidays.
+1) Implemented route change for school bus 881.
+
+2) Implemented time changes for school bus 772.
+
+3) Implemented Seaford train closures for April 20-23.
