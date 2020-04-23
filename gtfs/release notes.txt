@@ -13,8 +13,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented route change for school bus 881.
-
-2) Implemented time changes for school bus 772.
-
-3) Implemented Seaford train closures for April 20-23.
+1) Added a new temporary stop on Wright Road for the 506 route.
