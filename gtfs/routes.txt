@@ -463,7 +463,7 @@ G22X,5,G22X,Aberfoyle Park to City,"Limited stop & express service. Operates Mon
 G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
 G40,5,G40,Golden Grove Interchange to Flinders University,"via O-Bahn, city & Goodwood Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"via city & O-Bahn. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
-GA1,4,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GA1-GA2-GA3
+GA1,4,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GA1
 GA2,4,GA2,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GA1-GA2-GA3
 GA3,4,GA3,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA3,7030A0,ffffff,GA1-GA2-GA3
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS
@@ -504,7 +504,6 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44C,5,M44C,Marion Centre Interchange to City,"Terminates at Stop H1 Grenfell St, city. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-N4,4,N4,Seaford to Brighton,"Train substitute service. Operates April 20-23 only.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N4
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
