@@ -12,4 +12,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented Gawler train line closure that will be taking place April 27 - July 8.
+1) Updated coordinates of Stop 69 Roy Tce - East side
+
+2) Updated coordiantes of Stops 50, 51 and 52 Sherriffs Rd - South side
+
+3) Extended feed validity to September 2020.
