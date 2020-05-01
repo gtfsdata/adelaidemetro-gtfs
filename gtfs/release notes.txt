@@ -5,15 +5,12 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-20200425 - ANZAC Day
 20200608 - Queen's Birthday
 
 
 General Amendments:
 
 
-1) Updated coordinates of Stop 69 Roy Tce - East side
+1) Implemented Seaford rail closures for May 9-10 and May 23-24.
 
-2) Updated coordiantes of Stops 50, 51 and 52 Sherriffs Rd - South side
-
-3) Extended feed validity to September 2020.
+2) Implemented Tram timetable changes for May 8-10
