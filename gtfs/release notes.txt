@@ -11,6 +11,10 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented Seaford rail closures for May 9-10 and May 23-24.
+1) Corrected route path of school bus 776.
 
-2) Implemented Tram timetable changes for May 8-10
+2) Amended coordinates of some stops along Grand Blvd, Seaford Rise.
+
+3) Removed Stop 31 Main North Rd - West side from school bus 481.
+
+4) Some weekday trips have had daytype changes due to operational reasons.
