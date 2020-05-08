@@ -11,10 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Corrected route path of school bus 776.
-
-2) Amended coordinates of some stops along Grand Blvd, Seaford Rise.
-
-3) Removed Stop 31 Main North Rd - West side from school bus 481.
-
-4) Some weekday trips have had daytype changes due to operational reasons.
+1) Implemented various train timetable changes. More information is available at this link: https://adelaidemetro.com.au/Announcements/Service-Updates/Reduced-train-services-on-all-lines-except-Seaford-Tonsley
