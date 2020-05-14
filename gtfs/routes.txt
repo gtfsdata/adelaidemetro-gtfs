@@ -505,8 +505,8 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44C,5,M44C,Marion Centre Interchange to City,"Terminates at Stop H1 Grenfell St, city. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-N3,4,N3,Seaford to Brighton,"Train substitute limited stop service. Operates Sunday 10 May and 24 May only.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,N3-N4
-N4,4,N4,Seaford to Brighton,"Train substitute service. Operates 9-10 May and 23-24 May only.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N3-N4
+N3,4,N3,Seaford to Brighton,"Train substitute limited stop service. Operates Sunday, 24 May only.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,N3-N4
+N4,4,N4,Seaford to Brighton,"Train substitute service. Operates 23-24 May only.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,N3-N4
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA

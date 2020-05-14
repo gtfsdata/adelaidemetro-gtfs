@@ -11,4 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented further train timetable changes. Including sub bus data. More information is available at this link: https://adelaidemetro.com.au/Announcements/Service-Updates/Reduced-train-services-on-all-lines-except-Seaford-Tonsley
+1) Extended validity of train closure timetables. More information is available at this link: https://adelaidemetro.com.au/Announcements/Service-Updates/Reduced-train-services-on-all-lines-except-Seaford-Tonsley
