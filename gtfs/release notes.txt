@@ -11,6 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Train services to return to normal from Thursday, 21 May. MAWSUB route will continue to operate until Friday, 22 May to assist with social distancing measures.
-
-2) Some additional changes to MAWSUB and G1 routes.
+1) Removed expired data from feed.
