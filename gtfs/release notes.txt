@@ -11,4 +11,10 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Removed expired data from feed.
+1) Implemented Gawler train weekend closures.
+
+2) Implemented Outer Harbor and Grange weekend closures.
+
+3) Stop coordintes have changed for Stop 16 Hampstead Road - west side
+
+4) Stop coordintes have changed for Stop 84A Robinson Rd - South side

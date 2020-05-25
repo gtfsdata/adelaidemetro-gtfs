@@ -465,11 +465,13 @@ G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Ro
 G40,5,G40,Golden Grove Interchange to Flinders University,"via O-Bahn, city & Goodwood Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"via city & O-Bahn. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
 GA1,4,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-ML1-GA1
+GA2,4,GA2,City to Gawler,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GA1-GA2
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-ML1-GA1
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-ML1-GA1
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 GLNELG,2,GLNELG,Glenelg to Royal Adelaide Hospital,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St, North Tce & Port Rd. Limited peak trams service the Entertainment Centre. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/GLNELG,CB2C30,ffffff,GLNELG-BTANIC-FESTVL-ADLOOP
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
+H1,5,H1,Outer Harbor to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/H1,0033CC,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 H20,5,H20,Glenelg Interchange to Paradise Interchange,"via St Bernards Road, The Parade, City, Henley Beach Road & Marion Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/H20,0033CC,ffffff,H20-H21-580
 H20C,5,H20C,Glenelg Interchange/Paradise Interchange to City,"Terminates in the City.",3,http://www.adelaidemetro.com.au/routes/H20,0033CC,ffffff,H20-H21-580
 H20R,5,H20R,Paradise Interchange to Richmond,"Terminates at stop 8G Marion Road, Richmond.",3,http://www.adelaidemetro.com.au/routes/H20,0033CC,ffffff,H20-H21-580
@@ -503,9 +505,6 @@ J8,5,J8,West Lakes Centre Interchange to Marion Centre Interchange,"via Torrens 
 M44,5,M44,Marion Centre Interchange to Golden Grove Interchange,"via City & O-Bahn. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44C,5,M44C,Marion Centre Interchange to City,"Terminates at Stop H1 Grenfell St, city. Service operates Monday to Friday.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
 M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates at Tea Tree Plaza Interchange.",3,http://www.adelaidemetro.com.au/routes/M44,FF8C0D,ffffff,544-544X-M44
-MAWSUB,5,MAWSUB,City to Mawson Lakes,"Mawson Lakes Shuttle service.",3,http://www.adelaidemetro.com.au/routes/MAWSUB,990000,ffffff,GAWC-GAW-SALIS-MAWSUB-GA1
-N3,4,N3,Seaford to Brighton,"Train substitute limited stop service. Operates Sunday, 24 May only.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,SEAFRD-NOAR-TONS-BRTN-N3-N4
-N4,4,N4,Seaford to Brighton,"Train substitute service. Operates 23-24 May only.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,SEAFRD-NOAR-TONS-BRTN-N3-N4
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN-N3-N4
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA
