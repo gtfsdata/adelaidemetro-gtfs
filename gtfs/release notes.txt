@@ -11,10 +11,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented Gawler train weekend closures.
+1) Updated stop coordinates for all stops at Flinders University.
 
-2) Implemented Outer Harbor and Grange weekend closures.
-
-3) Stop coordintes have changed for Stop 16 Hampstead Road - west side
-
-4) Stop coordintes have changed for Stop 84A Robinson Rd - South side
+2) Updated shape path of G40 and G40M to reflect actual roads.
