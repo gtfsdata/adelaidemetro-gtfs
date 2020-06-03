@@ -11,6 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Updated stop coordinates for Stop 22 Churchill Road - West side, Stop 42B Kimba Rd and Stop 55 John Rice Ave.
-
-2) Fixed issue with Stop 94 Alawoona Rd. There is now a stop 94 at Munno Para station and a Stop 94 Alawoona Rd near Karri St.
+1) Fixed issue with Gawler closure not appearing correctly for 8th June. Specifically, sub buses were not appearing.
