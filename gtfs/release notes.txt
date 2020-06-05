@@ -11,4 +11,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Fixed issue with Gawler closure not appearing correctly for 8th June. Specifically, sub buses were not appearing.
+1) Made several improvements to stop coordinates in Gawler area.
