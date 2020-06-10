@@ -5,10 +5,10 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-20200608 - Queen's Birthday
+NONE.
 
 
 General Amendments:
 
 
-1) Made several improvements to stop coordinates in Gawler area.
+1) Implemented Gawler train line closures for June weekends. Please visit www.adelaidemetro.com.au/ for more information.
