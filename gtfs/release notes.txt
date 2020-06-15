@@ -11,4 +11,6 @@ NONE.
 General Amendments:
 
 
-1) Implemented Gawler train line closures for June weekends. Please visit www.adelaidemetro.com.au/ for more information.
+1) Stop 23 Mosley St - East side has been removed.
+
+2) Coordinates have changed for Stop 27 Main South Rd - South East side and Stop 88B Dalkeith Rd - South side
