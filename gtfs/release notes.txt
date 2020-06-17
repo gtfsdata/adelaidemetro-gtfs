@@ -11,6 +11,6 @@ NONE.
 General Amendments:
 
 
-1) Stop 23 Mosley St - East side has been removed.
+1) Updates to routes GA1 and GA2.
 
-2) Coordinates have changed for Stop 27 Main South Rd - South East side and Stop 88B Dalkeith Rd - South side
+2) Implemented Gawler rail closure for July school holidays. Please refer to www.adelaidemetro.com.au/ for more detailed information.

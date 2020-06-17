@@ -463,10 +463,11 @@ G22X,5,G22X,Aberfoyle Park to City,"Limited stop & express service. Operates Mon
 G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service.  Operates Monday to Friday peak hours only.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
 G40,5,G40,Golden Grove Interchange to Flinders University,"via O-Bahn, city & Goodwood Rd. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"via city & O-Bahn. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
-GA1,4,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-ML1-GA1
-GA2,4,GA2,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GA1-GA2
-GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-ML1-GA1
-GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-ML1-GA1
+GA1,4,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GA2,4,GA2,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GA3,4,GA3,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA3,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 GLNELG,2,GLNELG,Glenelg to Royal Adelaide Hospital,"via Brighton Rd, Morphett Rd, Marion Rd, South Rd, Greenhill Rd, South Tce, Victoria Sq, King William St, North Tce & Port Rd. Limited peak trams service the Entertainment Centre. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/GLNELG,CB2C30,ffffff,GLNELG-BTANIC-FESTVL-ADLOOP
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/grng,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
@@ -506,7 +507,7 @@ M44T,5,M44T,Marion Centre Interchange to Tea Tree Plaza Interchange,"Terminates 
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN-N3-N4
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
-SALIS,2,SALIS,Salisbury to City,"Limited service operates Monday - Friday.",2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS
+SALIS,2,SALIS,Salisbury to City,"Limited service operates Monday - Friday.",2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,SEAFRD-NOAR-TONS-BRTN-N3-N4
 T228,4,T228,Smithfield Interchange to City,"via Main North Road. Limited service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,7030A0,ffffff,228-228F-228X-T228
 T721,4,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,FFCC00,000000,721-721F-721X-T721-T721X-N721
