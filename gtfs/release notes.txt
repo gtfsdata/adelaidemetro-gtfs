@@ -11,6 +11,4 @@ NONE.
 General Amendments:
 
 
-1) Updates to routes GA1 and GA2.
-
-2) Implemented Gawler rail closure for July school holidays. Please refer to www.adelaidemetro.com.au/ for more detailed information.
+1) Implemented 5th July service changes into the GTFS feed. This includes contractor/agency changes.
