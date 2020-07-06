@@ -11,4 +11,6 @@ NONE.
 General Amendments:
 
 
-1) Implemented 5th July service changes into the GTFS feed. This includes contractor/agency changes.
+1) Implemented 12th July Gawler closure. The entire train line will be closed on thi sday. GA1 and GA2 buses will operate in the train's place.
+
+2) Removed expired trip data.
