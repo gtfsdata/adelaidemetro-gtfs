@@ -11,6 +11,4 @@ NONE.
 General Amendments:
 
 
-1) Changed some stop coordinates on Main South Rd.
-
-2) Routes GA1, GA2 and GA3 have had some modifications made to the stops services in the city.
+1) Implement AO/AOX trips data for AFL Round 8 to be held at Adelaide Oval on 25th and 26th July.
