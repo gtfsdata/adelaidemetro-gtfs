@@ -5,10 +5,27 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-NONE.
+20201005 - Labour Day
+20201225 - Christmas Day
+20201228 - Proclamation Day Holiday
+20210101 - New Year's Day
+20210126 - Australia Day
+20210308 - Adelaide Cup Day
+20210402 - Easter Good Friday
+20210614 - Queen's Birthday
 
 
 General Amendments:
 
 
-1) Implement AO/AOX trips data for AFL Round 8 to be held at Adelaide Oval on 25th and 26th July.
+1) Stop 27A Laffers Dr has been removed from the GTFS.
+
+2) Stop 27A Flinders Dr - West side and East side have been added to the GTFS.
+
+3) Routes 101, 300, 320, 600, 601, 720H and G10 now service Stop 27A Flinders Dr (either side depending on direction of travel). These routes no longer service Stop 27A Laffers Dr, Stop 27 South Rd or Stop 27 Sturt Rd.
+
+4) Added missing trip for route 956. Trip departs Blackwood High School at 15:26 Tuesday - Friday.
+
+5) Removed Stop 133 Just Road from the GTFS.
+
+6) Removed Stop 20 Grange Rd from route 671. The bus is unable to service this stop due to having to turn onto Findon Rd.
