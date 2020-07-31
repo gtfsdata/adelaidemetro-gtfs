@@ -18,6 +18,12 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Several improvements have been made to stop coordinates in the McLaren Vale area.
+1) Implement AO/AOX trips for AFL matches at Adelaide Oval on Monday, 3rd August.
 
-2) Fixed issue with Gawler train services not displaying on Saturday, 25th July.
+2) Implemented Hail N Ride stops for route 462 and 462C.
+
+3) Implemented school stops on Stanford Rd for route 475.
+
+4) Improved stop coordinates for bus stops at Elizabeth Interchange.
+
+5) Improved shape data for buses entering and leaving Elizabeth Interchange 
