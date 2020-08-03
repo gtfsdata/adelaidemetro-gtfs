@@ -383,7 +383,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 894,4,894,Aldgate to Blackwood Station,"via Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894,006600,ffffff,892-893-894
 894H,4,894H,Aldgate to Blackwood Station,"via Heathfield. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/894H,006600,ffffff,892-893-894
 894S,4,894S,Blackwood Station to Stirling,"Terminates at stop 36 Mount Barker Road, Stirling.",3,http://www.adelaidemetro.com.au/routes/894S,006600,ffffff,892-893-894
-894T,4,894T,Aldgate to Blackwood Station,"via Heathfield. Service operates Tuesdays only.",3,http://www.adelaidemetro.com.au/routes/894T,006600,ffffff,892-893-894
 900,5,900,Elizabeth Interchange to Salisbury,"via Virginia. Limited services operate Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/900,7030A0,ffffff,401-403-900
 920,51,920,Banksia Park to Tea Tree Plaza Interchange,"School Service. Via St Agnes.",3,http://www.adelaidemetro.com.au/routes/920,FF8C0D,ffffff,
 921,51,921,Golden Grove Interchange School Loop Service,"School Service. Via Atlantis Dr, The Golden Way, Golden Grove Rd, Target Hill Rd & The Golden Way.",3,http://www.adelaidemetro.com.au/routes/921,FF8C0D,ffffff,

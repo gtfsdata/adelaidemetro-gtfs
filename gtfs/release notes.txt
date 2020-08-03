@@ -18,12 +18,10 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implement AO/AOX trips for AFL matches at Adelaide Oval on Monday, 3rd August.
+1) Implemented AO/AOX trip data for AFL matches at Adelaide Oval on 5th and 8th August.
 
-2) Implemented Hail N Ride stops for route 462 and 462C.
+2) Fixed issue with 273 trip departing 4 Jeffcott St 16:38 to Paradise not displaying on Mondays.
 
-3) Implemented school stops on Stanford Rd for route 475.
+3) Pauls Dr 503 detour has ended. Route has been reverted back to normal.
 
-4) Improved stop coordinates for bus stops at Elizabeth Interchange.
-
-5) Improved shape data for buses entering and leaving Elizabeth Interchange 
+4) Removed route 894T
