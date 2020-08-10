@@ -18,19 +18,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented changes for route 230 and 232. Weekday trips only - weekend trips will be implemented next week. Please see www.adelaidemetro.com.au for more detailed information
+1) Removed old data from GTFS.
 
-2) Implemented 230 and 232 detours for August 8-9, including new shuttle route "SHTLE".
-
-3) The following school bus routes have new timepoints added:
-
-470 AM trip
-471 AM trip
-474 AM trip
-475 AM & PM trips
-476 PM trip
-477 AM & PM trips
-479 AM trip
-481 AM & PM trips
-
-4) Implemented AO/AOX trip data for AFL match at Adelaide Oval on Tuesday, 11 August.
+2) Some minor updates to trip data for routes 230, 232, 190, 195 and 196.
