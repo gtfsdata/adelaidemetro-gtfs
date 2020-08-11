@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Adelaide Metro,http://www.adelaidemetro.com.au/,EN,20200810,20201211,1007
+Adelaide Metro,http://www.adelaidemetro.com.au/,EN,20200811,20201211,1008

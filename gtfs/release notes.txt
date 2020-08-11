@@ -18,6 +18,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Removed old data from GTFS.
-
-2) Some minor updates to trip data for routes 230, 232, 190, 195 and 196.
+2) Further updates to trip data for routes 230, 232, 190, 195 and 196. Weekend trips only. 230 and 232 weekend trips now reflect recent route changes as well. 
