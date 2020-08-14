@@ -18,4 +18,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-2) Further updates to trip data for routes 230, 232, 190, 195 and 196. Weekend trips only. 230 and 232 weekend trips now reflect recent route changes as well. 
+1) Added AO/AOX trip data for AFL matches at Adelaide Oval on August  22-23.
