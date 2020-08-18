@@ -417,7 +417,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 970,51,970,Mitcham Girls High School to Glenelg Interchange,"School Service. Mitcham Girls High School to Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/970,990000,ffffff,
 971,51,971,Mitcham Girls High School to Marion Centre Interchange,"School Service. Via Raglan Avenue, Marion Road, Finniss Street to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/971,990000,ffffff,
 972,51,972,Mitcham Girls High School to St Marys,"School Service.",3,http://www.adelaidemetro.com.au/routes/972,990000,ffffff,
-973,51,973,Pasadena High School to Marion Centre Interchange,"School Service. Pasadena High School to Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/973,990000,ffffff,
+973,51,973,Springbank Secondary College to Marion Centre Interchange,"School Service. Via Daws Rd, Marion Rd and Sturt Rd.",3,http://www.adelaidemetro.com.au/routes/973,990000,ffffff,
 974,51,974,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop E2 Currie Street, city.",3,http://www.adelaidemetro.com.au/routes/974,990000,ffffff,
 975,51,975,Roma Mitchell Secondary College to City,"School Service. Roma Mitchell Secondary College to stop F1 Victoria Square.",3,http://www.adelaidemetro.com.au/routes/975,990000,ffffff,
 976,51,976,Blackwood Interchange to Sacred Heart Middle School,"School Service. Via Shepherds Hill Rd, Sturt Rd, Marion Rd, Westminster College, Daws Rd to Sacred Heart Middle School.",3,http://www.adelaidemetro.com.au/routes/976,990000,ffffff,

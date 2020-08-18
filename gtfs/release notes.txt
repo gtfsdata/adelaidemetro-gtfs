@@ -18,4 +18,16 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trip data for AFL matches at Adelaide Oval on August  22-23.
+1) Fixed stop coordinates for Zone D Noarlunga Centre.
+
+2) Fixed stop coordinates for Stop 79C Peachey Rd (both sides).
+
+3) Fixed route path issue for route 421.
+
+4) Removed references of Pasendena High School from route 973. School name changed to Springbank Secondary College. The GTFS now reflects this.
+
+5) Fixed stop coordinates for Stop 13 South Rd - West side (on routes 230 and 232).
+
+6) Routes 174, 580, H20, H21 & W90 now terminate at Zone G Paradise Interchange. Routes 501, 502, 506, 556 & 557 on the up that terminate at Paradise Interchange now terminate at Zone B.
+
+7) Fixed stop coordinates for Stop D1 King William St - East side.
