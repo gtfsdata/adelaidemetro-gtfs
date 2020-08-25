@@ -18,6 +18,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trip data for AFL match at Adelaide Oval on 29 August.
+1) Stop coordinates have been fixed for Stop 80 Golden Grove Rd - East side.
 
-2) Implemented Belair rail closure for 29-30 August.
+2) Fixed issue where 506 departing Stop C1 Currie St at 14:24 weekdays was not servicing Stop H2 Grenfell St. Trip has been changed to service Stop H2 instead of H1.
