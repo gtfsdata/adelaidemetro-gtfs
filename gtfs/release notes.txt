@@ -18,6 +18,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordinates have been fixed for Stop 80 Golden Grove Rd - East side.
+1) Stop coordinates have been fixed for Stop 12 and 17 Payneham Rd and Stop 29 Clark Tce.
 
-2) Fixed issue where 506 departing Stop C1 Currie St at 14:24 weekdays was not servicing Stop H2 Grenfell St. Trip has been changed to service Stop H2 instead of H1.
+2) Implemented AO/AOX trips data for AFL Matches on 1st, 8th and 12th September.
