@@ -18,4 +18,14 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Amended calendar_dates.txt file with some corrections relating to Gawler train services.
+1) Stop coordinates for Stop 7 Northcote Tce - East side have been changed.
+
+2) Stop coordinates for Parafield Gardens High School stop have changed.
+
+3) Corrected route path of route 470 (AM trip). Bus now travels down Shepherdson Rd and turns onto Whites Rd.
+
+4) Implemented Stop 25 / Zone B Main North Rd - West side. This stop is serviced between 3pm and 6pm weekdays by routes 222, 224, 224F, 228, 228F and 229F.
+
+5) Renamed original Stop 25 Main North Rd - West side to "Zone A".
+
+6) Stop coordinates have changed for stops 78, 77 and school stop on Wellington Rd (both sides of road), Mount Barker.
