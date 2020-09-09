@@ -18,4 +18,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Changes to AO/AOX trip times for AFL match on 12th September at Adelaide Oval.
+1) Implemented AO/AOX trip times for AFL match on 19th September at Adelaide Oval.
+
+2) Implemented Gawler train line closure for school holidays.
+
+3) Fixed issue with calendar file.

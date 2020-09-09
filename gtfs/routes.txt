@@ -496,6 +496,7 @@ G40,5,G40,Golden Grove Interchange to Flinders University,"via O-Bahn, city & Go
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"via city & O-Bahn. Limited stop service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
 GA1,5,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 GA2,5,GA2,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GA3,5,GA3,City to Salisbury,"Train substitute service limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA3,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days including public holidays.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
