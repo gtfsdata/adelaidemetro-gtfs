@@ -18,14 +18,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Fixed issue with route 195F showing timepoint times for Stop 11 Belair Rd instead of Stop 12 Belair Rd. This was only affecting trips traveling away from the city.
-
-2) Implemented detours for Adelaide Marathon on Sunday, 20th September.
-
-3) Route 977 no longer travels through Flinders University. Route instead travels directly to Flinders Medical Centre via Sturt Rd and Main South Rd.
-
-4) The following routes have had updates to their shapes to better reflect the road layout and actual route path: 900, 462, 451, 452, 440.
-
-5) Stop 79D Peachy Rd - East side has been added to routes 452, 461 and 462.
-
-9) The following bus stops have had their coordinates updated: Stop 79B Peachy Rd (both sides), Stop 78B Peachy Rd (both sides), Stop 59 Saints Rd - North side and Stop 74D President Ave - East side. 
+1) Implemented some time changes to trip data for Gawler closure during school holidays.
