@@ -19,3 +19,5 @@ General Amendments:
 
 
 1) Implemented some time changes to trip data for Gawler closure during school holidays.
+
+2) Implemented Outer Harbor, Grange and Belair train line closures for 27th September.
