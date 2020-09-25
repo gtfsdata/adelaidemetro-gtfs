@@ -18,6 +18,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented some time changes to trip data for Gawler closure during school holidays.
+1) Improved stop coordinates for various stops in Crafers and Piccadily suburbs.
 
-2) Implemented Outer Harbor, Grange and Belair train line closures for 27th September.
+2) Stop 26 Main North Rd - West side is not serviced on regular Sundays from first service until 12pm. This has been implemented into the GTFS. The stop is serviced on public holidays.
+
+3) Improved stop coordinates for Stop 62A Diment Rd (both sides), Stop 60 Midway Rd (both sides) and Stop 61 Midway Rd - North West side.
