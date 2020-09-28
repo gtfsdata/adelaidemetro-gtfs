@@ -18,8 +18,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Improved stop coordinates for various stops in Crafers and Piccadily suburbs.
+1) Added AO/AOX trip data for the AFL match at Adelaide Oval on 1st October.
 
-2) Stop 26 Main North Rd - West side is not serviced on regular Sundays from first service until 12pm. This has been implemented into the GTFS. The stop is serviced on public holidays.
-
-3) Improved stop coordinates for Stop 62A Diment Rd (both sides), Stop 60 Midway Rd (both sides) and Stop 61 Midway Rd - North West side.
+2) Fixed issue with SALIS trains incorrectly operating during Gawler rail closure.
