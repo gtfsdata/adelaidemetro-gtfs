@@ -18,6 +18,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Added AO/AOX trip data for the AFL match at Adelaide Oval on 1st October.
+1) Corrected stop coordinates for various stops along Main South Rd and Sturt Rd in Clovelly Park and Bedford Park area.
 
-2) Fixed issue with SALIS trains incorrectly operating during Gawler rail closure.
+2) Updated route descriptions and headers to be more consistant.
+
+3) Some minor time changes have been implemented for route 823.
