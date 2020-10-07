@@ -5,7 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-20201005 - Labour Day
 20201225 - Christmas Day
 20201228 - Proclamation Day Holiday
 20210101 - New Year's Day
@@ -18,8 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Corrected stop coordinates for various stops along Main South Rd and Sturt Rd in Clovelly Park and Bedford Park area.
+1) Corrected stop coordinates for Stop 9 Soxth Ave (both sides).
 
-2) Updated route descriptions and headers to be more consistant.
-
-3) Some minor time changes have been implemented for route 823.
+2) Implemented upcoming Gawler, Grange and Outer Harbor rail closures. Please see www.adelaidemetro.com.au for more information. 
