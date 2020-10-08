@@ -17,6 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Corrected stop coordinates for Stop 9 Soxth Ave (both sides).
+1) Corrected calendar issue that was affecting Grange and Outer Harbor rail closure trip information.
 
-2) Implemented upcoming Gawler, Grange and Outer Harbor rail closures. Please see www.adelaidemetro.com.au for more information. 
+2) Some minor daytype changes have been made to trips due to operational reasons. 
