@@ -17,6 +17,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Corrected calendar issue that was affecting Grange and Outer Harbor rail closure trip information.
-
-2) Some minor daytype changes have been made to trips due to operational reasons. 
+1) Adjustments made to block data.
