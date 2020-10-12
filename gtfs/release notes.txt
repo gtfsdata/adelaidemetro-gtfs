@@ -17,4 +17,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Adjustments made to block data.
+1) Implemented AO/AOX timetables for AFL Semi Final match at Adelaide Oval on 16 October.
