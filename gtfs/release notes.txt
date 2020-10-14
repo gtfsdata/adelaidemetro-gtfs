@@ -17,6 +17,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Grange and Outer Harbor closure is cancelled on 16th October. Normal train services will operate on this evening.
-
-2) Route 879 now departs from Zone E Heahtfield High School.
+1) Implemented AO/AOX trip data for SANFL Grand Final on Sunday, 18th October.
