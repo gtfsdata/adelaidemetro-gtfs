@@ -376,7 +376,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 886,41,886,Mt Barker to Cabra Dominican College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling, Urrbrae, Kingswood & Clarence Park.",3,http://www.adelaidemetro.com.au/routes/886,006600,ffffff,
 887,41,887,Mt Barker to Mercedes College,"School Service. Via Hahndorf, Bridgewater, Aldgate, Stirling & Urrbrae.",3,http://www.adelaidemetro.com.au/routes/887,006600,ffffff,
 888,41,888,Aldgate to Concordia College,"School Service. Via Stirling & Myrtle Bank.",3,http://www.adelaidemetro.com.au/routes/888,006600,ffffff,
-889,41,889,Hutchinson St to Waldorf School,"School Service. Via Exhibition Rd & Wellington Rd.",3,http://www.adelaidemetro.com.au/routes/889,006600,ffffff,
+889,41,889,Waldorf School to City,"School Service. Via Mt Barker, Stirling & Crafers.",3,http://www.adelaidemetro.com.au/routes/889,006600,ffffff,
 890,41,890,Nairne to Oakbank Area School,"School Service. Via Mt Barker & Littlehampton.",3,http://www.adelaidemetro.com.au/routes/890,006600,ffffff,
 892,4,892,Urrbrae to Aldgate,"via Belair Road, Upper Sturt Road & Crafers. Service operates school days only.",3,http://www.adelaidemetro.com.au/routes/892,006600,ffffff,892-893-894
 893,4,893,Aldgate to Blackwood Station,"via Stirling, Crafers, Upper Sturt Road & Belair Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/893,006600,ffffff,892-893-894

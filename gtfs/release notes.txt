@@ -17,4 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented AO/AOX trip data for SANFL Grand Final on Sunday, 18th October.
+1) Stop coordinates have changed for Stop 26 Main North Rd - North West side.
+
+2) Implemented shape data improvements for routes 421 and 411U.
