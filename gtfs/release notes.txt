@@ -17,6 +17,8 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Stop coordinates have changed for Stop 26 Main North Rd - North West side.
+1) Removed expired trip data from feed.
 
-2) Implemented shape data improvements for routes 421 and 411U.
+2) Updates have been made to Sunday trip block data.
+
+3) Some minor improvements to coordinates for Stop 27A Flinders Dr - East side.
