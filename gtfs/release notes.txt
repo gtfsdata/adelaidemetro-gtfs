@@ -17,10 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) There are some changes to tram timetable for 31 October - 1 November and 28 - 29 November due to light pole replacements. These changes have been implemented into the GTFS.
+1) Implemented AO/AOX trips for State of Origin match at Adelaide Oval on 4th November.
 
-2) Some changes to GA1, GA2, GA3 and ML2 sub buses from November 2 have been implemented.
-
-3) Stop 33A Main Rd has been added to route 976.
-
-4) New school stop on Fullarton Rd has been added to route 632.
+2) Updated shape and stopping pattern of route 591C.
