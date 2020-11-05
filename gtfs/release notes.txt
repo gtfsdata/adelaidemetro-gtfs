@@ -17,14 +17,4 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented new school stops on Curtis Rd for routes 471 and 475. 
-
-2) Implemented new school stops on Muriel Dr for route 481.
-
-3) Coordinates have been modified for the following stops:
-
-- Stop 1 Port Rd (both sides)
-- Stop 37 Muriel Dr (East side)
-- Stop 36A Muriel Dr (East side)
-
-4) Fixed trip headsign for early morning 557 trips.
+1) Implemented some changes to Grange and Outer Harbor rail closures. Namely adding full day closures for Saturdays and Sundays between 21 November - 13 December. Weekdays are still only night closures.
