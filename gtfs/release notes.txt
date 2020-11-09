@@ -17,4 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) Implemented some changes to Grange and Outer Harbor rail closures. Namely adding full day closures for Saturdays and Sundays between 21 November - 13 December. Weekdays are still only night closures.
+1) With Birkenhead Bridge now open to public transport, bus stops 41 Nelson St - West side and 42D Semaphore Rd (both sides) have now been put back into routes 150 and 333.
+
+2) Implemented changed tram timetables for 11th November for Rememberance Day.
