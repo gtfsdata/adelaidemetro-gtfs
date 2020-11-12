@@ -17,6 +17,6 @@ Upcoming Public Holidays:
 General Amendments:
 
 
-1) With Birkenhead Bridge now open to public transport, bus stops 41 Nelson St - West side and 42D Semaphore Rd (both sides) have now been put back into routes 150 and 333.
+1) Removed Stops 36A and 36B Beovich Rd (both sides) from the GTFS. These stops no longer exsist.
 
-2) Implemented changed tram timetables for 11th November for Rememberance Day.
+2) Implemented data for Tonsley train line closure happening in November/December.
