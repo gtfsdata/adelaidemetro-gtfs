@@ -16,7 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-
-1) Removed Stops 36A and 36B Beovich Rd (both sides) from the GTFS. These stops no longer exsist.
-
-2) Implemented data for Tonsley train line closure happening in November/December.
+1) General updates have been made to the calendar to remove old/expired data.
