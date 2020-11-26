@@ -16,12 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) N7 now services Stop 17 Adelaide Tce - West side when travelling to Clovelly Park.
-
-2) Stop 42D Semaphore Rd - North side has been removed from the GTFS.
-
-3) Stop 41C Semaphore Rd - North side added to routes N254 and 333.
-
-4) Stop 41 Nelson St - West side added to route N254.
-
-5) Stop coordinates have changed for Stop 5 Harrow Rd - North side
+1) Minor changes to 4 weekday peak time Seaford train trips.
