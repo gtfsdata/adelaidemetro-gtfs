@@ -16,4 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Minor changes to 4 weekday peak time Seaford train trips.
+1) Removed expired trip data and made some modifications to calendar.txt entries.
