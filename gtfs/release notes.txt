@@ -16,4 +16,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Removed expired trip data and made some modifications to calendar.txt entries.
+1) Added new FLNDRS train route. This route replaces the Tonsley train from 28 December. From this day there will also be a new Seaford timetable.
+
+2) Added night rail closures data for 11th December.
+
+3) G30 timetables change during the December/January school holidays.

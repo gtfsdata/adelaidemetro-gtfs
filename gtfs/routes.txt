@@ -453,6 +453,7 @@ C1X,5,C1X,Golden Grove Interchange to City,"via O-Bahn. Express service operates
 C2,5,C2,Greenwith to City,"via Golden Grove Interchange & O-Bahn. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 C2X,5,C2X,Greenwith to City,"Greenwith to City via O-Bahn. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/C2X,FF8C0D,ffffff,J1-J1X-J2-C1-C1X-C2-C2X-163-N1
 FESTVL,3,FESTVL,Glenelg to Festival Plaza,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street & King William Road. Service operates weekends, public holidays & Adelaide Oval special event days only.",0,http://www.adelaidemetro.com.au/routes/FESTVL,0072CE,ffffff,GLNELG-BTANIC-FESTVL
+FLNDRS,2,FLNDRS,Flinders to City,"via Tonsley, Woodlands Park & Goodwood.",2,http://www.adelaidemetro.com.au/routes/flndrs,FF8030,ffffff,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 G1,5,G1,Grange to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/G1,0033CC,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 G10,5,G10,Marion Centre Interchange to Blair Athol,"via Flinders University, Goodwood Road, City & Prospect Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
 G10A,5,G10A,Blair Athol to Colonel Light Gardens,"Terminates at stop 18 Goodwood Rd, Colonel Light Gardens.",3,http://www.adelaidemetro.com.au/routes/G10,990000,ffffff,G10-N10-N21
@@ -520,19 +521,19 @@ N22,5,N22,After Midnight Saturday PM - Sunday AM City to Wattle Park,"via The Pa
 N224,5,N224,After Midnight Saturday PM - Sunday AM Gawler to City,"via Mawson Interchange. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N224,7030A0,ffffff,224-224F-224X-N224
 N254,5,N254,After Midnight Saturday PM - Sunday AM Semaphore to City,"via Arndale Centre Interchange & Hawker Street. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N254,990000,ffffff,253-253X-254-254X-N254
 N262,5,N262,After Midnight Saturday PM - Sunday AM Marion Centre Interchange to City,"via Sturt Road and Brighton Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/N262,990000,ffffff,262-263-265-N262
-N3,8,N3,Brighton to City,"Train substitute limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,SEAFRD-NOAR-TONS-BRTN-N3-N4
+N3,8,N3,Brighton to City,"Train substitute limited stop service.",3,http://www.adelaidemetro.com.au/routes/N3,FFCC00,000000,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 N30,5,N30,After Midnight Saturday PM - Sunday AM West Lakes Centre Interchange to City,"via Military Road & Henley Beach Road. Service operates Saturday PM-Sunday AM",3,http://www.adelaidemetro.com.au/routes/N30,0033CC,ffffff,H30-X30-530-N30
-N4,8,N4,Brighton to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,SEAFRD-NOAR-TONS-BRTN-N3-N4
+N4,8,N4,Brighton to City,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N4,FFCC00,000000,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 N502,5,N502,After Midnight Saturday PM - Sunday AM Salisbury Interchange to City,"via Bridge Road and O-Bahn. Service operates Saturday PM-Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N502,FF8C0D,ffffff,500-501-502-502X-N502
 N541,5,N541,After Midnight Saturday PM - Sunday AM City to Fairview Park,"via O-Bahn, Tea Tree Plaza Interchange & Hancock Rd. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N541,FF8C0D,ffffff,540-541-541X-N541
-N7,8,N7,Clovelly Park to Woodlands Park,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N7,FFCC00,000000,SEAFRD-NOAR-TONS-FLNDRS-N7
+N7,8,N7,Clovelly Park to Woodlands Park,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/N7,FFCC00,000000,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 N721,8,N721,After Midnight Saturday PM - Sunday AM Moana to City,"via Marion Centre Interchange. Service operates After Midnight Saturday PM - Sunday AM.",3,http://www.adelaidemetro.com.au/routes/N721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hahndorf, Bridgewater, Stirling, Crafers and Glen Osmond Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/N864,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
-NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-TONS-FLNDRS-N7
+NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 SALIS,2,SALIS,Salisbury to City,"Service operates Monday-Friday.",2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
-SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,SEAFRD-NOAR-TONS-FLNDRS-N7
+SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 T228,5,T228,Smithfield Interchange to City,"via Main North Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,7030A0,ffffff,228-228F-228X-T228
 T721,8,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 T721X,8,T721X,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service. Service operates Monday-Friday. T721X buses operate express between stop 48 Main South Road to stop B1 Grote Street, City. No pick up or set down.",3,http://www.adelaidemetro.com.au/routes/T721X,FFCC00,000000,721-721F-721X-T721-T721X-N721
@@ -541,7 +542,6 @@ T840,4,T840,Mt Barker to City,"via South South Eastern Freeway. Limited stop ser
 T842,4,T842,Nairne to City,"via Mt Barker. Limited stop service. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T842,006600,ffffff,837-841F-842X-T842
 T843,4,T843,Mt Barker to City,"via Hahndorf and South Eastern Freeway. Limited stop service. Service operates Saturday, Sunday and Public Holidays only.",3,http://www.adelaidemetro.com.au/routes/T843,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 T863,4,T863,Aldgate to City,"via Stirling and Crafers. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T863,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
-TONS,2,TONS,Clovelly Park to City,"via Goodwood. Service operates Monday-Friday.",2,http://www.adelaidemetro.com.au/routes/tons,FF8030,ffffff,SEAFRD-NOAR-TONS-FLNDRS-N7
 W90,5,W90,Marion Centre Interchange to Paradise Interchange,"via Sturt Road, Bradley Grove, Daws Road, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W90M,5,W90M,Marion Centre Interchange to Marden,"Terminates at stop 13B Addison Avenue, Marden.",3,http://www.adelaidemetro.com.au/routes/W90,0033CC,ffffff,W90-W91
 W91,5,W91,St Marys to Marden,"via Cashel Street, Winston Avenue, City and Sixth Avenue.",3,http://www.adelaidemetro.com.au/routes/W91,0033CC,ffffff,W90-W91
