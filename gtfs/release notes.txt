@@ -16,4 +16,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Corrected some GA1 trips for 11th December which were displaying incorrect travel times.
+1) Some changes to GA sub buses due to the school holidays.
+
+2) Block data changes due to the school holidays.
