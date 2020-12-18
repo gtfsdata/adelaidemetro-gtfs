@@ -16,4 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added AO/AOX trips for December 17-19. These operate post-match only for cricket matches being held at Adelaide Oval.
+1) Implemented Christmas Holiday timetables.
