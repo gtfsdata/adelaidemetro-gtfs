@@ -459,6 +459,7 @@ AO19,5,AO19,Henley Beach to Adelaide Oval,"via Henley Beach Rd - all stops. Time
 AO2,5,AO2,St Agnes to Adelaide Oval,"via O-Bahn. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO2,FF8C0D,ffffff,
 AO20,5,AO20,Blair Athol to Adelaide Oval,"via Prospect Rd - all stops to stop 7 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO20,990000,ffffff,
 AO21,5,AO21,Aberfoyle Hub to Adelaide Oval,"via Black Rd and Goodwood Rd. Operates Crows games only. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO21,990000,ffffff,
+AO22,5,AO22,Aberfoyle Hub to Adelaide Oval,"via Happy Valley Dr and Goodwood Rd. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO22,990000,ffffff,
 AO23,5,AO23,Morphettville Depot to Adelaide Oval,"via Marion Rd. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO23,990000,ffffff,
 AO24,5,AO24,Mitcham Square to Adelaide Oval,"via Unley Rd - all stops to stop 1 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO24,0033CC,ffffff,
 AO25,5,AO25,Mitcham Square to Adelaide Oval,"via Fullarton Rd - all stops to stop 5 then express. Times stated are approximate.",3,http://www.adelaidemetro.com.au/routes/AO25,0033CC,ffffff,

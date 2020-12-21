@@ -16,4 +16,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented Christmas Holiday timetables.
+1) Added AO/AOX trips for cricket match at Adelaide Oval on December 28th.
+
+2) Fixed error displaying Gawler sub buses on December 28th.
