@@ -100,6 +100,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 263,5,263,Marion Centre Interchange to City,"via Dunrobin Road, Brighton Road and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/263,990000,ffffff,262-263-265-N262
 263A,5,263A,City to Warradale,"Terminates at stop 38 Dunrobin Road, Warradale. Service operates Sunday-Friday.",3,http://www.adelaidemetro.com.au/routes/263A,990000,ffffff,262-263-265-N262
 265,5,265,Marion Centre Interchange to City,"via Brighton Station, Glenelg Interchange and Anzac Highway. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
+265G,5,265G,City to Glenelg,"Terminates at Glenelg Interchange.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
 265W,5,265W,City to Somerton Park,"Terminates at Stop 28 Whyte Street, Somerton Park. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/265,990000,ffffff,262-263-265-N262
 271,5,271,Tea Tree Plaza Interchange to City,"via North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/271,0033CC,ffffff,271-273
 273,5,273,Paradise Interchange to City,"via Sudholz Road & North East Road. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/273,0033CC,ffffff,271-273
@@ -118,6 +119,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 300M,5,300M,Suburban Connector,"Terminates at Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 300U,5,300U,Suburban Connector,"Terminates at Flinders University, continues as route G10 to the city.",3,http://www.adelaidemetro.com.au/routes/300,990000,ffffff,300
 320,5,320,Aberfoyle Hub to Marion Centre Interchange,"via Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
+320G,5,320G,Aberfoyle Hub to Glenelg,"via Flinders Medical Centre and Marion Centre interchange",3,http://www.adelaidemetro.com.au/routes/320,990000,ffffff,G20-G20F-G20X-G21-G21F-G21X-G22X-320-N10-N21
 333,5,333,North Haven to Port Adelaide Interchange,"via Military Raod & Glanville Station. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/333,0033CC,ffffff,150-333
 361,5,361,Port Adelaide to Tea Tree Plaza,"via Grand Junction Road.",3,http://www.adelaidemetro.com.au/routes/361,990000,ffffff,361
 371,5,371,West Lakes Centre Interchange Clockwise Loop,"via Seaton, Frederick Road, Clark Terrace, Trimmer Parade & Military Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/371,0033CC,ffffff,J7-J8-371-372
@@ -271,10 +273,12 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 720,8,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 720H,8,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/720,FFCC00,000000,640-719-720
 721,8,721,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
+721A,8,721A,Noarlunga Centre Interchange to Old Reynella Interchange,"Termintes at Old Reynella Interchange.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721F,8,721F,Noarlunga Centre Interchange to City,"via Main South Reynella Interchange. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721F,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721R,8,721R,Flinders Medical Centre to Old Reynella Interchange,"via Main South Road.",3,http://www.adelaidemetro.com.au/routes/721,FFCC00,000000,721-721F-721X-T721-T721X-N721
 721X,8,721X,Noarlunga Centre Interchange to City,"Express between stop 40 Panalatinga Road & stop B1 Grote Street, City. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/721X,FFCC00,000000,721-721F-721X-T721-T721X-N721
 722,8,722,Noarlunga Centre Interchange to City,"via Old Reynella Interchange & Flinders Medical Centre. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/722,FFCC00,000000,722-722F-722X-T722
+722A,8,722A,Noarlunga Centre Interchange to Old Reynella Interchange,"Terminates at Old Reynella Interchange.",3,http://www.adelaidemetro.com.au/routes/722,FFCC00,000000,722-722F-722X-T722
 722F,8,722F,Noarlunga Centre Interchange to City,"via Old Reynella Interchange. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/722F,FFCC00,000000,722-722F-722X-T722
 722X,8,722X,Noarlunga Centre Interchange to City,"via Southern Expressway. Express service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/722X,FFCC00,000000,722-722F-722X-T722
 723F,8,723F,Colonnades Centre Interchange to City,"via Woodcroft Community Centre & South Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/723F,FFCC00,000000,723F-723X-733
@@ -497,11 +501,13 @@ G30,5,G30,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road
 G30F,5,G30F,Blackwood Interchange to City,"via Shepherds Hill Road & Goodwood Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G30F,990000,ffffff,600-601-605-G30F
 G40,5,G40,Golden Grove Interchange to Flinders University,"via O-Bahn, city & Goodwood Rd. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40,FF8C0D,ffffff,G40
 G40M,5,G40M,Flinders University to Tea Tree Plaza Interchange,"via city & O-Bahn. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/G40M,FF8C0D,ffffff,G40
-GA1,5,GA1,City to Salisbury,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
-GA2,5,GA2,City to Salisbury,"Train substitute. Limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
-GA3,5,GA3,City to Salisbury,"Train substitute. Limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA3,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
-GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
-GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+GA1,5,GA1,City to Gawler,"Train substitute service.",3,http://www.adelaidemetro.com.au/routes/GA1,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GA2,5,GA2,City to Gawler,"Train substitute. Limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GA2S,5,GA2S,City to Salisbury,"Train substitute. Limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA2,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GA3,5,GA3,City to Smithfield,"Train substitute. Limited stop service.",3,http://www.adelaidemetro.com.au/routes/GA3,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GA4,5,GA4,City to Gawler,"Train substitute. Express service.",3,http://www.adelaidemetro.com.au/routes/GA4,7030A0,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GAW,2,GAW,Gawler to City,"via Smithfield, Elizabeth, Salisbury & Mawson.",2,http://www.adelaidemetro.com.au/routes/gaw,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
+GAWC,2,GAWC,Gawler Central to City,"via Smithfield, Elizabeth, Salisbury & Mawson. Service operates 7 days.",2,http://www.adelaidemetro.com.au/routes/gawc,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
 GLAN,2,GLAN,Glanville to City,"via Port Adelaide, Woodville & Croydon.",2,http://www.adelaidemetro.com.au/routes/glan,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 GLNELG,3,GLNELG,Glenelg to Royal Adelaide Hospital,"via Brighton Road, Morphett Road, Marion Road, South Road, Greenhill Road, South Terrace, Victoria Square, King William Street, North Terrace & Port Road. Limited peak trams service the Entertainment Centre. Service operates 7 days.",0,http://www.adelaidemetro.com.au/routes/GLNELG,CB2C30,ffffff,GLNELG-BTANIC-FESTVL
 GRNG,2,GRNG,Grange to City,"via Seaton Park, Woodville & Croydon. Service operates 7 days.",2,http://www.adelaidemetro.com.au/routes/grng,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
@@ -558,7 +564,7 @@ N864,4,N864,After Midnight Saturday PM - Sunday AM Mount Barker to City,"via Hah
 NOAR,2,NOAR,Noarlunga to City,"via Hallett Cove, Brighton, Oaklands & Adelaide Showgrounds.",2,http://www.adelaidemetro.com.au/routes/noar,FF8030,ffffff,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 OSBORN,2,OSBORN,Osborne to City,"via Glanville, Port Adelaide & Woodville.",2,http://www.adelaidemetro.com.au/routes/osborn,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
 OUTHA,2,OUTHA,Outer Harbor to City,"via Glanville, Port Adelaide, Woodville & Croydon. Service operates 7 days.",2,http://www.adelaidemetro.com.au/routes/outha,0071CE,ffffff,GLAN-GRNG-OSBORN-OUTHA-G1-H1
-SALIS,2,SALIS,Salisbury to City,"Service operates Monday-Friday.",2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3
+SALIS,2,SALIS,Salisbury to City,"Service operates Monday-Friday.",2,http://www.adelaidemetro.com.au/routes/Gawler,C23C33,ffffff,GAWC-GAW-SALIS-GA1-GA2-GA3-GA4
 SEAFRD,2,SEAFRD,Seaford to City,"via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood.",2,http://www.adelaidemetro.com.au/routes/seafrd,FF8030,ffffff,SEAFRD-NOAR-FLNDRS-N3-N4-N7
 T228,5,T228,Smithfield Interchange to City,"via Main North Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/228,7030A0,ffffff,228-228F-228X-T228
 T721,8,T721,Noarlunga Centre Interchange to City,"via Southern Expressway & Main South Road. Limited stop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/T721,FFCC00,000000,721-721F-721X-T721-T721X-N721
