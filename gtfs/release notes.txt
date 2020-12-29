@@ -5,8 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-20201225 - Christmas Day
-20201228 - Proclamation Day Holiday
 20210101 - New Year's Day
 20210126 - Australia Day
 20210308 - Adelaide Cup Day
@@ -16,6 +14,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented service information for New Year's Eve.
+1) Implemented tram service information for New Year's Eve.
 
-2) Implemented changes to Gawler train/sub bus timetable.
+2) Added route 333 trips for December 29-31 timetable period.
+
+3) Some adjustments to calendar.txt and calendar_dates.txt files.
