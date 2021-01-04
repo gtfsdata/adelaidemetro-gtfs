@@ -9,13 +9,14 @@ Upcoming Public Holidays:
 20210126 - Australia Day
 20210308 - Adelaide Cup Day
 20210402 - Easter Good Friday
+20210405 - Easter Monday
+20210426 - Anzac Day Holiday
 20210614 - Queen's Birthday
-
+20211004 - Labour Day
+20211225 - Christmas Day
+20211228 - Proclamation Day Holiday
+20220101 - New Year's Day
 
 General Amendments:
 
-1) Implemented tram service information for New Year's Eve.
-
-2) Added route 333 trips for December 29-31 timetable period.
-
-3) Some adjustments to calendar.txt and calendar_dates.txt files.
+1) Implemented AO/AOX trips for the BBL match at Adelaide Oval on 5th January.
