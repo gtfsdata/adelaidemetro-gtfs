@@ -5,7 +5,6 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
-20210101 - New Year's Day
 20210126 - Australia Day
 20210308 - Adelaide Cup Day
 20210402 - Easter Good Friday
@@ -19,4 +18,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented AO/AOX trips for the BBL match at Adelaide Oval on 5th January.
+1) Implemented AO/AOX trips for the BBL match at Adelaide Oval on 8th and 11th January.
+
+2) Added extra 421 trips that are operating during the full Gawler train line closure.
+
+3) Updated route path for routes GA1, GA2, GA3 and GA4.
