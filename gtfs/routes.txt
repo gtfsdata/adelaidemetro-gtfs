@@ -327,7 +327,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 820,4,820,Burnside to City,"via Greenhill Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/820,006600,ffffff,820-821-822
 821,4,821,Carey Gully to City,"via Greenhill Road, and Burnside. Operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/821,006600,ffffff,820-821-822
 822,4,822,Stirling to City,"via Rangeview Dr, Carey Gully, Greenhill Road and Burnside. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/822,006600,ffffff,820-821-822
-823,4,823,Crafers to Cleland Wildlife Park,"via Mount Lofty. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/823,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
+823,4,823,Crafers to Cleland Wildlife Park,"via Mount Lofty. Service operates 7 days, except Christmas Day.",3,http://www.adelaidemetro.com.au/routes/823,006600,ffffff,823-840X-T840-T843-860F-863-T863-864-864F-N864
 830F,4,830F,Lobethal to City,"via Woodside, Oakbank, Balhannah, Verdun Junction & Crafers. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/830F,006600,ffffff,830F-834-835
 834,4,834,Verdun to Lobethal,"via Onkaparinga Valley Rd, Nairne Rd and Woodside. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/834,006600,ffffff,830F-834-835
 834A,4,834A,Lobethal to Verdun,"operates via Onkaparinga Valley Rd, bypassing Nairne and Riverview Rd.",3,http://www.adelaidemetro.com.au/routes/834,006600,ffffff,830F-834-835

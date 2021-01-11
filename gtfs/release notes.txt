@@ -18,8 +18,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented AO/AOX trips for the BBL match at Adelaide Oval on 8th and 11th January.
+1) Added Stop 56 Golden Grove Rd (both sides) for routes G40, 548 and 541.
 
-2) Added extra 421 trips that are operating during the full Gawler train line closure.
+2) Added Stop 27 Main South Rd - South East side to route 719 (down trips only).
 
-3) Updated route path for routes GA1, GA2, GA3 and GA4.
+3) Changed stop coordinates for Stop 28 Sturt Rd - North side.
