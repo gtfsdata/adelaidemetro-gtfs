@@ -18,8 +18,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added Stop 56 Golden Grove Rd (both sides) for routes G40, 548 and 541.
-
-2) Added Stop 27 Main South Rd - South East side to route 719 (down trips only).
-
-3) Changed stop coordinates for Stop 28 Sturt Rd - North side.
+1) Implemented stop changes on King William St, Adelaide. For more information please refer to this url: https://adelaidemetro.com.au/Announcements2/Service-updates/Stop-C2-and-C3-King-William-Street-closed-due-to-building-works
