@@ -18,4 +18,8 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented stop changes on King William St, Adelaide. For more information please refer to this url: https://adelaidemetro.com.au/Announcements2/Service-updates/Stop-C2-and-C3-King-William-Street-closed-due-to-building-works
+1) Implemented AO/AOX trips for BBL matches happening at Adelaide Oval on January 21, 24 and 25.
+
+2) Implemented partial Belair line closure January 21-26.
+
+3) Corrected issue in calendar_dates.txt
