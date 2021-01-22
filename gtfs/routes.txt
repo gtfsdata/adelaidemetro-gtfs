@@ -160,6 +160,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 481,51,481,Pooraka to Pooraka Primary & St Gabriels Primary School,"School Service. Via Ingle Farm & Gepps Cross.",3,http://www.adelaidemetro.com.au/routes/481,7030A0,ffffff,
 482,51,482,Elizabeth Interchange to Roma Mitchell Secondary College,"School Service. Via Pooraka, Mawson Lakes, Green Fields, Parafield Gardens, Salisbury, Elizabeth Vale & Elizabeth South.",3,http://www.adelaidemetro.com.au/routes/482,7030A0,ffffff,
 483,51,483,Our Lady of Sacred Heart College to Elizabeth Station,"School Service. Via Blair Athol, Gepps Cross, Green Fields, Parafield Gardens, Salisbury, Elizabeth Vale & Elizabeth South.",3,http://www.adelaidemetro.com.au/routes/483,7030A0,ffffff,
+484,5,484,Salisbury to Thomas More College,"School Service.",3,http://www.adelaidemetro.com.au/routes/484,7030A0,ffffff,484-485
+485,5,485,Mawson Lakes to Thomas More College,"School Service.",3,http://www.adelaidemetro.com.au/routes/485,7030A0,ffffff,484-485
+486,5,486,Elizabeth to Gawler,"School Service.",3,http://www.adelaidemetro.com.au/routes/486,7030A0,ffffff,486-487
+487,5,487,Gawler to Smithfield,"School Service.",3,http://www.adelaidemetro.com.au/routes/487,7030A0,ffffff,486-487
 491,5,491,Hewett Circuit,"via Gawler Station, Willaston & Gawler Town Centre. Clockwise loop Service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/491,7030A0,ffffff,491-492-493-494
 492A,5,492A,Gawler East Circuit,"via Gawler Station & Gawler Town Centre. Anti-Clockwise loop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/492A,7030A0,ffffff,491-492-493-494
 492C,5,492C,Gawler East Circuit,"via Gawler Station & Gawler Town Centre. Clockwise loop service. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/492C,7030A0,ffffff,491-492-493-494
