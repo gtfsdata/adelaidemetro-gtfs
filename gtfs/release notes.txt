@@ -16,17 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Saturday and Sunday Seaford train departing Adelaide at 5:30pm has been changed to depart at 5:35pm.
-
-2) Implemented the following stopping patterns/rules
-
-"W90 and W91 from the city will not service stop 3 Goodwood Road 4pm–6pm, Monday to Friday"
-"H30 & H30S buses from the city will not service stop 3 North Tce between 4pm-6pm Monday to Friday."
-"Selected H30 & H30S services departing stop E3 Currie Street, city between 4pm & 6pm do not set down between stop 1 North Terrace, city & stop 8A Portrush Road, Maylands"
-"300 & 300J anticlockwise buses will service stop 19A Portrush Rd. 300H buses terminate at stop 19 Portrush Rd."
-"300 will not service Stop 137 Portrush Rd between 4pm and 7pm weekdays"
-"167 and 168 timetable: Stop Z1 is not serviced between 4pm - 6pm Monday to Friday."
-
-3) Several trips have been made to operate on school days/school holidays only.
-
-4) There have been some daytype changes for various trips to accomodate operational needs.
+1) Various improvements have been made to the dataset including adding school term and school holiday trips.
