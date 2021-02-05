@@ -16,4 +16,26 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Various improvements have been made to the dataset including adding school term and school holiday trips.
+1) Several trips have been made to operate on school days/school holidays only.
+
+2) Timepoint for J1 trips has been changed from Stop 17A Military Rd to 17.
+
+3) Implemented the following stopping patterns/rules
+
+"202-203-209 Buses will not service stop 25 Hampstead Road when travelling to the city between 7am and 7pm,Monday to Friday"
+"178, 178M & 178X buses from the city will not service stop 17 between 4pm–6pm Monday–Friday"
+"Various O-Bahn routes service different zones at the interchanges during certain times of day. This has been reflected in the GTFS data"
+"541 trips that departs Golden Grove at 3:40pm weekdays nor travels via Surrey Farm Drive"
+"Implemented the times of day when 500-501-502 service stops along Sudholz Rd on weekdays"
+
+4) Implemented double division services for route 785.
+
+5) Implemented trip time changes for route 202 when it services Roma Mitchell Secondary College.
+
+6) Implemented trip time changes for route 890, 873, 673 .
+
+7) There have been some daytype changes for various trips to accomodate operational needs.
+
+8) Fixed issue with 600 ex Old Reynella @7:36am weekdays not servicing Blackwood High School.
+
+9) Improved shape data for route 837 ex Mt Barker at 16:24 on weekdays.
