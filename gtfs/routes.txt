@@ -267,10 +267,10 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 671,51,671,Fulham Gardens to Brighton Secondary School,"School Service. Via Seaton, Findon, Lockleys, Fulham, Henley Beach South, West Beach, Glenelg & Somerton Park.",3,http://www.adelaidemetro.com.au/routes/671,0033CC,ffffff,
 672,51,672,Le Fever High School to Taperoo,"School Service. Via Semaphore, Largs Bay, Largs North, Osborne & Outer Harbor.",3,http://www.adelaidemetro.com.au/routes/672,0033CC,ffffff,
 673,51,673,Fullarton to Blackwood Station,"School Service.",3,http://www.adelaidemetro.com.au/routes/639,0033CC,ffffff,
-681,8,681,Hallett Cove Beach Station to Flinders University,"via Hallett Cove Centre Interchange & Marion Centre Interchange.",3,http://www.adelaidemetro.com.au/routes/681,0095C8,FFFFFF,681-682-683
-681A,8,681A,Hallett Cove Beach Station to Hallett Cove,"via Hallett Cove Centre Interchange. Service operates Monday-Saturday.",3,http://www.adelaidemetro.com.au/routes/681,0095C8,FFFFFF,681-682-683
-682,8,682,Hallett Cove Beach Station to Sheidow Park,"via Hallett Cove Centre Interchange. Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/682,0095C8,FFFFFF,681-682-683
-683,8,683,Hallett Cove Beach Station to Hallett Cove South,"Service operates 7 days.",3,http://www.adelaidemetro.com.au/routes/683,0095C8,FFFFFF,681-682-683
+681,8,681,Hallett Cove Beach Station to Flinders University,"via Hallett Cove Centre Interchange & Marion Centre Interchange. Service operates 7 days. Roam Zone: From 7pm until last service daily, 681, 682 and 683 services from Hallett Cove Beach Station will travel via their regular route and drop you at your do",3,http://www.adelaidemetro.com.au/routes/681,0095C8,FFFFFF,681-682-683
+681A,8,681A,Hallett Cove Beach Station to Hallett Cove,"via Hallett Cove Centre Interchange. Service operates Monday-Saturday. Roam Zone: From 7pm until last service daily, 681, 682 and 683 services from Hallett Cove Beach Station will travel via their regular route and drop you at your door or as close as w",3,http://www.adelaidemetro.com.au/routes/681,0095C8,FFFFFF,681-682-683
+682,8,682,Hallett Cove Beach Station to Sheidow Park,"via Hallett Cove Centre Interchange. Service operates 7 days. Roam Zone: From 7pm until last service daily, 681, 682 and 683 services from Hallett Cove Beach Station will travel via their regular route and drop you at your door or as close as we can get",3,http://www.adelaidemetro.com.au/routes/682,0095C8,FFFFFF,681-682-683
+683,8,683,Hallett Cove Beach Station to Hallett Cove South,"Service operates 7 days. Roam Zone: From 7pm until last service daily, 681, 682 and 683 services from Hallett Cove Beach Station will travel via their regular route and drop you at your door or as close as we can get.",3,http://www.adelaidemetro.com.au/routes/683,0095C8,FFFFFF,681-682-683
 719,8,719,Flinders University to City,"via South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/719,0095C8,FFFFFF,640-719-720
 720,8,720,Old Reynella Interchange to City,"via Marion Centre Interchange and South Road. Service operates Monday-Friday.",3,http://www.adelaidemetro.com.au/routes/720,0095C8,FFFFFF,640-719-720
 720H,8,720H,Old Reynella Interchange to City,"Services Flinders Medical Centre.",3,http://www.adelaidemetro.com.au/routes/720,0095C8,FFFFFF,640-719-720
@@ -397,8 +397,8 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 929,51,929,The Heights High School to Fairview Park,"School Service. Via Modbury Heights, Redwood Park, Surrey Downs & Yatala Vale.",3,http://www.adelaidemetro.com.au/routes/929,FF8C0D,ffffff,
 930,51,930,Paradise to Mawson Lakes,"School Service. Via Windsor Garden, Gilles Plains, Ingle Farm & Pooraka.",3,http://www.adelaidemetro.com.au/routes/930,FF8C0D,ffffff,
 933,5,933,Tea Tree Plaza Interchange to The Elms Village,"via Smart Road and Wright Road.",3,http://www.adelaidemetro.com.au/routes/933,FF8C0D,ffffff,
-941,51,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,FF8C0D,ffffff,
-942,51,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,FF8C0D,ffffff,
+941,51,941,Roma Mitchell Secondary College to Mansfield Park,"School Service.",3,http://www.adelaidemetro.com.au/routes/941,990000,ffffff,
+942,51,942,Roma Mitchell Secondary College to Blair Athol,"School Service.",3,http://www.adelaidemetro.com.au/routes/942,990000,ffffff,
 949,51,949,Elizabeth to Adelaide Secondary School of English,"School Service. Via Salisbury, Pooraka and Blair Athol.",3,http://www.adelaidemetro.com.au/routes/949,990000,ffffff,
 950,51,950,Aberfoyle Park High School to Darlington,"School Service. Via Happy Valley, Aberfoyle Park & Flagstaff Hill",3,http://www.adelaidemetro.com.au/routes/950,990000,ffffff,
 951,51,951,City to Adelaide Secondary School of English,"School Service. Via King Willian Road to stop 17 Torrens Road.",3,http://www.adelaidemetro.com.au/routes/951,990000,ffffff,
