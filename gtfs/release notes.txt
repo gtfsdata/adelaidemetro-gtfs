@@ -16,18 +16,4 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Added Stop 18 Anzac Highway as a timepoint for N262 trips (up direction only).
-
-2) Fixed some issues with trip times for Torrens Transit school services.
-
-3) Implemented interchange zone changes for Salisbury Interchange.
-
-4) Added Stop 63 Victoria Rd - South side to route 653.
-
-5) Changed route colours for Outer South contract area, school routes 941 and 942, and 271, 273, 235, 238, 239 routes.
-
-6) Implemented new school stop for routes 662 and 664.
-
-7) 502 departing West Tce B1 at 14:20 follows this stop pattern: Currie St B1, C1, D3 & Grenfell St F2 & H2.
-
-8) 506 departing Currie St C1 at 14:27 follows this stop pattern: Currie St C1, D3 & Grenfell St G1 & H2.
+1) Added additional bus and tram services for Adelaide Fringe.
