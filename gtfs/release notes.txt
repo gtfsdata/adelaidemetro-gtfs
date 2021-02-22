@@ -5,6 +5,7 @@ The following is a list of changes and upcoming events:
 
 Upcoming Public Holidays:
 
+20210308 - Adelaide Cup
 20210402 - Easter Good Friday
 20210405 - Easter Monday
 20210426 - Anzac Day Holiday
@@ -16,4 +17,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented WOMAD shuttle bus route.
+1) Implemented Flinders/Seaford night closure (including adding N7 sub bus route).
+
+2) Changed Stop 28A Grange Rd to Stop 28 Grange Rd (both sides).
