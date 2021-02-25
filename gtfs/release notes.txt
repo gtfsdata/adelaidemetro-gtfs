@@ -17,6 +17,6 @@ Upcoming Public Holidays:
 
 General Amendments:
 
-1) Implemented Flinders/Seaford night closure (including adding N7 sub bus route).
+1) Implemented Grange/Outr Harbor night closures.
 
-2) Changed Stop 28A Grange Rd to Stop 28 Grange Rd (both sides).
+2) Some changes have been implemented for WOMAD Shuttle service.
